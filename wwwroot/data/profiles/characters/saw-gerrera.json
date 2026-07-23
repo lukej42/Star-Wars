@@ -1,0 +1,63 @@
+{
+  "overview": "Saw Gerrera stands among the saga's most memorable figures, known throughout the galaxy as a partisan leader. An Onderonian freedom fighter whose extremist methods made him both ally and liability to the Rebellion. From backwater cantinas to senate chambers and fleet command centers, Saw Gerrera's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Saw Gerrera are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. An Onderonian freedom fighter whose extremist methods made him both ally and liability to the Rebellion. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Saw Gerrera was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Saw Gerrera tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Saw Gerrera. Some entries flatter, others condemn, but historians agree that ignoring Saw Gerrera makes any chronicle of the era incomplete.\n\nModern scholars cite Saw Gerrera when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Saw Gerrera demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a partisan leader, Saw Gerrera connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Saw Gerrera alive in holodramas, recruitment posters, and cantina songs. The color #78716c often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Saw Gerrera marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Saw Gerrera in galactic records",
+    "Rose to prominence as a partisan leader during the Imperial Era",
+    "Survived or orchestrated a pivotal encounter tied to Saw Gerrera's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Saw Gerrera's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the First Order",
+    "Inspired later generations who retold Saw Gerrera's choices in myth and media"
+  ],
+  "affiliations": [
+    "Partisan Leader",
+    "Senate delegations",
+    "Royal courts",
+    "Diplomatic corps",
+    "Relief foundations",
+    "Allied systems"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Saw Gerrera enters the historical record as a partisan leader"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Builds a reputation during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Acts decisively in events tied to an onderonian freedom fighter whose extremist methods made him both ally and liability to the rebellion"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Plays a role in campaigns associated with the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated and commemorated across the Ancient Era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/saw-gerrera.svg",
+      "caption": "Portrait of Saw Gerrera"
+    },
+    {
+      "path": "/images/characters/saw-gerrera-scene.svg",
+      "caption": "Scene from the life of Saw Gerrera"
+    },
+    {
+      "path": "/images/characters/saw-gerrera-emblem.svg",
+      "caption": "Insignia associated with Saw Gerrera"
+    }
+  ]
+}

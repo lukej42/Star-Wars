@@ -1,0 +1,62 @@
+{
+  "overview": "Alderaan is remembered across the galaxy as a core worlds whose story intersects with pivotal eras of Star Wars history. A peaceful Core world of snow-capped mountains, verdant valleys, and cultured cities. Scholars of the Core traditions cite Alderaan when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Alderaan within the broader tapestry of the Core Worlds, long before the conflicts that would define modern galactic politics. A peaceful Core world of snow-capped mountains, verdant valleys, and cultured cities. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Alderaan was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Alderaan's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Alderaan serves as a lens for understanding the core worlds and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Alderaan embodies the ideals and contradictions associated with the core worlds. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Alderaan alive in holodramas, academy lectures, and pilgrim routes. The accent color #6aafd4 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Alderaan marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Alderaan within galactic records",
+    "Played a key role during the First Order in Core Worlds",
+    "Survived or shaped a major battle linked to Alderaan's reputation",
+    "Formed alliances that reflected the priorities of the core worlds",
+    "Confronted rivals who challenged Alderaan's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Alderaan's choices"
+  ],
+  "affiliations": [
+    "Core Worlds",
+    "Allies of Alderaan",
+    "Galactic historians' archives",
+    "Core networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "Alderaan enters historical record as core worlds"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a peaceful core world of snow-capped mountains, verdant valleys, and cultured cities"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as institutions around Alderaan fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Commemorated in archives celebrating Core Worlds"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/alderaan.svg",
+      "caption": "Globe view of Alderaan"
+    },
+    {
+      "path": "/images/planets/alderaan-scene.svg",
+      "caption": "Surface landscape of Alderaan"
+    },
+    {
+      "path": "/images/planets/alderaan-chart.svg",
+      "caption": "Star chart marker for Alderaan"
+    }
+  ]
+}

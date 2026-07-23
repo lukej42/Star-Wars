@@ -1,0 +1,52 @@
+{
+  "overview": "Grand Admiral Thrawn is a brilliant Chiss tactician who rose through the Imperial Navy by studying art, culture, and enemy psychology. His blue skin and red eyes marked him as alien in a human-dominated Empire, yet his victories made him one of Palpatine's most dangerous servants.",
+  "history": "Exiled from the Unknown Regions, Thrawn offered his services to the Empire and quickly proved his strategic genius against insurgents and rival officers. He commanded the Seventh Fleet and dismantled Rebel cells with surgical precision.\n\nDuring the Liberation of Lothal he faced Ezra Bridger and the Ghost crew, ultimately disappearing with Ezra into hyperspace aboard a purrgil swarm—a fate that removed him from Imperial politics but not from galactic consequence.\n\nYears later Thrawn returned from exile in the Unknown Regions to aid the Imperial remnants and Morgan Elsbeth, threatening the New Republic's fragile peace.\n\nHis methodical cruelty and respect for worthy opponents made him a unique villain among Imperial leadership.",
+  "significance": "Thrawn expanded Star Wars storytelling into the Unknown Regions and proved the Empire relied on intellect as much as terror.\n\nHis study of art as military intelligence introduced a distinctive tactical philosophy rarely seen in space opera villains.\n\nAs one of the few non-human Imperial grand admirals, he highlights the Empire's hypocrisy and pragmatic exceptions.",
+  "notableEvents": [
+    "Joined the Imperial Navy and rapidly earned command rank",
+    "Led the Seventh Fleet against Lothal and Phoenix Squadron",
+    "Vanished with Ezra Bridger via purrgil during the Liberation of Lothal",
+    "Returned from the Unknown Regions in the New Republic era",
+    "Allied with Morgan Elsbeth and the Nightsister remnant",
+    "Threatened the New Republic from the shadows of Peridea"
+  ],
+  "affiliations": [
+    "Chiss Ascendancy",
+    "Galactic Empire",
+    "Seventh Fleet",
+    "Imperial Remnant",
+    "Night Troopers"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Entered Imperial service and rose to Grand Admiral"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Commanded the siege of Lothal"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Disappeared with Ezra Bridger in the purrgil jump"
+    },
+    {
+      "era": "New Republic",
+      "event": "Re-emerged as a leader of Imperial remnants"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/thrawn.svg",
+      "caption": "Portrait of Thrawn"
+    },
+    {
+      "path": "/images/characters/thrawn-scene.svg",
+      "caption": "Scene from the life of Thrawn"
+    },
+    {
+      "path": "/images/characters/thrawn-emblem.svg",
+      "caption": "Insignia associated with Thrawn"
+    }
+  ]
+}

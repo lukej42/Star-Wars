@@ -1,0 +1,412 @@
+﻿@using StarWars.Data
+@inject NavigationManager Navigation
+
+<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">Star Wars</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="nav flex-column">
+        <div class="nav-section nav-section-top">
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                    <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+                </NavLink>
+            </div>
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="galaxy-map">
+                    <span class="bi bi-galaxy-map-nav-menu" aria-hidden="true"></span> Galaxy Map
+                </NavLink>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileFactions">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsFactionRoute ? "active" : null)"
+                        @onclick="ToggleMobileFactions">
+                    <span class="bi bi-factions-nav-menu" aria-hidden="true"></span> Factions
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileFactionsOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel">
+                        @foreach (var faction in FactionData.Factions)
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-faction-link" href="@faction.Route" @onclick="CloseMobileNav">
+                                <span class="nav-faction-dot" style="background-color: @faction.Color" aria-hidden="true"></span>
+                                @faction.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileCharacters">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsCharacterDirectoryRoute ? "active" : null)"
+                        @onclick="ToggleMobileCharacters">
+                    <span class="bi bi-characters-directory-nav-menu" aria-hidden="true"></span> Characters Directory
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileCharactersOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                        <NavLink class="nav-link nav-flyout-link nav-character-link nav-all-characters-link" href="all-characters" @onclick="CloseMobileNav">
+                            <span class="bi bi-all-characters-nav-menu" aria-hidden="true"></span>
+                            All Characters
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var character in CharacterData.Characters.OrderBy(character => character.Name))
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-character-link" href="@character.Route" @onclick="CloseMobileNav">
+                                <span class="nav-character-dot" style="background-color: @character.Color" aria-hidden="true"></span>
+                                @character.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileJedi">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsJediDirectoryRoute ? "active" : null)"
+                        @onclick="ToggleMobileJedi">
+                    <span class="bi bi-jedi-directory-nav-menu" aria-hidden="true"></span> Jedi Directory
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileJediOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                        <NavLink class="nav-link nav-flyout-link nav-jedi-link nav-all-jedi-link" href="all-jedi" @onclick="CloseMobileNav">
+                            <span class="bi bi-all-jedi-nav-menu" aria-hidden="true"></span>
+                            All Jedi
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var jedi in JediData.Members.OrderBy(jedi => jedi.Name))
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-jedi-link" href="@jedi.Route" @onclick="CloseMobileNav">
+                                <span class="nav-jedi-dot" style="background-color: @jedi.Color" aria-hidden="true"></span>
+                                @jedi.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileSith">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsSithDirectoryRoute ? "active" : null)"
+                        @onclick="ToggleMobileSith">
+                    <span class="bi bi-sith-directory-nav-menu" aria-hidden="true"></span> Sith Directory
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileSithOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                        <NavLink class="nav-link nav-flyout-link nav-sith-link nav-all-sith-link" href="all-sith" @onclick="CloseMobileNav">
+                            <span class="bi bi-all-sith-nav-menu" aria-hidden="true"></span>
+                            All Sith
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var sith in SithData.Members.OrderBy(sith => sith.Name))
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-sith-link" href="@sith.Route" @onclick="CloseMobileNav">
+                                <span class="nav-sith-dot" style="background-color: @sith.Color" aria-hidden="true"></span>
+                                @sith.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobilePlanets">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsPlanetDirectoryRoute ? "active" : null)"
+                        @onclick="ToggleMobilePlanets">
+                    <span class="bi bi-planets-directory-nav-menu" aria-hidden="true"></span> Planets Directory
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobilePlanetsOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                        <NavLink class="nav-link nav-flyout-link nav-planet-link nav-all-planets-link" href="all-planets" @onclick="CloseMobileNav">
+                            <span class="bi bi-all-planets-nav-menu" aria-hidden="true"></span>
+                            All Planets
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var planet in GalaxyData.Planets.OrderBy(planet => planet.Name))
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-planet-link" href="@planet.Route" @onclick="CloseMobileNav">
+                                <span class="nav-planet-dot" style="background-color: @planet.Color" aria-hidden="true"></span>
+                                @planet.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileShips">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsShipDirectoryRoute ? "active" : null)"
+                        @onclick="ToggleMobileShips">
+                    <span class="bi bi-ships-directory-nav-menu" aria-hidden="true"></span> Ships Directory
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileShipsOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                        <NavLink class="nav-link nav-flyout-link nav-ship-link nav-all-ships-link" href="all-ships" @onclick="CloseMobileNav">
+                            <span class="bi bi-all-ships-nav-menu" aria-hidden="true"></span>
+                            All Ships
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var ship in ShipData.Ships.OrderBy(ship => ship.Name))
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-ship-link" href="@ship.Route" @onclick="CloseMobileNav">
+                                <span class="nav-ship-dot" style="background-color: @ship.Color" aria-hidden="true"></span>
+                                @ship.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+    private bool mobileFactionsOpen;
+    private bool mobileCharactersOpen;
+    private bool mobileJediOpen;
+    private bool mobileSithOpen;
+    private bool mobilePlanetsOpen;
+    private bool mobileShipsOpen;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private bool IsFactionRoute =>
+        Navigation.Uri.Contains("/factions/", StringComparison.OrdinalIgnoreCase);
+
+    private bool IsCharacterDirectoryRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri is "all-characters")
+            {
+                return true;
+            }
+
+            return CharacterData.Characters.Any(character =>
+                uri.Equals(character.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{character.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private bool IsJediDirectoryRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri is "all-jedi")
+            {
+                return true;
+            }
+
+            return JediData.Members.Any(jedi =>
+                uri.Equals(jedi.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{jedi.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private bool IsSithDirectoryRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri is "all-sith")
+            {
+                return true;
+            }
+
+            return SithData.Members.Any(sith =>
+                uri.Equals(sith.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{sith.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private bool IsPlanetDirectoryRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri is "all-planets")
+            {
+                return true;
+            }
+
+            return GalaxyData.Planets.Any(planet =>
+                uri.Equals(planet.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{planet.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private bool IsShipDirectoryRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri is "all-ships")
+            {
+                return true;
+            }
+
+            return ShipData.Ships.Any(ship =>
+                uri.Equals(ship.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{ship.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+
+    private void ToggleMobileFactions()
+    {
+        mobileFactionsOpen = !mobileFactionsOpen;
+        if (mobileFactionsOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileFactionsOpen));
+        }
+    }
+
+    private void ToggleMobileCharacters()
+    {
+        mobileCharactersOpen = !mobileCharactersOpen;
+        if (mobileCharactersOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileCharactersOpen));
+        }
+    }
+
+    private void ToggleMobileJedi()
+    {
+        mobileJediOpen = !mobileJediOpen;
+        if (mobileJediOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileJediOpen));
+        }
+    }
+
+    private void ToggleMobileSith()
+    {
+        mobileSithOpen = !mobileSithOpen;
+        if (mobileSithOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileSithOpen));
+        }
+    }
+
+    private void ToggleMobilePlanets()
+    {
+        mobilePlanetsOpen = !mobilePlanetsOpen;
+        if (mobilePlanetsOpen)
+        {
+            CloseOtherFlyouts(nameof(mobilePlanetsOpen));
+        }
+    }
+
+    private void ToggleMobileShips()
+    {
+        mobileShipsOpen = !mobileShipsOpen;
+        if (mobileShipsOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileShipsOpen));
+        }
+    }
+
+    private void CloseOtherFlyouts(string except)
+    {
+        if (except != nameof(mobileFactionsOpen))
+        {
+            mobileFactionsOpen = false;
+        }
+
+        if (except != nameof(mobileCharactersOpen))
+        {
+            mobileCharactersOpen = false;
+        }
+
+        if (except != nameof(mobileJediOpen))
+        {
+            mobileJediOpen = false;
+        }
+
+        if (except != nameof(mobileSithOpen))
+        {
+            mobileSithOpen = false;
+        }
+
+        if (except != nameof(mobilePlanetsOpen))
+        {
+            mobilePlanetsOpen = false;
+        }
+
+        if (except != nameof(mobileShipsOpen))
+        {
+            mobileShipsOpen = false;
+        }
+    }
+
+    private void CloseMobileFactions()
+    {
+        mobileFactionsOpen = false;
+    }
+
+    private void CloseMobileCharacters()
+    {
+        mobileCharactersOpen = false;
+    }
+
+    private void CloseMobileJedi()
+    {
+        mobileJediOpen = false;
+    }
+
+    private void CloseMobileSith()
+    {
+        mobileSithOpen = false;
+    }
+
+    private void CloseMobilePlanets()
+    {
+        mobilePlanetsOpen = false;
+    }
+
+    private void CloseMobileShips()
+    {
+        mobileShipsOpen = false;
+    }
+
+    private void CloseMobileNav()
+    {
+        collapseNavMenu = true;
+        mobileFactionsOpen = false;
+        mobileCharactersOpen = false;
+        mobileJediOpen = false;
+        mobileSithOpen = false;
+        mobilePlanetsOpen = false;
+        mobileShipsOpen = false;
+    }
+}

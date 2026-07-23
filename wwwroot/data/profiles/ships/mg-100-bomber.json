@@ -1,0 +1,63 @@
+{
+  "overview": "The MG-100 StarFortress is a heavy bomber whose service history spans First Order (34 ABY). A Resistance bomber that sacrificed itself to destroy the First Order Dreadnought Supremacy above D'Qar. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~120 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the MG-100 StarFortress during the political tensions that defined First Order (34 ABY). Engineers prioritised capabilities suited to its role as a heavy bomber, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the MG-100 StarFortress entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A Resistance bomber that sacrificed itself to destroy the First Order Dreadnought Supremacy above D'Qar. Veterans praised its reliability under fire while analysts debated whether mass production at ~120 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the heavy bomber could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the MG-100 StarFortress symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The MG-100 StarFortress illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its heavy bomber layout influenced successor designs long after production lines fell silent.\n\nApproximately ~120 units hulls served during First Order (34 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the MG-100 StarFortress remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during First Order (34 ABY)",
+    "Estimated production run of ~120 units",
+    "Deployed in fleet actions tied to a resistance bomber that sacrificed itself to destroy the first order dreadnought supremacy above d'qar",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating heavy bomber crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Resistance",
+    "Heavy Bomber fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "MG-100 StarFortress design approved and prototype tested"
+    },
+    {
+      "era": "New Republic",
+      "event": "Mass production reaches ~120 units across active shipyards"
+    },
+    {
+      "era": "First Order",
+      "event": "First major fleet deployment of the heavy bomber"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Notable battle honour linked to MG-100 StarFortress class actions"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "High Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/mg-100-bomber.svg",
+      "caption": "Profile view of the MG-100 StarFortress"
+    },
+    {
+      "path": "/images/ships/mg-100-bomber-scene.svg",
+      "caption": "Combat deployment — MG-100 StarFortress"
+    },
+    {
+      "path": "/images/ships/mg-100-bomber-blueprint.svg",
+      "caption": "Technical schematic — MG-100 StarFortress"
+    }
+  ]
+}

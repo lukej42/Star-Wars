@@ -1,0 +1,63 @@
+{
+  "overview": "Tech stands among the saga's most memorable figures, known throughout the galaxy as a clone commando. The Bad Batch's genius technician who could slice systems, decode languages, and engineer solutions under fire. From backwater cantinas to senate chambers and fleet command centers, Tech's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Tech are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. The Bad Batch's genius technician who could slice systems, decode languages, and engineer solutions under fire. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Tech was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Tech tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Tech. Some entries flatter, others condemn, but historians agree that ignoring Tech makes any chronicle of the era incomplete.\n\nModern scholars cite Tech when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Tech demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a clone commando, Tech connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Tech alive in holodramas, recruitment posters, and cantina songs. The color #0ea5e9 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Tech marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Tech in galactic records",
+    "Rose to prominence as a clone commando during the Imperial Era",
+    "Survived or orchestrated a pivotal encounter tied to Tech's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Tech's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the First Order",
+    "Inspired later generations who retold Tech's choices in myth and media"
+  ],
+  "affiliations": [
+    "Clone Commando",
+    "Independent agents",
+    "Allied factions",
+    "Local militias",
+    "Trade consortiums",
+    "Historians' guilds"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Tech enters the historical record as a clone commando"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Builds a reputation during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Acts decisively in events tied to the bad batch's genius technician who could slice systems, decode languages, and engineer solutions under fire"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Plays a role in campaigns associated with the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated and commemorated across the Ancient Era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/tech.svg",
+      "caption": "Portrait of Tech"
+    },
+    {
+      "path": "/images/characters/tech-scene.svg",
+      "caption": "Scene from the life of Tech"
+    },
+    {
+      "path": "/images/characters/tech-emblem.svg",
+      "caption": "Insignia associated with Tech"
+    }
+  ]
+}

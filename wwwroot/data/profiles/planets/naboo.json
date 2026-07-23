@@ -1,0 +1,61 @@
+{
+  "overview": "Naboo is a pastoral Core world of rolling plains, great lakes, and underwater Gungan cities. Known for art, diplomacy, and constitutional monarchy, it produced Queen Amidala and Emperor Palpatine—linking beauty and idealism with the seeds of galactic tyranny.",
+  "history": "Human Naboo colonists and the amphibious Gungans long shared the world uneasily until the Trade Federation invasion forced Queen Amidala to forge an alliance with Boss Nass. The combined assault on Theed ended the blockade and introduced Anakin Skywalker to the Jedi.\n\nSenator Palpatine leveraged Naboo's crisis to become Supreme Chancellor, beginning his  ascent while his homeworld remained a symbol of Republic virtue.\n\nDuring the Clone Wars, Naboo hosted diplomatic summits and faced Separatist schemes, including attempts to exploit Gungan traditions.\n\nUnder the Empire, Naboo was occupied lightly but remembered as Palpatine's birthplace, a fact the New Republic wrestled with when rebuilding identity.",
+  "significance": "Naboo's aesthetic—rococo architecture and lush landscapes—contrasts with war, highlighting what the Republic claimed to protect.\n\nThe Gungan-human alliance models cooperation across deep cultural divides, a theme repeated when Naboo sends aid to other worlds.\n\nPolitically, Naboo's elective monarchy and Palpatine's origin make it a case study in how democratic ideals can coexist with hidden authoritarian ambition.",
+  "notableEvents": [
+    "Trade Federation blockaded and invaded Naboo",
+    "Queen Amidala retook Theed with Gungan allies at the Battle of Naboo",
+    "Hosted a Clone Wars peace conference at the Varykino lake retreat",
+    "Was targeted by Separatist bioweapon and cult plots",
+    "Celebrated the end of the Empire with liberation festivals",
+    "Produced Senator and Chancellor Sheev Palpatine",
+    "Maintained Gungan-human shared governance after the invasion"
+  ],
+  "affiliations": [
+    "Royal House of Naboo",
+    "Gungan Grand Army",
+    "Galactic Republic",
+    "Galactic Empire (reluctantly)",
+    "New Republic"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Human settlers and Gungans established shared world"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Trade Federation invasion sparked galactic crisis"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Hosted diplomacy amid Separatist threats"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Lived under subtle Imperial occupation"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Supported Rebellion sympathizers quietly"
+    },
+    {
+      "era": "New Republic",
+      "event": "Rebuilt reputation apart from Palpatine's shadow"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/naboo-space.png",
+      "caption": "Globe view of Naboo"
+    },
+    {
+      "path": "/images/planets/naboo-scene.svg",
+      "caption": "Surface landscape of Naboo"
+    },
+    {
+      "path": "/images/planets/naboo-chart.svg",
+      "caption": "Star chart marker for Naboo"
+    }
+  ]
+}

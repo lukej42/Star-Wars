@@ -1,0 +1,62 @@
+{
+  "overview": "Exegol is remembered across the galaxy as a unknown regions whose story intersects with pivotal eras of Star Wars history. A hidden Sith world of eternal darkness where Palpatine rebuilt his final fleet. Scholars of the Unknown traditions cite Exegol when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Exegol within the broader tapestry of the Unknown Regions, long before the conflicts that would define modern galactic politics. A hidden Sith world of eternal darkness where Palpatine rebuilt his final fleet. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Exegol was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Exegol's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Exegol serves as a lens for understanding the unknown regions and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Exegol embodies the ideals and contradictions associated with the unknown regions. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Exegol alive in holodramas, academy lectures, and pilgrim routes. The accent color #1a1a2a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Exegol marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Exegol within galactic records",
+    "Played a key role during the Clone Wars in Unknown Regions",
+    "Survived or shaped a major battle linked to Exegol's reputation",
+    "Formed alliances that reflected the priorities of the unknown regions",
+    "Confronted rivals who challenged Exegol's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Exegol's choices"
+  ],
+  "affiliations": [
+    "Unknown Regions",
+    "Allies of Exegol",
+    "Galactic historians' archives",
+    "Unknown networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Exegol enters historical record as unknown regions"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Participates in a pivotal campaign during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Becomes widely known for actions tied to a hidden sith world of eternal darkness where palpatine rebuilt his final fleet"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Exegol fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Unknown Regions"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/exegol.svg",
+      "caption": "Globe view of Exegol"
+    },
+    {
+      "path": "/images/planets/exegol-scene.svg",
+      "caption": "Surface landscape of Exegol"
+    },
+    {
+      "path": "/images/planets/exegol-chart.svg",
+      "caption": "Star chart marker for Exegol"
+    }
+  ]
+}

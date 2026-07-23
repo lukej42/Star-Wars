@@ -1,0 +1,52 @@
+{
+  "overview": "Boba Fett is the silent, armor-clad bounty hunter whose reputation was built on fear, precision, and the legacy of his father Jango Fett. Clone of the Mandalorian template and survivor of the Sarlacc, he evolved from Imperial enforcer to crime lord of Mos Espa.",
+  "history": "Witnessing Jango's death on Geonosis left Boba obsessed with honor, credits, and the Mandalorian armor his father wore. He quickly became the galaxy's most feared hunter, working for Jabba the Hutt and the Empire alike.\n\nTracking Han Solo to Bespin, Boba delivered the frozen smuggler to Jabba and met his apparent end in the Sarlacc pit on Tatooine—though he survived through sheer will and beskar.\n\nDecades later Boba reclaimed his armor from Din Djarin, took over Jabba's former territory, and ruled Mos Espa with Fennec Shand at his side, balancing brutality with pragmatic stability.\n\nHis story ties together clone legacy, Mandalorian heritage, and the underworld economics of the Outer Rim.",
+  "significance": "Boba Fett's minimal screen time in the original trilogy paradoxically made him a fan icon, proving mystique can outweigh dialogue.\n\nHe embodies the mercenary ethic of the galaxy's margins—loyalty sold to the highest bidder until personal honor intervenes.\n\nHis survival and later rule on Tatooine show how Empire-era hunters adapted to New Republic power vacuums.",
+  "notableEvents": [
+    "Witnessed Jango Fett's death during the Battle of Geonosis",
+    "Tracked Han Solo and delivered him to Jabba the Hutt",
+    "Survived the Sarlacc pit on Tatooine",
+    "Reclaimed his father's Mandalorian armor",
+    "Became daimyo of Mos Espa and Jabba's former territories",
+    "Allied with Din Djarin against Pyke Syndicate forces"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Jabba's criminal empire",
+    "Fennec Shand's syndicate",
+    "Mandalorian armor tradition",
+    "Pyke Syndicate ( enemy )"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Lost Jango Fett and began his bounty hunting career"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Captured Han Solo for Jabba the Hutt"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Fell into the Sarlacc and was presumed dead"
+    },
+    {
+      "era": "New Republic",
+      "event": "Reclaimed armor and seized control of Mos Espa"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/boba-fett.svg",
+      "caption": "Portrait of Boba Fett"
+    },
+    {
+      "path": "/images/characters/boba-fett-scene.svg",
+      "caption": "Scene from the life of Boba Fett"
+    },
+    {
+      "path": "/images/characters/boba-fett-emblem.svg",
+      "caption": "Insignia associated with Boba Fett"
+    }
+  ]
+}

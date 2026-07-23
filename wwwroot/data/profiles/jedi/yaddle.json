@@ -1,0 +1,62 @@
+{
+  "overview": "Yaddle is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A member of Yoda's species who served on the Jedi Council before the Clone Wars. Scholars of the Jedi traditions cite Yaddle when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Yaddle within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A member of Yoda's species who served on the Jedi Council before the Clone Wars. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Yaddle was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Yaddle's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Yaddle serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Yaddle embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Yaddle alive in holodramas, academy lectures, and pilgrim routes. The accent color #22c55e often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Yaddle marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Yaddle within galactic records",
+    "Played a key role during the Clone Wars in Jedi Master",
+    "Survived or shaped a major battle linked to Yaddle's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Yaddle's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Yaddle's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Yaddle",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Yaddle enters historical record as jedi master"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Participates in a pivotal campaign during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Becomes widely known for actions tied to a member of yoda's species who served on the jedi council before the clone wars"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Yaddle fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/yaddle.svg",
+      "caption": "Portrait of Yaddle"
+    },
+    {
+      "path": "/images/jedi/yaddle-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Yaddle"
+    },
+    {
+      "path": "/images/jedi/yaddle-emblem.svg",
+      "caption": "Jedi Order emblem associated with Yaddle"
+    }
+  ]
+}

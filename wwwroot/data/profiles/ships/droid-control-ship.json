@@ -1,0 +1,63 @@
+{
+  "overview": "The Droid Control Ship is a command sphere whose service history spans Clone Wars (32–19 BBY). A Trade Federation sphere that relayed orders to droid armies across entire invasion fleets during the Naboo blockade. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~50 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Droid Control Ship during the political tensions that defined Clone Wars (32–19 BBY). Engineers prioritised capabilities suited to its role as a command sphere, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Droid Control Ship entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A Trade Federation sphere that relayed orders to droid armies across entire invasion fleets during the Naboo blockade. Veterans praised its reliability under fire while analysts debated whether mass production at ~50 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the command sphere could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Droid Control Ship symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Droid Control Ship illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its command sphere layout influenced successor designs long after production lines fell silent.\n\nApproximately ~50 units hulls served during Clone Wars (32–19 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Droid Control Ship remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars (32–19 BBY)",
+    "Estimated production run of ~50 units",
+    "Deployed in fleet actions tied to a trade federation sphere that relayed orders to droid armies across entire invasion fleets during the naboo blockade",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating command sphere crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Trade Federation",
+    "Command Sphere fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Droid Control Ship design approved and prototype tested"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Mass production reaches ~50 units across active shipyards"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "First major fleet deployment of the command sphere"
+    },
+    {
+      "era": "New Republic",
+      "event": "Notable battle honour linked to Droid Control Ship class actions"
+    },
+    {
+      "era": "First Order",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/droid-control-ship.svg",
+      "caption": "Profile view of the Droid Control Ship"
+    },
+    {
+      "path": "/images/ships/droid-control-ship-scene.svg",
+      "caption": "Combat deployment — Droid Control Ship"
+    },
+    {
+      "path": "/images/ships/droid-control-ship-blueprint.svg",
+      "caption": "Technical schematic — Droid Control Ship"
+    }
+  ]
+}

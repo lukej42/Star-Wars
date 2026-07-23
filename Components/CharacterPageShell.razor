@@ -1,0 +1,33 @@
+<div class="character-page" style="--character-accent: @AccentColor">
+    <figure class="character-page-portrait-wrap">
+        <img class="character-page-portrait"
+             src="@ImagePath"
+             alt="@($"Cartoon portrait of {Name}")"
+             loading="lazy" />
+    </figure>
+    <div class="character-page-body">
+        <h1>@Name</h1>
+        @if (!string.IsNullOrWhiteSpace(Subtitle))
+        {
+            <p class="planet-region">@Subtitle</p>
+        }
+        <p class="character-page-description">@Description</p>
+    </div>
+</div>
+
+@code {
+    [Parameter, EditorRequired]
+    public string Name { get; set; } = string.Empty;
+
+    [Parameter, EditorRequired]
+    public string ImagePath { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Subtitle { get; set; } = string.Empty;
+
+    [Parameter, EditorRequired]
+    public string Description { get; set; } = string.Empty;
+
+    [Parameter]
+    public string AccentColor { get; set; } = "#7eb8ff";
+}

@@ -1,0 +1,62 @@
+{
+  "overview": "Cin Drallig is remembered across the galaxy as a jedi battlemaster whose story intersects with pivotal eras of Star Wars history. The Temple's lightsaber combat instructor who valiantly defended the Jedi Temple during Order 66. Scholars of the Jedi traditions cite Cin Drallig when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Cin Drallig within the broader tapestry of the Jedi Battlemaster, long before the conflicts that would define modern galactic politics. The Temple's lightsaber combat instructor who valiantly defended the Jedi Temple during Order 66. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Cin Drallig was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Cin Drallig's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Cin Drallig serves as a lens for understanding the jedi battlemaster and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Cin Drallig embodies the ideals and contradictions associated with the jedi battlemaster. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Cin Drallig alive in holodramas, academy lectures, and pilgrim routes. The accent color #3b82f6 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Cin Drallig marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Cin Drallig within galactic records",
+    "Played a key role during the Old Republic in Jedi Battlemaster",
+    "Survived or shaped a major battle linked to Cin Drallig's reputation",
+    "Formed alliances that reflected the priorities of the jedi battlemaster",
+    "Confronted rivals who challenged Cin Drallig's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Cin Drallig's choices"
+  ],
+  "affiliations": [
+    "Jedi Battlemaster",
+    "Allies of Cin Drallig",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Cin Drallig enters historical record as jedi battlemaster"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to the temple's lightsaber combat instructor who valiantly defended the jedi temple during order 66"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as institutions around Cin Drallig fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated by scholars of the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Jedi Battlemaster"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/cin-drallig.svg",
+      "caption": "Portrait of Cin Drallig"
+    },
+    {
+      "path": "/images/jedi/cin-drallig-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Cin Drallig"
+    },
+    {
+      "path": "/images/jedi/cin-drallig-emblem.svg",
+      "caption": "Jedi Order emblem associated with Cin Drallig"
+    }
+  ]
+}

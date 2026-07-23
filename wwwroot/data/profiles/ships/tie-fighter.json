@@ -1,0 +1,63 @@
+{
+  "overview": "The TIE Fighter is a space superiority fighter whose service history spans Imperial Era (19 BBY–4 ABY). The Empire's mass-produced starfighter — fast, agile, and expendable, with no hyperdrive or shields. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~4.6 million units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the TIE Fighter during the political tensions that defined Imperial Era (19 BBY–4 ABY). Engineers prioritised capabilities suited to its role as a space superiority fighter, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the TIE Fighter entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. The Empire's mass-produced starfighter — fast, agile, and expendable, with no hyperdrive or shields. Veterans praised its reliability under fire while analysts debated whether mass production at ~4.6 million units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the space superiority fighter could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the TIE Fighter symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The TIE Fighter illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its space superiority fighter layout influenced successor designs long after production lines fell silent.\n\nApproximately ~4.6 million units hulls served during Imperial Era (19 BBY–4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the TIE Fighter remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Imperial Era (19 BBY–4 ABY)",
+    "Estimated production run of ~4.6 million units",
+    "Deployed in fleet actions tied to the empire's mass-produced starfighter — fast, agile, and expendable, with no hyperdrive or shields",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating space superiority fighter crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Space Superiority Fighter fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "TIE Fighter design approved and prototype tested"
+    },
+    {
+      "era": "First Order",
+      "event": "Mass production reaches ~4.6 million units across active shipyards"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "First major fleet deployment of the space superiority fighter"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Notable battle honour linked to TIE Fighter class actions"
+    },
+    {
+      "era": "High Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/tie-fighter.svg",
+      "caption": "Profile view of the TIE Fighter"
+    },
+    {
+      "path": "/images/ships/tie-fighter-scene.svg",
+      "caption": "Combat deployment — TIE Fighter"
+    },
+    {
+      "path": "/images/ships/tie-fighter-blueprint.svg",
+      "caption": "Technical schematic — TIE Fighter"
+    }
+  ]
+}

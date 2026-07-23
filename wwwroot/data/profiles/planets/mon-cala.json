@@ -1,0 +1,62 @@
+{
+  "overview": "Mon Cala is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. An ocean world of floating cities and the Mon Calamari, builders of the Rebel fleet. Scholars of the Outer traditions cite Mon Cala when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Mon Cala within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. An ocean world of floating cities and the Mon Calamari, builders of the Rebel fleet. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Mon Cala was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Mon Cala's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Mon Cala serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Mon Cala embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Mon Cala alive in holodramas, academy lectures, and pilgrim routes. The accent color #3a7a9a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Mon Cala marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Mon Cala within galactic records",
+    "Played a key role during the Imperial Era in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Mon Cala's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Mon Cala's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Mon Cala's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Mon Cala",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Mon Cala enters historical record as outer rim territories"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to an ocean world of floating cities and the mon calamari, builders of the rebel fleet"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Mon Cala fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/mon-cala.svg",
+      "caption": "Globe view of Mon Cala"
+    },
+    {
+      "path": "/images/planets/mon-cala-scene.svg",
+      "caption": "Surface landscape of Mon Cala"
+    },
+    {
+      "path": "/images/planets/mon-cala-chart.svg",
+      "caption": "Star chart marker for Mon Cala"
+    }
+  ]
+}

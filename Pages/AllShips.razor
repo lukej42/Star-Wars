@@ -1,0 +1,20 @@
+@page "/all-ships"
+@using StarWars.Data
+
+<PageTitle>All Ships</PageTitle>
+
+<h1>All Ships</h1>
+<p class="all-planets-intro">@ShipData.Ships.Count starships and support craft from the saga films, series, Knights of the Old Republic, and the Sith Empire — fighters, freighters, capital ships, and battle stations. Entries are colour-coded by primary affiliation.</p>
+
+<div class="planet-directory-grid">
+    @foreach (var ship in ShipData.Ships.OrderBy(ship => ship.Name))
+    {
+        <article class="planet-directory-card">
+            <span class="planet-directory-swatch" style="background-color: @ship.Color" aria-hidden="true"></span>
+            <div class="planet-directory-details">
+                <a href="@ship.Route">@ship.Name</a>
+                <p class="planet-region">@ship.Class · @ship.Era</p>
+            </div>
+        </article>
+    }
+</div>

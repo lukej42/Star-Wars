@@ -1,0 +1,62 @@
+{
+  "overview": "Quinlan Vos is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A Kiffar Jedi Master whose psychometric abilities made him an expert tracker and undercover operative. Scholars of the Jedi traditions cite Quinlan Vos when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Quinlan Vos within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A Kiffar Jedi Master whose psychometric abilities made him an expert tracker and undercover operative. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Quinlan Vos was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Quinlan Vos's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Quinlan Vos serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Quinlan Vos embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Quinlan Vos alive in holodramas, academy lectures, and pilgrim routes. The accent color #22c55e often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Quinlan Vos marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Quinlan Vos within galactic records",
+    "Played a key role during the Imperial Era in Jedi Master",
+    "Survived or shaped a major battle linked to Quinlan Vos's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Quinlan Vos's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Quinlan Vos's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Quinlan Vos",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Quinlan Vos enters historical record as jedi master"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a kiffar jedi master whose psychometric abilities made him an expert tracker and undercover operative"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Quinlan Vos fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/quinlan-vos.svg",
+      "caption": "Portrait of Quinlan Vos"
+    },
+    {
+      "path": "/images/jedi/quinlan-vos-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Quinlan Vos"
+    },
+    {
+      "path": "/images/jedi/quinlan-vos-emblem.svg",
+      "caption": "Jedi Order emblem associated with Quinlan Vos"
+    }
+  ]
+}

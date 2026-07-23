@@ -1,0 +1,63 @@
+{
+  "overview": "Morgan Elsbeth stands among the saga's most memorable figures, known throughout the galaxy as a magistrate. A Nightsister survivor who ruled Corvus and served Grand Admiral Thrawn as a magistrate and dark acolyte. From backwater cantinas to senate chambers and fleet command centers, Morgan Elsbeth's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Morgan Elsbeth are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A Nightsister survivor who ruled Corvus and served Grand Admiral Thrawn as a magistrate and dark acolyte. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Morgan Elsbeth was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Morgan Elsbeth tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Morgan Elsbeth. Some entries flatter, others condemn, but historians agree that ignoring Morgan Elsbeth makes any chronicle of the era incomplete.\n\nModern scholars cite Morgan Elsbeth when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Morgan Elsbeth demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a magistrate, Morgan Elsbeth connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Morgan Elsbeth alive in holodramas, recruitment posters, and cantina songs. The color #7c3aed often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Morgan Elsbeth marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Morgan Elsbeth in galactic records",
+    "Rose to prominence as a magistrate during the Old Republic",
+    "Survived or orchestrated a pivotal encounter tied to Morgan Elsbeth's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Morgan Elsbeth's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Imperial Era",
+    "Inspired later generations who retold Morgan Elsbeth's choices in myth and media"
+  ],
+  "affiliations": [
+    "Magistrate",
+    "Fleet command",
+    "Ground assault units",
+    "Intelligence corps",
+    "Veterans' networks",
+    "Training academies"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Morgan Elsbeth enters the historical record as a magistrate"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Builds a reputation during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Acts decisively in events tied to a nightsister survivor who ruled corvus and served grand admiral thrawn as a magistrate and dark acolyte"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Plays a role in campaigns associated with the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated and commemorated across the Galactic Civil War"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/morgan-elsbeth.svg",
+      "caption": "Portrait of Morgan Elsbeth"
+    },
+    {
+      "path": "/images/characters/morgan-elsbeth-scene.svg",
+      "caption": "Scene from the life of Morgan Elsbeth"
+    },
+    {
+      "path": "/images/characters/morgan-elsbeth-emblem.svg",
+      "caption": "Insignia associated with Morgan Elsbeth"
+    }
+  ]
+}

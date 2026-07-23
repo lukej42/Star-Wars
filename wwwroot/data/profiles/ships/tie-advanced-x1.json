@@ -1,0 +1,63 @@
+{
+  "overview": "The TIE Advanced x1 is a prototype starfighter whose service history spans Galactic Civil War (0 BBY–4 ABY). Darth Vader's custom TIE with hyperdrive and deflector shields, the prototype for the TIE Defender program. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~4 prototypes, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the TIE Advanced x1 during the political tensions that defined Galactic Civil War (0 BBY–4 ABY). Engineers prioritised capabilities suited to its role as a prototype starfighter, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the TIE Advanced x1 entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. Darth Vader's custom TIE with hyperdrive and deflector shields, the prototype for the TIE Defender program. Veterans praised its reliability under fire while analysts debated whether mass production at ~4 prototypes diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the prototype starfighter could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the TIE Advanced x1 symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The TIE Advanced x1 illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its prototype starfighter layout influenced successor designs long after production lines fell silent.\n\nApproximately ~4 prototypes hulls served during Galactic Civil War (0 BBY–4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the TIE Advanced x1 remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Galactic Civil War (0 BBY–4 ABY)",
+    "Estimated production run of ~4 prototypes",
+    "Deployed in fleet actions tied to darth vader's custom tie with hyperdrive and deflector shields, the prototype for the tie defender program",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating prototype starfighter crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Prototype Starfighter fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "TIE Advanced x1 design approved and prototype tested"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Mass production reaches ~4 prototypes across active shipyards"
+    },
+    {
+      "era": "High Republic",
+      "event": "First major fleet deployment of the prototype starfighter"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Notable battle honour linked to TIE Advanced x1 class actions"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/tie-advanced-x1.svg",
+      "caption": "Profile view of the TIE Advanced x1"
+    },
+    {
+      "path": "/images/ships/tie-advanced-x1-scene.svg",
+      "caption": "Combat deployment — TIE Advanced x1"
+    },
+    {
+      "path": "/images/ships/tie-advanced-x1-blueprint.svg",
+      "caption": "Technical schematic — TIE Advanced x1"
+    }
+  ]
+}

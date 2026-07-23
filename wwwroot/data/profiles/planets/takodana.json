@@ -1,0 +1,62 @@
+{
+  "overview": "Takodana is remembered across the galaxy as a mid rim whose story intersects with pivotal eras of Star Wars history. A lake world home to Maz Kanata's ancient castle, a haven for smugglers and travelers. Scholars of the Mid traditions cite Takodana when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Takodana within the broader tapestry of the Mid Rim, long before the conflicts that would define modern galactic politics. A lake world home to Maz Kanata's ancient castle, a haven for smugglers and travelers. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Takodana was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Takodana's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Takodana serves as a lens for understanding the mid rim and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Takodana embodies the ideals and contradictions associated with the mid rim. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Takodana alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a7a5a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Takodana marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Takodana within galactic records",
+    "Played a key role during the First Order in Mid Rim",
+    "Survived or shaped a major battle linked to Takodana's reputation",
+    "Formed alliances that reflected the priorities of the mid rim",
+    "Confronted rivals who challenged Takodana's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Takodana's choices"
+  ],
+  "affiliations": [
+    "Mid Rim",
+    "Allies of Takodana",
+    "Galactic historians' archives",
+    "Mid networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "Takodana enters historical record as mid rim"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a lake world home to maz kanata's ancient castle, a haven for smugglers and travelers"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as institutions around Takodana fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Commemorated in archives celebrating Mid Rim"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/takodana.svg",
+      "caption": "Globe view of Takodana"
+    },
+    {
+      "path": "/images/planets/takodana-scene.svg",
+      "caption": "Surface landscape of Takodana"
+    },
+    {
+      "path": "/images/planets/takodana-chart.svg",
+      "caption": "Star chart marker for Takodana"
+    }
+  ]
+}

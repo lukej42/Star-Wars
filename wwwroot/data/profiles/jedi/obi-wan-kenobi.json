@@ -1,0 +1,61 @@
+{
+  "overview": "Obi-Wan Kenobi was a legendary Jedi Master whose calm wisdom and mastery of Form III made him one of the Order's most respected guardians. He trained Anakin Skywalker and later Luke Skywalker, shaping the fate of the galaxy across three generations. From the battlefields of Geonosis to exile on Tatooine, Kenobi embodied the Jedi ideal of restraint, sacrifice, and service to the light side of the Force.",
+  "history": "Born on Stewjon, Obi-Wan Kenobi was discovered by the Jedi and apprenticed to Qui-Gon Jinn, whose unorthodox philosophy left a lasting mark on his outlook. After Qui-Gon's death on Naboo, Kenobi took Anakin Skywalker as his padawan despite grave reservations from the Council.\n\nThroughout the Clone Wars, General Kenobi became a master strategist and diplomat, leading Republic forces alongside Anakin while navigating the Order's growing entanglement with politics. His rivalry with Asajj Ventress and confrontations with Grievous cemented his reputation as a battlefield legend.\n\nWhen Order 66 shattered the Jedi, Kenobi survived and confronted his fallen apprentice on Mustafar. Unable to bring himself to finish Anakin, he retreated into exile on Tatooine, watching over Luke from afar and waiting for the moment the galaxy might need a Jedi again.\n\nIn his final years, Kenobi sacrificed himself aboard the Death Star so Luke could escape, becoming one with the Force and continuing to guide the young Skywalker as a spirit.",
+  "significance": "Obi-Wan Kenobi stands as the bridge between the golden age of the Jedi and their rebirth. His choices—training Anakin, sparing him on Mustafar, and mentoring Luke—echo through every major turning point of the saga.\n\nAs a practitioner of Soresu, he demonstrated that defense and patience could defeat even the most aggressive opponents. His life illustrates both the nobility and the tragedy of the Jedi Code in an age of war.\n\nGenerations of fans and in-universe historians regard Kenobi as the quintessential Jedi: humble, humorous when needed, and unwavering in duty even when the galaxy abandoned his Order.",
+  "notableEvents": [
+    "Defeated Darth Maul on Naboo after Qui-Gon Jinn's death",
+    "Led the rescue of Chancellor Palpatine during the Battle of Coruscant",
+    "Survived Order 66 and duelled Darth Vader on Mustafar",
+    "Exiled himself on Tatooine to protect Luke Skywalker",
+    "Guided Luke to begin Jedi training in the Dune Sea",
+    "Sacrificed himself aboard the Death Star to save the Rebel strike team",
+    "Appeared as a Force spirit to Luke on Hoth and Endor"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Grand Army of the Republic",
+    "212th Attack Battalion",
+    "Hidden guardians of the Lars homestead"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Apprenticed to Qui-Gon Jinn and knighted after Naboo"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Led Republic campaigns as General Kenobi"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Defeated General Grievous on Utapau"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Duelled Darth Vader on Mustafar and faked his death"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Watched over Luke Skywalker on Tatooine"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Began Luke's training and fell to Vader on the Death Star"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/obi-wan-kenobi.svg",
+      "caption": "Portrait of Obi-Wan Kenobi"
+    },
+    {
+      "path": "/images/jedi/obi-wan-kenobi-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Obi-Wan Kenobi"
+    },
+    {
+      "path": "/images/jedi/obi-wan-kenobi-emblem.svg",
+      "caption": "Jedi Order emblem associated with Obi-Wan Kenobi"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "The Millennium Falcon is a yt-1300 light freighter whose service history spans Imperial Era through First Order. The fastest hunk of junk in the galaxy — Han Solo and Chewbacca's legendary Corellian freighter that made the Kessel Run in less than twelve parsecs. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at 1 known hull (unique refit), though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Millennium Falcon during the political tensions that defined Imperial Era through First Order. Engineers prioritised capabilities suited to its role as a yt-1300 light freighter, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Millennium Falcon entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. The fastest hunk of junk in the galaxy — Han Solo and Chewbacca's legendary Corellian freighter that made the Kessel Run in less than twelve parsecs. Veterans praised its reliability under fire while analysts debated whether mass production at 1 known hull (unique refit) diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the yt-1300 light freighter could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Millennium Falcon symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Millennium Falcon illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its yt-1300 light freighter layout influenced successor designs long after production lines fell silent.\n\nApproximately 1 known hull (unique refit) hulls served during Imperial Era through First Order, making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Millennium Falcon remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Imperial Era through First Order",
+    "Estimated production run of 1 known hull (unique refit)",
+    "Deployed in fleet actions tied to the fastest hunk of junk in the galaxy — han solo and chewbacca's legendary corellian freighter that made the kessel run in less than twelve parsecs",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating yt-1300 light freighter crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Independent spacers",
+    "YT-1300 Light Freighter fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Millennium Falcon design approved and prototype tested"
+    },
+    {
+      "era": "New Republic",
+      "event": "Mass production reaches 1 known hull (unique refit) across active shipyards"
+    },
+    {
+      "era": "First Order",
+      "event": "First major fleet deployment of the yt-1300 light freighter"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Notable battle honour linked to Millennium Falcon class actions"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "High Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/millennium-falcon.svg",
+      "caption": "Profile view of the Millennium Falcon"
+    },
+    {
+      "path": "/images/ships/millennium-falcon-scene.svg",
+      "caption": "Combat deployment — Millennium Falcon"
+    },
+    {
+      "path": "/images/ships/millennium-falcon-blueprint.svg",
+      "caption": "Technical schematic — Millennium Falcon"
+    }
+  ]
+}

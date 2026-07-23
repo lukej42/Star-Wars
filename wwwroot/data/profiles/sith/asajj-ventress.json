@@ -1,0 +1,62 @@
+{
+  "overview": "Asajj Ventress is remembered across the galaxy as a dark acolyte whose story intersects with pivotal eras of Star Wars history. A Dathomirian assassin trained by Dooku who walked the line between Sith acolyte and independent bounty hunter. Scholars of the Dark traditions cite Asajj Ventress when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Asajj Ventress within the broader tapestry of the Dark Acolyte, long before the conflicts that would define modern galactic politics. A Dathomirian assassin trained by Dooku who walked the line between Sith acolyte and independent bounty hunter. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Asajj Ventress was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Asajj Ventress's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Asajj Ventress serves as a lens for understanding the dark acolyte and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Asajj Ventress embodies the ideals and contradictions associated with the dark acolyte. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Asajj Ventress alive in holodramas, academy lectures, and pilgrim routes. The accent color #dc2626 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Asajj Ventress marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Asajj Ventress within galactic records",
+    "Played a key role during the Imperial Era in Dark Acolyte",
+    "Survived or shaped a major battle linked to Asajj Ventress's reputation",
+    "Formed alliances that reflected the priorities of the dark acolyte",
+    "Confronted rivals who challenged Asajj Ventress's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Asajj Ventress's choices"
+  ],
+  "affiliations": [
+    "Dark Acolyte",
+    "Allies of Asajj Ventress",
+    "Galactic historians' archives",
+    "Dark networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Asajj Ventress enters historical record as dark acolyte"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a dathomirian assassin trained by dooku who walked the line between sith acolyte and independent bounty hunter"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Asajj Ventress fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Dark Acolyte"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/asajj-ventress.svg",
+      "caption": "Portrait of Asajj Ventress"
+    },
+    {
+      "path": "/images/sith/asajj-ventress-scene.svg",
+      "caption": "Dark side lightning scene — Asajj Ventress"
+    },
+    {
+      "path": "/images/sith/asajj-ventress-emblem.svg",
+      "caption": "Sith emblem associated with Asajj Ventress"
+    }
+  ]
+}

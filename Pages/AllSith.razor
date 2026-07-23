@@ -1,0 +1,20 @@
+@page "/all-sith"
+@using StarWars.Data
+
+<PageTitle>All Sith</PageTitle>
+
+<h1>All Sith</h1>
+<p class="all-planets-intro">Sith Lords, dark Jedi, and dark-side champions from films, series, KOTOR, and the Old Sith Empire.</p>
+
+<div class="planet-directory-grid">
+    @foreach (var sith in SithData.Members.OrderBy(sith => sith.Name))
+    {
+        <article class="planet-directory-card">
+            <span class="planet-directory-swatch" style="background-color: @sith.Color" aria-hidden="true"></span>
+            <div class="planet-directory-details">
+                <a href="@sith.Route">@sith.Name</a>
+                <p class="planet-region">@sith.Title</p>
+            </div>
+        </article>
+    }
+</div>

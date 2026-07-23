@@ -1,0 +1,61 @@
+{
+  "overview": "Mustafar is a volcanic hellscape in the Outer Rim where rivers of lava pour between jagged cliffs beneath a choking ash sky. Sacred to Sith cultists and chosen by Darth Sidious for Anakin's fall, it later housed Vader's fortress and dark-side alchemy experiments.",
+  "history": "Mustafar's native Mustafarians mined the planet's energy-rich minerals from skimming lava rivers long before off-worlders exploited it. Separatist leadership gathered here under Sidious's orders, unaware they were walking into betrayal.\n\nAnakin Skywalker slaughtered the Separatist council before dueling Obi-Wan Kenobi on the mining platforms. Kenobi's victory left Anakin mutilated and Sidious rebuilt him as Vader.\n\nThe Empire established facilities to refine cortosis and experiment with dark-side artifacts. Vader's castle, built atop a Sith cave, became a meditation site for his rage and grief.\n\nMustafar later attracted Sith cultists of the Sith Eternal and was scoured by Imperial remnants seeking Vader's legacy after the Emperor's death.",
+  "significance": "Mustafar is the crucible of Anakin's transformation into Vader—visually and mythically the point of no return.\n\nIts lava rivers symbolize destructive passion, mirroring the duel's emotional intensity and the physical scarring of the Chosen One.\n\nAs a Sith-adjacent world, Mustafar connects prequel tragedy, Vader's ongoing story, and sequel-era cult movements.",
+  "notableEvents": [
+    "Separatist leaders were assassinated by Anakin Skywalker",
+    "Anakin Skywalker duelled Obi-Wan Kenobi on lava mining platforms",
+    "Darth Vader was born from Anakin's defeat and rescue by Sidious",
+    "Fortress Vader was constructed over an ancient Sith cave",
+    "Kanan Jarrus and Ezra Bridger infiltrated Imperial facilities",
+    "Sith cultists gathered for dark-side rituals",
+    "Imperial remnants sought Vader's relics after Endor"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems (final council)",
+    "Galactic Empire",
+    "Sith cultists",
+    "Mustafarian miners",
+    "Fortress Vader garrison"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Hosted Separatist leadership near war's end"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Witnessed Anakin's fall and Vader's birth"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Fortress Vader established as dark-side sanctum"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial mining expanded under harsh conditions"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Rebel cells raided Imperial installations"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultists and scavengers contested Vader's legacy"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/mustafar-space.png",
+      "caption": "Globe view of Mustafar"
+    },
+    {
+      "path": "/images/planets/mustafar-scene.svg",
+      "caption": "Surface landscape of Mustafar"
+    },
+    {
+      "path": "/images/planets/mustafar-chart.svg",
+      "caption": "Star chart marker for Mustafar"
+    }
+  ]
+}

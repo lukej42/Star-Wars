@@ -1,0 +1,20 @@
+@page "/all-characters"
+@using StarWars.Data
+
+<PageTitle>All Characters</PageTitle>
+
+<h1>All Characters</h1>
+<p class="all-planets-intro">@CharacterData.Characters.Count figures from the saga films, series, and KOTOR — smugglers, soldiers, droids, leaders, and more. Jedi and Sith are listed in their own directories.</p>
+
+<div class="planet-directory-grid">
+    @foreach (var character in CharacterData.Characters.OrderBy(character => character.Name))
+    {
+        <article class="planet-directory-card">
+            <span class="planet-directory-swatch" style="background-color: @character.Color" aria-hidden="true"></span>
+            <div class="planet-directory-details">
+                <a href="@character.Route">@character.Name</a>
+                <p class="planet-region">@character.Role</p>
+            </div>
+        </article>
+    }
+</div>

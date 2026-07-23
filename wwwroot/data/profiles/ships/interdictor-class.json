@@ -1,0 +1,63 @@
+{
+  "overview": "The Immobilizer 418 Interdictor is a interdictor cruiser whose service history spans Imperial Era (19 BBY–4 ABY). An Imperial cruiser equipped with gravity well projectors to pull ships out of hyperspace and trap fleeing convoys. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~50 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Immobilizer 418 Interdictor during the political tensions that defined Imperial Era (19 BBY–4 ABY). Engineers prioritised capabilities suited to its role as a interdictor cruiser, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Immobilizer 418 Interdictor entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. An Imperial cruiser equipped with gravity well projectors to pull ships out of hyperspace and trap fleeing convoys. Veterans praised its reliability under fire while analysts debated whether mass production at ~50 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the interdictor cruiser could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Immobilizer 418 Interdictor symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Immobilizer 418 Interdictor illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its interdictor cruiser layout influenced successor designs long after production lines fell silent.\n\nApproximately ~50 units hulls served during Imperial Era (19 BBY–4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Immobilizer 418 Interdictor remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Imperial Era (19 BBY–4 ABY)",
+    "Estimated production run of ~50 units",
+    "Deployed in fleet actions tied to an imperial cruiser equipped with gravity well projectors to pull ships out of hyperspace and trap fleeing convoys",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating interdictor cruiser crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Interdictor Cruiser fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Immobilizer 418 Interdictor design approved and prototype tested"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Mass production reaches ~50 units across active shipyards"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "First major fleet deployment of the interdictor cruiser"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Notable battle honour linked to Immobilizer 418 Interdictor class actions"
+    },
+    {
+      "era": "New Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "First Order",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/interdictor-class.svg",
+      "caption": "Profile view of the Immobilizer 418 Interdictor"
+    },
+    {
+      "path": "/images/ships/interdictor-class-scene.svg",
+      "caption": "Combat deployment — Immobilizer 418 Interdictor"
+    },
+    {
+      "path": "/images/ships/interdictor-class-blueprint.svg",
+      "caption": "Technical schematic — Immobilizer 418 Interdictor"
+    }
+  ]
+}

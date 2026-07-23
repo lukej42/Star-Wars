@@ -1,0 +1,61 @@
+{
+  "overview": "Darth Vader, once the heroic Jedi Knight Anakin Skywalker, became the Emperor's black-armored enforcer and the most feared figure in the Galactic Empire. Bonded to life-support systems after his duel on Mustafar, he hunted surviving Jedi and crushed rebellion with ruthless efficiency while conflict between light and dark warred within him.",
+  "history": "Anakin Skywalker was a prodigy discovered on Tatooine, whose power and impatience worried the Council even as they knighted him during the Clone Wars. Secretly married to Padmé Amidala, he fell under Palpatine's influence, fearing loss and craving forbidden knowledge.\n\nManipulated into believing the Jedi had betrayed him, Anakin helped purge the Temple and assassinate the Separatist leadership on Mustafar. Mutilated by Obi-Wan Kenobi, he was rebuilt as Darth Vader, bound to armor and machinery.\n\nFor two decades Vader served Palpatine, commanding the Imperial fleet, hunting Jedi survivors, and enforcing terror from the Death Star to Cloud City. The discovery that Luke Skywalker was his son reawakened long-buried conflict.\n\nOn the second Death Star, Vader chose to save Luke by throwing the Emperor into the reactor shaft, redeeming Anakin Skywalker in his final moments and fulfilling his role in restoring balance.",
+  "significance": "Vader is the saga's central tragedy—a hero whose fear became tyranny, and a villain whose love ultimately saved the galaxy. His image defines the Empire's iron fist.\n\nMechanically sustained and emotionally severed from his past, he illustrates how the dark side consumes identity while leaving fragments of humanity that can still choose redemption.\n\nHis legacy haunted the Skywalker family for generations, shaping Kylo Ren, Luke's guilt, and Rey's search for belonging.",
+  "notableEvents": [
+    "Massacred Jedi younglings during Order 66",
+    "Duelled Obi-Wan Kenobi on Mustafar and was rebuilt in armor",
+    "Captured Princess Leia aboard the Tantive IV",
+    "Duelled Obi-Wan Kenobi aboard the Death Star",
+    "Revealed he was Luke Skywalker's father on Cloud City",
+    "Turned against Emperor Palpatine to save Luke",
+    "Died redeemed as Anakin Skywalker aboard the second Death Star"
+  ],
+  "affiliations": [
+    "Sith Order",
+    "Galactic Empire",
+    "Imperial Navy",
+    "501st Legion",
+    "Death Star command"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Fell to the dark side and became Darth Vader"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Hunted surviving Jedi across the galaxy"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Oversaw the Death Star's construction and deployment"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Captured Han Solo and tortured Leia on Cloud City"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Duelled Luke Skywalker aboard the Emperor's throne room"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Destroyed the Emperor and died as Anakin Skywalker"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/darth-vader.svg",
+      "caption": "Portrait of Darth Vader"
+    },
+    {
+      "path": "/images/sith/darth-vader-scene.svg",
+      "caption": "Dark side lightning scene — Darth Vader"
+    },
+    {
+      "path": "/images/sith/darth-vader-emblem.svg",
+      "caption": "Sith emblem associated with Darth Vader"
+    }
+  ]
+}

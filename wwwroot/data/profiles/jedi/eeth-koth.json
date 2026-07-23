@@ -1,0 +1,62 @@
+{
+  "overview": "Eeth Koth is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A Zabrak Jedi Council member who survived captivity by General Grievous and continued serving the Order. Scholars of the Jedi traditions cite Eeth Koth when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Eeth Koth within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A Zabrak Jedi Council member who survived captivity by General Grievous and continued serving the Order. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Eeth Koth was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Eeth Koth's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Eeth Koth serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Eeth Koth embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Eeth Koth alive in holodramas, academy lectures, and pilgrim routes. The accent color #22c55e often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Eeth Koth marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Eeth Koth within galactic records",
+    "Played a key role during the Old Republic in Jedi Master",
+    "Survived or shaped a major battle linked to Eeth Koth's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Eeth Koth's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Eeth Koth's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Eeth Koth",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Eeth Koth enters historical record as jedi master"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to a zabrak jedi council member who survived captivity by general grievous and continued serving the order"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as institutions around Eeth Koth fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated by scholars of the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/eeth-koth.svg",
+      "caption": "Portrait of Eeth Koth"
+    },
+    {
+      "path": "/images/jedi/eeth-koth-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Eeth Koth"
+    },
+    {
+      "path": "/images/jedi/eeth-koth-emblem.svg",
+      "caption": "Jedi Order emblem associated with Eeth Koth"
+    }
+  ]
+}

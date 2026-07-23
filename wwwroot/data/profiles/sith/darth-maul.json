@@ -1,0 +1,62 @@
+{
+  "overview": "Darth Maul is remembered across the galaxy as a sith lord whose story intersects with pivotal eras of Star Wars history. A Zabrak warrior trained by Sidious who survived his defeat to become a feared crime lord and dark-side zealot. Scholars of the Sith traditions cite Darth Maul when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Darth Maul within the broader tapestry of the Sith Lord, long before the conflicts that would define modern galactic politics. A Zabrak warrior trained by Sidious who survived his defeat to become a feared crime lord and dark-side zealot. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Darth Maul was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Darth Maul's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Darth Maul serves as a lens for understanding the sith lord and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Darth Maul embodies the ideals and contradictions associated with the sith lord. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Darth Maul alive in holodramas, academy lectures, and pilgrim routes. The accent color #dc2626 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Darth Maul marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Darth Maul within galactic records",
+    "Played a key role during the New Republic in Sith Lord",
+    "Survived or shaped a major battle linked to Darth Maul's reputation",
+    "Formed alliances that reflected the priorities of the sith lord",
+    "Confronted rivals who challenged Darth Maul's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Darth Maul's choices"
+  ],
+  "affiliations": [
+    "Sith Lord",
+    "Allies of Darth Maul",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Darth Maul enters historical record as sith lord"
+    },
+    {
+      "era": "New Republic",
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to a zabrak warrior trained by sidious who survived his defeat to become a feared crime lord and dark-side zealot"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Darth Maul fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Sith Lord"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/darth-maul.svg",
+      "caption": "Portrait of Darth Maul"
+    },
+    {
+      "path": "/images/sith/darth-maul-scene.svg",
+      "caption": "Dark side lightning scene — Darth Maul"
+    },
+    {
+      "path": "/images/sith/darth-maul-emblem.svg",
+      "caption": "Sith emblem associated with Darth Maul"
+    }
+  ]
+}

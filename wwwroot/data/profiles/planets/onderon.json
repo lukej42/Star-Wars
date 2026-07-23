@@ -1,0 +1,62 @@
+{
+  "overview": "Onderon is remembered across the galaxy as a inner rim whose story intersects with pivotal eras of Star Wars history. A jungle world with a walled capital city, torn by civil war during the Clone Wars. Scholars of the Inner traditions cite Onderon when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Onderon within the broader tapestry of the Inner Rim, long before the conflicts that would define modern galactic politics. A jungle world with a walled capital city, torn by civil war during the Clone Wars. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Onderon was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Onderon's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Onderon serves as a lens for understanding the inner rim and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Onderon embodies the ideals and contradictions associated with the inner rim. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Onderon alive in holodramas, academy lectures, and pilgrim routes. The accent color #3a7a4a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Onderon marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Onderon within galactic records",
+    "Played a key role during the Galactic Civil War in Inner Rim",
+    "Survived or shaped a major battle linked to Onderon's reputation",
+    "Formed alliances that reflected the priorities of the inner rim",
+    "Confronted rivals who challenged Onderon's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Onderon's choices"
+  ],
+  "affiliations": [
+    "Inner Rim",
+    "Allies of Onderon",
+    "Galactic historians' archives",
+    "Inner networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Onderon enters historical record as inner rim"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Becomes widely known for actions tied to a jungle world with a walled capital city, torn by civil war during the clone wars"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Onderon fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Inner Rim"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/onderon.svg",
+      "caption": "Globe view of Onderon"
+    },
+    {
+      "path": "/images/planets/onderon-scene.svg",
+      "caption": "Surface landscape of Onderon"
+    },
+    {
+      "path": "/images/planets/onderon-chart.svg",
+      "caption": "Star chart marker for Onderon"
+    }
+  ]
+}

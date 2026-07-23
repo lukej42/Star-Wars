@@ -1,0 +1,63 @@
+{
+  "overview": "Captain Phasma stands among the saga's most memorable figures, known throughout the galaxy as a first order captain. A chrome-armored stormtrooper commander who enforced brutal discipline within the First Order ranks. From backwater cantinas to senate chambers and fleet command centers, Captain Phasma's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Captain Phasma are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A chrome-armored stormtrooper commander who enforced brutal discipline within the First Order ranks. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Captain Phasma was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Captain Phasma tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Captain Phasma. Some entries flatter, others condemn, but historians agree that ignoring Captain Phasma makes any chronicle of the era incomplete.\n\nModern scholars cite Captain Phasma when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Captain Phasma demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a first order captain, Captain Phasma connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Captain Phasma alive in holodramas, recruitment posters, and cantina songs. The color #94a3b8 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Captain Phasma marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Captain Phasma in galactic records",
+    "Rose to prominence as a first order captain during the New Republic",
+    "Survived or orchestrated a pivotal encounter tied to Captain Phasma's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Captain Phasma's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Old Republic",
+    "Inspired later generations who retold Captain Phasma's choices in myth and media"
+  ],
+  "affiliations": [
+    "First Order Captain",
+    "Fleet command",
+    "Ground assault units",
+    "Intelligence corps",
+    "Veterans' networks",
+    "Training academies"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Captain Phasma enters the historical record as a first order captain"
+    },
+    {
+      "era": "New Republic",
+      "event": "Builds a reputation during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Acts decisively in events tied to a chrome-armored stormtrooper commander who enforced brutal discipline within the first order ranks"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Plays a role in campaigns associated with the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated and commemorated across the High Republic"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/captain-phasma.svg",
+      "caption": "Portrait of Captain Phasma"
+    },
+    {
+      "path": "/images/characters/captain-phasma-scene.svg",
+      "caption": "Scene from the life of Captain Phasma"
+    },
+    {
+      "path": "/images/characters/captain-phasma-emblem.svg",
+      "caption": "Insignia associated with Captain Phasma"
+    }
+  ]
+}

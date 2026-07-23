@@ -1,0 +1,63 @@
+{
+  "overview": "The Venator-class Star Destroyer is a star destroyer whose service history spans Clone Wars (22–19 BBY). The Republic Navy's signature capital ship with dual bridges and a ventral hangar bay for starfighter wings. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~1,050 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Venator-class Star Destroyer during the political tensions that defined Clone Wars (22–19 BBY). Engineers prioritised capabilities suited to its role as a star destroyer, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Venator-class Star Destroyer entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. The Republic Navy's signature capital ship with dual bridges and a ventral hangar bay for starfighter wings. Veterans praised its reliability under fire while analysts debated whether mass production at ~1,050 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the star destroyer could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Venator-class Star Destroyer symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Venator-class Star Destroyer illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its star destroyer layout influenced successor designs long after production lines fell silent.\n\nApproximately ~1,050 units hulls served during Clone Wars (22–19 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Venator-class Star Destroyer remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars (22–19 BBY)",
+    "Estimated production run of ~1,050 units",
+    "Deployed in fleet actions tied to the republic navy's signature capital ship with dual bridges and a ventral hangar bay for starfighter wings",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating star destroyer crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Star Destroyer fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Venator-class Star Destroyer design approved and prototype tested"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Mass production reaches ~1,050 units across active shipyards"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "First major fleet deployment of the star destroyer"
+    },
+    {
+      "era": "New Republic",
+      "event": "Notable battle honour linked to Venator-class Star Destroyer class actions"
+    },
+    {
+      "era": "First Order",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/venator-class.svg",
+      "caption": "Profile view of the Venator-class Star Destroyer"
+    },
+    {
+      "path": "/images/ships/venator-class-scene.svg",
+      "caption": "Combat deployment — Venator-class Star Destroyer"
+    },
+    {
+      "path": "/images/ships/venator-class-blueprint.svg",
+      "caption": "Technical schematic — Venator-class Star Destroyer"
+    }
+  ]
+}

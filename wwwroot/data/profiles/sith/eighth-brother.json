@@ -1,0 +1,62 @@
+{
+  "overview": "Eighth Brother is remembered across the galaxy as a inquisitor whose story intersects with pivotal eras of Star Wars history. A Terrellian Jango Jumper Inquisitor dispatched to Malachor to eliminate Maul, the Jedi, and any other threats. Scholars of the Inquisitor traditions cite Eighth Brother when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Eighth Brother within the broader tapestry of the Inquisitor, long before the conflicts that would define modern galactic politics. A Terrellian Jango Jumper Inquisitor dispatched to Malachor to eliminate Maul, the Jedi, and any other threats. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Eighth Brother was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Eighth Brother's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Eighth Brother serves as a lens for understanding the inquisitor and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Eighth Brother embodies the ideals and contradictions associated with the inquisitor. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Eighth Brother alive in holodramas, academy lectures, and pilgrim routes. The accent color #dc2626 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Eighth Brother marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Eighth Brother within galactic records",
+    "Played a key role during the Imperial Era in Inquisitor",
+    "Survived or shaped a major battle linked to Eighth Brother's reputation",
+    "Formed alliances that reflected the priorities of the inquisitor",
+    "Confronted rivals who challenged Eighth Brother's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Eighth Brother's choices"
+  ],
+  "affiliations": [
+    "Inquisitor",
+    "Allies of Eighth Brother",
+    "Galactic historians' archives",
+    "Inquisitor networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Eighth Brother enters historical record as inquisitor"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a terrellian jango jumper inquisitor dispatched to malachor to eliminate maul, the jedi, and any other threats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Eighth Brother fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Inquisitor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/eighth-brother.svg",
+      "caption": "Portrait of Eighth Brother"
+    },
+    {
+      "path": "/images/sith/eighth-brother-scene.svg",
+      "caption": "Dark side lightning scene — Eighth Brother"
+    },
+    {
+      "path": "/images/sith/eighth-brother-emblem.svg",
+      "caption": "Sith emblem associated with Eighth Brother"
+    }
+  ]
+}

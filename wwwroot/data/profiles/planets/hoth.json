@@ -1,0 +1,61 @@
+{
+  "overview": "Hoth is a remote ice planet in the Anoat sector, infamous as the site of Echo Base and the Empire's crushing assault during the Galactic Civil War. Blizzards, wampas, and frozen wastes make it uninhabitable except for brief military encampments and mining ventures.",
+  "history": "The Rebel Alliance selected Hoth's sixth moon for Echo Base because its obscurity and sensor-scrambling meteor activity hid fleet movements. Tauntauns replaced speeders in extreme cold while shield generators protected the underground complex.\n\nAn Imperial probe droid discovered the base, leading to a massive AT-AT assault on the ice fields. Luke Skywalker led Rogue Squadron in delaying actions while transports escaped.\n\nHan Solo and Leia Organa fled aboard the Millennium Falcon through the asteroid belt after the battle, deepening their bond. Luke received guidance from Obi-Wan's Force spirit to seek Yoda.\n\nEcho Base was abandoned, but Hoth became legendary as the Rebellion's most desperate stand and a symbol of survival against overwhelming force.",
+  "significance": "Hoth defines the visual language of Star Wars ice warfare—from white armor against white snow to the lonely silhouette of a tauntaun at dawn.\n\nThe battle proved the Rebellion could survive Imperial might even in defeat, preserving leadership and hope.\n\nEnvironmentally, Hoth shows how hostile worlds become strategic precisely because others underestimate them.",
+  "notableEvents": [
+    "Rebel Alliance established Echo Base in the ice caves",
+    "Luke Skywalker was attacked by a wampa and escaped",
+    "Imperial probe droid discovered the hidden base",
+    "Battle of Hoth saw AT-AT walkers assault the shield generator",
+    "Rebel transports escaped while troops held the line",
+    "Han Solo and Leia Organa fled Hoth aboard the Millennium Falcon",
+    "Luke Skywalker departed for Dagobah after receiving Obi-Wan's message"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Echo Base command",
+    "Rogue Squadron",
+    "Galactic Empire (invader)",
+    "Anoat sector miners"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Rebel scouts selected Hoth as a hidden base site"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Echo Base became operational with shield defenses"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Imperial forces detected the base via probe droid"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Battle of Hoth forced Rebel evacuation"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Base abandoned after successful transport escape"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remembered as a pivotal Rebellion battleground"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/hoth-space.png",
+      "caption": "Globe view of Hoth"
+    },
+    {
+      "path": "/images/planets/hoth-scene.svg",
+      "caption": "Surface landscape of Hoth"
+    },
+    {
+      "path": "/images/planets/hoth-chart.svg",
+      "caption": "Star chart marker for Hoth"
+    }
+  ]
+}

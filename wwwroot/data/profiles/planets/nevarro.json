@@ -1,0 +1,62 @@
+{
+  "overview": "Nevarro is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A frontier world of lava rivers and cantinas that served as a Bounty Hunter Guild hub. Scholars of the Outer traditions cite Nevarro when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Nevarro within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A frontier world of lava rivers and cantinas that served as a Bounty Hunter Guild hub. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Nevarro was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Nevarro's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Nevarro serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Nevarro embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Nevarro alive in holodramas, academy lectures, and pilgrim routes. The accent color #8a4a3a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Nevarro marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Nevarro within galactic records",
+    "Played a key role during the Ancient Era in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Nevarro's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Nevarro's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Clone Wars",
+    "Inspired later movements that reinterpreted Nevarro's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Nevarro",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "Nevarro enters historical record as outer rim territories"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Participates in a pivotal campaign during the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Becomes widely known for actions tied to a frontier world of lava rivers and cantinas that served as a bounty hunter guild hub"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as institutions around Nevarro fracture"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Legacy debated by scholars of the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/nevarro.svg",
+      "caption": "Globe view of Nevarro"
+    },
+    {
+      "path": "/images/planets/nevarro-scene.svg",
+      "caption": "Surface landscape of Nevarro"
+    },
+    {
+      "path": "/images/planets/nevarro-chart.svg",
+      "caption": "Star chart marker for Nevarro"
+    }
+  ]
+}

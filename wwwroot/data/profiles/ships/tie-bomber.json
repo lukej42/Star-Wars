@@ -1,0 +1,63 @@
+{
+  "overview": "The TIE Bomber is a space superiority bomber whose service history spans Imperial Era (19 BBY–4 ABY). A dual-pod Imperial bomber used to flatten rebel bases and deploy orbital mines in fleet engagements. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~15,000 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the TIE Bomber during the political tensions that defined Imperial Era (19 BBY–4 ABY). Engineers prioritised capabilities suited to its role as a space superiority bomber, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the TIE Bomber entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A dual-pod Imperial bomber used to flatten rebel bases and deploy orbital mines in fleet engagements. Veterans praised its reliability under fire while analysts debated whether mass production at ~15,000 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the space superiority bomber could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the TIE Bomber symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The TIE Bomber illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its space superiority bomber layout influenced successor designs long after production lines fell silent.\n\nApproximately ~15,000 units hulls served during Imperial Era (19 BBY–4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the TIE Bomber remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Imperial Era (19 BBY–4 ABY)",
+    "Estimated production run of ~15,000 units",
+    "Deployed in fleet actions tied to a dual-pod imperial bomber used to flatten rebel bases and deploy orbital mines in fleet engagements",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating space superiority bomber crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Space Superiority Bomber fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "TIE Bomber design approved and prototype tested"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Mass production reaches ~15,000 units across active shipyards"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "First major fleet deployment of the space superiority bomber"
+    },
+    {
+      "era": "New Republic",
+      "event": "Notable battle honour linked to TIE Bomber class actions"
+    },
+    {
+      "era": "First Order",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/tie-bomber.svg",
+      "caption": "Profile view of the TIE Bomber"
+    },
+    {
+      "path": "/images/ships/tie-bomber-scene.svg",
+      "caption": "Combat deployment — TIE Bomber"
+    },
+    {
+      "path": "/images/ships/tie-bomber-blueprint.svg",
+      "caption": "Technical schematic — TIE Bomber"
+    }
+  ]
+}

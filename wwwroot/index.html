@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Star Wars</title>
+    <base href="/" />
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="Star-Wars.styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+        window.starWarsMap = {
+            positionPanel(viewport, clientX, clientY, panelWidth, panelHeight) {
+                const rect = viewport.getBoundingClientRect();
+                const clickX = clientX - rect.left;
+                const clickY = clientY - rect.top;
+                const offset = 16;
+                let left = clickX + offset;
+                let top = clickY - panelHeight - offset;
+
+                if (top < 8) {
+                    top = clickY + offset;
+                }
+
+                if (left + panelWidth > rect.width - 8) {
+                    left = clickX - panelWidth - offset;
+                }
+
+                if (left < 8) {
+                    left = 8;
+                }
+
+                if (top + panelHeight > rect.height - 8) {
+                    top = Math.max(8, rect.height - panelHeight - 8);
+                }
+
+                return { left, top };
+            }
+        };
+    </script>
+</body>
+
+</html>

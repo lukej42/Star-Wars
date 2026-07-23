@@ -1,0 +1,62 @@
+{
+  "overview": "Luminara Unduli is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A Mirialan Jedi Master who fought alongside her padawan Barriss Offee on Geonosis and across the galaxy. Scholars of the Jedi traditions cite Luminara Unduli when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Luminara Unduli within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A Mirialan Jedi Master who fought alongside her padawan Barriss Offee on Geonosis and across the galaxy. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Luminara Unduli was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Luminara Unduli's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Luminara Unduli serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Luminara Unduli embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Luminara Unduli alive in holodramas, academy lectures, and pilgrim routes. The accent color #22c55e often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Luminara Unduli marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Luminara Unduli within galactic records",
+    "Played a key role during the Galactic Civil War in Jedi Master",
+    "Survived or shaped a major battle linked to Luminara Unduli's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Luminara Unduli's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Luminara Unduli's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Luminara Unduli",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Luminara Unduli enters historical record as jedi master"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Becomes widely known for actions tied to a mirialan jedi master who fought alongside her padawan barriss offee on geonosis and across the galaxy"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Luminara Unduli fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/luminara-unduli.svg",
+      "caption": "Portrait of Luminara Unduli"
+    },
+    {
+      "path": "/images/jedi/luminara-unduli-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Luminara Unduli"
+    },
+    {
+      "path": "/images/jedi/luminara-unduli-emblem.svg",
+      "caption": "Jedi Order emblem associated with Luminara Unduli"
+    }
+  ]
+}

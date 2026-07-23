@@ -1,0 +1,62 @@
+{
+  "overview": "Even Piell is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A diminutive Lannik Jedi Master who held vital intelligence about the Nexus Route before his death on Lola Sayu. Scholars of the Jedi traditions cite Even Piell when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Even Piell within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A diminutive Lannik Jedi Master who held vital intelligence about the Nexus Route before his death on Lola Sayu. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Even Piell was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Even Piell's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Even Piell serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Even Piell embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Even Piell alive in holodramas, academy lectures, and pilgrim routes. The accent color #22c55e often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Even Piell marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Even Piell within galactic records",
+    "Played a key role during the First Order in Jedi Master",
+    "Survived or shaped a major battle linked to Even Piell's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Even Piell's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Even Piell's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Even Piell",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "Even Piell enters historical record as jedi master"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a diminutive lannik jedi master who held vital intelligence about the nexus route before his death on lola sayu"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as institutions around Even Piell fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/even-piell.svg",
+      "caption": "Portrait of Even Piell"
+    },
+    {
+      "path": "/images/jedi/even-piell-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Even Piell"
+    },
+    {
+      "path": "/images/jedi/even-piell-emblem.svg",
+      "caption": "Jedi Order emblem associated with Even Piell"
+    }
+  ]
+}

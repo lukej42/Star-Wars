@@ -1,0 +1,15 @@
+<div class="planet-page">
+    <img class="planet-page-bg" src="@ImagePath" alt="" aria-hidden="true" />
+    <div class="planet-page-overlay"></div>
+    <div class="planet-page-content">
+        @ChildContent
+    </div>
+</div>
+
+@code {
+    [Parameter, EditorRequired]
+    public string ImagePath { get; set; } = string.Empty;
+
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+}

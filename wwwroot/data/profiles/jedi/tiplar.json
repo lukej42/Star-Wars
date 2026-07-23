@@ -1,0 +1,62 @@
+{
+  "overview": "Tiplar is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A red-skinned Mikkian Jedi Master who fought alongside her sister Tiplee until her death on Ringo Vinda. Scholars of the Jedi traditions cite Tiplar when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Tiplar within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A red-skinned Mikkian Jedi Master who fought alongside her sister Tiplee until her death on Ringo Vinda. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Tiplar was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Tiplar's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Tiplar serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Tiplar embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Tiplar alive in holodramas, academy lectures, and pilgrim routes. The accent color #3b82f6 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Tiplar marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Tiplar within galactic records",
+    "Played a key role during the New Republic in Jedi Master",
+    "Survived or shaped a major battle linked to Tiplar's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Tiplar's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Tiplar's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Tiplar",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Tiplar enters historical record as jedi master"
+    },
+    {
+      "era": "New Republic",
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to a red-skinned mikkian jedi master who fought alongside her sister tiplee until her death on ringo vinda"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Tiplar fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/tiplar.svg",
+      "caption": "Portrait of Tiplar"
+    },
+    {
+      "path": "/images/jedi/tiplar-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Tiplar"
+    },
+    {
+      "path": "/images/jedi/tiplar-emblem.svg",
+      "caption": "Jedi Order emblem associated with Tiplar"
+    }
+  ]
+}

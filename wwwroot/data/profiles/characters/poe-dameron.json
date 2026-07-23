@@ -1,0 +1,63 @@
+{
+  "overview": "Poe Dameron stands among the saga's most memorable figures, known throughout the galaxy as a resistance pilot. The Resistance's best starfighter pilot whose daring raids and leadership challenged the First Order. From backwater cantinas to senate chambers and fleet command centers, Poe Dameron's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Poe Dameron are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. The Resistance's best starfighter pilot whose daring raids and leadership challenged the First Order. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Poe Dameron was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Poe Dameron tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Poe Dameron. Some entries flatter, others condemn, but historians agree that ignoring Poe Dameron makes any chronicle of the era incomplete.\n\nModern scholars cite Poe Dameron when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Poe Dameron demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a resistance pilot, Poe Dameron connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Poe Dameron alive in holodramas, recruitment posters, and cantina songs. The color #f97316 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Poe Dameron marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Poe Dameron in galactic records",
+    "Rose to prominence as a resistance pilot during the Old Republic",
+    "Survived or orchestrated a pivotal encounter tied to Poe Dameron's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Poe Dameron's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Imperial Era",
+    "Inspired later generations who retold Poe Dameron's choices in myth and media"
+  ],
+  "affiliations": [
+    "Resistance Pilot",
+    "Fleet command",
+    "Ground assault units",
+    "Intelligence corps",
+    "Veterans' networks",
+    "Training academies"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Poe Dameron enters the historical record as a resistance pilot"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Builds a reputation during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Acts decisively in events tied to the resistance's best starfighter pilot whose daring raids and leadership challenged the first order"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Plays a role in campaigns associated with the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated and commemorated across the Galactic Civil War"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/poe-dameron.svg",
+      "caption": "Portrait of Poe Dameron"
+    },
+    {
+      "path": "/images/characters/poe-dameron-scene.svg",
+      "caption": "Scene from the life of Poe Dameron"
+    },
+    {
+      "path": "/images/characters/poe-dameron-emblem.svg",
+      "caption": "Insignia associated with Poe Dameron"
+    }
+  ]
+}

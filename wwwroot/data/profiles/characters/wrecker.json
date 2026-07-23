@@ -1,0 +1,63 @@
+{
+  "overview": "Wrecker stands among the saga's most memorable figures, known throughout the galaxy as a clone commando. The Bad Batch's powerhouse demolitions expert whose love of explosions was matched only by his loyalty to his squad. From backwater cantinas to senate chambers and fleet command centers, Wrecker's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Wrecker are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. The Bad Batch's powerhouse demolitions expert whose love of explosions was matched only by his loyalty to his squad. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Wrecker was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Wrecker tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Wrecker. Some entries flatter, others condemn, but historians agree that ignoring Wrecker makes any chronicle of the era incomplete.\n\nModern scholars cite Wrecker when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Wrecker demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a clone commando, Wrecker connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Wrecker alive in holodramas, recruitment posters, and cantina songs. The color #ea580c often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Wrecker marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Wrecker in galactic records",
+    "Rose to prominence as a clone commando during the Old Republic",
+    "Survived or orchestrated a pivotal encounter tied to Wrecker's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Wrecker's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Imperial Era",
+    "Inspired later generations who retold Wrecker's choices in myth and media"
+  ],
+  "affiliations": [
+    "Clone Commando",
+    "Independent agents",
+    "Allied factions",
+    "Local militias",
+    "Trade consortiums",
+    "Historians' guilds"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Wrecker enters the historical record as a clone commando"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Builds a reputation during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Acts decisively in events tied to the bad batch's powerhouse demolitions expert whose love of explosions was matched only by his loyalty to his squad"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Plays a role in campaigns associated with the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated and commemorated across the Galactic Civil War"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/wrecker.svg",
+      "caption": "Portrait of Wrecker"
+    },
+    {
+      "path": "/images/characters/wrecker-scene.svg",
+      "caption": "Scene from the life of Wrecker"
+    },
+    {
+      "path": "/images/characters/wrecker-emblem.svg",
+      "caption": "Insignia associated with Wrecker"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "The CR90 Corvette is a blockade runner whose service history spans Clone Wars through Galactic Civil War. A fast Alderaanian diplomatic vessel that became the backbone of early Rebel convoys, famously including the Tantive IV. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~1,400 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the CR90 Corvette during the political tensions that defined Clone Wars through Galactic Civil War. Engineers prioritised capabilities suited to its role as a blockade runner, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the CR90 Corvette entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A fast Alderaanian diplomatic vessel that became the backbone of early Rebel convoys, famously including the Tantive IV. Veterans praised its reliability under fire while analysts debated whether mass production at ~1,400 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the blockade runner could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the CR90 Corvette symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The CR90 Corvette illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its blockade runner layout influenced successor designs long after production lines fell silent.\n\nApproximately ~1,400 units hulls served during Clone Wars through Galactic Civil War, making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the CR90 Corvette remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars through Galactic Civil War",
+    "Estimated production run of ~1,400 units",
+    "Deployed in fleet actions tied to a fast alderaanian diplomatic vessel that became the backbone of early rebel convoys, famously including the tantive iv",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating blockade runner crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Blockade Runner fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "CR90 Corvette design approved and prototype tested"
+    },
+    {
+      "era": "High Republic",
+      "event": "Mass production reaches ~1,400 units across active shipyards"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "First major fleet deployment of the blockade runner"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Notable battle honour linked to CR90 Corvette class actions"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/cr90-corvette.svg",
+      "caption": "Profile view of the CR90 Corvette"
+    },
+    {
+      "path": "/images/ships/cr90-corvette-scene.svg",
+      "caption": "Combat deployment — CR90 Corvette"
+    },
+    {
+      "path": "/images/ships/cr90-corvette-blueprint.svg",
+      "caption": "Technical schematic — CR90 Corvette"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "overview": "Yoda was the oldest and wisest master of the Jedi Order, serving on the High Council for centuries and shaping generations of knights. Small in stature but immense in power, he embodied the philosophical heart of the Jedi—patience, humility, and deep communion with the Living Force.",
+  "history": "For over eight centuries, Yoda trained padawans, mediated Council disputes, and guarded Jedi secrets from the heights of the Coruscant Temple. His unique speech and playful demeanor concealed one of the galaxy's greatest duelists and Force prodigies.\n\nDuring the Clone Wars, Yoda led troops on worlds such as Rugosa while sensing the dark side thickening around the Republic. He grew suspicious of the war's design yet struggled to act without proof against Chancellor Palpatine.\n\nWhen Order 66 struck, Yoda survived an assassination attempt in the Senate and confronted Darth Sidious in the Chancellor's office. Unable to defeat the Emperor, he fled into exile on Dagobah, its strong dark-side nexus masking his presence.\n\nThere he waited for Luke Skywalker, training the last hope of the Jedi before becoming one with the Force and appearing to Luke and others as a guiding spirit.",
+  "significance": "Yoda represents the accumulated wisdom of the Jedi Order at its height—and its blind spots. His teachings on attachment, fear, and the dark side shaped Luke and, indirectly, Rey.\n\nAs Grand Master, he balanced martial skill with contemplative philosophy, proving that true strength in the Force flows from serenity rather than aggression.\n\nHis exile and final lessons on Dagobah mark the transition from the old Jedi institution to a more personal, spiritual understanding of the Force.",
+  "notableEvents": [
+    "Served on the Jedi High Council for centuries",
+    "Negotiated with King Katuunko on Rugosa during the Clone Wars",
+    "Survived Order 66 and duelled Darth Sidious in the Senate",
+    "Exiled himself to Dagobah to hide from the Empire",
+    "Trained Luke Skywalker in the ways of the Force",
+    "Died at peace, becoming a Force spirit",
+    "Appeared to Luke on Dagobah and later at Endor"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Grand Army of the Republic (advisory)",
+    "Hidden exile community on Dagobah"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Rose to Grand Master of the Jedi Order"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Led diplomatic and military missions for the Republic"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Fought Darth Sidious and retreated into exile"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Watched over Dagobah for decades in hiding"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Trained Luke Skywalker as the last Jedi pupil"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Passed into the Force after completing Luke's training"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/yoda.svg",
+      "caption": "Portrait of Yoda"
+    },
+    {
+      "path": "/images/jedi/yoda-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Yoda"
+    },
+    {
+      "path": "/images/jedi/yoda-emblem.svg",
+      "caption": "Jedi Order emblem associated with Yoda"
+    }
+  ]
+}

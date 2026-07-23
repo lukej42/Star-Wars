@@ -1,0 +1,61 @@
+{
+  "overview": "Darth Revan was a Jedi Knight and Sith Lord whose crusades reshaped the Old Republic era. A brilliant strategist and charismatic leader, Revan fell to the dark side during the Mandalorian Wars, built a Sith Empire, was redeemed, and later became a legendary figure whose mask and memory haunted both Jedi and Sith for millennia.",
+  "history": "Revan defied the Jedi Council to fight the Mandalorian invaders, earning devotion from followers such as Malak. Exposure to Sith artifacts on Malachor and in the Unknown Regions corrupted the crusaders, and Revan declared himself Dark Lord of the Sith.\n\nHis Sith Empire nearly conquered the Republic before Malak betrayed him, leaving Revan captured and mind-wiped by the Jedi Council. Reprogrammed as a loyal agent, Revan rediscovered his past and confronted Malak above the Star Forge.\n\nChoosing the light, Revan destroyed the Star Forge and Malak, saving the Republic—but later vanished pursuing remnants of the True Sith in the Unknown Regions.\n\nLegends and Sith cults preserved Revan's mask and teachings, and the Emperor Vitiate attempted to consume Revan's power on Yavin 4 centuries later.",
+  "significance": "Revan illustrates how righteous war can slide into tyranny when the ends justify any means. Their dual legacy as savior and conqueror made them a touchstone for debates within both Orders.\n\nThe Star Forge campaign and fall of Malak mark one of the Republic's gravest existential crises before Palpatine's era.\n\nRevan's mask became an icon of Old Republic heroism and Sith temptation, referenced in temples from Dromund Kaas to the Unknown Regions.",
+  "notableEvents": [
+    "Led Jedi crusaders against the Mandalorian Neo-Crusaders",
+    "Declared himself Dark Lord of the Sith and built a new Sith Empire",
+    "Was betrayed by Darth Malak and captured by the Jedi",
+    "Rediscovered identity and defeated Malak at the Star Forge",
+    "Vanished while searching for the True Sith threat",
+    "Was imprisoned and tortured by the Sith Emperor on Yavin 4",
+    "Influenced Sith and Jedi doctrine for centuries after death"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Revanchist movement",
+    "Sith Empire (Old Republic era)",
+    "Republic Navy (after redemption)",
+    "Companion crew of the Ebon Hawk"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Defied the Council to fight the Mandalorian Wars"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Fell to the dark side and ruled as Darth Revan"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Was captured and mind-wiped by the Jedi Council"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Redeemed and destroyed the Star Forge"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Disappeared pursuing threats in the Unknown Regions"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Became a legendary figure studied by later Sith Lords"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/darth-revan.svg",
+      "caption": "Portrait of Darth Revan"
+    },
+    {
+      "path": "/images/sith/darth-revan-scene.svg",
+      "caption": "Dark side lightning scene — Darth Revan"
+    },
+    {
+      "path": "/images/sith/darth-revan-emblem.svg",
+      "caption": "Sith emblem associated with Darth Revan"
+    }
+  ]
+}

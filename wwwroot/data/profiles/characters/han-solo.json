@@ -1,0 +1,61 @@
+{
+  "overview": "Han Solo is the quintessential Corellian smuggler whose fast ship and faster mouth made him a legend from the Outer Rim to the Rebel Alliance. Captain of the Millennium Falcon, he claimed to care only about credits until friendship with Luke Skywalker and love for Leia Organa pulled him into the fight against the Empire.",
+  "history": "Han grew up on the streets of Corellia under Imperial exploitation before escaping to carve out a life as a pilot and smuggler. Winning the Falcon from Lando Calrissian in a sabacc game became the turning point that defined his career.\n\nHired by Obi-Wan Kenobi and Luke to reach Alderaan, Han initially planned to collect his fee and leave. Instead he returned during the Death Star escape and later led the Rebel strike on Yavin, earning a medal he famously claimed he never sought.\n\nFrozen in carbonite by Jabba the Hutt after a debt gone wrong, Han was rescued by his friends on Tatooine. He commanded the Alliance fleet at Endor and continued serving the New Republic as a general despite preferring private life.\n\nEven in later years, Han struggled to reconcile fatherhood with his past, a tension that resurfaced when Ben Solo fell to the dark side and Han made one final attempt at redemption.",
+  "significance": "Han Solo represents the reluctant hero—proof that ordinary scoundrels can choose extraordinary loyalty when the stakes demand it.\n\nThe Millennium Falcon and Han's partnership with Chewbacca became symbols of found family throughout the Rebellion era.\n\nHis arc from cynic to general influenced countless recruits who believed the Alliance needed heart as much as it needed Jedi.",
+  "notableEvents": [
+    "Won the Millennium Falcon from Lando Calrissian",
+    "Transported Luke and Obi-Wan on the Falcon's first famous run",
+    "Returned to save Luke during the Death Star trench run",
+    "Led the strike team that destroyed the shield generator on Endor",
+    "Rescued from carbonite in Jabba's palace on Tatooine",
+    "Served as a general in the New Republic Defense Force",
+    "Confronted Kylo Ren on Starkiller Base in a final act of love"
+  ],
+  "affiliations": [
+    "Millennium Falcon crew",
+    "Rebel Alliance",
+    "New Republic",
+    "Smugglers' networks",
+    "Chewbacca's honor debt"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Escaped Corellia and became an independent smuggler"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Joined the Rebellion after the Battle of Yavin"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Frozen in carbonite and later rescued from Jabba"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commanded the Endor ground assault"
+    },
+    {
+      "era": "New Republic",
+      "event": "Retired briefly before returning to frontline service"
+    },
+    {
+      "era": "First Order",
+      "event": "Attempted to reach his son Ben Solo on Starkiller Base"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/han-solo.svg",
+      "caption": "Portrait of Han Solo"
+    },
+    {
+      "path": "/images/characters/han-solo-scene.svg",
+      "caption": "Scene from the life of Han Solo"
+    },
+    {
+      "path": "/images/characters/han-solo-emblem.svg",
+      "caption": "Insignia associated with Han Solo"
+    }
+  ]
+}

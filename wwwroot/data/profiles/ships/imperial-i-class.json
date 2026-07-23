@@ -1,0 +1,63 @@
+{
+  "overview": "The Imperial I-class Star Destroyer is a star destroyer whose service history spans Imperial Era (19 BBY–4 ABY). The symbol of Imperial might — a kilometre-long wedge capable of blockading a planet alone. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~25,000 units (both classes), though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Imperial I-class Star Destroyer during the political tensions that defined Imperial Era (19 BBY–4 ABY). Engineers prioritised capabilities suited to its role as a star destroyer, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Imperial I-class Star Destroyer entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. The symbol of Imperial might — a kilometre-long wedge capable of blockading a planet alone. Veterans praised its reliability under fire while analysts debated whether mass production at ~25,000 units (both classes) diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the star destroyer could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Imperial I-class Star Destroyer symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Imperial I-class Star Destroyer illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its star destroyer layout influenced successor designs long after production lines fell silent.\n\nApproximately ~25,000 units (both classes) hulls served during Imperial Era (19 BBY–4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Imperial I-class Star Destroyer remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Imperial Era (19 BBY–4 ABY)",
+    "Estimated production run of ~25,000 units (both classes)",
+    "Deployed in fleet actions tied to the symbol of imperial might — a kilometre-long wedge capable of blockading a planet alone",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating star destroyer crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Star Destroyer fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Imperial I-class Star Destroyer design approved and prototype tested"
+    },
+    {
+      "era": "High Republic",
+      "event": "Mass production reaches ~25,000 units (both classes) across active shipyards"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "First major fleet deployment of the star destroyer"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Notable battle honour linked to Imperial I-class Star Destroyer class actions"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/imperial-i-class.svg",
+      "caption": "Profile view of the Imperial I-class Star Destroyer"
+    },
+    {
+      "path": "/images/ships/imperial-i-class-scene.svg",
+      "caption": "Combat deployment — Imperial I-class Star Destroyer"
+    },
+    {
+      "path": "/images/ships/imperial-i-class-blueprint.svg",
+      "caption": "Technical schematic — Imperial I-class Star Destroyer"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "overview": "Umbara is remembered across the galaxy as a expansion region whose story intersects with pivotal eras of Star Wars history. The Shadow World — a perpetually dark planet of bioluminescent fungi and xenophobic natives. Scholars of the Expansion traditions cite Umbara when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Umbara within the broader tapestry of the Expansion Region, long before the conflicts that would define modern galactic politics. The Shadow World — a perpetually dark planet of bioluminescent fungi and xenophobic natives. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Umbara was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Umbara's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Umbara serves as a lens for understanding the expansion region and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Umbara embodies the ideals and contradictions associated with the expansion region. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Umbara alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a3a6a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Umbara marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Umbara within galactic records",
+    "Played a key role during the High Republic in Expansion Region",
+    "Survived or shaped a major battle linked to Umbara's reputation",
+    "Formed alliances that reflected the priorities of the expansion region",
+    "Confronted rivals who challenged Umbara's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Galactic Civil War",
+    "Inspired later movements that reinterpreted Umbara's choices"
+  ],
+  "affiliations": [
+    "Expansion Region",
+    "Allies of Umbara",
+    "Galactic historians' archives",
+    "Expansion networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Umbara enters historical record as expansion region"
+    },
+    {
+      "era": "High Republic",
+      "event": "Participates in a pivotal campaign during the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Becomes widely known for actions tied to the shadow world — a perpetually dark planet of bioluminescent fungi and xenophobic natives"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Navigates crisis as institutions around Umbara fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated by scholars of the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Commemorated in archives celebrating Expansion Region"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/umbara.svg",
+      "caption": "Globe view of Umbara"
+    },
+    {
+      "path": "/images/planets/umbara-scene.svg",
+      "caption": "Surface landscape of Umbara"
+    },
+    {
+      "path": "/images/planets/umbara-chart.svg",
+      "caption": "Star chart marker for Umbara"
+    }
+  ]
+}

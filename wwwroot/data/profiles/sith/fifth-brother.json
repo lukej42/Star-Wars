@@ -1,0 +1,62 @@
+{
+  "overview": "Fifth Brother is remembered across the galaxy as a inquisitor whose story intersects with pivotal eras of Star Wars history. A hulking gray-skinned Inquisitor who served the Empire alongside the Seventh Sister in hunting Force-sensitive fugitives. Scholars of the Inquisitor traditions cite Fifth Brother when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Fifth Brother within the broader tapestry of the Inquisitor, long before the conflicts that would define modern galactic politics. A hulking gray-skinned Inquisitor who served the Empire alongside the Seventh Sister in hunting Force-sensitive fugitives. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Fifth Brother was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Fifth Brother's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Fifth Brother serves as a lens for understanding the inquisitor and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Fifth Brother embodies the ideals and contradictions associated with the inquisitor. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Fifth Brother alive in holodramas, academy lectures, and pilgrim routes. The accent color #450a0a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Fifth Brother marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Fifth Brother within galactic records",
+    "Played a key role during the Clone Wars in Inquisitor",
+    "Survived or shaped a major battle linked to Fifth Brother's reputation",
+    "Formed alliances that reflected the priorities of the inquisitor",
+    "Confronted rivals who challenged Fifth Brother's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Fifth Brother's choices"
+  ],
+  "affiliations": [
+    "Inquisitor",
+    "Allies of Fifth Brother",
+    "Galactic historians' archives",
+    "Inquisitor networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Fifth Brother enters historical record as inquisitor"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Participates in a pivotal campaign during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Becomes widely known for actions tied to a hulking gray-skinned inquisitor who served the empire alongside the seventh sister in hunting force-sensitive fugitives"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Fifth Brother fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Inquisitor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/fifth-brother.svg",
+      "caption": "Portrait of Fifth Brother"
+    },
+    {
+      "path": "/images/sith/fifth-brother-scene.svg",
+      "caption": "Dark side lightning scene — Fifth Brother"
+    },
+    {
+      "path": "/images/sith/fifth-brother-emblem.svg",
+      "caption": "Sith emblem associated with Fifth Brother"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "K-2SO stands among the saga's most memorable figures, known throughout the galaxy as a security droid. A reprogrammed Imperial security droid whose blunt honesty and combat skills served Cassian Andor's mission. From backwater cantinas to senate chambers and fleet command centers, K-2SO's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for K-2SO are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A reprogrammed Imperial security droid whose blunt honesty and combat skills served Cassian Andor's mission. The Force rarely dictated their choices, yet their actions still shaped galactic fate.\n\nAs the Republic collapsed and the Empire rose, K-2SO was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where K-2SO tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on K-2SO. Some entries flatter, others condemn, but historians agree that ignoring K-2SO makes any chronicle of the era incomplete.\n\nModern scholars cite K-2SO when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, K-2SO demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a security droid, K-2SO connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps K-2SO alive in holodramas, recruitment posters, and cantina songs. The color #64748b often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, K-2SO marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of K-2SO in galactic records",
+    "Rose to prominence as a security droid during the First Order",
+    "Survived or orchestrated a pivotal encounter tied to K-2SO's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened K-2SO's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the High Republic",
+    "Inspired later generations who retold K-2SO's choices in myth and media"
+  ],
+  "affiliations": [
+    "Security Droid",
+    "Independent operators",
+    "Mechanic guilds",
+    "Companion crews",
+    "Memory archives",
+    "Salvage markets"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "K-2SO enters the historical record as a security droid"
+    },
+    {
+      "era": "First Order",
+      "event": "Builds a reputation during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Acts decisively in events tied to a reprogrammed imperial security droid whose blunt honesty and combat skills served cassian andor's mission"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Plays a role in campaigns associated with the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Legacy debated and commemorated across the Clone Wars"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/k-2so.svg",
+      "caption": "Portrait of K-2SO"
+    },
+    {
+      "path": "/images/characters/k-2so-scene.svg",
+      "caption": "Scene from the life of K-2SO"
+    },
+    {
+      "path": "/images/characters/k-2so-emblem.svg",
+      "caption": "Insignia associated with K-2SO"
+    }
+  ]
+}

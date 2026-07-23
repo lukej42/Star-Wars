@@ -1,0 +1,63 @@
+{
+  "overview": "The Endar Spire is a hammerhead-class cruiser whose service history spans Old Republic (3,956 BBY). A Republic cruiser destroyed above Taris at the opening of the Jedi Civil War, launching Bastila Shan and Revan's escape pods. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~120 Hammerhead-class hulls, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Endar Spire during the political tensions that defined Old Republic (3,956 BBY). Engineers prioritised capabilities suited to its role as a hammerhead-class cruiser, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Endar Spire entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A Republic cruiser destroyed above Taris at the opening of the Jedi Civil War, launching Bastila Shan and Revan's escape pods. Veterans praised its reliability under fire while analysts debated whether mass production at ~120 Hammerhead-class hulls diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the hammerhead-class cruiser could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Endar Spire symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Endar Spire illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its hammerhead-class cruiser layout influenced successor designs long after production lines fell silent.\n\nApproximately ~120 Hammerhead-class hulls hulls served during Old Republic (3,956 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Endar Spire remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Old Republic (3,956 BBY)",
+    "Estimated production run of ~120 Hammerhead-class hulls",
+    "Deployed in fleet actions tied to a republic cruiser destroyed above taris at the opening of the jedi civil war, launching bastila shan and revan's escape pods",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating hammerhead-class cruiser crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Old Republic Navy",
+    "Hammerhead-class Cruiser fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Endar Spire design approved and prototype tested"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Mass production reaches ~120 Hammerhead-class hulls across active shipyards"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "First major fleet deployment of the hammerhead-class cruiser"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Notable battle honour linked to Endar Spire class actions"
+    },
+    {
+      "era": "New Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "First Order",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/endar-spire.svg",
+      "caption": "Profile view of the Endar Spire"
+    },
+    {
+      "path": "/images/ships/endar-spire-scene.svg",
+      "caption": "Combat deployment — Endar Spire"
+    },
+    {
+      "path": "/images/ships/endar-spire-blueprint.svg",
+      "caption": "Technical schematic — Endar Spire"
+    }
+  ]
+}

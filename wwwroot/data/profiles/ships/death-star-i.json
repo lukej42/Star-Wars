@@ -1,0 +1,63 @@
+{
+  "overview": "The Death Star I is a battle station whose service history spans Imperial Era (19 BBY–0 BBY). The Empire's planet-killing superweapon, destroyed at Yavin after a proton torpedo struck its thermal exhaust port. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at 1 unit, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Death Star I during the political tensions that defined Imperial Era (19 BBY–0 BBY). Engineers prioritised capabilities suited to its role as a battle station, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Death Star I entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. The Empire's planet-killing superweapon, destroyed at Yavin after a proton torpedo struck its thermal exhaust port. Veterans praised its reliability under fire while analysts debated whether mass production at 1 unit diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the battle station could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Death Star I symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Death Star I illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its battle station layout influenced successor designs long after production lines fell silent.\n\nApproximately 1 unit hulls served during Imperial Era (19 BBY–0 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Death Star I remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Imperial Era (19 BBY–0 BBY)",
+    "Estimated production run of 1 unit",
+    "Deployed in fleet actions tied to the empire's planet-killing superweapon, destroyed at yavin after a proton torpedo struck its thermal exhaust port",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating battle station crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Battle Station fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Death Star I design approved and prototype tested"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Mass production reaches 1 unit across active shipyards"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "First major fleet deployment of the battle station"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Notable battle honour linked to Death Star I class actions"
+    },
+    {
+      "era": "New Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "First Order",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/death-star-i.svg",
+      "caption": "Profile view of the Death Star I"
+    },
+    {
+      "path": "/images/ships/death-star-i-scene.svg",
+      "caption": "Combat deployment — Death Star I"
+    },
+    {
+      "path": "/images/ships/death-star-i-blueprint.svg",
+      "caption": "Technical schematic — Death Star I"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "overview": "Mace Windu is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A senior Jedi Council member and master of Vaapad who wielded a distinctive purple lightsaber. Scholars of the Jedi traditions cite Mace Windu when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Mace Windu within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A senior Jedi Council member and master of Vaapad who wielded a distinctive purple lightsaber. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Mace Windu was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Mace Windu's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Mace Windu serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Mace Windu embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Mace Windu alive in holodramas, academy lectures, and pilgrim routes. The accent color #7c3aed often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Mace Windu marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Mace Windu within galactic records",
+    "Played a key role during the Ancient Era in Jedi Master",
+    "Survived or shaped a major battle linked to Mace Windu's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Mace Windu's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Clone Wars",
+    "Inspired later movements that reinterpreted Mace Windu's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Mace Windu",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "Mace Windu enters historical record as jedi master"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Participates in a pivotal campaign during the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Becomes widely known for actions tied to a senior jedi council member and master of vaapad who wielded a distinctive purple lightsaber"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as institutions around Mace Windu fracture"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Legacy debated by scholars of the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/mace-windu.svg",
+      "caption": "Portrait of Mace Windu"
+    },
+    {
+      "path": "/images/jedi/mace-windu-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Mace Windu"
+    },
+    {
+      "path": "/images/jedi/mace-windu-emblem.svg",
+      "caption": "Jedi Order emblem associated with Mace Windu"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "overview": "Exar Kun is remembered across the galaxy as a dark lord of the sith whose story intersects with pivotal eras of Star Wars history. A fallen Jedi who discovered Sith secrets on Yavin 4 and unleashed the Great Sith War upon the galaxy. Scholars of the Dark traditions cite Exar Kun when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Exar Kun within the broader tapestry of the Dark Lord of the Sith, long before the conflicts that would define modern galactic politics. A fallen Jedi who discovered Sith secrets on Yavin 4 and unleashed the Great Sith War upon the galaxy. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Exar Kun was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Exar Kun's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Exar Kun serves as a lens for understanding the dark lord of the sith and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Exar Kun embodies the ideals and contradictions associated with the dark lord of the sith. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Exar Kun alive in holodramas, academy lectures, and pilgrim routes. The accent color #b91c1c often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Exar Kun marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Exar Kun within galactic records",
+    "Played a key role during the First Order in Dark Lord of the Sith",
+    "Survived or shaped a major battle linked to Exar Kun's reputation",
+    "Formed alliances that reflected the priorities of the dark lord of the sith",
+    "Confronted rivals who challenged Exar Kun's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Exar Kun's choices"
+  ],
+  "affiliations": [
+    "Dark Lord of the Sith",
+    "Allies of Exar Kun",
+    "Galactic historians' archives",
+    "Dark networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "Exar Kun enters historical record as dark lord of the sith"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a fallen jedi who discovered sith secrets on yavin 4 and unleashed the great sith war upon the galaxy"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as institutions around Exar Kun fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Commemorated in archives celebrating Dark Lord of the Sith"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/exar-kun.svg",
+      "caption": "Portrait of Exar Kun"
+    },
+    {
+      "path": "/images/sith/exar-kun-scene.svg",
+      "caption": "Dark side lightning scene — Exar Kun"
+    },
+    {
+      "path": "/images/sith/exar-kun-emblem.svg",
+      "caption": "Sith emblem associated with Exar Kun"
+    }
+  ]
+}

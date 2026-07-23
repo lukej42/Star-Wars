@@ -1,0 +1,63 @@
+{
+  "overview": "The Invisible Hand is a providence-class dreadnought whose service history spans Clone Wars (22–19 BBY). General Grievous's flagship during the Clone Wars, where Chancellor Palpatine was rescued in the Battle of Coruscant. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~120 Providence-class hulls, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Invisible Hand during the political tensions that defined Clone Wars (22–19 BBY). Engineers prioritised capabilities suited to its role as a providence-class dreadnought, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Invisible Hand entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. General Grievous's flagship during the Clone Wars, where Chancellor Palpatine was rescued in the Battle of Coruscant. Veterans praised its reliability under fire while analysts debated whether mass production at ~120 Providence-class hulls diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the providence-class dreadnought could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Invisible Hand symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Invisible Hand illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its providence-class dreadnought layout influenced successor designs long after production lines fell silent.\n\nApproximately ~120 Providence-class hulls hulls served during Clone Wars (22–19 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Invisible Hand remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars (22–19 BBY)",
+    "Estimated production run of ~120 Providence-class hulls",
+    "Deployed in fleet actions tied to general grievous's flagship during the clone wars, where chancellor palpatine was rescued in the battle of coruscant",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating providence-class dreadnought crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Providence-class Dreadnought fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Invisible Hand design approved and prototype tested"
+    },
+    {
+      "era": "High Republic",
+      "event": "Mass production reaches ~120 Providence-class hulls across active shipyards"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "First major fleet deployment of the providence-class dreadnought"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Notable battle honour linked to Invisible Hand class actions"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/invisible-hand.svg",
+      "caption": "Profile view of the Invisible Hand"
+    },
+    {
+      "path": "/images/ships/invisible-hand-scene.svg",
+      "caption": "Combat deployment — Invisible Hand"
+    },
+    {
+      "path": "/images/ships/invisible-hand-blueprint.svg",
+      "caption": "Technical schematic — Invisible Hand"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "overview": "Luke Skywalker rose from a moisture farmer on Tatooine to become the last Jedi Knight of the Old Republic era and architect of a new generation of Force users. Prophesied as the one who would restore balance, he confronted the Empire, redeemed his father, and later attempted to rebuild the Jedi Order before withdrawing into exile after tragedy.",
+  "history": "Raised by Owen and Beru Lars, Luke grew up unaware of his heritage until droids carrying Leia's message brought Obi-Wan Kenobi back into his life. After his aunt and uncle were killed by stormtroopers, he left Tatooine to join the Rebellion and learn the ways of the Force.\n\nTraining under Kenobi and later Yoda on Dagobah, Luke struggled with impatience and fear but developed into a skilled pilot and Jedi. He destroyed the first Death Star, survived confrontations with Darth Vader, and learned the truth of his parentage on Cloud City.\n\nRather than kill Vader, Luke believed redemption was possible. On the second Death Star, he refused the Emperor's temptations and awakened Anakin Skywalker's remaining light, fulfilling the prophecy in a way the Council never anticipated.\n\nDecades later, Luke founded a Jedi academy on Ossus and trained a new generation before Ben Solo's fall to the dark side shattered his hope. He vanished to Ahch-To until Rey called him back to face his failures and pass the torch.",
+  "significance": "Luke embodies hope in the Star Wars mythos—the farmboy who becomes a galactic symbol. His journey proves that Jedi power need not come from lineage alone but from compassion and choice.\n\nHis refusal to execute Vader redefined what 'bringing balance' could mean, prioritizing mercy over vengeance. That decision saved the soul of Anakin Skywalker and broke the Emperor's hold on the Skywalker line.\n\nEven in failure with Ben Solo, Luke's legacy inspired Rey and countless others to carry the light forward, ensuring the Jedi would not die with him.",
+  "notableEvents": [
+    "Destroyed the first Death Star during the Battle of Yavin",
+    "Duelled Darth Vader on Cloud City and lost his hand",
+    "Confronted the Emperor aboard the second Death Star",
+    "Helped redeem Anakin Skywalker and witnessed his death",
+    "Founded a new Jedi training temple on Ossus",
+    "Exiled himself to Ahch-To after Ben Solo's destruction of the temple",
+    "Projected a Force illusion at Crait to save the Resistance"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "New Republic",
+    "Jedi Order (restored)",
+    "Red Five squadron",
+    "Resistance (spiritual ally)"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Left Tatooine with Obi-Wan Kenobi and joined the Rebellion"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Destroyed the Death Star at Yavin"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Trained under Yoda on Dagobah"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Redeemed Darth Vader and ended the Emperor's reign"
+    },
+    {
+      "era": "New Republic",
+      "event": "Established a Jedi academy and trained new knights"
+    },
+    {
+      "era": "First Order",
+      "event": "Returned as a Force spirit to inspire Rey on Ahch-To"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/luke-skywalker.svg",
+      "caption": "Portrait of Luke Skywalker"
+    },
+    {
+      "path": "/images/jedi/luke-skywalker-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Luke Skywalker"
+    },
+    {
+      "path": "/images/jedi/luke-skywalker-emblem.svg",
+      "caption": "Jedi Order emblem associated with Luke Skywalker"
+    }
+  ]
+}

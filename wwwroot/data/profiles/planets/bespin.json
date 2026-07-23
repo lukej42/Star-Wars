@@ -1,0 +1,62 @@
+{
+  "overview": "Bespin is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A gas giant famed for Cloud City, floating refineries mining valuable tibanna gas. Scholars of the Outer traditions cite Bespin when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Bespin within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A gas giant famed for Cloud City, floating refineries mining valuable tibanna gas. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Bespin was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Bespin's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Bespin serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Bespin embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Bespin alive in holodramas, academy lectures, and pilgrim routes. The accent color #e8c88a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Bespin marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Bespin within galactic records",
+    "Played a key role during the Old Republic in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Bespin's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Bespin's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Bespin's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Bespin",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Bespin enters historical record as outer rim territories"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to a gas giant famed for cloud city, floating refineries mining valuable tibanna gas"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as institutions around Bespin fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated by scholars of the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bespin-space.png",
+      "caption": "Globe view of Bespin"
+    },
+    {
+      "path": "/images/planets/bespin-scene.svg",
+      "caption": "Surface landscape of Bespin"
+    },
+    {
+      "path": "/images/planets/bespin-chart.svg",
+      "caption": "Star chart marker for Bespin"
+    }
+  ]
+}

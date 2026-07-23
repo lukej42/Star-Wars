@@ -1,0 +1,57 @@
+@page "/jedi/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(jedi?.Name ?? "Jedi")</PageTitle>
+
+@if (jedi is null)
+{
+    <h1>Jedi not found</h1>
+    <p>Sorry, there are no records for this Jedi.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading Jedi records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@jedi.Name"
+                          HeroImagePath="@jedi.ImagePath"
+                          HeroImageAlt="@($"Portrait of {jedi.Name}")"
+                          Subtitle="@jedi.Rank"
+                          OverviewText="@(profile?.Overview ?? jedi.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Legacy and the Force"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@jedi.Color" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private JediMember? jedi;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        jedi = JediData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (jedi is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("jedi", jedi.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

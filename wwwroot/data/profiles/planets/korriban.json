@@ -1,0 +1,61 @@
+{
+  "overview": "Korriban, known in later eras as Moraband, is the ancestral homeworld of the Sith in the Outer Rim's Stygian Caldera. Valley of the Dark Lords tombs, academy ruins, and shrouds of the dark side make it a pilgrimage site for aspirants and a warning to Jedi explorers.",
+  "history": "The native Sith species built tombs for their greatest kings in the Valley of the Dark Lords, infusing the world with dark-side energy that persists millennia after their empire fell.\n\nExiled Dark Jedi merged with Sith culture here, founding orders that eventually challenged the Republic. Korriban's academies trained generations of Sith Lords before the Great Hyperspace War scattered survivors.\n\nRevan, Malak, and later Bane-era Sith returned to plunder knowledge and confront spirits of ancient rulers. The Jedi Council eventually quarantined the world, yet expeditions continued.\n\nYoda visited Moraband during the Clone Wars to face Sith sorcery trials, proving the planet still tested even the wisest masters.",
+  "significance": "Korriban is the spiritual heart of Sith tradition—where ambition, death, and legacy intertwine in stone mausoleums.\n\nIts tombs preserve the memory of Naga Sadow, Marka Ragnos, and other kings who shaped dark-side philosophy long before Sidious.\n\nRenamed Moraband in some records to break superstitious hold, the world remains synonymous with the Sith's origin and their eternal return.",
+  "notableEvents": [
+    "Ancient Sith kings were entombed in the Valley of the Dark Lords",
+    "Exiled Dark Jedi formed the first Sith Empire on Korriban",
+    "Revan and Malak plundered tombs during the Jedi Civil War",
+    "Darth Bane studied the Rule of Two amid Korriban's ruins",
+    "Jedi quarantined the world after repeated Sith resurgences",
+    "Yoda underwent trials on Moraband during the Clone Wars",
+    "Sith cultists continued pilgrimages in the Imperial era"
+  ],
+  "affiliations": [
+    "Sith Empire (ancient)",
+    "Sith Order",
+    "Sith Academy of Korriban",
+    "Jedi Order (quarantine missions)",
+    "Sith cult pilgrimages"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Sith species built valley tombs for their kings"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Dark Jedi exiles founded Sith traditions here"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Great Hyperspace War devastated Korriban"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Revan and Malak recovered Sith artifacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Yoda faced Sith trials on Moraband"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Remained a forbidden world for Jedi explorers"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/korriban-space.png",
+      "caption": "Globe view of Korriban"
+    },
+    {
+      "path": "/images/planets/korriban-scene.svg",
+      "caption": "Surface landscape of Korriban"
+    },
+    {
+      "path": "/images/planets/korriban-chart.svg",
+      "caption": "Star chart marker for Korriban"
+    }
+  ]
+}

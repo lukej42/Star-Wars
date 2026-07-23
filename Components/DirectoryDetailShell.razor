@@ -1,0 +1,159 @@
+<div class="directory-detail" style="--character-accent: @AccentColor">
+    <header class="directory-detail-hero">
+        <figure class="character-page-portrait-wrap directory-detail-portrait">
+            <img class="character-page-portrait"
+                 src="@HeroImagePath"
+                 alt="@HeroImageAlt"
+                 loading="lazy" />
+        </figure>
+        <div class="directory-detail-intro">
+            <h1>@Name</h1>
+            @if (!string.IsNullOrWhiteSpace(Subtitle))
+            {
+                <p class="planet-region">@Subtitle</p>
+            }
+            @if (!string.IsNullOrWhiteSpace(MetaLine))
+            {
+                <p class="directory-detail-meta-line">@MetaLine</p>
+            }
+            <p class="directory-detail-overview">@OverviewText</p>
+        </div>
+    </header>
+
+    @if (!string.IsNullOrWhiteSpace(HistoryText))
+    {
+        <section class="directory-detail-section">
+            <h2>History</h2>
+            @foreach (var paragraph in SplitParagraphs(HistoryText))
+            {
+                <p>@paragraph</p>
+            }
+        </section>
+    }
+
+    @if (!string.IsNullOrWhiteSpace(SignificanceText))
+    {
+        <section class="directory-detail-section">
+            <h2>@SignificanceHeading</h2>
+            @foreach (var paragraph in SplitParagraphs(SignificanceText))
+            {
+                <p>@paragraph</p>
+            }
+        </section>
+    }
+
+    @if (NotableEvents.Count > 0)
+    {
+        <section class="directory-detail-section">
+            <h2>Notable events</h2>
+            <ul class="directory-detail-list">
+                @foreach (var item in NotableEvents)
+                {
+                    <li>@item</li>
+                }
+            </ul>
+        </section>
+    }
+
+    @if (Affiliations.Count > 0)
+    {
+        <section class="directory-detail-section">
+            <h2>Affiliations</h2>
+            <div class="directory-detail-tags">
+                @foreach (var affiliation in Affiliations)
+                {
+                    <span class="directory-detail-tag">@affiliation</span>
+                }
+            </div>
+        </section>
+    }
+
+    @if (Timeline.Count > 0)
+    {
+        <section class="directory-detail-section">
+            <h2>Timeline</h2>
+            <ol class="directory-detail-timeline">
+                @foreach (var entry in Timeline)
+                {
+                    <li>
+                        <span class="directory-detail-era">@entry.Era</span>
+                        <span>@entry.Event</span>
+                    </li>
+                }
+            </ol>
+        </section>
+    }
+
+    @if (Gallery.Count > 0)
+    {
+        <section class="directory-detail-section">
+            <h2>Related images</h2>
+            <div class="directory-detail-gallery">
+                @foreach (var image in Gallery)
+                {
+                    <figure class="directory-detail-gallery-item">
+                        <img src="@image.Path" alt="@image.Caption" loading="lazy" />
+                        <figcaption>@image.Caption</figcaption>
+                    </figure>
+                }
+            </div>
+        </section>
+    }
+
+    @if (ChildContent is not null)
+    {
+        <footer class="directory-detail-footer">
+            @ChildContent
+        </footer>
+    }
+</div>
+
+@code {
+    [Parameter, EditorRequired]
+    public string Name { get; set; } = string.Empty;
+
+    [Parameter, EditorRequired]
+    public string HeroImagePath { get; set; } = string.Empty;
+
+    [Parameter]
+    public string HeroImageAlt { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Subtitle { get; set; } = string.Empty;
+
+    [Parameter]
+    public string MetaLine { get; set; } = string.Empty;
+
+    [Parameter, EditorRequired]
+    public string OverviewText { get; set; } = string.Empty;
+
+    [Parameter]
+    public string HistoryText { get; set; } = string.Empty;
+
+    [Parameter]
+    public string SignificanceText { get; set; } = string.Empty;
+
+    [Parameter]
+    public string SignificanceHeading { get; set; } = "Legacy and significance";
+
+    [Parameter]
+    public IReadOnlyList<string> NotableEvents { get; set; } = Array.Empty<string>();
+
+    [Parameter]
+    public IReadOnlyList<string> Affiliations { get; set; } = Array.Empty<string>();
+
+    [Parameter]
+    public IReadOnlyList<ProfileTimelineEntry> Timeline { get; set; } = Array.Empty<ProfileTimelineEntry>();
+
+    [Parameter]
+    public IReadOnlyList<ProfileImage> Gallery { get; set; } = Array.Empty<ProfileImage>();
+
+    [Parameter]
+    public string AccentColor { get; set; } = "#7eb8ff";
+
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+
+    private static IEnumerable<string> SplitParagraphs(string text) =>
+        text.Split("\n\n", StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
+}

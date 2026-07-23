@@ -1,0 +1,63 @@
+{
+  "overview": "The Lucrehulk-class Battleship is a droid control battleship whose service history spans Clone Wars (22–19 BBY). A converted Trade Federation cargo ring that served as a carrier and command ship for Separatist blockades. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~220 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Lucrehulk-class Battleship during the political tensions that defined Clone Wars (22–19 BBY). Engineers prioritised capabilities suited to its role as a droid control battleship, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Lucrehulk-class Battleship entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A converted Trade Federation cargo ring that served as a carrier and command ship for Separatist blockades. Veterans praised its reliability under fire while analysts debated whether mass production at ~220 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the droid control battleship could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Lucrehulk-class Battleship symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Lucrehulk-class Battleship illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its droid control battleship layout influenced successor designs long after production lines fell silent.\n\nApproximately ~220 units hulls served during Clone Wars (22–19 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Lucrehulk-class Battleship remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars (22–19 BBY)",
+    "Estimated production run of ~220 units",
+    "Deployed in fleet actions tied to a converted trade federation cargo ring that served as a carrier and command ship for separatist blockades",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating droid control battleship crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Trade Federation",
+    "Droid Control Battleship fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Lucrehulk-class Battleship design approved and prototype tested"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Mass production reaches ~220 units across active shipyards"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "First major fleet deployment of the droid control battleship"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Notable battle honour linked to Lucrehulk-class Battleship class actions"
+    },
+    {
+      "era": "New Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "First Order",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/lucrehulk-class.svg",
+      "caption": "Profile view of the Lucrehulk-class Battleship"
+    },
+    {
+      "path": "/images/ships/lucrehulk-class-scene.svg",
+      "caption": "Combat deployment — Lucrehulk-class Battleship"
+    },
+    {
+      "path": "/images/ships/lucrehulk-class-blueprint.svg",
+      "caption": "Technical schematic — Lucrehulk-class Battleship"
+    }
+  ]
+}

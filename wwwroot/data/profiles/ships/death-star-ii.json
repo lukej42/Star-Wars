@@ -1,0 +1,63 @@
+{
+  "overview": "The Death Star II is a battle station whose service history spans Galactic Civil War (4 ABY). An unfinished second battle station orbiting Endor, designed to be fully operational and trap the Rebel fleet. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at 1 unit, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Death Star II during the political tensions that defined Galactic Civil War (4 ABY). Engineers prioritised capabilities suited to its role as a battle station, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Death Star II entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. An unfinished second battle station orbiting Endor, designed to be fully operational and trap the Rebel fleet. Veterans praised its reliability under fire while analysts debated whether mass production at 1 unit diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the battle station could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Death Star II symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Death Star II illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its battle station layout influenced successor designs long after production lines fell silent.\n\nApproximately 1 unit hulls served during Galactic Civil War (4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Death Star II remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Galactic Civil War (4 ABY)",
+    "Estimated production run of 1 unit",
+    "Deployed in fleet actions tied to an unfinished second battle station orbiting endor, designed to be fully operational and trap the rebel fleet",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating battle station crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Battle Station fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Death Star II design approved and prototype tested"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Mass production reaches 1 unit across active shipyards"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "First major fleet deployment of the battle station"
+    },
+    {
+      "era": "New Republic",
+      "event": "Notable battle honour linked to Death Star II class actions"
+    },
+    {
+      "era": "First Order",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/death-star-ii.svg",
+      "caption": "Profile view of the Death Star II"
+    },
+    {
+      "path": "/images/ships/death-star-ii-scene.svg",
+      "caption": "Combat deployment — Death Star II"
+    },
+    {
+      "path": "/images/ships/death-star-ii-blueprint.svg",
+      "caption": "Technical schematic — Death Star II"
+    }
+  ]
+}

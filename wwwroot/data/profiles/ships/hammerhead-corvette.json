@@ -1,0 +1,63 @@
+{
+  "overview": "The Hammerhead Corvette is a corvette whose service history spans Galactic Civil War (2 BBY–5 ABY). An ancient Rendili design revived by the Rebel Alliance, capable of ramming Star Destroyers in desperate fleet actions. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~60 Rebel refits, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Hammerhead Corvette during the political tensions that defined Galactic Civil War (2 BBY–5 ABY). Engineers prioritised capabilities suited to its role as a corvette, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Hammerhead Corvette entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. An ancient Rendili design revived by the Rebel Alliance, capable of ramming Star Destroyers in desperate fleet actions. Veterans praised its reliability under fire while analysts debated whether mass production at ~60 Rebel refits diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the corvette could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Hammerhead Corvette symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Hammerhead Corvette illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its corvette layout influenced successor designs long after production lines fell silent.\n\nApproximately ~60 Rebel refits hulls served during Galactic Civil War (2 BBY–5 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Hammerhead Corvette remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Galactic Civil War (2 BBY–5 ABY)",
+    "Estimated production run of ~60 Rebel refits",
+    "Deployed in fleet actions tied to an ancient rendili design revived by the rebel alliance, capable of ramming star destroyers in desperate fleet actions",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating corvette crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Corvette fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Hammerhead Corvette design approved and prototype tested"
+    },
+    {
+      "era": "First Order",
+      "event": "Mass production reaches ~60 Rebel refits across active shipyards"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "First major fleet deployment of the corvette"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Notable battle honour linked to Hammerhead Corvette class actions"
+    },
+    {
+      "era": "High Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/hammerhead-corvette.svg",
+      "caption": "Profile view of the Hammerhead Corvette"
+    },
+    {
+      "path": "/images/ships/hammerhead-corvette-scene.svg",
+      "caption": "Combat deployment — Hammerhead Corvette"
+    },
+    {
+      "path": "/images/ships/hammerhead-corvette-blueprint.svg",
+      "caption": "Technical schematic — Hammerhead Corvette"
+    }
+  ]
+}

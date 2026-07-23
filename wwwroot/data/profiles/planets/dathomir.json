@@ -1,0 +1,62 @@
+{
+  "overview": "Dathomir is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A foreboding world of red skies and jungles, home to the Nightsisters and dark side cults. Scholars of the Outer traditions cite Dathomir when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Dathomir within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A foreboding world of red skies and jungles, home to the Nightsisters and dark side cults. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Dathomir was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Dathomir's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Dathomir serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Dathomir embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Dathomir alive in holodramas, academy lectures, and pilgrim routes. The accent color #8b2020 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Dathomir marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Dathomir within galactic records",
+    "Played a key role during the New Republic in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Dathomir's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Dathomir's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Dathomir's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Dathomir",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Dathomir enters historical record as outer rim territories"
+    },
+    {
+      "era": "New Republic",
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to a foreboding world of red skies and jungles, home to the nightsisters and dark side cults"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Dathomir fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/dathomir.svg",
+      "caption": "Globe view of Dathomir"
+    },
+    {
+      "path": "/images/planets/dathomir-scene.svg",
+      "caption": "Surface landscape of Dathomir"
+    },
+    {
+      "path": "/images/planets/dathomir-chart.svg",
+      "caption": "Star chart marker for Dathomir"
+    }
+  ]
+}

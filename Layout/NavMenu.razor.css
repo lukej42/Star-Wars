@@ -1,0 +1,402 @@
+.navbar-toggler {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row {
+    min-height: 3.5rem;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.navbar-brand {
+    font-size: 1.1rem;
+    color: #fff !important;
+    letter-spacing: 0.06em;
+}
+
+.bi {
+    display: inline-block;
+    position: relative;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-right: 0.75rem;
+    top: -1px;
+    background-size: cover;
+}
+
+.bi-house-door-fill-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-house-door-fill' viewBox='0 0 16 16'%3E%3Cpath d='M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z'/%3E%3C/svg%3E");
+}
+
+.bi-plus-square-fill-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-plus-square-fill' viewBox='0 0 16 16'%3E%3Cpath d='M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0z'/%3E%3C/svg%3E");
+}
+
+.bi-list-nested-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-list-nested' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M4.5 11.5A.5.5 0 0 1 5 11h10a.5.5 0 0 1 0 1H5a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 1 3h10a.5.5 0 0 1 0 1H1a.5.5 0 0 1-.5-.5z'/%3E%3C/svg%3E");
+}
+
+.bi-coruscant-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%23f4c542'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23c9a227'/%3E%3C/svg%3E");
+}
+
+.bi-korriban-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%238b1a1a'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%235c1010'/%3E%3C/svg%3E");
+}
+
+.bi-dantooine-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%234a8c5c'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%232d5a3d'/%3E%3C/svg%3E");
+}
+
+.bi-galaxy-map-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='2' fill='%23fff'/%3E%3Cellipse cx='8' cy='8' rx='7' ry='3' fill='none' stroke='%23fff' stroke-width='1' transform='rotate(-20 8 8)'/%3E%3Cellipse cx='8' cy='8' rx='5' ry='2' fill='none' stroke='%23fff' stroke-width='1' transform='rotate(25 8 8)'/%3E%3C/svg%3E");
+}
+
+.bi-factions-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 3.5A1.5 1.5 0 0 1 3.5 2h9A1.5 1.5 0 0 1 14 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 12.5v-9zM3.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-9z'/%3E%3Cpath fill='%23fff' d='M5 6.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 3a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z'/%3E%3C/svg%3E");
+}
+
+.bi-characters-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='5.5' cy='5.5' r='2.2' fill='%23fff'/%3E%3Cpath fill='%23fff' d='M2.5 13.5c0-2.2 1.8-3.5 3.5-3.5s3.5 1.3 3.5 3.5H2.5z'/%3E%3Ccircle cx='11.5' cy='6' r='1.8' fill='%23fff'/%3E%3Cpath fill='%23fff' d='M9 13.5c0-1.7 1.2-2.8 2.5-2.8s2.5 1.1 2.5 2.8H9z'/%3E%3C/svg%3E");
+}
+
+.bi-all-characters-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6' r='1' fill='%234ade80'/%3E%3Ccircle cx='8' cy='6' r='1' fill='%23991b1b'/%3E%3Ccircle cx='10.5' cy='6' r='1' fill='%23c084fc'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23d97706'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%2322c55e'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%233b82f6'/%3E%3C/svg%3E");
+}
+
+.bi-jedi-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%2322c55e' d='M8 1.5 9.8 6h4.7l-3.8 2.8 1.5 4.7L8 10.9l-4.2 2.6 1.5-4.7-3.8-2.8h4.7z'/%3E%3C/svg%3E");
+}
+
+.bi-all-jedi-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%233b82f6'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%2322c55e'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%237c3aed'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23e2e8f0'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23eab308'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%233b82f6'/%3E%3C/svg%3E");
+}
+
+.bi-sith-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23dc2626' d='M8 1.5 9.8 6h4.7l-3.8 2.8 1.5 4.7L8 10.9l-4.2 2.6 1.5-4.7-3.8-2.8h4.7z'/%3E%3C/svg%3E");
+}
+
+.bi-all-sith-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%23991b1b'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%23dc2626'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%23450a0a'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23b91c1c'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23ea580c'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%237f1d1d'/%3E%3C/svg%3E");
+}
+
+.bi-planets-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='5' cy='8' r='2.5' fill='%23f4c542'/%3E%3Ccircle cx='10.5' cy='5.5' r='2' fill='%234a8c5c'/%3E%3Ccircle cx='11' cy='10.5' r='2' fill='%238b1a1a'/%3E%3Ccircle cx='7' cy='11.5' r='1.5' fill='%23b8d4e8'/%3E%3C/svg%3E");
+}
+
+.bi-all-planets-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6' r='1.2' fill='%23f4c542'/%3E%3Ccircle cx='8' cy='6' r='1.2' fill='%235a9e8f'/%3E%3Ccircle cx='10.5' cy='6' r='1.2' fill='%23c9a86c'/%3E%3Ccircle cx='5.5' cy='9.5' r='1.2' fill='%23b8d4e8'/%3E%3Ccircle cx='8' cy='9.5' r='1.2' fill='%23c44a1a'/%3E%3Ccircle cx='10.5' cy='9.5' r='1.2' fill='%238b1a1a'/%3E%3C/svg%3E");
+}
+
+.bi-ships-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M1 10 L8 4 L15 10 L13 13 L3 13 Z'/%3E%3Crect fill='%2394a3b8' x='6' y='7' width='4' height='3'/%3E%3Ccircle fill='%23e11d48' cx='4' cy='11' r='0.8'/%3E%3Ccircle fill='%2364748b' cx='8' cy='11' r='0.8'/%3E%3Ccircle fill='%236366f1' cx='12' cy='11' r='0.8'/%3E%3C/svg%3E");
+}
+
+.bi-all-ships-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%23e11d48'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%2364748b'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%236366f1'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23d97706'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23991b1b'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%230284c7'/%3E%3C/svg%3E");
+}
+
+.bi-naboo-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%235a9e8f'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%233d7568'/%3E%3C/svg%3E");
+}
+
+.bi-bespin-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%23e8c88a'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23b89a5a'/%3E%3C/svg%3E");
+}
+
+.bi-hoth-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%23b8d4e8'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%238aa8bf'/%3E%3C/svg%3E");
+}
+
+.bi-tatooine-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%23c9a86c'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%239a7840'/%3E%3C/svg%3E");
+}
+
+.bi-mustafar-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%23c44a1a'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%238a2f10'/%3E%3C/svg%3E");
+}
+
+.nav-item {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+.nav-section-top .nav-item {
+    padding-bottom: 0.125rem;
+}
+
+.nav-section-top .nav-item:last-child {
+    padding-bottom: 0.125rem;
+}
+
+    .nav-item:first-of-type {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item ::deep a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 2.5rem;
+        display: flex;
+        align-items: center;
+        line-height: 2.5rem;
+        padding: 0;
+    }
+
+.nav-section-top .nav-item ::deep a,
+.nav-section-top .nav-flyout-trigger {
+    height: 2.5rem;
+    line-height: 2.5rem;
+}
+
+.nav-item ::deep a.active {
+    background-color: rgba(255,255,255,0.37);
+    color: white;
+}
+
+.nav-item ::deep a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+.nav-dropdown-toggle {
+    width: 100%;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    text-align: left;
+    padding: 0;
+}
+
+.nav-section-top {
+    overflow: visible;
+}
+
+.nav-flyout {
+    position: relative;
+}
+
+.nav-flyout-trigger {
+    width: 100%;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    appearance: none;
+    color: #d7d7d7;
+    border-radius: 4px;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    line-height: 2.5rem;
+}
+
+.nav-flyout-trigger.nav-link {
+    padding: 0;
+}
+
+.nav-flyout-trigger .bi {
+    flex-shrink: 0;
+}
+
+.nav-flyout-trigger.active {
+    background-color: rgba(255, 255, 255, 0.37);
+    color: white;
+}
+
+.nav-flyout-trigger:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+.nav-flyout-chevron {
+    margin-left: auto;
+    width: 0.45rem;
+    height: 0.45rem;
+    border-top: 2px solid rgba(255, 255, 255, 0.65);
+    border-right: 2px solid rgba(255, 255, 255, 0.65);
+    transform: rotate(45deg);
+}
+
+.nav-flyout-menu {
+    display: none;
+}
+
+.nav-flyout-panel {
+    min-width: 11rem;
+    padding: 0.35rem;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 8px;
+    background: rgba(8, 10, 18, 0.96);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.55);
+}
+
+.nav-flyout-link {
+    height: 2.5rem !important;
+    line-height: 2.5rem !important;
+    font-size: 0.88rem;
+    padding: 0 0.65rem !important;
+    white-space: nowrap;
+}
+
+.nav-flyout-panel ::deep .nav-planet-link {
+    display: flex !important;
+    align-items: center;
+}
+
+.nav-flyout-panel ::deep .nav-faction-link,
+.nav-flyout-panel ::deep .nav-character-link,
+.nav-flyout-panel ::deep .nav-jedi-link,
+.nav-flyout-panel ::deep .nav-sith-link,
+.nav-flyout-panel ::deep .nav-ship-link {
+    display: flex !important;
+    align-items: center;
+}
+
+.nav-flyout-panel ::deep .nav-planet-dot,
+.nav-flyout-panel ::deep .nav-faction-dot,
+.nav-flyout-panel ::deep .nav-character-dot,
+.nav-flyout-panel ::deep .nav-jedi-dot,
+.nav-flyout-panel ::deep .nav-sith-dot,
+.nav-flyout-panel ::deep .nav-ship-dot {
+    width: 0.85rem;
+    height: 0.85rem;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.2);
+    flex-shrink: 0;
+    margin-right: 0.75rem;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.nav-flyout-panel ::deep .nav-planet-link:hover .nav-planet-dot,
+.nav-flyout-panel ::deep .nav-faction-link:hover .nav-faction-dot,
+.nav-flyout-panel ::deep .nav-character-link:hover .nav-character-dot,
+.nav-flyout-panel ::deep .nav-jedi-link:hover .nav-jedi-dot,
+.nav-flyout-panel ::deep .nav-sith-link:hover .nav-sith-dot,
+.nav-flyout-panel ::deep .nav-ship-link:hover .nav-ship-dot {
+    transform: scale(1.15);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.45);
+}
+
+.nav-flyout-panel-scroll {
+    max-height: min(70vh, 24rem);
+    overflow-y: auto;
+}
+
+.nav-flyout-divider {
+    height: 1px;
+    margin: 0.25rem 0.5rem 0.35rem;
+    background: rgba(255, 255, 255, 0.12);
+}
+
+.nav-all-planets-link ::deep .bi,
+.nav-all-characters-link ::deep .bi,
+.nav-all-jedi-link ::deep .bi,
+.nav-all-sith-link ::deep .bi,
+.nav-all-ships-link ::deep .bi {
+    margin-right: 0.75rem;
+}
+
+@media (max-width: 640.98px) {
+    .nav-flyout-menu {
+        position: static;
+        padding-left: 0;
+    }
+
+    .nav-flyout-panel {
+        margin-top: 0.2rem;
+        margin-left: 1.85rem;
+        padding-left: 0.65rem;
+        border-left: 1px solid rgba(255, 255, 255, 0.15);
+        border-radius: 0;
+        box-shadow: none;
+        background: transparent;
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        min-width: 0;
+    }
+
+    .nav-flyout-menu.is-open {
+        display: block;
+    }
+
+    .nav-flyout-chevron {
+        transform: rotate(135deg);
+    }
+
+    .nav-flyout:has(.nav-flyout-menu.is-open) .nav-flyout-chevron {
+        transform: rotate(-45deg);
+    }
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler {
+        display: none;
+    }
+
+    .collapse {
+        display: block;
+    }
+
+    .nav-scrollable {
+        height: calc(100vh - 3.5rem);
+        display: flex;
+        flex-direction: column;
+        overflow: visible;
+    }
+
+    .nav-scrollable .nav {
+        flex: 1;
+        min-height: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-flyout-menu {
+        display: block;
+        position: absolute;
+        left: 100%;
+        top: 0;
+        z-index: 30;
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transform: translateX(-6px);
+        transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
+        padding-left: 0.5rem;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        min-width: 0;
+    }
+
+    .nav-flyout-menu::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 0.5rem;
+        height: 100%;
+    }
+
+    .nav-flyout:hover .nav-flyout-menu,
+    .nav-flyout-menu:hover {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        transform: translateX(0);
+    }
+
+    .nav-flyout-chevron {
+        display: none;
+    }
+}

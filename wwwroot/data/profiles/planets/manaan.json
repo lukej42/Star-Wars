@@ -1,0 +1,62 @@
+{
+  "overview": "Manaan is remembered across the galaxy as a inner rim whose story intersects with pivotal eras of Star Wars history. An ocean planet governed by the neutral Selkath, sole source of the healing kolto. Scholars of the Inner traditions cite Manaan when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Manaan within the broader tapestry of the Inner Rim, long before the conflicts that would define modern galactic politics. An ocean planet governed by the neutral Selkath, sole source of the healing kolto. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Manaan was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Manaan's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Manaan serves as a lens for understanding the inner rim and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Manaan embodies the ideals and contradictions associated with the inner rim. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Manaan alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a9ab8 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Manaan marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Manaan within galactic records",
+    "Played a key role during the Old Republic in Inner Rim",
+    "Survived or shaped a major battle linked to Manaan's reputation",
+    "Formed alliances that reflected the priorities of the inner rim",
+    "Confronted rivals who challenged Manaan's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Manaan's choices"
+  ],
+  "affiliations": [
+    "Inner Rim",
+    "Allies of Manaan",
+    "Galactic historians' archives",
+    "Inner networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Manaan enters historical record as inner rim"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to an ocean planet governed by the neutral selkath, sole source of the healing kolto"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as institutions around Manaan fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated by scholars of the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Inner Rim"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/manaan.svg",
+      "caption": "Globe view of Manaan"
+    },
+    {
+      "path": "/images/planets/manaan-scene.svg",
+      "caption": "Surface landscape of Manaan"
+    },
+    {
+      "path": "/images/planets/manaan-chart.svg",
+      "caption": "Star chart marker for Manaan"
+    }
+  ]
+}

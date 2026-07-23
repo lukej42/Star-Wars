@@ -1,0 +1,61 @@
+{
+  "overview": "Tatooine is a harsh desert world orbiting twin suns at the edge of the Outer Rim, famous as the homeworld of Anakin and Luke Skywalker. Lawless spaceports, moisture farms, and Hutt-controlled crime dominate life beneath endless dunes, while ancient secrets lie buried in the Jundland Wastes and beyond.",
+  "history": "Once lush according to legend, Tatooine's oceans vanished millennia ago, leaving a scorched landscape ruled by jawas, tusken raiders, and off-world miners. The planet avoided Republic oversight for centuries, becoming a haven for smugglers and slavers.\n\nThe Boonta Eve Classic podrace and Mos Eisley cantina epitomized Tatooine's frontier culture when Qui-Gon Jinn discovered young Anakin Skywalker in Mos Espa. The boy's victory in the podrace freed him from Watto and set galactic history in motion.\n\nUnder the Empire, Tatooine remained a backwater yet hosted fugitive Jedi in exile. Obi-Wan Kenobi guarded Luke on a moisture farm while the Lars family tried to live quietly.\n\nJabba the Hutt's death and later cartel shifts changed the underworld balance, but Tatooine stayed synonymous with destiny, hardship, and the Skywalker saga's beginnings.",
+  "significance": "Tatooine is the mythic starting point of the hero's journey in Star Wars—remote, dusty, and seemingly insignificant until the Force reveals otherwise.\n\nIts twin suns and endless desert visually symbolize isolation and longing, themes repeated whenever characters return to the world.\n\nEconomically, Tatooine's moisture farming, podracing, and Hutt racketeering illustrate how the Outer Rim survives without Core World infrastructure.",
+  "notableEvents": [
+    "Qui-Gon Jinn discovered Anakin Skywalker in Mos Espa",
+    "Anakin won the Boonta Eve Classic podrace and left the planet",
+    "Obi-Wan Kenobi brought infant Luke Skywalker to the Lars homestead",
+    "Luke Skywalker joined the Rebellion after stormtroopers killed the Lars family",
+    "Jabba the Hutt held Han Solo captive in his palace",
+    "Luke and allies rescued Han Solo and destroyed Jabba's sail barge",
+    "Boba Fett returned to rule Mos Espa in the New Republic era"
+  ],
+  "affiliations": [
+    "Hutt Cartel",
+    "Galactic Republic ( nominal )",
+    "Galactic Empire (occupation-light)",
+    "Moisture farmers' guilds",
+    "Jawa clans and Tusken tribes"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Became a backwater after ecological collapse"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Hosted Jabba negotiations and Clone Wars skirmishes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Sheltered Obi-Wan Kenobi and Luke Skywalker in hiding"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Luke left to join the Rebellion after personal tragedy"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Saw Jabba's criminal empire destroyed"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remained a frontier hub for smugglers and settlers"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/tatooine-space.png",
+      "caption": "Globe view of Tatooine"
+    },
+    {
+      "path": "/images/planets/tatooine-scene.svg",
+      "caption": "Surface landscape of Tatooine"
+    },
+    {
+      "path": "/images/planets/tatooine-chart.svg",
+      "caption": "Star chart marker for Tatooine"
+    }
+  ]
+}

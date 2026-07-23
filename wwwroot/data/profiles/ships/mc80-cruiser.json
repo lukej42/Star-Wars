@@ -1,0 +1,63 @@
+{
+  "overview": "The MC80 Star Cruiser is a star cruiser whose service history spans Galactic Civil War (0 BBY–5 ABY). Mon Calamari-built capital ships that formed the backbone of the Rebel fleet, including Admiral Ackbar's Home One. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~40 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the MC80 Star Cruiser during the political tensions that defined Galactic Civil War (0 BBY–5 ABY). Engineers prioritised capabilities suited to its role as a star cruiser, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the MC80 Star Cruiser entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. Mon Calamari-built capital ships that formed the backbone of the Rebel fleet, including Admiral Ackbar's Home One. Veterans praised its reliability under fire while analysts debated whether mass production at ~40 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the star cruiser could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the MC80 Star Cruiser symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The MC80 Star Cruiser illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its star cruiser layout influenced successor designs long after production lines fell silent.\n\nApproximately ~40 units hulls served during Galactic Civil War (0 BBY–5 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the MC80 Star Cruiser remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Galactic Civil War (0 BBY–5 ABY)",
+    "Estimated production run of ~40 units",
+    "Deployed in fleet actions tied to mon calamari-built capital ships that formed the backbone of the rebel fleet, including admiral ackbar's home one",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating star cruiser crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Star Cruiser fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "MC80 Star Cruiser design approved and prototype tested"
+    },
+    {
+      "era": "New Republic",
+      "event": "Mass production reaches ~40 units across active shipyards"
+    },
+    {
+      "era": "First Order",
+      "event": "First major fleet deployment of the star cruiser"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Notable battle honour linked to MC80 Star Cruiser class actions"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "High Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/mc80-cruiser.svg",
+      "caption": "Profile view of the MC80 Star Cruiser"
+    },
+    {
+      "path": "/images/ships/mc80-cruiser-scene.svg",
+      "caption": "Combat deployment — MC80 Star Cruiser"
+    },
+    {
+      "path": "/images/ships/mc80-cruiser-blueprint.svg",
+      "caption": "Technical schematic — MC80 Star Cruiser"
+    }
+  ]
+}

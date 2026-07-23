@@ -1,0 +1,62 @@
+{
+  "overview": "Ezra Bridger is remembered across the galaxy as a jedi padawan whose story intersects with pivotal eras of Star Wars history. A Lothal orphan who became Kanan Jarrus's apprentice and a key leader of the early rebellion. Scholars of the Jedi traditions cite Ezra Bridger when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Ezra Bridger within the broader tapestry of the Jedi Padawan, long before the conflicts that would define modern galactic politics. A Lothal orphan who became Kanan Jarrus's apprentice and a key leader of the early rebellion. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Ezra Bridger was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Ezra Bridger's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Ezra Bridger serves as a lens for understanding the jedi padawan and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Ezra Bridger embodies the ideals and contradictions associated with the jedi padawan. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Ezra Bridger alive in holodramas, academy lectures, and pilgrim routes. The accent color #22c55e often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Ezra Bridger marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Ezra Bridger within galactic records",
+    "Played a key role during the Imperial Era in Jedi Padawan",
+    "Survived or shaped a major battle linked to Ezra Bridger's reputation",
+    "Formed alliances that reflected the priorities of the jedi padawan",
+    "Confronted rivals who challenged Ezra Bridger's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Ezra Bridger's choices"
+  ],
+  "affiliations": [
+    "Jedi Padawan",
+    "Allies of Ezra Bridger",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Ezra Bridger enters historical record as jedi padawan"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a lothal orphan who became kanan jarrus's apprentice and a key leader of the early rebellion"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Ezra Bridger fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Jedi Padawan"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/ezra-bridger.svg",
+      "caption": "Portrait of Ezra Bridger"
+    },
+    {
+      "path": "/images/jedi/ezra-bridger-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Ezra Bridger"
+    },
+    {
+      "path": "/images/jedi/ezra-bridger-emblem.svg",
+      "caption": "Jedi Order emblem associated with Ezra Bridger"
+    }
+  ]
+}

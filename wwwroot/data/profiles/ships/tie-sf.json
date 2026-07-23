@@ -1,0 +1,63 @@
+{
+  "overview": "The TIE/sf Fighter is a special forces fighter whose service history spans First Order (34 ABY–35 ABY). A two-seat TIE variant with sensor packages and heavy weapons for First Order special operations. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~45,000 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the TIE/sf Fighter during the political tensions that defined First Order (34 ABY–35 ABY). Engineers prioritised capabilities suited to its role as a special forces fighter, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the TIE/sf Fighter entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A two-seat TIE variant with sensor packages and heavy weapons for First Order special operations. Veterans praised its reliability under fire while analysts debated whether mass production at ~45,000 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the special forces fighter could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the TIE/sf Fighter symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The TIE/sf Fighter illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its special forces fighter layout influenced successor designs long after production lines fell silent.\n\nApproximately ~45,000 units hulls served during First Order (34 ABY–35 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the TIE/sf Fighter remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during First Order (34 ABY–35 ABY)",
+    "Estimated production run of ~45,000 units",
+    "Deployed in fleet actions tied to a two-seat tie variant with sensor packages and heavy weapons for first order special operations",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating special forces fighter crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "First Order",
+    "Special Forces Fighter fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "TIE/sf Fighter design approved and prototype tested"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Mass production reaches ~45,000 units across active shipyards"
+    },
+    {
+      "era": "New Republic",
+      "event": "First major fleet deployment of the special forces fighter"
+    },
+    {
+      "era": "First Order",
+      "event": "Notable battle honour linked to TIE/sf Fighter class actions"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/tie-sf.svg",
+      "caption": "Profile view of the TIE/sf Fighter"
+    },
+    {
+      "path": "/images/ships/tie-sf-scene.svg",
+      "caption": "Combat deployment — TIE/sf Fighter"
+    },
+    {
+      "path": "/images/ships/tie-sf-blueprint.svg",
+      "caption": "Technical schematic — TIE/sf Fighter"
+    }
+  ]
+}

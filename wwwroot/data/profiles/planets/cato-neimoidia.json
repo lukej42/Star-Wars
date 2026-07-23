@@ -1,0 +1,62 @@
+{
+  "overview": "Cato Neimoidia is remembered across the galaxy as a colonies whose story intersects with pivotal eras of Star Wars history. A wealthy Trade Federation purse world of bridge cities suspended above fungal forests. Scholars of the Colonies traditions cite Cato Neimoidia when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Cato Neimoidia within the broader tapestry of the Colonies, long before the conflicts that would define modern galactic politics. A wealthy Trade Federation purse world of bridge cities suspended above fungal forests. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Cato Neimoidia was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Cato Neimoidia's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Cato Neimoidia serves as a lens for understanding the colonies and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Cato Neimoidia embodies the ideals and contradictions associated with the colonies. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Cato Neimoidia alive in holodramas, academy lectures, and pilgrim routes. The accent color #9a8a6a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Cato Neimoidia marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Cato Neimoidia within galactic records",
+    "Played a key role during the Imperial Era in Colonies",
+    "Survived or shaped a major battle linked to Cato Neimoidia's reputation",
+    "Formed alliances that reflected the priorities of the colonies",
+    "Confronted rivals who challenged Cato Neimoidia's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Cato Neimoidia's choices"
+  ],
+  "affiliations": [
+    "Colonies",
+    "Allies of Cato Neimoidia",
+    "Galactic historians' archives",
+    "Colonies networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Cato Neimoidia enters historical record as colonies"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a wealthy trade federation purse world of bridge cities suspended above fungal forests"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Cato Neimoidia fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Colonies"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/cato-neimoidia.svg",
+      "caption": "Globe view of Cato Neimoidia"
+    },
+    {
+      "path": "/images/planets/cato-neimoidia-scene.svg",
+      "caption": "Surface landscape of Cato Neimoidia"
+    },
+    {
+      "path": "/images/planets/cato-neimoidia-chart.svg",
+      "caption": "Star chart marker for Cato Neimoidia"
+    }
+  ]
+}

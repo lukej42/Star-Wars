@@ -1,0 +1,62 @@
+{
+  "overview": "Darth Vitiate is remembered across the galaxy as a sith emperor whose story intersects with pivotal eras of Star Wars history. Tenebrae, an immortal Sith who consumed his homeworld's life force and ruled the reconstituted Sith Empire for centuries. Scholars of the Sith traditions cite Darth Vitiate when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Darth Vitiate within the broader tapestry of the Sith Emperor, long before the conflicts that would define modern galactic politics. Tenebrae, an immortal Sith who consumed his homeworld's life force and ruled the reconstituted Sith Empire for centuries. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Darth Vitiate was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Darth Vitiate's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Darth Vitiate serves as a lens for understanding the sith emperor and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Darth Vitiate embodies the ideals and contradictions associated with the sith emperor. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Darth Vitiate alive in holodramas, academy lectures, and pilgrim routes. The accent color #450a0a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Darth Vitiate marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Darth Vitiate within galactic records",
+    "Played a key role during the Clone Wars in Sith Emperor",
+    "Survived or shaped a major battle linked to Darth Vitiate's reputation",
+    "Formed alliances that reflected the priorities of the sith emperor",
+    "Confronted rivals who challenged Darth Vitiate's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Darth Vitiate's choices"
+  ],
+  "affiliations": [
+    "Sith Emperor",
+    "Allies of Darth Vitiate",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Darth Vitiate enters historical record as sith emperor"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Participates in a pivotal campaign during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Becomes widely known for actions tied to tenebrae, an immortal sith who consumed his homeworld's life force and ruled the reconstituted sith empire for centuries"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Darth Vitiate fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Sith Emperor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/darth-vitiate.svg",
+      "caption": "Portrait of Darth Vitiate"
+    },
+    {
+      "path": "/images/sith/darth-vitiate-scene.svg",
+      "caption": "Dark side lightning scene — Darth Vitiate"
+    },
+    {
+      "path": "/images/sith/darth-vitiate-emblem.svg",
+      "caption": "Sith emblem associated with Darth Vitiate"
+    }
+  ]
+}

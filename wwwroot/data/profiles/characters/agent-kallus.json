@@ -1,0 +1,63 @@
+{
+  "overview": "Agent Kallus stands among the saga's most memorable figures, known throughout the galaxy as a imperial agent. An ISB agent who hunted the Ghost crew before his conscience turned him into a Rebel spy. From backwater cantinas to senate chambers and fleet command centers, Agent Kallus's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Agent Kallus are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. An ISB agent who hunted the Ghost crew before his conscience turned him into a Rebel spy. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Agent Kallus was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Agent Kallus tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Agent Kallus. Some entries flatter, others condemn, but historians agree that ignoring Agent Kallus makes any chronicle of the era incomplete.\n\nModern scholars cite Agent Kallus when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Agent Kallus demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a imperial agent, Agent Kallus connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Agent Kallus alive in holodramas, recruitment posters, and cantina songs. The color #64748b often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Agent Kallus marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Agent Kallus in galactic records",
+    "Rose to prominence as a imperial agent during the Clone Wars",
+    "Survived or orchestrated a pivotal encounter tied to Agent Kallus's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Agent Kallus's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the New Republic",
+    "Inspired later generations who retold Agent Kallus's choices in myth and media"
+  ],
+  "affiliations": [
+    "Imperial Agent",
+    "Independent agents",
+    "Allied factions",
+    "Local militias",
+    "Trade consortiums",
+    "Historians' guilds"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Agent Kallus enters the historical record as a imperial agent"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Builds a reputation during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Acts decisively in events tied to an isb agent who hunted the ghost crew before his conscience turned him into a rebel spy"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Plays a role in campaigns associated with the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated and commemorated across the First Order"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/agent-kallus.svg",
+      "caption": "Portrait of Agent Kallus"
+    },
+    {
+      "path": "/images/characters/agent-kallus-scene.svg",
+      "caption": "Scene from the life of Agent Kallus"
+    },
+    {
+      "path": "/images/characters/agent-kallus-emblem.svg",
+      "caption": "Insignia associated with Agent Kallus"
+    }
+  ]
+}

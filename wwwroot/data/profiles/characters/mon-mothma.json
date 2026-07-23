@@ -1,0 +1,63 @@
+{
+  "overview": "Mon Mothma stands among the saga's most memorable figures, known throughout the galaxy as a rebel leader. A Chandrilan senator who publicly denounced the Empire and became the political leader of the Alliance. From backwater cantinas to senate chambers and fleet command centers, Mon Mothma's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Mon Mothma are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A Chandrilan senator who publicly denounced the Empire and became the political leader of the Alliance. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Mon Mothma was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Mon Mothma tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Mon Mothma. Some entries flatter, others condemn, but historians agree that ignoring Mon Mothma makes any chronicle of the era incomplete.\n\nModern scholars cite Mon Mothma when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Mon Mothma demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a rebel leader, Mon Mothma connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Mon Mothma alive in holodramas, recruitment posters, and cantina songs. The color #6366f1 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Mon Mothma marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Mon Mothma in galactic records",
+    "Rose to prominence as a rebel leader during the Galactic Civil War",
+    "Survived or orchestrated a pivotal encounter tied to Mon Mothma's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Mon Mothma's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Ancient Era",
+    "Inspired later generations who retold Mon Mothma's choices in myth and media"
+  ],
+  "affiliations": [
+    "Rebel Leader",
+    "Senate delegations",
+    "Royal courts",
+    "Diplomatic corps",
+    "Relief foundations",
+    "Allied systems"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Mon Mothma enters the historical record as a rebel leader"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Builds a reputation during the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Acts decisively in events tied to a chandrilan senator who publicly denounced the empire and became the political leader of the alliance"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Plays a role in campaigns associated with the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated and commemorated across the Old Republic"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/mon-mothma.svg",
+      "caption": "Portrait of Mon Mothma"
+    },
+    {
+      "path": "/images/characters/mon-mothma-scene.svg",
+      "caption": "Scene from the life of Mon Mothma"
+    },
+    {
+      "path": "/images/characters/mon-mothma-emblem.svg",
+      "caption": "Insignia associated with Mon Mothma"
+    }
+  ]
+}

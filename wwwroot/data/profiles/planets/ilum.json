@@ -1,0 +1,62 @@
+{
+  "overview": "Ilum is remembered across the galaxy as a unknown regions whose story intersects with pivotal eras of Star Wars history. An ice planet sacred to the Jedi Order, source of kyber crystals and later Starkiller Base. Scholars of the Unknown traditions cite Ilum when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Ilum within the broader tapestry of the Unknown Regions, long before the conflicts that would define modern galactic politics. An ice planet sacred to the Jedi Order, source of kyber crystals and later Starkiller Base. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Ilum was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Ilum's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Ilum serves as a lens for understanding the unknown regions and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Ilum embodies the ideals and contradictions associated with the unknown regions. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Ilum alive in holodramas, academy lectures, and pilgrim routes. The accent color #a8d8f0 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Ilum marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Ilum within galactic records",
+    "Played a key role during the Imperial Era in Unknown Regions",
+    "Survived or shaped a major battle linked to Ilum's reputation",
+    "Formed alliances that reflected the priorities of the unknown regions",
+    "Confronted rivals who challenged Ilum's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Ilum's choices"
+  ],
+  "affiliations": [
+    "Unknown Regions",
+    "Allies of Ilum",
+    "Galactic historians' archives",
+    "Unknown networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Ilum enters historical record as unknown regions"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to an ice planet sacred to the jedi order, source of kyber crystals and later starkiller base"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Ilum fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Unknown Regions"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ilum.svg",
+      "caption": "Globe view of Ilum"
+    },
+    {
+      "path": "/images/planets/ilum-scene.svg",
+      "caption": "Surface landscape of Ilum"
+    },
+    {
+      "path": "/images/planets/ilum-chart.svg",
+      "caption": "Star chart marker for Ilum"
+    }
+  ]
+}

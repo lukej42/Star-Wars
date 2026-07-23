@@ -1,0 +1,62 @@
+{
+  "overview": "Telos is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A world devastated by the Sith then rebuilt as the Citadel Station orbital restoration project. Scholars of the Outer traditions cite Telos when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Telos within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A world devastated by the Sith then rebuilt as the Citadel Station orbital restoration project. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Telos was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Telos's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Telos serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Telos embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Telos alive in holodramas, academy lectures, and pilgrim routes. The accent color #6a8aaa often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Telos marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Telos within galactic records",
+    "Played a key role during the High Republic in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Telos's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Telos's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Galactic Civil War",
+    "Inspired later movements that reinterpreted Telos's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Telos",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Telos enters historical record as outer rim territories"
+    },
+    {
+      "era": "High Republic",
+      "event": "Participates in a pivotal campaign during the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Becomes widely known for actions tied to a world devastated by the sith then rebuilt as the citadel station orbital restoration project"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Navigates crisis as institutions around Telos fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated by scholars of the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/telos.svg",
+      "caption": "Globe view of Telos"
+    },
+    {
+      "path": "/images/planets/telos-scene.svg",
+      "caption": "Surface landscape of Telos"
+    },
+    {
+      "path": "/images/planets/telos-chart.svg",
+      "caption": "Star chart marker for Telos"
+    }
+  ]
+}

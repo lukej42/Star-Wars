@@ -1,0 +1,63 @@
+{
+  "overview": "The Slave I is a firespray-31 patrol craft whose service history spans Clone Wars through New Republic. A heavily armed bounty hunter ship with a distinctive vertical profile, flown by Jango and Boba Fett. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~6 Firespray hulls (most scrapped), though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Slave I during the political tensions that defined Clone Wars through New Republic. Engineers prioritised capabilities suited to its role as a firespray-31 patrol craft, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Slave I entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A heavily armed bounty hunter ship with a distinctive vertical profile, flown by Jango and Boba Fett. Veterans praised its reliability under fire while analysts debated whether mass production at ~6 Firespray hulls (most scrapped) diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the firespray-31 patrol craft could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Slave I symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Slave I illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its firespray-31 patrol craft layout influenced successor designs long after production lines fell silent.\n\nApproximately ~6 Firespray hulls (most scrapped) hulls served during Clone Wars through New Republic, making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Slave I remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars through New Republic",
+    "Estimated production run of ~6 Firespray hulls (most scrapped)",
+    "Deployed in fleet actions tied to a heavily armed bounty hunter ship with a distinctive vertical profile, flown by jango and boba fett",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating firespray-31 patrol craft crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Bounty hunter guilds",
+    "Firespray-31 Patrol Craft fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Slave I design approved and prototype tested"
+    },
+    {
+      "era": "High Republic",
+      "event": "Mass production reaches ~6 Firespray hulls (most scrapped) across active shipyards"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "First major fleet deployment of the firespray-31 patrol craft"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Notable battle honour linked to Slave I class actions"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/slave-i.svg",
+      "caption": "Profile view of the Slave I"
+    },
+    {
+      "path": "/images/ships/slave-i-scene.svg",
+      "caption": "Combat deployment — Slave I"
+    },
+    {
+      "path": "/images/ships/slave-i-blueprint.svg",
+      "caption": "Technical schematic — Slave I"
+    }
+  ]
+}

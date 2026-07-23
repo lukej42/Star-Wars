@@ -1,0 +1,63 @@
+{
+  "overview": "The YT-2400 Light Freighter is a light freighter whose service history spans Galactic Civil War (3 BBY–4 ABY). A Corellian freighter design similar to the YT-1300, famously flown by Dash Rendar as the Outrider. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~320 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the YT-2400 Light Freighter during the political tensions that defined Galactic Civil War (3 BBY–4 ABY). Engineers prioritised capabilities suited to its role as a light freighter, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the YT-2400 Light Freighter entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A Corellian freighter design similar to the YT-1300, famously flown by Dash Rendar as the Outrider. Veterans praised its reliability under fire while analysts debated whether mass production at ~320 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the light freighter could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the YT-2400 Light Freighter symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The YT-2400 Light Freighter illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its light freighter layout influenced successor designs long after production lines fell silent.\n\nApproximately ~320 units hulls served during Galactic Civil War (3 BBY–4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the YT-2400 Light Freighter remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Galactic Civil War (3 BBY–4 ABY)",
+    "Estimated production run of ~320 units",
+    "Deployed in fleet actions tied to a corellian freighter design similar to the yt-1300, famously flown by dash rendar as the outrider",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating light freighter crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Independent spacers",
+    "Light Freighter fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "YT-2400 Light Freighter design approved and prototype tested"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Mass production reaches ~320 units across active shipyards"
+    },
+    {
+      "era": "Old Republic",
+      "event": "First major fleet deployment of the light freighter"
+    },
+    {
+      "era": "High Republic",
+      "event": "Notable battle honour linked to YT-2400 Light Freighter class actions"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/yt-2400.svg",
+      "caption": "Profile view of the YT-2400 Light Freighter"
+    },
+    {
+      "path": "/images/ships/yt-2400-scene.svg",
+      "caption": "Combat deployment — YT-2400 Light Freighter"
+    },
+    {
+      "path": "/images/ships/yt-2400-blueprint.svg",
+      "caption": "Technical schematic — YT-2400 Light Freighter"
+    }
+  ]
+}

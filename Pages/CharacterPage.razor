@@ -1,0 +1,57 @@
+@page "/characters/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(character?.Name ?? "Character")</PageTitle>
+
+@if (character is null)
+{
+    <h1>Character not found</h1>
+    <p>Sorry, there are no records for this character.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading character records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@character.Name"
+                          HeroImagePath="@character.ImagePath"
+                          HeroImageAlt="@($"Portrait of {character.Name}")"
+                          Subtitle="@character.Role"
+                          OverviewText="@(profile?.Overview ?? character.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Legacy and impact"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@character.Color" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private Character? character;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        character = CharacterData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (character is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("characters", character.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

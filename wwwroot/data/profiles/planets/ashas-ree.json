@@ -1,0 +1,62 @@
+{
+  "overview": "Ashas Ree is remembered across the galaxy as a sith space whose story intersects with pivotal eras of Star Wars history. An ancient Sith tomb world shrouded in dark side energy and crumbling sanctuaries. Scholars of the Sith traditions cite Ashas Ree when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Ashas Ree within the broader tapestry of the Sith Space, long before the conflicts that would define modern galactic politics. An ancient Sith tomb world shrouded in dark side energy and crumbling sanctuaries. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Ashas Ree was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Ashas Ree's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Ashas Ree serves as a lens for understanding the sith space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Ashas Ree embodies the ideals and contradictions associated with the sith space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Ashas Ree alive in holodramas, academy lectures, and pilgrim routes. The accent color #5c3a6b often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Ashas Ree marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Ashas Ree within galactic records",
+    "Played a key role during the Galactic Civil War in Sith Space",
+    "Survived or shaped a major battle linked to Ashas Ree's reputation",
+    "Formed alliances that reflected the priorities of the sith space",
+    "Confronted rivals who challenged Ashas Ree's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Ashas Ree's choices"
+  ],
+  "affiliations": [
+    "Sith Space",
+    "Allies of Ashas Ree",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Ashas Ree enters historical record as sith space"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Becomes widely known for actions tied to an ancient sith tomb world shrouded in dark side energy and crumbling sanctuaries"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Ashas Ree fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Sith Space"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ashas-ree.svg",
+      "caption": "Globe view of Ashas Ree"
+    },
+    {
+      "path": "/images/planets/ashas-ree-scene.svg",
+      "caption": "Surface landscape of Ashas Ree"
+    },
+    {
+      "path": "/images/planets/ashas-ree-chart.svg",
+      "caption": "Star chart marker for Ashas Ree"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "overview": "Din Djarin is a Mandalorian bounty hunter who found a new creed protecting Grogu, the Force-sensitive foundling known to fans as the Child. Bound by the Way of Mandalore yet willing to break clan rules for honor, he became a symbol of quiet heroism in the Outer Rim.",
+  "history": "Rescued from a Separatist attack as a child and raised as a foundling by the Children of the Watch, Din learned to never remove his helmet in the presence of others. He built a reputation as a skilled if solitary hunter working through the Bounty Hunters' Guild.\n\nA commission to capture Grogu ended when Din chose the child's safety over payment, making enemies of Moff Gideon and Imperial remnants. Allies like Cara Dune, Bo-Katan, and later the Armorer shaped his path back toward Mandalorian unity.\n\nDin wielded the Darksaber briefly, attempted to redeem Mandalore, and ultimately took Grogu as his formal apprentice in the ways of Mandalore while allowing the foundling to train with Luke Skywalker.\n\nHis story reframed Mandalorian culture for a new era—honor, found family, and the creed above fame.",
+  "significance": "Din Djarin revitalized Mandalorian mystique for modern audiences, blending western and samurai tropes with Star Wars frontier politics.\n\nHis bond with Grogu became a cultural phenomenon, illustrating guardianship over conquest.\n\nBy reuniting scattered Mandalorian clans, Din helped restore a people nearly erased by the Great Purge.",
+  "notableEvents": [
+    "Saved Grogu from Imperial remnant forces on Nevarro",
+    "Defeated an Imperial light cruiser with allies above Nevarro",
+    "Wielded the Darksaber in Mandalorian succession rites",
+    "Journeyed to Mandalore seeking redemption for his people",
+    "Formally adopted Grogu as a Mandalorian apprentice",
+    "Worked with Bo-Katan to reclaim Mandalore"
+  ],
+  "affiliations": [
+    "Children of the Watch",
+    "Bounty Hunters' Guild",
+    "Clan Mudhorn",
+    "Nevarro community",
+    "Mandalorian survivors"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Rescued by Mandalorian warriors as a foundling"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Raised in the covert and became a bounty hunter"
+    },
+    {
+      "era": "New Republic",
+      "event": "Protected Grogu and turned against Imperial clients"
+    },
+    {
+      "era": "New Republic",
+      "event": "Led efforts to restore Mandalore and unite clans"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/din-djarin.svg",
+      "caption": "Portrait of Din Djarin"
+    },
+    {
+      "path": "/images/characters/din-djarin-scene.svg",
+      "caption": "Scene from the life of Din Djarin"
+    },
+    {
+      "path": "/images/characters/din-djarin-emblem.svg",
+      "caption": "Insignia associated with Din Djarin"
+    }
+  ]
+}

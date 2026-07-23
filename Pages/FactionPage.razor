@@ -1,0 +1,35 @@
+@page "/factions/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Components
+
+<PageTitle>@(faction?.Name ?? "Faction")</PageTitle>
+
+@if (faction is null)
+{
+    <h1>Faction not found</h1>
+    <p>Sorry, there are no records for this faction.</p>
+}
+else
+{
+    <FactionPageShell Name="@faction.Name"
+                      ImagePath="@faction.ImagePath"
+                      Subtitle="@faction.Era"
+                      YearsActive="@faction.YearsActive"
+                      Capital="@faction.Capital"
+                      Government="@faction.Government"
+                      Description="@faction.Description"
+                      AccentColor="@faction.Color" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private Faction? faction;
+
+    protected override void OnParametersSet()
+    {
+        faction = FactionData.GetBySlug(Slug);
+    }
+}

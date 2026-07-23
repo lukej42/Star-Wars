@@ -1,0 +1,62 @@
+{
+  "overview": "Jakku is remembered across the galaxy as a western reaches whose story intersects with pivotal eras of Star Wars history. A desert world littered with starship graveyards from the Battle of Jakku. Scholars of the Western traditions cite Jakku when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Jakku within the broader tapestry of the Western Reaches, long before the conflicts that would define modern galactic politics. A desert world littered with starship graveyards from the Battle of Jakku. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Jakku was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Jakku's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Jakku serves as a lens for understanding the western reaches and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Jakku embodies the ideals and contradictions associated with the western reaches. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Jakku alive in holodramas, academy lectures, and pilgrim routes. The accent color #c9a070 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Jakku marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Jakku within galactic records",
+    "Played a key role during the New Republic in Western Reaches",
+    "Survived or shaped a major battle linked to Jakku's reputation",
+    "Formed alliances that reflected the priorities of the western reaches",
+    "Confronted rivals who challenged Jakku's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Jakku's choices"
+  ],
+  "affiliations": [
+    "Western Reaches",
+    "Allies of Jakku",
+    "Galactic historians' archives",
+    "Western networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Jakku enters historical record as western reaches"
+    },
+    {
+      "era": "New Republic",
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to a desert world littered with starship graveyards from the battle of jakku"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Jakku fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Western Reaches"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/jakku.svg",
+      "caption": "Globe view of Jakku"
+    },
+    {
+      "path": "/images/planets/jakku-scene.svg",
+      "caption": "Surface landscape of Jakku"
+    },
+    {
+      "path": "/images/planets/jakku-chart.svg",
+      "caption": "Star chart marker for Jakku"
+    }
+  ]
+}

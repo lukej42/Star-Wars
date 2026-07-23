@@ -1,0 +1,62 @@
+{
+  "overview": "Taris is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. Once a ecumenopolis rivaling Coruscant, now a ruin overrun by rakghouls after orbital bombardment. Scholars of the Outer traditions cite Taris when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Taris within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. Once a ecumenopolis rivaling Coruscant, now a ruin overrun by rakghouls after orbital bombardment. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Taris was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Taris's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Taris serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Taris embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Taris alive in holodramas, academy lectures, and pilgrim routes. The accent color #5a6a7a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Taris marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Taris within galactic records",
+    "Played a key role during the Clone Wars in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Taris's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Taris's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Taris's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Taris",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Taris enters historical record as outer rim territories"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Participates in a pivotal campaign during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Becomes widely known for actions tied to once a ecumenopolis rivaling coruscant, now a ruin overrun by rakghouls after orbital bombardment"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Taris fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/taris.svg",
+      "caption": "Globe view of Taris"
+    },
+    {
+      "path": "/images/planets/taris-scene.svg",
+      "caption": "Surface landscape of Taris"
+    },
+    {
+      "path": "/images/planets/taris-chart.svg",
+      "caption": "Star chart marker for Taris"
+    }
+  ]
+}

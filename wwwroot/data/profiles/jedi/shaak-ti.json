@@ -1,0 +1,62 @@
+{
+  "overview": "Shaak Ti is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A Togruta Jedi Council member who oversaw clone trooper training on Kamino during the war. Scholars of the Jedi traditions cite Shaak Ti when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Shaak Ti within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A Togruta Jedi Council member who oversaw clone trooper training on Kamino during the war. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Shaak Ti was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Shaak Ti's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Shaak Ti serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Shaak Ti embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Shaak Ti alive in holodramas, academy lectures, and pilgrim routes. The accent color #3b82f6 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Shaak Ti marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Shaak Ti within galactic records",
+    "Played a key role during the New Republic in Jedi Master",
+    "Survived or shaped a major battle linked to Shaak Ti's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Shaak Ti's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Shaak Ti's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Shaak Ti",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Shaak Ti enters historical record as jedi master"
+    },
+    {
+      "era": "New Republic",
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to a togruta jedi council member who oversaw clone trooper training on kamino during the war"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Shaak Ti fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/shaak-ti.svg",
+      "caption": "Portrait of Shaak Ti"
+    },
+    {
+      "path": "/images/jedi/shaak-ti-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Shaak Ti"
+    },
+    {
+      "path": "/images/jedi/shaak-ti-emblem.svg",
+      "caption": "Jedi Order emblem associated with Shaak Ti"
+    }
+  ]
+}

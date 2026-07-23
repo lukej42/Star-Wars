@@ -1,0 +1,328 @@
+.galaxy-map-intro {
+    margin-bottom: 1rem;
+    color: rgba(255, 255, 255, 0.72);
+}
+
+.galaxy-map-shell {
+    max-width: none;
+}
+
+.galaxy-map-controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 0.85rem 1.25rem;
+    margin-bottom: 0.75rem;
+}
+
+.galaxy-search {
+    position: relative;
+    flex: 1 1 280px;
+    max-width: 420px;
+}
+
+.galaxy-search-label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-size: 0.78rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.45);
+}
+
+.galaxy-search-input {
+    width: 100%;
+    padding: 0.65rem 0.85rem;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    font-size: 0.95rem;
+}
+
+.galaxy-search-input:focus {
+    outline: none;
+    border-color: rgba(126, 184, 255, 0.65);
+    box-shadow: 0 0 0 2px rgba(126, 184, 255, 0.18);
+}
+
+.galaxy-search-suggestions,
+.galaxy-search-empty {
+    position: absolute;
+    top: calc(100% + 0.35rem);
+    left: 0;
+    right: 0;
+    z-index: 20;
+    margin: 0;
+    padding: 0.35rem;
+    list-style: none;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 8px;
+    background: rgba(8, 12, 24, 0.96);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+}
+
+.galaxy-search-empty {
+    padding: 0.75rem 0.85rem;
+    color: rgba(255, 255, 255, 0.65);
+    font-size: 0.9rem;
+}
+
+.galaxy-search-option {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    width: 100%;
+    padding: 0.55rem 0.65rem;
+    border: none;
+    border-radius: 6px;
+    background: transparent;
+    color: #fff;
+    text-align: left;
+    cursor: pointer;
+}
+
+.galaxy-search-option:hover,
+.galaxy-search-option:focus-visible {
+    background: rgba(255, 255, 255, 0.08);
+    outline: none;
+}
+
+.galaxy-search-dot {
+    width: 0.85rem;
+    height: 0.85rem;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    flex-shrink: 0;
+}
+
+.galaxy-search-option-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    min-width: 0;
+}
+
+.galaxy-search-option-text strong {
+    font-size: 0.95rem;
+}
+
+.galaxy-search-option-text span {
+    font-size: 0.78rem;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.galaxy-map-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.galaxy-map-btn {
+    width: 2.25rem;
+    height: 2.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+    font-size: 1.1rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.galaxy-map-btn-wide {
+    width: auto;
+    padding: 0 0.85rem;
+    font-size: 0.85rem;
+}
+
+.galaxy-map-btn:hover {
+    background: rgba(255, 255, 255, 0.16);
+}
+
+.galaxy-map-zoom-label {
+    margin-left: 0.35rem;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.galaxy-tooltip {
+    min-height: 2rem;
+    margin-bottom: 0.75rem;
+    padding: 0.45rem 0.75rem;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    font-size: 0.95rem;
+}
+
+.galaxy-viewport {
+    position: relative;
+    height: min(82vh, 900px);
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.55);
+    cursor: grab;
+    touch-action: none;
+    user-select: none;
+}
+
+.galaxy-viewport:active {
+    cursor: grabbing;
+}
+
+.galaxy-stage {
+    width: 100%;
+    height: 100%;
+    transform-origin: center center;
+    transition: transform 0.05s linear;
+    will-change: transform;
+}
+
+.galaxy-svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.galaxy-planet-panel {
+    position: absolute;
+    z-index: 12;
+    width: min(360px, calc(100% - 2rem));
+    padding: 1rem 1.1rem 1.1rem;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 12px;
+    background: rgba(8, 12, 24, 0.94);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.55);
+    cursor: default;
+    pointer-events: auto;
+}
+
+.galaxy-planet-panel-close {
+    position: absolute;
+    top: 0.45rem;
+    right: 0.55rem;
+    width: 2rem;
+    height: 2rem;
+    border: none;
+    border-radius: 6px;
+    background: transparent;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.4rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.galaxy-planet-panel-close:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+}
+
+.galaxy-planet-panel-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+    padding-right: 1.75rem;
+}
+
+.galaxy-planet-panel-swatch {
+    width: 1.35rem;
+    height: 1.35rem;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    flex-shrink: 0;
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.15);
+}
+
+.galaxy-planet-panel-header h2 {
+    margin: 0;
+    font-size: 1.25rem;
+}
+
+.galaxy-planet-panel-header .planet-region {
+    margin: 0.15rem 0 0;
+}
+
+.galaxy-planet-panel-description {
+    margin: 0 0 0.85rem;
+    line-height: 1.55;
+    color: rgba(255, 255, 255, 0.88);
+}
+
+.galaxy-planet-panel-meta {
+    display: grid;
+    gap: 0.65rem;
+    margin: 0;
+}
+
+.galaxy-planet-panel-meta dt {
+    margin: 0 0 0.15rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.45);
+}
+
+.galaxy-planet-panel-meta dd {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 1.45;
+}
+
+.galaxy-planet-panel-link {
+    display: inline-block;
+    margin-top: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.galaxy-planet-panel-link:hover {
+    text-decoration: underline;
+}
+
+@media (min-width: 641px) {
+    .galaxy-map-shell {
+        width: calc(100% + 3.5rem);
+        margin-left: -2rem;
+        margin-right: -1.5rem;
+    }
+
+    .galaxy-viewport {
+        border-radius: 0;
+        height: min(85vh, 960px);
+    }
+}
+
+.planet-marker {
+    cursor: pointer;
+}
+
+.planet-marker .planet-body {
+    transition: r 0.15s ease, stroke-width 0.15s ease, filter 0.15s ease;
+}
+
+.planet-marker.is-hovered .planet-halo,
+.planet-marker.is-focused .planet-halo {
+    opacity: 0.45;
+}
+
+.planet-marker.is-focused .planet-body,
+.planet-marker.is-selected .planet-body {
+    filter: drop-shadow(0 0 16px rgba(255, 255, 255, 0.85));
+}
+
+.planet-marker:hover .planet-body {
+    filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.65));
+}
+
+.planet-marker.is-dimmed {
+    pointer-events: none;
+}
+
+.planet-marker.is-focused {
+    pointer-events: auto;
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "Commander Cody stands among the saga's most memorable figures, known throughout the galaxy as a clone commander. Obi-Wan Kenobi's trusted clone marshal who led the 212th Attack Battalion throughout the Clone Wars. From backwater cantinas to senate chambers and fleet command centers, Commander Cody's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Commander Cody are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. Obi-Wan Kenobi's trusted clone marshal who led the 212th Attack Battalion throughout the Clone Wars. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Commander Cody was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Commander Cody tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Commander Cody. Some entries flatter, others condemn, but historians agree that ignoring Commander Cody makes any chronicle of the era incomplete.\n\nModern scholars cite Commander Cody when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Commander Cody demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a clone commander, Commander Cody connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Commander Cody alive in holodramas, recruitment posters, and cantina songs. The color #f97316 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Commander Cody marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Commander Cody in galactic records",
+    "Rose to prominence as a clone commander during the Ancient Era",
+    "Survived or orchestrated a pivotal encounter tied to Commander Cody's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Commander Cody's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Clone Wars",
+    "Inspired later generations who retold Commander Cody's choices in myth and media"
+  ],
+  "affiliations": [
+    "Clone Commander",
+    "Fleet command",
+    "Ground assault units",
+    "Intelligence corps",
+    "Veterans' networks",
+    "Training academies"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "Commander Cody enters the historical record as a clone commander"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Builds a reputation during the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Acts decisively in events tied to obi-wan kenobi's trusted clone marshal who led the 212th attack battalion throughout the clone wars"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Plays a role in campaigns associated with the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated and commemorated across the Imperial Era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/commander-cody.svg",
+      "caption": "Portrait of Commander Cody"
+    },
+    {
+      "path": "/images/characters/commander-cody-scene.svg",
+      "caption": "Scene from the life of Commander Cody"
+    },
+    {
+      "path": "/images/characters/commander-cody-emblem.svg",
+      "caption": "Insignia associated with Commander Cody"
+    }
+  ]
+}

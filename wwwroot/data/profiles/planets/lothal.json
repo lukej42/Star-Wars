@@ -1,0 +1,62 @@
+{
+  "overview": "Lothal is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. An Outer Rim backwater of grassy plains and Imperial occupation, home to Ezra Bridger. Scholars of the Outer traditions cite Lothal when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Lothal within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. An Outer Rim backwater of grassy plains and Imperial occupation, home to Ezra Bridger. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Lothal was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Lothal's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Lothal serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Lothal embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Lothal alive in holodramas, academy lectures, and pilgrim routes. The accent color #8ab86a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Lothal marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Lothal within galactic records",
+    "Played a key role during the Galactic Civil War in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Lothal's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Lothal's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Lothal's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Lothal",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Lothal enters historical record as outer rim territories"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Becomes widely known for actions tied to an outer rim backwater of grassy plains and imperial occupation, home to ezra bridger"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Lothal fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/lothal.svg",
+      "caption": "Globe view of Lothal"
+    },
+    {
+      "path": "/images/planets/lothal-scene.svg",
+      "caption": "Surface landscape of Lothal"
+    },
+    {
+      "path": "/images/planets/lothal-chart.svg",
+      "caption": "Star chart marker for Lothal"
+    }
+  ]
+}

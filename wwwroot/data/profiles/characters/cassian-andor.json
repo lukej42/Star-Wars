@@ -1,0 +1,52 @@
+{
+  "overview": "Cassian Andor was a hardened Rebel intelligence officer whose moral compromises and ultimate sacrifice defined the spirit of Rogue One. Raised in war, he learned that revolution requires difficult choices—and that knowing the cost makes heroism sharper.",
+  "history": "Cassian lost his father to Republic protest violence and grew up fighting Separatists, then the Empire, across a dozen shadow wars. He did unpleasant work for Rebel intelligence long before the Alliance went public.\n\nTasked with protecting Jyn Erso and verifying the Death Star plans, Cassian assembled Rogue One on Scarif. Despite orders to kill Galen Erso, he chose hope and led the suicide mission that transmitted the plans to Leia Organa.\n\nHis earlier years on Ferrix, Aldhani, and in prison camps showed how ordinary people become radicals when institutions fail them.\n\nCassian's death on Scarif ensured the Rebellion could strike the Death Star, linking everyday sacrifice to galactic salvation.",
+  "significance": "Cassian represents the morally gray heart of the Rebellion—not fairy-tale heroes but people who carry guilt and still fight.\n\nHis relationship with K-2SO and Bix Caleen humanized intelligence operatives often hidden from myth.\n\nRogue One's success rests on his choice to lead a mission with no return.",
+  "notableEvents": [
+    "Served in Rebel intelligence before the Battle of Yavin",
+    "Met Jyn Erso and debated killing her father Galen",
+    "Led the assault on Scarif to steal the Death Star plans",
+    "Transmitted the plans before dying on the beach",
+    "Inspired cells across the Mid Rim during the Aldhani heist",
+    "Endured Imperial imprisonment on Narkina 5"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Rebel intelligence",
+    "Rogue One squad",
+    "Ferrix community",
+    "Mon Mothma's network"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Lost family and learned to fight in proxy wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Operated as a covert Rebel agent"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Led Rogue One on Scarif"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Died ensuring the Death Star plans reached the Alliance"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/cassian-andor.svg",
+      "caption": "Portrait of Cassian Andor"
+    },
+    {
+      "path": "/images/characters/cassian-andor-scene.svg",
+      "caption": "Scene from the life of Cassian Andor"
+    },
+    {
+      "path": "/images/characters/cassian-andor-emblem.svg",
+      "caption": "Insignia associated with Cassian Andor"
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+@page "/galaxy-map"
+@inject IJSRuntime JS
+@using StarWars.Data
+@using StarWars.Models
+
+<PageTitle>Galaxy Map</PageTitle>
+
+<h1>Galaxy Map</h1>
+<p class="galaxy-map-intro">Search for a world, scroll to zoom, drag to pan, and click a marker for details. All @GalaxyData.Planets.Count worlds from the saga are marked on the map.</p>
+
+<div class="galaxy-map-shell">
+    <div class="galaxy-map-controls">
+        <div class="galaxy-search" @onkeydown="OnSearchKeyDown">
+            <label class="galaxy-search-label" for="galaxy-search-input">Search worlds</label>
+            <input id="galaxy-search-input"
+                   class="galaxy-search-input"
+                   type="search"
+                   placeholder="Search planets (e.g. Tatooine, Hoth, Coruscant)..."
+                   @bind="searchQuery"
+                   @bind:event="oninput"
+                   @bind:after="OnSearchInput"
+                   @onfocus="ShowSuggestions"
+                   @onblur="HideSuggestionsSoon"
+                   autocomplete="off"
+                   aria-autocomplete="list"
+                   aria-controls="galaxy-search-list"
+                   aria-expanded="@showSuggestions" />
+            @if (showSuggestions && SearchSuggestions.Count > 0)
+            {
+                <ul id="galaxy-search-list" class="galaxy-search-suggestions" role="listbox">
+                    @foreach (var planet in SearchSuggestions)
+                    {
+                        <li role="option">
+                            <button type="button"
+                                    class="galaxy-search-option"
+                                    @onmousedown="() => FocusPlanet(planet)"
+                                    @onmousedown:preventDefault="true">
+                                <span class="galaxy-search-dot" style="background-color: @planet.Color" aria-hidden="true"></span>
+                                <span class="galaxy-search-option-text">
+                                    <strong>@planet.Name</strong>
+                                    <span>@planet.Region</span>
+                                </span>
+                            </button>
+                        </li>
+                    }
+                </ul>
+            }
+            @if (showSuggestions && !string.IsNullOrWhiteSpace(searchQuery) && SearchSuggestions.Count == 0)
+            {
+                <div class="galaxy-search-empty">No worlds match "@searchQuery".</div>
+            }
+        </div>
+
+        <div class="galaxy-map-toolbar">
+            <button type="button" class="galaxy-map-btn" @onclick="ZoomIn" aria-label="Zoom in">+</button>
+            <button type="button" class="galaxy-map-btn" @onclick="ZoomOut" aria-label="Zoom out">−</button>
+            <button type="button" class="galaxy-map-btn galaxy-map-btn-wide" @onclick="ResetView">Reset</button>
+            <span class="galaxy-map-zoom-label">@($"{Math.Round(zoom * 100)}%")</span>
+        </div>
+    </div>
+
+    <div class="galaxy-tooltip" aria-live="polite">
+        @(focusedPlanet?.Name ?? hoveredPlanet?.Name ?? "Hover or search for a planet")
+    </div>
+
+    <div class="galaxy-viewport"
+         @ref="viewportRef"
+         @onwheel="OnWheel"
+         @onwheel:preventDefault="true"
+         @onmousedown="StartPan"
+         @onmousemove="OnPan"
+         @onmouseup="EndPan"
+         @onmouseleave="EndPan">
+        <div class="galaxy-stage" style="@StageStyle">
+            <svg class="galaxy-svg"
+                 viewBox="0 0 @GalaxyMapSettings.Width @GalaxyMapSettings.Height"
+                 xmlns="http://www.w3.org/2000/svg"
+                 aria-label="Galaxy map">
+                <defs>
+                    <radialGradient id="galaxyCore" cx="50%" cy="50%" r="50%">
+                        <stop offset="0%" stop-color="#fff7d6" stop-opacity="0.95" />
+                        <stop offset="35%" stop-color="#9eb6ff" stop-opacity="0.55" />
+                        <stop offset="100%" stop-color="#050814" stop-opacity="0" />
+                    </radialGradient>
+                    <radialGradient id="galaxyGlow" cx="50%" cy="50%" r="50%">
+                        <stop offset="0%" stop-color="#6f8dff" stop-opacity="0.35" />
+                        <stop offset="100%" stop-color="#050814" stop-opacity="0" />
+                    </radialGradient>
+                    @if (focusedPlanet is not null)
+                    {
+                        <mask id="spotlightMask">
+                            <rect width="@GalaxyMapSettings.Width" height="@GalaxyMapSettings.Height" fill="white" />
+                            <circle cx="@focusedPlanet.X" cy="@focusedPlanet.Y" r="@SpotlightRadius" fill="black" />
+                        </mask>
+                    }
+                </defs>
+
+                <rect width="@GalaxyMapSettings.Width" height="@GalaxyMapSettings.Height" fill="#050814" />
+                <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="3760" ry="2080" fill="url(#galaxyGlow)" />
+                <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="960" ry="580" fill="url(#galaxyCore)" />
+
+                <g opacity="0.45">
+                    <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="2880" ry="1080" fill="none" stroke="#7f95d9" stroke-width="140" transform="rotate(-18 @GalaxyMapSettings.CenterX @GalaxyMapSettings.CenterY)" />
+                    <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="2240" ry="790" fill="none" stroke="#5f74bf" stroke-width="110" transform="rotate(24 @GalaxyMapSettings.CenterX @GalaxyMapSettings.CenterY)" />
+                    <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="3360" ry="1370" fill="none" stroke="#4a5f9f" stroke-width="80" transform="rotate(-8 @GalaxyMapSettings.CenterX @GalaxyMapSettings.CenterY)" />
+                </g>
+
+                @for (var i = 0; i < 420; i++)
+                {
+                    var x = 120 + (i * 37) % 7760;
+                    var y = 80 + (i * 53) % 4840;
+                    var size = 2 + (i % 4);
+                    <circle cx="@x" cy="@y" r="@size" fill="#ffffff" opacity="@(0.12 + (i % 5) * 0.07)" />
+                }
+
+                <text x="@GalaxyMapSettings.CenterX" y="420" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="96">Core Worlds</text>
+                <text x="@GalaxyMapSettings.CenterX" y="4680" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="96">Outer Rim</text>
+                <text x="520" y="@GalaxyMapSettings.CenterY" text-anchor="middle" fill="rgba(255,255,255,0.22)" font-size="72" transform="rotate(-90 520 @GalaxyMapSettings.CenterY)">Western Reaches</text>
+                <text x="7480" y="@GalaxyMapSettings.CenterY" text-anchor="middle" fill="rgba(255,255,255,0.22)" font-size="72" transform="rotate(90 7480 @GalaxyMapSettings.CenterY)">Unknown Regions</text>
+
+                @if (focusedPlanet is not null)
+                {
+                    <rect width="@GalaxyMapSettings.Width"
+                          height="@GalaxyMapSettings.Height"
+                          fill="#000000"
+                          opacity="0.78"
+                          mask="url(#spotlightMask)"
+                          pointer-events="none" />
+                }
+
+                @foreach (var planet in planets)
+                {
+                    var isFocused = focusedPlanet == planet;
+                    var isSelected = selectedPlanet == planet;
+                    var isHovered = hoveredPlanet == planet;
+                    var isDimmed = focusedPlanet is not null && !isFocused;
+                    var markerClass = BuildMarkerClass(isFocused, isSelected, isHovered, isDimmed);
+
+                    <g class="@markerClass"
+                       style="@(isDimmed ? "opacity: 0.22;" : null)"
+                       @onclick="(MouseEventArgs e) => OpenPlanetPanel(planet, e)"
+                       @onclick:stopPropagation="true"
+                       @onmouseenter="() => hoveredPlanet = planet"
+                       @onmouseleave="() => hoveredPlanet = null">
+                        <circle class="planet-halo"
+                                cx="@planet.X"
+                                cy="@planet.Y"
+                                r="@(isFocused ? GalaxyMapSettings.PlanetHaloRadius * 1.35 : GalaxyMapSettings.PlanetHaloRadius)"
+                                fill="@planet.Color"
+                                opacity="@(isFocused ? 0.42 : 0.18)" />
+                        <circle class="planet-body"
+                                cx="@planet.X"
+                                cy="@planet.Y"
+                                r="@(isFocused ? GalaxyMapSettings.PlanetBodyRadius * 1.2 : GalaxyMapSettings.PlanetBodyRadius)"
+                                fill="@planet.Color"
+                                stroke="#ffffff"
+                                stroke-width="@(isFocused ? 10 : 8)" />
+                        <circle cx="@(planet.X - 12)" cy="@(planet.Y - 12)" r="12" fill="#ffffff" opacity="0.35" />
+                        @if (isFocused || isSelected)
+                        {
+                            @((MarkupString)BuildPlanetLabel(planet))
+                        }
+                    </g>
+                }
+            </svg>
+        </div>
+
+        @if (selectedPlanet is not null)
+        {
+            <div class="galaxy-planet-panel"
+                 style="@PanelStyle"
+                 role="dialog"
+                 aria-modal="true"
+                 aria-labelledby="galaxy-planet-panel-title">
+                <button type="button" class="galaxy-planet-panel-close" @onclick="ClosePlanetPanel" aria-label="Close">×</button>
+                <div class="galaxy-planet-panel-header">
+                    <span class="galaxy-planet-panel-swatch" style="background-color: @selectedPlanet.Color" aria-hidden="true"></span>
+                    <div>
+                        <h2 id="galaxy-planet-panel-title">@selectedPlanet.Name</h2>
+                        <p class="planet-region">@selectedPlanet.Region</p>
+                    </div>
+                </div>
+                <p class="galaxy-planet-panel-description">@selectedPlanet.Description</p>
+                <dl class="galaxy-planet-panel-meta">
+                    <div>
+                        <dt>Galactic location</dt>
+                        <dd>@DescribeGalacticLocation(selectedPlanet)</dd>
+                    </div>
+                    <div>
+                        <dt>Map coordinates</dt>
+                        <dd>X @((int)selectedPlanet.X), Y @((int)selectedPlanet.Y)</dd>
+                    </div>
+                </dl>
+                <a class="galaxy-planet-panel-link" href="@selectedPlanet.Route">View planet page</a>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private const double SpotlightRadius = 320;
+    private const double PanelWidth = 360;
+    private const double PanelHeight = 320;
+
+    private readonly IReadOnlyList<GalaxyPlanet> planets = GalaxyData.Planets;
+    private ElementReference viewportRef;
+    private GalaxyPlanet? hoveredPlanet;
+    private GalaxyPlanet? focusedPlanet;
+    private GalaxyPlanet? selectedPlanet;
+    private string searchQuery = string.Empty;
+    private bool showSuggestions;
+    private bool isPanning;
+    private bool movedDuringPan;
+    private double lastPointerX;
+    private double lastPointerY;
+    private double panX;
+    private double panY;
+    private double zoom = GalaxyMapSettings.DefaultZoom;
+    private double panelLeft = 16;
+    private double panelTop = 16;
+
+    private IReadOnlyList<GalaxyPlanet> SearchSuggestions =>
+        string.IsNullOrWhiteSpace(searchQuery)
+            ? Array.Empty<GalaxyPlanet>()
+            : planets
+                .Where(planet =>
+                    planet.Name.Contains(searchQuery, StringComparison.OrdinalIgnoreCase) ||
+                    planet.Region.Contains(searchQuery, StringComparison.OrdinalIgnoreCase) ||
+                    planet.Slug.Contains(searchQuery, StringComparison.OrdinalIgnoreCase))
+                .OrderBy(planet => planet.Name.StartsWith(searchQuery, StringComparison.OrdinalIgnoreCase) ? 0 : 1)
+                .ThenBy(planet => planet.Name, StringComparer.OrdinalIgnoreCase)
+                .Take(8)
+                .ToArray();
+
+    private string StageStyle =>
+        $"transform: translate({panX.ToString(System.Globalization.CultureInfo.InvariantCulture)}px, {panY.ToString(System.Globalization.CultureInfo.InvariantCulture)}px) scale({zoom.ToString(System.Globalization.CultureInfo.InvariantCulture)});";
+
+    private string PanelStyle =>
+        $"left: {panelLeft.ToString(System.Globalization.CultureInfo.InvariantCulture)}px; top: {panelTop.ToString(System.Globalization.CultureInfo.InvariantCulture)}px;";
+
+    protected override void OnInitialized()
+    {
+        zoom = GalaxyMapSettings.DefaultZoom;
+    }
+
+    private static string BuildPlanetLabel(GalaxyPlanet planet)
+    {
+        var y = planet.Y - GalaxyMapSettings.PlanetHaloRadius - 24;
+        var name = System.Net.WebUtility.HtmlEncode(planet.Name);
+        return $"""<text x="{planet.X}" y="{y}" text-anchor="middle" fill="#ffffff" font-size="72" font-weight="600" stroke="#000000" stroke-width="4" paint-order="stroke" pointer-events="none">{name}</text>""";
+    }
+
+    private static string BuildMarkerClass(bool isFocused, bool isSelected, bool isHovered, bool isDimmed)
+    {
+        var classes = new List<string> { "planet-marker" };
+
+        if (isFocused)
+        {
+            classes.Add("is-focused");
+        }
+
+        if (isSelected)
+        {
+            classes.Add("is-selected");
+        }
+
+        if (isHovered)
+        {
+            classes.Add("is-hovered");
+        }
+
+        if (isDimmed)
+        {
+            classes.Add("is-dimmed");
+        }
+
+        return string.Join(' ', classes);
+    }
+
+    private static string DescribeGalacticLocation(GalaxyPlanet planet)
+    {
+        string horizontal;
+        if (planet.X < 2200)
+        {
+            horizontal = "far west of the galactic disc";
+        }
+        else if (planet.X < 3400)
+        {
+            horizontal = "western mid-disc";
+        }
+        else if (planet.X < 4600)
+        {
+            horizontal = "coreward mid-disc";
+        }
+        else if (planet.X < 5800)
+        {
+            horizontal = "eastern mid-disc";
+        }
+        else
+        {
+            horizontal = "far east toward the Unknown Regions";
+        }
+
+        string vertical;
+        if (planet.Y < 1400)
+        {
+            vertical = "deep coreward space";
+        }
+        else if (planet.Y < 2200)
+        {
+            vertical = "inner disc / Core Worlds band";
+        }
+        else if (planet.Y < 3200)
+        {
+            vertical = "Mid Rim band";
+        }
+        else if (planet.Y < 4000)
+        {
+            vertical = "Outer Rim band";
+        }
+        else
+        {
+            vertical = "southern Outer Rim frontier";
+        }
+
+        return $"{planet.Region} - {vertical}, {horizontal}.";
+    }
+
+    private void FocusPlanet(GalaxyPlanet planet)
+    {
+        focusedPlanet = planet;
+        selectedPlanet = null;
+        searchQuery = planet.Name;
+        showSuggestions = false;
+        CenterOnPlanet(planet);
+    }
+
+    private void CenterOnPlanet(GalaxyPlanet planet)
+    {
+        zoom = Math.Clamp(2.4, GalaxyMapSettings.MinZoom, GalaxyMapSettings.MaxZoom);
+
+        var offsetX = (planet.X - GalaxyMapSettings.CenterX) / (GalaxyMapSettings.Width / 2);
+        var offsetY = (planet.Y - GalaxyMapSettings.CenterY) / (GalaxyMapSettings.Height / 2);
+
+        panX = -offsetX * 320 * zoom;
+        panY = -offsetY * 220 * zoom;
+    }
+
+    private async Task OpenPlanetPanel(GalaxyPlanet planet, MouseEventArgs e)
+    {
+        if (movedDuringPan)
+        {
+            return;
+        }
+
+        selectedPlanet = planet;
+        focusedPlanet = planet;
+        searchQuery = planet.Name;
+        showSuggestions = false;
+
+        var position = await JS.InvokeAsync<PanelPosition>(
+            "starWarsMap.positionPanel",
+            viewportRef,
+            e.ClientX,
+            e.ClientY,
+            PanelWidth,
+            PanelHeight);
+
+        panelLeft = position.Left;
+        panelTop = position.Top;
+    }
+
+    private void ClosePlanetPanel()
+    {
+        selectedPlanet = null;
+        focusedPlanet = null;
+        searchQuery = string.Empty;
+        showSuggestions = false;
+        zoom = GalaxyMapSettings.DefaultZoom;
+        panX = 0;
+        panY = 0;
+    }
+
+    private void ShowSuggestions() => showSuggestions = true;
+
+    private void OnSearchInput()
+    {
+        showSuggestions = true;
+
+        if (string.IsNullOrWhiteSpace(searchQuery))
+        {
+            focusedPlanet = null;
+            selectedPlanet = null;
+        }
+    }
+
+    private async Task HideSuggestionsSoon()
+    {
+        await Task.Delay(150);
+        showSuggestions = false;
+    }
+
+    private void OnSearchKeyDown(KeyboardEventArgs e)
+    {
+        if (e.Key == "Escape")
+        {
+            ClearSearchFocus();
+            return;
+        }
+
+        if (e.Key == "Enter" && SearchSuggestions.Count > 0)
+        {
+            FocusPlanet(SearchSuggestions[0]);
+        }
+    }
+
+    private void ClearSearchFocus()
+    {
+        focusedPlanet = null;
+        selectedPlanet = null;
+        searchQuery = string.Empty;
+        showSuggestions = false;
+    }
+
+    private void ZoomIn() => zoom = Math.Min(zoom + 0.25, GalaxyMapSettings.MaxZoom);
+
+    private void ZoomOut() => zoom = Math.Max(zoom - 0.25, GalaxyMapSettings.MinZoom);
+
+    private void ResetView()
+    {
+        zoom = GalaxyMapSettings.DefaultZoom;
+        panX = 0;
+        panY = 0;
+        focusedPlanet = null;
+        selectedPlanet = null;
+        searchQuery = string.Empty;
+        showSuggestions = false;
+    }
+
+    private void OnWheel(WheelEventArgs e)
+    {
+        var delta = e.DeltaY > 0 ? -0.15 : 0.15;
+        zoom = Math.Clamp(zoom + delta, GalaxyMapSettings.MinZoom, GalaxyMapSettings.MaxZoom);
+    }
+
+    private void StartPan(MouseEventArgs e)
+    {
+        if (e.Button != 0)
+        {
+            return;
+        }
+
+        isPanning = true;
+        movedDuringPan = false;
+        lastPointerX = e.ClientX;
+        lastPointerY = e.ClientY;
+    }
+
+    private void OnPan(MouseEventArgs e)
+    {
+        if (!isPanning)
+        {
+            return;
+        }
+
+        var deltaX = e.ClientX - lastPointerX;
+        var deltaY = e.ClientY - lastPointerY;
+
+        if (Math.Abs(deltaX) > 2 || Math.Abs(deltaY) > 2)
+        {
+            movedDuringPan = true;
+        }
+
+        panX += deltaX;
+        panY += deltaY;
+        lastPointerX = e.ClientX;
+        lastPointerY = e.ClientY;
+    }
+
+    private void EndPan(MouseEventArgs _)
+    {
+        isPanning = false;
+    }
+
+    private sealed class PanelPosition
+    {
+        public double Left { get; set; }
+        public double Top { get; set; }
+    }
+}

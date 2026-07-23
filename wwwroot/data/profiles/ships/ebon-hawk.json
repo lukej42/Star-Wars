@@ -1,0 +1,63 @@
+{
+  "overview": "The Ebon Hawk is a dynamic-class freighter whose service history spans Old Republic (3,956–3,951 BBY). A heavily modified smuggler's freighter that carried Revan and the Jedi Exile across the galaxy during the Jedi Civil War. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at 1 known hull (unique refit), though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Ebon Hawk during the political tensions that defined Old Republic (3,956–3,951 BBY). Engineers prioritised capabilities suited to its role as a dynamic-class freighter, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Ebon Hawk entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A heavily modified smuggler's freighter that carried Revan and the Jedi Exile across the galaxy during the Jedi Civil War. Veterans praised its reliability under fire while analysts debated whether mass production at 1 known hull (unique refit) diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the dynamic-class freighter could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Ebon Hawk symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Ebon Hawk illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its dynamic-class freighter layout influenced successor designs long after production lines fell silent.\n\nApproximately 1 known hull (unique refit) hulls served during Old Republic (3,956–3,951 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Ebon Hawk remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Old Republic (3,956–3,951 BBY)",
+    "Estimated production run of 1 known hull (unique refit)",
+    "Deployed in fleet actions tied to a heavily modified smuggler's freighter that carried revan and the jedi exile across the galaxy during the jedi civil war",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating dynamic-class freighter crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Old Republic Navy",
+    "Dynamic-class Freighter fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Ebon Hawk design approved and prototype tested"
+    },
+    {
+      "era": "High Republic",
+      "event": "Mass production reaches 1 known hull (unique refit) across active shipyards"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "First major fleet deployment of the dynamic-class freighter"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Notable battle honour linked to Ebon Hawk class actions"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/ebon-hawk.svg",
+      "caption": "Profile view of the Ebon Hawk"
+    },
+    {
+      "path": "/images/ships/ebon-hawk-scene.svg",
+      "caption": "Combat deployment — Ebon Hawk"
+    },
+    {
+      "path": "/images/ships/ebon-hawk-blueprint.svg",
+      "caption": "Technical schematic — Ebon Hawk"
+    }
+  ]
+}

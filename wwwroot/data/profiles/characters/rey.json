@@ -1,0 +1,63 @@
+{
+  "overview": "Rey stands among the saga's most memorable figures, known throughout the galaxy as a scavenger. A Jakku scavenger who discovered her connection to the Force and confronted the legacy of the Sith. From backwater cantinas to senate chambers and fleet command centers, Rey's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Rey are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A Jakku scavenger who discovered her connection to the Force and confronted the legacy of the Sith. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Rey was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Rey tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Rey. Some entries flatter, others condemn, but historians agree that ignoring Rey makes any chronicle of the era incomplete.\n\nModern scholars cite Rey when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Rey demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a scavenger, Rey connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Rey alive in holodramas, recruitment posters, and cantina songs. The color #fbbf24 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Rey marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Rey in galactic records",
+    "Rose to prominence as a scavenger during the Ancient Era",
+    "Survived or orchestrated a pivotal encounter tied to Rey's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Rey's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Clone Wars",
+    "Inspired later generations who retold Rey's choices in myth and media"
+  ],
+  "affiliations": [
+    "Scavenger",
+    "Independent agents",
+    "Allied factions",
+    "Local militias",
+    "Trade consortiums",
+    "Historians' guilds"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "Rey enters the historical record as a scavenger"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Builds a reputation during the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Acts decisively in events tied to a jakku scavenger who discovered her connection to the force and confronted the legacy of the sith"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Plays a role in campaigns associated with the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated and commemorated across the Imperial Era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/rey.svg",
+      "caption": "Portrait of Rey"
+    },
+    {
+      "path": "/images/characters/rey-scene.svg",
+      "caption": "Scene from the life of Rey"
+    },
+    {
+      "path": "/images/characters/rey-emblem.svg",
+      "caption": "Insignia associated with Rey"
+    }
+  ]
+}

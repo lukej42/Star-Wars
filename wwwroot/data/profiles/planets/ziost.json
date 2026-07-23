@@ -1,0 +1,62 @@
+{
+  "overview": "Ziost is remembered across the galaxy as a sith space whose story intersects with pivotal eras of Star Wars history. An ancient frozen Sith world and former capital of the Old Sith Empire before Dromund Kaas. Scholars of the Sith traditions cite Ziost when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Ziost within the broader tapestry of the Sith Space, long before the conflicts that would define modern galactic politics. An ancient frozen Sith world and former capital of the Old Sith Empire before Dromund Kaas. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Ziost was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Ziost's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Ziost serves as a lens for understanding the sith space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Ziost embodies the ideals and contradictions associated with the sith space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Ziost alive in holodramas, academy lectures, and pilgrim routes. The accent color #6a8ab0 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Ziost marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Ziost within galactic records",
+    "Played a key role during the Galactic Civil War in Sith Space",
+    "Survived or shaped a major battle linked to Ziost's reputation",
+    "Formed alliances that reflected the priorities of the sith space",
+    "Confronted rivals who challenged Ziost's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Ziost's choices"
+  ],
+  "affiliations": [
+    "Sith Space",
+    "Allies of Ziost",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Ziost enters historical record as sith space"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Becomes widely known for actions tied to an ancient frozen sith world and former capital of the old sith empire before dromund kaas"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Ziost fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Sith Space"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ziost.svg",
+      "caption": "Globe view of Ziost"
+    },
+    {
+      "path": "/images/planets/ziost-scene.svg",
+      "caption": "Surface landscape of Ziost"
+    },
+    {
+      "path": "/images/planets/ziost-chart.svg",
+      "caption": "Star chart marker for Ziost"
+    }
+  ]
+}

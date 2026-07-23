@@ -1,0 +1,62 @@
+{
+  "overview": "Ahch-To is remembered across the galaxy as a unknown regions whose story intersects with pivotal eras of Star Wars history. A remote ocean world of storm-lashed islands where the first Jedi temple lies hidden. Scholars of the Unknown traditions cite Ahch-To when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Ahch-To within the broader tapestry of the Unknown Regions, long before the conflicts that would define modern galactic politics. A remote ocean world of storm-lashed islands where the first Jedi temple lies hidden. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Ahch-To was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Ahch-To's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Ahch-To serves as a lens for understanding the unknown regions and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Ahch-To embodies the ideals and contradictions associated with the unknown regions. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Ahch-To alive in holodramas, academy lectures, and pilgrim routes. The accent color #3d6b8a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Ahch-To marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Ahch-To within galactic records",
+    "Played a key role during the First Order in Unknown Regions",
+    "Survived or shaped a major battle linked to Ahch-To's reputation",
+    "Formed alliances that reflected the priorities of the unknown regions",
+    "Confronted rivals who challenged Ahch-To's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Ahch-To's choices"
+  ],
+  "affiliations": [
+    "Unknown Regions",
+    "Allies of Ahch-To",
+    "Galactic historians' archives",
+    "Unknown networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "Ahch-To enters historical record as unknown regions"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a remote ocean world of storm-lashed islands where the first jedi temple lies hidden"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as institutions around Ahch-To fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Commemorated in archives celebrating Unknown Regions"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ahch-to.svg",
+      "caption": "Globe view of Ahch-To"
+    },
+    {
+      "path": "/images/planets/ahch-to-scene.svg",
+      "caption": "Surface landscape of Ahch-To"
+    },
+    {
+      "path": "/images/planets/ahch-to-chart.svg",
+      "caption": "Star chart marker for Ahch-To"
+    }
+  ]
+}

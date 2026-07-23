@@ -1,0 +1,62 @@
+{
+  "overview": "Dantooine is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A remote agrarian world in the Outer Rim — quiet plains and scattered settlements. Scholars of the Outer traditions cite Dantooine when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Dantooine within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A remote agrarian world in the Outer Rim — quiet plains and scattered settlements. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Dantooine was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Dantooine's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Dantooine serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Dantooine embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Dantooine alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a8c5c often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Dantooine marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Dantooine within galactic records",
+    "Played a key role during the Old Republic in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Dantooine's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Dantooine's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Dantooine's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Dantooine",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Dantooine enters historical record as outer rim territories"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to a remote agrarian world in the outer rim — quiet plains and scattered settlements"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as institutions around Dantooine fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated by scholars of the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/dantooine-space.png",
+      "caption": "Globe view of Dantooine"
+    },
+    {
+      "path": "/images/planets/dantooine-scene.svg",
+      "caption": "Surface landscape of Dantooine"
+    },
+    {
+      "path": "/images/planets/dantooine-chart.svg",
+      "caption": "Star chart marker for Dantooine"
+    }
+  ]
+}

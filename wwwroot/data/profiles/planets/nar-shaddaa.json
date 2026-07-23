@@ -1,0 +1,62 @@
+{
+  "overview": "Nar Shaddaa is remembered across the galaxy as a hutt space whose story intersects with pivotal eras of Star Wars history. The Smuggler's Moon — a vertical city-world of neon, crime, and endless vice. Scholars of the Hutt traditions cite Nar Shaddaa when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Nar Shaddaa within the broader tapestry of the Hutt Space, long before the conflicts that would define modern galactic politics. The Smuggler's Moon — a vertical city-world of neon, crime, and endless vice. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Nar Shaddaa was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Nar Shaddaa's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Nar Shaddaa serves as a lens for understanding the hutt space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Nar Shaddaa embodies the ideals and contradictions associated with the hutt space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Nar Shaddaa alive in holodramas, academy lectures, and pilgrim routes. The accent color #c4a020 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Nar Shaddaa marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Nar Shaddaa within galactic records",
+    "Played a key role during the Clone Wars in Hutt Space",
+    "Survived or shaped a major battle linked to Nar Shaddaa's reputation",
+    "Formed alliances that reflected the priorities of the hutt space",
+    "Confronted rivals who challenged Nar Shaddaa's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Nar Shaddaa's choices"
+  ],
+  "affiliations": [
+    "Hutt Space",
+    "Allies of Nar Shaddaa",
+    "Galactic historians' archives",
+    "Hutt networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Nar Shaddaa enters historical record as hutt space"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Participates in a pivotal campaign during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Becomes widely known for actions tied to the smuggler's moon — a vertical city-world of neon, crime, and endless vice"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Nar Shaddaa fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Hutt Space"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/nar-shaddaa.svg",
+      "caption": "Globe view of Nar Shaddaa"
+    },
+    {
+      "path": "/images/planets/nar-shaddaa-scene.svg",
+      "caption": "Surface landscape of Nar Shaddaa"
+    },
+    {
+      "path": "/images/planets/nar-shaddaa-chart.svg",
+      "caption": "Star chart marker for Nar Shaddaa"
+    }
+  ]
+}

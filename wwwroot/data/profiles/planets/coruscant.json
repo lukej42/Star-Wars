@@ -1,0 +1,61 @@
+{
+  "overview": "Coruscant is the gleaming ecumenopolis at the galactic core, seat of the Senate, Jedi Temple, and Imperial Palace across millennia. Its planet-wide cityscape of towering skycar lanes and level-spanning districts embodies both cosmopolitan achievement and the concentration of power that enabled Palpatine's rise.",
+  "history": "Continuously urbanized for over twenty thousand years, Coruscant became the administrative heart of every major galactic government. The Jedi built their great temple above the sacred world core, anchoring the Order to Republic politics.\n\nDuring the Clone Wars, Coruscant suffered Separatist terror attacks and the dramatic kidnapping of Chancellor Palpatine, which Anakin Skywalker and Obi-Wan Kenobi thwarted above the city-world's skyline.\n\nOrder 66 transformed the Temple into a massacre site, and the Imperial Palace replaced it as the Emperor's throne. Coruscant's lower levels sank into poverty while the elite flourished under Imperial rule.\n\nAfter Endor, the New Republic initially avoided Coruscant as capital, yet the world remained a symbol of galactic unity and bureaucratic inertia.",
+  "significance": "Coruscant represents civilization at scale—beauty and corruption stacked in endless vertical layers. Every regime claims its center while struggling to govern fairly.\n\nThe Jedi Temple's fall on Coruscant marks the Order's public death, while the Senate Rotunda witnessed democracy's slow strangulation.\n\nAs a setting, Coruscant connects prequel politics, noir underworld stories, and the grandeur of space opera chase sequences.",
+  "notableEvents": [
+    "Hosted the Galactic Senate and Jedi Temple for millennia",
+    "Survived Separatist bombing and terror campaigns",
+    "Was the site of the Battle of Coruscant over the cityscape",
+    "Saw the Jedi Temple purge during Order 66",
+    "Became the Emperor's throne world as Imperial Center",
+    "Hosted underworld intrigue in the lower levels",
+    "Remained a political prize in the New Republic era"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Galactic Empire",
+    "Coruscant Security Force",
+    "New Republic (eventual seat)"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Rose as the capital of galactic civilization"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Endured Separatist attacks and the Battle of Coruscant"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Temple fell and Imperial Palace was established"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Ruled as Imperial Center under Palpatine"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Celebrated the Emperor's death in public riots"
+    },
+    {
+      "era": "New Republic",
+      "event": "Remained a cultural and political hub"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/coruscant-space.png",
+      "caption": "Globe view of Coruscant"
+    },
+    {
+      "path": "/images/planets/coruscant-scene.svg",
+      "caption": "Surface landscape of Coruscant"
+    },
+    {
+      "path": "/images/planets/coruscant-chart.svg",
+      "caption": "Star chart marker for Coruscant"
+    }
+  ]
+}

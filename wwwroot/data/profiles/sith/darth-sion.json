@@ -1,0 +1,62 @@
+{
+  "overview": "Darth Sion is remembered across the galaxy as a lord of pain whose story intersects with pivotal eras of Star Wars history. A Sith Lord held together by sheer hatred and the dark side, enduring endless agony as he hunted the Jedi Exile. Scholars of the Lord traditions cite Darth Sion when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Darth Sion within the broader tapestry of the Lord of Pain, long before the conflicts that would define modern galactic politics. A Sith Lord held together by sheer hatred and the dark side, enduring endless agony as he hunted the Jedi Exile. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Darth Sion was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Darth Sion's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Darth Sion serves as a lens for understanding the lord of pain and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Darth Sion embodies the ideals and contradictions associated with the lord of pain. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Darth Sion alive in holodramas, academy lectures, and pilgrim routes. The accent color #7f1d1d often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Darth Sion marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Darth Sion within galactic records",
+    "Played a key role during the Old Republic in Lord of Pain",
+    "Survived or shaped a major battle linked to Darth Sion's reputation",
+    "Formed alliances that reflected the priorities of the lord of pain",
+    "Confronted rivals who challenged Darth Sion's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Darth Sion's choices"
+  ],
+  "affiliations": [
+    "Lord of Pain",
+    "Allies of Darth Sion",
+    "Galactic historians' archives",
+    "Lord networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Darth Sion enters historical record as lord of pain"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to a sith lord held together by sheer hatred and the dark side, enduring endless agony as he hunted the jedi exile"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as institutions around Darth Sion fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated by scholars of the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Lord of Pain"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/darth-sion.svg",
+      "caption": "Portrait of Darth Sion"
+    },
+    {
+      "path": "/images/sith/darth-sion-scene.svg",
+      "caption": "Dark side lightning scene — Darth Sion"
+    },
+    {
+      "path": "/images/sith/darth-sion-emblem.svg",
+      "caption": "Sith emblem associated with Darth Sion"
+    }
+  ]
+}

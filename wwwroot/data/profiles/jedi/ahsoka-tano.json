@@ -1,0 +1,61 @@
+{
+  "overview": "Ahsoka Tano was Anakin Skywalker's Togruta padawan who grew from an eager young learner into a formidable independent Force wielder. After leaving the Jedi Order disillusioned by its politics, she fought in the Clone Wars, survived Order 66, challenged the Empire, and eventually searched the galaxy for Grand Admiral Thrawn.",
+  "history": "Assigned to Anakin Skywalker by Yoda, Ahsoka learned unconventional tactics and bold leadership on battlefronts from Christophsis to Mandalore. Her frame-up in the Temple bombing trial shattered her faith in the Council, and she walked away from the Order.\n\nShe continued to aid the Republic as a free agent, fighting at the Siege of Mandalore alongside Bo-Katan Kryze. When Order 66 came, former clone captain Rex removed her inhibitor chip and they faked their deaths, going into hiding.\n\nDuring the Imperial era, Ahsoka joined the nascent Rebellion under the codename Fulcrum, guiding cells from the shadows. She confronted Darth Vader at Malachor and later walked into the World Between Worlds seeking answers.\n\nDecades later, she appeared in the search for Ezra Bridger and Grand Admiral Thrawn, carrying white lightsabers that signified her path outside traditional Jedi or Sith doctrine.",
+  "significance": "Ahsoka embodies moral clarity without institutional loyalty. Her departure from the Order foreshadowed its failure while proving one could serve the light without its bureaucracy.\n\nHer bond with Anakin humanized the Chosen One for audiences and added weight to his fall, since she survived to witness the Empire he helped build.\n\nAs Fulcrum and later a wandering knight, she bridged Clone Wars, Rebels, and live-action storytelling, becoming a fan-favorite symbol of resilience.",
+  "notableEvents": [
+    "Was assigned as Anakin Skywalker's padawan during the Clone Wars",
+    "Was falsely accused of bombing the Jedi Temple and left the Order",
+    "Fought in the Siege of Mandalore alongside Bo-Katan",
+    "Survived Order 66 with Captain Rex's help",
+    "Operated as the spy Fulcrum for the Rebellion",
+    "Duelled Darth Vader at the Sith temple on Malachor",
+    "Searched for Ezra Bridger and Grand Admiral Thrawn in the Unknown Regions"
+  ],
+  "affiliations": [
+    "Jedi Order (former)",
+    "501st Legion (associated)",
+    "Mandalore resistance",
+    "Alliance to Restore the Republic (Fulcrum)",
+    "New Republic era independents"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Became Anakin Skywalker's padawan"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Left the Jedi Order after the Temple bombing trial"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Led Republic forces at the Siege of Mandalore"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Survived Order 66 and went into hiding"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Served the Rebellion as Fulcrum"
+    },
+    {
+      "era": "New Republic",
+      "event": "Pursued Thrawn and searched for Ezra Bridger"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/ahsoka-tano.svg",
+      "caption": "Portrait of Ahsoka Tano"
+    },
+    {
+      "path": "/images/jedi/ahsoka-tano-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Ahsoka Tano"
+    },
+    {
+      "path": "/images/jedi/ahsoka-tano-emblem.svg",
+      "caption": "Jedi Order emblem associated with Ahsoka Tano"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+@if (planet is null)
+{
+    <h1>Planet not found</h1>
+    <p>Sorry, there are no records for this world.</p>
+    <a href="galaxy-map">Back to Galaxy Map</a>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading world records…</p>
+}
+else
+{
+    <PlanetPageShell ImagePath="@planet.BackgroundImagePath">
+        @DetailContent
+    </PlanetPageShell>
+}
+
+@code {
+    [Parameter, EditorRequired]
+    public string Slug { get; set; } = string.Empty;
+
+    private GalaxyPlanet? planet;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    private RenderFragment DetailContent => builder =>
+    {
+        if (planet is null)
+        {
+            return;
+        }
+
+        builder.OpenComponent<DirectoryDetailShell>(0);
+        builder.AddAttribute(1, nameof(DirectoryDetailShell.Name), planet.Name);
+        builder.AddAttribute(2, nameof(DirectoryDetailShell.HeroImagePath), planet.DisplayImagePath);
+        builder.AddAttribute(3, nameof(DirectoryDetailShell.HeroImageAlt), $"Illustration of {planet.Name}");
+        builder.AddAttribute(4, nameof(DirectoryDetailShell.Subtitle), planet.Region);
+        builder.AddAttribute(5, nameof(DirectoryDetailShell.MetaLine), $"Galaxy map coordinates: X {(int)planet.X}, Y {(int)planet.Y}");
+        builder.AddAttribute(6, nameof(DirectoryDetailShell.OverviewText), profile?.Overview ?? planet.Description);
+        builder.AddAttribute(7, nameof(DirectoryDetailShell.HistoryText), profile?.History ?? string.Empty);
+        builder.AddAttribute(8, nameof(DirectoryDetailShell.SignificanceText), profile?.Significance ?? string.Empty);
+        builder.AddAttribute(9, nameof(DirectoryDetailShell.SignificanceHeading), "Environment and culture");
+        builder.AddAttribute(10, nameof(DirectoryDetailShell.NotableEvents), profile?.NotableEvents ?? Array.Empty<string>());
+        builder.AddAttribute(11, nameof(DirectoryDetailShell.Affiliations), profile?.Affiliations ?? Array.Empty<string>());
+        builder.AddAttribute(12, nameof(DirectoryDetailShell.Timeline), profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>());
+        builder.AddAttribute(13, nameof(DirectoryDetailShell.Gallery), profile?.Gallery ?? Array.Empty<ProfileImage>());
+        builder.AddAttribute(14, nameof(DirectoryDetailShell.AccentColor), planet.Color);
+        builder.AddAttribute(15, nameof(DirectoryDetailShell.ChildContent), (RenderFragment)(footerBuilder =>
+        {
+            footerBuilder.AddMarkupContent(0, """<a href="galaxy-map">Back to Galaxy Map</a>""");
+        }));
+        builder.CloseComponent();
+    };
+
+    protected override async Task OnParametersSetAsync()
+    {
+        planet = GalaxyData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (planet is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("planets", planet.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

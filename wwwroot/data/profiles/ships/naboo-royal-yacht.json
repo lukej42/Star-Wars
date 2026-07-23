@@ -1,0 +1,63 @@
+{
+  "overview": "The Naboo Royal Yacht is a diplomatic yacht whose service history spans Clone Wars (22–19 BBY). Padmé Amidala's personal J-type yacht used for covert diplomatic missions during the Separatist Crisis. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~8 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Naboo Royal Yacht during the political tensions that defined Clone Wars (22–19 BBY). Engineers prioritised capabilities suited to its role as a diplomatic yacht, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Naboo Royal Yacht entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. Padmé Amidala's personal J-type yacht used for covert diplomatic missions during the Separatist Crisis. Veterans praised its reliability under fire while analysts debated whether mass production at ~8 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the diplomatic yacht could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Naboo Royal Yacht symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Naboo Royal Yacht illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its diplomatic yacht layout influenced successor designs long after production lines fell silent.\n\nApproximately ~8 units hulls served during Clone Wars (22–19 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Naboo Royal Yacht remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars (22–19 BBY)",
+    "Estimated production run of ~8 units",
+    "Deployed in fleet actions tied to padmé amidala's personal j-type yacht used for covert diplomatic missions during the separatist crisis",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating diplomatic yacht crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Royal Naboo fleet",
+    "Diplomatic Yacht fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Naboo Royal Yacht design approved and prototype tested"
+    },
+    {
+      "era": "New Republic",
+      "event": "Mass production reaches ~8 units across active shipyards"
+    },
+    {
+      "era": "First Order",
+      "event": "First major fleet deployment of the diplomatic yacht"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Notable battle honour linked to Naboo Royal Yacht class actions"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "High Republic",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/naboo-royal-yacht.svg",
+      "caption": "Profile view of the Naboo Royal Yacht"
+    },
+    {
+      "path": "/images/ships/naboo-royal-yacht-scene.svg",
+      "caption": "Combat deployment — Naboo Royal Yacht"
+    },
+    {
+      "path": "/images/ships/naboo-royal-yacht-blueprint.svg",
+      "caption": "Technical schematic — Naboo Royal Yacht"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "overview": "Darth Sidious, publicly known as Supreme Chancellor and later Emperor Palpatine, was the Sith mastermind who engineered the fall of the Republic and ruled the galaxy through fear. A master of manipulation, dark-side sorcery, and long-range planning, he brought the Sith Grand Plan to fruition after centuries of secrecy.",
+  "history": "Trained by Darth Plagueis, Sheev Palpatine of Naboo embraced the Sith teachings while building a political career. As senator and later chancellor, he orchestrated the Separatist Crisis, controlled both sides of the Clone Wars, and eroded Jedi authority.\n\nWith Anakin Skywalker as his new apprentice Darth Vader, Sidious issued Order 66, declared the Empire, and hunted the remaining Jedi. He ruled from Imperial Center, constructing superweapons and subverting every institution of the Old Republic.\n\nThought destroyed aboard the second Death Star, Palpatine's dark-side experiments and cloning efforts eventually allowed a return in the Unknown Regions, threatening the New Republic and Resistance once more.\n\nHis final defeat required the combined efforts of Rey, the redeemed Ben Solo, and the spirits of Jedi past, ending the Sith Eternal's bid for eternal dominion.",
+  "significance": "Sidious represents institutional corruption weaponized through the dark side. His rise demonstrates how democracies can vote themselves into tyranny when fear goes unchecked.\n\nAs the architect of Order 66, the Empire, and the Sith Eternal, he is the through-line villain connecting prequel, original, and sequel eras.\n\nHis obsession with immortality and absolute control stands in stark contrast to the Jedi acceptance of death and service to the Living Force.",
+  "notableEvents": [
+    "Manipulated the Trade Federation invasion of Naboo",
+    "Engineered the Clone Wars as Darth Sidious",
+    "Declared himself Emperor after Order 66",
+    "Corrupted Anakin Skywalker to become Darth Vader",
+    "Destroyed Alderaan via the Death Star's superlaser",
+    "Was thrown down a reactor shaft by Darth Vader",
+    "Returned via cloning and was defeated at Exegol"
+  ],
+  "affiliations": [
+    "Sith Order",
+    "Galactic Republic (as Chancellor Palpatine)",
+    "Galactic Empire",
+    "Sith Eternal",
+    "Confederacy of Independent Systems (secret patron)"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Trained in the Sith arts under Darth Plagueis"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Ruled the Republic as Supreme Chancellor Palpatine"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Proclaimed the Galactic Empire and ruled as Emperor"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commanded the Death Star and hunted the Rebel Alliance"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Was defeated aboard the second Death Star"
+    },
+    {
+      "era": "First Order",
+      "event": "Returned and led the Final Order from Exegol"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/darth-sidious.svg",
+      "caption": "Portrait of Darth Sidious"
+    },
+    {
+      "path": "/images/sith/darth-sidious-scene.svg",
+      "caption": "Dark side lightning scene — Darth Sidious"
+    },
+    {
+      "path": "/images/sith/darth-sidious-emblem.svg",
+      "caption": "Sith emblem associated with Darth Sidious"
+    }
+  ]
+}

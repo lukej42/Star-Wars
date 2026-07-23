@@ -1,0 +1,20 @@
+@page "/all-jedi"
+@using StarWars.Data
+
+<PageTitle>All Jedi</PageTitle>
+
+<h1>All Jedi</h1>
+<p class="all-planets-intro">Jedi from the six films, Clone Wars, Rebels, Tales of the Jedi, Ahsoka, and related series.</p>
+
+<div class="planet-directory-grid">
+    @foreach (var jedi in JediData.Members.OrderBy(jedi => jedi.Name))
+    {
+        <article class="planet-directory-card">
+            <span class="planet-directory-swatch" style="background-color: @jedi.Color" aria-hidden="true"></span>
+            <div class="planet-directory-details">
+                <a href="@jedi.Route">@jedi.Name</a>
+                <p class="planet-region">@jedi.Rank</p>
+            </div>
+        </article>
+    }
+</div>

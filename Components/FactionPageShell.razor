@@ -1,0 +1,65 @@
+<div class="character-page faction-page" style="--character-accent: @AccentColor">
+    <figure class="character-page-portrait-wrap faction-logo-wrap">
+        <img class="character-page-portrait faction-logo"
+             src="@ImagePath"
+             alt="@($"Emblem of {Name}")"
+             loading="lazy" />
+    </figure>
+    <div class="character-page-body">
+        <h1>@Name</h1>
+        @if (!string.IsNullOrWhiteSpace(Subtitle))
+        {
+            <p class="planet-region">@Subtitle</p>
+        }
+        <dl class="faction-meta">
+            @if (!string.IsNullOrWhiteSpace(YearsActive))
+            {
+                <div class="faction-meta-row">
+                    <dt>Years active</dt>
+                    <dd>@YearsActive</dd>
+                </div>
+            }
+            @if (!string.IsNullOrWhiteSpace(Capital))
+            {
+                <div class="faction-meta-row">
+                    <dt>Capital</dt>
+                    <dd>@Capital</dd>
+                </div>
+            }
+            @if (!string.IsNullOrWhiteSpace(Government))
+            {
+                <div class="faction-meta-row">
+                    <dt>Government</dt>
+                    <dd>@Government</dd>
+                </div>
+            }
+        </dl>
+        <p class="character-page-description">@Description</p>
+    </div>
+</div>
+
+@code {
+    [Parameter, EditorRequired]
+    public string Name { get; set; } = string.Empty;
+
+    [Parameter, EditorRequired]
+    public string ImagePath { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Subtitle { get; set; } = string.Empty;
+
+    [Parameter]
+    public string YearsActive { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Capital { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Government { get; set; } = string.Empty;
+
+    [Parameter, EditorRequired]
+    public string Description { get; set; } = string.Empty;
+
+    [Parameter]
+    public string AccentColor { get; set; } = "#7eb8ff";
+}

@@ -1,0 +1,62 @@
+{
+  "overview": "Dromund Kaas is remembered across the galaxy as a sith space whose story intersects with pivotal eras of Star Wars history. The capital of the Old Sith Empire — a storm-wracked jungle world dominated by Kaas City. Scholars of the Sith traditions cite Dromund Kaas when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Dromund Kaas within the broader tapestry of the Sith Space, long before the conflicts that would define modern galactic politics. The capital of the Old Sith Empire — a storm-wracked jungle world dominated by Kaas City. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Dromund Kaas was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Dromund Kaas's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Dromund Kaas serves as a lens for understanding the sith space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Dromund Kaas embodies the ideals and contradictions associated with the sith space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Dromund Kaas alive in holodramas, academy lectures, and pilgrim routes. The accent color #2a4a2a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Dromund Kaas marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Dromund Kaas within galactic records",
+    "Played a key role during the First Order in Sith Space",
+    "Survived or shaped a major battle linked to Dromund Kaas's reputation",
+    "Formed alliances that reflected the priorities of the sith space",
+    "Confronted rivals who challenged Dromund Kaas's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Dromund Kaas's choices"
+  ],
+  "affiliations": [
+    "Sith Space",
+    "Allies of Dromund Kaas",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "Dromund Kaas enters historical record as sith space"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to the capital of the old sith empire — a storm-wracked jungle world dominated by kaas city"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as institutions around Dromund Kaas fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Commemorated in archives celebrating Sith Space"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/dromund-kaas.svg",
+      "caption": "Globe view of Dromund Kaas"
+    },
+    {
+      "path": "/images/planets/dromund-kaas-scene.svg",
+      "caption": "Surface landscape of Dromund Kaas"
+    },
+    {
+      "path": "/images/planets/dromund-kaas-chart.svg",
+      "caption": "Star chart marker for Dromund Kaas"
+    }
+  ]
+}

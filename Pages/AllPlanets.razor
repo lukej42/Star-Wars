@@ -1,0 +1,20 @@
+@page "/all-planets"
+@using StarWars.Data
+
+<PageTitle>All Planets</PageTitle>
+
+<h1>All Planets</h1>
+<p class="all-planets-intro">@GalaxyData.Planets.Count known worlds from the nine saga films, series, Knights of the Old Republic, and the Old Sith Empire.</p>
+
+<div class="planet-directory-grid">
+    @foreach (var planet in GalaxyData.Planets.OrderBy(planet => planet.Name))
+    {
+        <article class="planet-directory-card">
+            <span class="planet-directory-swatch" style="background-color: @planet.Color" aria-hidden="true"></span>
+            <div class="planet-directory-details">
+                <a href="@planet.Route">@planet.Name</a>
+                <p class="planet-region">@planet.Region</p>
+            </div>
+        </article>
+    }
+</div>

@@ -1,0 +1,62 @@
+{
+  "overview": "Kijimi is remembered across the galaxy as a mid rim whose story intersects with pivotal eras of Star Wars history. A snowbound planet whose spice-mining cities harbor scoundrels and Resistance sympathizers. Scholars of the Mid traditions cite Kijimi when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Kijimi within the broader tapestry of the Mid Rim, long before the conflicts that would define modern galactic politics. A snowbound planet whose spice-mining cities harbor scoundrels and Resistance sympathizers. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Kijimi was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Kijimi's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Kijimi serves as a lens for understanding the mid rim and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Kijimi embodies the ideals and contradictions associated with the mid rim. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Kijimi alive in holodramas, academy lectures, and pilgrim routes. The accent color #d0d8e0 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Kijimi marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Kijimi within galactic records",
+    "Played a key role during the Clone Wars in Mid Rim",
+    "Survived or shaped a major battle linked to Kijimi's reputation",
+    "Formed alliances that reflected the priorities of the mid rim",
+    "Confronted rivals who challenged Kijimi's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Kijimi's choices"
+  ],
+  "affiliations": [
+    "Mid Rim",
+    "Allies of Kijimi",
+    "Galactic historians' archives",
+    "Mid networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Kijimi enters historical record as mid rim"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Participates in a pivotal campaign during the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Becomes widely known for actions tied to a snowbound planet whose spice-mining cities harbor scoundrels and resistance sympathizers"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Kijimi fracture"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Mid Rim"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kijimi.svg",
+      "caption": "Globe view of Kijimi"
+    },
+    {
+      "path": "/images/planets/kijimi-scene.svg",
+      "caption": "Surface landscape of Kijimi"
+    },
+    {
+      "path": "/images/planets/kijimi-chart.svg",
+      "caption": "Star chart marker for Kijimi"
+    }
+  ]
+}

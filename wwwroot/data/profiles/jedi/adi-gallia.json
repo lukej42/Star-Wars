@@ -1,0 +1,62 @@
+{
+  "overview": "Adi Gallia is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A Tholothian Jedi Council member known for her diplomatic skill and mastery of Form V. Scholars of the Jedi traditions cite Adi Gallia when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Adi Gallia within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A Tholothian Jedi Council member known for her diplomatic skill and mastery of Form V. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Adi Gallia was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Adi Gallia's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Adi Gallia serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Adi Gallia embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Adi Gallia alive in holodramas, academy lectures, and pilgrim routes. The accent color #3b82f6 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Adi Gallia marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Adi Gallia within galactic records",
+    "Played a key role during the Galactic Civil War in Jedi Master",
+    "Survived or shaped a major battle linked to Adi Gallia's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Adi Gallia's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Adi Gallia's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Adi Gallia",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Adi Gallia enters historical record as jedi master"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Becomes widely known for actions tied to a tholothian jedi council member known for her diplomatic skill and mastery of form v"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Adi Gallia fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/adi-gallia.svg",
+      "caption": "Portrait of Adi Gallia"
+    },
+    {
+      "path": "/images/jedi/adi-gallia-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Adi Gallia"
+    },
+    {
+      "path": "/images/jedi/adi-gallia-emblem.svg",
+      "caption": "Jedi Order emblem associated with Adi Gallia"
+    }
+  ]
+}

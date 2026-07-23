@@ -1,0 +1,11 @@
+@page "/planet/{Slug}"
+@using StarWars.Components
+
+<PageTitle>Planet</PageTitle>
+
+<PlanetDetailView Slug="@Slug" />
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+}

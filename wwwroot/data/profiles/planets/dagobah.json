@@ -1,0 +1,62 @@
+{
+  "overview": "Dagobah is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A mist-shrouded swamp world where Yoda lived in exile after the fall of the Jedi. Scholars of the Outer traditions cite Dagobah when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Dagobah within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A mist-shrouded swamp world where Yoda lived in exile after the fall of the Jedi. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Dagobah was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Dagobah's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Dagobah serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Dagobah embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Dagobah alive in holodramas, academy lectures, and pilgrim routes. The accent color #3a5a3a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Dagobah marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Dagobah within galactic records",
+    "Played a key role during the Ancient Era in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Dagobah's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Dagobah's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Clone Wars",
+    "Inspired later movements that reinterpreted Dagobah's choices"
+  ],
+  "affiliations": [
+    "Outer Rim Territories",
+    "Allies of Dagobah",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "Dagobah enters historical record as outer rim territories"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Participates in a pivotal campaign during the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Becomes widely known for actions tied to a mist-shrouded swamp world where yoda lived in exile after the fall of the jedi"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as institutions around Dagobah fracture"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Legacy debated by scholars of the Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/dagobah.svg",
+      "caption": "Globe view of Dagobah"
+    },
+    {
+      "path": "/images/planets/dagobah-scene.svg",
+      "caption": "Surface landscape of Dagobah"
+    },
+    {
+      "path": "/images/planets/dagobah-chart.svg",
+      "caption": "Star chart marker for Dagobah"
+    }
+  ]
+}

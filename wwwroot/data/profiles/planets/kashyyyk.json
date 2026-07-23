@@ -1,0 +1,62 @@
+{
+  "overview": "Kashyyyk is remembered across the galaxy as a mid rim whose story intersects with pivotal eras of Star Wars history. The Wookiee homeworld — towering wroshyr forests spanning a lush jungle planet. Scholars of the Mid traditions cite Kashyyyk when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Kashyyyk within the broader tapestry of the Mid Rim, long before the conflicts that would define modern galactic politics. The Wookiee homeworld — towering wroshyr forests spanning a lush jungle planet. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Kashyyyk was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Kashyyyk's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Kashyyyk serves as a lens for understanding the mid rim and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Kashyyyk embodies the ideals and contradictions associated with the mid rim. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Kashyyyk alive in holodramas, academy lectures, and pilgrim routes. The accent color #2a6a3a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Kashyyyk marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Kashyyyk within galactic records",
+    "Played a key role during the New Republic in Mid Rim",
+    "Survived or shaped a major battle linked to Kashyyyk's reputation",
+    "Formed alliances that reflected the priorities of the mid rim",
+    "Confronted rivals who challenged Kashyyyk's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Kashyyyk's choices"
+  ],
+  "affiliations": [
+    "Mid Rim",
+    "Allies of Kashyyyk",
+    "Galactic historians' archives",
+    "Mid networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Kashyyyk enters historical record as mid rim"
+    },
+    {
+      "era": "New Republic",
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to the wookiee homeworld — towering wroshyr forests spanning a lush jungle planet"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Kashyyyk fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Mid Rim"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kashyyyk.svg",
+      "caption": "Globe view of Kashyyyk"
+    },
+    {
+      "path": "/images/planets/kashyyyk-scene.svg",
+      "caption": "Surface landscape of Kashyyyk"
+    },
+    {
+      "path": "/images/planets/kashyyyk-chart.svg",
+      "caption": "Star chart marker for Kashyyyk"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "The J-type 327 Naboo Royal Starship is a royal cruiser whose service history spans Clone Wars (32–19 BBY). Queen Amidala's chrome-hulled diplomatic vessel, famously shielded and maintained by Naboo's finest engineers. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~15 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the J-type 327 Naboo Royal Starship during the political tensions that defined Clone Wars (32–19 BBY). Engineers prioritised capabilities suited to its role as a royal cruiser, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the J-type 327 Naboo Royal Starship entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. Queen Amidala's chrome-hulled diplomatic vessel, famously shielded and maintained by Naboo's finest engineers. Veterans praised its reliability under fire while analysts debated whether mass production at ~15 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the royal cruiser could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the J-type 327 Naboo Royal Starship symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The J-type 327 Naboo Royal Starship illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its royal cruiser layout influenced successor designs long after production lines fell silent.\n\nApproximately ~15 units hulls served during Clone Wars (32–19 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the J-type 327 Naboo Royal Starship remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Clone Wars (32–19 BBY)",
+    "Estimated production run of ~15 units",
+    "Deployed in fleet actions tied to queen amidala's chrome-hulled diplomatic vessel, famously shielded and maintained by naboo's finest engineers",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating royal cruiser crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Royal Naboo fleet",
+    "Royal Cruiser fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "J-type 327 Naboo Royal Starship design approved and prototype tested"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Mass production reaches ~15 units across active shipyards"
+    },
+    {
+      "era": "Old Republic",
+      "event": "First major fleet deployment of the royal cruiser"
+    },
+    {
+      "era": "High Republic",
+      "event": "Notable battle honour linked to J-type 327 Naboo Royal Starship class actions"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/j-type-327.svg",
+      "caption": "Profile view of the J-type 327 Naboo Royal Starship"
+    },
+    {
+      "path": "/images/ships/j-type-327-scene.svg",
+      "caption": "Combat deployment — J-type 327 Naboo Royal Starship"
+    },
+    {
+      "path": "/images/ships/j-type-327-blueprint.svg",
+      "caption": "Technical schematic — J-type 327 Naboo Royal Starship"
+    }
+  ]
+}

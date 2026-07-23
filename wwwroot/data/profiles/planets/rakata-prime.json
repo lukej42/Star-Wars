@@ -1,0 +1,62 @@
+{
+  "overview": "Rakata Prime is remembered across the galaxy as a unknown regions whose story intersects with pivotal eras of Star Wars history. The ruined homeworld of the Rakata Infinite Empire, overgrown by jungle and dark side ruins. Scholars of the Unknown traditions cite Rakata Prime when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Rakata Prime within the broader tapestry of the Unknown Regions, long before the conflicts that would define modern galactic politics. The ruined homeworld of the Rakata Infinite Empire, overgrown by jungle and dark side ruins. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Rakata Prime was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Rakata Prime's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Rakata Prime serves as a lens for understanding the unknown regions and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Rakata Prime embodies the ideals and contradictions associated with the unknown regions. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Rakata Prime alive in holodramas, academy lectures, and pilgrim routes. The accent color #2a5a3a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Rakata Prime marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Rakata Prime within galactic records",
+    "Played a key role during the New Republic in Unknown Regions",
+    "Survived or shaped a major battle linked to Rakata Prime's reputation",
+    "Formed alliances that reflected the priorities of the unknown regions",
+    "Confronted rivals who challenged Rakata Prime's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Rakata Prime's choices"
+  ],
+  "affiliations": [
+    "Unknown Regions",
+    "Allies of Rakata Prime",
+    "Galactic historians' archives",
+    "Unknown networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Rakata Prime enters historical record as unknown regions"
+    },
+    {
+      "era": "New Republic",
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to the ruined homeworld of the rakata infinite empire, overgrown by jungle and dark side ruins"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Rakata Prime fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Unknown Regions"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/rakata-prime.svg",
+      "caption": "Globe view of Rakata Prime"
+    },
+    {
+      "path": "/images/planets/rakata-prime-scene.svg",
+      "caption": "Surface landscape of Rakata Prime"
+    },
+    {
+      "path": "/images/planets/rakata-prime-chart.svg",
+      "caption": "Star chart marker for Rakata Prime"
+    }
+  ]
+}

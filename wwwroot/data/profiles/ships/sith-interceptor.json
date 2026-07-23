@@ -1,0 +1,63 @@
+{
+  "overview": "The Sith Interceptor is a heavy starfighter whose service history spans Old Republic (3,956–3,951 BBY). A twin-boom interceptor flown by Sith acolytes during the Jedi Civil War, armed with heavy laser cannons. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~2,500 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Sith Interceptor during the political tensions that defined Old Republic (3,956–3,951 BBY). Engineers prioritised capabilities suited to its role as a heavy starfighter, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Sith Interceptor entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. A twin-boom interceptor flown by Sith acolytes during the Jedi Civil War, armed with heavy laser cannons. Veterans praised its reliability under fire while analysts debated whether mass production at ~2,500 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the heavy starfighter could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Sith Interceptor symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Sith Interceptor illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its heavy starfighter layout influenced successor designs long after production lines fell silent.\n\nApproximately ~2,500 units hulls served during Old Republic (3,956–3,951 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Sith Interceptor remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Old Republic (3,956–3,951 BBY)",
+    "Estimated production run of ~2,500 units",
+    "Deployed in fleet actions tied to a twin-boom interceptor flown by sith acolytes during the jedi civil war, armed with heavy laser cannons",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating heavy starfighter crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Sith Empire",
+    "Heavy Starfighter fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Sith Interceptor design approved and prototype tested"
+    },
+    {
+      "era": "First Order",
+      "event": "Mass production reaches ~2,500 units across active shipyards"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "First major fleet deployment of the heavy starfighter"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Notable battle honour linked to Sith Interceptor class actions"
+    },
+    {
+      "era": "High Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/sith-interceptor.svg",
+      "caption": "Profile view of the Sith Interceptor"
+    },
+    {
+      "path": "/images/ships/sith-interceptor-scene.svg",
+      "caption": "Combat deployment — Sith Interceptor"
+    },
+    {
+      "path": "/images/ships/sith-interceptor-blueprint.svg",
+      "caption": "Technical schematic — Sith Interceptor"
+    }
+  ]
+}

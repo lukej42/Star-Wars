@@ -1,0 +1,63 @@
+{
+  "overview": "The Harrower-class Dreadnought is a dreadnought whose service history spans Sith Empire (3,681–3,640 BBY). The backbone of the Sith Imperial Navy during the Great Galactic War, bristling with turbolasers and fighter bays. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~200 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Harrower-class Dreadnought during the political tensions that defined Sith Empire (3,681–3,640 BBY). Engineers prioritised capabilities suited to its role as a dreadnought, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Harrower-class Dreadnought entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. The backbone of the Sith Imperial Navy during the Great Galactic War, bristling with turbolasers and fighter bays. Veterans praised its reliability under fire while analysts debated whether mass production at ~200 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the dreadnought could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Harrower-class Dreadnought symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Harrower-class Dreadnought illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its dreadnought layout influenced successor designs long after production lines fell silent.\n\nApproximately ~200 units hulls served during Sith Empire (3,681–3,640 BBY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Harrower-class Dreadnought remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Sith Empire (3,681–3,640 BBY)",
+    "Estimated production run of ~200 units",
+    "Deployed in fleet actions tied to the backbone of the sith imperial navy during the great galactic war, bristling with turbolasers and fighter bays",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating dreadnought crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Sith Empire",
+    "Dreadnought fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Sith Empire",
+      "event": "Harrower-class Dreadnought design approved and prototype tested"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Mass production reaches ~200 units across active shipyards"
+    },
+    {
+      "era": "High Republic",
+      "event": "First major fleet deployment of the dreadnought"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Notable battle honour linked to Harrower-class Dreadnought class actions"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/harrower-class.svg",
+      "caption": "Profile view of the Harrower-class Dreadnought"
+    },
+    {
+      "path": "/images/ships/harrower-class-scene.svg",
+      "caption": "Combat deployment — Harrower-class Dreadnought"
+    },
+    {
+      "path": "/images/ships/harrower-class-blueprint.svg",
+      "caption": "Technical schematic — Harrower-class Dreadnought"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "overview": "Tython is remembered across the galaxy as a deep core whose story intersects with pivotal eras of Star Wars history. The birthplace of the Jedi Order, a Force-soaked world of temples and ancient mysteries. Scholars of the Deep traditions cite Tython when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Tython within the broader tapestry of the Deep Core, long before the conflicts that would define modern galactic politics. The birthplace of the Jedi Order, a Force-soaked world of temples and ancient mysteries. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Tython was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Tython's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Tython serves as a lens for understanding the deep core and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Tython embodies the ideals and contradictions associated with the deep core. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Tython alive in holodramas, academy lectures, and pilgrim routes. The accent color #8a9a6a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Tython marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Tython within galactic records",
+    "Played a key role during the Imperial Era in Deep Core",
+    "Survived or shaped a major battle linked to Tython's reputation",
+    "Formed alliances that reflected the priorities of the deep core",
+    "Confronted rivals who challenged Tython's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Tython's choices"
+  ],
+  "affiliations": [
+    "Deep Core",
+    "Allies of Tython",
+    "Galactic historians' archives",
+    "Deep networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Tython enters historical record as deep core"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to the birthplace of the jedi order, a force-soaked world of temples and ancient mysteries"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Tython fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Deep Core"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/tython.svg",
+      "caption": "Globe view of Tython"
+    },
+    {
+      "path": "/images/planets/tython-scene.svg",
+      "caption": "Surface landscape of Tython"
+    },
+    {
+      "path": "/images/planets/tython-chart.svg",
+      "caption": "Star chart marker for Tython"
+    }
+  ]
+}

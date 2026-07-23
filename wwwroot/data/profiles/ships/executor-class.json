@@ -1,0 +1,63 @@
+{
+  "overview": "The Executor-class Star Dreadnought is a super star destroyer whose service history spans Imperial Era (0 BBY–4 ABY). Darth Vader's flagship and the Empire's most terrifying capital ship, over 19 kilometres long with enough firepower to subjugate systems. Imperial archives, Rebel intelligence briefings, and Mandalorian shipyard records estimate total production at ~13 units, though wartime losses and black-market refits make exact counts difficult to verify.",
+  "history": "Design bureaus first drafted the Executor-class Star Dreadnought during the political tensions that defined Imperial Era (0 BBY–4 ABY). Engineers prioritised capabilities suited to its role as a super star destroyer, balancing armour, manoeuvrability, and crew requirements against the industrial capacity of the factions that ordered it into production.\n\nAs fleet doctrine evolved, the Executor-class Star Dreadnought entered front-line service in convoy escort, planetary assault, and deep-space patrol missions. Darth Vader's flagship and the Empire's most terrifying capital ship, over 19 kilometres long with enough firepower to subjugate systems. Veterans praised its reliability under fire while analysts debated whether mass production at ~13 units diluted quality control across shipyard lines.\n\nMajor campaigns cemented the vessel's reputation — whether as a terror weapon, a rebel lifeline, or a smuggler's last hope. Battle damage reports show the super star destroyer could absorb punishment that would destroy lighter craft, though attrition rates climbed sharply during the bloodiest years of galactic war.\n\nIn the modern era, surviving hulls appear in private collections, museum orbits, and covert fleets. Restorers hunt spare parts across scrap worlds while historians argue the Executor-class Star Dreadnought symbolises the industrial scale of conflict more than any single battle honour.",
+  "significance": "The Executor-class Star Dreadnought illustrates how shipwright traditions and wartime desperation combine to shape galactic warfare. Its super star destroyer layout influenced successor designs long after production lines fell silent.\n\nApproximately ~13 units hulls served during Imperial Era (0 BBY–4 ABY), making the class one of the most visible symbols of its faction's naval power. Colour markings and unit insignia turned anonymous factory output into icons recognised across holonet broadcasts.\n\nFor engineers and tacticians, the Executor-class Star Dreadnought remains a case study in trade-offs between firepower, crew survival, and maintenance — lessons still taught at academies from Coruscant to Mandalore.",
+  "notableEvents": [
+    "Entered service during Imperial Era (0 BBY–4 ABY)",
+    "Estimated production run of ~13 units",
+    "Deployed in fleet actions tied to darth vader's flagship and the empire's most terrifying capital ship, over 19 kilometres long with enough firepower to subjugate systems",
+    "Survived or inflicted decisive damage in a major naval engagement",
+    "Refitted by field crews to extend operational lifespan",
+    "Captured or scuttled hulls studied by rival factions",
+    "Featured in propaganda celebrating super star destroyer crews",
+    "Preserved in memorial fleets or scrapped after wars ended"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Super Star Destroyer fleet wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools",
+    "Salvage and retrofit yards"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Executor-class Star Dreadnought design approved and prototype tested"
+    },
+    {
+      "era": "First Order",
+      "event": "Mass production reaches ~13 units across active shipyards"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "First major fleet deployment of the super star destroyer"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Notable battle honour linked to Executor-class Star Dreadnought class actions"
+    },
+    {
+      "era": "High Republic",
+      "event": "Late-war refits and attrition reduce active hull numbers"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Remaining hulls retired, preserved, or lost to scrap raids"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/executor-class.svg",
+      "caption": "Profile view of the Executor-class Star Dreadnought"
+    },
+    {
+      "path": "/images/ships/executor-class-scene.svg",
+      "caption": "Combat deployment — Executor-class Star Dreadnought"
+    },
+    {
+      "path": "/images/ships/executor-class-blueprint.svg",
+      "caption": "Technical schematic — Executor-class Star Dreadnought"
+    }
+  ]
+}

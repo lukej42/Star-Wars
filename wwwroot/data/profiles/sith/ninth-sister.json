@@ -1,0 +1,62 @@
+{
+  "overview": "Ninth Sister is remembered across the galaxy as a inquisitor whose story intersects with pivotal eras of Star Wars history. A Dowutin former Jedi who became an Inquisitor, distinguished by her imposing size and cruel interrogation methods. Scholars of the Inquisitor traditions cite Ninth Sister when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Ninth Sister within the broader tapestry of the Inquisitor, long before the conflicts that would define modern galactic politics. A Dowutin former Jedi who became an Inquisitor, distinguished by her imposing size and cruel interrogation methods. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Ninth Sister was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Ninth Sister's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Ninth Sister serves as a lens for understanding the inquisitor and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Ninth Sister embodies the ideals and contradictions associated with the inquisitor. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Ninth Sister alive in holodramas, academy lectures, and pilgrim routes. The accent color #991b1b often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Ninth Sister marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Ninth Sister within galactic records",
+    "Played a key role during the High Republic in Inquisitor",
+    "Survived or shaped a major battle linked to Ninth Sister's reputation",
+    "Formed alliances that reflected the priorities of the inquisitor",
+    "Confronted rivals who challenged Ninth Sister's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Galactic Civil War",
+    "Inspired later movements that reinterpreted Ninth Sister's choices"
+  ],
+  "affiliations": [
+    "Inquisitor",
+    "Allies of Ninth Sister",
+    "Galactic historians' archives",
+    "Inquisitor networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Ninth Sister enters historical record as inquisitor"
+    },
+    {
+      "era": "High Republic",
+      "event": "Participates in a pivotal campaign during the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Becomes widely known for actions tied to a dowutin former jedi who became an inquisitor, distinguished by her imposing size and cruel interrogation methods"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Navigates crisis as institutions around Ninth Sister fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated by scholars of the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Commemorated in archives celebrating Inquisitor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/ninth-sister.svg",
+      "caption": "Portrait of Ninth Sister"
+    },
+    {
+      "path": "/images/sith/ninth-sister-scene.svg",
+      "caption": "Dark side lightning scene — Ninth Sister"
+    },
+    {
+      "path": "/images/sith/ninth-sister-emblem.svg",
+      "caption": "Sith emblem associated with Ninth Sister"
+    }
+  ]
+}

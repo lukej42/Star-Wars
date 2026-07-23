@@ -1,0 +1,62 @@
+{
+  "overview": "Seventh Sister is remembered across the galaxy as a inquisitor whose story intersects with pivotal eras of Star Wars history. A Mirialan Inquisitor known for her agile fighting style and relentless pursuit of Kanan Jarrus and Ezra Bridger. Scholars of the Inquisitor traditions cite Seventh Sister when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Seventh Sister within the broader tapestry of the Inquisitor, long before the conflicts that would define modern galactic politics. A Mirialan Inquisitor known for her agile fighting style and relentless pursuit of Kanan Jarrus and Ezra Bridger. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Seventh Sister was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Seventh Sister's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Seventh Sister serves as a lens for understanding the inquisitor and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Seventh Sister embodies the ideals and contradictions associated with the inquisitor. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Seventh Sister alive in holodramas, academy lectures, and pilgrim routes. The accent color #b91c1c often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Seventh Sister marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Seventh Sister within galactic records",
+    "Played a key role during the First Order in Inquisitor",
+    "Survived or shaped a major battle linked to Seventh Sister's reputation",
+    "Formed alliances that reflected the priorities of the inquisitor",
+    "Confronted rivals who challenged Seventh Sister's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Seventh Sister's choices"
+  ],
+  "affiliations": [
+    "Inquisitor",
+    "Allies of Seventh Sister",
+    "Galactic historians' archives",
+    "Inquisitor networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "Seventh Sister enters historical record as inquisitor"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a mirialan inquisitor known for her agile fighting style and relentless pursuit of kanan jarrus and ezra bridger"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as institutions around Seventh Sister fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Commemorated in archives celebrating Inquisitor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/seventh-sister.svg",
+      "caption": "Portrait of Seventh Sister"
+    },
+    {
+      "path": "/images/sith/seventh-sister-scene.svg",
+      "caption": "Dark side lightning scene — Seventh Sister"
+    },
+    {
+      "path": "/images/sith/seventh-sister-emblem.svg",
+      "caption": "Sith emblem associated with Seventh Sister"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "overview": "Kit Fisto is remembered across the galaxy as a jedi master whose story intersects with pivotal eras of Star Wars history. A Nautolan Jedi Council member celebrated for his cheerful demeanor and mastery of Form I underwater. Scholars of the Jedi traditions cite Kit Fisto when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Kit Fisto within the broader tapestry of the Jedi Master, long before the conflicts that would define modern galactic politics. A Nautolan Jedi Council member celebrated for his cheerful demeanor and mastery of Form I underwater. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Kit Fisto was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Kit Fisto's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Kit Fisto serves as a lens for understanding the jedi master and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Kit Fisto embodies the ideals and contradictions associated with the jedi master. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Kit Fisto alive in holodramas, academy lectures, and pilgrim routes. The accent color #22c55e often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Kit Fisto marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Kit Fisto within galactic records",
+    "Played a key role during the Imperial Era in Jedi Master",
+    "Survived or shaped a major battle linked to Kit Fisto's reputation",
+    "Formed alliances that reflected the priorities of the jedi master",
+    "Confronted rivals who challenged Kit Fisto's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Kit Fisto's choices"
+  ],
+  "affiliations": [
+    "Jedi Master",
+    "Allies of Kit Fisto",
+    "Galactic historians' archives",
+    "Jedi networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Kit Fisto enters historical record as jedi master"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a nautolan jedi council member celebrated for his cheerful demeanor and mastery of form i underwater"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Kit Fisto fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Jedi Master"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/kit-fisto.svg",
+      "caption": "Portrait of Kit Fisto"
+    },
+    {
+      "path": "/images/jedi/kit-fisto-scene.svg",
+      "caption": "Jedi temple and battlefield scene — Kit Fisto"
+    },
+    {
+      "path": "/images/jedi/kit-fisto-emblem.svg",
+      "caption": "Jedi Order emblem associated with Kit Fisto"
+    }
+  ]
+}

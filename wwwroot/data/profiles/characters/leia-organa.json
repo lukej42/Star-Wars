@@ -1,0 +1,57 @@
+{
+  "overview": "Leia Organa was princess of Alderaan, senator, general, and one of the founding architects of the Rebel Alliance. Adopted by Bail and Breha Organa, she carried both royal dignity and revolutionary fire, becoming a symbol of resistance long before the galaxy learned she was Luke Skywalker's twin and daughter of Anakin Skywalker.",
+  "history": "Raised on Alderaan with secret training in diplomacy and covert operations, Leia served in the Imperial Senate while secretly funneling resources to the Rebellion. Her capture aboard the Tantive IV led to the Death Star plans reaching the Alliance.\n\nAfter Alderaan's destruction, Leia became the emotional center of the Rebellion, inspiring cells across the galaxy. She helped coordinate the Battle of Yavin, the evacuation of Hoth, and the mission to Endor.\n\nIn the New Republic era she founded the Resistance when political complacency ignored the First Order threat. Mother to Ben Solo, she endured his fall to the dark side and continued leading until her death, passing the torch to Rey and the next generation.\n\nLeia's holo-messages, tactical brilliance, and refusal to compromise made her one of the most influential non-Jedi leaders in galactic history.",
+  "significance": "Leia proved that leadership in Star Wars extends far beyond lightsabers—strategy, compassion, and moral clarity can unite disparate worlds.\n\nHer white robes and braided hair became iconic symbols of defiance against tyranny.\n\nAs a Skywalker who never fully trained as a Jedi yet still touched the Force, she bridges political and spiritual resistance.",
+  "notableEvents": [
+    "Smuggled Death Star plans aboard the Tantive IV",
+    "Survived interrogation aboard the first Death Star",
+    "Coordinated the Rebel victory at the Battle of Yavin",
+    "Led the evacuation from Hoth and later the Endor mission",
+    "Founded the Resistance against the First Order",
+    "Trained Rey in the ways of the Force",
+    "Appeared as a Force spirit to guide the final defeat of Palpatine"
+  ],
+  "affiliations": [
+    "House of Organa",
+    "Alliance to Restore the Republic",
+    "New Republic Senate",
+    "Resistance",
+    "Skywalker family"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Served as senator while secretly aiding the Rebellion"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Became a principal leader after Alderaan's destruction"
+    },
+    {
+      "era": "New Republic",
+      "event": "Helped govern and later warned of rising threats"
+    },
+    {
+      "era": "First Order",
+      "event": "Founded and led the Resistance"
+    },
+    {
+      "era": "First Order",
+      "event": "Mentored Rey and passed on the Skywalker legacy"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/leia-organa.svg",
+      "caption": "Portrait of Leia Organa"
+    },
+    {
+      "path": "/images/characters/leia-organa-scene.svg",
+      "caption": "Scene from the life of Leia Organa"
+    },
+    {
+      "path": "/images/characters/leia-organa-emblem.svg",
+      "caption": "Insignia associated with Leia Organa"
+    }
+  ]
+}

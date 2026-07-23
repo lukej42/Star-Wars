@@ -1,0 +1,62 @@
+{
+  "overview": "Nathema is remembered across the galaxy as a sith space whose story intersects with pivotal eras of Star Wars history. A lifeless world drained of the Force by the Sith Emperor's ritual of mass extinction. Scholars of the Sith traditions cite Nathema when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Nathema within the broader tapestry of the Sith Space, long before the conflicts that would define modern galactic politics. A lifeless world drained of the Force by the Sith Emperor's ritual of mass extinction. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Nathema was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Nathema's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Nathema serves as a lens for understanding the sith space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Nathema embodies the ideals and contradictions associated with the sith space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Nathema alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a3a4a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Nathema marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Nathema within galactic records",
+    "Played a key role during the Imperial Era in Sith Space",
+    "Survived or shaped a major battle linked to Nathema's reputation",
+    "Formed alliances that reflected the priorities of the sith space",
+    "Confronted rivals who challenged Nathema's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Nathema's choices"
+  ],
+  "affiliations": [
+    "Sith Space",
+    "Allies of Nathema",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Nathema enters historical record as sith space"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a lifeless world drained of the force by the sith emperor's ritual of mass extinction"
+    },
+    {
+      "era": "New Republic",
+      "event": "Navigates crisis as institutions around Nathema fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Sith Space"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/nathema.svg",
+      "caption": "Globe view of Nathema"
+    },
+    {
+      "path": "/images/planets/nathema-scene.svg",
+      "caption": "Surface landscape of Nathema"
+    },
+    {
+      "path": "/images/planets/nathema-chart.svg",
+      "caption": "Star chart marker for Nathema"
+    }
+  ]
+}

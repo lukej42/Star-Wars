@@ -1,0 +1,62 @@
+{
+  "overview": "Sixth Brother is remembered across the galaxy as a inquisitor whose story intersects with pivotal eras of Star Wars history. A blue-skinned Inquisitor who confronted Ahsoka Tano on Raada before being defeated by the former Jedi. Scholars of the Inquisitor traditions cite Sixth Brother when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Sixth Brother within the broader tapestry of the Inquisitor, long before the conflicts that would define modern galactic politics. A blue-skinned Inquisitor who confronted Ahsoka Tano on Raada before being defeated by the former Jedi. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Sixth Brother was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Sixth Brother's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Sixth Brother serves as a lens for understanding the inquisitor and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Sixth Brother embodies the ideals and contradictions associated with the inquisitor. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Sixth Brother alive in holodramas, academy lectures, and pilgrim routes. The accent color #ea580c often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Sixth Brother marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "notableEvents": [
+    "First documented emergence of Sixth Brother within galactic records",
+    "Played a key role during the Old Republic in Inquisitor",
+    "Survived or shaped a major battle linked to Sixth Brother's reputation",
+    "Formed alliances that reflected the priorities of the inquisitor",
+    "Confronted rivals who challenged Sixth Brother's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Sixth Brother's choices"
+  ],
+  "affiliations": [
+    "Inquisitor",
+    "Allies of Sixth Brother",
+    "Galactic historians' archives",
+    "Inquisitor networks",
+    "Local defense militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Sixth Brother enters historical record as inquisitor"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to a blue-skinned inquisitor who confronted ahsoka tano on raada before being defeated by the former jedi"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Navigates crisis as institutions around Sixth Brother fracture"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Legacy debated by scholars of the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Inquisitor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/sith/sixth-brother.svg",
+      "caption": "Portrait of Sixth Brother"
+    },
+    {
+      "path": "/images/sith/sixth-brother-scene.svg",
+      "caption": "Dark side lightning scene — Sixth Brother"
+    },
+    {
+      "path": "/images/sith/sixth-brother-emblem.svg",
+      "caption": "Sith emblem associated with Sixth Brother"
+    }
+  ]
+}
