@@ -1,14 +1,14 @@
 # Star Wars Worlds
 
-An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse factions, characters, Jedi, Sith, planets, starships, droids, species, bounty hunters, settlements, and Force powers across the saga — from the films and series to *Knights of the Old Republic* — with rich detail pages, cinematic hero banners, an explorable galaxy map, and a responsive sidebar navigation.
+An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse galactic history, factions, characters, Jedi, Sith, planets, starships, droids, species, bounty hunters, settlements, and Force powers across the saga — from the films and series to *Knights of the Old Republic* — with rich detail pages, cinematic hero banners, an explorable galaxy map, a multi-row timeline chart, and responsive sidebar navigation.
 
 ## Features
 
 | Section | Count | Description |
 |---------|------:|-------------|
 | **Galaxy Map** | 66 worlds | Pan, zoom, and search an interactive map of the galaxy. Click any marker for a quick preview and jump to the full planet page. |
-| **Timelines** | 8 eras | Full galactic chronology with interactive time chart — Major Events, Republic Era, High Republic, Clone Wars, Imperial Era, New Republic, First Order Era, and Legends. |
-| **Factions** | 11 | Major galactic powers and syndicates — Republic, Confederacy, Empire, Rebel Alliance, New Republic, Hutts, Sith Empire, First Order, Resistance, Mandalorians, and Trade Federation. |
+| **Timelines** | 8 eras | Full galactic chronology with a multi-row interactive time chart — Major Events, Republic Era, High Republic, Clone Wars, Imperial Era, New Republic, First Order Era, and Legends. |
+| **Factions** | 11 | Major galactic powers and syndicates with cinematic heroes and full profiles — Republic, Confederacy, Empire, Rebel Alliance, New Republic, Hutts, Sith Empire, First Order, Resistance, Mandalorians, and Trade Federation. |
 | **Characters** | 102 | Heroes, villains, leaders, and supporting figures from across the saga (excluding dedicated Jedi/Sith directories). |
 | **Jedi Directory** | 42 | Jedi Masters, Knights, and Padawans with rank, history, and legacy. |
 | **Sith Directory** | 34 | Sith Lords and dark-side figures from the Rule of Two through the Old Republic era. |
@@ -22,19 +22,42 @@ An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse 
 
 Each directory entry includes a summary card in the index view and a full detail page with overview, history, significance, notable events, affiliations, timeline, and image gallery where profile data is available.
 
+### Timelines
+
+The **Full Timeline** page (`/timelines`) provides:
+
+- A cinematic directory hero banner spanning galactic history
+- A **multi-row time chart** (`GalacticTimelineChart`) — one row per era with colour-coded bars, date ranges, and axis ticks from 25,000 BBY through 34 ABY
+- A piecewise scale that compresses deep time and expands the modern era for readability
+- Clickable era rows linking to detailed timeline pages
+- A grid of all eight historic periods below the chart
+
+Timeline detail pages cover Major Events, Republic Era, High Republic, Clone Wars, Imperial Era, New Republic, First Order Era, and Legends Timeline — each with extended profile content and a cinematic hero banner.
+
+### Factions
+
+Faction pages use the same modern detail layout as characters and Jedi (`DirectoryDetailShell`), replacing the legacy SVG-emblem portrait view. Each of the 11 factions includes:
+
+- A cinematic PNG hero banner
+- Extended profile JSON (overview, history, significance, events, affiliations, timeline)
+- Meta line showing years active, capital, and government type
+- SVG emblem assets in the gallery (via `generate_faction_logos.py`)
+
 ### Cinematic hero banners
 
-Detail pages and most directory index pages use **1536×1024 (16:9) cinematic PNG matte paintings** as hero banners instead of small portrait thumbnails. Banners are named by slug:
+Detail pages and directory index pages use **1536×1024 (16:9) cinematic PNG matte paintings** as hero banners instead of small portrait thumbnails.
 
-| Directory | Hero asset path |
-|-----------|-----------------|
-| Characters | `/images/characters/{slug}-scene.png` |
-| Factions | `/images/factions/{slug}-scene.png` |
-| Timelines | `/images/timelines/{slug}-scene.png` |
-| Jedi, Sith, Ships, Species, Bounty Hunters, Settlements, Force Powers, Droids | `/images/{category}/{slug}-scene.png` |
-| Planets | `/images/planets/{slug}-hero.png` (banner only) |
+| Directory | Entry hero | Index hero |
+|-----------|------------|------------|
+| Characters | `/images/characters/{slug}-scene.png` | `/images/characters/characters-directory-hero.png` |
+| Factions | `/images/factions/{slug}-scene.png` | `/images/factions/factions-directory-hero.png` |
+| Timelines | `/images/timelines/{slug}-scene.png` | `/images/timelines/timelines-directory-hero.png` |
+| Jedi | `/images/jedi/{slug}-scene.png` | `/images/jedi/jedi-directory-hero.png` |
+| Sith | `/images/sith/{slug}-scene.png` | `/images/sith/sith-directory-hero.png` |
+| Planets | `/images/planets/{slug}-hero.png` | `/images/planets/planets-directory-hero.png` |
+| Ships, Species, Bounty Hunters, Settlements, Force Powers, Droids | `/images/{category}/{slug}-scene.png` | `/images/{category}/{category}-directory-hero.png` |
 
-Planet detail pages keep their full-page **space background** (`{slug}-space.png`) behind the content; the hero banner replaces only the small top portrait. Legacy SVG portraits and blueprints remain in `wwwroot/images/` for reference and older gallery entries, but the live UI prefers the cinematic PNG heroes.
+Planet detail pages keep their full-page **space background** (`{slug}-space.png`) behind the content; the hero banner replaces only the small top portrait. Legacy SVG portraits and blueprints remain in `wwwroot/images/` for reference and gallery entries, but the live UI prefers the cinematic PNG heroes.
 
 ### Galaxy Map
 
@@ -47,7 +70,7 @@ The map is built on an 8000 × 5000 coordinate system with:
 
 ### Navigation
 
-The sidebar uses collapsible flyout menus for each directory, with colour-coded dots matching entry accent colours. On mobile, flyouts expand on tap and the menu closes after navigation.
+The sidebar uses collapsible flyout menus for each directory, with colour-coded dots matching entry accent colours. **Timelines** sits directly below Galaxy Map; **Factions** includes an **All Factions** index link with a grid-style icon matching other directories. On mobile, flyouts expand on tap and the menu closes after navigation.
 
 ## Tech stack
 
@@ -99,15 +122,15 @@ Published output is written to `bin/Release/net9.0/publish/wwwroot/` and can be 
 
 ```
 Star-Wars/
-├── Components/          # Shared UI shells (detail pages, planet layout, hero banners)
-├── Data/                # Static catalogues (characters, planets, ships, …)
+├── Components/          # Shared UI shells, planet layout, GalacticTimelineChart
+├── Data/                # Static catalogues (TimelineData, FactionData, CharacterData, …)
 ├── Layout/              # MainLayout and NavMenu
 ├── Models/              # C# record types for entries and profiles
-├── Pages/               # Routable Blazor pages
+├── Pages/               # Routable Blazor pages (FullTimeline, AllFactions, …)
 ├── scripts/             # Python generators, hero installers, coverage checks
 ├── Services/            # DirectoryProfileService (JSON profile loader)
 ├── wwwroot/
-│   ├── css/             # Global styles
+│   ├── css/             # Global styles (including timeline chart)
 │   ├── data/profiles/   # Extended JSON content per entry
 │   └── images/          # Cinematic PNG heroes, planet space art, legacy SVG assets
 ├── App.razor            # Router and 404 handling
@@ -121,7 +144,7 @@ Star-Wars/
 |-------|------|-------|
 | `/` | Home | Landing page |
 | `/galaxy-map` | Galaxy Map | Interactive world map |
-| `/timelines` | Full Timeline | Interactive galactic time chart |
+| `/timelines` | Full Timeline | Multi-row galactic time chart |
 | `/timelines/{slug}` | Timeline era detail | e.g. `/timelines/clone-wars` |
 | `/all-factions` | Faction index | |
 | `/factions/{slug}` | Faction detail | e.g. `/factions/empire` |
@@ -154,7 +177,7 @@ Some iconic worlds also have short alias routes (e.g. `/tatooine`, `/coruscant`,
 
 Content is split into two layers:
 
-1. **Catalogue data** (`Data/*.cs`) — name, slug, route, summary description, accent colour, and type-specific fields (rank, class, region, map coordinates, etc.). This is compiled into the app and drives navigation and index pages.
+1. **Catalogue data** (`Data/*.cs`) — name, slug, route, summary description, accent colour, and type-specific fields (rank, class, region, map coordinates, era dates, etc.). This is compiled into the app and drives navigation and index pages.
 
 2. **Profile JSON** (`wwwroot/data/profiles/{category}/{slug}.json`) — extended content loaded at runtime by `DirectoryProfileService`. Each profile can include:
 
@@ -176,8 +199,8 @@ Content is split into two layers:
 
 | Category | Profiles |
 |----------|----------:|
-| Factions | 11 |
 | Timelines | 8 |
+| Factions | 11 |
 | Characters | 102 |
 | Jedi | 42 |
 | Sith | 34 |
@@ -189,6 +212,8 @@ Content is split into two layers:
 | Settlements | 115 |
 | Force Powers | 74 |
 
+**876** extended profiles across all categories.
+
 ## Content scripts
 
 The `scripts/` folder contains Python utilities for maintaining catalogues, profiles, and hero images. Common workflows:
@@ -199,18 +224,20 @@ The `scripts/` folder contains Python utilities for maintaining catalogues, prof
 | Regenerate character catalogue + profiles | `generate_character_catalog.py` |
 | Regenerate directory profile JSON | `generate_directory_profiles.py` |
 | Regenerate faction profiles | `generate_faction_profiles.py` |
-| Install faction hero banners | `install_faction_heroes.py` |
-| Verify faction hero PNG coverage | `verify_faction_hero_coverage.py` |
 | Regenerate timeline profiles | `generate_timeline_profiles.py` |
+| Generate faction SVG emblems | `generate_faction_logos.py` |
+| Install faction hero banners | `install_faction_heroes.py` |
 | Install timeline hero banners | `install_timeline_heroes.py` |
-| Verify timeline hero PNG coverage | `verify_timeline_hero_coverage.py` |
 | Install directory hero PNGs into `wwwroot` | `install_directory_heroes.py` |
 | Install planet hero banners | `install_planet_heroes.py` |
 | Install character hero banners | `install_character_heroes.py` |
 | Install droid hero banners | `install_droid_heroes.py` |
-| Verify hero PNG coverage | `verify_hero_coverage.py`, `verify_planet_hero_coverage.py`, `verify_character_hero_coverage.py` |
+| Verify hero PNG coverage | `verify_hero_coverage.py`, `verify_planet_hero_coverage.py`, `verify_character_hero_coverage.py`, `verify_faction_hero_coverage.py`, `verify_timeline_hero_coverage.py` |
 | List missing heroes | `missing_heroes.py`, `missing_planet_heroes.py`, `missing_character_heroes.py` |
 | Copy generated PNGs to wwwroot | `copy_hero_png.py` |
+| Hero prompt generation | `character_hero_prompts.py`, `faction_hero_prompts.py`, `planet_hero_prompts.py`, `directory_hero_prompts.py` |
+
+Hand-authored enrichments live in `*_profile_enrichments.py` and `*_catalog_additions.py` modules (characters, factions, timelines, etc.).
 
 Run coverage checks from the repo root:
 
@@ -233,7 +260,11 @@ To add a new entry manually (e.g. a character):
 3. Add a cinematic hero PNG under `wwwroot/images/{category}/{slug}-scene.png` (or `{slug}-hero.png` for planets).
 4. The sidebar and index pages update automatically from the catalogue data — no route registration is needed beyond the existing `{Slug}` page templates.
 
-For bulk additions, prefer the generator scripts — for example, `generate_character_catalog.py` merges hand-authored enrichments from `character_profile_enrichments.py` and `character_catalog_additions.py` into `CharacterData.cs` and the matching profile JSON files.
+For bulk additions, prefer the generator scripts:
+
+- **Characters** — `generate_character_catalog.py` merges enrichments from `character_profile_enrichments.py` and `character_catalog_additions.py`
+- **Factions** — add to `FactionData.cs`, enrich via `faction_profile_enrichments.py`, then run `generate_faction_profiles.py`
+- **Timelines** — add to `TimelineData.cs` (including `ChartStart` / `ChartEnd` for the time chart), enrich via `timeline_profile_enrichments.py`, then run `generate_timeline_profiles.py`
 
 For planets, also set `X` and `Y` coordinates in `GalaxyData.cs` so the world appears on the galaxy map (see `GalaxyMapSettings.cs` for the coordinate bounds). Generate or copy `{slug}-space.png` for the full-page background and `{slug}-hero.png` for the detail banner.
 
