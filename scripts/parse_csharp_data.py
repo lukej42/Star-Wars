@@ -59,6 +59,10 @@ def load_characters() -> list[dict[str, str]]:
     return [normalize(e) for e in load_category("CharacterData.cs")]
 
 
+def load_factions() -> list[dict[str, str]]:
+    return [normalize(e) for e in load_category("FactionData.cs")]
+
+
 if __name__ == "__main__":
     entries = all_directory_entries()
     for cat, items in entries.items():

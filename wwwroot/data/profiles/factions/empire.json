@@ -1,0 +1,59 @@
+{
+  "overview": "The Galactic Empire replaced the Republic with rule through fear, replacing the Senate's debate with Moffs, ISB surveillance, and fleet deployments. Emperor Palpatine ruled from the Imperial Center while the Death Star symbolized the doctrine that rebellion would mean planetary annihilation. For two decades the Empire appeared unassailable — until a growing Alliance proved that tyranny could be broken.",
+  "history": "Born in the smoke of the Jedi Purge, the Empire rapidly militarized society. The clone army gave way to recruited stormtroopers; the Jedi were declared enemies of civilization; and regional governors gained sweeping authority over their sectors.\n\nProjects like the Death Star consumed resources on an unimaginable scale. Dissent was crushed on worlds like Lothal and Alderaan — the latter's destruction demonstrating that even peaceful opposition offered no safety.\n\nThe Rebel Alliance grew in the shadows, winning moral victories at Scarif and a decisive strike at Yavin. Even after the second Death Star fell at Endor and Palpatine died, Imperial remnants fought on for years until the Battle of Jakku formally ended the Imperial Era in the New Republic's victory.",
+  "significance": "The Empire is the saga's central tyranny — the force every generation of heroes must confront in some form, from Palpatine's open rule to the First Order's revival.\n\nIts machinery of oppression — Inquisitors, COMPNOR, Imperial Security Bureau — influenced every successor movement that tried to restore 'order' without freedom.",
+  "notableEvents": [
+    "Proclamation of the New Order in the Senate",
+    "Great Jedi Purge and hunting of survivors",
+    "Construction of the first Death Star",
+    "Dissolution of the Imperial Senate ( 0 BBY )",
+    "Destruction of Alderaan as a terror demonstration",
+    "Battle of Yavin — first major Rebel victory",
+    "Battle of Endor — Emperor and second Death Star destroyed",
+    "Battle of Jakku — Imperial capitulation to the New Republic"
+  ],
+  "affiliations": [
+    "Imperial Ruling Council",
+    "Imperial Navy and Stormtrooper Corps",
+    "Imperial Security Bureau ( ISB )",
+    "Inquisitorius",
+    "COMPNOR and propaganda ministries",
+    "Regional Moffs and sector commands"
+  ],
+  "timeline": [
+    {
+      "era": "19 BBY",
+      "event": "Empire proclaimed; Jedi declared traitors"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Death Star program and Rim pacification campaigns"
+    },
+    {
+      "era": "0 BBY",
+      "event": "Senate dissolved; Death Star operational"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Rebellion escalates from cells to open war"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Emperor killed at Endor; Empire fragments"
+    },
+    {
+      "era": "5 ABY",
+      "event": "Final defeat at Jakku"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/empire-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/empire.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

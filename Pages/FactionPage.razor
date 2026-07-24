@@ -1,7 +1,9 @@
 @page "/factions/{Slug}"
 @using StarWars.Data
 @using StarWars.Models
+@using StarWars.Services
 @using StarWars.Components
+@inject DirectoryProfileService ProfileService
 
 <PageTitle>@(faction?.Name ?? "Faction")</PageTitle>
 
@@ -10,16 +12,27 @@
     <h1>Faction not found</h1>
     <p>Sorry, there are no records for this faction.</p>
 }
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading faction records…</p>
+}
 else
 {
-    <FactionPageShell Name="@faction.Name"
-                      ImagePath="@faction.ImagePath"
-                      Subtitle="@faction.Era"
-                      YearsActive="@faction.YearsActive"
-                      Capital="@faction.Capital"
-                      Government="@faction.Government"
-                      Description="@faction.Description"
-                      AccentColor="@faction.Color" />
+    <DirectoryDetailShell Name="@faction.Name"
+                          HeroImagePath="@faction.SceneImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {faction.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@faction.Era"
+                          MetaLine="@BuildMetaLine(faction)"
+                          OverviewText="@(profile?.Overview ?? faction.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Legacy and impact"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@faction.Color" />
 }
 
 @code {
@@ -27,9 +40,23 @@ else
     public string Slug { get; set; } = string.Empty;
 
     private Faction? faction;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
 
-    protected override void OnParametersSet()
+    protected override async Task OnParametersSetAsync()
     {
         faction = FactionData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (faction is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("factions", faction.Slug);
+        }
+
+        profileLoaded = true;
     }
+
+    private static string BuildMetaLine(Faction faction) =>
+        $"Active: {faction.YearsActive} · Capital: {faction.Capital} · {faction.Government}";
 }

@@ -1,0 +1,24 @@
+@page "/all-factions"
+@using StarWars.Data
+
+<PageTitle>All Factions</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/factions/factions-directory-hero.png" alt="Panoramic view of galactic political powers — senate spires, fleets, and banners across the stars" loading="lazy" />
+</figure>
+
+<h1>All Factions</h1>
+<p class="all-planets-intro">Major galactic powers, alliances, and syndicates from the Old Republic through the First Order era.</p>
+
+<div class="planet-directory-grid">
+    @foreach (var faction in FactionData.Factions.OrderBy(faction => faction.Name))
+    {
+        <article class="planet-directory-card">
+            <span class="planet-directory-swatch" style="background-color: @faction.Color" aria-hidden="true"></span>
+            <div class="planet-directory-details">
+                <a href="@faction.Route">@faction.Name</a>
+                <p class="planet-region">@faction.Era</p>
+            </div>
+        </article>
+    }
+</div>

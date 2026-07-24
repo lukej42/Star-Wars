@@ -1,0 +1,53 @@
+{
+  "overview": "Long before Palpatine's Galactic Empire, ancient Sith built dark-side theocracies on Korriban, Dromund Kaas, and Ziost — empires forged in exile, betrayal, and war against the Jedi. From Naga Sadow's invasions to Vitiate's immortal reign, these Sith states reshaped the galaxy and left tombs, fleets, and doctrines that would echo for millennia.",
+  "history": "Exiled Dark Jedi merged with the Sith species on Korriban, creating a culture obsessed with power, lineage, and the dark side. Sith Empires rose and fell in cycles of internal betrayal — the Rule of Two later emerged precisely because larger Sith orders destroyed themselves.\n\nGreat Hyperspace War, Mandalorian Wars, and Jedi Civil War eras saw Sith armadas threaten the Republic itself. Tenebrae, who became the Sith Emperor Vitiate, consumed worlds and ruled from Dromund Kaas with near-immortal malice.\n\nThough the ancient Sith Empire eventually fractured, its legacy survived in holocrons, buried superweapons, and the secret ambition of Darths Bane, Sidious, and their successors — proof that Sith victory could be patient as well as violent.",
+  "significance": "The Sith Empire is the deep history behind every 'Imperial' title in the saga. It explains Korriban's sacred status, why the Jedi feared attachment to power, and how dark-side governments differ from mere dictatorships — they sanctify cruelty as theology.\n\nKnights of the Old Republic and The Old Republic MMO eras draw heavily on this legacy.",
+  "notableEvents": [
+    "Exiled Dark Jedi found the Sith on Korriban",
+    "Great Hyperspace War against the Republic",
+    "Exar Kun's Sith rebellion",
+    "Revan and Malak's Sith Empire",
+    "Vitiate's Eternal Empire from Dromund Kaas",
+    "Repeated Jedi–Sith galactic wars",
+    "Collapse and retreat into hidden traditions ( Rule of Two )"
+  ],
+  "affiliations": [
+    "Sith Emperor and Dark Council",
+    "Sith military and Imperial Guard",
+    "Sith acolytes and Inquisitors ( ancient orders )",
+    "Korriban Sith Academy",
+    "Dromund Kaas power structure"
+  ],
+  "timeline": [
+    {
+      "era": "~6,900 BBY",
+      "event": "Sith Empire forms on Korriban"
+    },
+    {
+      "era": "Great Hyperspace War",
+      "event": "Sith invasion of Republic space"
+    },
+    {
+      "era": "Old Sith Wars",
+      "event": "Revan, Malak, and Exar Kun eras"
+    },
+    {
+      "era": "Vitiate's reign",
+      "event": "Immortal Emperor rules from Dromund Kaas"
+    },
+    {
+      "era": "Post–3,641 BBY",
+      "event": "Empire fractures; Rule of Two begins"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/sith-empire-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/sith-empire.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

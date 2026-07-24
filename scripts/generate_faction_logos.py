@@ -128,6 +128,46 @@ def logo_for(slug: str) -> str:
   <path class="fill-dark" d="M256 170 L276 250 L360 250 L292 300 L318 380 L256 335 L194 380 L220 300 L152 250 L236 250 Z"/>
   <circle class="fill-secondary" cx="256" cy="256" r="22"/>
 """,
+        "first-order": """
+  <circle class="fill-secondary" cx="256" cy="256" r="148"/>
+  <circle class="ring" cx="256" cy="256" r="148"/>
+  <circle class="fill-dark" cx="256" cy="256" r="108"/>
+  <g transform="translate(256 256)">
+    <line class="accent-stroke" x1="0" y1="-88" x2="0" y2="88"/>
+    <line class="accent-stroke" x1="-88" y1="0" x2="88" y2="0"/>
+    <line class="accent-stroke" x1="-62" y1="-62" x2="62" y2="62"/>
+    <line class="accent-stroke" x1="62" y1="-62" x2="-62" y2="62"/>
+    <circle class="fill-primary" cx="0" cy="0" r="34"/>
+    <circle class="fill-dark" cx="0" cy="0" r="16"/>
+  </g>
+""",
+        "resistance": """
+  <circle class="fill-secondary" cx="256" cy="256" r="148"/>
+  <circle class="ring" cx="256" cy="256" r="148"/>
+  <path class="fill-primary" d="M256 118 L292 198 L372 212 L308 272 L324 362 L256 322 L188 362 L204 272 L140 212 L220 198 Z"/>
+  <path class="fill-dark" d="M256 158 L270 210 L322 218 L284 252 L294 302 L256 278 L218 302 L228 252 L190 218 L242 210 Z"/>
+""",
+        "mandalorians": """
+  <circle class="fill-secondary" cx="256" cy="256" r="148"/>
+  <circle class="ring" cx="256" cy="256" r="148"/>
+  <path class="fill-primary" d="M176 320 Q176 180 256 150 Q336 180 336 320 L320 360 H192 Z"/>
+  <rect class="fill-metal" x="220" y="210" width="72" height="18" rx="4"/>
+  <path class="fill-dark" d="M220 228 H292 V260 H220 Z"/>
+  <path class="fill-secondary" d="M256 150 L236 190 H276 Z"/>
+  <circle class="fill-dark" cx="236" cy="268" r="10"/>
+  <circle class="fill-dark" cx="276" cy="268" r="10"/>
+""",
+        "trade-federation": """
+  <circle class="fill-secondary" cx="256" cy="256" r="148"/>
+  <circle class="ring" cx="256" cy="256" r="148"/>
+  <circle class="fill-primary" cx="256" cy="256" r="88"/>
+  <circle class="fill-secondary" cx="256" cy="256" r="52"/>
+  <circle class="fill-primary" cx="256" cy="256" r="24"/>
+  <rect class="fill-metal" x="248" y="120" width="16" height="40" rx="4"/>
+  <rect class="fill-metal" x="248" y="352" width="16" height="40" rx="4"/>
+  <rect class="fill-metal" x="120" y="248" width="40" height="16" rx="4"/>
+  <rect class="fill-metal" x="352" y="248" width="40" height="16" rx="4"/>
+""",
     }
     return logos.get(slug, logos["republic"])
 

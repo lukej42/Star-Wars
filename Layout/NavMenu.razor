@@ -34,6 +34,10 @@
                 </button>
                 <div class="nav-flyout-menu @(mobileFactionsOpen ? "is-open" : null)">
                     <div class="nav-flyout-panel">
+                        <NavLink class="nav-link nav-flyout-link nav-faction-link nav-all-factions-link" href="all-factions" @onclick="CloseMobileNav">
+                            <span class="bi bi-all-factions-nav-menu" aria-hidden="true"></span>
+                            All Factions
+                        </NavLink>
                         @foreach (var faction in FactionData.Factions)
                         {
                             <NavLink class="nav-link nav-flyout-link nav-faction-link" href="@faction.Route" @onclick="CloseMobileNav">
@@ -373,7 +377,8 @@
     private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
     private bool IsFactionRoute =>
-        Navigation.Uri.Contains("/factions/", StringComparison.OrdinalIgnoreCase);
+        Navigation.Uri.Contains("/factions/", StringComparison.OrdinalIgnoreCase) ||
+        Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Equals("all-factions", StringComparison.OrdinalIgnoreCase);
 
     private bool IsCharacterDirectoryRoute
     {

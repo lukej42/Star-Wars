@@ -1,0 +1,57 @@
+{
+  "overview": "The Galactic Republic was the dominant political union of the galaxy for more than a thousand generations, binding thousands of star systems through a federal Senate on Coruscant. It promised representation, trade, and peace — yet its final century was defined by institutional rot, corporate influence, and a slow surrender of emergency powers that would ultimately destroy it from within.",
+  "history": "Founded after the defeat of the Sith at Ruusan, the Republic entered a long era of relative stability. Core Worlds prospered while the Rim often went underserved; senators traded favors, and megacorporations gained seats at the table through lobbying and proxy votes.\n\nThe Trade Federation's blockade of Naboo exposed how fragile Republic authority had become. Chancellor Valorum's fall and Palpatine's rise marked a turning point: crises would now be answered with stronger executive power rather than structural reform.\n\nThe Separatist Crisis and Clone Wars consumed the galaxy. Jedi served as generals, Kaminoan clones filled the ranks, and entire sectors burned while the Senate debated. When Order 66 executed and the Jedi Temple fell, Palpatine declared the Republic reorganized into the First Galactic Empire — the democracy died not in rebellion but in applause on the Senate floor.",
+  "significance": "The Republic is the galaxy's great 'before' state: the benchmark rebels invoke when they speak of restoration, and the system Palpatine exploited to seize total control.\n\nIts story explains why the Jedi Order was politically vulnerable, why the Outer Rim mistrusted Coruscant, and why later governments struggled to balance security with liberty.",
+  "notableEvents": [
+    "Ruusan Reformations establish the modern Republic (~1,000 BBY)",
+    "Trade Federation blockades Naboo; Palpatine elected Supreme Chancellor",
+    "Separatist movement forms under Count Dooku",
+    "Clone Wars erupt across the galaxy",
+    "Emergency powers centralize authority in the Chancellor's office",
+    "Order 66 and the Great Jedi Purge",
+    "Declaration of the Galactic Empire from the Senate chamber"
+  ],
+  "affiliations": [
+    "Galactic Senate",
+    "Jedi Order ( guardians, not rulers )",
+    "Republic Navy and Grand Army of the Republic",
+    "Core and Mid Rim member worlds",
+    "Outer Rim territories ( often underrepresented )"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Republic consolidates after Sith defeat at Ruusan"
+    },
+    {
+      "era": "Late Republic",
+      "event": "Corporate influence and Rim neglect deepen"
+    },
+    {
+      "era": "Invasion of Naboo",
+      "event": "Palpatine rises to the chancellorship"
+    },
+    {
+      "era": "Separatist Crisis",
+      "event": "Systems secede; military buildup begins"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Full-scale galactic war under emergency powers"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Republic reorganized into the Galactic Empire"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/republic-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/republic.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

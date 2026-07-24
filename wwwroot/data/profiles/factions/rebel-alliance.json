@@ -1,0 +1,54 @@
+{
+  "overview": "The Alliance to Restore the Republic united scattered rebel cells, dissident senators, and Rim freedom fighters into a coordinated resistance against the Galactic Empire. Outgunned and hunted, it survived through secrecy, sacrifice, and the conviction that a single starfighter could change the course of history.",
+  "history": "Early resistance took the form of isolated cells — Saw Gerrera's partisans, Bail Organa's network, and Hera Syndulla's Spectres among them. Mon Mothma's Declaration of Rebellion on Chandrila gave the movement a public face and a shared cause.\n\nThe Alliance operated from hidden bases: Dantooine, Yavin 4, Hoth, and others. Intelligence from spies like Cassian Andor and leaders like Leia Organa kept the fight coordinated while Admiral Ackbar and General Dodonna planned fleet actions.\n\nVictories at Scarif, Yavin, and Endor proved the Empire could bleed. The Alliance's success was never guaranteed — it lost bases, leaders, and entire squadrons — but its persistence culminated in the New Republic's founding and the Empire's defeat.",
+  "significance": "The Rebellion is the template for every subsequent resistance: moral clarity against overwhelming force, coalition politics under pressure, and the idea that ordinary people — pilots, mechanics, senators — can topple empires.\n\nIts symbols, from the starbird to the orange flight suits, remain icons of defiance across the galaxy decades later.",
+  "notableEvents": [
+    "Mon Mothma's Declaration of Rebellion",
+    "Battle of Scarif — Death Star plans stolen",
+    "Battle of Yavin — first Death Star destroyed",
+    "Evacuation of Hoth and pursuit through the asteroid field",
+    "Operation Yellow Moon and other intelligence campaigns",
+    "Battle of Endor — second Death Star and Emperor destroyed",
+    "Transition into the New Republic government"
+  ],
+  "affiliations": [
+    "Alliance High Command",
+    "Rebel Alliance Starfighter Corps",
+    "Rebel Alliance Intelligence Service",
+    "Massassi Group and other sector commands",
+    "Allied governments ( Alderaan, Chandrila, etc. )",
+    "Smugglers and Rim contacts ( unofficial )"
+  ],
+  "timeline": [
+    {
+      "era": "Early Rebellion",
+      "event": "Cells operate independently against Imperial targets"
+    },
+    {
+      "era": "2 BBY",
+      "event": "Formal Alliance established under Mon Mothma"
+    },
+    {
+      "era": "0 BBY",
+      "event": "Death Star plans secured; Yavin victory"
+    },
+    {
+      "era": "3 ABY",
+      "event": "Hoth base lost; fleet scattered and regrouped"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Decisive victory at Endor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/rebel-alliance-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/rebel-alliance.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

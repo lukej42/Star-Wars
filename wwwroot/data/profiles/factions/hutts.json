@@ -1,0 +1,52 @@
+{
+  "overview": "The Hutt Cartel is not a conventional government but a network of kajidic clans whose wealth, violence, and patience have outlasted republics and empires alike. From Nal Hutta and Nar Shaddaa to desert palaces on Tatooine, Hutts control smuggling lanes, slavery, gambling, and bounty markets — trading stability with whoever holds power for a share of the shadow economy.",
+  "history": "Hutt dominance predates the modern Republic by millennia. Their homeworld Nal Hutta ( Glorious Jewel ) and its moon Nar Shaddaa became criminal capitals where law is negotiated in contracts and broken backs.\n\nDuring the Republic and Imperial eras, Hutts often played both sides: selling weapons, hosting fugitives, and enforcing debts through bounty hunters like Boba Fett. Jabba Desilijic Tiure's court on Tatooine exemplified Hutt power — a sovereign crime lord whose reach extended into the Core.\n\nEven when galactic governments claimed to oppose slavery and piracy, practical politics kept the Cartel entrenched in the Outer Rim. Successor powers from the New Republic to criminal syndicates like the Pykes continued to intersect with Hutt interests.",
+  "significance": "The Cartel shows how power persists outside formal states. Hutts influence wars without flying battle fleets, and their longevity explains why the Rim often views Coruscant and Imperial Center as interchangeable occupiers.\n\nHutt culture — kajidic hierarchy, the life debt, gaudy palaces — remains a fixture of underworld storytelling across eras.",
+  "notableEvents": [
+    "Hutt Space established as semi-autonomous territory",
+    "Nar Shaddaa becomes a smuggler's moon",
+    "Republic and Empire tolerate Hutt neutrality in much of the Rim",
+    "Jabba's court dominates Tatooine underworld",
+    "Bounty hunter guilds operate under Hutt contracts",
+    "Post-Imperial syndicate wars reshape Cartel influence"
+  ],
+  "affiliations": [
+    "Kajidic clans ( Desilijic, Besadii, etc. )",
+    "Hutt Grand Council",
+    "Bounty Hunters' Guild ( patronage )",
+    "Smuggler networks and spice runners",
+    "Nar Shaddaa criminal districts"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Hutt expansion across the Outer Rim"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Hutt Space recognized as distinct sphere"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Uneasy coexistence with the Empire"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Hutts profit from both sides"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Syndicate conflicts reshape Cartel power"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/hutts-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/hutts.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

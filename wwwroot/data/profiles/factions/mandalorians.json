@@ -1,0 +1,54 @@
+{
+  "overview": "The Mandalorians are a warrior culture defined by beskar armor, clan loyalty, and a complicated history with both Jedi and Sith. From the ancient Mandalorian Crusades to the pacifist New Mandalorian era, the Darksaber, and Bo-Katan's struggle to reclaim Mandalore, they have repeatedly reshaped galactic wars — sometimes as conquerors, sometimes as protectors, always as legends.",
+  "history": "Mandalore's people forged an empire of conquest long before the Republic reached the Outer Rim. Their war with the Jedi scarred both cultures — Mandalorian iron against Force wielders — until internal division and outside intervention repeatedly fractured their homeworld.\n\nDuchess Satine Kryze's pacifist government clashed with Death Watch and Maul's Shadow Collective during the Clone Wars. The Empire later occupied Mandalore and the Great Purge of the Night of a Thousand Tears scattered survivors across the galaxy — including hidden enclaves like the Tribe on Nevarro.\n\nDin Djarin and Bo-Katan Kryze reignited the quest to retake Mandalore, confronting Imperial Remnants, the Darksaber's claim, and what it means to rule a people defined by the Creed. Mandalorian identity endures in covert foundlings and open warfare alike.",
+  "significance": "Mandalorians bridge military history and cultural identity in Star Wars — neither a conventional state nor a simple mercenary guild.\n\nBeskar, the Darksaber, and the Creed influence bounty hunting, fleet tactics, and even Imperial anti-Jedi planning. Their story is essential to understanding Mandalore's place in galactic politics.",
+  "notableEvents": [
+    "Mandalorian-Jedi war in ancient eras",
+    "Mandalore crusades across the galaxy",
+    "Death Watch challenges pacifist Mandalore",
+    "Maul briefly rules Mandalore via Shadow Collective",
+    "Imperial occupation and the Great Purge",
+    "Din Djarin and Grogu's journeys with the Tribe",
+    "Reclamation of Mandalore from Imperial Remnants"
+  ],
+  "affiliations": [
+    "Mandalorian clans and Great Forge",
+    "Death Watch ( historical )",
+    "House Kryze and House Vizsla",
+    "Children of the Watch",
+    "Mandalorian Protectors ( historical )",
+    "Bounty Hunters' Guild ( individual members )"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Mandalorian crusades against Jedi and Rim worlds"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Civil war between New Mandalorians and Death Watch"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and Great Purge scatter clans"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Covert tribes preserve the Creed in hiding"
+    },
+    {
+      "era": "9 ABY onward",
+      "event": "Quest to retake and rebuild Mandalore"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/mandalorians-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/mandalorians.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

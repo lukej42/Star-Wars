@@ -1,0 +1,55 @@
+{
+  "overview": "The Confederacy of Independent Systems — the Separatist Alliance — presented itself as a coalition of sovereign worlds rejecting Coruscant's taxation, corruption, and neglect. Led publicly by Count Dooku and backed by the Trade Federation, Banking Clan, and Techno Union, the Confederacy fielded vast droid armies. In truth, Darth Sidious engineered the movement to weaken the Republic and manufacture the war that would end democracy.",
+  "history": "Decades of grievance over trade routes, Senate gridlock, and Rim exploitation created fertile ground for secession. Dooku, a former Jedi, offered aristocratic credibility to the movement while secret Sith funds armed foundries on Geonosis and beyond.\n\nThe Battle of Geonosis opened the Clone Wars. Separatist fleets, led by figures like General Grievous, struck across the Mid and Outer Rims. Corporate interests profited from both sides while civilian populations suffered occupation and bombardment.\n\nAs the war dragged on, internal rivalries among Separatist councils and corporate sponsors weakened coordination. When Anakin Skywalker killed Dooku and later Sidious ordered the shutdown of droid armies, the Confederacy collapsed overnight — a puppet alliance discarded once its purpose was served.",
+  "significance": "The Confederacy embodies the tragedy of legitimate grievances weaponized by hidden authoritarians. Its droid legions forever changed galactic warfare, and its collapse left Rim worlds distrustful of both Coruscant and corporate sponsors.\n\nImperial propaganda later recast all Separatists as traitors, erasing the complex political causes that had driven many systems to leave.",
+  "notableEvents": [
+    "Raxus Secundus hosts Separatist parliament",
+    "Geonosis droid foundries mass-produce battle units",
+    "Corporate backers sign the treaty of alliance",
+    "General Grievous leads strikes across the galaxy",
+    "Sieges of contested Rim worlds and hyperspace lanes",
+    "Mustafar summit and execution of Separatist leadership",
+    "Remote shutdown ends Separatist droid armies ( 19 BBY )"
+  ],
+  "affiliations": [
+    "Executive Separatist Council",
+    "Trade Federation",
+    "InterGalactic Banking Clan",
+    "Techno Union",
+    "Commerce Guild",
+    "Retail Caucus and other corporate blocs",
+    "Confederacy military ( droid army )"
+  ],
+  "timeline": [
+    {
+      "era": "24 BBY",
+      "event": "Confederacy formally organized; Raxus becomes capital"
+    },
+    {
+      "era": "22 BBY",
+      "event": "First battle of Geonosis opens the Clone Wars"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Corporate-backed droid offensives across the Rim"
+    },
+    {
+      "era": "Late Clone Wars",
+      "event": "Grievous campaigns threaten the Core"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Leadership eliminated; droid armies deactivated"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/confederacy-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/confederacy.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

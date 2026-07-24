@@ -1,0 +1,53 @@
+{
+  "overview": "The Resistance was a private militia founded by Leia Organa when the New Republic refused to take the First Order seriously. Officially deniable but secretly supported by sympathetic senators and veterans, it operated from hidden bases like D'Qar and Crait — outnumbered, under-funded, and yet stubborn enough to locate Starkiller Base and keep hope alive after Hosnian Prime burned.",
+  "history": "Leia's warnings about Imperial remnants in the Unknown Regions were politically unpopular. Stripped of formal rank, she rebuilt an network of pilots, spies, and soldiers who answered to conscience rather than Senate appropriations.\n\nPoe Dameron's Black Squadron, Finn's defection from the First Order, and Rey's emergence as a Force-sensitive hero gave the Resistance unexpected leverage. They destroyed Starkiller Base but paid dearly — bases lost, fleets scattered, and Leia left leading a remnant after the Supremacy's assault.\n\nAt Crait, the Resistance narrowly escaped total annihilation. Rebuilding under Leia's guidance, they eventually united with the galaxy's citizens fleet to defeat Palpatine's Sith armada at Exegol — proving the Rebellion's spirit survived in a new generation.",
+  "significance": "The Resistance shows what happens when democracies ignore fascism until it is almost too late — and how veterans and volunteers must fill the gap.\n\nIts orange insignia and cobbled-together fleet echo the Rebel Alliance while highlighting harsher odds: no governing Senate, no safe harbor, no assumption of victory.",
+  "notableEvents": [
+    "Leia Organa forms the Resistance amid Senate denial",
+    "Starkiller Base intelligence mission and destruction",
+    "Evacuation of D'Qar under First Order bombardment",
+    "Mutiny aboard the Raddus during hyperspace pursuit",
+    "Holdo's sacrifice at hyperspace ramming speed",
+    "Siege of Crait — Luke Skywalker's stand buys escape",
+    "Citizens' fleet victory at Exegol"
+  ],
+  "affiliations": [
+    "Resistance High Command ( General Organa )",
+    "Resistance Starfighter Corps",
+    "Resistance ground and naval units",
+    "Sympathetic New Republic senators ( covert )",
+    "Jedi legacy ( Luke, Rey )"
+  ],
+  "timeline": [
+    {
+      "era": "Post-Concordance",
+      "event": "Leia organizes vigilance against First Order"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Open conflict after Hosnian destruction"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Starkiller Base destroyed; fleet hunted"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Crait evacuation preserves core leadership"
+    },
+    {
+      "era": "35 ABY",
+      "event": "Galaxy-wide uprising at Exegol"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/resistance-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/resistance.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

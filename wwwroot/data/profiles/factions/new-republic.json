@@ -1,0 +1,53 @@
+{
+  "overview": "The New Republic restored democratic government after the Empire's fall, dismantling Imperial war machines and reopening the Senate on Chandrila. Mon Mothma envisioned a demilitarized, peaceful galaxy — but warlords, Imperial holdouts, and eventually the First Order ensured that victory at Endor was only the beginning of a long, fragile peace.",
+  "history": "Founded in the wake of Endor, the New Republic moved quickly to claim legitimacy: senators returned, Imperial assets were seized or decommissioned, and the galaxy celebrated liberation. Chandrila served as the first capital before the seat of government eventually moved to Hosnian Prime.\n\nDemilitarization proved controversial. Some systems demanded strong defense against remnants; others feared repeating the Republic's militarization. The Galactic Concordance with surviving Imperial forces bought time but also allowed hidden fleets to regroup in the Unknown Regions.\n\nFor decades the New Republic held, weathering crises like the Imperial resurgence on Jakku and political splits over how harshly to treat former Imperials. Its sudden destruction when Starkiller Base annihilated the Hosnian system ended an era in minutes — leaving a scattered Resistance to face the First Order alone.",
+  "significance": "The New Republic represents the difficulty of building peace after war: institutions without armies, forgiveness without accountability, and the assumption that evil vanquished once stays vanquished.\n\nIts fall demonstrates how centralized democratic bodies remain vulnerable to existential strikes — a lesson the Resistance would learn painfully.",
+  "notableEvents": [
+    "Galactic Senate reconvenes on Chandrila",
+    "Imperial capitulation at Jakku ( 5 ABY )",
+    "Galactic Concordance signed with Imperial remnants",
+    "Capital relocated to Hosnian Prime",
+    "Political debates over demilitarization and former Imperials",
+    "Rise of the First Order in the Unknown Regions",
+    "Destruction of the Hosnian system by Starkiller Base ( 34 ABY )"
+  ],
+  "affiliations": [
+    "Galactic Senate ( New Republic )",
+    "New Republic Defense Force ( later reduced )",
+    "New Republic Intelligence",
+    "Member systems across Core and Rim",
+    "Populist and Centrist political factions"
+  ],
+  "timeline": [
+    {
+      "era": "4 ABY",
+      "event": "Republic proclaimed after Endor"
+    },
+    {
+      "era": "5 ABY",
+      "event": "Jakku campaign ends open Imperial resistance"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Senate governs; military scaled back"
+    },
+    {
+      "era": "Unknown Regions",
+      "event": "First Order builds strength in secret"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Hosnian system destroyed; government decapitated"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/new-republic-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/new-republic.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

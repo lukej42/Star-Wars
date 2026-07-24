@@ -1,0 +1,55 @@
+{
+  "overview": "The First Order rose from Imperial ashes in the Unknown Regions — a militarized junta obsessed with superweapons, human uniformity, and the fantasy of restoring Palpatine's galaxy. Led by Supreme Leader Snoke and later Kylo Ren, it struck from secret bases with Starkiller Base and Resurgent-class dreadnoughts, shattering the New Republic before the Resistance could fully mobilize.",
+  "history": "Imperial remnants fleeing the Battle of Jakku regrouped beyond the galactic frontier with secret funding and advisors who preserved Palpatine's doctrine. The First Order rebuilt stormtrooper legions from kidnapped children, purged weakness from its ranks, and hid its true strength while the New Republic debated disarmament.\n\nSnoke's leadership masked deeper Sith designs. General Hux's military ambition and Kylo Ren's volatile dark-side power competed for influence even as the Order prepared Starkiller Base — a planet-killer drawing energy from a star.\n\nThe Hosnian cataclysm decapitated the New Republic Senate in an instant. Though the Resistance destroyed Starkiller Base and eventually Snoke fell, the First Order's fleets remained vast — culminating in the siege of Crait and the final rise of Palpatine's hidden Sith fleet on Exegol.",
+  "significance": "The First Order proves that fascism adapts: younger uniforms, cultish loyalty, and terrorism against a demilitarized democracy too confident in its victory.\n\nIts stormtrooper program and hyperspace tracking technology represent evolution of Imperial methods — the same fear in a new generation.",
+  "notableEvents": [
+    "Imperial exodus to the Unknown Regions after Jakku",
+    "Supreme Leader Snoke consolidates the First Order",
+    "Starkiller Base constructed and activated",
+    "Destruction of the Hosnian system ( 34 ABY )",
+    "Battle of Starkiller Base — superweapon destroyed",
+    "Snoke assassinated aboard the Supremacy",
+    "Siege of Crait and Resistance evacuation",
+    "Final Order fleet revealed at Exegol"
+  ],
+  "affiliations": [
+    "First Order High Command",
+    "Stormtrooper Corps ( conscripted cadets )",
+    "First Order Navy",
+    "Knights of Ren",
+    "Sith Eternal ( hidden alliance )",
+    "Imperial Remnant ideologues"
+  ],
+  "timeline": [
+    {
+      "era": "Post-Jakku",
+      "event": "Remnants reorganize in the Unknown Regions"
+    },
+    {
+      "era": "Decades of secrecy",
+      "event": "First Order builds fleets and Starkiller Base"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Hosnian system destroyed; open war begins"
+    },
+    {
+      "era": "34–35 ABY",
+      "event": "Conflict with the Resistance escalates"
+    },
+    {
+      "era": "35 ABY",
+      "event": "Exegol fleet defeated; Order collapses"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/first-order-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/first-order.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}

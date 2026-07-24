@@ -89,6 +89,54 @@ public static class FactionData
             Government = "Dark-side theocratic empire ruled by the Sith Emperor",
             Description = "Ancient Sith Lords exiled from the Jedi Order forged empires on Korriban and Dromund Kaas, waging wars that reshaped the galaxy long before the Republic knew their name. From Naga Sadow's invasions to Exar Kun's rebellion and eventually Tenebrae's immortal reign as Vitiate, Sith empires rose on conquest, betrayal, and the dark side. Their legacy endured in hidden tombs, forgotten fleets, and the Rule of Two that would one day destroy the Republic from within.",
             Color = "#dc2626"
+        },
+        new()
+        {
+            Name = "First Order",
+            Slug = "first-order",
+            Route = "factions/first-order",
+            Era = "First Order",
+            YearsActive = "21 ABY – 35 ABY",
+            Capital = "Starkiller Base / mobile command",
+            Government = "Military dictatorship and dark-side theocracy",
+            Description = "Born from Imperial exiles in the Unknown Regions, the First Order rebuilt Palpatine's doctrine in secret — stormtrooper legions raised from childhood, Resurgent-class dreadnoughts, and Starkiller Base. It annihilated the Hosnian system and nearly crushed the Resistance before Palpatine's hidden fleet on Exegol was defeated.",
+            Color = "#b91c1c"
+        },
+        new()
+        {
+            Name = "Resistance",
+            Slug = "resistance",
+            Route = "factions/resistance",
+            Era = "Resistance",
+            YearsActive = "28 ABY – 35 ABY",
+            Capital = "Mobile (D'Qar, Crait, Ajan Kloss, and others)",
+            Government = "Private militia under Leia Organa's command",
+            Description = "When the New Republic ignored warnings about the First Order, Leia Organa formed the Resistance — pilots, spies, and soldiers fighting without Senate backing. Outgunned and hunted from base to base, they destroyed Starkiller Base and rallied the galaxy at Exegol to finish what the Rebellion started.",
+            Color = "#f97316"
+        },
+        new()
+        {
+            Name = "Mandalorians",
+            Slug = "mandalorians",
+            Route = "factions/mandalorians",
+            Era = "Mandalorian culture and clans",
+            YearsActive = "c. 7,000 BBY – present",
+            Capital = "Mandalore (historical; clans scattered after the Purge)",
+            Government = "Warrior clans united by the Creed and the Darksaber",
+            Description = "Forged in beskar and clan loyalty, Mandalorians have been crusaders, mercenaries, and protectors across millennia. From the Mandalorian-Jedi wars to the Great Purge and Din Djarin's quest to reclaim Mandalore, their armor and Creed outlasted empires that tried to erase them.",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Trade Federation",
+            Slug = "trade-federation",
+            Route = "factions/trade-federation",
+            Era = "Trade Federation",
+            YearsActive = "c. 350 BBY – 19 BBY",
+            Capital = "Corporate fleet (Lucrehulk command ships)",
+            Government = "Neimoidian corporate directorate with private droid army",
+            Description = "The Trade Federation turned commerce into conquest — blockading Naboo, fielding battle droids by the millions, and bankrolling the Separatist Alliance. Its Neimoidian viceroys wielded Senate influence and Lucrehulk battleships until Darth Vader eliminated its leadership on Mustafar.",
+            Color = "#7c3aed"
         }
     ];
 

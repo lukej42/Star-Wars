@@ -1,0 +1,52 @@
+{
+  "overview": "The Trade Federation was a megacorporation with its own droid security forces, Neimoidian leadership, and Lucrehulk battleships — a state within the state. Its blockade and invasion of Naboo exposed how corporate power could paralyze the Republic, while its alliance with the Separatists made it one of the Clone Wars' primary arms suppliers.",
+  "history": "Born from legitimate commerce, the Federation amassed lobbying power in the Senate and private armies to protect 'trade interests.' Viceroy Nute Gunray's blockade of Naboo — secretly encouraged by Darth Sidious — was the opening move in Palpatine's decades-long plan.\n\nDespite defeat at Naboo, the Federation persisted, merging into the Separatist alliance and deploying battle droids by the billions. Its battleships and C-9979 landing craft became symbols of corporate warfare: profit-driven invasions dressed as policy disputes.\n\nWhen the Clone Wars ended, Federation leadership joined other Separatist executives on Mustafar — eliminated by Darth Vader as Sidious consolidated power under the Empire, which tolerated corporations only as subordinates.",
+  "significance": "The Trade Federation illustrates how deregulated corporate militaries hollow out democracy — a theme that runs from the prequel trilogy through Andor's corporate occupations.\n\nIts battle droid legions foreshadowed the Separatist war machine and proved that economic power could rival planetary governments in firepower.",
+  "notableEvents": [
+    "Senate grants trade route taxation disputes",
+    "Blockade and invasion of Naboo ( 32 BBY )",
+    "Battle droid armies deployed against Gungan and Naboo forces",
+    "Alliance with Count Dooku and the Separatists",
+    "Geonosis droid foundries supply the Clone Wars",
+    "Executions on Mustafar end Federation leadership ( 19 BBY )"
+  ],
+  "affiliations": [
+    "Neimoidian Trade Federation Directorate",
+    "Trade Defense Force ( droid army )",
+    "Separatist Alliance ( wartime )",
+    "InterGalactic Banking Clan ( financial ties )",
+    "Senate lobbying bloc ( Rim and corporate interests )"
+  ],
+  "timeline": [
+    {
+      "era": "Late Republic",
+      "event": "Federation gains military droid contracts"
+    },
+    {
+      "era": "32 BBY",
+      "event": "Naboo blockade and invasion"
+    },
+    {
+      "era": "Separatist Crisis",
+      "event": "Federation joins Dooku's alliance"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Mass droid production fuels galactic war"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Leadership eliminated; assets absorbed by Empire"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/factions/trade-federation-scene.png",
+      "caption": "Cinematic illustration — faction banner"
+    },
+    {
+      "path": "/images/factions/trade-federation.svg",
+      "caption": "Faction emblem"
+    }
+  ]
+}
