@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/dagobah.svg",
-      "caption": "Globe view of Dagobah"
-    },
-    {
-      "path": "/images/planets/dagobah-scene.svg",
-      "caption": "Surface landscape of Dagobah"
-    },
-    {
-      "path": "/images/planets/dagobah-chart.svg",
-      "caption": "Star chart marker for Dagobah"
+      "path": "/images/planets/dagobah-hero.png",
+      "caption": "Cinematic view of Dagobah"
     }
   ]
 }

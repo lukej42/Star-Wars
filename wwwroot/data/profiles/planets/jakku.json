@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/jakku.svg",
-      "caption": "Globe view of Jakku"
-    },
-    {
-      "path": "/images/planets/jakku-scene.svg",
-      "caption": "Surface landscape of Jakku"
-    },
-    {
-      "path": "/images/planets/jakku-chart.svg",
-      "caption": "Star chart marker for Jakku"
+      "path": "/images/planets/jakku-hero.png",
+      "caption": "Cinematic view of Jakku"
     }
   ]
 }

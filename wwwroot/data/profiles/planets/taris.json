@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/taris.svg",
-      "caption": "Globe view of Taris"
-    },
-    {
-      "path": "/images/planets/taris-scene.svg",
-      "caption": "Surface landscape of Taris"
-    },
-    {
-      "path": "/images/planets/taris-chart.svg",
-      "caption": "Star chart marker for Taris"
+      "path": "/images/planets/taris-hero.png",
+      "caption": "Cinematic view of Taris"
     }
   ]
 }

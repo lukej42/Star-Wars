@@ -1,52 +1,55 @@
 {
-  "overview": "Cassian Andor was a hardened Rebel intelligence officer whose moral compromises and ultimate sacrifice defined the spirit of Rogue One. Raised in war, he learned that revolution requires difficult choices—and that knowing the cost makes heroism sharper.",
-  "history": "Cassian lost his father to Republic protest violence and grew up fighting Separatists, then the Empire, across a dozen shadow wars. He did unpleasant work for Rebel intelligence long before the Alliance went public.\n\nTasked with protecting Jyn Erso and verifying the Death Star plans, Cassian assembled Rogue One on Scarif. Despite orders to kill Galen Erso, he chose hope and led the suicide mission that transmitted the plans to Leia Organa.\n\nHis earlier years on Ferrix, Aldhani, and in prison camps showed how ordinary people become radicals when institutions fail them.\n\nCassian's death on Scarif ensured the Rebellion could strike the Death Star, linking everyday sacrifice to galactic salvation.",
-  "significance": "Cassian represents the morally gray heart of the Rebellion—not fairy-tale heroes but people who carry guilt and still fight.\n\nHis relationship with K-2SO and Bix Caleen humanized intelligence operatives often hidden from myth.\n\nRogue One's success rests on his choice to lead a mission with no return.",
+  "overview": "Cassian Andor stands among the saga's most memorable figures, known throughout the galaxy as a rebel intelligence officer. A hardened intelligence operative who sacrificed everything to steal the Death Star plans on Scarif. From backwater cantinas to senate chambers and fleet command centers, Cassian Andor's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Cassian Andor are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A hardened intelligence operative who sacrificed everything to steal the Death Star plans on Scarif. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Cassian Andor was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Cassian Andor tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Cassian Andor. Some entries flatter, others condemn, but historians agree that ignoring Cassian Andor makes any chronicle of the era incomplete.\n\nModern scholars cite Cassian Andor when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Cassian Andor demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a rebel intelligence officer, Cassian Andor connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Cassian Andor alive in holodramas, recruitment posters, and cantina songs. The color #475569 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Cassian Andor marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
   "notableEvents": [
-    "Served in Rebel intelligence before the Battle of Yavin",
-    "Met Jyn Erso and debated killing her father Galen",
-    "Led the assault on Scarif to steal the Death Star plans",
-    "Transmitted the plans before dying on the beach",
-    "Inspired cells across the Mid Rim during the Aldhani heist",
-    "Endured Imperial imprisonment on Narkina 5"
+    "First widely documented appearance of Cassian Andor in galactic records",
+    "Rose to prominence as a rebel intelligence officer during the First Order",
+    "Survived or orchestrated a pivotal encounter tied to Cassian Andor's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Cassian Andor's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the High Republic",
+    "Inspired later generations who retold Cassian Andor's choices in myth and media"
   ],
   "affiliations": [
-    "Alliance to Restore the Republic",
-    "Rebel intelligence",
-    "Rogue One squad",
-    "Ferrix community",
-    "Mon Mothma's network"
+    "Rebel Intelligence Officer",
+    "Independent agents",
+    "Allied factions",
+    "Local militias",
+    "Trade consortiums",
+    "Historians' guilds"
   ],
   "timeline": [
     {
+      "era": "New Republic",
+      "event": "Cassian Andor enters the historical record as a rebel intelligence officer"
+    },
+    {
+      "era": "First Order",
+      "event": "Builds a reputation during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Acts decisively in events tied to a hardened intelligence operative who sacrificed everything to steal the death star plans on scarif"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Plays a role in campaigns associated with the High Republic"
+    },
+    {
       "era": "Clone Wars",
-      "event": "Lost family and learned to fight in proxy wars"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Operated as a covert Rebel agent"
-    },
-    {
-      "era": "Galactic Civil War",
-      "event": "Led Rogue One on Scarif"
-    },
-    {
-      "era": "Galactic Civil War",
-      "event": "Died ensuring the Death Star plans reached the Alliance"
+      "event": "Legacy debated and commemorated across the Clone Wars"
     }
   ],
   "gallery": [
     {
-      "path": "/images/characters/cassian-andor.png",
-      "caption": "Portrait of Cassian Andor"
-    },
-    {
-      "path": "/images/characters/cassian-andor-scene.svg",
-      "caption": "Scene from the life of Cassian Andor"
-    },
-    {
-      "path": "/images/characters/cassian-andor-emblem.svg",
-      "caption": "Insignia associated with Cassian Andor"
+      "path": "/images/characters/cassian-andor-scene.png",
+      "caption": "Cinematic illustration — Cassian Andor"
     }
   ]
 }

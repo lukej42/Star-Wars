@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/luthen-rael.png",
-      "caption": "Portrait of Luthen Rael"
-    },
-    {
-      "path": "/images/characters/luthen-rael-scene.svg",
-      "caption": "Scene from the life of Luthen Rael"
-    },
-    {
-      "path": "/images/characters/luthen-rael-emblem.svg",
-      "caption": "Insignia associated with Luthen Rael"
+      "path": "/images/characters/luthen-rael-scene.png",
+      "caption": "Cinematic illustration — Luthen Rael"
     }
   ]
 }

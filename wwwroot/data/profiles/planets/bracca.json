@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/bracca.svg",
-      "caption": "Globe view of Bracca"
-    },
-    {
-      "path": "/images/planets/bracca-scene.svg",
-      "caption": "Surface landscape of Bracca"
-    },
-    {
-      "path": "/images/planets/bracca-chart.svg",
-      "caption": "Star chart marker for Bracca"
+      "path": "/images/planets/bracca-hero.png",
+      "caption": "Cinematic view of Bracca"
     }
   ]
 }

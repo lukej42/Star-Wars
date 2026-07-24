@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/daiyu.svg",
-      "caption": "Globe view of Daiyu"
-    },
-    {
-      "path": "/images/planets/daiyu-scene.svg",
-      "caption": "Surface landscape of Daiyu"
-    },
-    {
-      "path": "/images/planets/daiyu-chart.svg",
-      "caption": "Star chart marker for Daiyu"
+      "path": "/images/planets/daiyu-hero.png",
+      "caption": "Cinematic view of Daiyu"
     }
   ]
 }

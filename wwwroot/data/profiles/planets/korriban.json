@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/korriban-space.png",
-      "caption": "Globe view of Korriban"
-    },
-    {
-      "path": "/images/planets/korriban-scene.svg",
-      "caption": "Surface landscape of Korriban"
-    },
-    {
-      "path": "/images/planets/korriban-chart.svg",
-      "caption": "Star chart marker for Korriban"
+      "path": "/images/planets/korriban-hero.png",
+      "caption": "Cinematic view of Korriban"
     }
   ]
 }

@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/naboo-space.png",
-      "caption": "Globe view of Naboo"
-    },
-    {
-      "path": "/images/planets/naboo-scene.svg",
-      "caption": "Surface landscape of Naboo"
-    },
-    {
-      "path": "/images/planets/naboo-chart.svg",
-      "caption": "Star chart marker for Naboo"
+      "path": "/images/planets/naboo-hero.png",
+      "caption": "Cinematic view of Naboo"
     }
   ]
 }

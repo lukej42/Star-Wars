@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/nathema.svg",
-      "caption": "Globe view of Nathema"
-    },
-    {
-      "path": "/images/planets/nathema-scene.svg",
-      "caption": "Surface landscape of Nathema"
-    },
-    {
-      "path": "/images/planets/nathema-chart.svg",
-      "caption": "Star chart marker for Nathema"
+      "path": "/images/planets/nathema-hero.png",
+      "caption": "Cinematic view of Nathema"
     }
   ]
 }

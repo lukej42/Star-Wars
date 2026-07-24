@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/mygeeto.svg",
-      "caption": "Globe view of Mygeeto"
-    },
-    {
-      "path": "/images/planets/mygeeto-scene.svg",
-      "caption": "Surface landscape of Mygeeto"
-    },
-    {
-      "path": "/images/planets/mygeeto-chart.svg",
-      "caption": "Star chart marker for Mygeeto"
+      "path": "/images/planets/mygeeto-hero.png",
+      "caption": "Cinematic view of Mygeeto"
     }
   ]
 }

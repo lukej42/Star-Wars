@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/captain-phasma.png",
-      "caption": "Portrait of Captain Phasma"
-    },
-    {
-      "path": "/images/characters/captain-phasma-scene.svg",
-      "caption": "Scene from the life of Captain Phasma"
-    },
-    {
-      "path": "/images/characters/captain-phasma-emblem.svg",
-      "caption": "Insignia associated with Captain Phasma"
+      "path": "/images/characters/captain-phasma-scene.png",
+      "caption": "Cinematic illustration — Captain Phasma"
     }
   ]
 }

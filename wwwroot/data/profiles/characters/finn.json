@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/finn.png",
-      "caption": "Portrait of Finn"
-    },
-    {
-      "path": "/images/characters/finn-scene.svg",
-      "caption": "Scene from the life of Finn"
-    },
-    {
-      "path": "/images/characters/finn-emblem.svg",
-      "caption": "Insignia associated with Finn"
+      "path": "/images/characters/finn-scene.png",
+      "caption": "Cinematic illustration — Finn"
     }
   ]
 }

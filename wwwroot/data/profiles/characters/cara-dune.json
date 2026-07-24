@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/cara-dune.png",
-      "caption": "Portrait of Cara Dune"
-    },
-    {
-      "path": "/images/characters/cara-dune-scene.svg",
-      "caption": "Scene from the life of Cara Dune"
-    },
-    {
-      "path": "/images/characters/cara-dune-emblem.svg",
-      "caption": "Insignia associated with Cara Dune"
+      "path": "/images/characters/cara-dune-scene.png",
+      "caption": "Cinematic illustration — Cara Dune"
     }
   ]
 }

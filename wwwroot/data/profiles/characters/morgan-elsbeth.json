@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/morgan-elsbeth.png",
-      "caption": "Portrait of Morgan Elsbeth"
-    },
-    {
-      "path": "/images/characters/morgan-elsbeth-scene.svg",
-      "caption": "Scene from the life of Morgan Elsbeth"
-    },
-    {
-      "path": "/images/characters/morgan-elsbeth-emblem.svg",
-      "caption": "Insignia associated with Morgan Elsbeth"
+      "path": "/images/characters/morgan-elsbeth-scene.png",
+      "caption": "Cinematic illustration — Morgan Elsbeth"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/nar-shaddaa.svg",
-      "caption": "Globe view of Nar Shaddaa"
-    },
-    {
-      "path": "/images/planets/nar-shaddaa-scene.svg",
-      "caption": "Surface landscape of Nar Shaddaa"
-    },
-    {
-      "path": "/images/planets/nar-shaddaa-chart.svg",
-      "caption": "Star chart marker for Nar Shaddaa"
+      "path": "/images/planets/nar-shaddaa-hero.png",
+      "caption": "Cinematic view of Nar Shaddaa"
     }
   ]
 }

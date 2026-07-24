@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/telos.svg",
-      "caption": "Globe view of Telos"
-    },
-    {
-      "path": "/images/planets/telos-scene.svg",
-      "caption": "Surface landscape of Telos"
-    },
-    {
-      "path": "/images/planets/telos-chart.svg",
-      "caption": "Star chart marker for Telos"
+      "path": "/images/planets/telos-hero.png",
+      "caption": "Cinematic view of Telos"
     }
   ]
 }

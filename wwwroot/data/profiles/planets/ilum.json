@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/ilum.svg",
-      "caption": "Globe view of Ilum"
-    },
-    {
-      "path": "/images/planets/ilum-scene.svg",
-      "caption": "Surface landscape of Ilum"
-    },
-    {
-      "path": "/images/planets/ilum-chart.svg",
-      "caption": "Star chart marker for Ilum"
+      "path": "/images/planets/ilum-hero.png",
+      "caption": "Cinematic view of Ilum"
     }
   ]
 }

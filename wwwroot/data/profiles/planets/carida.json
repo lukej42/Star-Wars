@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/carida.svg",
-      "caption": "Globe view of Carida"
-    },
-    {
-      "path": "/images/planets/carida-scene.svg",
-      "caption": "Surface landscape of Carida"
-    },
-    {
-      "path": "/images/planets/carida-chart.svg",
-      "caption": "Star chart marker for Carida"
+      "path": "/images/planets/carida-hero.png",
+      "caption": "Cinematic view of Carida"
     }
   ]
 }

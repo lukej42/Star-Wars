@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/kuiil.png",
-      "caption": "Portrait of Kuiil"
-    },
-    {
-      "path": "/images/characters/kuiil-scene.svg",
-      "caption": "Scene from the life of Kuiil"
-    },
-    {
-      "path": "/images/characters/kuiil-emblem.svg",
-      "caption": "Insignia associated with Kuiil"
+      "path": "/images/characters/kuiil-scene.png",
+      "caption": "Cinematic illustration — Kuiil"
     }
   ]
 }

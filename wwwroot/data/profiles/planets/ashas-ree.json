@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/ashas-ree.svg",
-      "caption": "Globe view of Ashas Ree"
-    },
-    {
-      "path": "/images/planets/ashas-ree-scene.svg",
-      "caption": "Surface landscape of Ashas Ree"
-    },
-    {
-      "path": "/images/planets/ashas-ree-chart.svg",
-      "caption": "Star chart marker for Ashas Ree"
+      "path": "/images/planets/ashas-ree-hero.png",
+      "caption": "Cinematic view of Ashas Ree"
     }
   ]
 }

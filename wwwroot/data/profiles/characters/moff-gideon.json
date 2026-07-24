@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/moff-gideon.png",
-      "caption": "Portrait of Moff Gideon"
-    },
-    {
-      "path": "/images/characters/moff-gideon-scene.svg",
-      "caption": "Scene from the life of Moff Gideon"
-    },
-    {
-      "path": "/images/characters/moff-gideon-emblem.svg",
-      "caption": "Insignia associated with Moff Gideon"
+      "path": "/images/characters/moff-gideon-scene.png",
+      "caption": "Cinematic illustration — Moff Gideon"
     }
   ]
 }

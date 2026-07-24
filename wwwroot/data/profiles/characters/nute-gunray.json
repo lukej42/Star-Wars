@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/nute-gunray.png",
-      "caption": "Portrait of Nute Gunray"
-    },
-    {
-      "path": "/images/characters/nute-gunray-scene.svg",
-      "caption": "Scene from the life of Nute Gunray"
-    },
-    {
-      "path": "/images/characters/nute-gunray-emblem.svg",
-      "caption": "Insignia associated with Nute Gunray"
+      "path": "/images/characters/nute-gunray-scene.png",
+      "caption": "Cinematic illustration — Nute Gunray"
     }
   ]
 }

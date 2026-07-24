@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/general-hux.png",
-      "caption": "Portrait of General Hux"
-    },
-    {
-      "path": "/images/characters/general-hux-scene.svg",
-      "caption": "Scene from the life of General Hux"
-    },
-    {
-      "path": "/images/characters/general-hux-emblem.svg",
-      "caption": "Insignia associated with General Hux"
+      "path": "/images/characters/general-hux-scene.png",
+      "caption": "Cinematic illustration — General Hux"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/omega.png",
-      "caption": "Portrait of Omega"
-    },
-    {
-      "path": "/images/characters/omega-scene.svg",
-      "caption": "Scene from the life of Omega"
-    },
-    {
-      "path": "/images/characters/omega-emblem.svg",
-      "caption": "Insignia associated with Omega"
+      "path": "/images/characters/omega-scene.png",
+      "caption": "Cinematic illustration — Omega"
     }
   ]
 }

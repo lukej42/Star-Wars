@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/cato-neimoidia.svg",
-      "caption": "Globe view of Cato Neimoidia"
-    },
-    {
-      "path": "/images/planets/cato-neimoidia-scene.svg",
-      "caption": "Surface landscape of Cato Neimoidia"
-    },
-    {
-      "path": "/images/planets/cato-neimoidia-chart.svg",
-      "caption": "Star chart marker for Cato Neimoidia"
+      "path": "/images/planets/cato-neimoidia-hero.png",
+      "caption": "Cinematic view of Cato Neimoidia"
     }
   ]
 }

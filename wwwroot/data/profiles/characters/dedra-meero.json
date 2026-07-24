@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/dedra-meero.png",
-      "caption": "Portrait of Dedra Meero"
-    },
-    {
-      "path": "/images/characters/dedra-meero-scene.svg",
-      "caption": "Scene from the life of Dedra Meero"
-    },
-    {
-      "path": "/images/characters/dedra-meero-emblem.svg",
-      "caption": "Insignia associated with Dedra Meero"
+      "path": "/images/characters/dedra-meero-scene.png",
+      "caption": "Cinematic illustration — Dedra Meero"
     }
   ]
 }

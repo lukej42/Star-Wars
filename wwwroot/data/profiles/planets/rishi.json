@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/rishi.svg",
-      "caption": "Globe view of Rishi"
-    },
-    {
-      "path": "/images/planets/rishi-scene.svg",
-      "caption": "Surface landscape of Rishi"
-    },
-    {
-      "path": "/images/planets/rishi-chart.svg",
-      "caption": "Star chart marker for Rishi"
+      "path": "/images/planets/rishi-hero.png",
+      "caption": "Cinematic view of Rishi"
     }
   ]
 }

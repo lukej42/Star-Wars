@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/atollon.svg",
-      "caption": "Globe view of Atollon"
-    },
-    {
-      "path": "/images/planets/atollon-scene.svg",
-      "caption": "Surface landscape of Atollon"
-    },
-    {
-      "path": "/images/planets/atollon-chart.svg",
-      "caption": "Star chart marker for Atollon"
+      "path": "/images/planets/atollon-hero.png",
+      "caption": "Cinematic view of Atollon"
     }
   ]
 }

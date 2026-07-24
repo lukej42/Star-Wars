@@ -1,0 +1,37 @@
+{
+  "overview": "Shmi Skywalker is the gentle heart of Anakin's origin—a slave on Tatooine whose faith in her son's goodness outlasted her own suffering until tragedy pushed him toward the dark side.",
+  "history": "Shmi was sold to Watto along with young Anakin, raising him in the harsh Jundland Wastes with love despite their bondage. She told Anakin he was a miracle with no father, a mystery Qui-Gon Jinn sensed in the Force.\n\nWhen Anakin left with the Jedi, Shmi remained behind, later freed and married Cliegg Lars. Her brief happiness ended when Tusken Raiders abducted her; Cliegg's rescue attempt cost him a leg, and Shmi died in Anakin's arms after he slaughtered the entire Tusken camp in grief and rage.\n\nThat loss became the first great wound in Anakin's fall—proof that even Jedi power could not protect those he loved most.",
+  "significance": "Shmi embodies the civilian cost of galactic war and slavery that the Republic ignored.\n\nHer death is the emotional hinge between Anakin the hero and Anakin the avenger.\n\nLuke Skywalker's later life on Tatooine echoes the homestead she never saw freed in her lifetime.",
+  "notableEvents": [
+    "Raised Anakin Skywalker under Watto's ownership",
+    "Released Anakin to Qui-Gon Jinn after the Boonta Eve podrace",
+    "Married Cliegg Lars and gained freedom briefly",
+    "Abducted and tortured by Tusken Raiders",
+    "Died in Anakin's arms on Tatooine"
+  ],
+  "affiliations": [
+    "Lars homestead",
+    "Watto's junk shop",
+    "Tatooine moisture farming community"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Gave birth to Anakin Skywalker on Tatooine"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Parted from Anakin when he left for Jedi training"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Killed by Tusken Raiders; found by Anakin"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/shmi-skywalker-scene.png",
+      "caption": "Cinematic illustration — Shmi Skywalker"
+    }
+  ]
+}

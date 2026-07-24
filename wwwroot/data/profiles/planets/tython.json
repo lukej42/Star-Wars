@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/tython.svg",
-      "caption": "Globe view of Tython"
-    },
-    {
-      "path": "/images/planets/tython-scene.svg",
-      "caption": "Surface landscape of Tython"
-    },
-    {
-      "path": "/images/planets/tython-chart.svg",
-      "caption": "Star chart marker for Tython"
+      "path": "/images/planets/tython-hero.png",
+      "caption": "Cinematic view of Tython"
     }
   ]
 }

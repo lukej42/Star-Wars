@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/c-3po.png",
-      "caption": "Portrait of C-3PO"
-    },
-    {
-      "path": "/images/characters/c-3po-scene.svg",
-      "caption": "Scene from the life of C-3PO"
-    },
-    {
-      "path": "/images/characters/c-3po-emblem.svg",
-      "caption": "Insignia associated with C-3PO"
+      "path": "/images/characters/c-3po-scene.png",
+      "caption": "Cinematic illustration — C-3PO"
     }
   ]
 }

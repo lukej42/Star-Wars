@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/manaan.svg",
-      "caption": "Globe view of Manaan"
-    },
-    {
-      "path": "/images/planets/manaan-scene.svg",
-      "caption": "Surface landscape of Manaan"
-    },
-    {
-      "path": "/images/planets/manaan-chart.svg",
-      "caption": "Star chart marker for Manaan"
+      "path": "/images/planets/manaan-hero.png",
+      "caption": "Cinematic view of Manaan"
     }
   ]
 }

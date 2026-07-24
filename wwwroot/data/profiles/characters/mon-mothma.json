@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/mon-mothma.png",
-      "caption": "Portrait of Mon Mothma"
-    },
-    {
-      "path": "/images/characters/mon-mothma-scene.svg",
-      "caption": "Scene from the life of Mon Mothma"
-    },
-    {
-      "path": "/images/characters/mon-mothma-emblem.svg",
-      "caption": "Insignia associated with Mon Mothma"
+      "path": "/images/characters/mon-mothma-scene.png",
+      "caption": "Cinematic illustration — Mon Mothma"
     }
   ]
 }

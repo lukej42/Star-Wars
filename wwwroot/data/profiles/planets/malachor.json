@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/malachor.svg",
-      "caption": "Globe view of Malachor"
-    },
-    {
-      "path": "/images/planets/malachor-scene.svg",
-      "caption": "Surface landscape of Malachor"
-    },
-    {
-      "path": "/images/planets/malachor-chart.svg",
-      "caption": "Star chart marker for Malachor"
+      "path": "/images/planets/malachor-hero.png",
+      "caption": "Cinematic view of Malachor"
     }
   ]
 }

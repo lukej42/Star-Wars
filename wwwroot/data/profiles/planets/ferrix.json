@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/ferrix.svg",
-      "caption": "Globe view of Ferrix"
-    },
-    {
-      "path": "/images/planets/ferrix-scene.svg",
-      "caption": "Surface landscape of Ferrix"
-    },
-    {
-      "path": "/images/planets/ferrix-chart.svg",
-      "caption": "Star chart marker for Ferrix"
+      "path": "/images/planets/ferrix-hero.png",
+      "caption": "Cinematic view of Ferrix"
     }
   ]
 }

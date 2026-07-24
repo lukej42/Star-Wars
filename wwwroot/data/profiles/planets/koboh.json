@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/koboh.svg",
-      "caption": "Globe view of Koboh"
-    },
-    {
-      "path": "/images/planets/koboh-scene.svg",
-      "caption": "Surface landscape of Koboh"
-    },
-    {
-      "path": "/images/planets/koboh-chart.svg",
-      "caption": "Star chart marker for Koboh"
+      "path": "/images/planets/koboh-hero.png",
+      "caption": "Cinematic view of Koboh"
     }
   ]
 }

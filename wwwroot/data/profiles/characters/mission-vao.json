@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/mission-vao.png",
-      "caption": "Portrait of Mission Vao"
-    },
-    {
-      "path": "/images/characters/mission-vao-scene.svg",
-      "caption": "Scene from the life of Mission Vao"
-    },
-    {
-      "path": "/images/characters/mission-vao-emblem.svg",
-      "caption": "Insignia associated with Mission Vao"
+      "path": "/images/characters/mission-vao-scene.png",
+      "caption": "Cinematic illustration — Mission Vao"
     }
   ]
 }

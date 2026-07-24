@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/r2-d2.png",
-      "caption": "Portrait of R2-D2"
-    },
-    {
-      "path": "/images/characters/r2-d2-scene.svg",
-      "caption": "Scene from the life of R2-D2"
-    },
-    {
-      "path": "/images/characters/r2-d2-emblem.svg",
-      "caption": "Insignia associated with R2-D2"
+      "path": "/images/characters/r2-d2-scene.png",
+      "caption": "Cinematic illustration — R2-D2"
     }
   ]
 }

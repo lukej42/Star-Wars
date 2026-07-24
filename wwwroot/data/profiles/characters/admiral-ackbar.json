@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/admiral-ackbar.png",
-      "caption": "Portrait of Admiral Ackbar"
-    },
-    {
-      "path": "/images/characters/admiral-ackbar-scene.svg",
-      "caption": "Scene from the life of Admiral Ackbar"
-    },
-    {
-      "path": "/images/characters/admiral-ackbar-emblem.svg",
-      "caption": "Insignia associated with Admiral Ackbar"
+      "path": "/images/characters/admiral-ackbar-scene.png",
+      "caption": "Cinematic illustration — Admiral Ackbar"
     }
   ]
 }

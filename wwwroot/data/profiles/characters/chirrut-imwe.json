@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/chirrut-imwe.png",
-      "caption": "Portrait of Chirrut Îmwe"
-    },
-    {
-      "path": "/images/characters/chirrut-imwe-scene.svg",
-      "caption": "Scene from the life of Chirrut Îmwe"
-    },
-    {
-      "path": "/images/characters/chirrut-imwe-emblem.svg",
-      "caption": "Insignia associated with Chirrut Îmwe"
+      "path": "/images/characters/chirrut-imwe-scene.png",
+      "caption": "Cinematic illustration — Chirrut Îmwe"
     }
   ]
 }

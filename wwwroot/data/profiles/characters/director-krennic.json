@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/director-krennic.png",
-      "caption": "Portrait of Director Krennic"
-    },
-    {
-      "path": "/images/characters/director-krennic-scene.svg",
-      "caption": "Scene from the life of Director Krennic"
-    },
-    {
-      "path": "/images/characters/director-krennic-emblem.svg",
-      "caption": "Insignia associated with Director Krennic"
+      "path": "/images/characters/director-krennic-scene.png",
+      "caption": "Cinematic illustration — Director Krennic"
     }
   ]
 }

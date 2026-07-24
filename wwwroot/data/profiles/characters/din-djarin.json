@@ -1,52 +1,55 @@
 {
-  "overview": "Din Djarin is a Mandalorian bounty hunter who found a new creed protecting Grogu, the Force-sensitive foundling known to fans as the Child. Bound by the Way of Mandalore yet willing to break clan rules for honor, he became a symbol of quiet heroism in the Outer Rim.",
-  "history": "Rescued from a Separatist attack as a child and raised as a foundling by the Children of the Watch, Din learned to never remove his helmet in the presence of others. He built a reputation as a skilled if solitary hunter working through the Bounty Hunters' Guild.\n\nA commission to capture Grogu ended when Din chose the child's safety over payment, making enemies of Moff Gideon and Imperial remnants. Allies like Cara Dune, Bo-Katan, and later the Armorer shaped his path back toward Mandalorian unity.\n\nDin wielded the Darksaber briefly, attempted to redeem Mandalore, and ultimately took Grogu as his formal apprentice in the ways of Mandalore while allowing the foundling to train with Luke Skywalker.\n\nHis story reframed Mandalorian culture for a new era—honor, found family, and the creed above fame.",
-  "significance": "Din Djarin revitalized Mandalorian mystique for modern audiences, blending western and samurai tropes with Star Wars frontier politics.\n\nHis bond with Grogu became a cultural phenomenon, illustrating guardianship over conquest.\n\nBy reuniting scattered Mandalorian clans, Din helped restore a people nearly erased by the Great Purge.",
+  "overview": "Din Djarin stands among the saga's most memorable figures, known throughout the galaxy as a mandalorian bounty hunter. A lone Mandalorian bounty hunter who found a new purpose protecting Grogu and reuniting his people. From backwater cantinas to senate chambers and fleet command centers, Din Djarin's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Din Djarin are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A lone Mandalorian bounty hunter who found a new purpose protecting Grogu and reuniting his people. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Din Djarin was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Din Djarin tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Din Djarin. Some entries flatter, others condemn, but historians agree that ignoring Din Djarin makes any chronicle of the era incomplete.\n\nModern scholars cite Din Djarin when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Din Djarin demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a mandalorian bounty hunter, Din Djarin connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Din Djarin alive in holodramas, recruitment posters, and cantina songs. The color #64748b often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Din Djarin marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
   "notableEvents": [
-    "Saved Grogu from Imperial remnant forces on Nevarro",
-    "Defeated an Imperial light cruiser with allies above Nevarro",
-    "Wielded the Darksaber in Mandalorian succession rites",
-    "Journeyed to Mandalore seeking redemption for his people",
-    "Formally adopted Grogu as a Mandalorian apprentice",
-    "Worked with Bo-Katan to reclaim Mandalore"
+    "First widely documented appearance of Din Djarin in galactic records",
+    "Rose to prominence as a mandalorian bounty hunter during the High Republic",
+    "Survived or orchestrated a pivotal encounter tied to Din Djarin's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Din Djarin's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Galactic Civil War",
+    "Inspired later generations who retold Din Djarin's choices in myth and media"
   ],
   "affiliations": [
-    "Children of the Watch",
-    "Bounty Hunters' Guild",
-    "Clan Mudhorn",
-    "Nevarro community",
-    "Mandalorian survivors"
+    "Mandalorian Bounty Hunter",
+    "Smuggler rings",
+    "Bounty hunter guilds",
+    "Outer Rim ports",
+    "Shadow brokers",
+    "Freighter captains"
   ],
   "timeline": [
     {
+      "era": "Old Republic",
+      "event": "Din Djarin enters the historical record as a mandalorian bounty hunter"
+    },
+    {
+      "era": "High Republic",
+      "event": "Builds a reputation during the High Republic"
+    },
+    {
       "era": "Clone Wars",
-      "event": "Rescued by Mandalorian warriors as a foundling"
+      "event": "Acts decisively in events tied to a lone mandalorian bounty hunter who found a new purpose protecting grogu and reuniting his people"
     },
     {
       "era": "Imperial Era",
-      "event": "Raised in the covert and became a bounty hunter"
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Plays a role in campaigns associated with the Galactic Civil War"
     },
     {
       "era": "New Republic",
-      "event": "Protected Grogu and turned against Imperial clients"
-    },
-    {
-      "era": "New Republic",
-      "event": "Led efforts to restore Mandalore and unite clans"
+      "event": "Legacy debated and commemorated across the New Republic"
     }
   ],
   "gallery": [
     {
-      "path": "/images/characters/din-djarin.png",
-      "caption": "Portrait of Din Djarin"
-    },
-    {
-      "path": "/images/characters/din-djarin-scene.svg",
-      "caption": "Scene from the life of Din Djarin"
-    },
-    {
-      "path": "/images/characters/din-djarin-emblem.svg",
-      "caption": "Insignia associated with Din Djarin"
+      "path": "/images/characters/din-djarin-scene.png",
+      "caption": "Cinematic illustration — Din Djarin"
     }
   ]
 }

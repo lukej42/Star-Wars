@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/fives.png",
-      "caption": "Portrait of Fives"
-    },
-    {
-      "path": "/images/characters/fives-scene.svg",
-      "caption": "Scene from the life of Fives"
-    },
-    {
-      "path": "/images/characters/fives-emblem.svg",
-      "caption": "Insignia associated with Fives"
+      "path": "/images/characters/fives-scene.png",
+      "caption": "Cinematic illustration — Fives"
     }
   ]
 }

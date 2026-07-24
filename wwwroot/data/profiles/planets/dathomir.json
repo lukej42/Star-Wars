@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/dathomir.svg",
-      "caption": "Globe view of Dathomir"
-    },
-    {
-      "path": "/images/planets/dathomir-scene.svg",
-      "caption": "Surface landscape of Dathomir"
-    },
-    {
-      "path": "/images/planets/dathomir-chart.svg",
-      "caption": "Star chart marker for Dathomir"
+      "path": "/images/planets/dathomir-hero.png",
+      "caption": "Cinematic view of Dathomir"
     }
   ]
 }

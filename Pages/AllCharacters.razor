@@ -3,8 +3,12 @@
 
 <PageTitle>All Characters</PageTitle>
 
+<figure class="directory-hero">
+    <img src="/images/characters/characters-directory-hero.png" alt="Diverse galactic figures gathered beneath a luminous starport skyline at twilight" loading="lazy" />
+</figure>
+
 <h1>All Characters</h1>
-<p class="all-planets-intro">@CharacterData.Characters.Count figures from the saga films, series, and KOTOR — smugglers, soldiers, droids, leaders, and more. Jedi and Sith are listed in their own directories.</p>
+<p class="all-planets-intro">@CharacterData.Characters.Count figures from the saga films, series, and KOTOR — smugglers, soldiers, leaders, and more. Jedi and Sith are listed in their own directories.</p>
 
 <div class="planet-directory-grid">
     @foreach (var character in CharacterData.Characters.OrderBy(character => character.Name))

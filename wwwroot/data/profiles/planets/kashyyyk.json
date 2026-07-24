@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/kashyyyk.svg",
-      "caption": "Globe view of Kashyyyk"
-    },
-    {
-      "path": "/images/planets/kashyyyk-scene.svg",
-      "caption": "Surface landscape of Kashyyyk"
-    },
-    {
-      "path": "/images/planets/kashyyyk-chart.svg",
-      "caption": "Star chart marker for Kashyyyk"
+      "path": "/images/planets/kashyyyk-hero.png",
+      "caption": "Cinematic view of Kashyyyk"
     }
   ]
 }

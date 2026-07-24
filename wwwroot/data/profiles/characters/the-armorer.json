@@ -1,0 +1,55 @@
+{
+  "overview": "The Armorer stands among the saga's most memorable figures, known throughout the galaxy as a mandalorian smith. A mysterious Mandalorian keeper of the covert forge on Nevarro who forged Din Djarin's beskar armor and guarded the secrets of the Darksaber and Mandalorian Creed. From backwater cantinas to senate chambers and fleet command centers, The Armorer's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for The Armorer are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A mysterious Mandalorian keeper of the covert forge on Nevarro who forged Din Djarin's beskar armor and guarded the secrets of the Darksaber and Mandalorian Creed. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, The Armorer was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where The Armorer tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on The Armorer. Some entries flatter, others condemn, but historians agree that ignoring The Armorer makes any chronicle of the era incomplete.\n\nModern scholars cite The Armorer when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, The Armorer demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a mandalorian smith, The Armorer connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps The Armorer alive in holodramas, recruitment posters, and cantina songs. The color #71717a often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, The Armorer marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of The Armorer in galactic records",
+    "Rose to prominence as a mandalorian smith during the High Republic",
+    "Survived or orchestrated a pivotal encounter tied to The Armorer's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened The Armorer's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Galactic Civil War",
+    "Inspired later generations who retold The Armorer's choices in myth and media"
+  ],
+  "affiliations": [
+    "Mandalorian Smith",
+    "Mercenary companies",
+    "Clan alliances",
+    "Colonial militias",
+    "Honor societies",
+    "Arms dealers"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "The Armorer enters the historical record as a mandalorian smith"
+    },
+    {
+      "era": "High Republic",
+      "event": "Builds a reputation during the High Republic"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Acts decisively in events tied to a mysterious mandalorian keeper of the covert forge on nevarro who forged din djarin's beskar armor and guarded the secrets of the darksaber and mandalorian creed"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Plays a role in campaigns associated with the Galactic Civil War"
+    },
+    {
+      "era": "New Republic",
+      "event": "Legacy debated and commemorated across the New Republic"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/the-armorer-scene.png",
+      "caption": "Cinematic illustration — The Armorer"
+    }
+  ]
+}

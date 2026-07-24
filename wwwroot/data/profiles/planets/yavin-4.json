@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/yavin-4.svg",
-      "caption": "Globe view of Yavin 4"
-    },
-    {
-      "path": "/images/planets/yavin-4-scene.svg",
-      "caption": "Surface landscape of Yavin 4"
-    },
-    {
-      "path": "/images/planets/yavin-4-chart.svg",
-      "caption": "Star chart marker for Yavin 4"
+      "path": "/images/planets/yavin-4-hero.png",
+      "caption": "Cinematic view of Yavin 4"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/canderous-ordo.png",
-      "caption": "Portrait of Canderous Ordo"
-    },
-    {
-      "path": "/images/characters/canderous-ordo-scene.svg",
-      "caption": "Scene from the life of Canderous Ordo"
-    },
-    {
-      "path": "/images/characters/canderous-ordo-emblem.svg",
-      "caption": "Insignia associated with Canderous Ordo"
+      "path": "/images/characters/canderous-ordo-scene.png",
+      "caption": "Cinematic illustration — Canderous Ordo"
     }
   ]
 }

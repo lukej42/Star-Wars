@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/lando-calrissian.png",
-      "caption": "Portrait of Lando Calrissian"
-    },
-    {
-      "path": "/images/characters/lando-calrissian-scene.svg",
-      "caption": "Scene from the life of Lando Calrissian"
-    },
-    {
-      "path": "/images/characters/lando-calrissian-emblem.svg",
-      "caption": "Insignia associated with Lando Calrissian"
+      "path": "/images/characters/lando-calrissian-scene.png",
+      "caption": "Cinematic illustration — Lando Calrissian"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/ryloth.svg",
-      "caption": "Globe view of Ryloth"
-    },
-    {
-      "path": "/images/planets/ryloth-scene.svg",
-      "caption": "Surface landscape of Ryloth"
-    },
-    {
-      "path": "/images/planets/ryloth-chart.svg",
-      "caption": "Star chart marker for Ryloth"
+      "path": "/images/planets/ryloth-hero.png",
+      "caption": "Cinematic view of Ryloth"
     }
   ]
 }

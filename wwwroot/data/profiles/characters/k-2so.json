@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/k-2so.png",
-      "caption": "Portrait of K-2SO"
-    },
-    {
-      "path": "/images/characters/k-2so-scene.svg",
-      "caption": "Scene from the life of K-2SO"
-    },
-    {
-      "path": "/images/characters/k-2so-emblem.svg",
-      "caption": "Insignia associated with K-2SO"
+      "path": "/images/characters/k-2so-scene.png",
+      "caption": "Cinematic illustration — K-2SO"
     }
   ]
 }

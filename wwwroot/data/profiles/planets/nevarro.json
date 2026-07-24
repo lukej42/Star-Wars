@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/nevarro.svg",
-      "caption": "Globe view of Nevarro"
-    },
-    {
-      "path": "/images/planets/nevarro-scene.svg",
-      "caption": "Surface landscape of Nevarro"
-    },
-    {
-      "path": "/images/planets/nevarro-chart.svg",
-      "caption": "Star chart marker for Nevarro"
+      "path": "/images/planets/nevarro-hero.png",
+      "caption": "Cinematic view of Nevarro"
     }
   ]
 }

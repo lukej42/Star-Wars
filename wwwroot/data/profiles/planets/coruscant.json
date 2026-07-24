@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/coruscant-space.png",
-      "caption": "Globe view of Coruscant"
-    },
-    {
-      "path": "/images/planets/coruscant-scene.svg",
-      "caption": "Surface landscape of Coruscant"
-    },
-    {
-      "path": "/images/planets/coruscant-chart.svg",
-      "caption": "Star chart marker for Coruscant"
+      "path": "/images/planets/coruscant-hero.png",
+      "caption": "Cinematic view of Coruscant"
     }
   ]
 }

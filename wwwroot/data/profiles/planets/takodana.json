@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/takodana.svg",
-      "caption": "Globe view of Takodana"
-    },
-    {
-      "path": "/images/planets/takodana-scene.svg",
-      "caption": "Surface landscape of Takodana"
-    },
-    {
-      "path": "/images/planets/takodana-chart.svg",
-      "caption": "Star chart marker for Takodana"
+      "path": "/images/planets/takodana-hero.png",
+      "caption": "Cinematic view of Takodana"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/d-qar.svg",
-      "caption": "Globe view of D'Qar"
-    },
-    {
-      "path": "/images/planets/d-qar-scene.svg",
-      "caption": "Surface landscape of D'Qar"
-    },
-    {
-      "path": "/images/planets/d-qar-chart.svg",
-      "caption": "Star chart marker for D'Qar"
+      "path": "/images/planets/d-qar-hero.png",
+      "caption": "Cinematic view of D'Qar"
     }
   ]
 }

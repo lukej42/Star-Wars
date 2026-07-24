@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/umbara.svg",
-      "caption": "Globe view of Umbara"
-    },
-    {
-      "path": "/images/planets/umbara-scene.svg",
-      "caption": "Surface landscape of Umbara"
-    },
-    {
-      "path": "/images/planets/umbara-chart.svg",
-      "caption": "Star chart marker for Umbara"
+      "path": "/images/planets/umbara-hero.png",
+      "caption": "Cinematic view of Umbara"
     }
   ]
 }

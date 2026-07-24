@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/pasaana.svg",
-      "caption": "Globe view of Pasaana"
-    },
-    {
-      "path": "/images/planets/pasaana-scene.svg",
-      "caption": "Surface landscape of Pasaana"
-    },
-    {
-      "path": "/images/planets/pasaana-chart.svg",
-      "caption": "Star chart marker for Pasaana"
+      "path": "/images/planets/pasaana-hero.png",
+      "caption": "Cinematic view of Pasaana"
     }
   ]
 }

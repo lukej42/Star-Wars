@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/jyn-erso.png",
-      "caption": "Portrait of Jyn Erso"
-    },
-    {
-      "path": "/images/characters/jyn-erso-scene.svg",
-      "caption": "Scene from the life of Jyn Erso"
-    },
-    {
-      "path": "/images/characters/jyn-erso-emblem.svg",
-      "caption": "Insignia associated with Jyn Erso"
+      "path": "/images/characters/jyn-erso-scene.png",
+      "caption": "Cinematic illustration — Jyn Erso"
     }
   ]
 }

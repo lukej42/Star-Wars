@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/grand-moff-tarkin.png",
-      "caption": "Portrait of Grand Moff Tarkin"
-    },
-    {
-      "path": "/images/characters/grand-moff-tarkin-scene.svg",
-      "caption": "Scene from the life of Grand Moff Tarkin"
-    },
-    {
-      "path": "/images/characters/grand-moff-tarkin-emblem.svg",
-      "caption": "Insignia associated with Grand Moff Tarkin"
+      "path": "/images/characters/grand-moff-tarkin-scene.png",
+      "caption": "Cinematic illustration — Grand Moff Tarkin"
     }
   ]
 }

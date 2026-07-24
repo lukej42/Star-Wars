@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/baze-malbus.png",
-      "caption": "Portrait of Baze Malbus"
-    },
-    {
-      "path": "/images/characters/baze-malbus-scene.svg",
-      "caption": "Scene from the life of Baze Malbus"
-    },
-    {
-      "path": "/images/characters/baze-malbus-emblem.svg",
-      "caption": "Insignia associated with Baze Malbus"
+      "path": "/images/characters/baze-malbus-scene.png",
+      "caption": "Cinematic illustration — Baze Malbus"
     }
   ]
 }

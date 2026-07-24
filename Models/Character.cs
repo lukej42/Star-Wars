@@ -9,5 +9,6 @@ public sealed class Character
     public required string Description { get; init; }
     public required string Color { get; init; }
 
-    public string ImagePath => $"/images/characters/{Slug}.svg";
+    public string ImagePath => $"/images/characters/{Slug}.png";
+    public string SceneImagePath => $"/images/characters/{Slug}-scene.png";
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/hk-47.png",
-      "caption": "Portrait of HK-47"
-    },
-    {
-      "path": "/images/characters/hk-47-scene.svg",
-      "caption": "Scene from the life of HK-47"
-    },
-    {
-      "path": "/images/characters/hk-47-emblem.svg",
-      "caption": "Insignia associated with HK-47"
+      "path": "/images/characters/hk-47-scene.png",
+      "caption": "Cinematic illustration — HK-47"
     }
   ]
 }

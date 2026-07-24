@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/captain-rex.png",
-      "caption": "Portrait of Captain Rex"
-    },
-    {
-      "path": "/images/characters/captain-rex-scene.svg",
-      "caption": "Scene from the life of Captain Rex"
-    },
-    {
-      "path": "/images/characters/captain-rex-emblem.svg",
-      "caption": "Insignia associated with Captain Rex"
+      "path": "/images/characters/captain-rex-scene.png",
+      "caption": "Cinematic illustration — Captain Rex"
     }
   ]
 }

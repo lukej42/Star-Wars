@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/agent-kallus.png",
-      "caption": "Portrait of Agent Kallus"
-    },
-    {
-      "path": "/images/characters/agent-kallus-scene.svg",
-      "caption": "Scene from the life of Agent Kallus"
-    },
-    {
-      "path": "/images/characters/agent-kallus-emblem.svg",
-      "caption": "Insignia associated with Agent Kallus"
+      "path": "/images/characters/agent-kallus-scene.png",
+      "caption": "Cinematic illustration — Agent Kallus"
     }
   ]
 }

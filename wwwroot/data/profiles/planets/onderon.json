@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/onderon.svg",
-      "caption": "Globe view of Onderon"
-    },
-    {
-      "path": "/images/planets/onderon-scene.svg",
-      "caption": "Surface landscape of Onderon"
-    },
-    {
-      "path": "/images/planets/onderon-chart.svg",
-      "caption": "Star chart marker for Onderon"
+      "path": "/images/planets/onderon-hero.png",
+      "caption": "Cinematic view of Onderon"
     }
   ]
 }

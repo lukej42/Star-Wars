@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/poe-dameron.png",
-      "caption": "Portrait of Poe Dameron"
-    },
-    {
-      "path": "/images/characters/poe-dameron-scene.svg",
-      "caption": "Scene from the life of Poe Dameron"
-    },
-    {
-      "path": "/images/characters/poe-dameron-emblem.svg",
-      "caption": "Insignia associated with Poe Dameron"
+      "path": "/images/characters/poe-dameron-scene.png",
+      "caption": "Cinematic illustration — Poe Dameron"
     }
   ]
 }

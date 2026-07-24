@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/cad-bane.png",
-      "caption": "Portrait of Cad Bane"
-    },
-    {
-      "path": "/images/characters/cad-bane-scene.svg",
-      "caption": "Scene from the life of Cad Bane"
-    },
-    {
-      "path": "/images/characters/cad-bane-emblem.svg",
-      "caption": "Insignia associated with Cad Bane"
+      "path": "/images/characters/cad-bane-scene.png",
+      "caption": "Cinematic illustration — Cad Bane"
     }
   ]
 }

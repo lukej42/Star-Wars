@@ -12,7 +12,9 @@ public sealed class GalaxyPlanet
     public required string Color { get; init; }
     public string? ImagePath { get; init; }
 
-    public string DisplayImagePath => ImagePath ?? $"/images/planets/{Slug}.svg";
+    public string HeroImagePath => $"/images/planets/{Slug}-hero.png";
+
+    public string DisplayImagePath => HeroImagePath;
 
     public string BackgroundImagePath => ImagePath ?? $"/images/planets/{Slug}-space.png";
 }

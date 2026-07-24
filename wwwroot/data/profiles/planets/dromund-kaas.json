@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/dromund-kaas.svg",
-      "caption": "Globe view of Dromund Kaas"
-    },
-    {
-      "path": "/images/planets/dromund-kaas-scene.svg",
-      "caption": "Surface landscape of Dromund Kaas"
-    },
-    {
-      "path": "/images/planets/dromund-kaas-chart.svg",
-      "caption": "Star chart marker for Dromund Kaas"
+      "path": "/images/planets/dromund-kaas-hero.png",
+      "caption": "Cinematic view of Dromund Kaas"
     }
   ]
 }

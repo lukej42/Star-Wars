@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/utapau.svg",
-      "caption": "Globe view of Utapau"
-    },
-    {
-      "path": "/images/planets/utapau-scene.svg",
-      "caption": "Surface landscape of Utapau"
-    },
-    {
-      "path": "/images/planets/utapau-chart.svg",
-      "caption": "Star chart marker for Utapau"
+      "path": "/images/planets/utapau-hero.png",
+      "caption": "Cinematic view of Utapau"
     }
   ]
 }

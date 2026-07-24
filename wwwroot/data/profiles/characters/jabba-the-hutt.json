@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/jabba-the-hutt.png",
-      "caption": "Portrait of Jabba the Hutt"
-    },
-    {
-      "path": "/images/characters/jabba-the-hutt-scene.svg",
-      "caption": "Scene from the life of Jabba the Hutt"
-    },
-    {
-      "path": "/images/characters/jabba-the-hutt-emblem.svg",
-      "caption": "Insignia associated with Jabba the Hutt"
+      "path": "/images/characters/jabba-the-hutt-scene.png",
+      "caption": "Cinematic illustration — Jabba the Hutt"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/qira.png",
-      "caption": "Portrait of Qi'ra"
-    },
-    {
-      "path": "/images/characters/qira-scene.svg",
-      "caption": "Scene from the life of Qi'ra"
-    },
-    {
-      "path": "/images/characters/qira-emblem.svg",
-      "caption": "Insignia associated with Qi'ra"
+      "path": "/images/characters/qira-scene.png",
+      "caption": "Cinematic illustration — Qi'ra"
     }
   ]
 }

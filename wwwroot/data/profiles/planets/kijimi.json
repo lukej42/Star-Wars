@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/kijimi.svg",
-      "caption": "Globe view of Kijimi"
-    },
-    {
-      "path": "/images/planets/kijimi-scene.svg",
-      "caption": "Surface landscape of Kijimi"
-    },
-    {
-      "path": "/images/planets/kijimi-chart.svg",
-      "caption": "Star chart marker for Kijimi"
+      "path": "/images/planets/kijimi-hero.png",
+      "caption": "Cinematic view of Kijimi"
     }
   ]
 }

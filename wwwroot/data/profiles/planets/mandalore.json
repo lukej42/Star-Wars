@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/mandalore.svg",
-      "caption": "Globe view of Mandalore"
-    },
-    {
-      "path": "/images/planets/mandalore-scene.svg",
-      "caption": "Surface landscape of Mandalore"
-    },
-    {
-      "path": "/images/planets/mandalore-chart.svg",
-      "caption": "Star chart marker for Mandalore"
+      "path": "/images/planets/mandalore-hero.png",
+      "caption": "Cinematic view of Mandalore"
     }
   ]
 }

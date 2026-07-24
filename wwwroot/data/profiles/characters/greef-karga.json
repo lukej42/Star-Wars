@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/greef-karga.png",
-      "caption": "Portrait of Greef Karga"
-    },
-    {
-      "path": "/images/characters/greef-karga-scene.svg",
-      "caption": "Scene from the life of Greef Karga"
-    },
-    {
-      "path": "/images/characters/greef-karga-emblem.svg",
-      "caption": "Insignia associated with Greef Karga"
+      "path": "/images/characters/greef-karga-scene.png",
+      "caption": "Cinematic illustration — Greef Karga"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/hera-syndulla.png",
-      "caption": "Portrait of Hera Syndulla"
-    },
-    {
-      "path": "/images/characters/hera-syndulla-scene.svg",
-      "caption": "Scene from the life of Hera Syndulla"
-    },
-    {
-      "path": "/images/characters/hera-syndulla-emblem.svg",
-      "caption": "Insignia associated with Hera Syndulla"
+      "path": "/images/characters/hera-syndulla-scene.png",
+      "caption": "Cinematic illustration — Hera Syndulla"
     }
   ]
 }

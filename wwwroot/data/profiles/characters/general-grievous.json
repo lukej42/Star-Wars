@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/general-grievous.png",
-      "caption": "Portrait of General Grievous"
-    },
-    {
-      "path": "/images/characters/general-grievous-scene.svg",
-      "caption": "Scene from the life of General Grievous"
-    },
-    {
-      "path": "/images/characters/general-grievous-emblem.svg",
-      "caption": "Insignia associated with General Grievous"
+      "path": "/images/characters/general-grievous-scene.png",
+      "caption": "Cinematic illustration — General Grievous"
     }
   ]
 }

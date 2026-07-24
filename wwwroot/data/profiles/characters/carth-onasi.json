@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/carth-onasi.png",
-      "caption": "Portrait of Carth Onasi"
-    },
-    {
-      "path": "/images/characters/carth-onasi-scene.svg",
-      "caption": "Scene from the life of Carth Onasi"
-    },
-    {
-      "path": "/images/characters/carth-onasi-emblem.svg",
-      "caption": "Insignia associated with Carth Onasi"
+      "path": "/images/characters/carth-onasi-scene.png",
+      "caption": "Cinematic illustration — Carth Onasi"
     }
   ]
 }

@@ -1,0 +1,716 @@
+[
+  {
+    "category": "characters",
+    "slug": "admiral-ackbar",
+    "name": "Admiral Ackbar",
+    "prompt": "Cinematic portrait scene of a rebel admiral, A Mon Calamari military genius whose tactical brilliance helped destroy the second Death Star at Endor.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/admiral-ackbar-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "agent-kallus",
+    "name": "Agent Kallus",
+    "prompt": "Cinematic portrait scene of a imperial agent, An ISB agent who hunted the Ghost crew before his conscience turned him into a Rebel spy.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/agent-kallus-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "general-pryde",
+    "name": "Allegiant General Pryde",
+    "prompt": "Cinematic portrait scene of a first order general, A veteran Imperial officer who served Palpatine and later commanded the Final Order's Sith fleet until he died aboard the Steadfast during the Battle of Exegol.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/general-pryde-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "amilyn-holdo",
+    "name": "Amilyn Holdo",
+    "prompt": "Eccentric Resistance admiral with vivid hair aboard Raddus bridge with purple nebula. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/amilyn-holdo-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "atton-rand",
+    "name": "Atton Rand",
+    "prompt": "Cinematic portrait scene of a smuggler, A cynical former Sith trooper turned scoundrel who became a loyal companion during the Jedi Exile's journey.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/atton-rand-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "bail-organa",
+    "name": "Bail Organa",
+    "prompt": "Cinematic portrait scene of a senator of alderaan, A noble senator who secretly founded the Rebel Alliance and adopted Leia as his daughter.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/bail-organa-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "bastila-shan",
+    "name": "Bastila Shan",
+    "prompt": "Cinematic portrait scene of a jedi padawan, A young Jedi Battle Meditation prodigy captured by Darth Malak whose bond with Revan became central to the galaxy's fate during the Jedi Civil War.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/bastila-shan-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "baze-malbus",
+    "name": "Baze Malbus",
+    "prompt": "Cinematic portrait scene of a rebel guard, A heavily armed Guardian of the Whills who fought alongside Chirrut on Jedha and Scarif.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/baze-malbus-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "bb-8",
+    "name": "BB-8",
+    "prompt": "Cinematic portrait scene of a astromech droid, Poe Dameron's loyal spherical astromech who carried vital Resistance intelligence across the galaxy.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/bb-8-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "beru-lars",
+    "name": "Beru Lars",
+    "prompt": "Cinematic portrait scene of a moisture farmer, Owen Lars's wife and Luke Skywalker's aunt, who raised the boy as her own with warmth and practical wisdom until Imperial stormtroopers burned the Lars\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/beru-lars-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "bib-fortuna",
+    "name": "Bib Fortuna",
+    "prompt": "Cinematic portrait scene of a majordomo, Jabba the Hutt's Twi'lek majordomo who managed the palace's daily cruelty until Boba Fett seized power on Tatooine and removed him from court.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/bib-fortuna-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "bo-katan-kryze",
+    "name": "Bo-Katan Kryze",
+    "prompt": "Cinematic portrait scene of a mandalorian leader, A Nite Owl warrior who fought to reclaim Mandalore and wielded the Darksaber in the fight against the Empire.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/bo-katan-kryze-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "boba-fett",
+    "name": "Boba Fett",
+    "prompt": "Green Mandalorian armor hunter with jetpack on Tatooine dune sea under twin suns. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/boba-fett-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "boss-nass",
+    "name": "Boss Nass",
+    "prompt": "Cinematic portrait scene of a gungan leader, The bombastic Boss of the Gungan Grand Army who reluctantly allied with Queen Amidala to drive the Trade Federation from Naboo after centuries of tension\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/boss-nass-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "c-3po",
+    "name": "C-3PO",
+    "prompt": "Cinematic portrait scene of a protocol droid, An anxious golden protocol droid fluent in over six million forms of communication who served the Skywalker family for decades.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/c-3po-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "cad-bane",
+    "name": "Cad Bane",
+    "prompt": "Cinematic portrait scene of a bounty hunter, A ruthless Duro gunslinger regarded as the galaxy's greatest bounty hunter during the Clone Wars era.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/cad-bane-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "canderous-ordo",
+    "name": "Canderous Ordo",
+    "prompt": "Cinematic portrait scene of a mandalorian warrior, A fierce Mandalorian mercenary who fought beside Revan and later united his people as Mandalore the Preserver.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/canderous-ordo-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "captain-panaka",
+    "name": "Captain Panaka",
+    "prompt": "Cinematic portrait scene of a royal security, Head of security for Naboo's monarch who protected Queen Amidala through invasion, exile, and return, exemplifying loyal service to the throne across the\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/captain-panaka-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "captain-phasma",
+    "name": "Captain Phasma",
+    "prompt": "Cinematic portrait scene of a first order captain, A chrome-armored stormtrooper commander who enforced brutal discipline within the First Order ranks.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/captain-phasma-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "captain-rex",
+    "name": "Captain Rex",
+    "prompt": "Cinematic portrait scene of a clone captain, An ARC trooper who served under Anakin and Ahsoka before removing his inhibitor chip and joining the Rebellion.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/captain-rex-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "cara-dune",
+    "name": "Cara Dune",
+    "prompt": "Cinematic portrait scene of a mercenary, A former Rebel shock trooper who became a marshal on Nevarro and ally to Din Djarin.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/cara-dune-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "carth-onasi",
+    "name": "Carth Onasi",
+    "prompt": "Cinematic portrait scene of a republic soldier, A veteran Republic pilot haunted by the destruction of Taris who guided the amnesiac Revan across the galaxy.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/carth-onasi-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "cassian-andor",
+    "name": "Cassian Andor",
+    "prompt": "Undercover rebel intelligence officer in worn field jacket on rainy industrial world. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/cassian-andor-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "cham-syndulla",
+    "name": "Cham Syndulla",
+    "prompt": "Cinematic portrait scene of a ryloth freedom fighter, Hera Syndulla's father and the legendary Twi'lek resistance leader who fought Separatists and Empire alike to free Ryloth from occupation.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/cham-syndulla-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "chewbacca",
+    "name": "Chewbacca",
+    "prompt": "Towering Wookiee warrior with bowcaster on Millennium Falcon ramp with nebula backdrop. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/chewbacca-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "chirrut-imwe",
+    "name": "Chirrut \u00cemwe",
+    "prompt": "Cinematic portrait scene of a guardian of the whills, A blind warrior monk who trusted in the Force and defended the Temple of the Kyber on Jedha.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/chirrut-imwe-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "cliegg-lars",
+    "name": "Cliegg Lars",
+    "prompt": "Cinematic portrait scene of a moisture farmer, Owen's father who freed and married Shmi Skywalker, losing a leg rescuing her from Tusken captivity before Anakin returned to Tatooine during the Clone Wars.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/cliegg-lars-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "commander-cody",
+    "name": "Commander Cody",
+    "prompt": "Cinematic portrait scene of a clone commander, Obi-Wan Kenobi's trusted clone marshal who led the 212th Attack Battalion throughout the Clone Wars.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/commander-cody-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "crosshair",
+    "name": "Crosshair",
+    "prompt": "Cinematic portrait scene of a clone commando, The Bad Batch's elite sniper whose inhibitor chip briefly turned him against his brothers before he rejoined the team.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/crosshair-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "dedra-meero",
+    "name": "Dedra Meero",
+    "prompt": "Cinematic portrait scene of a isb supervisor, A relentless Imperial Security Bureau supervisor who hunted Cassian Andor and the growing Rebel network.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/dedra-meero-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "dexter-jettster",
+    "name": "Dexter Jettster",
+    "prompt": "Cinematic portrait scene of a diner owner, A Besalisk informant and diner owner on Coruscant whose vast underworld contacts helped Obi-Wan Kenobi identify a Kamino saberdart during the clone army\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/dexter-jettster-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "din-djarin",
+    "name": "Din Djarin",
+    "prompt": "Beskar-armored Mandalorian bounty hunter with rifle in rocky frontier landscape twilight. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/din-djarin-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "director-krennic",
+    "name": "Director Krennic",
+    "prompt": "Cinematic portrait scene of a imperial director, The ambitious Imperial officer who oversaw the Death Star project and ruthlessly eliminated anyone in his way.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/director-krennic-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "dorme",
+    "name": "Dorm\u00e9",
+    "prompt": "Cinematic portrait scene of a handmaiden, One of Padm\u00e9 Amidala's loyal handmaidens who served as decoy and confidante during the Separatist crisis, risking her life to protect the senator's identity\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/dorme-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "dr-pershing",
+    "name": "Dr. Pershing",
+    "prompt": "Cinematic portrait scene of a imperial scientist, A Kaminoan-trained scientist recruited by Moff Gideon to study Grogu's blood for cloning research tied to the Emperor's posthumous designs.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/dr-pershing-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "dryden-vos",
+    "name": "Dryden Vos",
+    "prompt": "Cinematic portrait scene of a crimson dawn leader, A scarred near-human crime lord who led Crimson Dawn from his yacht, manipulating Han Solo and Qi'ra until betrayal ended his reign in a violent standoff.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/dryden-vos-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "echo",
+    "name": "Echo",
+    "prompt": "Cinematic portrait scene of a clone commando, An ARC trooper believed dead on Lola Sayu who was rescued from Separatist captivity and joined the Bad Batch.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/echo-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "enfys-nest",
+    "name": "Enfys Nest",
+    "prompt": "Cinematic portrait scene of a cloud-riders leader, The masked leader of the Cloud-Riders who fought Crimson Dawn and revealed herself as a revolutionary building an alliance against galactic exploitation.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/enfys-nest-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "fennec-shand",
+    "name": "Fennec Shand",
+    "prompt": "Cinematic portrait scene of a assassin, A deadly sharpshooter who worked as a bounty hunter before becoming Boba Fett's right hand on Tatooine.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/fennec-shand-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "finn",
+    "name": "Finn",
+    "prompt": "Former stormtrooper without helmet in Resistance jacket on tropical base runway. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/finn-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "fives",
+    "name": "Fives",
+    "prompt": "Cinematic portrait scene of a arc trooper, A clone who uncovered the inhibitor chip conspiracy before being silenced by his own brothers.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/fives-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "gar-saxon",
+    "name": "Gar Saxon",
+    "prompt": "Cinematic portrait scene of a imperial super commando, Mandalore's Imperial viceroy who enforced occupation with brutality until Bo-Katan Kryze and Sabine Wren ended his tyranny in a civil war for Mandalore's soul.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/gar-saxon-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "general-grievous",
+    "name": "General Grievous",
+    "prompt": "Cyborg general with four arms and cape on Separatist flagship bridge. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/general-grievous-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "general-hux",
+    "name": "General Hux",
+    "prompt": "Cinematic portrait scene of a first order general, A fanatical First Order general who commanded Starkiller Base and rivaled Kylo Ren for Snoke's favor.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/general-hux-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "governor-pryce",
+    "name": "Governor Pryce",
+    "prompt": "Cinematic portrait scene of a imperial governor, Lothal's ambitious Imperial governor who destroyed her homeworld's economy chasing promotion, clashing with the Ghost crew until her defeat at the Lothal\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/governor-pryce-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "grand-moff-tarkin",
+    "name": "Grand Moff Tarkin",
+    "prompt": "Cinematic portrait scene of a imperial governor, The cold and calculating governor who commanded the Death Star and destroyed Alderaan to terrify the galaxy.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/grand-moff-tarkin-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "greef-karga",
+    "name": "Greef Karga",
+    "prompt": "Cinematic portrait scene of a bounty hunter guild agent, A Magistrate and former Guild agent on Nevarro who became an ally to Din Djarin and Grogu.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/greef-karga-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "han-solo",
+    "name": "Han Solo",
+    "prompt": "Corellian smuggler in vest and boots beside the Millennium Falcon in a dusty spaceport hangar at sunset. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/han-solo-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "hera-syndulla",
+    "name": "Hera Syndulla",
+    "prompt": "Cinematic portrait scene of a rebel pilot, The Twi'lek captain of the Ghost who led Phoenix Squadron and became a general in the Rebel Alliance.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/hera-syndulla-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "hk-47",
+    "name": "HK-47",
+    "prompt": "Cinematic portrait scene of a assassin droid, A sarcastic assassin droid built by Revan who delighted in precision violence and calling organics meatbags.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/hk-47-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "hondo-ohnaka",
+    "name": "Hondo Ohnaka",
+    "prompt": "Cinematic portrait scene of a pirate captain, A Weequay pirate king whose charming schemes and shifting loyalties made him a recurring thorn for heroes and villains alike.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/hondo-ohnaka-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "hunter",
+    "name": "Hunter",
+    "prompt": "Cinematic portrait scene of a clone sergeant, The leader of Clone Force 99 who protected his squad of genetically enhanced troopers through the fall of the Republic.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/hunter-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "ig-11",
+    "name": "IG-11",
+    "prompt": "Cinematic portrait scene of a assassin droid, A reprogrammed nurse droid who sacrificed himself protecting Grogu on Nevarro.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/ig-11-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "jabba-the-hutt",
+    "name": "Jabba the Hutt",
+    "prompt": "Massive slug crime lord on throne dais in smoky palace chamber with alien court. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/jabba-the-hutt-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "jango-fett",
+    "name": "Jango Fett",
+    "prompt": "Cinematic portrait scene of a bounty hunter, The Mandalorian-foundling template for the clone army and father of Boba Fett.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/jango-fett-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "jar-jar-binks",
+    "name": "Jar Jar Binks",
+    "prompt": "Tall amphibious alien in regal Gungan attire on Naboo plaza with waterfalls and golden domes. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/jar-jar-binks-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "jolee-bindo",
+    "name": "Jolee Bindo",
+    "prompt": "Cinematic portrait scene of a hermit jedi, A cynical former Jedi who exiled himself on Kashyyyk's shadowlands, offering Revan unorthodox wisdom about the Force, love, and the gray paths between light\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/jolee-bindo-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "jyn-erso",
+    "name": "Jyn Erso",
+    "prompt": "Cinematic portrait scene of a rebel soldier, A reluctant fighter who rallied Rogue One to steal the Death Star plans and complete her father's work.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/jyn-erso-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "k-2so",
+    "name": "K-2SO",
+    "prompt": "Cinematic portrait scene of a security droid, A reprogrammed Imperial security droid whose blunt honesty and combat skills served Cassian Andor's mission.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/k-2so-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "kuiil",
+    "name": "Kuiil",
+    "prompt": "Cinematic portrait scene of a ugnaught mechanic, A patient moisture farmer and mechanic on Arvala-7 who helped Din Djarin and declared he had spoken.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/kuiil-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "lando-calrissian",
+    "name": "Lando Calrissian",
+    "prompt": "Suave administrator in cape before Cloud City tibanna sunset skyline. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/lando-calrissian-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "leia-organa",
+    "name": "Leia Organa",
+    "prompt": "Regal rebel leader in white diplomatic robes aboard a starship bridge with starfield viewport. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/leia-organa-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "lor-san-tekka",
+    "name": "Lor San Tekka",
+    "prompt": "Cinematic portrait scene of a church of the force elder, An explorer and faith keeper who guarded map fragments to Luke Skywalker until the First Order's Kylo Ren executed him on Jakku searching for the missing Jedi.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/lor-san-tekka-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "luthen-rael",
+    "name": "Luthen Rael",
+    "prompt": "Cinematic portrait scene of a rebel handler, A secretive antiquities dealer who built and sacrificed everything to fund the early Rebel insurgency.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/luthen-rael-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "maz-kanata",
+    "name": "Maz Kanata",
+    "prompt": "Cinematic portrait scene of a pirate queen, An ancient pirate queen on Takodana who counseled heroes and guarded Luke Skywalker's lightsaber for years.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/maz-kanata-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "mission-vao",
+    "name": "Mission Vao",
+    "prompt": "Cinematic portrait scene of a scoundrel, A quick-witted Twi'lek orphan from Taris who joined Revan's crew alongside her Wookiee companion Zaalbar.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/mission-vao-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "moff-gideon",
+    "name": "Moff Gideon",
+    "prompt": "Imperial remnant leader in black cape with dark troopers in cruiser hangar. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/moff-gideon-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "mon-mothma",
+    "name": "Mon Mothma",
+    "prompt": "Calm rebel chancellor in senatorial robes in hidden war room with holo maps. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/mon-mothma-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "morgan-elsbeth",
+    "name": "Morgan Elsbeth",
+    "prompt": "Cinematic portrait scene of a magistrate, A Nightsister survivor who ruled Corvus and served Grand Admiral Thrawn as a magistrate and dark acolyte.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/morgan-elsbeth-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "nute-gunray",
+    "name": "Nute Gunray",
+    "prompt": "Cinematic portrait scene of a trade federation viceroy, The cowardly Neimoidian leader who blockaded Naboo and later served the Separatist cause during the Clone Wars.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/nute-gunray-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "omega",
+    "name": "Omega",
+    "prompt": "Cinematic portrait scene of a clone, An unmodified female clone who served as the heart of Clone Force 99 and held the key to their future.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/omega-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "onaconda-farr",
+    "name": "Onaconda Farr",
+    "prompt": "Cinematic portrait scene of a senator, Rodian senator from Savareen whose desperation during the Clone Wars led him to briefly betray Padm\u00e9 Amidala before redeeming himself with a sacrificial act in\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/onaconda-farr-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "owen-lars",
+    "name": "Owen Lars",
+    "prompt": "Cinematic portrait scene of a moisture farmer, Luke Skywalker's cautious uncle who raised him on Tatooine and tried to keep him from his Jedi destiny.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/owen-lars-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "padme-amidala",
+    "name": "Padm\u00e9 Amidala",
+    "prompt": "Elegant senator in ornate Naboo royal gown in Theed palace garden with soft light. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/padme-amidala-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "poe-dameron",
+    "name": "Poe Dameron",
+    "prompt": "Cinematic portrait scene of a resistance pilot, The Resistance's best starfighter pilot whose daring raids and leadership challenged the First Order.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/poe-dameron-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "qira",
+    "name": "Qi'ra",
+    "prompt": "Cinematic portrait scene of a crimson dawn lieutenant, Han Solo's former partner who rose through the criminal underworld to serve Dryden Vos and Crimson Dawn.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/qira-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "r2-d2",
+    "name": "R2-D2",
+    "prompt": "Cinematic portrait scene of a astromech droid, A brave astromech droid who served generations of heroes from the Clone Wars through the Resistance.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/r2-d2-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "rey",
+    "name": "Rey",
+    "prompt": "Jakku scavenger with staff and desert wraps amid starship wreckage under harsh sun. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/rey-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "ric-olie",
+    "name": "Ric Oli\u00e9",
+    "prompt": "Cinematic portrait scene of a naboo pilot, A veteran Naboo Royal Space Fighter Corps pilot who flew the queen's starship through the blockade and later led Bravo Squadron against the Trade Federation\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/ric-olie-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "rio-durant",
+    "name": "Rio Durant",
+    "prompt": "Cinematic portrait scene of a ardennian pilot, A four-armed Ardennian pilot and Beckett crew member whose cheerful competence ended when he was killed during the failed Vandor coaxium robbery.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/rio-durant-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "rose-tico",
+    "name": "Rose Tico",
+    "prompt": "Cinematic portrait scene of a resistance mechanic, A Canto Bight maintenance worker who joined the Resistance after losing her sister Paige, teaching Finn that saving what you love matters more than destroying\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/rose-tico-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "rush-clovis",
+    "name": "Rush Clovis",
+    "prompt": "Cinematic portrait scene of a banking clan senator, A charismatic InterGalactic Banking Clan operative entangled with Padm\u00e9 Amidala and Anakin Skywalker's jealousy, whose schemes drew him into Separatist finance\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/rush-clovis-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "sabine-wren",
+    "name": "Sabine Wren",
+    "prompt": "Cinematic portrait scene of a mandalorian artist, A Mandalorian explosives expert and graffiti artist who helped ignite the rebellion on Lothal.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/sabine-wren-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "satine-kryze",
+    "name": "Satine Kryze",
+    "prompt": "Cinematic portrait scene of a duchess of mandalore, The pacifist ruler of Mandalore who fought to keep her world neutral during the Clone Wars.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/satine-kryze-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "saw-gerrera",
+    "name": "Saw Gerrera",
+    "prompt": "Cinematic portrait scene of a partisan leader, An Onderonian freedom fighter whose extremist methods made him both ally and liability to the Rebellion.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/saw-gerrera-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "sebulba",
+    "name": "Sebulba",
+    "prompt": "Cinematic portrait scene of a podracer pilot, A ruthless Dug podracing champion on Tatooine who sabotaged rivals and nearly killed Anakin Skywalker during the Boonta Eve Classic before the young human won\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/sebulba-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "shmi-skywalker",
+    "name": "Shmi Skywalker",
+    "prompt": "Kind mother figure in humble Tatooine robes at moisture farm doorway with warm amber sunset. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/shmi-skywalker-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "snap-wexley",
+    "name": "Snap Wexley",
+    "prompt": "Cinematic portrait scene of a resistance pilot, A veteran Rebellion pilot who flew at Endor and later led Black Squadron until his death during the assault on Starkiller Base flying alongside Poe Dameron.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/snap-wexley-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "sy-snootles",
+    "name": "Sy Snootles",
+    "prompt": "Cinematic portrait scene of a singer, A Pa'lowick singer and spy for the Hutt Clan who infiltrated Ziro's entourage and assassinated him on Teth to protect Jabba's criminal interests.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/sy-snootles-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "t3-m4",
+    "name": "T3-M4",
+    "prompt": "Cinematic portrait scene of a utility droid, A custom utility droid who served Revan with hacking skills and unwavering loyalty across the Jedi Civil War.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/t3-m4-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "tech",
+    "name": "Tech",
+    "prompt": "Cinematic portrait scene of a clone commando, The Bad Batch's genius technician who could slice systems, decode languages, and engineer solutions under fire.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/tech-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "temmin-wexley",
+    "name": "Temmin Wexley",
+    "prompt": "Cinematic portrait scene of a resistance pilot, Snap Wexley's son and a skilled pilot-mechanic from Akiva who flew with Black Squadron and helped the Resistance against the First Order alongside his droid\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/temmin-wexley-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "the-armorer",
+    "name": "The Armorer",
+    "prompt": "Cinematic portrait scene of a mandalorian smith, A mysterious Mandalorian keeper of the covert forge on Nevarro who forged Din Djarin's beskar armor and guarded the secrets of the Darksaber and Mandalorian\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/the-armorer-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "thrawn",
+    "name": "Thrawn",
+    "prompt": "Blue-skinned Chiss admiral studying art holograms on Star Destroyer bridge. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/thrawn-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "tobias-beckett",
+    "name": "Tobias Beckett",
+    "prompt": "Cinematic portrait scene of a criminal mentor, A seasoned outlaw who mentored Han Solo during a coaxium heist before attempting to double-cross the young smuggler and dying on Savareen.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/tobias-beckett-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "unkar-plutt",
+    "name": "Unkar Plutt",
+    "prompt": "Cinematic portrait scene of a jakku scrapper, A Crolute junk boss on Jakku who exploited scavengers including Rey for rations until she escaped offworld with BB-8 and Finn toward a destiny among the stars.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/unkar-plutt-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "val",
+    "name": "Val",
+    "prompt": "Cinematic portrait scene of a professional thief, Tobias Beckett's partner and wife whose sacrifice during the Vandor train heist forced Beckett down a path of increasingly ruthless survival.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/val-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "watto",
+    "name": "Watto",
+    "prompt": "Cinematic portrait scene of a junk dealer, A Toydarian junk shop owner on Tatooine who owned Anakin and Shmi Skywalker until Qui-Gon Jinn won the boy's freedom in a podrace wager with a rigged chance\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/watto-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "wedge-antilles",
+    "name": "Wedge Antilles",
+    "prompt": "Cinematic portrait scene of a rebel pilot, A Corellian pilot who survived both Death Star runs and became a founding hero of Rogue Squadron.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/wedge-antilles-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "wrecker",
+    "name": "Wrecker",
+    "prompt": "Cinematic portrait scene of a clone commando, The Bad Batch's powerhouse demolitions expert whose love of explosions was matched only by his loyalty to his squad.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/wrecker-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "zaalbar",
+    "name": "Zaalbar",
+    "prompt": "Cinematic portrait scene of a wookiee warrior, Mission Vao's loyal Wookiee companion whose life-debt and ferocious strength aided Revan during the Jedi Civil War on Taris and beyond.. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/zaalbar-scene.png"
+  },
+  {
+    "category": "characters",
+    "slug": "ziro-the-hutt",
+    "name": "Ziro the Hutt",
+    "prompt": "Cinematic portrait scene of a crime lord, Jabba the Hutt's flamboyant uncle who conspired with Count Dooku to kidnap Rotta the Huttlet and later paid Sy Snootles to silence him before the galaxy's\u2026. Dramatic character-focused composition with environment reflecting their story. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/characters/ziro-the-hutt-scene.png"
+  }
+]

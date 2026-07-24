@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/ahch-to.svg",
-      "caption": "Globe view of Ahch-To"
-    },
-    {
-      "path": "/images/planets/ahch-to-scene.svg",
-      "caption": "Surface landscape of Ahch-To"
-    },
-    {
-      "path": "/images/planets/ahch-to-chart.svg",
-      "caption": "Star chart marker for Ahch-To"
+      "path": "/images/planets/ahch-to-hero.png",
+      "caption": "Cinematic view of Ahch-To"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/peridea.svg",
-      "caption": "Globe view of Peridea"
-    },
-    {
-      "path": "/images/planets/peridea-scene.svg",
-      "caption": "Surface landscape of Peridea"
-    },
-    {
-      "path": "/images/planets/peridea-chart.svg",
-      "caption": "Star chart marker for Peridea"
+      "path": "/images/planets/peridea-hero.png",
+      "caption": "Cinematic view of Peridea"
     }
   ]
 }

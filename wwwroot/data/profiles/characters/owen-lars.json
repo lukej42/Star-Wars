@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/owen-lars.png",
-      "caption": "Portrait of Owen Lars"
-    },
-    {
-      "path": "/images/characters/owen-lars-scene.svg",
-      "caption": "Scene from the life of Owen Lars"
-    },
-    {
-      "path": "/images/characters/owen-lars-emblem.svg",
-      "caption": "Insignia associated with Owen Lars"
+      "path": "/images/characters/owen-lars-scene.png",
+      "caption": "Cinematic illustration — Owen Lars"
     }
   ]
 }

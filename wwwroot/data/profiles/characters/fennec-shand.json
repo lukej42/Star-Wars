@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/fennec-shand.png",
-      "caption": "Portrait of Fennec Shand"
-    },
-    {
-      "path": "/images/characters/fennec-shand-scene.svg",
-      "caption": "Scene from the life of Fennec Shand"
-    },
-    {
-      "path": "/images/characters/fennec-shand-emblem.svg",
-      "caption": "Insignia associated with Fennec Shand"
+      "path": "/images/characters/fennec-shand-scene.png",
+      "caption": "Cinematic illustration — Fennec Shand"
     }
   ]
 }

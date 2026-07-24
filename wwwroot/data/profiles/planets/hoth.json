@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/hoth-space.png",
-      "caption": "Globe view of Hoth"
-    },
-    {
-      "path": "/images/planets/hoth-scene.svg",
-      "caption": "Surface landscape of Hoth"
-    },
-    {
-      "path": "/images/planets/hoth-chart.svg",
-      "caption": "Star chart marker for Hoth"
+      "path": "/images/planets/hoth-hero.png",
+      "caption": "Cinematic view of Hoth"
     }
   ]
 }

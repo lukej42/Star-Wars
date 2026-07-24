@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/wedge-antilles.png",
-      "caption": "Portrait of Wedge Antilles"
-    },
-    {
-      "path": "/images/characters/wedge-antilles-scene.svg",
-      "caption": "Scene from the life of Wedge Antilles"
-    },
-    {
-      "path": "/images/characters/wedge-antilles-emblem.svg",
-      "caption": "Insignia associated with Wedge Antilles"
+      "path": "/images/characters/wedge-antilles-scene.png",
+      "caption": "Cinematic illustration — Wedge Antilles"
     }
   ]
 }

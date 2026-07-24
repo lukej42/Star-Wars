@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/geonosis.svg",
-      "caption": "Globe view of Geonosis"
-    },
-    {
-      "path": "/images/planets/geonosis-scene.svg",
-      "caption": "Surface landscape of Geonosis"
-    },
-    {
-      "path": "/images/planets/geonosis-chart.svg",
-      "caption": "Star chart marker for Geonosis"
+      "path": "/images/planets/geonosis-hero.png",
+      "caption": "Cinematic view of Geonosis"
     }
   ]
 }

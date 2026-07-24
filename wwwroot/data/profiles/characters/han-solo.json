@@ -41,21 +41,13 @@
     },
     {
       "era": "First Order",
-      "event": "Attempted to reach his son Ben Solo on Starkiller Base"
+      "event": "Attempted to reach Ben Solo on Starkiller Base"
     }
   ],
   "gallery": [
     {
-      "path": "/images/characters/han-solo.png",
-      "caption": "Portrait of Han Solo"
-    },
-    {
-      "path": "/images/characters/han-solo-scene.svg",
-      "caption": "Scene from the life of Han Solo"
-    },
-    {
-      "path": "/images/characters/han-solo-emblem.svg",
-      "caption": "Insignia associated with Han Solo"
+      "path": "/images/characters/han-solo-scene.png",
+      "caption": "Cinematic illustration — Han Solo"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/saw-gerrera.png",
-      "caption": "Portrait of Saw Gerrera"
-    },
-    {
-      "path": "/images/characters/saw-gerrera-scene.svg",
-      "caption": "Scene from the life of Saw Gerrera"
-    },
-    {
-      "path": "/images/characters/saw-gerrera-emblem.svg",
-      "caption": "Insignia associated with Saw Gerrera"
+      "path": "/images/characters/saw-gerrera-scene.png",
+      "caption": "Cinematic illustration — Saw Gerrera"
     }
   ]
 }

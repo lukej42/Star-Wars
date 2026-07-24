@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/kamino.svg",
-      "caption": "Globe view of Kamino"
-    },
-    {
-      "path": "/images/planets/kamino-scene.svg",
-      "caption": "Surface landscape of Kamino"
-    },
-    {
-      "path": "/images/planets/kamino-chart.svg",
-      "caption": "Star chart marker for Kamino"
+      "path": "/images/planets/kamino-hero.png",
+      "caption": "Cinematic view of Kamino"
     }
   ]
 }

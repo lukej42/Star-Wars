@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/felucia.svg",
-      "caption": "Globe view of Felucia"
-    },
-    {
-      "path": "/images/planets/felucia-scene.svg",
-      "caption": "Surface landscape of Felucia"
-    },
-    {
-      "path": "/images/planets/felucia-chart.svg",
-      "caption": "Star chart marker for Felucia"
+      "path": "/images/planets/felucia-hero.png",
+      "caption": "Cinematic view of Felucia"
     }
   ]
 }

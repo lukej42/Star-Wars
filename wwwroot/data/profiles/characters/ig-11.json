@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/ig-11.png",
-      "caption": "Portrait of IG-11"
-    },
-    {
-      "path": "/images/characters/ig-11-scene.svg",
-      "caption": "Scene from the life of IG-11"
-    },
-    {
-      "path": "/images/characters/ig-11-emblem.svg",
-      "caption": "Insignia associated with IG-11"
+      "path": "/images/characters/ig-11-scene.png",
+      "caption": "Cinematic illustration — IG-11"
     }
   ]
 }

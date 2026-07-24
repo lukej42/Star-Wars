@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/bo-katan-kryze.png",
-      "caption": "Portrait of Bo-Katan Kryze"
-    },
-    {
-      "path": "/images/characters/bo-katan-kryze-scene.svg",
-      "caption": "Scene from the life of Bo-Katan Kryze"
-    },
-    {
-      "path": "/images/characters/bo-katan-kryze-emblem.svg",
-      "caption": "Insignia associated with Bo-Katan Kryze"
+      "path": "/images/characters/bo-katan-kryze-scene.png",
+      "caption": "Cinematic illustration — Bo-Katan Kryze"
     }
   ]
 }

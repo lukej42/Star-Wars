@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/kef-bir.svg",
-      "caption": "Globe view of Kef Bir"
-    },
-    {
-      "path": "/images/planets/kef-bir-scene.svg",
-      "caption": "Surface landscape of Kef Bir"
-    },
-    {
-      "path": "/images/planets/kef-bir-chart.svg",
-      "caption": "Star chart marker for Kef Bir"
+      "path": "/images/planets/kef-bir-hero.png",
+      "caption": "Cinematic view of Kef Bir"
     }
   ]
 }

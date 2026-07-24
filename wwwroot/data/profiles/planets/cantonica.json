@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/cantonica.svg",
-      "caption": "Globe view of Cantonica"
-    },
-    {
-      "path": "/images/planets/cantonica-scene.svg",
-      "caption": "Surface landscape of Cantonica"
-    },
-    {
-      "path": "/images/planets/cantonica-chart.svg",
-      "caption": "Star chart marker for Cantonica"
+      "path": "/images/planets/cantonica-hero.png",
+      "caption": "Cinematic view of Cantonica"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/tech.png",
-      "caption": "Portrait of Tech"
-    },
-    {
-      "path": "/images/characters/tech-scene.svg",
-      "caption": "Scene from the life of Tech"
-    },
-    {
-      "path": "/images/characters/tech-emblem.svg",
-      "caption": "Insignia associated with Tech"
+      "path": "/images/characters/tech-scene.png",
+      "caption": "Cinematic illustration — Tech"
     }
   ]
 }

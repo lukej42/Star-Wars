@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/mon-cala.svg",
-      "caption": "Globe view of Mon Cala"
-    },
-    {
-      "path": "/images/planets/mon-cala-scene.svg",
-      "caption": "Surface landscape of Mon Cala"
-    },
-    {
-      "path": "/images/planets/mon-cala-chart.svg",
-      "caption": "Star chart marker for Mon Cala"
+      "path": "/images/planets/mon-cala-hero.png",
+      "caption": "Cinematic view of Mon Cala"
     }
   ]
 }

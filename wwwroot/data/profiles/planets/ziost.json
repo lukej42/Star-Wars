@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/ziost.svg",
-      "caption": "Globe view of Ziost"
-    },
-    {
-      "path": "/images/planets/ziost-scene.svg",
-      "caption": "Surface landscape of Ziost"
-    },
-    {
-      "path": "/images/planets/ziost-chart.svg",
-      "caption": "Star chart marker for Ziost"
+      "path": "/images/planets/ziost-hero.png",
+      "caption": "Cinematic view of Ziost"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/wrecker.png",
-      "caption": "Portrait of Wrecker"
-    },
-    {
-      "path": "/images/characters/wrecker-scene.svg",
-      "caption": "Scene from the life of Wrecker"
-    },
-    {
-      "path": "/images/characters/wrecker-emblem.svg",
-      "caption": "Insignia associated with Wrecker"
+      "path": "/images/characters/wrecker-scene.png",
+      "caption": "Cinematic illustration — Wrecker"
     }
   ]
 }

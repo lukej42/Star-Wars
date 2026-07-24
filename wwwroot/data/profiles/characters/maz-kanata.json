@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/maz-kanata.png",
-      "caption": "Portrait of Maz Kanata"
-    },
-    {
-      "path": "/images/characters/maz-kanata-scene.svg",
-      "caption": "Scene from the life of Maz Kanata"
-    },
-    {
-      "path": "/images/characters/maz-kanata-emblem.svg",
-      "caption": "Insignia associated with Maz Kanata"
+      "path": "/images/characters/maz-kanata-scene.png",
+      "caption": "Cinematic illustration — Maz Kanata"
     }
   ]
 }

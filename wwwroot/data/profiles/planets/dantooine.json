@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/dantooine-space.png",
-      "caption": "Globe view of Dantooine"
-    },
-    {
-      "path": "/images/planets/dantooine-scene.svg",
-      "caption": "Surface landscape of Dantooine"
-    },
-    {
-      "path": "/images/planets/dantooine-chart.svg",
-      "caption": "Star chart marker for Dantooine"
+      "path": "/images/planets/dantooine-hero.png",
+      "caption": "Cinematic view of Dantooine"
     }
   ]
 }

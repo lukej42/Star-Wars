@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/jango-fett.png",
-      "caption": "Portrait of Jango Fett"
-    },
-    {
-      "path": "/images/characters/jango-fett-scene.svg",
-      "caption": "Scene from the life of Jango Fett"
-    },
-    {
-      "path": "/images/characters/jango-fett-emblem.svg",
-      "caption": "Insignia associated with Jango Fett"
+      "path": "/images/characters/jango-fett-scene.png",
+      "caption": "Cinematic illustration — Jango Fett"
     }
   ]
 }

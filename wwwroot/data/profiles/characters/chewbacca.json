@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/chewbacca.png",
-      "caption": "Portrait of Chewbacca"
-    },
-    {
-      "path": "/images/characters/chewbacca-scene.svg",
-      "caption": "Scene from the life of Chewbacca"
-    },
-    {
-      "path": "/images/characters/chewbacca-emblem.svg",
-      "caption": "Insignia associated with Chewbacca"
+      "path": "/images/characters/chewbacca-scene.png",
+      "caption": "Cinematic illustration — Chewbacca"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/echo.png",
-      "caption": "Portrait of Echo"
-    },
-    {
-      "path": "/images/characters/echo-scene.svg",
-      "caption": "Scene from the life of Echo"
-    },
-    {
-      "path": "/images/characters/echo-emblem.svg",
-      "caption": "Insignia associated with Echo"
+      "path": "/images/characters/echo-scene.png",
+      "caption": "Cinematic illustration — Echo"
     }
   ]
 }

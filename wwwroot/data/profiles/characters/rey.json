@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/rey.png",
-      "caption": "Portrait of Rey"
-    },
-    {
-      "path": "/images/characters/rey-scene.svg",
-      "caption": "Scene from the life of Rey"
-    },
-    {
-      "path": "/images/characters/rey-emblem.svg",
-      "caption": "Insignia associated with Rey"
+      "path": "/images/characters/rey-scene.png",
+      "caption": "Cinematic illustration — Rey"
     }
   ]
 }

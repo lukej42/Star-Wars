@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/lothal.svg",
-      "caption": "Globe view of Lothal"
-    },
-    {
-      "path": "/images/planets/lothal-scene.svg",
-      "caption": "Surface landscape of Lothal"
-    },
-    {
-      "path": "/images/planets/lothal-chart.svg",
-      "caption": "Star chart marker for Lothal"
+      "path": "/images/planets/lothal-hero.png",
+      "caption": "Cinematic view of Lothal"
     }
   ]
 }

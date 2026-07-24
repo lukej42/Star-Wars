@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/hunter.png",
-      "caption": "Portrait of Hunter"
-    },
-    {
-      "path": "/images/characters/hunter-scene.svg",
-      "caption": "Scene from the life of Hunter"
-    },
-    {
-      "path": "/images/characters/hunter-emblem.svg",
-      "caption": "Insignia associated with Hunter"
+      "path": "/images/characters/hunter-scene.png",
+      "caption": "Cinematic illustration — Hunter"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/rakata-prime.svg",
-      "caption": "Globe view of Rakata Prime"
-    },
-    {
-      "path": "/images/planets/rakata-prime-scene.svg",
-      "caption": "Surface landscape of Rakata Prime"
-    },
-    {
-      "path": "/images/planets/rakata-prime-chart.svg",
-      "caption": "Star chart marker for Rakata Prime"
+      "path": "/images/planets/rakata-prime-hero.png",
+      "caption": "Cinematic view of Rakata Prime"
     }
   ]
 }

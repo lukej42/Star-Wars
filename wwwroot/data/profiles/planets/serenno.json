@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/serenno.svg",
-      "caption": "Globe view of Serenno"
-    },
-    {
-      "path": "/images/planets/serenno-scene.svg",
-      "caption": "Surface landscape of Serenno"
-    },
-    {
-      "path": "/images/planets/serenno-chart.svg",
-      "caption": "Star chart marker for Serenno"
+      "path": "/images/planets/serenno-hero.png",
+      "caption": "Cinematic view of Serenno"
     }
   ]
 }

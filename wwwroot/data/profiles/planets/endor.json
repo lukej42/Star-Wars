@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/endor.svg",
-      "caption": "Globe view of Endor"
-    },
-    {
-      "path": "/images/planets/endor-scene.svg",
-      "caption": "Surface landscape of Endor"
-    },
-    {
-      "path": "/images/planets/endor-chart.svg",
-      "caption": "Star chart marker for Endor"
+      "path": "/images/planets/endor-hero.png",
+      "caption": "Cinematic view of Endor"
     }
   ]
 }

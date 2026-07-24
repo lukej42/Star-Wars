@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/bb-8.png",
-      "caption": "Portrait of BB-8"
-    },
-    {
-      "path": "/images/characters/bb-8-scene.svg",
-      "caption": "Scene from the life of BB-8"
-    },
-    {
-      "path": "/images/characters/bb-8-emblem.svg",
-      "caption": "Insignia associated with BB-8"
+      "path": "/images/characters/bb-8-scene.png",
+      "caption": "Cinematic illustration — BB-8"
     }
   ]
 }

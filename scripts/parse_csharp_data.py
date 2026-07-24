@@ -51,6 +51,14 @@ def all_directory_entries() -> dict[str, list[dict[str, str]]]:
     }
 
 
+def load_planets() -> list[dict[str, str]]:
+    return [normalize(e) for e in load_category("GalaxyData.cs")]
+
+
+def load_characters() -> list[dict[str, str]]:
+    return [normalize(e) for e in load_category("CharacterData.cs")]
+
+
 if __name__ == "__main__":
     entries = all_directory_entries()
     for cat, items in entries.items():

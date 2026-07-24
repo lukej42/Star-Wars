@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/crosshair.png",
-      "caption": "Portrait of Crosshair"
-    },
-    {
-      "path": "/images/characters/crosshair-scene.svg",
-      "caption": "Scene from the life of Crosshair"
-    },
-    {
-      "path": "/images/characters/crosshair-emblem.svg",
-      "caption": "Insignia associated with Crosshair"
+      "path": "/images/characters/crosshair-scene.png",
+      "caption": "Cinematic illustration — Crosshair"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/christophsis.svg",
-      "caption": "Globe view of Christophsis"
-    },
-    {
-      "path": "/images/planets/christophsis-scene.svg",
-      "caption": "Surface landscape of Christophsis"
-    },
-    {
-      "path": "/images/planets/christophsis-chart.svg",
-      "caption": "Star chart marker for Christophsis"
+      "path": "/images/planets/christophsis-hero.png",
+      "caption": "Cinematic view of Christophsis"
     }
   ]
 }

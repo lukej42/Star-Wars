@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/commander-cody.png",
-      "caption": "Portrait of Commander Cody"
-    },
-    {
-      "path": "/images/characters/commander-cody-scene.svg",
-      "caption": "Scene from the life of Commander Cody"
-    },
-    {
-      "path": "/images/characters/commander-cody-emblem.svg",
-      "caption": "Insignia associated with Commander Cody"
+      "path": "/images/characters/commander-cody-scene.png",
+      "caption": "Cinematic illustration — Commander Cody"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/hondo-ohnaka.png",
-      "caption": "Portrait of Hondo Ohnaka"
-    },
-    {
-      "path": "/images/characters/hondo-ohnaka-scene.svg",
-      "caption": "Scene from the life of Hondo Ohnaka"
-    },
-    {
-      "path": "/images/characters/hondo-ohnaka-emblem.svg",
-      "caption": "Insignia associated with Hondo Ohnaka"
+      "path": "/images/characters/hondo-ohnaka-scene.png",
+      "caption": "Cinematic illustration — Hondo Ohnaka"
     }
   ]
 }

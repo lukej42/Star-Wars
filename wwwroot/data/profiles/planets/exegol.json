@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/exegol.svg",
-      "caption": "Globe view of Exegol"
-    },
-    {
-      "path": "/images/planets/exegol-scene.svg",
-      "caption": "Surface landscape of Exegol"
-    },
-    {
-      "path": "/images/planets/exegol-chart.svg",
-      "caption": "Star chart marker for Exegol"
+      "path": "/images/planets/exegol-hero.png",
+      "caption": "Cinematic view of Exegol"
     }
   ]
 }

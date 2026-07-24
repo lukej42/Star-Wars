@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/atton-rand.png",
-      "caption": "Portrait of Atton Rand"
-    },
-    {
-      "path": "/images/characters/atton-rand-scene.svg",
-      "caption": "Scene from the life of Atton Rand"
-    },
-    {
-      "path": "/images/characters/atton-rand-emblem.svg",
-      "caption": "Insignia associated with Atton Rand"
+      "path": "/images/characters/atton-rand-scene.png",
+      "caption": "Cinematic illustration — Atton Rand"
     }
   ]
 }

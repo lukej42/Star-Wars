@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/polis-massa.svg",
-      "caption": "Globe view of Polis Massa"
-    },
-    {
-      "path": "/images/planets/polis-massa-scene.svg",
-      "caption": "Surface landscape of Polis Massa"
-    },
-    {
-      "path": "/images/planets/polis-massa-chart.svg",
-      "caption": "Star chart marker for Polis Massa"
+      "path": "/images/planets/polis-massa-hero.png",
+      "caption": "Cinematic view of Polis Massa"
     }
   ]
 }

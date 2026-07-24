@@ -1,0 +1,55 @@
+{
+  "overview": "Lor San Tekka stands among the saga's most memorable figures, known throughout the galaxy as a church of the force elder. An explorer and faith keeper who guarded map fragments to Luke Skywalker until the First Order's Kylo Ren executed him on Jakku searching for the missing Jedi. From backwater cantinas to senate chambers and fleet command centers, Lor San Tekka's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
+  "history": "Early life records for Lor San Tekka are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. An explorer and faith keeper who guarded map fragments to Luke Skywalker until the First Order's Kylo Ren executed him on Jakku searching for the missing Jedi. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Lor San Tekka was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Lor San Tekka tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Lor San Tekka. Some entries flatter, others condemn, but historians agree that ignoring Lor San Tekka makes any chronicle of the era incomplete.\n\nModern scholars cite Lor San Tekka when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Lor San Tekka demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
+  "significance": "As a church of the force elder, Lor San Tekka connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Lor San Tekka alive in holodramas, recruitment posters, and cantina songs. The color #78716c often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Lor San Tekka marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "notableEvents": [
+    "First widely documented appearance of Lor San Tekka in galactic records",
+    "Rose to prominence as a church of the force elder during the New Republic",
+    "Survived or orchestrated a pivotal encounter tied to Lor San Tekka's reputation",
+    "Formed alliances that reflected the priorities of their faction and homeworld",
+    "Opposed rivals who threatened Lor San Tekka's crew, family, or command",
+    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
+    "Contributed to a turning point still debated by historians of the Old Republic",
+    "Inspired later generations who retold Lor San Tekka's choices in myth and media"
+  ],
+  "affiliations": [
+    "Church of the Force Elder",
+    "Independent agents",
+    "Allied factions",
+    "Local militias",
+    "Trade consortiums",
+    "Historians' guilds"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Lor San Tekka enters the historical record as a church of the force elder"
+    },
+    {
+      "era": "New Republic",
+      "event": "Builds a reputation during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Acts decisively in events tied to an explorer and faith keeper who guarded map fragments to luke skywalker until the first order's kylo ren executed him on jakku searching for the missing jedi"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as galactic institutions fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Plays a role in campaigns associated with the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated and commemorated across the High Republic"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/lor-san-tekka-scene.png",
+      "caption": "Cinematic illustration — Lor San Tekka"
+    }
+  ]
+}

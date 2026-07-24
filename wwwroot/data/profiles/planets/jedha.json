@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/jedha.svg",
-      "caption": "Globe view of Jedha"
-    },
-    {
-      "path": "/images/planets/jedha-scene.svg",
-      "caption": "Surface landscape of Jedha"
-    },
-    {
-      "path": "/images/planets/jedha-chart.svg",
-      "caption": "Star chart marker for Jedha"
+      "path": "/images/planets/jedha-hero.png",
+      "caption": "Cinematic view of Jedha"
     }
   ]
 }

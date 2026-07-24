@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/crait.svg",
-      "caption": "Globe view of Crait"
-    },
-    {
-      "path": "/images/planets/crait-scene.svg",
-      "caption": "Surface landscape of Crait"
-    },
-    {
-      "path": "/images/planets/crait-chart.svg",
-      "caption": "Star chart marker for Crait"
+      "path": "/images/planets/crait-hero.png",
+      "caption": "Cinematic view of Crait"
     }
   ]
 }

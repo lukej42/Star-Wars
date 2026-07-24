@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/mustafar-space.png",
-      "caption": "Globe view of Mustafar"
-    },
-    {
-      "path": "/images/planets/mustafar-scene.svg",
-      "caption": "Surface landscape of Mustafar"
-    },
-    {
-      "path": "/images/planets/mustafar-chart.svg",
-      "caption": "Star chart marker for Mustafar"
+      "path": "/images/planets/mustafar-hero.png",
+      "caption": "Cinematic view of Mustafar"
     }
   ]
 }

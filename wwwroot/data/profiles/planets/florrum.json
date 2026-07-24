@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/florrum.svg",
-      "caption": "Globe view of Florrum"
-    },
-    {
-      "path": "/images/planets/florrum-scene.svg",
-      "caption": "Surface landscape of Florrum"
-    },
-    {
-      "path": "/images/planets/florrum-chart.svg",
-      "caption": "Star chart marker for Florrum"
+      "path": "/images/planets/florrum-hero.png",
+      "caption": "Cinematic view of Florrum"
     }
   ]
 }

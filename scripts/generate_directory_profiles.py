@@ -1542,19 +1542,17 @@ def gallery_for(entry: dict, category: str) -> list[dict]:
         ]
     if category == "characters":
         return [
-            {"path": portrait, "caption": f"Portrait of {name}"},
-            {"path": f"/images/characters/{slug}-scene.svg", "caption": f"Scene from the life of {name}"},
-            {"path": f"/images/characters/{slug}-emblem.svg", "caption": f"Insignia associated with {name}"},
+            {"path": f"/images/characters/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
         ]
     if category == "ships":
         return [
             {"path": f"/images/ships/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
         ]
-    return [
-        {"path": portrait, "caption": f"Globe view of {name}"},
-        {"path": f"/images/planets/{slug}-scene.svg", "caption": f"Surface landscape of {name}"},
-        {"path": f"/images/planets/{slug}-chart.svg", "caption": f"Star chart marker for {name}"},
-    ]
+    if category == "planets":
+        return [
+            {"path": f"/images/planets/{slug}-hero.png", "caption": f"Cinematic view of {name}"},
+        ]
+    return []
 
 
 def planet_globe_svg(entry: dict) -> str:

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/t3-m4.png",
-      "caption": "Portrait of T3-M4"
-    },
-    {
-      "path": "/images/characters/t3-m4-scene.svg",
-      "caption": "Scene from the life of T3-M4"
-    },
-    {
-      "path": "/images/characters/t3-m4-emblem.svg",
-      "caption": "Insignia associated with T3-M4"
+      "path": "/images/characters/t3-m4-scene.png",
+      "caption": "Cinematic illustration — T3-M4"
     }
   ]
 }

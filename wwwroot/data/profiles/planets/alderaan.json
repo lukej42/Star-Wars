@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/alderaan.svg",
-      "caption": "Globe view of Alderaan"
-    },
-    {
-      "path": "/images/planets/alderaan-scene.svg",
-      "caption": "Surface landscape of Alderaan"
-    },
-    {
-      "path": "/images/planets/alderaan-chart.svg",
-      "caption": "Star chart marker for Alderaan"
+      "path": "/images/planets/alderaan-hero.png",
+      "caption": "Cinematic view of Alderaan"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/jabiim.svg",
-      "caption": "Globe view of Jabiim"
-    },
-    {
-      "path": "/images/planets/jabiim-scene.svg",
-      "caption": "Surface landscape of Jabiim"
-    },
-    {
-      "path": "/images/planets/jabiim-chart.svg",
-      "caption": "Star chart marker for Jabiim"
+      "path": "/images/planets/jabiim-hero.png",
+      "caption": "Cinematic view of Jabiim"
     }
   ]
 }

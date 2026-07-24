@@ -38,20 +38,21 @@ else
 
         builder.OpenComponent<DirectoryDetailShell>(0);
         builder.AddAttribute(1, nameof(DirectoryDetailShell.Name), planet.Name);
-        builder.AddAttribute(2, nameof(DirectoryDetailShell.HeroImagePath), planet.DisplayImagePath);
-        builder.AddAttribute(3, nameof(DirectoryDetailShell.HeroImageAlt), $"Illustration of {planet.Name}");
-        builder.AddAttribute(4, nameof(DirectoryDetailShell.Subtitle), planet.Region);
-        builder.AddAttribute(5, nameof(DirectoryDetailShell.MetaLine), $"Galaxy map coordinates: X {(int)planet.X}, Y {(int)planet.Y}");
-        builder.AddAttribute(6, nameof(DirectoryDetailShell.OverviewText), profile?.Overview ?? planet.Description);
-        builder.AddAttribute(7, nameof(DirectoryDetailShell.HistoryText), profile?.History ?? string.Empty);
-        builder.AddAttribute(8, nameof(DirectoryDetailShell.SignificanceText), profile?.Significance ?? string.Empty);
-        builder.AddAttribute(9, nameof(DirectoryDetailShell.SignificanceHeading), "Environment and culture");
-        builder.AddAttribute(10, nameof(DirectoryDetailShell.NotableEvents), profile?.NotableEvents ?? Array.Empty<string>());
-        builder.AddAttribute(11, nameof(DirectoryDetailShell.Affiliations), profile?.Affiliations ?? Array.Empty<string>());
-        builder.AddAttribute(12, nameof(DirectoryDetailShell.Timeline), profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>());
-        builder.AddAttribute(13, nameof(DirectoryDetailShell.Gallery), profile?.Gallery ?? Array.Empty<ProfileImage>());
-        builder.AddAttribute(14, nameof(DirectoryDetailShell.AccentColor), planet.Color);
-        builder.AddAttribute(15, nameof(DirectoryDetailShell.ChildContent), (RenderFragment)(footerBuilder =>
+        builder.AddAttribute(2, nameof(DirectoryDetailShell.HeroImagePath), planet.HeroImagePath);
+        builder.AddAttribute(3, nameof(DirectoryDetailShell.HeroImageAlt), $"Cinematic view of {planet.Name}");
+        builder.AddAttribute(4, nameof(DirectoryDetailShell.ShowPortraitHero), false);
+        builder.AddAttribute(5, nameof(DirectoryDetailShell.Subtitle), planet.Region);
+        builder.AddAttribute(6, nameof(DirectoryDetailShell.MetaLine), $"Galaxy map coordinates: X {(int)planet.X}, Y {(int)planet.Y}");
+        builder.AddAttribute(7, nameof(DirectoryDetailShell.OverviewText), profile?.Overview ?? planet.Description);
+        builder.AddAttribute(8, nameof(DirectoryDetailShell.HistoryText), profile?.History ?? string.Empty);
+        builder.AddAttribute(9, nameof(DirectoryDetailShell.SignificanceText), profile?.Significance ?? string.Empty);
+        builder.AddAttribute(10, nameof(DirectoryDetailShell.SignificanceHeading), "Environment and culture");
+        builder.AddAttribute(11, nameof(DirectoryDetailShell.NotableEvents), profile?.NotableEvents ?? Array.Empty<string>());
+        builder.AddAttribute(12, nameof(DirectoryDetailShell.Affiliations), profile?.Affiliations ?? Array.Empty<string>());
+        builder.AddAttribute(13, nameof(DirectoryDetailShell.Timeline), profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>());
+        builder.AddAttribute(14, nameof(DirectoryDetailShell.Gallery), profile?.Gallery ?? Array.Empty<ProfileImage>());
+        builder.AddAttribute(15, nameof(DirectoryDetailShell.AccentColor), planet.Color);
+        builder.AddAttribute(16, nameof(DirectoryDetailShell.ChildContent), (RenderFragment)(footerBuilder =>
         {
             footerBuilder.AddMarkupContent(0, """<a href="galaxy-map">Back to Galaxy Map</a>""");
         }));

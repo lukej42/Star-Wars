@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/ajan-kloss.svg",
-      "caption": "Globe view of Ajan Kloss"
-    },
-    {
-      "path": "/images/planets/ajan-kloss-scene.svg",
-      "caption": "Surface landscape of Ajan Kloss"
-    },
-    {
-      "path": "/images/planets/ajan-kloss-chart.svg",
-      "caption": "Star chart marker for Ajan Kloss"
+      "path": "/images/planets/ajan-kloss-hero.png",
+      "caption": "Cinematic view of Ajan Kloss"
     }
   ]
 }

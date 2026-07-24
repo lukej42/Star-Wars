@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/satine-kryze.png",
-      "caption": "Portrait of Satine Kryze"
-    },
-    {
-      "path": "/images/characters/satine-kryze-scene.svg",
-      "caption": "Scene from the life of Satine Kryze"
-    },
-    {
-      "path": "/images/characters/satine-kryze-emblem.svg",
-      "caption": "Insignia associated with Satine Kryze"
+      "path": "/images/characters/satine-kryze-scene.png",
+      "caption": "Cinematic illustration — Satine Kryze"
     }
   ]
 }

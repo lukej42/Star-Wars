@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bespin-space.png",
-      "caption": "Globe view of Bespin"
-    },
-    {
-      "path": "/images/planets/bespin-scene.svg",
-      "caption": "Surface landscape of Bespin"
-    },
-    {
-      "path": "/images/planets/bespin-chart.svg",
-      "caption": "Star chart marker for Bespin"
+      "path": "/images/planets/bespin-hero.png",
+      "caption": "Cinematic view of Bespin"
     }
   ]
 }

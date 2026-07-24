@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/bail-organa.png",
-      "caption": "Portrait of Bail Organa"
-    },
-    {
-      "path": "/images/characters/bail-organa-scene.svg",
-      "caption": "Scene from the life of Bail Organa"
-    },
-    {
-      "path": "/images/characters/bail-organa-emblem.svg",
-      "caption": "Insignia associated with Bail Organa"
+      "path": "/images/characters/bail-organa-scene.png",
+      "caption": "Cinematic illustration — Bail Organa"
     }
   ]
 }

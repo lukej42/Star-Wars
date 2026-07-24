@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/characters/padme-amidala.png",
-      "caption": "Portrait of Padmé Amidala"
-    },
-    {
-      "path": "/images/characters/padme-amidala-scene.svg",
-      "caption": "Scene from the life of Padmé Amidala"
-    },
-    {
-      "path": "/images/characters/padme-amidala-emblem.svg",
-      "caption": "Insignia associated with Padmé Amidala"
+      "path": "/images/characters/padme-amidala-scene.png",
+      "caption": "Cinematic illustration — Padmé Amidala"
     }
   ]
 }

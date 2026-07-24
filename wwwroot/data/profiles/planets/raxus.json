@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/planets/raxus.svg",
-      "caption": "Globe view of Raxus"
-    },
-    {
-      "path": "/images/planets/raxus-scene.svg",
-      "caption": "Surface landscape of Raxus"
-    },
-    {
-      "path": "/images/planets/raxus-chart.svg",
-      "caption": "Star chart marker for Raxus"
+      "path": "/images/planets/raxus-hero.png",
+      "caption": "Cinematic view of Raxus"
     }
   ]
 }

@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/tatooine-space.png",
-      "caption": "Globe view of Tatooine"
-    },
-    {
-      "path": "/images/planets/tatooine-scene.svg",
-      "caption": "Surface landscape of Tatooine"
-    },
-    {
-      "path": "/images/planets/tatooine-chart.svg",
-      "caption": "Star chart marker for Tatooine"
+      "path": "/images/planets/tatooine-hero.png",
+      "caption": "Cinematic view of Tatooine"
     }
   ]
 }
