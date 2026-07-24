@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/interdictor-class.svg",
-      "caption": "Profile view of the Immobilizer 418 Interdictor"
-    },
-    {
-      "path": "/images/ships/interdictor-class-scene.svg",
-      "caption": "Combat deployment — Immobilizer 418 Interdictor"
-    },
-    {
-      "path": "/images/ships/interdictor-class-blueprint.svg",
-      "caption": "Technical schematic — Immobilizer 418 Interdictor"
+      "path": "/images/ships/interdictor-class-scene.png",
+      "caption": "Cinematic illustration — Immobilizer 418 Interdictor"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/bith.svg",
-      "caption": "Emblem — Bith"
-    },
-    {
-      "path": "/images/species/bith-scene.svg",
-      "caption": "Scene illustration — Bith"
+      "path": "/images/species/bith-scene.png",
+      "caption": "Cinematic illustration — Bith"
     }
   ]
 }

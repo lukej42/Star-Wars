@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-crush.svg",
-      "caption": "Emblem — Force Crush"
-    },
-    {
-      "path": "/images/force-powers/force-crush-scene.svg",
-      "caption": "Scene illustration — Force Crush"
+      "path": "/images/force-powers/force-crush-scene.png",
+      "caption": "Cinematic illustration — Force Crush"
     }
   ]
 }

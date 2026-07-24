@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/ortolan.svg",
-      "caption": "Emblem — Ortolan"
-    },
-    {
-      "path": "/images/species/ortolan-scene.svg",
-      "caption": "Scene illustration — Ortolan"
+      "path": "/images/species/ortolan-scene.png",
+      "caption": "Cinematic illustration — Ortolan"
     }
   ]
 }

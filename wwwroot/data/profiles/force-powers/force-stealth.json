@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-stealth.svg",
-      "caption": "Emblem — Force Stealth"
-    },
-    {
-      "path": "/images/force-powers/force-stealth-scene.svg",
-      "caption": "Scene illustration — Force Stealth"
+      "path": "/images/force-powers/force-stealth-scene.png",
+      "caption": "Cinematic illustration — Force Stealth"
     }
   ]
 }

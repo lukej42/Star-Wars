@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/dark-side-burst.svg",
-      "caption": "Emblem — Dark Side Burst"
-    },
-    {
-      "path": "/images/force-powers/dark-side-burst-scene.svg",
-      "caption": "Scene illustration — Dark Side Burst"
+      "path": "/images/force-powers/dark-side-burst-scene.png",
+      "caption": "Cinematic illustration — Dark Side Burst"
     }
   ]
 }

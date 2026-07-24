@@ -19,8 +19,9 @@ else if (!profileLoaded)
 else
 {
     <DirectoryDetailShell Name="@sith.Name"
-                          HeroImagePath="@sith.ImagePath"
-                          HeroImageAlt="@($"Portrait of {sith.Name}")"
+                          HeroImagePath="@sith.SceneImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {sith.Name}")"
+                          ShowPortraitHero="false"
                           Subtitle="@sith.Title"
                           OverviewText="@(profile?.Overview ?? sith.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"

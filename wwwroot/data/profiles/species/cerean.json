@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/cerean.svg",
-      "caption": "Emblem — Cerean"
-    },
-    {
-      "path": "/images/species/cerean-scene.svg",
-      "caption": "Scene illustration — Cerean"
+      "path": "/images/species/cerean-scene.png",
+      "caption": "Cinematic illustration — Cerean"
     }
   ]
 }

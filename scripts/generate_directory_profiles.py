@@ -1525,7 +1525,7 @@ def portrait_path(category: str, entry: dict) -> str:
         if entry.get("has_png"):
             return entry["image_path"]
         return f"/images/planets/{entry['slug']}.svg"
-    return f"/images/{category}/{entry['slug']}.svg"
+    return f"/images/{category}/{entry['slug']}.png"
 
 
 def gallery_for(entry: dict, category: str) -> list[dict]:
@@ -1534,15 +1534,11 @@ def gallery_for(entry: dict, category: str) -> list[dict]:
     portrait = portrait_path(category, entry)
     if category == "jedi":
         return [
-            {"path": portrait, "caption": f"Portrait of {name}"},
-            {"path": f"/images/jedi/{slug}-scene.svg", "caption": f"Jedi temple and battlefield scene — {name}"},
-            {"path": f"/images/jedi/{slug}-emblem.svg", "caption": f"Jedi Order emblem associated with {name}"},
+            {"path": f"/images/jedi/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
         ]
     if category == "sith":
         return [
-            {"path": portrait, "caption": f"Portrait of {name}"},
-            {"path": f"/images/sith/{slug}-scene.svg", "caption": f"Dark side lightning scene — {name}"},
-            {"path": f"/images/sith/{slug}-emblem.svg", "caption": f"Sith emblem associated with {name}"},
+            {"path": f"/images/sith/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
         ]
     if category == "characters":
         return [
@@ -1552,9 +1548,7 @@ def gallery_for(entry: dict, category: str) -> list[dict]:
         ]
     if category == "ships":
         return [
-            {"path": portrait, "caption": f"Profile view of the {name}"},
-            {"path": f"/images/ships/{slug}-scene.svg", "caption": f"Combat deployment — {name}"},
-            {"path": f"/images/ships/{slug}-blueprint.svg", "caption": f"Technical schematic — {name}"},
+            {"path": f"/images/ships/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
         ]
     return [
         {"path": portrait, "caption": f"Globe view of {name}"},

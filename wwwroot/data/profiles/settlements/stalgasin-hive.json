@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/stalgasin-hive.svg",
-      "caption": "Emblem — Stalgasin Hive"
-    },
-    {
-      "path": "/images/settlements/stalgasin-hive-scene.svg",
-      "caption": "Scene illustration — Stalgasin Hive"
+      "path": "/images/settlements/stalgasin-hive-scene.png",
+      "caption": "Cinematic illustration — Stalgasin Hive"
     }
   ]
 }

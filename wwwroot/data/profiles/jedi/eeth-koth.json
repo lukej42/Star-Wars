@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/eeth-koth.svg",
-      "caption": "Portrait of Eeth Koth"
-    },
-    {
-      "path": "/images/jedi/eeth-koth-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Eeth Koth"
-    },
-    {
-      "path": "/images/jedi/eeth-koth-emblem.svg",
-      "caption": "Jedi Order emblem associated with Eeth Koth"
+      "path": "/images/jedi/eeth-koth-scene.png",
+      "caption": "Cinematic illustration — Eeth Koth"
     }
   ]
 }

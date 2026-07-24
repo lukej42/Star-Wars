@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/villos-oran.svg",
-      "caption": "Emblem — Villos Oran"
-    },
-    {
-      "path": "/images/bounty-hunters/villos-oran-scene.svg",
-      "caption": "Scene illustration — Villos Oran"
+      "path": "/images/bounty-hunters/villos-oran-scene.png",
+      "caption": "Cinematic illustration — Villos Oran"
     }
   ]
 }

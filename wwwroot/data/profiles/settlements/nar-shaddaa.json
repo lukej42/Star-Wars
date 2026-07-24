@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/nar-shaddaa.svg",
-      "caption": "Emblem — Nar Shaddaa"
-    },
-    {
-      "path": "/images/settlements/nar-shaddaa-scene.svg",
-      "caption": "Scene illustration — Nar Shaddaa"
+      "path": "/images/settlements/nar-shaddaa-scene.png",
+      "caption": "Cinematic illustration — Nar Shaddaa"
     }
   ]
 }

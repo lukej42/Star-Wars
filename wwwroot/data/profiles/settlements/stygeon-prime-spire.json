@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/stygeon-prime-spire.svg",
-      "caption": "Emblem — Stygeon Prime Spire"
-    },
-    {
-      "path": "/images/settlements/stygeon-prime-spire-scene.svg",
-      "caption": "Scene illustration — Stygeon Prime Spire"
+      "path": "/images/settlements/stygeon-prime-spire-scene.png",
+      "caption": "Cinematic illustration — Stygeon Prime Spire"
     }
   ]
 }

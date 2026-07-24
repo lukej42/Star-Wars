@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/tlar.svg",
-      "caption": "Emblem — T'lar"
-    },
-    {
-      "path": "/images/bounty-hunters/tlar-scene.svg",
-      "caption": "Scene illustration — T'lar"
+      "path": "/images/bounty-hunters/tlar-scene.png",
+      "caption": "Cinematic illustration — T'lar"
     }
   ]
 }

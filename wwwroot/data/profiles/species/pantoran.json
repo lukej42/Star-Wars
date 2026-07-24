@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/pantoran.svg",
-      "caption": "Emblem — Pantoran"
-    },
-    {
-      "path": "/images/species/pantoran-scene.svg",
-      "caption": "Scene illustration — Pantoran"
+      "path": "/images/species/pantoran-scene.png",
+      "caption": "Cinematic illustration — Pantoran"
     }
   ]
 }

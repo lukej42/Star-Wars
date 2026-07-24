@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/elom.svg",
-      "caption": "Emblem — Elom"
-    },
-    {
-      "path": "/images/species/elom-scene.svg",
-      "caption": "Scene illustration — Elom"
+      "path": "/images/species/elom-scene.png",
+      "caption": "Cinematic illustration — Elom"
     }
   ]
 }

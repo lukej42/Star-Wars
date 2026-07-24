@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/utai.svg",
-      "caption": "Emblem — Utai"
-    },
-    {
-      "path": "/images/species/utai-scene.svg",
-      "caption": "Scene illustration — Utai"
+      "path": "/images/species/utai-scene.png",
+      "caption": "Cinematic illustration — Utai"
     }
   ]
 }

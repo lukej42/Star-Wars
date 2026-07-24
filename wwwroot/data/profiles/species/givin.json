@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/givin.svg",
-      "caption": "Emblem — Givin"
-    },
-    {
-      "path": "/images/species/givin-scene.svg",
-      "caption": "Scene illustration — Givin"
+      "path": "/images/species/givin-scene.png",
+      "caption": "Cinematic illustration — Givin"
     }
   ]
 }

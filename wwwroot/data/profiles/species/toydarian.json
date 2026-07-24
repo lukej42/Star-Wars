@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/toydarian.svg",
-      "caption": "Emblem — Toydarian"
-    },
-    {
-      "path": "/images/species/toydarian-scene.svg",
-      "caption": "Scene illustration — Toydarian"
+      "path": "/images/species/toydarian-scene.png",
+      "caption": "Cinematic illustration — Toydarian"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/c-roc-gozanti.svg",
-      "caption": "Profile view of the C-ROC Gozanti-class Cruiser"
-    },
-    {
-      "path": "/images/ships/c-roc-gozanti-scene.svg",
-      "caption": "Combat deployment — C-ROC Gozanti-class Cruiser"
-    },
-    {
-      "path": "/images/ships/c-roc-gozanti-blueprint.svg",
-      "caption": "Technical schematic — C-ROC Gozanti-class Cruiser"
+      "path": "/images/ships/c-roc-gozanti-scene.png",
+      "caption": "Cinematic illustration — C-ROC Gozanti-class Cruiser"
     }
   ]
 }

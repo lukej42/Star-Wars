@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/sabine-wren.svg",
-      "caption": "Emblem — Sabine Wren"
-    },
-    {
-      "path": "/images/bounty-hunters/sabine-wren-scene.svg",
-      "caption": "Scene illustration — Sabine Wren"
+      "path": "/images/bounty-hunters/sabine-wren-scene.png",
+      "caption": "Cinematic illustration — Sabine Wren"
     }
   ]
 }

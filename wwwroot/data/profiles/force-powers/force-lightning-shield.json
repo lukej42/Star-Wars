@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-lightning-shield.svg",
-      "caption": "Emblem — Force Lightning Shield"
-    },
-    {
-      "path": "/images/force-powers/force-lightning-shield-scene.svg",
-      "caption": "Scene illustration — Force Lightning Shield"
+      "path": "/images/force-powers/force-lightning-shield-scene.png",
+      "caption": "Cinematic illustration — Force Lightning Shield"
     }
   ]
 }

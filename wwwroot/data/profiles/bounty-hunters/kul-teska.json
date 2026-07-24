@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/kul-teska.svg",
-      "caption": "Emblem — Kul Teska"
-    },
-    {
-      "path": "/images/bounty-hunters/kul-teska-scene.svg",
-      "caption": "Scene illustration — Kul Teska"
+      "path": "/images/bounty-hunters/kul-teska-scene.png",
+      "caption": "Cinematic illustration — Kul Teska"
     }
   ]
 }

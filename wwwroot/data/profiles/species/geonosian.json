@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/geonosian.svg",
-      "caption": "Emblem — Geonosian"
-    },
-    {
-      "path": "/images/species/geonosian-scene.svg",
-      "caption": "Scene illustration — Geonosian"
+      "path": "/images/species/geonosian-scene.png",
+      "caption": "Cinematic illustration — Geonosian"
     }
   ]
 }

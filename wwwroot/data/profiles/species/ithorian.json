@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/ithorian.svg",
-      "caption": "Emblem — Ithorian"
-    },
-    {
-      "path": "/images/species/ithorian-scene.svg",
-      "caption": "Scene illustration — Ithorian"
+      "path": "/images/species/ithorian-scene.png",
+      "caption": "Cinematic illustration — Ithorian"
     }
   ]
 }

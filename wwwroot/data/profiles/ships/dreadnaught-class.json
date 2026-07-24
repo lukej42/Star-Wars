@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/dreadnaught-class.svg",
-      "caption": "Profile view of the Dreadnaught-class Heavy Cruiser"
-    },
-    {
-      "path": "/images/ships/dreadnaught-class-scene.svg",
-      "caption": "Combat deployment — Dreadnaught-class Heavy Cruiser"
-    },
-    {
-      "path": "/images/ships/dreadnaught-class-blueprint.svg",
-      "caption": "Technical schematic — Dreadnaught-class Heavy Cruiser"
+      "path": "/images/ships/dreadnaught-class-scene.png",
+      "caption": "Cinematic illustration — Dreadnaught-class Heavy Cruiser"
     }
   ]
 }

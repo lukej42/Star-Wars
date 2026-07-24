@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/shaak-ti.svg",
-      "caption": "Portrait of Shaak Ti"
-    },
-    {
-      "path": "/images/jedi/shaak-ti-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Shaak Ti"
-    },
-    {
-      "path": "/images/jedi/shaak-ti-emblem.svg",
-      "caption": "Jedi Order emblem associated with Shaak Ti"
+      "path": "/images/jedi/shaak-ti-scene.png",
+      "caption": "Cinematic illustration — Shaak Ti"
     }
   ]
 }

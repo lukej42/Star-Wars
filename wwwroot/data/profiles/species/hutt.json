@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/hutt.svg",
-      "caption": "Emblem — Hutt"
-    },
-    {
-      "path": "/images/species/hutt-scene.svg",
-      "caption": "Scene illustration — Hutt"
+      "path": "/images/species/hutt-scene.png",
+      "caption": "Cinematic illustration — Hutt"
     }
   ]
 }

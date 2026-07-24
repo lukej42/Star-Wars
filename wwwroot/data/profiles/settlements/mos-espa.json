@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/mos-espa.svg",
-      "caption": "Emblem — Mos Espa"
-    },
-    {
-      "path": "/images/settlements/mos-espa-scene.svg",
-      "caption": "Scene illustration — Mos Espa"
+      "path": "/images/settlements/mos-espa-scene.png",
+      "caption": "Cinematic illustration — Mos Espa"
     }
   ]
 }

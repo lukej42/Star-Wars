@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/talz.svg",
-      "caption": "Emblem — Talz"
-    },
-    {
-      "path": "/images/species/talz-scene.svg",
-      "caption": "Scene illustration — Talz"
+      "path": "/images/species/talz-scene.png",
+      "caption": "Cinematic illustration — Talz"
     }
   ]
 }

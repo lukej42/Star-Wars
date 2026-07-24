@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/nevarro-town.svg",
-      "caption": "Emblem — Nevarro Town"
-    },
-    {
-      "path": "/images/settlements/nevarro-town-scene.svg",
-      "caption": "Scene illustration — Nevarro Town"
+      "path": "/images/settlements/nevarro-town-scene.png",
+      "caption": "Cinematic illustration — Nevarro Town"
     }
   ]
 }

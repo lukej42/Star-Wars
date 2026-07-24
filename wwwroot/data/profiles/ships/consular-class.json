@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/consular-class.svg",
-      "caption": "Profile view of the Consular-class Space Cruiser"
-    },
-    {
-      "path": "/images/ships/consular-class-scene.svg",
-      "caption": "Combat deployment — Consular-class Space Cruiser"
-    },
-    {
-      "path": "/images/ships/consular-class-blueprint.svg",
-      "caption": "Technical schematic — Consular-class Space Cruiser"
+      "path": "/images/ships/consular-class-scene.png",
+      "caption": "Cinematic illustration — Consular-class Space Cruiser"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/leviathan.svg",
-      "caption": "Profile view of the Leviathan"
-    },
-    {
-      "path": "/images/ships/leviathan-scene.svg",
-      "caption": "Combat deployment — Leviathan"
-    },
-    {
-      "path": "/images/ships/leviathan-blueprint.svg",
-      "caption": "Technical schematic — Leviathan"
+      "path": "/images/ships/leviathan-scene.png",
+      "caption": "Cinematic illustration — Leviathan"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-vitiate.svg",
-      "caption": "Portrait of Darth Vitiate"
-    },
-    {
-      "path": "/images/sith/darth-vitiate-scene.svg",
-      "caption": "Dark side lightning scene — Darth Vitiate"
-    },
-    {
-      "path": "/images/sith/darth-vitiate-emblem.svg",
-      "caption": "Sith emblem associated with Darth Vitiate"
+      "path": "/images/sith/darth-vitiate-scene.png",
+      "caption": "Cinematic illustration — Darth Vitiate"
     }
   ]
 }

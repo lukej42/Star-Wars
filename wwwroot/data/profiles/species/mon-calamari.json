@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/mon-calamari.svg",
-      "caption": "Emblem — Mon Calamari"
-    },
-    {
-      "path": "/images/species/mon-calamari-scene.svg",
-      "caption": "Scene illustration — Mon Calamari"
+      "path": "/images/species/mon-calamari-scene.png",
+      "caption": "Cinematic illustration — Mon Calamari"
     }
   ]
 }

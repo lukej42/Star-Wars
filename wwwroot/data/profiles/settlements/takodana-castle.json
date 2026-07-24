@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/takodana-castle.svg",
-      "caption": "Emblem — Takodana Castle"
-    },
-    {
-      "path": "/images/settlements/takodana-castle-scene.svg",
-      "caption": "Scene illustration — Takodana Castle"
+      "path": "/images/settlements/takodana-castle-scene.png",
+      "caption": "Cinematic illustration — Takodana Castle"
     }
   ]
 }

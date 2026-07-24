@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/q9-0.svg",
-      "caption": "Emblem — Q9-0"
-    },
-    {
-      "path": "/images/bounty-hunters/q9-0-scene.svg",
-      "caption": "Scene illustration — Q9-0"
+      "path": "/images/bounty-hunters/q9-0-scene.png",
+      "caption": "Cinematic illustration — Q9-0"
     }
   ]
 }

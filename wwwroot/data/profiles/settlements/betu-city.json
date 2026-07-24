@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/betu-city.svg",
-      "caption": "Emblem — Betu City"
-    },
-    {
-      "path": "/images/settlements/betu-city-scene.svg",
-      "caption": "Scene illustration — Betu City"
+      "path": "/images/settlements/betu-city-scene.png",
+      "caption": "Cinematic illustration — Betu City"
     }
   ]
 }

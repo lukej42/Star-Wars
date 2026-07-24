@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/kel-dor.svg",
-      "caption": "Emblem — Kel Dor"
-    },
-    {
-      "path": "/images/species/kel-dor-scene.svg",
-      "caption": "Scene illustration — Kel Dor"
+      "path": "/images/species/kel-dor-scene.png",
+      "caption": "Cinematic illustration — Kel Dor"
     }
   ]
 }

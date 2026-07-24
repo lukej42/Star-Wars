@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/skakoan.svg",
-      "caption": "Emblem — Skakoan"
-    },
-    {
-      "path": "/images/species/skakoan-scene.svg",
-      "caption": "Scene illustration — Skakoan"
+      "path": "/images/species/skakoan-scene.png",
+      "caption": "Cinematic illustration — Skakoan"
     }
   ]
 }

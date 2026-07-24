@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/depa-billaba.svg",
-      "caption": "Portrait of Depa Billaba"
-    },
-    {
-      "path": "/images/jedi/depa-billaba-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Depa Billaba"
-    },
-    {
-      "path": "/images/jedi/depa-billaba-emblem.svg",
-      "caption": "Jedi Order emblem associated with Depa Billaba"
+      "path": "/images/jedi/depa-billaba-scene.png",
+      "caption": "Cinematic illustration — Depa Billaba"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-plagueis.svg",
-      "caption": "Portrait of Darth Plagueis"
-    },
-    {
-      "path": "/images/sith/darth-plagueis-scene.svg",
-      "caption": "Dark side lightning scene — Darth Plagueis"
-    },
-    {
-      "path": "/images/sith/darth-plagueis-emblem.svg",
-      "caption": "Sith emblem associated with Darth Plagueis"
+      "path": "/images/sith/darth-plagueis-scene.png",
+      "caption": "Cinematic illustration — Darth Plagueis"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/action-vi.svg",
-      "caption": "Profile view of the Action VI Transport"
-    },
-    {
-      "path": "/images/ships/action-vi-scene.svg",
-      "caption": "Combat deployment — Action VI Transport"
-    },
-    {
-      "path": "/images/ships/action-vi-blueprint.svg",
-      "caption": "Technical schematic — Action VI Transport"
+      "path": "/images/ships/action-vi-scene.png",
+      "caption": "Cinematic illustration — Action VI Transport"
     }
   ]
 }

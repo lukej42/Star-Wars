@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/selonian.svg",
-      "caption": "Emblem — Selonian"
-    },
-    {
-      "path": "/images/species/selonian-scene.svg",
-      "caption": "Scene illustration — Selonian"
+      "path": "/images/species/selonian-scene.png",
+      "caption": "Cinematic illustration — Selonian"
     }
   ]
 }

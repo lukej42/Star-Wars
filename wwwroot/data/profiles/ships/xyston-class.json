@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/xyston-class.svg",
-      "caption": "Profile view of the Xyston-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/xyston-class-scene.svg",
-      "caption": "Combat deployment — Xyston-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/xyston-class-blueprint.svg",
-      "caption": "Technical schematic — Xyston-class Star Destroyer"
+      "path": "/images/ships/xyston-class-scene.png",
+      "caption": "Cinematic illustration — Xyston-class Star Destroyer"
     }
   ]
 }

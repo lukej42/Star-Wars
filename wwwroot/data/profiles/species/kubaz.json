@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/kubaz.svg",
-      "caption": "Emblem — Kubaz"
-    },
-    {
-      "path": "/images/species/kubaz-scene.svg",
-      "caption": "Scene illustration — Kubaz"
+      "path": "/images/species/kubaz-scene.png",
+      "caption": "Cinematic illustration — Kubaz"
     }
   ]
 }

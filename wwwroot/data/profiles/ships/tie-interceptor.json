@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/tie-interceptor.svg",
-      "caption": "Profile view of the TIE Interceptor"
-    },
-    {
-      "path": "/images/ships/tie-interceptor-scene.svg",
-      "caption": "Combat deployment — TIE Interceptor"
-    },
-    {
-      "path": "/images/ships/tie-interceptor-blueprint.svg",
-      "caption": "Technical schematic — TIE Interceptor"
+      "path": "/images/ships/tie-interceptor-scene.png",
+      "caption": "Cinematic illustration — TIE Interceptor"
     }
   ]
 }

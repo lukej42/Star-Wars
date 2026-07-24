@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/ig-11.svg",
-      "caption": "Emblem — IG-11"
-    },
-    {
-      "path": "/images/bounty-hunters/ig-11-scene.svg",
-      "caption": "Scene illustration — IG-11"
+      "path": "/images/bounty-hunters/ig-11-scene.png",
+      "caption": "Cinematic illustration — IG-11"
     }
   ]
 }

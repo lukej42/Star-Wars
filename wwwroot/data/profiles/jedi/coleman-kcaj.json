@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/coleman-kcaj.svg",
-      "caption": "Portrait of Coleman Kcaj"
-    },
-    {
-      "path": "/images/jedi/coleman-kcaj-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Coleman Kcaj"
-    },
-    {
-      "path": "/images/jedi/coleman-kcaj-emblem.svg",
-      "caption": "Jedi Order emblem associated with Coleman Kcaj"
+      "path": "/images/jedi/coleman-kcaj-scene.png",
+      "caption": "Cinematic illustration — Coleman Kcaj"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/chalactan.svg",
-      "caption": "Emblem — Chalactan"
-    },
-    {
-      "path": "/images/species/chalactan-scene.svg",
-      "caption": "Scene illustration — Chalactan"
+      "path": "/images/species/chalactan-scene.png",
+      "caption": "Cinematic illustration — Chalactan"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/anakin-skywalker.svg",
-      "caption": "Portrait of Anakin Skywalker"
-    },
-    {
-      "path": "/images/jedi/anakin-skywalker-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Anakin Skywalker"
-    },
-    {
-      "path": "/images/jedi/anakin-skywalker-emblem.svg",
-      "caption": "Jedi Order emblem associated with Anakin Skywalker"
+      "path": "/images/jedi/anakin-skywalker-scene.png",
+      "caption": "Cinematic illustration — Anakin Skywalker"
     }
   ]
 }

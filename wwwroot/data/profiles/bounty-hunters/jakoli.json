@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/jakoli.svg",
-      "caption": "Emblem — Jakoli"
-    },
-    {
-      "path": "/images/bounty-hunters/jakoli-scene.svg",
-      "caption": "Scene illustration — Jakoli"
+      "path": "/images/bounty-hunters/jakoli-scene.png",
+      "caption": "Cinematic illustration — Jakoli"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/iziz.svg",
-      "caption": "Emblem — Iziz"
-    },
-    {
-      "path": "/images/settlements/iziz-scene.svg",
-      "caption": "Scene illustration — Iziz"
+      "path": "/images/settlements/iziz-scene.png",
+      "caption": "Cinematic illustration — Iziz"
     }
   ]
 }

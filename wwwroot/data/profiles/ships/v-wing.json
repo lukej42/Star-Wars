@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/v-wing.svg",
-      "caption": "Profile view of the V-wing"
-    },
-    {
-      "path": "/images/ships/v-wing-scene.svg",
-      "caption": "Combat deployment — V-wing"
-    },
-    {
-      "path": "/images/ships/v-wing-blueprint.svg",
-      "caption": "Technical schematic — V-wing"
+      "path": "/images/ships/v-wing-scene.png",
+      "caption": "Cinematic illustration — V-wing"
     }
   ]
 }

@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/breacher.svg",
-      "caption": "Emblem — Breacher"
-    },
-    {
-      "path": "/images/bounty-hunters/breacher-scene.svg",
-      "caption": "Scene illustration — Breacher"
+      "path": "/images/bounty-hunters/breacher-scene.png",
+      "caption": "Cinematic illustration — Breacher"
     }
   ]
 }

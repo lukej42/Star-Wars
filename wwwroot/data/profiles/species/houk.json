@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/houk.svg",
-      "caption": "Emblem — Houk"
-    },
-    {
-      "path": "/images/species/houk-scene.svg",
-      "caption": "Scene illustration — Houk"
+      "path": "/images/species/houk-scene.png",
+      "caption": "Cinematic illustration — Houk"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/cathar.svg",
-      "caption": "Emblem — Cathar"
-    },
-    {
-      "path": "/images/species/cathar-scene.svg",
-      "caption": "Scene illustration — Cathar"
+      "path": "/images/species/cathar-scene.png",
+      "caption": "Cinematic illustration — Cathar"
     }
   ]
 }

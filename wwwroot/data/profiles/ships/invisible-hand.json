@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/invisible-hand.svg",
-      "caption": "Profile view of the Invisible Hand"
-    },
-    {
-      "path": "/images/ships/invisible-hand-scene.svg",
-      "caption": "Combat deployment — Invisible Hand"
-    },
-    {
-      "path": "/images/ships/invisible-hand-blueprint.svg",
-      "caption": "Technical schematic — Invisible Hand"
+      "path": "/images/ships/invisible-hand-scene.png",
+      "caption": "Cinematic illustration — Invisible Hand"
     }
   ]
 }

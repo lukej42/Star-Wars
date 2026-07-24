@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/burg.svg",
-      "caption": "Emblem — Burg"
-    },
-    {
-      "path": "/images/bounty-hunters/burg-scene.svg",
-      "caption": "Scene illustration — Burg"
+      "path": "/images/bounty-hunters/burg-scene.png",
+      "caption": "Cinematic illustration — Burg"
     }
   ]
 }

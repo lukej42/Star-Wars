@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/chiss.svg",
-      "caption": "Emblem — Chiss"
-    },
-    {
-      "path": "/images/species/chiss-scene.svg",
-      "caption": "Scene illustration — Chiss"
+      "path": "/images/species/chiss-scene.png",
+      "caption": "Cinematic illustration — Chiss"
     }
   ]
 }

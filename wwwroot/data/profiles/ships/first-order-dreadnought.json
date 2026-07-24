@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/first-order-dreadnought.svg",
-      "caption": "Profile view of the First Order Dreadnought"
-    },
-    {
-      "path": "/images/ships/first-order-dreadnought-scene.svg",
-      "caption": "Combat deployment — First Order Dreadnought"
-    },
-    {
-      "path": "/images/ships/first-order-dreadnought-blueprint.svg",
-      "caption": "Technical schematic — First Order Dreadnought"
+      "path": "/images/ships/first-order-dreadnought-scene.png",
+      "caption": "Cinematic illustration — First Order Dreadnought"
     }
   ]
 }

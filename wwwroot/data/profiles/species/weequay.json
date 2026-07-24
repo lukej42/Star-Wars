@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/weequay.svg",
-      "caption": "Emblem — Weequay"
-    },
-    {
-      "path": "/images/species/weequay-scene.svg",
-      "caption": "Scene illustration — Weequay"
+      "path": "/images/species/weequay-scene.png",
+      "caption": "Cinematic illustration — Weequay"
     }
   ]
 }

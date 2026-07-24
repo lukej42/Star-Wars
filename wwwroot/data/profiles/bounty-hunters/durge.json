@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/durge.svg",
-      "caption": "Emblem — Durge"
-    },
-    {
-      "path": "/images/bounty-hunters/durge-scene.svg",
-      "caption": "Scene illustration — Durge"
+      "path": "/images/bounty-hunters/durge-scene.png",
+      "caption": "Cinematic illustration — Durge"
     }
   ]
 }

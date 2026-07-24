@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/slave-i.svg",
-      "caption": "Profile view of the Slave I"
-    },
-    {
-      "path": "/images/ships/slave-i-scene.svg",
-      "caption": "Combat deployment — Slave I"
-    },
-    {
-      "path": "/images/ships/slave-i-blueprint.svg",
-      "caption": "Technical schematic — Slave I"
+      "path": "/images/ships/slave-i-scene.png",
+      "caption": "Cinematic illustration — Slave I"
     }
   ]
 }

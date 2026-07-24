@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/tipoca-city.svg",
-      "caption": "Emblem — Tipoca City"
-    },
-    {
-      "path": "/images/settlements/tipoca-city-scene.svg",
-      "caption": "Scene illustration — Tipoca City"
+      "path": "/images/settlements/tipoca-city-scene.png",
+      "caption": "Cinematic illustration — Tipoca City"
     }
   ]
 }

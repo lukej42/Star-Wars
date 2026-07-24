@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/derrown.svg",
-      "caption": "Emblem — Derrown"
-    },
-    {
-      "path": "/images/bounty-hunters/derrown-scene.svg",
-      "caption": "Scene illustration — Derrown"
+      "path": "/images/bounty-hunters/derrown-scene.png",
+      "caption": "Cinematic illustration — Derrown"
     }
   ]
 }

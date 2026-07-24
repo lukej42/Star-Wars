@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/devaronian.svg",
-      "caption": "Emblem — Devaronian"
-    },
-    {
-      "path": "/images/species/devaronian-scene.svg",
-      "caption": "Scene illustration — Devaronian"
+      "path": "/images/species/devaronian-scene.png",
+      "caption": "Cinematic illustration — Devaronian"
     }
   ]
 }

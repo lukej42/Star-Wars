@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/lambda-class.svg",
-      "caption": "Profile view of the Lambda-class T-4a Shuttle"
-    },
-    {
-      "path": "/images/ships/lambda-class-scene.svg",
-      "caption": "Combat deployment — Lambda-class T-4a Shuttle"
-    },
-    {
-      "path": "/images/ships/lambda-class-blueprint.svg",
-      "caption": "Technical schematic — Lambda-class T-4a Shuttle"
+      "path": "/images/ships/lambda-class-scene.png",
+      "caption": "Cinematic illustration — Lambda-class T-4a Shuttle"
     }
   ]
 }

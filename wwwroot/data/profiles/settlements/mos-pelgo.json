@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/mos-pelgo.svg",
-      "caption": "Emblem — Mos Pelgo"
-    },
-    {
-      "path": "/images/settlements/mos-pelgo-scene.svg",
-      "caption": "Scene illustration — Mos Pelgo"
+      "path": "/images/settlements/mos-pelgo-scene.png",
+      "caption": "Cinematic illustration — Mos Pelgo"
     }
   ]
 }

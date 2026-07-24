@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/bakura-city.svg",
-      "caption": "Emblem — Bakura City"
-    },
-    {
-      "path": "/images/settlements/bakura-city-scene.svg",
-      "caption": "Scene illustration — Bakura City"
+      "path": "/images/settlements/bakura-city-scene.png",
+      "caption": "Cinematic illustration — Bakura City"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/yaddle.svg",
-      "caption": "Portrait of Yaddle"
-    },
-    {
-      "path": "/images/jedi/yaddle-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Yaddle"
-    },
-    {
-      "path": "/images/jedi/yaddle-emblem.svg",
-      "caption": "Jedi Order emblem associated with Yaddle"
+      "path": "/images/jedi/yaddle-scene.png",
+      "caption": "Cinematic illustration — Yaddle"
     }
   ]
 }

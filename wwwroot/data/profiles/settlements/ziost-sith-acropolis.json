@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ziost-sith-acropolis.svg",
-      "caption": "Emblem — Ziost Sith Acropolis"
-    },
-    {
-      "path": "/images/settlements/ziost-sith-acropolis-scene.svg",
-      "caption": "Scene illustration — Ziost Sith Acropolis"
+      "path": "/images/settlements/ziost-sith-acropolis-scene.png",
+      "caption": "Cinematic illustration — Ziost Sith Acropolis"
     }
   ]
 }

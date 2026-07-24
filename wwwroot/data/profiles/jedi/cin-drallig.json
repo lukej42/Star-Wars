@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/cin-drallig.svg",
-      "caption": "Portrait of Cin Drallig"
-    },
-    {
-      "path": "/images/jedi/cin-drallig-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Cin Drallig"
-    },
-    {
-      "path": "/images/jedi/cin-drallig-emblem.svg",
-      "caption": "Jedi Order emblem associated with Cin Drallig"
+      "path": "/images/jedi/cin-drallig-scene.png",
+      "caption": "Cinematic illustration — Cin Drallig"
     }
   ]
 }

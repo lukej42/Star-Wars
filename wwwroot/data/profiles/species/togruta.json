@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/togruta.svg",
-      "caption": "Emblem — Togruta"
-    },
-    {
-      "path": "/images/species/togruta-scene.svg",
-      "caption": "Scene illustration — Togruta"
+      "path": "/images/species/togruta-scene.png",
+      "caption": "Cinematic illustration — Togruta"
     }
   ]
 }

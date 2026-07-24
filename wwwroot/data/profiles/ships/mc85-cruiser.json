@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/mc85-cruiser.svg",
-      "caption": "Profile view of the MC85 Star Cruiser"
-    },
-    {
-      "path": "/images/ships/mc85-cruiser-scene.svg",
-      "caption": "Combat deployment — MC85 Star Cruiser"
-    },
-    {
-      "path": "/images/ships/mc85-cruiser-blueprint.svg",
-      "caption": "Technical schematic — MC85 Star Cruiser"
+      "path": "/images/ships/mc85-cruiser-scene.png",
+      "caption": "Cinematic illustration — MC85 Star Cruiser"
     }
   ]
 }

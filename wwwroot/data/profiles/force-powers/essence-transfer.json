@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/essence-transfer.svg",
-      "caption": "Emblem — Essence Transfer"
-    },
-    {
-      "path": "/images/force-powers/essence-transfer-scene.svg",
-      "caption": "Scene illustration — Essence Transfer"
+      "path": "/images/force-powers/essence-transfer-scene.png",
+      "caption": "Cinematic illustration — Essence Transfer"
     }
   ]
 }

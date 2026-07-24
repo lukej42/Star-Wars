@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/rodian.svg",
-      "caption": "Emblem — Rodian"
-    },
-    {
-      "path": "/images/species/rodian-scene.svg",
-      "caption": "Scene illustration — Rodian"
+      "path": "/images/species/rodian-scene.png",
+      "caption": "Cinematic illustration — Rodian"
     }
   ]
 }

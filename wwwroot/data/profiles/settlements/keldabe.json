@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/keldabe.svg",
-      "caption": "Emblem — Keldabe"
-    },
-    {
-      "path": "/images/settlements/keldabe-scene.svg",
-      "caption": "Scene illustration — Keldabe"
+      "path": "/images/settlements/keldabe-scene.png",
+      "caption": "Cinematic illustration — Keldabe"
     }
   ]
 }

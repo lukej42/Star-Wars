@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/mos-eisley.svg",
-      "caption": "Emblem — Mos Eisley"
-    },
-    {
-      "path": "/images/settlements/mos-eisley-scene.svg",
-      "caption": "Scene illustration — Mos Eisley"
+      "path": "/images/settlements/mos-eisley-scene.png",
+      "caption": "Cinematic illustration — Mos Eisley"
     }
   ]
 }

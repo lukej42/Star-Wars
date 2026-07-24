@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-tyranus.svg",
-      "caption": "Portrait of Darth Tyranus"
-    },
-    {
-      "path": "/images/sith/darth-tyranus-scene.svg",
-      "caption": "Dark side lightning scene — Darth Tyranus"
-    },
-    {
-      "path": "/images/sith/darth-tyranus-emblem.svg",
-      "caption": "Sith emblem associated with Darth Tyranus"
+      "path": "/images/sith/darth-tyranus-scene.png",
+      "caption": "Cinematic illustration — Darth Tyranus"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/vulture-droid.svg",
-      "caption": "Profile view of the Vulture Droid"
-    },
-    {
-      "path": "/images/ships/vulture-droid-scene.svg",
-      "caption": "Combat deployment — Vulture Droid"
-    },
-    {
-      "path": "/images/ships/vulture-droid-blueprint.svg",
-      "caption": "Technical schematic — Vulture Droid"
+      "path": "/images/ships/vulture-droid-scene.png",
+      "caption": "Cinematic illustration — Vulture Droid"
     }
   ]
 }

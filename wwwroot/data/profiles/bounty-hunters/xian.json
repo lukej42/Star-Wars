@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/xian.svg",
-      "caption": "Emblem — Xi'an"
-    },
-    {
-      "path": "/images/bounty-hunters/xian-scene.svg",
-      "caption": "Scene illustration — Xi'an"
+      "path": "/images/bounty-hunters/xian-scene.png",
+      "caption": "Cinematic illustration — Xi'an"
     }
   ]
 }

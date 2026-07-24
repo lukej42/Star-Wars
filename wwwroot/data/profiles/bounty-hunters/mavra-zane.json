@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/mavra-zane.svg",
-      "caption": "Emblem — Mavra Zane"
-    },
-    {
-      "path": "/images/bounty-hunters/mavra-zane-scene.svg",
-      "caption": "Scene illustration — Mavra Zane"
+      "path": "/images/bounty-hunters/mavra-zane-scene.png",
+      "caption": "Cinematic illustration — Mavra Zane"
     }
   ]
 }

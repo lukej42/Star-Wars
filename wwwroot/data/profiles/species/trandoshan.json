@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/trandoshan.svg",
-      "caption": "Emblem — Trandoshan"
-    },
-    {
-      "path": "/images/species/trandoshan-scene.svg",
-      "caption": "Scene illustration — Trandoshan"
+      "path": "/images/species/trandoshan-scene.png",
+      "caption": "Cinematic illustration — Trandoshan"
     }
   ]
 }

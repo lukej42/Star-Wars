@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/scarif-citadel.svg",
-      "caption": "Emblem — Scarif Citadel"
-    },
-    {
-      "path": "/images/settlements/scarif-citadel-scene.svg",
-      "caption": "Scene illustration — Scarif Citadel"
+      "path": "/images/settlements/scarif-citadel-scene.png",
+      "caption": "Cinematic illustration — Scarif Citadel"
     }
   ]
 }

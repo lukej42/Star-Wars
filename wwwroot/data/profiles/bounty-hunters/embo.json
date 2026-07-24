@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/embo.svg",
-      "caption": "Emblem — Embo"
-    },
-    {
-      "path": "/images/bounty-hunters/embo-scene.svg",
-      "caption": "Scene illustration — Embo"
+      "path": "/images/bounty-hunters/embo-scene.png",
+      "caption": "Cinematic illustration — Embo"
     }
   ]
 }

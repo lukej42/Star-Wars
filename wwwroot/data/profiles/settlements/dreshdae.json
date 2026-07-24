@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/dreshdae.svg",
-      "caption": "Emblem — Dreshdae"
-    },
-    {
-      "path": "/images/settlements/dreshdae-scene.svg",
-      "caption": "Scene illustration — Dreshdae"
+      "path": "/images/settlements/dreshdae-scene.png",
+      "caption": "Cinematic illustration — Dreshdae"
     }
   ]
 }

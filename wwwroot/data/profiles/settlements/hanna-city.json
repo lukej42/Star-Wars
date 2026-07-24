@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/hanna-city.svg",
-      "caption": "Emblem — Hanna City"
-    },
-    {
-      "path": "/images/settlements/hanna-city-scene.svg",
-      "caption": "Scene illustration — Hanna City"
+      "path": "/images/settlements/hanna-city-scene.png",
+      "caption": "Cinematic illustration — Hanna City"
     }
   ]
 }

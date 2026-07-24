@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/endar-spire.svg",
-      "caption": "Profile view of the Endar Spire"
-    },
-    {
-      "path": "/images/ships/endar-spire-scene.svg",
-      "caption": "Combat deployment — Endar Spire"
-    },
-    {
-      "path": "/images/ships/endar-spire-blueprint.svg",
-      "caption": "Technical schematic — Endar Spire"
+      "path": "/images/ships/endar-spire-scene.png",
+      "caption": "Cinematic illustration — Endar Spire"
     }
   ]
 }

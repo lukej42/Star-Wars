@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/snowspeeder.svg",
-      "caption": "Profile view of the Snowspeeder (T-47)"
-    },
-    {
-      "path": "/images/ships/snowspeeder-scene.svg",
-      "caption": "Combat deployment — Snowspeeder (T-47)"
-    },
-    {
-      "path": "/images/ships/snowspeeder-blueprint.svg",
-      "caption": "Technical schematic — Snowspeeder (T-47)"
+      "path": "/images/ships/snowspeeder-scene.png",
+      "caption": "Cinematic illustration — Snowspeeder (T-47)"
     }
   ]
 }

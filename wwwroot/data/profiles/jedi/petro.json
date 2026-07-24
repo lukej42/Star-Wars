@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/petro.svg",
-      "caption": "Portrait of Petro"
-    },
-    {
-      "path": "/images/jedi/petro-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Petro"
-    },
-    {
-      "path": "/images/jedi/petro-emblem.svg",
-      "caption": "Jedi Order emblem associated with Petro"
+      "path": "/images/jedi/petro-scene.png",
+      "caption": "Cinematic illustration — Petro"
     }
   ]
 }

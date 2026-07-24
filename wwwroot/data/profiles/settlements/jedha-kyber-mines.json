@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/jedha-kyber-mines.svg",
-      "caption": "Emblem — Jedha Kyber Mines"
-    },
-    {
-      "path": "/images/settlements/jedha-kyber-mines-scene.svg",
-      "caption": "Scene illustration — Jedha Kyber Mines"
+      "path": "/images/settlements/jedha-kyber-mines-scene.png",
+      "caption": "Cinematic illustration — Jedha Kyber Mines"
     }
   ]
 }

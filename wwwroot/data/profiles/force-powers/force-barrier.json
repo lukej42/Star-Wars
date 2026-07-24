@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-barrier.svg",
-      "caption": "Emblem — Force Barrier"
-    },
-    {
-      "path": "/images/force-powers/force-barrier-scene.svg",
-      "caption": "Scene illustration — Force Barrier"
+      "path": "/images/force-powers/force-barrier-scene.png",
+      "caption": "Cinematic illustration — Force Barrier"
     }
   ]
 }

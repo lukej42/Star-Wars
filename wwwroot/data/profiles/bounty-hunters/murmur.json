@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/murmur.svg",
-      "caption": "Emblem — Murmur"
-    },
-    {
-      "path": "/images/bounty-hunters/murmur-scene.svg",
-      "caption": "Scene illustration — Murmur"
+      "path": "/images/bounty-hunters/murmur-scene.png",
+      "caption": "Cinematic illustration — Murmur"
     }
   ]
 }

@@ -20,7 +20,8 @@ else
 {
     <DirectoryDetailShell Name="@settlement.Name"
                           HeroImagePath="@settlement.SceneImagePath"
-                          HeroImageAlt="@($"Illustration of {settlement.Name}")"
+                          HeroImageAlt="@($"Cinematic illustration of {settlement.Name}")"
+                          ShowPortraitHero="false"
                           Subtitle="@($"{settlement.SettlementType} · {settlement.Planet}")"
                           MetaLine="@($"Sources: {settlement.Sources}")"
                           OverviewText="@(profile?.Overview ?? settlement.Description)"

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/dathomirian.svg",
-      "caption": "Emblem — Dathomirian"
-    },
-    {
-      "path": "/images/species/dathomirian-scene.svg",
-      "caption": "Scene illustration — Dathomirian"
+      "path": "/images/species/dathomirian-scene.png",
+      "caption": "Cinematic illustration — Dathomirian"
     }
   ]
 }

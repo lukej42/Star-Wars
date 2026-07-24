@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-dash.svg",
-      "caption": "Emblem — Force Dash"
-    },
-    {
-      "path": "/images/force-powers/force-dash-scene.svg",
-      "caption": "Scene illustration — Force Dash"
+      "path": "/images/force-powers/force-dash-scene.png",
+      "caption": "Cinematic illustration — Force Dash"
     }
   ]
 }

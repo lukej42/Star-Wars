@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-drain.svg",
-      "caption": "Emblem — Force Drain"
-    },
-    {
-      "path": "/images/force-powers/force-drain-scene.svg",
-      "caption": "Scene illustration — Force Drain"
+      "path": "/images/force-powers/force-drain-scene.png",
+      "caption": "Cinematic illustration — Force Drain"
     }
   ]
 }

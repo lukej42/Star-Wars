@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/polis-massa.svg",
-      "caption": "Emblem — Polis Massa"
-    },
-    {
-      "path": "/images/settlements/polis-massa-scene.svg",
-      "caption": "Scene illustration — Polis Massa"
+      "path": "/images/settlements/polis-massa-scene.png",
+      "caption": "Cinematic illustration — Polis Massa"
     }
   ]
 }

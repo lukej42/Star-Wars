@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/imperial-ii-class.svg",
-      "caption": "Profile view of the Imperial II-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/imperial-ii-class-scene.svg",
-      "caption": "Combat deployment — Imperial II-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/imperial-ii-class-blueprint.svg",
-      "caption": "Technical schematic — Imperial II-class Star Destroyer"
+      "path": "/images/ships/imperial-ii-class-scene.png",
+      "caption": "Cinematic illustration — Imperial II-class Star Destroyer"
     }
   ]
 }

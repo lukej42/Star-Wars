@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/noval-garaint.svg",
-      "caption": "Emblem — Noval Garaint"
-    },
-    {
-      "path": "/images/bounty-hunters/noval-garaint-scene.svg",
-      "caption": "Scene illustration — Noval Garaint"
+      "path": "/images/bounty-hunters/noval-garaint-scene.png",
+      "caption": "Cinematic illustration — Noval Garaint"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/bilbringi-shipyards.svg",
-      "caption": "Emblem — Bilbringi Shipyards"
-    },
-    {
-      "path": "/images/settlements/bilbringi-shipyards-scene.svg",
-      "caption": "Scene illustration — Bilbringi Shipyards"
+      "path": "/images/settlements/bilbringi-shipyards-scene.png",
+      "caption": "Cinematic illustration — Bilbringi Shipyards"
     }
   ]
 }

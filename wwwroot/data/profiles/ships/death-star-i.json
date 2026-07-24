@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/death-star-i.svg",
-      "caption": "Profile view of the Death Star I"
-    },
-    {
-      "path": "/images/ships/death-star-i-scene.svg",
-      "caption": "Combat deployment — Death Star I"
-    },
-    {
-      "path": "/images/ships/death-star-i-blueprint.svg",
-      "caption": "Technical schematic — Death Star I"
+      "path": "/images/ships/death-star-i-scene.png",
+      "caption": "Cinematic illustration — Death Star I"
     }
   ]
 }

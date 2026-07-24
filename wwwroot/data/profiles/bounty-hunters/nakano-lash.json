@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/nakano-lash.svg",
-      "caption": "Emblem — Nakano Lash"
-    },
-    {
-      "path": "/images/bounty-hunters/nakano-lash-scene.svg",
-      "caption": "Scene illustration — Nakano Lash"
+      "path": "/images/bounty-hunters/nakano-lash-scene.png",
+      "caption": "Cinematic illustration — Nakano Lash"
     }
   ]
 }

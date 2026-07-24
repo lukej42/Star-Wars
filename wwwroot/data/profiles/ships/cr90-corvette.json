@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/cr90-corvette.svg",
-      "caption": "Profile view of the CR90 Corvette"
-    },
-    {
-      "path": "/images/ships/cr90-corvette-scene.svg",
-      "caption": "Combat deployment — CR90 Corvette"
-    },
-    {
-      "path": "/images/ships/cr90-corvette-blueprint.svg",
-      "caption": "Technical schematic — CR90 Corvette"
+      "path": "/images/ships/cr90-corvette-scene.png",
+      "caption": "Cinematic illustration — CR90 Corvette"
     }
   ]
 }

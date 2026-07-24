@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/chevin.svg",
-      "caption": "Emblem — Chevin"
-    },
-    {
-      "path": "/images/species/chevin-scene.svg",
-      "caption": "Scene illustration — Chevin"
+      "path": "/images/species/chevin-scene.png",
+      "caption": "Cinematic illustration — Chevin"
     }
   ]
 }

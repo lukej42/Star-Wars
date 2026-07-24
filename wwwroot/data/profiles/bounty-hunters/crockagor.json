@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/crockagor.svg",
-      "caption": "Emblem — Crockagor"
-    },
-    {
-      "path": "/images/bounty-hunters/crockagor-scene.svg",
-      "caption": "Scene illustration — Crockagor"
+      "path": "/images/bounty-hunters/crockagor-scene.png",
+      "caption": "Cinematic illustration — Crockagor"
     }
   ]
 }

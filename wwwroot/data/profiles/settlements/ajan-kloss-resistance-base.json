@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ajan-kloss-resistance-base.svg",
-      "caption": "Emblem — Ajan Kloss Resistance Base"
-    },
-    {
-      "path": "/images/settlements/ajan-kloss-resistance-base-scene.svg",
-      "caption": "Scene illustration — Ajan Kloss Resistance Base"
+      "path": "/images/settlements/ajan-kloss-resistance-base-scene.png",
+      "caption": "Cinematic illustration — Ajan Kloss Resistance Base"
     }
   ]
 }

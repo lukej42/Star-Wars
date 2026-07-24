@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/fang-class.svg",
-      "caption": "Profile view of the Fang-class Protector"
-    },
-    {
-      "path": "/images/ships/fang-class-scene.svg",
-      "caption": "Combat deployment — Fang-class Protector"
-    },
-    {
-      "path": "/images/ships/fang-class-blueprint.svg",
-      "caption": "Technical schematic — Fang-class Protector"
+      "path": "/images/ships/fang-class-scene.png",
+      "caption": "Cinematic illustration — Fang-class Protector"
     }
   ]
 }

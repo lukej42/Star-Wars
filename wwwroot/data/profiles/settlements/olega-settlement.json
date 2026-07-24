@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/olega-settlement.svg",
-      "caption": "Emblem — Olega Settlement"
-    },
-    {
-      "path": "/images/settlements/olega-settlement-scene.svg",
-      "caption": "Scene illustration — Olega Settlement"
+      "path": "/images/settlements/olega-settlement-scene.png",
+      "caption": "Cinematic illustration — Olega Settlement"
     }
   ]
 }

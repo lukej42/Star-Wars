@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/gauntlet-fighter.svg",
-      "caption": "Profile view of the Gauntlet Fighter"
-    },
-    {
-      "path": "/images/ships/gauntlet-fighter-scene.svg",
-      "caption": "Combat deployment — Gauntlet Fighter"
-    },
-    {
-      "path": "/images/ships/gauntlet-fighter-blueprint.svg",
-      "caption": "Technical schematic — Gauntlet Fighter"
+      "path": "/images/ships/gauntlet-fighter-scene.png",
+      "caption": "Cinematic illustration — Gauntlet Fighter"
     }
   ]
 }

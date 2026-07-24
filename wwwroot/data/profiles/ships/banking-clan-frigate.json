@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/banking-clan-frigate.svg",
-      "caption": "Profile view of the Banking Clan Frigate"
-    },
-    {
-      "path": "/images/ships/banking-clan-frigate-scene.svg",
-      "caption": "Combat deployment — Banking Clan Frigate"
-    },
-    {
-      "path": "/images/ships/banking-clan-frigate-blueprint.svg",
-      "caption": "Technical schematic — Banking Clan Frigate"
+      "path": "/images/ships/banking-clan-frigate-scene.png",
+      "caption": "Cinematic illustration — Banking Clan Frigate"
     }
   ]
 }

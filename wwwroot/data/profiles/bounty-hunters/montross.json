@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/montross.svg",
-      "caption": "Emblem — Montross"
-    },
-    {
-      "path": "/images/bounty-hunters/montross-scene.svg",
-      "caption": "Scene illustration — Montross"
+      "path": "/images/bounty-hunters/montross-scene.png",
+      "caption": "Cinematic illustration — Montross"
     }
   ]
 }

@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/din-djarin.svg",
-      "caption": "Emblem — Din Djarin"
-    },
-    {
-      "path": "/images/bounty-hunters/din-djarin-scene.svg",
-      "caption": "Scene illustration — Din Djarin"
+      "path": "/images/bounty-hunters/din-djarin-scene.png",
+      "caption": "Cinematic illustration — Din Djarin"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/theta-class.svg",
-      "caption": "Profile view of the Theta-class T-2c Shuttle"
-    },
-    {
-      "path": "/images/ships/theta-class-scene.svg",
-      "caption": "Combat deployment — Theta-class T-2c Shuttle"
-    },
-    {
-      "path": "/images/ships/theta-class-blueprint.svg",
-      "caption": "Technical schematic — Theta-class T-2c Shuttle"
+      "path": "/images/ships/theta-class-scene.png",
+      "caption": "Cinematic illustration — Theta-class T-2c Shuttle"
     }
   ]
 }

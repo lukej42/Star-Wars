@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/besalisk.svg",
-      "caption": "Emblem — Besalisk"
-    },
-    {
-      "path": "/images/species/besalisk-scene.svg",
-      "caption": "Scene illustration — Besalisk"
+      "path": "/images/species/besalisk-scene.png",
+      "caption": "Cinematic illustration — Besalisk"
     }
   ]
 }

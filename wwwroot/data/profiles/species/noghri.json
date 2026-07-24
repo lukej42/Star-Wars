@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/noghri.svg",
-      "caption": "Emblem — Noghri"
-    },
-    {
-      "path": "/images/species/noghri-scene.svg",
-      "caption": "Scene illustration — Noghri"
+      "path": "/images/species/noghri-scene.png",
+      "caption": "Cinematic illustration — Noghri"
     }
   ]
 }

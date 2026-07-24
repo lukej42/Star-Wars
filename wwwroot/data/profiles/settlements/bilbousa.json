@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/bilbousa.svg",
-      "caption": "Emblem — Bilbousa"
-    },
-    {
-      "path": "/images/settlements/bilbousa-scene.svg",
-      "caption": "Scene illustration — Bilbousa"
+      "path": "/images/settlements/bilbousa-scene.png",
+      "caption": "Cinematic illustration — Bilbousa"
     }
   ]
 }

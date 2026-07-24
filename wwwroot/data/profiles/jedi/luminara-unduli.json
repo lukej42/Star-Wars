@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/luminara-unduli.svg",
-      "caption": "Portrait of Luminara Unduli"
-    },
-    {
-      "path": "/images/jedi/luminara-unduli-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Luminara Unduli"
-    },
-    {
-      "path": "/images/jedi/luminara-unduli-emblem.svg",
-      "caption": "Jedi Order emblem associated with Luminara Unduli"
+      "path": "/images/jedi/luminara-unduli-scene.png",
+      "caption": "Cinematic illustration — Luminara Unduli"
     }
   ]
 }

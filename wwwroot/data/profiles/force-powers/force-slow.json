@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-slow.svg",
-      "caption": "Emblem — Force Slow"
-    },
-    {
-      "path": "/images/force-powers/force-slow-scene.svg",
-      "caption": "Scene illustration — Force Slow"
+      "path": "/images/force-powers/force-slow-scene.png",
+      "caption": "Cinematic illustration — Force Slow"
     }
   ]
 }

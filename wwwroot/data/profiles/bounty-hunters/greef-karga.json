@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/greef-karga.svg",
-      "caption": "Emblem — Greef Karga"
-    },
-    {
-      "path": "/images/bounty-hunters/greef-karga-scene.svg",
-      "caption": "Scene illustration — Greef Karga"
+      "path": "/images/bounty-hunters/greef-karga-scene.png",
+      "caption": "Cinematic illustration — Greef Karga"
     }
   ]
 }

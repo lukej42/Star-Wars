@@ -45,16 +45,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/yoda.svg",
-      "caption": "Portrait of Yoda"
-    },
-    {
-      "path": "/images/jedi/yoda-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Yoda"
-    },
-    {
-      "path": "/images/jedi/yoda-emblem.svg",
-      "caption": "Jedi Order emblem associated with Yoda"
+      "path": "/images/jedi/yoda-scene.png",
+      "caption": "Cinematic illustration — Yoda"
     }
   ]
 }

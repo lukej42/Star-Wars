@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-camouflage.svg",
-      "caption": "Emblem — Force Camouflage"
-    },
-    {
-      "path": "/images/force-powers/force-camouflage-scene.svg",
-      "caption": "Scene illustration — Force Camouflage"
+      "path": "/images/force-powers/force-camouflage-scene.png",
+      "caption": "Cinematic illustration — Force Camouflage"
     }
   ]
 }

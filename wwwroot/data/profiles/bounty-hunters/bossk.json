@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/bossk.svg",
-      "caption": "Emblem — Bossk"
-    },
-    {
-      "path": "/images/bounty-hunters/bossk-scene.svg",
-      "caption": "Scene illustration — Bossk"
+      "path": "/images/bounty-hunters/bossk-scene.png",
+      "caption": "Cinematic illustration — Bossk"
     }
   ]
 }

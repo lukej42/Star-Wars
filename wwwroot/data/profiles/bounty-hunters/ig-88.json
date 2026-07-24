@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/ig-88.svg",
-      "caption": "Emblem — IG-88"
-    },
-    {
-      "path": "/images/bounty-hunters/ig-88-scene.svg",
-      "caption": "Scene illustration — IG-88"
+      "path": "/images/bounty-hunters/ig-88-scene.png",
+      "caption": "Cinematic illustration — IG-88"
     }
   ]
 }

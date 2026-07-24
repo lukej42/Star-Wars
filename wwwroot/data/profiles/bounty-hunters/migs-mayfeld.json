@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/migs-mayfeld.svg",
-      "caption": "Emblem — Migs Mayfeld"
-    },
-    {
-      "path": "/images/bounty-hunters/migs-mayfeld-scene.svg",
-      "caption": "Scene illustration — Migs Mayfeld"
+      "path": "/images/bounty-hunters/migs-mayfeld-scene.png",
+      "caption": "Cinematic illustration — Migs Mayfeld"
     }
   ]
 }

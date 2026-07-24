@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/nathema-devastated-capital.svg",
-      "caption": "Emblem — Nathema Devastated Capital"
-    },
-    {
-      "path": "/images/settlements/nathema-devastated-capital-scene.svg",
-      "caption": "Scene illustration — Nathema Devastated Capital"
+      "path": "/images/settlements/nathema-devastated-capital-scene.png",
+      "caption": "Cinematic illustration — Nathema Devastated Capital"
     }
   ]
 }

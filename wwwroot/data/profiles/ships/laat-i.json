@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/laat-i.svg",
-      "caption": "Profile view of the LAAT/i Gunship"
-    },
-    {
-      "path": "/images/ships/laat-i-scene.svg",
-      "caption": "Combat deployment — LAAT/i Gunship"
-    },
-    {
-      "path": "/images/ships/laat-i-blueprint.svg",
-      "caption": "Technical schematic — LAAT/i Gunship"
+      "path": "/images/ships/laat-i-scene.png",
+      "caption": "Cinematic illustration — LAAT/i Gunship"
     }
   ]
 }

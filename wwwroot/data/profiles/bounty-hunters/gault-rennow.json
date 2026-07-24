@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/gault-rennow.svg",
-      "caption": "Emblem — Gault Rennow"
-    },
-    {
-      "path": "/images/bounty-hunters/gault-rennow-scene.svg",
-      "caption": "Scene illustration — Gault Rennow"
+      "path": "/images/bounty-hunters/gault-rennow-scene.png",
+      "caption": "Cinematic illustration — Gault Rennow"
     }
   ]
 }

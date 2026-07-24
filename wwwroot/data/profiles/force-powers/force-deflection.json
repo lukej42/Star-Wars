@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-deflection.svg",
-      "caption": "Emblem — Force Deflection"
-    },
-    {
-      "path": "/images/force-powers/force-deflection-scene.svg",
-      "caption": "Scene illustration — Force Deflection"
+      "path": "/images/force-powers/force-deflection-scene.png",
+      "caption": "Cinematic illustration — Force Deflection"
     }
   ]
 }

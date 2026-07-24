@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/tie-fighter.svg",
-      "caption": "Profile view of the TIE Fighter"
-    },
-    {
-      "path": "/images/ships/tie-fighter-scene.svg",
-      "caption": "Combat deployment — TIE Fighter"
-    },
-    {
-      "path": "/images/ships/tie-fighter-blueprint.svg",
-      "caption": "Technical schematic — TIE Fighter"
+      "path": "/images/ships/tie-fighter-scene.png",
+      "caption": "Cinematic illustration — TIE Fighter"
     }
   ]
 }

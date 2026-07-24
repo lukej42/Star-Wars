@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/black-krrsantan.svg",
-      "caption": "Emblem — Black Krrsantan"
-    },
-    {
-      "path": "/images/bounty-hunters/black-krrsantan-scene.svg",
-      "caption": "Scene illustration — Black Krrsantan"
+      "path": "/images/bounty-hunters/black-krrsantan-scene.png",
+      "caption": "Cinematic illustration — Black Krrsantan"
     }
   ]
 }

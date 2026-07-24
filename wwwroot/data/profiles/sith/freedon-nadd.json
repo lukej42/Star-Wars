@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/freedon-nadd.svg",
-      "caption": "Portrait of Freedon Nadd"
-    },
-    {
-      "path": "/images/sith/freedon-nadd-scene.svg",
-      "caption": "Dark side lightning scene — Freedon Nadd"
-    },
-    {
-      "path": "/images/sith/freedon-nadd-emblem.svg",
-      "caption": "Sith emblem associated with Freedon Nadd"
+      "path": "/images/sith/freedon-nadd-scene.png",
+      "caption": "Cinematic illustration — Freedon Nadd"
     }
   ]
 }

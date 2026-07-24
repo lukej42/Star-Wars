@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/ezra-bridger.svg",
-      "caption": "Portrait of Ezra Bridger"
-    },
-    {
-      "path": "/images/jedi/ezra-bridger-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Ezra Bridger"
-    },
-    {
-      "path": "/images/jedi/ezra-bridger-emblem.svg",
-      "caption": "Jedi Order emblem associated with Ezra Bridger"
+      "path": "/images/jedi/ezra-bridger-scene.png",
+      "caption": "Cinematic illustration — Ezra Bridger"
     }
   ]
 }

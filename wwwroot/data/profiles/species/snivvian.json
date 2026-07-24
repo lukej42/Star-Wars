@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/snivvian.svg",
-      "caption": "Emblem — Snivvian"
-    },
-    {
-      "path": "/images/species/snivvian-scene.svg",
-      "caption": "Scene illustration — Snivvian"
+      "path": "/images/species/snivvian-scene.png",
+      "caption": "Cinematic illustration — Snivvian"
     }
   ]
 }

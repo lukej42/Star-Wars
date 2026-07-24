@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/carrack-class.svg",
-      "caption": "Profile view of the Carrack-class Light Cruiser"
-    },
-    {
-      "path": "/images/ships/carrack-class-scene.svg",
-      "caption": "Combat deployment — Carrack-class Light Cruiser"
-    },
-    {
-      "path": "/images/ships/carrack-class-blueprint.svg",
-      "caption": "Technical schematic — Carrack-class Light Cruiser"
+      "path": "/images/ships/carrack-class-scene.png",
+      "caption": "Cinematic illustration — Carrack-class Light Cruiser"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/grand-inquisitor.svg",
-      "caption": "Portrait of Grand Inquisitor"
-    },
-    {
-      "path": "/images/sith/grand-inquisitor-scene.svg",
-      "caption": "Dark side lightning scene — Grand Inquisitor"
-    },
-    {
-      "path": "/images/sith/grand-inquisitor-emblem.svg",
-      "caption": "Sith emblem associated with Grand Inquisitor"
+      "path": "/images/sith/grand-inquisitor-scene.png",
+      "caption": "Cinematic illustration — Grand Inquisitor"
     }
   ]
 }

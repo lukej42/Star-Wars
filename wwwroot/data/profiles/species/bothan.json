@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/bothan.svg",
-      "caption": "Emblem — Bothan"
-    },
-    {
-      "path": "/images/species/bothan-scene.svg",
-      "caption": "Scene illustration — Bothan"
+      "path": "/images/species/bothan-scene.png",
+      "caption": "Cinematic illustration — Bothan"
     }
   ]
 }

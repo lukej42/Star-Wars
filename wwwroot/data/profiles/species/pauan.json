@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/pauan.svg",
-      "caption": "Emblem — Pau'an"
-    },
-    {
-      "path": "/images/species/pauan-scene.svg",
-      "caption": "Scene illustration — Pau'an"
+      "path": "/images/species/pauan-scene.png",
+      "caption": "Cinematic illustration — Pau'an"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/lasat.svg",
-      "caption": "Emblem — Lasat"
-    },
-    {
-      "path": "/images/species/lasat-scene.svg",
-      "caption": "Scene illustration — Lasat"
+      "path": "/images/species/lasat-scene.png",
+      "caption": "Cinematic illustration — Lasat"
     }
   ]
 }

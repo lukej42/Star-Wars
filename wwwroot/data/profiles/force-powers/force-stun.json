@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-stun.svg",
-      "caption": "Emblem — Force Stun"
-    },
-    {
-      "path": "/images/force-powers/force-stun-scene.svg",
-      "caption": "Scene illustration — Force Stun"
+      "path": "/images/force-powers/force-stun-scene.png",
+      "caption": "Cinematic illustration — Force Stun"
     }
   ]
 }

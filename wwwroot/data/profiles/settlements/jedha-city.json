@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/jedha-city.svg",
-      "caption": "Emblem — Jedha City"
-    },
-    {
-      "path": "/images/settlements/jedha-city-scene.svg",
-      "caption": "Scene illustration — Jedha City"
+      "path": "/images/settlements/jedha-city-scene.png",
+      "caption": "Cinematic illustration — Jedha City"
     }
   ]
 }

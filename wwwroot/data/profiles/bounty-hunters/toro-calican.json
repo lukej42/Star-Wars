@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/toro-calican.svg",
-      "caption": "Emblem — Toro Calican"
-    },
-    {
-      "path": "/images/bounty-hunters/toro-calican-scene.svg",
-      "caption": "Scene illustration — Toro Calican"
+      "path": "/images/bounty-hunters/toro-calican-scene.png",
+      "caption": "Cinematic illustration — Toro Calican"
     }
   ]
 }

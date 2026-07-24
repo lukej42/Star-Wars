@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/synara-san.svg",
-      "caption": "Emblem — Synara San"
-    },
-    {
-      "path": "/images/bounty-hunters/synara-san-scene.svg",
-      "caption": "Scene illustration — Synara San"
+      "path": "/images/bounty-hunters/synara-san-scene.png",
+      "caption": "Cinematic illustration — Synara San"
     }
   ]
 }

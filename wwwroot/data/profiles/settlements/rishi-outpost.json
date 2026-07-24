@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/rishi-outpost.svg",
-      "caption": "Emblem — Rishi Outpost"
-    },
-    {
-      "path": "/images/settlements/rishi-outpost-scene.svg",
-      "caption": "Scene illustration — Rishi Outpost"
+      "path": "/images/settlements/rishi-outpost-scene.png",
+      "caption": "Cinematic illustration — Rishi Outpost"
     }
   ]
 }

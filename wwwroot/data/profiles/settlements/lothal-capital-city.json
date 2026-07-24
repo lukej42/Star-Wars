@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/lothal-capital-city.svg",
-      "caption": "Emblem — Lothal Capital City"
-    },
-    {
-      "path": "/images/settlements/lothal-capital-city-scene.svg",
-      "caption": "Scene illustration — Lothal Capital City"
+      "path": "/images/settlements/lothal-capital-city-scene.png",
+      "caption": "Cinematic illustration — Lothal Capital City"
     }
   ]
 }

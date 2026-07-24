@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/zabrak.svg",
-      "caption": "Emblem — Zabrak"
-    },
-    {
-      "path": "/images/species/zabrak-scene.svg",
-      "caption": "Scene illustration — Zabrak"
+      "path": "/images/species/zabrak-scene.png",
+      "caption": "Cinematic illustration — Zabrak"
     }
   ]
 }

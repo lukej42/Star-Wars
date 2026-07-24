@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-valor.svg",
-      "caption": "Emblem — Force Valor"
-    },
-    {
-      "path": "/images/force-powers/force-valor-scene.svg",
-      "caption": "Scene illustration — Force Valor"
+      "path": "/images/force-powers/force-valor-scene.png",
+      "caption": "Cinematic illustration — Force Valor"
     }
   ]
 }

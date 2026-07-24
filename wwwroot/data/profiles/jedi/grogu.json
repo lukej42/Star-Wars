@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/grogu.svg",
-      "caption": "Portrait of Grogu"
-    },
-    {
-      "path": "/images/jedi/grogu-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Grogu"
-    },
-    {
-      "path": "/images/jedi/grogu-emblem.svg",
-      "caption": "Jedi Order emblem associated with Grogu"
+      "path": "/images/jedi/grogu-scene.png",
+      "caption": "Cinematic illustration — Grogu"
     }
   ]
 }

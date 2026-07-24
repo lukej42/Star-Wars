@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-fear.svg",
-      "caption": "Emblem — Force Fear"
-    },
-    {
-      "path": "/images/force-powers/force-fear-scene.svg",
-      "caption": "Scene illustration — Force Fear"
+      "path": "/images/force-powers/force-fear-scene.png",
+      "caption": "Cinematic illustration — Force Fear"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-corruption.svg",
-      "caption": "Emblem — Force Corruption"
-    },
-    {
-      "path": "/images/force-powers/force-corruption-scene.svg",
-      "caption": "Scene illustration — Force Corruption"
+      "path": "/images/force-powers/force-corruption-scene.png",
+      "caption": "Cinematic illustration — Force Corruption"
     }
   ]
 }

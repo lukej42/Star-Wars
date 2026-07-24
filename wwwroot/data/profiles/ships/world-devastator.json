@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/world-devastator.svg",
-      "caption": "Profile view of the World Devastator"
-    },
-    {
-      "path": "/images/ships/world-devastator-scene.svg",
-      "caption": "Combat deployment — World Devastator"
-    },
-    {
-      "path": "/images/ships/world-devastator-blueprint.svg",
-      "caption": "Technical schematic — World Devastator"
+      "path": "/images/ships/world-devastator-scene.png",
+      "caption": "Cinematic illustration — World Devastator"
     }
   ]
 }

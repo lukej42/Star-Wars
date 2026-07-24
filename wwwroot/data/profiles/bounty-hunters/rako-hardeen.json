@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/rako-hardeen.svg",
-      "caption": "Emblem — Rako Hardeen"
-    },
-    {
-      "path": "/images/bounty-hunters/rako-hardeen-scene.svg",
-      "caption": "Scene illustration — Rako Hardeen"
+      "path": "/images/bounty-hunters/rako-hardeen-scene.png",
+      "caption": "Cinematic illustration — Rako Hardeen"
     }
   ]
 }

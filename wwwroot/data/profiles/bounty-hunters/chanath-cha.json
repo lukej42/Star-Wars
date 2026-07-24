@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/chanath-cha.svg",
-      "caption": "Emblem — Chanath Cha"
-    },
-    {
-      "path": "/images/bounty-hunters/chanath-cha-scene.svg",
-      "caption": "Scene illustration — Chanath Cha"
+      "path": "/images/bounty-hunters/chanath-cha-scene.png",
+      "caption": "Cinematic illustration — Chanath Cha"
     }
   ]
 }

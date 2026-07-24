@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/rook-kast.svg",
-      "caption": "Emblem — Rook Kast"
-    },
-    {
-      "path": "/images/bounty-hunters/rook-kast-scene.svg",
-      "caption": "Scene illustration — Rook Kast"
+      "path": "/images/bounty-hunters/rook-kast-scene.png",
+      "caption": "Cinematic illustration — Rook Kast"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/latts-razzi.svg",
-      "caption": "Emblem — Latts Razzi"
-    },
-    {
-      "path": "/images/bounty-hunters/latts-razzi-scene.svg",
-      "caption": "Scene illustration — Latts Razzi"
+      "path": "/images/bounty-hunters/latts-razzi-scene.png",
+      "caption": "Cinematic illustration — Latts Razzi"
     }
   ]
 }

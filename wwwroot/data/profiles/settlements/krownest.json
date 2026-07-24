@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/krownest.svg",
-      "caption": "Emblem — Krownest"
-    },
-    {
-      "path": "/images/settlements/krownest-scene.svg",
-      "caption": "Scene illustration — Krownest"
+      "path": "/images/settlements/krownest-scene.png",
+      "caption": "Cinematic illustration — Krownest"
     }
   ]
 }

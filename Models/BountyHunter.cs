@@ -11,6 +11,6 @@ public sealed class BountyHunter
     public required string Color { get; init; }
     public required string Sources { get; init; }
 
-    public string ImagePath => $"/images/bounty-hunters/{Slug}.svg";
-    public string SceneImagePath => $"/images/bounty-hunters/{Slug}-scene.svg";
+    public string ImagePath => $"/images/bounty-hunters/{Slug}.png";
+    public string SceneImagePath => $"/images/bounty-hunters/{Slug}-scene.png";
 }

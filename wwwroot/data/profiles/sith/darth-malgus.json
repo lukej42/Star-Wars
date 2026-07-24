@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-malgus.svg",
-      "caption": "Portrait of Darth Malgus"
-    },
-    {
-      "path": "/images/sith/darth-malgus-scene.svg",
-      "caption": "Dark side lightning scene — Darth Malgus"
-    },
-    {
-      "path": "/images/sith/darth-malgus-emblem.svg",
-      "caption": "Sith emblem associated with Darth Malgus"
+      "path": "/images/sith/darth-malgus-scene.png",
+      "caption": "Cinematic illustration — Darth Malgus"
     }
   ]
 }

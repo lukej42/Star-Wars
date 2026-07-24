@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/tie-bomber.svg",
-      "caption": "Profile view of the TIE Bomber"
-    },
-    {
-      "path": "/images/ships/tie-bomber-scene.svg",
-      "caption": "Combat deployment — TIE Bomber"
-    },
-    {
-      "path": "/images/ships/tie-bomber-blueprint.svg",
-      "caption": "Technical schematic — TIE Bomber"
+      "path": "/images/ships/tie-bomber-scene.png",
+      "caption": "Cinematic illustration — TIE Bomber"
     }
   ]
 }

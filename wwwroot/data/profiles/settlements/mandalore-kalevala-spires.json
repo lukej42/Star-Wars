@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/mandalore-kalevala-spires.svg",
-      "caption": "Emblem — Mandalore Kalevala Spires"
-    },
-    {
-      "path": "/images/settlements/mandalore-kalevala-spires-scene.svg",
-      "caption": "Scene illustration — Mandalore Kalevala Spires"
+      "path": "/images/settlements/mandalore-kalevala-spires-scene.png",
+      "caption": "Cinematic illustration — Mandalore Kalevala Spires"
     }
   ]
 }

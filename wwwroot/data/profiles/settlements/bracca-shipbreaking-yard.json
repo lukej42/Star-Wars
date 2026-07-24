@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/bracca-shipbreaking-yard.svg",
-      "caption": "Emblem — Bracca Shipbreaking Yard"
-    },
-    {
-      "path": "/images/settlements/bracca-shipbreaking-yard-scene.svg",
-      "caption": "Scene illustration — Bracca Shipbreaking Yard"
+      "path": "/images/settlements/bracca-shipbreaking-yard-scene.png",
+      "caption": "Cinematic illustration — Bracca Shipbreaking Yard"
     }
   ]
 }

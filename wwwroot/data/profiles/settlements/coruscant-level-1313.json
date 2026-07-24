@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/coruscant-level-1313.svg",
-      "caption": "Emblem — Coruscant Level 1313"
-    },
-    {
-      "path": "/images/settlements/coruscant-level-1313-scene.svg",
-      "caption": "Scene illustration — Coruscant Level 1313"
+      "path": "/images/settlements/coruscant-level-1313-scene.png",
+      "caption": "Cinematic illustration — Coruscant Level 1313"
     }
   ]
 }

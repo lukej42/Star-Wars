@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/traxus.svg",
-      "caption": "Emblem — Traxus"
-    },
-    {
-      "path": "/images/bounty-hunters/traxus-scene.svg",
-      "caption": "Scene illustration — Traxus"
+      "path": "/images/bounty-hunters/traxus-scene.png",
+      "caption": "Cinematic illustration — Traxus"
     }
   ]
 }

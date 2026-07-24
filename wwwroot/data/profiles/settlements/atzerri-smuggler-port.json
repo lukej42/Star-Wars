@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/atzerri-smuggler-port.svg",
-      "caption": "Emblem — Atzerri Smuggler Port"
-    },
-    {
-      "path": "/images/settlements/atzerri-smuggler-port-scene.svg",
-      "caption": "Scene illustration — Atzerri Smuggler Port"
+      "path": "/images/settlements/atzerri-smuggler-port-scene.png",
+      "caption": "Cinematic illustration — Atzerri Smuggler Port"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/cato-parasitti.svg",
-      "caption": "Emblem — Cato Parasitti"
-    },
-    {
-      "path": "/images/bounty-hunters/cato-parasitti-scene.svg",
-      "caption": "Scene illustration — Cato Parasitti"
+      "path": "/images/bounty-hunters/cato-parasitti-scene.png",
+      "caption": "Cinematic illustration — Cato Parasitti"
     }
   ]
 }

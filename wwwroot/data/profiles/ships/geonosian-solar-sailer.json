@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/geonosian-solar-sailer.svg",
-      "caption": "Profile view of the Geonosian Solar Sailer"
-    },
-    {
-      "path": "/images/ships/geonosian-solar-sailer-scene.svg",
-      "caption": "Combat deployment — Geonosian Solar Sailer"
-    },
-    {
-      "path": "/images/ships/geonosian-solar-sailer-blueprint.svg",
-      "caption": "Technical schematic — Geonosian Solar Sailer"
+      "path": "/images/ships/geonosian-solar-sailer-scene.png",
+      "caption": "Cinematic illustration — Geonosian Solar Sailer"
     }
   ]
 }

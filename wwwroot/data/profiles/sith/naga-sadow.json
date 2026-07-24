@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/naga-sadow.svg",
-      "caption": "Portrait of Naga Sadow"
-    },
-    {
-      "path": "/images/sith/naga-sadow-scene.svg",
-      "caption": "Dark side lightning scene — Naga Sadow"
-    },
-    {
-      "path": "/images/sith/naga-sadow-emblem.svg",
-      "caption": "Sith emblem associated with Naga Sadow"
+      "path": "/images/sith/naga-sadow-scene.png",
+      "caption": "Cinematic illustration — Naga Sadow"
     }
   ]
 }

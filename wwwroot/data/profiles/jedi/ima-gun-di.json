@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/ima-gun-di.svg",
-      "caption": "Portrait of Ima-Gun Di"
-    },
-    {
-      "path": "/images/jedi/ima-gun-di-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Ima-Gun Di"
-    },
-    {
-      "path": "/images/jedi/ima-gun-di-emblem.svg",
-      "caption": "Jedi Order emblem associated with Ima-Gun Di"
+      "path": "/images/jedi/ima-gun-di-scene.png",
+      "caption": "Cinematic illustration — Ima-Gun Di"
     }
   ]
 }

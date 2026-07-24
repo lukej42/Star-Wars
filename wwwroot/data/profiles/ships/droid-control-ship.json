@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/droid-control-ship.svg",
-      "caption": "Profile view of the Droid Control Ship"
-    },
-    {
-      "path": "/images/ships/droid-control-ship-scene.svg",
-      "caption": "Combat deployment — Droid Control Ship"
-    },
-    {
-      "path": "/images/ships/droid-control-ship-blueprint.svg",
-      "caption": "Technical schematic — Droid Control Ship"
+      "path": "/images/ships/droid-control-ship-scene.png",
+      "caption": "Cinematic illustration — Droid Control Ship"
     }
   ]
 }

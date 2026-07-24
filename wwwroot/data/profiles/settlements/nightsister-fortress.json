@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/nightsister-fortress.svg",
-      "caption": "Emblem — Nightsister Fortress"
-    },
-    {
-      "path": "/images/settlements/nightsister-fortress-scene.svg",
-      "caption": "Scene illustration — Nightsister Fortress"
+      "path": "/images/settlements/nightsister-fortress-scene.png",
+      "caption": "Cinematic illustration — Nightsister Fortress"
     }
   ]
 }

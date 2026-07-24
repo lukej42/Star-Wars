@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/arquitens-class.svg",
-      "caption": "Profile view of the Arquitens-class Light Cruiser"
-    },
-    {
-      "path": "/images/ships/arquitens-class-scene.svg",
-      "caption": "Combat deployment — Arquitens-class Light Cruiser"
-    },
-    {
-      "path": "/images/ships/arquitens-class-blueprint.svg",
-      "caption": "Technical schematic — Arquitens-class Light Cruiser"
+      "path": "/images/ships/arquitens-class-scene.png",
+      "caption": "Cinematic illustration — Arquitens-class Light Cruiser"
     }
   ]
 }

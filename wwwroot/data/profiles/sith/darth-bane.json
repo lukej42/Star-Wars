@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-bane.svg",
-      "caption": "Portrait of Darth Bane"
-    },
-    {
-      "path": "/images/sith/darth-bane-scene.svg",
-      "caption": "Dark side lightning scene — Darth Bane"
-    },
-    {
-      "path": "/images/sith/darth-bane-emblem.svg",
-      "caption": "Sith emblem associated with Darth Bane"
+      "path": "/images/sith/darth-bane-scene.png",
+      "caption": "Cinematic illustration — Darth Bane"
     }
   ]
 }

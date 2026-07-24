@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/stass-allie.svg",
-      "caption": "Portrait of Stass Allie"
-    },
-    {
-      "path": "/images/jedi/stass-allie-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Stass Allie"
-    },
-    {
-      "path": "/images/jedi/stass-allie-emblem.svg",
-      "caption": "Jedi Order emblem associated with Stass Allie"
+      "path": "/images/jedi/stass-allie-scene.png",
+      "caption": "Cinematic illustration — Stass Allie"
     }
   ]
 }

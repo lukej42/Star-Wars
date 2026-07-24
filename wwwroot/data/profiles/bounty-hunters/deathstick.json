@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/deathstick.svg",
-      "caption": "Emblem — Deathstick"
-    },
-    {
-      "path": "/images/bounty-hunters/deathstick-scene.svg",
-      "caption": "Scene illustration — Deathstick"
+      "path": "/images/bounty-hunters/deathstick-scene.png",
+      "caption": "Cinematic illustration — Deathstick"
     }
   ]
 }

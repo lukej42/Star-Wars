@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/ongree.svg",
-      "caption": "Emblem — Ongree"
-    },
-    {
-      "path": "/images/species/ongree-scene.svg",
-      "caption": "Scene illustration — Ongree"
+      "path": "/images/species/ongree-scene.png",
+      "caption": "Cinematic illustration — Ongree"
     }
   ]
 }

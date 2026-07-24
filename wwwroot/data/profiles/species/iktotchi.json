@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/iktotchi.svg",
-      "caption": "Emblem — Iktotchi"
-    },
-    {
-      "path": "/images/species/iktotchi-scene.svg",
-      "caption": "Scene illustration — Iktotchi"
+      "path": "/images/species/iktotchi-scene.png",
+      "caption": "Cinematic illustration — Iktotchi"
     }
   ]
 }

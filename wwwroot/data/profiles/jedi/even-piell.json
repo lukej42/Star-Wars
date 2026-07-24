@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/even-piell.svg",
-      "caption": "Portrait of Even Piell"
-    },
-    {
-      "path": "/images/jedi/even-piell-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Even Piell"
-    },
-    {
-      "path": "/images/jedi/even-piell-emblem.svg",
-      "caption": "Jedi Order emblem associated with Even Piell"
+      "path": "/images/jedi/even-piell-scene.png",
+      "caption": "Cinematic illustration — Even Piell"
     }
   ]
 }

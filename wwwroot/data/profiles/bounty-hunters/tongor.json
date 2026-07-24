@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/tongor.svg",
-      "caption": "Emblem — T'ongor"
-    },
-    {
-      "path": "/images/bounty-hunters/tongor-scene.svg",
-      "caption": "Scene illustration — T'ongor"
+      "path": "/images/bounty-hunters/tongor-scene.png",
+      "caption": "Cinematic illustration — T'ongor"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/sixtat.svg",
-      "caption": "Emblem — Sixtat"
-    },
-    {
-      "path": "/images/bounty-hunters/sixtat-scene.svg",
-      "caption": "Scene illustration — Sixtat"
+      "path": "/images/bounty-hunters/sixtat-scene.png",
+      "caption": "Cinematic illustration — Sixtat"
     }
   ]
 }

@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/calo-nord.svg",
-      "caption": "Emblem — Calo Nord"
-    },
-    {
-      "path": "/images/bounty-hunters/calo-nord-scene.svg",
-      "caption": "Scene illustration — Calo Nord"
+      "path": "/images/bounty-hunters/calo-nord-scene.png",
+      "caption": "Cinematic illustration — Calo Nord"
     }
   ]
 }

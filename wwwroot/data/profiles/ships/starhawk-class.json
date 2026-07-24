@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/starhawk-class.svg",
-      "caption": "Profile view of the Starhawk-class Battleship"
-    },
-    {
-      "path": "/images/ships/starhawk-class-scene.svg",
-      "caption": "Combat deployment — Starhawk-class Battleship"
-    },
-    {
-      "path": "/images/ships/starhawk-class-blueprint.svg",
-      "caption": "Technical schematic — Starhawk-class Battleship"
+      "path": "/images/ships/starhawk-class-scene.png",
+      "caption": "Cinematic illustration — Starhawk-class Battleship"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/gamorrean.svg",
-      "caption": "Emblem — Gamorrean"
-    },
-    {
-      "path": "/images/species/gamorrean-scene.svg",
-      "caption": "Scene illustration — Gamorrean"
+      "path": "/images/species/gamorrean-scene.png",
+      "caption": "Cinematic illustration — Gamorrean"
     }
   ]
 }

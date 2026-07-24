@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/tusken-raider.svg",
-      "caption": "Emblem — Tusken Raider"
-    },
-    {
-      "path": "/images/species/tusken-raider-scene.svg",
-      "caption": "Scene illustration — Tusken Raider"
+      "path": "/images/species/tusken-raider-scene.png",
+      "caption": "Cinematic illustration — Tusken Raider"
     }
   ]
 }

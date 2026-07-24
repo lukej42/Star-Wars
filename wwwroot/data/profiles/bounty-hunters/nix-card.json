@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/nix-card.svg",
-      "caption": "Emblem — Nix Card"
-    },
-    {
-      "path": "/images/bounty-hunters/nix-card-scene.svg",
-      "caption": "Scene illustration — Nix Card"
+      "path": "/images/bounty-hunters/nix-card-scene.png",
+      "caption": "Cinematic illustration — Nix Card"
     }
   ]
 }

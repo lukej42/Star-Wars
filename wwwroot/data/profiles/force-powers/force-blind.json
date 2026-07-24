@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-blind.svg",
-      "caption": "Emblem — Force Blind"
-    },
-    {
-      "path": "/images/force-powers/force-blind-scene.svg",
-      "caption": "Scene illustration — Force Blind"
+      "path": "/images/force-powers/force-blind-scene.png",
+      "caption": "Cinematic illustration — Force Blind"
     }
   ]
 }

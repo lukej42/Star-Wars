@@ -20,7 +20,8 @@ else
 {
     <DirectoryDetailShell Name="@power.Name"
                           HeroImagePath="@power.SceneImagePath"
-                          HeroImageAlt="@($"Illustration of {power.Name}")"
+                          HeroImageAlt="@($"Cinematic illustration of {power.Name}")"
+                          ShowPortraitHero="false"
                           Subtitle="@($"{SideLabel} · {power.Category}")"
                           MetaLine="@($"Difficulty: {power.Difficulty} · Sources: {power.Sources}")"
                           OverviewText="@(profile?.Overview ?? power.Description)"

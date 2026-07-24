@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/skreek.svg",
-      "caption": "Emblem — Skreek"
-    },
-    {
-      "path": "/images/bounty-hunters/skreek-scene.svg",
-      "caption": "Scene illustration — Skreek"
+      "path": "/images/bounty-hunters/skreek-scene.png",
+      "caption": "Cinematic illustration — Skreek"
     }
   ]
 }

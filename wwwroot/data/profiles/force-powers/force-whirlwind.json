@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-whirlwind.svg",
-      "caption": "Emblem — Force Whirlwind"
-    },
-    {
-      "path": "/images/force-powers/force-whirlwind-scene.svg",
-      "caption": "Scene illustration — Force Whirlwind"
+      "path": "/images/force-powers/force-whirlwind-scene.png",
+      "caption": "Cinematic illustration — Force Whirlwind"
     }
   ]
 }

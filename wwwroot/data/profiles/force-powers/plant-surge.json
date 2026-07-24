@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/plant-surge.svg",
-      "caption": "Emblem — Plant Surge"
-    },
-    {
-      "path": "/images/force-powers/plant-surge-scene.svg",
-      "caption": "Scene illustration — Plant Surge"
+      "path": "/images/force-powers/plant-surge-scene.png",
+      "caption": "Cinematic illustration — Plant Surge"
     }
   ]
 }

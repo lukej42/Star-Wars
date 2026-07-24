@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/aa-9-freighter.svg",
-      "caption": "Profile view of the AA-9 Coruscant Freighter"
-    },
-    {
-      "path": "/images/ships/aa-9-freighter-scene.svg",
-      "caption": "Combat deployment — AA-9 Coruscant Freighter"
-    },
-    {
-      "path": "/images/ships/aa-9-freighter-blueprint.svg",
-      "caption": "Technical schematic — AA-9 Coruscant Freighter"
+      "path": "/images/ships/aa-9-freighter-scene.png",
+      "caption": "Cinematic illustration — AA-9 Coruscant Freighter"
     }
   ]
 }

@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/beebox.svg",
-      "caption": "Emblem — Beebox"
-    },
-    {
-      "path": "/images/bounty-hunters/beebox-scene.svg",
-      "caption": "Scene illustration — Beebox"
+      "path": "/images/bounty-hunters/beebox-scene.png",
+      "caption": "Cinematic illustration — Beebox"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/barriss-offee.svg",
-      "caption": "Portrait of Barriss Offee"
-    },
-    {
-      "path": "/images/jedi/barriss-offee-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Barriss Offee"
-    },
-    {
-      "path": "/images/jedi/barriss-offee-emblem.svg",
-      "caption": "Jedi Order emblem associated with Barriss Offee"
+      "path": "/images/jedi/barriss-offee-scene.png",
+      "caption": "Cinematic illustration — Barriss Offee"
     }
   ]
 }

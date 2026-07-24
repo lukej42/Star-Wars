@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-enlightenment.svg",
-      "caption": "Emblem — Force Enlightenment"
-    },
-    {
-      "path": "/images/force-powers/force-enlightenment-scene.svg",
-      "caption": "Scene illustration — Force Enlightenment"
+      "path": "/images/force-powers/force-enlightenment-scene.png",
+      "caption": "Cinematic illustration — Force Enlightenment"
     }
   ]
 }

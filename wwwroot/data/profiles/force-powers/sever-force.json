@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/sever-force.svg",
-      "caption": "Emblem — Sever Force"
-    },
-    {
-      "path": "/images/force-powers/sever-force-scene.svg",
-      "caption": "Scene illustration — Sever Force"
+      "path": "/images/force-powers/sever-force-scene.png",
+      "caption": "Cinematic illustration — Sever Force"
     }
   ]
 }

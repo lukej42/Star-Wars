@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/echani.svg",
-      "caption": "Emblem — Echani"
-    },
-    {
-      "path": "/images/species/echani-scene.svg",
-      "caption": "Scene illustration — Echani"
+      "path": "/images/species/echani-scene.png",
+      "caption": "Cinematic illustration — Echani"
     }
   ]
 }

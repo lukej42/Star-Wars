@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/umbaran.svg",
-      "caption": "Emblem — Umbaran"
-    },
-    {
-      "path": "/images/species/umbaran-scene.svg",
-      "caption": "Scene illustration — Umbaran"
+      "path": "/images/species/umbaran-scene.png",
+      "caption": "Cinematic illustration — Umbaran"
     }
   ]
 }

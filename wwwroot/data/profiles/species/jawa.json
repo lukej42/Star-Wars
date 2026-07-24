@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/jawa.svg",
-      "caption": "Emblem — Jawa"
-    },
-    {
-      "path": "/images/species/jawa-scene.svg",
-      "caption": "Scene illustration — Jawa"
+      "path": "/images/species/jawa-scene.png",
+      "caption": "Cinematic illustration — Jawa"
     }
   ]
 }

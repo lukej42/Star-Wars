@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-affliction.svg",
-      "caption": "Emblem — Force Affliction"
-    },
-    {
-      "path": "/images/force-powers/force-affliction-scene.svg",
-      "caption": "Scene illustration — Force Affliction"
+      "path": "/images/force-powers/force-affliction-scene.png",
+      "caption": "Cinematic illustration — Force Affliction"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/dantooine-jedi-enclave.svg",
-      "caption": "Emblem — Dantooine Jedi Enclave"
-    },
-    {
-      "path": "/images/settlements/dantooine-jedi-enclave-scene.svg",
-      "caption": "Scene illustration — Dantooine Jedi Enclave"
+      "path": "/images/settlements/dantooine-jedi-enclave-scene.png",
+      "caption": "Cinematic illustration — Dantooine Jedi Enclave"
     }
   ]
 }

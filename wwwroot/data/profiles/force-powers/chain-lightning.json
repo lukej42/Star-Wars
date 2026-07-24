@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/chain-lightning.svg",
-      "caption": "Emblem — Chain Lightning"
-    },
-    {
-      "path": "/images/force-powers/chain-lightning-scene.svg",
-      "caption": "Scene illustration — Chain Lightning"
+      "path": "/images/force-powers/chain-lightning-scene.png",
+      "caption": "Cinematic illustration — Chain Lightning"
     }
   ]
 }

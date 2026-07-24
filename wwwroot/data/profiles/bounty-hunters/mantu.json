@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/mantu.svg",
-      "caption": "Emblem — Mantu"
-    },
-    {
-      "path": "/images/bounty-hunters/mantu-scene.svg",
-      "caption": "Scene illustration — Mantu"
+      "path": "/images/bounty-hunters/mantu-scene.png",
+      "caption": "Cinematic illustration — Mantu"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/pelta-class.svg",
-      "caption": "Profile view of the Pelta-class Frigate"
-    },
-    {
-      "path": "/images/ships/pelta-class-scene.svg",
-      "caption": "Combat deployment — Pelta-class Frigate"
-    },
-    {
-      "path": "/images/ships/pelta-class-blueprint.svg",
-      "caption": "Technical schematic — Pelta-class Frigate"
+      "path": "/images/ships/pelta-class-scene.png",
+      "caption": "Cinematic illustration — Pelta-class Frigate"
     }
   ]
 }

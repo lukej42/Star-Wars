@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/aqualish.svg",
-      "caption": "Emblem — Aqualish"
-    },
-    {
-      "path": "/images/species/aqualish-scene.svg",
-      "caption": "Scene illustration — Aqualish"
+      "path": "/images/species/aqualish-scene.png",
+      "caption": "Cinematic illustration — Aqualish"
     }
   ]
 }

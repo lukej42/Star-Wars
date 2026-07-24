@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/riley.svg",
-      "caption": "Emblem — Riley"
-    },
-    {
-      "path": "/images/bounty-hunters/riley-scene.svg",
-      "caption": "Scene illustration — Riley"
+      "path": "/images/bounty-hunters/riley-scene.png",
+      "caption": "Cinematic illustration — Riley"
     }
   ]
 }

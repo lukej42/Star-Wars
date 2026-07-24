@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/clawdite.svg",
-      "caption": "Emblem — Clawdite"
-    },
-    {
-      "path": "/images/species/clawdite-scene.svg",
-      "caption": "Scene illustration — Clawdite"
+      "path": "/images/species/clawdite-scene.png",
+      "caption": "Cinematic illustration — Clawdite"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/fifth-brother.svg",
-      "caption": "Portrait of Fifth Brother"
-    },
-    {
-      "path": "/images/sith/fifth-brother-scene.svg",
-      "caption": "Dark side lightning scene — Fifth Brother"
-    },
-    {
-      "path": "/images/sith/fifth-brother-emblem.svg",
-      "caption": "Sith emblem associated with Fifth Brother"
+      "path": "/images/sith/fifth-brother-scene.png",
+      "caption": "Cinematic illustration — Fifth Brother"
     }
   ]
 }

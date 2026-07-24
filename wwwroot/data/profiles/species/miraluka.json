@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/miraluka.svg",
-      "caption": "Emblem — Miraluka"
-    },
-    {
-      "path": "/images/species/miraluka-scene.svg",
-      "caption": "Scene illustration — Miraluka"
+      "path": "/images/species/miraluka-scene.png",
+      "caption": "Cinematic illustration — Miraluka"
     }
   ]
 }

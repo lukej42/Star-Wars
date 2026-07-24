@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/selkath.svg",
-      "caption": "Emblem — Selkath"
-    },
-    {
-      "path": "/images/species/selkath-scene.svg",
-      "caption": "Scene illustration — Selkath"
+      "path": "/images/species/selkath-scene.png",
+      "caption": "Cinematic illustration — Selkath"
     }
   ]
 }

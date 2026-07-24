@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/nebulon-b.svg",
-      "caption": "Profile view of the Nebulon-B Frigate"
-    },
-    {
-      "path": "/images/ships/nebulon-b-scene.svg",
-      "caption": "Combat deployment — Nebulon-B Frigate"
-    },
-    {
-      "path": "/images/ships/nebulon-b-blueprint.svg",
-      "caption": "Technical schematic — Nebulon-B Frigate"
+      "path": "/images/ships/nebulon-b-scene.png",
+      "caption": "Cinematic illustration — Nebulon-B Frigate"
     }
   ]
 }

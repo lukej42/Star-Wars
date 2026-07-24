@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-rage.svg",
-      "caption": "Emblem — Force Rage"
-    },
-    {
-      "path": "/images/force-powers/force-rage-scene.svg",
-      "caption": "Scene illustration — Force Rage"
+      "path": "/images/force-powers/force-rage-scene.png",
+      "caption": "Cinematic illustration — Force Rage"
     }
   ]
 }

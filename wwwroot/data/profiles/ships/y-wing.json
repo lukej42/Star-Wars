@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/y-wing.svg",
-      "caption": "Profile view of the Y-wing (BTL-A4)"
-    },
-    {
-      "path": "/images/ships/y-wing-scene.svg",
-      "caption": "Combat deployment — Y-wing (BTL-A4)"
-    },
-    {
-      "path": "/images/ships/y-wing-blueprint.svg",
-      "caption": "Technical schematic — Y-wing (BTL-A4)"
+      "path": "/images/ships/y-wing-scene.png",
+      "caption": "Cinematic illustration — Y-wing (BTL-A4)"
     }
   ]
 }

@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/dagobah-swamp-hermitage.svg",
-      "caption": "Emblem — Dagobah Swamp Hermitage"
-    },
-    {
-      "path": "/images/settlements/dagobah-swamp-hermitage-scene.svg",
-      "caption": "Scene illustration — Dagobah Swamp Hermitage"
+      "path": "/images/settlements/dagobah-swamp-hermitage-scene.png",
+      "caption": "Cinematic illustration — Dagobah Swamp Hermitage"
     }
   ]
 }

@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/4-lom.svg",
-      "caption": "Emblem — 4-LOM"
-    },
-    {
-      "path": "/images/bounty-hunters/4-lom-scene.svg",
-      "caption": "Scene illustration — 4-LOM"
+      "path": "/images/bounty-hunters/4-lom-scene.png",
+      "caption": "Cinematic illustration — 4-LOM"
     }
   ]
 }

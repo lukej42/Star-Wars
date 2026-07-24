@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/tie-reaper.svg",
-      "caption": "Profile view of the TIE/rp Reaper"
-    },
-    {
-      "path": "/images/ships/tie-reaper-scene.svg",
-      "caption": "Combat deployment — TIE/rp Reaper"
-    },
-    {
-      "path": "/images/ships/tie-reaper-blueprint.svg",
-      "caption": "Technical schematic — TIE/rp Reaper"
+      "path": "/images/ships/tie-reaper-scene.png",
+      "caption": "Cinematic illustration — TIE/rp Reaper"
     }
   ]
 }

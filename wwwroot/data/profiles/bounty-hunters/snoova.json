@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/snoova.svg",
-      "caption": "Emblem — Snoova"
-    },
-    {
-      "path": "/images/bounty-hunters/snoova-scene.svg",
-      "caption": "Scene illustration — Snoova"
+      "path": "/images/bounty-hunters/snoova-scene.png",
+      "caption": "Cinematic illustration — Snoova"
     }
   ]
 }

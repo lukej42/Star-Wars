@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/coleman-trebor.svg",
-      "caption": "Portrait of Coleman Trebor"
-    },
-    {
-      "path": "/images/jedi/coleman-trebor-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Coleman Trebor"
-    },
-    {
-      "path": "/images/jedi/coleman-trebor-emblem.svg",
-      "caption": "Jedi Order emblem associated with Coleman Trebor"
+      "path": "/images/jedi/coleman-trebor-scene.png",
+      "caption": "Cinematic illustration — Coleman Trebor"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-zannah.svg",
-      "caption": "Portrait of Darth Zannah"
-    },
-    {
-      "path": "/images/sith/darth-zannah-scene.svg",
-      "caption": "Dark side lightning scene — Darth Zannah"
-    },
-    {
-      "path": "/images/sith/darth-zannah-emblem.svg",
-      "caption": "Sith emblem associated with Darth Zannah"
+      "path": "/images/sith/darth-zannah-scene.png",
+      "caption": "Cinematic illustration — Darth Zannah"
     }
   ]
 }

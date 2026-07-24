@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/mirialan.svg",
-      "caption": "Emblem — Mirialan"
-    },
-    {
-      "path": "/images/species/mirialan-scene.svg",
-      "caption": "Scene illustration — Mirialan"
+      "path": "/images/species/mirialan-scene.png",
+      "caption": "Cinematic illustration — Mirialan"
     }
   ]
 }

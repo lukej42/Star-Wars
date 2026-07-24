@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/mimban-forward-camp.svg",
-      "caption": "Emblem — Mimban Forward Camp"
-    },
-    {
-      "path": "/images/settlements/mimban-forward-camp-scene.svg",
-      "caption": "Scene illustration — Mimban Forward Camp"
+      "path": "/images/settlements/mimban-forward-camp-scene.png",
+      "caption": "Cinematic illustration — Mimban Forward Camp"
     }
   ]
 }

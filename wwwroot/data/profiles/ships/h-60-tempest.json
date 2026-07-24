@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/h-60-tempest.svg",
-      "caption": "Profile view of the H-60 Tempest Bomber"
-    },
-    {
-      "path": "/images/ships/h-60-tempest-scene.svg",
-      "caption": "Combat deployment — H-60 Tempest Bomber"
-    },
-    {
-      "path": "/images/ships/h-60-tempest-blueprint.svg",
-      "caption": "Technical schematic — H-60 Tempest Bomber"
+      "path": "/images/ships/h-60-tempest-scene.png",
+      "caption": "Cinematic illustration — H-60 Tempest Bomber"
     }
   ]
 }

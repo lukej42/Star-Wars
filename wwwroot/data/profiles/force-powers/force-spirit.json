@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-spirit.svg",
-      "caption": "Emblem — Force Spirit"
-    },
-    {
-      "path": "/images/force-powers/force-spirit-scene.svg",
-      "caption": "Scene illustration — Force Spirit"
+      "path": "/images/force-powers/force-spirit-scene.png",
+      "caption": "Cinematic illustration — Force Spirit"
     }
   ]
 }

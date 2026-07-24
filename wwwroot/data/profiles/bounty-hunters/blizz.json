@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/blizz.svg",
-      "caption": "Emblem — Blizz"
-    },
-    {
-      "path": "/images/bounty-hunters/blizz-scene.svg",
-      "caption": "Scene illustration — Blizz"
+      "path": "/images/bounty-hunters/blizz-scene.png",
+      "caption": "Cinematic illustration — Blizz"
     }
   ]
 }

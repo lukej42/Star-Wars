@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/tulak-hord.svg",
-      "caption": "Portrait of Tulak Hord"
-    },
-    {
-      "path": "/images/sith/tulak-hord-scene.svg",
-      "caption": "Dark side lightning scene — Tulak Hord"
-    },
-    {
-      "path": "/images/sith/tulak-hord-emblem.svg",
-      "caption": "Sith emblem associated with Tulak Hord"
+      "path": "/images/sith/tulak-hord-scene.png",
+      "caption": "Cinematic illustration — Tulak Hord"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/canto-bight.svg",
-      "caption": "Emblem — Canto Bight"
-    },
-    {
-      "path": "/images/settlements/canto-bight-scene.svg",
-      "caption": "Scene illustration — Canto Bight"
+      "path": "/images/settlements/canto-bight-scene.png",
+      "caption": "Cinematic illustration — Canto Bight"
     }
   ]
 }

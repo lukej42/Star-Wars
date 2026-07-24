@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/whiphid.svg",
-      "caption": "Emblem — Whiphid"
-    },
-    {
-      "path": "/images/species/whiphid-scene.svg",
-      "caption": "Scene illustration — Whiphid"
+      "path": "/images/species/whiphid-scene.png",
+      "caption": "Cinematic illustration — Whiphid"
     }
   ]
 }

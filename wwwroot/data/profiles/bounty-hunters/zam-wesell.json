@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/zam-wesell.svg",
-      "caption": "Emblem — Zam Wesell"
-    },
-    {
-      "path": "/images/bounty-hunters/zam-wesell-scene.svg",
-      "caption": "Scene illustration — Zam Wesell"
+      "path": "/images/bounty-hunters/zam-wesell-scene.png",
+      "caption": "Cinematic illustration — Zam Wesell"
     }
   ]
 }

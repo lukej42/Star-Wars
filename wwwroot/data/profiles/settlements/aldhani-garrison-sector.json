@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/aldhani-garrison-sector.svg",
-      "caption": "Emblem — Aldhani Garrison Sector"
-    },
-    {
-      "path": "/images/settlements/aldhani-garrison-sector-scene.svg",
-      "caption": "Scene illustration — Aldhani Garrison Sector"
+      "path": "/images/settlements/aldhani-garrison-sector-scene.png",
+      "caption": "Cinematic illustration — Aldhani Garrison Sector"
     }
   ]
 }

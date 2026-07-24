@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/raxus-secundus.svg",
-      "caption": "Emblem — Raxus Secundus"
-    },
-    {
-      "path": "/images/settlements/raxus-secundus-scene.svg",
-      "caption": "Scene illustration — Raxus Secundus"
+      "path": "/images/settlements/raxus-secundus-scene.png",
+      "caption": "Cinematic illustration — Raxus Secundus"
     }
   ]
 }

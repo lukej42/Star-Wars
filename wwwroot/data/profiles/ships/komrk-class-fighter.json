@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/komrk-class-fighter.svg",
-      "caption": "Profile view of the Kom'rk-class Fighter/Transport"
-    },
-    {
-      "path": "/images/ships/komrk-class-fighter-scene.svg",
-      "caption": "Combat deployment — Kom'rk-class Fighter/Transport"
-    },
-    {
-      "path": "/images/ships/komrk-class-fighter-blueprint.svg",
-      "caption": "Technical schematic — Kom'rk-class Fighter/Transport"
+      "path": "/images/ships/komrk-class-fighter-scene.png",
+      "caption": "Cinematic illustration — Kom'rk-class Fighter/Transport"
     }
   ]
 }

@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/boba-fett.svg",
-      "caption": "Emblem — Boba Fett"
-    },
-    {
-      "path": "/images/bounty-hunters/boba-fett-scene.svg",
-      "caption": "Scene illustration — Boba Fett"
+      "path": "/images/bounty-hunters/boba-fett-scene.png",
+      "caption": "Cinematic illustration — Boba Fett"
     }
   ]
 }

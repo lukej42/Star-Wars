@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/sullustan.svg",
-      "caption": "Emblem — Sullustan"
-    },
-    {
-      "path": "/images/species/sullustan-scene.svg",
-      "caption": "Scene illustration — Sullustan"
+      "path": "/images/species/sullustan-scene.png",
+      "caption": "Cinematic illustration — Sullustan"
     }
   ]
 }

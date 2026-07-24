@@ -37,12 +37,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-jump.svg",
-      "caption": "Emblem — Force Jump"
-    },
-    {
-      "path": "/images/force-powers/force-jump-scene.svg",
-      "caption": "Scene illustration — Force Jump"
+      "path": "/images/force-powers/force-jump-scene.png",
+      "caption": "Cinematic illustration — Force Jump"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/belbullab-22.svg",
-      "caption": "Profile view of the Belbullab-22 Starfighter"
-    },
-    {
-      "path": "/images/ships/belbullab-22-scene.svg",
-      "caption": "Combat deployment — Belbullab-22 Starfighter"
-    },
-    {
-      "path": "/images/ships/belbullab-22-blueprint.svg",
-      "caption": "Technical schematic — Belbullab-22 Starfighter"
+      "path": "/images/ships/belbullab-22-scene.png",
+      "caption": "Cinematic illustration — Belbullab-22 Starfighter"
     }
   ]
 }

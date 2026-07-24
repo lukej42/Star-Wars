@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/delphidian.svg",
-      "caption": "Emblem — Delphidian"
-    },
-    {
-      "path": "/images/species/delphidian-scene.svg",
-      "caption": "Scene illustration — Delphidian"
+      "path": "/images/species/delphidian-scene.png",
+      "caption": "Cinematic illustration — Delphidian"
     }
   ]
 }

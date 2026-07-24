@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/lancer-class.svg",
-      "caption": "Profile view of the Lancer-class Frigate"
-    },
-    {
-      "path": "/images/ships/lancer-class-scene.svg",
-      "caption": "Combat deployment — Lancer-class Frigate"
-    },
-    {
-      "path": "/images/ships/lancer-class-blueprint.svg",
-      "caption": "Technical schematic — Lancer-class Frigate"
+      "path": "/images/ships/lancer-class-scene.png",
+      "caption": "Cinematic illustration — Lancer-class Frigate"
     }
   ]
 }

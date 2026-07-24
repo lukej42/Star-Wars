@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-revan.svg",
-      "caption": "Portrait of Darth Revan"
-    },
-    {
-      "path": "/images/sith/darth-revan-scene.svg",
-      "caption": "Dark side lightning scene — Darth Revan"
-    },
-    {
-      "path": "/images/sith/darth-revan-emblem.svg",
-      "caption": "Sith emblem associated with Darth Revan"
+      "path": "/images/sith/darth-revan-scene.png",
+      "caption": "Cinematic illustration — Darth Revan"
     }
   ]
 }

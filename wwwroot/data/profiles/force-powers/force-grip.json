@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-grip.svg",
-      "caption": "Emblem — Force Grip"
-    },
-    {
-      "path": "/images/force-powers/force-grip-scene.svg",
-      "caption": "Scene illustration — Force Grip"
+      "path": "/images/force-powers/force-grip-scene.png",
+      "caption": "Cinematic illustration — Force Grip"
     }
   ]
 }

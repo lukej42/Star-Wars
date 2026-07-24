@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/aayla-secura.svg",
-      "caption": "Portrait of Aayla Secura"
-    },
-    {
-      "path": "/images/jedi/aayla-secura-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Aayla Secura"
-    },
-    {
-      "path": "/images/jedi/aayla-secura-emblem.svg",
-      "caption": "Jedi Order emblem associated with Aayla Secura"
+      "path": "/images/jedi/aayla-secura-scene.png",
+      "caption": "Cinematic illustration — Aayla Secura"
     }
   ]
 }

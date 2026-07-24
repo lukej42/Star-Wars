@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/siniteen.svg",
-      "caption": "Emblem — Siniteen"
-    },
-    {
-      "path": "/images/species/siniteen-scene.svg",
-      "caption": "Scene illustration — Siniteen"
+      "path": "/images/species/siniteen-scene.png",
+      "caption": "Cinematic illustration — Siniteen"
     }
   ]
 }

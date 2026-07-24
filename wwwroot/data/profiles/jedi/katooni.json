@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/katooni.svg",
-      "caption": "Portrait of Katooni"
-    },
-    {
-      "path": "/images/jedi/katooni-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Katooni"
-    },
-    {
-      "path": "/images/jedi/katooni-emblem.svg",
-      "caption": "Jedi Order emblem associated with Katooni"
+      "path": "/images/jedi/katooni-scene.png",
+      "caption": "Cinematic illustration — Katooni"
     }
   ]
 }

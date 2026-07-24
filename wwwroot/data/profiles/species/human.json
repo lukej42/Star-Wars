@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/human.svg",
-      "caption": "Emblem — Human"
-    },
-    {
-      "path": "/images/species/human-scene.svg",
-      "caption": "Scene illustration — Human"
+      "path": "/images/species/human-scene.png",
+      "caption": "Cinematic illustration — Human"
     }
   ]
 }

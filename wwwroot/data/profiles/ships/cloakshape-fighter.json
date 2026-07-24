@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/cloakshape-fighter.svg",
-      "caption": "Profile view of the CloakShape Fighter"
-    },
-    {
-      "path": "/images/ships/cloakshape-fighter-scene.svg",
-      "caption": "Combat deployment — CloakShape Fighter"
-    },
-    {
-      "path": "/images/ships/cloakshape-fighter-blueprint.svg",
-      "caption": "Technical schematic — CloakShape Fighter"
+      "path": "/images/ships/cloakshape-fighter-scene.png",
+      "caption": "Cinematic illustration — CloakShape Fighter"
     }
   ]
 }

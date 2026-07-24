@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/falleen.svg",
-      "caption": "Emblem — Falleen"
-    },
-    {
-      "path": "/images/species/falleen-scene.svg",
-      "caption": "Scene illustration — Falleen"
+      "path": "/images/species/falleen-scene.png",
+      "caption": "Cinematic illustration — Falleen"
     }
   ]
 }

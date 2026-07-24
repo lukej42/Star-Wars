@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/plo-koon.svg",
-      "caption": "Portrait of Plo Koon"
-    },
-    {
-      "path": "/images/jedi/plo-koon-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Plo Koon"
-    },
-    {
-      "path": "/images/jedi/plo-koon-emblem.svg",
-      "caption": "Jedi Order emblem associated with Plo Koon"
+      "path": "/images/jedi/plo-koon-scene.png",
+      "caption": "Cinematic illustration — Plo Koon"
     }
   ]
 }

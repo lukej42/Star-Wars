@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/g9-rigger.svg",
-      "caption": "Profile view of the G9 Rigger-class Freighter"
-    },
-    {
-      "path": "/images/ships/g9-rigger-scene.svg",
-      "caption": "Combat deployment — G9 Rigger-class Freighter"
-    },
-    {
-      "path": "/images/ships/g9-rigger-blueprint.svg",
-      "caption": "Technical schematic — G9 Rigger-class Freighter"
+      "path": "/images/ships/g9-rigger-scene.png",
+      "caption": "Cinematic illustration — G9 Rigger-class Freighter"
     }
   ]
 }

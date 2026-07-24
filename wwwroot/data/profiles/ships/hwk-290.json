@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/hwk-290.svg",
-      "caption": "Profile view of the HWK-290 Light Freighter"
-    },
-    {
-      "path": "/images/ships/hwk-290-scene.svg",
-      "caption": "Combat deployment — HWK-290 Light Freighter"
-    },
-    {
-      "path": "/images/ships/hwk-290-blueprint.svg",
-      "caption": "Technical schematic — HWK-290 Light Freighter"
+      "path": "/images/ships/hwk-290-scene.png",
+      "caption": "Cinematic illustration — HWK-290 Light Freighter"
     }
   ]
 }

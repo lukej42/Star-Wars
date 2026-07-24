@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/tera-sinube.svg",
-      "caption": "Portrait of Tera Sinube"
-    },
-    {
-      "path": "/images/jedi/tera-sinube-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Tera Sinube"
-    },
-    {
-      "path": "/images/jedi/tera-sinube-emblem.svg",
-      "caption": "Jedi Order emblem associated with Tera Sinube"
+      "path": "/images/jedi/tera-sinube-scene.png",
+      "caption": "Cinematic illustration — Tera Sinube"
     }
   ]
 }

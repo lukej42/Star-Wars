@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/gor-koresh.svg",
-      "caption": "Emblem — Gor Koresh"
-    },
-    {
-      "path": "/images/bounty-hunters/gor-koresh-scene.svg",
-      "caption": "Scene illustration — Gor Koresh"
+      "path": "/images/bounty-hunters/gor-koresh-scene.png",
+      "caption": "Cinematic illustration — Gor Koresh"
     }
   ]
 }

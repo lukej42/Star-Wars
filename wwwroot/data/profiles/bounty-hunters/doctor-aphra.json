@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/doctor-aphra.svg",
-      "caption": "Emblem — Doctor Aphra"
-    },
-    {
-      "path": "/images/bounty-hunters/doctor-aphra-scene.svg",
-      "caption": "Scene illustration — Doctor Aphra"
+      "path": "/images/bounty-hunters/doctor-aphra-scene.png",
+      "caption": "Cinematic illustration — Doctor Aphra"
     }
   ]
 }

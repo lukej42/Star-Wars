@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/fennec-shand.svg",
-      "caption": "Emblem — Fennec Shand"
-    },
-    {
-      "path": "/images/bounty-hunters/fennec-shand-scene.svg",
-      "caption": "Scene illustration — Fennec Shand"
+      "path": "/images/bounty-hunters/fennec-shand-scene.png",
+      "caption": "Cinematic illustration — Fennec Shand"
     }
   ]
 }

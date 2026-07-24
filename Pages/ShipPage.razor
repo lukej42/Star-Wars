@@ -19,8 +19,9 @@ else if (!profileLoaded)
 else
 {
     <DirectoryDetailShell Name="@ship.Name"
-                          HeroImagePath="@ship.ImagePath"
-                          HeroImageAlt="@($"Illustration of the {ship.Name}")"
+                          HeroImagePath="@ship.SceneImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of the {ship.Name}")"
+                          ShowPortraitHero="false"
                           Subtitle="@ship.Class"
                           MetaLine="@($"Production: {ship.ProductionCount} · {ship.Era}")"
                           OverviewText="@(profile?.Overview ?? ship.Description)"

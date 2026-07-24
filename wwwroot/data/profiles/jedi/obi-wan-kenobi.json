@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/obi-wan-kenobi.svg",
-      "caption": "Portrait of Obi-Wan Kenobi"
-    },
-    {
-      "path": "/images/jedi/obi-wan-kenobi-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Obi-Wan Kenobi"
-    },
-    {
-      "path": "/images/jedi/obi-wan-kenobi-emblem.svg",
-      "caption": "Jedi Order emblem associated with Obi-Wan Kenobi"
+      "path": "/images/jedi/obi-wan-kenobi-scene.png",
+      "caption": "Cinematic illustration — Obi-Wan Kenobi"
     }
   ]
 }

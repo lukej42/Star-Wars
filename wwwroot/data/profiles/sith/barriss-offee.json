@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/barriss-offee.svg",
-      "caption": "Portrait of Barriss Offee"
-    },
-    {
-      "path": "/images/sith/barriss-offee-scene.svg",
-      "caption": "Dark side lightning scene — Barriss Offee"
-    },
-    {
-      "path": "/images/sith/barriss-offee-emblem.svg",
-      "caption": "Sith emblem associated with Barriss Offee"
+      "path": "/images/sith/barriss-offee-scene.png",
+      "caption": "Cinematic illustration — Barriss Offee"
     }
   ]
 }

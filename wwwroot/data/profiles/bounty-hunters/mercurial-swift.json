@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/mercurial-swift.svg",
-      "caption": "Emblem — Mercurial Swift"
-    },
-    {
-      "path": "/images/bounty-hunters/mercurial-swift-scene.svg",
-      "caption": "Scene illustration — Mercurial Swift"
+      "path": "/images/bounty-hunters/mercurial-swift-scene.png",
+      "caption": "Cinematic illustration — Mercurial Swift"
     }
   ]
 }

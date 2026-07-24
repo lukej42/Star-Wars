@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/peragus-mining-facility.svg",
-      "caption": "Emblem — Peragus Mining Facility"
-    },
-    {
-      "path": "/images/settlements/peragus-mining-facility-scene.svg",
-      "caption": "Scene illustration — Peragus Mining Facility"
+      "path": "/images/settlements/peragus-mining-facility-scene.png",
+      "caption": "Cinematic illustration — Peragus Mining Facility"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/kelleran-beq.svg",
-      "caption": "Portrait of Kelleran Beq"
-    },
-    {
-      "path": "/images/jedi/kelleran-beq-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Kelleran Beq"
-    },
-    {
-      "path": "/images/jedi/kelleran-beq-emblem.svg",
-      "caption": "Jedi Order emblem associated with Kelleran Beq"
+      "path": "/images/jedi/kelleran-beq-scene.png",
+      "caption": "Cinematic illustration — Kelleran Beq"
     }
   ]
 }

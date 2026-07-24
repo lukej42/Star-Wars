@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/hondo-ohnaka.svg",
-      "caption": "Emblem — Hondo Ohnaka"
-    },
-    {
-      "path": "/images/bounty-hunters/hondo-ohnaka-scene.svg",
-      "caption": "Scene illustration — Hondo Ohnaka"
+      "path": "/images/bounty-hunters/hondo-ohnaka-scene.png",
+      "caption": "Cinematic illustration — Hondo Ohnaka"
     }
   ]
 }

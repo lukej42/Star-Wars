@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/fury-class.svg",
-      "caption": "Profile view of the Fury-class Imperial Interceptor"
-    },
-    {
-      "path": "/images/ships/fury-class-scene.svg",
-      "caption": "Combat deployment — Fury-class Imperial Interceptor"
-    },
-    {
-      "path": "/images/ships/fury-class-blueprint.svg",
-      "caption": "Technical schematic — Fury-class Imperial Interceptor"
+      "path": "/images/ships/fury-class-scene.png",
+      "caption": "Cinematic illustration — Fury-class Imperial Interceptor"
     }
   ]
 }

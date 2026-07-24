@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/raider-class.svg",
-      "caption": "Profile view of the Raider-class Corvette"
-    },
-    {
-      "path": "/images/ships/raider-class-scene.svg",
-      "caption": "Combat deployment — Raider-class Corvette"
-    },
-    {
-      "path": "/images/ships/raider-class-blueprint.svg",
-      "caption": "Technical schematic — Raider-class Corvette"
+      "path": "/images/ships/raider-class-scene.png",
+      "caption": "Cinematic illustration — Raider-class Corvette"
     }
   ]
 }

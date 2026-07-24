@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-insanity.svg",
-      "caption": "Emblem — Force Insanity"
-    },
-    {
-      "path": "/images/force-powers/force-insanity-scene.svg",
-      "caption": "Scene illustration — Force Insanity"
+      "path": "/images/force-powers/force-insanity-scene.png",
+      "caption": "Cinematic illustration — Force Insanity"
     }
   ]
 }

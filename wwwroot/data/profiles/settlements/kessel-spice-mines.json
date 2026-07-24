@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/kessel-spice-mines.svg",
-      "caption": "Emblem — Kessel Spice Mines"
-    },
-    {
-      "path": "/images/settlements/kessel-spice-mines-scene.svg",
-      "caption": "Scene illustration — Kessel Spice Mines"
+      "path": "/images/settlements/kessel-spice-mines-scene.png",
+      "caption": "Cinematic illustration — Kessel Spice Mines"
     }
   ]
 }

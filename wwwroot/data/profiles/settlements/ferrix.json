@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ferrix.svg",
-      "caption": "Emblem — Ferrix"
-    },
-    {
-      "path": "/images/settlements/ferrix-scene.svg",
-      "caption": "Scene illustration — Ferrix"
+      "path": "/images/settlements/ferrix-scene.png",
+      "caption": "Cinematic illustration — Ferrix"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/first-order-transporter.svg",
-      "caption": "Profile view of the First Order Transporter"
-    },
-    {
-      "path": "/images/ships/first-order-transporter-scene.svg",
-      "caption": "Combat deployment — First Order Transporter"
-    },
-    {
-      "path": "/images/ships/first-order-transporter-blueprint.svg",
-      "caption": "Technical schematic — First Order Transporter"
+      "path": "/images/ships/first-order-transporter-scene.png",
+      "caption": "Cinematic illustration — First Order Transporter"
     }
   ]
 }

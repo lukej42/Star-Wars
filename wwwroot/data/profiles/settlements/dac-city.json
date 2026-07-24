@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/dac-city.svg",
-      "caption": "Emblem — Dac City"
-    },
-    {
-      "path": "/images/settlements/dac-city-scene.svg",
-      "caption": "Scene illustration — Dac City"
+      "path": "/images/settlements/dac-city-scene.png",
+      "caption": "Cinematic illustration — Dac City"
     }
   ]
 }

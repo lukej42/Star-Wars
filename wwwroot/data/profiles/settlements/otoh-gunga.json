@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/otoh-gunga.svg",
-      "caption": "Emblem — Otoh Gunga"
-    },
-    {
-      "path": "/images/settlements/otoh-gunga-scene.svg",
-      "caption": "Scene illustration — Otoh Gunga"
+      "path": "/images/settlements/otoh-gunga-scene.png",
+      "caption": "Cinematic illustration — Otoh Gunga"
     }
   ]
 }

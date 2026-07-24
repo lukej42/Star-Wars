@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/nebulon-c.svg",
-      "caption": "Profile view of the Nebulon-C Escort Frigate"
-    },
-    {
-      "path": "/images/ships/nebulon-c-scene.svg",
-      "caption": "Combat deployment — Nebulon-C Escort Frigate"
-    },
-    {
-      "path": "/images/ships/nebulon-c-blueprint.svg",
-      "caption": "Technical schematic — Nebulon-C Escort Frigate"
+      "path": "/images/ships/nebulon-c-scene.png",
+      "caption": "Cinematic illustration — Nebulon-C Escort Frigate"
     }
   ]
 }

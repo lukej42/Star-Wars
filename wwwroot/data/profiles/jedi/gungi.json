@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/gungi.svg",
-      "caption": "Portrait of Gungi"
-    },
-    {
-      "path": "/images/jedi/gungi-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Gungi"
-    },
-    {
-      "path": "/images/jedi/gungi-emblem.svg",
-      "caption": "Jedi Order emblem associated with Gungi"
+      "path": "/images/jedi/gungi-scene.png",
+      "caption": "Cinematic illustration — Gungi"
     }
   ]
 }

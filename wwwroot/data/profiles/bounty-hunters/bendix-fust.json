@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/bendix-fust.svg",
-      "caption": "Emblem — Bendix Fust"
-    },
-    {
-      "path": "/images/bounty-hunters/bendix-fust-scene.svg",
-      "caption": "Scene illustration — Bendix Fust"
+      "path": "/images/bounty-hunters/bendix-fust-scene.png",
+      "caption": "Cinematic illustration — Bendix Fust"
     }
   ]
 }

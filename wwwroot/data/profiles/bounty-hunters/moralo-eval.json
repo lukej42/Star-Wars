@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/moralo-eval.svg",
-      "caption": "Emblem — Moralo Eval"
-    },
-    {
-      "path": "/images/bounty-hunters/moralo-eval-scene.svg",
-      "caption": "Scene illustration — Moralo Eval"
+      "path": "/images/bounty-hunters/moralo-eval-scene.png",
+      "caption": "Cinematic illustration — Moralo Eval"
     }
   ]
 }

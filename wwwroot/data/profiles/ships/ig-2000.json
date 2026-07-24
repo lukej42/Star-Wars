@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/ig-2000.svg",
-      "caption": "Profile view of the IG-2000"
-    },
-    {
-      "path": "/images/ships/ig-2000-scene.svg",
-      "caption": "Combat deployment — IG-2000"
-    },
-    {
-      "path": "/images/ships/ig-2000-blueprint.svg",
-      "caption": "Technical schematic — IG-2000"
+      "path": "/images/ships/ig-2000-scene.png",
+      "caption": "Cinematic illustration — IG-2000"
     }
   ]
 }

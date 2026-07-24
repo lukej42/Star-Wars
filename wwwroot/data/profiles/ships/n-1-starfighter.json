@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/n-1-starfighter.svg",
-      "caption": "Profile view of the N-1 Starfighter"
-    },
-    {
-      "path": "/images/ships/n-1-starfighter-scene.svg",
-      "caption": "Combat deployment — N-1 Starfighter"
-    },
-    {
-      "path": "/images/ships/n-1-starfighter-blueprint.svg",
-      "caption": "Technical schematic — N-1 Starfighter"
+      "path": "/images/ships/n-1-starfighter-scene.png",
+      "caption": "Cinematic illustration — N-1 Starfighter"
     }
   ]
 }

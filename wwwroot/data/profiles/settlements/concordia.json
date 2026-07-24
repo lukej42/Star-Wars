@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/concordia.svg",
-      "caption": "Emblem — Concordia"
-    },
-    {
-      "path": "/images/settlements/concordia-scene.svg",
-      "caption": "Scene illustration — Concordia"
+      "path": "/images/settlements/concordia-scene.png",
+      "caption": "Cinematic illustration — Concordia"
     }
   ]
 }

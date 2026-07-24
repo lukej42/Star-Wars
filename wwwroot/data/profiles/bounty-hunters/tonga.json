@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/tonga.svg",
-      "caption": "Emblem — T'onga"
-    },
-    {
-      "path": "/images/bounty-hunters/tonga-scene.svg",
-      "caption": "Scene illustration — T'onga"
+      "path": "/images/bounty-hunters/tonga-scene.png",
+      "caption": "Cinematic illustration — T'onga"
     }
   ]
 }

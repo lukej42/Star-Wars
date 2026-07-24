@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/hyena-class.svg",
-      "caption": "Profile view of the Hyena-class Bomber"
-    },
-    {
-      "path": "/images/ships/hyena-class-scene.svg",
-      "caption": "Combat deployment — Hyena-class Bomber"
-    },
-    {
-      "path": "/images/ships/hyena-class-blueprint.svg",
-      "caption": "Technical schematic — Hyena-class Bomber"
+      "path": "/images/ships/hyena-class-scene.png",
+      "caption": "Cinematic illustration — Hyena-class Bomber"
     }
   ]
 }

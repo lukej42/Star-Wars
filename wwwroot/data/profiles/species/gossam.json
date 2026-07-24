@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/gossam.svg",
-      "caption": "Emblem — Gossam"
-    },
-    {
-      "path": "/images/species/gossam-scene.svg",
-      "caption": "Scene illustration — Gossam"
+      "path": "/images/species/gossam-scene.png",
+      "caption": "Cinematic illustration — Gossam"
     }
   ]
 }

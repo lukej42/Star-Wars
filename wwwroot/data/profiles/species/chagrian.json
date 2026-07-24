@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/chagrian.svg",
-      "caption": "Emblem — Chagrian"
-    },
-    {
-      "path": "/images/species/chagrian-scene.svg",
-      "caption": "Scene illustration — Chagrian"
+      "path": "/images/species/chagrian-scene.png",
+      "caption": "Cinematic illustration — Chagrian"
     }
   ]
 }

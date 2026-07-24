@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/colicoid.svg",
-      "caption": "Emblem — Colicoid"
-    },
-    {
-      "path": "/images/species/colicoid-scene.svg",
-      "caption": "Scene illustration — Colicoid"
+      "path": "/images/species/colicoid-scene.png",
+      "caption": "Cinematic illustration — Colicoid"
     }
   ]
 }

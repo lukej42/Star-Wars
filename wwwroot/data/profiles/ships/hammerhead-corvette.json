@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/hammerhead-corvette.svg",
-      "caption": "Profile view of the Hammerhead Corvette"
-    },
-    {
-      "path": "/images/ships/hammerhead-corvette-scene.svg",
-      "caption": "Combat deployment — Hammerhead Corvette"
-    },
-    {
-      "path": "/images/ships/hammerhead-corvette-blueprint.svg",
-      "caption": "Technical schematic — Hammerhead Corvette"
+      "path": "/images/ships/hammerhead-corvette-scene.png",
+      "caption": "Cinematic illustration — Hammerhead Corvette"
     }
   ]
 }

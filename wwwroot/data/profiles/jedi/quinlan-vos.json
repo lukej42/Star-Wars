@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/quinlan-vos.svg",
-      "caption": "Portrait of Quinlan Vos"
-    },
-    {
-      "path": "/images/jedi/quinlan-vos-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Quinlan Vos"
-    },
-    {
-      "path": "/images/jedi/quinlan-vos-emblem.svg",
-      "caption": "Jedi Order emblem associated with Quinlan Vos"
+      "path": "/images/jedi/quinlan-vos-scene.png",
+      "caption": "Cinematic illustration — Quinlan Vos"
     }
   ]
 }

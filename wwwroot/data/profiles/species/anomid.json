@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/anomid.svg",
-      "caption": "Emblem — Anomid"
-    },
-    {
-      "path": "/images/species/anomid-scene.svg",
-      "caption": "Scene illustration — Anomid"
+      "path": "/images/species/anomid-scene.png",
+      "caption": "Cinematic illustration — Anomid"
     }
   ]
 }

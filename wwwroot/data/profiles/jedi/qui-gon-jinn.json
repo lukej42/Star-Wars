@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/qui-gon-jinn.svg",
-      "caption": "Portrait of Qui-Gon Jinn"
-    },
-    {
-      "path": "/images/jedi/qui-gon-jinn-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Qui-Gon Jinn"
-    },
-    {
-      "path": "/images/jedi/qui-gon-jinn-emblem.svg",
-      "caption": "Jedi Order emblem associated with Qui-Gon Jinn"
+      "path": "/images/jedi/qui-gon-jinn-scene.png",
+      "caption": "Cinematic illustration — Qui-Gon Jinn"
     }
   ]
 }

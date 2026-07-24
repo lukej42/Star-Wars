@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/asajj-ventress.svg",
-      "caption": "Portrait of Asajj Ventress"
-    },
-    {
-      "path": "/images/sith/asajj-ventress-scene.svg",
-      "caption": "Dark side lightning scene — Asajj Ventress"
-    },
-    {
-      "path": "/images/sith/asajj-ventress-emblem.svg",
-      "caption": "Sith emblem associated with Asajj Ventress"
+      "path": "/images/sith/asajj-ventress-scene.png",
+      "caption": "Cinematic illustration — Asajj Ventress"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/gungan.svg",
-      "caption": "Emblem — Gungan"
-    },
-    {
-      "path": "/images/species/gungan-scene.svg",
-      "caption": "Scene illustration — Gungan"
+      "path": "/images/species/gungan-scene.png",
+      "caption": "Cinematic illustration — Gungan"
     }
   ]
 }

@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-meld.svg",
-      "caption": "Emblem — Force Meld"
-    },
-    {
-      "path": "/images/force-powers/force-meld-scene.svg",
-      "caption": "Scene illustration — Force Meld"
+      "path": "/images/force-powers/force-meld-scene.png",
+      "caption": "Cinematic illustration — Force Meld"
     }
   ]
 }

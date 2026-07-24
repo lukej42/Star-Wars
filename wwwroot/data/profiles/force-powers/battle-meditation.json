@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/battle-meditation.svg",
-      "caption": "Emblem — Battle Meditation"
-    },
-    {
-      "path": "/images/force-powers/battle-meditation-scene.svg",
-      "caption": "Scene illustration — Battle Meditation"
+      "path": "/images/force-powers/battle-meditation-scene.png",
+      "caption": "Cinematic illustration — Battle Meditation"
     }
   ]
 }

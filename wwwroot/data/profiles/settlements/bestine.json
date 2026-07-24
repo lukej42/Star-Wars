@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/bestine.svg",
-      "caption": "Emblem — Bestine"
-    },
-    {
-      "path": "/images/settlements/bestine-scene.svg",
-      "caption": "Scene illustration — Bestine"
+      "path": "/images/settlements/bestine-scene.png",
+      "caption": "Cinematic illustration — Bestine"
     }
   ]
 }

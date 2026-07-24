@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/wobani-labor-camp.svg",
-      "caption": "Emblem — Wobani Labor Camp"
-    },
-    {
-      "path": "/images/settlements/wobani-labor-camp-scene.svg",
-      "caption": "Scene illustration — Wobani Labor Camp"
+      "path": "/images/settlements/wobani-labor-camp-scene.png",
+      "caption": "Cinematic illustration — Wobani Labor Camp"
     }
   ]
 }

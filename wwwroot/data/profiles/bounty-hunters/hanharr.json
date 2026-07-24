@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/hanharr.svg",
-      "caption": "Emblem — Hanharr"
-    },
-    {
-      "path": "/images/bounty-hunters/hanharr-scene.svg",
-      "caption": "Scene illustration — Hanharr"
+      "path": "/images/bounty-hunters/hanharr-scene.png",
+      "caption": "Cinematic illustration — Hanharr"
     }
   ]
 }

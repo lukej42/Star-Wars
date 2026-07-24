@@ -438,8 +438,7 @@ def build_hunter_profile(entry: dict) -> dict:
         "affiliations": lore["affiliations"],
         "timeline": lore["timeline"],
         "gallery": [
-            {"path": f"/images/bounty-hunters/{entry['slug']}.svg", "caption": f"Emblem — {entry['name']}"},
-            {"path": f"/images/bounty-hunters/{entry['slug']}-scene.svg", "caption": f"Scene illustration — {entry['name']}"},
+            {"path": f"/images/bounty-hunters/{entry['slug']}-scene.png", "caption": f"Cinematic illustration — {entry['name']}"},
         ],
     }
 

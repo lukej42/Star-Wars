@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/exar-kun.svg",
-      "caption": "Portrait of Exar Kun"
-    },
-    {
-      "path": "/images/sith/exar-kun-scene.svg",
-      "caption": "Dark side lightning scene — Exar Kun"
-    },
-    {
-      "path": "/images/sith/exar-kun-emblem.svg",
-      "caption": "Sith emblem associated with Exar Kun"
+      "path": "/images/sith/exar-kun-scene.png",
+      "caption": "Cinematic illustration — Exar Kun"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/tiplee.svg",
-      "caption": "Portrait of Tiplee"
-    },
-    {
-      "path": "/images/jedi/tiplee-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Tiplee"
-    },
-    {
-      "path": "/images/jedi/tiplee-emblem.svg",
-      "caption": "Jedi Order emblem associated with Tiplee"
+      "path": "/images/jedi/tiplee-scene.png",
+      "caption": "Cinematic illustration — Tiplee"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/tie-advanced-x1.svg",
-      "caption": "Profile view of the TIE Advanced x1"
-    },
-    {
-      "path": "/images/ships/tie-advanced-x1-scene.svg",
-      "caption": "Combat deployment — TIE Advanced x1"
-    },
-    {
-      "path": "/images/ships/tie-advanced-x1-blueprint.svg",
-      "caption": "Technical schematic — TIE Advanced x1"
+      "path": "/images/ships/tie-advanced-x1-scene.png",
+      "caption": "Cinematic illustration — TIE Advanced x1"
     }
   ]
 }

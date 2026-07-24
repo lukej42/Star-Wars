@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/lannik.svg",
-      "caption": "Emblem — Lannik"
-    },
-    {
-      "path": "/images/species/lannik-scene.svg",
-      "caption": "Scene illustration — Lannik"
+      "path": "/images/species/lannik-scene.png",
+      "caption": "Cinematic illustration — Lannik"
     }
   ]
 }

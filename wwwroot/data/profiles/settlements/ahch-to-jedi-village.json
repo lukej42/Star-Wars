@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ahch-to-jedi-village.svg",
-      "caption": "Emblem — Ahch-To Jedi Village"
-    },
-    {
-      "path": "/images/settlements/ahch-to-jedi-village-scene.svg",
-      "caption": "Scene illustration — Ahch-To Jedi Village"
+      "path": "/images/settlements/ahch-to-jedi-village-scene.png",
+      "caption": "Cinematic illustration — Ahch-To Jedi Village"
     }
   ]
 }

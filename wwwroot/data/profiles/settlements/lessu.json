@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/lessu.svg",
-      "caption": "Emblem — Lessu"
-    },
-    {
-      "path": "/images/settlements/lessu-scene.svg",
-      "caption": "Scene illustration — Lessu"
+      "path": "/images/settlements/lessu-scene.png",
+      "caption": "Cinematic illustration — Lessu"
     }
   ]
 }

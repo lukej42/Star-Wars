@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/beilert-valance.svg",
-      "caption": "Emblem — Beilert Valance"
-    },
-    {
-      "path": "/images/bounty-hunters/beilert-valance-scene.svg",
-      "caption": "Scene illustration — Beilert Valance"
+      "path": "/images/bounty-hunters/beilert-valance-scene.png",
+      "caption": "Cinematic illustration — Beilert Valance"
     }
   ]
 }

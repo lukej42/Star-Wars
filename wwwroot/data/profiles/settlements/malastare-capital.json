@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/malastare-capital.svg",
-      "caption": "Emblem — Malastare Capital"
-    },
-    {
-      "path": "/images/settlements/malastare-capital-scene.svg",
-      "caption": "Scene illustration — Malastare Capital"
+      "path": "/images/settlements/malastare-capital-scene.png",
+      "caption": "Cinematic illustration — Malastare Capital"
     }
   ]
 }

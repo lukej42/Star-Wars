@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-nihilus.svg",
-      "caption": "Portrait of Darth Nihilus"
-    },
-    {
-      "path": "/images/sith/darth-nihilus-scene.svg",
-      "caption": "Dark side lightning scene — Darth Nihilus"
-    },
-    {
-      "path": "/images/sith/darth-nihilus-emblem.svg",
-      "caption": "Sith emblem associated with Darth Nihilus"
+      "path": "/images/sith/darth-nihilus-scene.png",
+      "caption": "Cinematic illustration — Darth Nihilus"
     }
   ]
 }

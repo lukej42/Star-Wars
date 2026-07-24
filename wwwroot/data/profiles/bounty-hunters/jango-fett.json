@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/jango-fett.svg",
-      "caption": "Emblem — Jango Fett"
-    },
-    {
-      "path": "/images/bounty-hunters/jango-fett-scene.svg",
-      "caption": "Scene illustration — Jango Fett"
+      "path": "/images/bounty-hunters/jango-fett-scene.png",
+      "caption": "Cinematic illustration — Jango Fett"
     }
   ]
 }

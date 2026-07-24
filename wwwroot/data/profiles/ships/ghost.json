@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/ghost.svg",
-      "caption": "Profile view of the Ghost (VCX-100)"
-    },
-    {
-      "path": "/images/ships/ghost-scene.svg",
-      "caption": "Combat deployment — Ghost (VCX-100)"
-    },
-    {
-      "path": "/images/ships/ghost-blueprint.svg",
-      "caption": "Technical schematic — Ghost (VCX-100)"
+      "path": "/images/ships/ghost-scene.png",
+      "caption": "Cinematic illustration — Ghost (VCX-100)"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/gladiator-class.svg",
-      "caption": "Profile view of the Gladiator-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/gladiator-class-scene.svg",
-      "caption": "Combat deployment — Gladiator-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/gladiator-class-blueprint.svg",
-      "caption": "Technical schematic — Gladiator-class Star Destroyer"
+      "path": "/images/ships/gladiator-class-scene.png",
+      "caption": "Cinematic illustration — Gladiator-class Star Destroyer"
     }
   ]
 }

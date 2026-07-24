@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/j-type-327.svg",
-      "caption": "Profile view of the J-type 327 Naboo Royal Starship"
-    },
-    {
-      "path": "/images/ships/j-type-327-scene.svg",
-      "caption": "Combat deployment — J-type 327 Naboo Royal Starship"
-    },
-    {
-      "path": "/images/ships/j-type-327-blueprint.svg",
-      "caption": "Technical schematic — J-type 327 Naboo Royal Starship"
+      "path": "/images/ships/j-type-327-scene.png",
+      "caption": "Cinematic illustration — J-type 327 Naboo Royal Starship"
     }
   ]
 }

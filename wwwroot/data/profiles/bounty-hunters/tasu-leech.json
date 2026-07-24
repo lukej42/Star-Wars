@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/tasu-leech.svg",
-      "caption": "Emblem — Tasu Leech"
-    },
-    {
-      "path": "/images/bounty-hunters/tasu-leech-scene.svg",
-      "caption": "Scene illustration — Tasu Leech"
+      "path": "/images/bounty-hunters/tasu-leech-scene.png",
+      "caption": "Cinematic illustration — Tasu Leech"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/imperial-landing-craft.svg",
-      "caption": "Profile view of the Imperial Landing Craft"
-    },
-    {
-      "path": "/images/ships/imperial-landing-craft-scene.svg",
-      "caption": "Combat deployment — Imperial Landing Craft"
-    },
-    {
-      "path": "/images/ships/imperial-landing-craft-blueprint.svg",
-      "caption": "Technical schematic — Imperial Landing Craft"
+      "path": "/images/ships/imperial-landing-craft-scene.png",
+      "caption": "Cinematic illustration — Imperial Landing Craft"
     }
   ]
 }

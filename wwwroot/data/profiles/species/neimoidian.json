@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/neimoidian.svg",
-      "caption": "Emblem — Neimoidian"
-    },
-    {
-      "path": "/images/species/neimoidian-scene.svg",
-      "caption": "Scene illustration — Neimoidian"
+      "path": "/images/species/neimoidian-scene.png",
+      "caption": "Cinematic illustration — Neimoidian"
     }
   ]
 }

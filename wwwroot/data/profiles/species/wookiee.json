@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/wookiee.svg",
-      "caption": "Emblem — Wookiee"
-    },
-    {
-      "path": "/images/species/wookiee-scene.svg",
-      "caption": "Scene illustration — Wookiee"
+      "path": "/images/species/wookiee-scene.png",
+      "caption": "Cinematic illustration — Wookiee"
     }
   ]
 }

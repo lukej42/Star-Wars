@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-plague.svg",
-      "caption": "Emblem — Force Plague"
-    },
-    {
-      "path": "/images/force-powers/force-plague-scene.svg",
-      "caption": "Scene illustration — Force Plague"
+      "path": "/images/force-powers/force-plague-scene.png",
+      "caption": "Cinematic illustration — Force Plague"
     }
   ]
 }

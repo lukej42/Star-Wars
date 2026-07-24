@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/munificent-class.svg",
-      "caption": "Profile view of the Munificent-class Frigate"
-    },
-    {
-      "path": "/images/ships/munificent-class-scene.svg",
-      "caption": "Combat deployment — Munificent-class Frigate"
-    },
-    {
-      "path": "/images/ships/munificent-class-blueprint.svg",
-      "caption": "Technical schematic — Munificent-class Frigate"
+      "path": "/images/ships/munificent-class-scene.png",
+      "caption": "Cinematic illustration — Munificent-class Frigate"
     }
   ]
 }

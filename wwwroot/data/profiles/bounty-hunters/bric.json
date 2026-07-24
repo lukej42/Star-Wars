@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/bric.svg",
-      "caption": "Emblem — Bric"
-    },
-    {
-      "path": "/images/bounty-hunters/bric-scene.svg",
-      "caption": "Scene illustration — Bric"
+      "path": "/images/bounty-hunters/bric-scene.png",
+      "caption": "Cinematic illustration — Bric"
     }
   ]
 }

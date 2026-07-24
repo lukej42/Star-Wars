@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/agen-kolar.svg",
-      "caption": "Portrait of Agen Kolar"
-    },
-    {
-      "path": "/images/jedi/agen-kolar-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Agen Kolar"
-    },
-    {
-      "path": "/images/jedi/agen-kolar-emblem.svg",
-      "caption": "Jedi Order emblem associated with Agen Kolar"
+      "path": "/images/jedi/agen-kolar-scene.png",
+      "caption": "Cinematic illustration — Agen Kolar"
     }
   ]
 }

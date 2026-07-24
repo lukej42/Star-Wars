@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/morichro.svg",
-      "caption": "Emblem — Morichro"
-    },
-    {
-      "path": "/images/force-powers/morichro-scene.svg",
-      "caption": "Scene illustration — Morichro"
+      "path": "/images/force-powers/morichro-scene.png",
+      "caption": "Cinematic illustration — Morichro"
     }
   ]
 }

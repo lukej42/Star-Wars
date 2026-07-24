@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/gand.svg",
-      "caption": "Emblem — Gand"
-    },
-    {
-      "path": "/images/species/gand-scene.svg",
-      "caption": "Scene illustration — Gand"
+      "path": "/images/species/gand-scene.png",
+      "caption": "Cinematic illustration — Gand"
     }
   ]
 }

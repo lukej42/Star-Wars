@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/kiffar.svg",
-      "caption": "Emblem — Kiffar"
-    },
-    {
-      "path": "/images/species/kiffar-scene.svg",
-      "caption": "Scene illustration — Kiffar"
+      "path": "/images/species/kiffar-scene.png",
+      "caption": "Cinematic illustration — Kiffar"
     }
   ]
 }

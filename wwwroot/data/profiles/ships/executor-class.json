@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/executor-class.svg",
-      "caption": "Profile view of the Executor-class Star Dreadnought"
-    },
-    {
-      "path": "/images/ships/executor-class-scene.svg",
-      "caption": "Combat deployment — Executor-class Star Dreadnought"
-    },
-    {
-      "path": "/images/ships/executor-class-blueprint.svg",
-      "caption": "Technical schematic — Executor-class Star Dreadnought"
+      "path": "/images/ships/executor-class-scene.png",
+      "caption": "Cinematic illustration — Executor-class Star Dreadnought"
     }
   ]
 }

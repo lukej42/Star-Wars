@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/thought-bomb.svg",
-      "caption": "Emblem — Thought Bomb"
-    },
-    {
-      "path": "/images/force-powers/thought-bomb-scene.svg",
-      "caption": "Scene illustration — Thought Bomb"
+      "path": "/images/force-powers/thought-bomb-scene.png",
+      "caption": "Cinematic illustration — Thought Bomb"
     }
   ]
 }

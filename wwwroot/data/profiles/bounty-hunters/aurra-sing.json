@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/aurra-sing.svg",
-      "caption": "Emblem — Aurra Sing"
-    },
-    {
-      "path": "/images/bounty-hunters/aurra-sing-scene.svg",
-      "caption": "Scene illustration — Aurra Sing"
+      "path": "/images/bounty-hunters/aurra-sing-scene.png",
+      "caption": "Cinematic illustration — Aurra Sing"
     }
   ]
 }

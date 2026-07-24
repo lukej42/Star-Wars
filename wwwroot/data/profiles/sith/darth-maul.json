@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-maul.svg",
-      "caption": "Portrait of Darth Maul"
-    },
-    {
-      "path": "/images/sith/darth-maul-scene.svg",
-      "caption": "Dark side lightning scene — Darth Maul"
-    },
-    {
-      "path": "/images/sith/darth-maul-emblem.svg",
-      "caption": "Sith emblem associated with Darth Maul"
+      "path": "/images/sith/darth-maul-scene.png",
+      "caption": "Cinematic illustration — Darth Maul"
     }
   ]
 }

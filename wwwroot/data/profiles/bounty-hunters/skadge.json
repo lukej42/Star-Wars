@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/skadge.svg",
-      "caption": "Emblem — Skadge"
-    },
-    {
-      "path": "/images/bounty-hunters/skadge-scene.svg",
-      "caption": "Scene illustration — Skadge"
+      "path": "/images/bounty-hunters/skadge-scene.png",
+      "caption": "Cinematic illustration — Skadge"
     }
   ]
 }

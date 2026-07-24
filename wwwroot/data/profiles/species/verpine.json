@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/verpine.svg",
-      "caption": "Emblem — Verpine"
-    },
-    {
-      "path": "/images/species/verpine-scene.svg",
-      "caption": "Scene illustration — Verpine"
+      "path": "/images/species/verpine-scene.png",
+      "caption": "Cinematic illustration — Verpine"
     }
   ]
 }

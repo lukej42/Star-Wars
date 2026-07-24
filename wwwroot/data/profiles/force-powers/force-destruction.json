@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-destruction.svg",
-      "caption": "Emblem — Force Destruction"
-    },
-    {
-      "path": "/images/force-powers/force-destruction-scene.svg",
-      "caption": "Scene illustration — Force Destruction"
+      "path": "/images/force-powers/force-destruction-scene.png",
+      "caption": "Cinematic illustration — Force Destruction"
     }
   ]
 }

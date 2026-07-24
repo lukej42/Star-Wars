@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/fenn-rau.svg",
-      "caption": "Emblem — Fenn Rau"
-    },
-    {
-      "path": "/images/bounty-hunters/fenn-rau-scene.svg",
-      "caption": "Scene illustration — Fenn Rau"
+      "path": "/images/bounty-hunters/fenn-rau-scene.png",
+      "caption": "Cinematic illustration — Fenn Rau"
     }
   ]
 }

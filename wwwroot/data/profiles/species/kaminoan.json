@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/kaminoan.svg",
-      "caption": "Emblem — Kaminoan"
-    },
-    {
-      "path": "/images/species/kaminoan-scene.svg",
-      "caption": "Scene illustration — Kaminoan"
+      "path": "/images/species/kaminoan-scene.png",
+      "caption": "Cinematic illustration — Kaminoan"
     }
   ]
 }

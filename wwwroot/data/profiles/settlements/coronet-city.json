@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/coronet-city.svg",
-      "caption": "Emblem — Coronet City"
-    },
-    {
-      "path": "/images/settlements/coronet-city-scene.svg",
-      "caption": "Scene illustration — Coronet City"
+      "path": "/images/settlements/coronet-city-scene.png",
+      "caption": "Cinematic illustration — Coronet City"
     }
   ]
 }

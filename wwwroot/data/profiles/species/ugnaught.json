@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/ugnaught.svg",
-      "caption": "Emblem — Ugnaught"
-    },
-    {
-      "path": "/images/species/ugnaught-scene.svg",
-      "caption": "Scene illustration — Ugnaught"
+      "path": "/images/species/ugnaught-scene.png",
+      "caption": "Cinematic illustration — Ugnaught"
     }
   ]
 }

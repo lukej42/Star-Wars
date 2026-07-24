@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/gozanti-class.svg",
-      "caption": "Profile view of the Gozanti-class Cruiser"
-    },
-    {
-      "path": "/images/ships/gozanti-class-scene.svg",
-      "caption": "Combat deployment — Gozanti-class Cruiser"
-    },
-    {
-      "path": "/images/ships/gozanti-class-blueprint.svg",
-      "caption": "Technical schematic — Gozanti-class Cruiser"
+      "path": "/images/ships/gozanti-class-scene.png",
+      "caption": "Cinematic illustration — Gozanti-class Cruiser"
     }
   ]
 }

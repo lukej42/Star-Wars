@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/kaba-baiz.svg",
-      "caption": "Emblem — Kaba Baiz"
-    },
-    {
-      "path": "/images/bounty-hunters/kaba-baiz-scene.svg",
-      "caption": "Scene illustration — Kaba Baiz"
+      "path": "/images/bounty-hunters/kaba-baiz-scene.png",
+      "caption": "Cinematic illustration — Kaba Baiz"
     }
   ]
 }

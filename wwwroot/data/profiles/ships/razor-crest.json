@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/razor-crest.svg",
-      "caption": "Profile view of the Razor Crest"
-    },
-    {
-      "path": "/images/ships/razor-crest-scene.svg",
-      "caption": "Combat deployment — Razor Crest"
-    },
-    {
-      "path": "/images/ships/razor-crest-blueprint.svg",
-      "caption": "Technical schematic — Razor Crest"
+      "path": "/images/ships/razor-crest-scene.png",
+      "caption": "Cinematic illustration — Razor Crest"
     }
   ]
 }

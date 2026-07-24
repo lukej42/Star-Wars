@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/aleena.svg",
-      "caption": "Emblem — Aleena"
-    },
-    {
-      "path": "/images/species/aleena-scene.svg",
-      "caption": "Scene illustration — Aleena"
+      "path": "/images/species/aleena-scene.png",
+      "caption": "Cinematic illustration — Aleena"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-sion.svg",
-      "caption": "Portrait of Darth Sion"
-    },
-    {
-      "path": "/images/sith/darth-sion-scene.svg",
-      "caption": "Dark side lightning scene — Darth Sion"
-    },
-    {
-      "path": "/images/sith/darth-sion-emblem.svg",
-      "caption": "Sith emblem associated with Darth Sion"
+      "path": "/images/sith/darth-sion-scene.png",
+      "caption": "Cinematic illustration — Darth Sion"
     }
   ]
 }

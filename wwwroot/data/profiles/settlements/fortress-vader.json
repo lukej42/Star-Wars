@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/fortress-vader.svg",
-      "caption": "Emblem — Fortress Vader"
-    },
-    {
-      "path": "/images/settlements/fortress-vader-scene.svg",
-      "caption": "Scene illustration — Fortress Vader"
+      "path": "/images/settlements/fortress-vader-scene.png",
+      "caption": "Cinematic illustration — Fortress Vader"
     }
   ]
 }

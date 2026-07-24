@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/khetanna.svg",
-      "caption": "Profile view of the Khetanna Sail Barge"
-    },
-    {
-      "path": "/images/ships/khetanna-scene.svg",
-      "caption": "Combat deployment — Khetanna Sail Barge"
-    },
-    {
-      "path": "/images/ships/khetanna-blueprint.svg",
-      "caption": "Technical schematic — Khetanna Sail Barge"
+      "path": "/images/ships/khetanna-scene.png",
+      "caption": "Cinematic illustration — Khetanna Sail Barge"
     }
   ]
 }

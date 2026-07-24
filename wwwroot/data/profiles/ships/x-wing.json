@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/x-wing.svg",
-      "caption": "Profile view of the X-wing (T-65B)"
-    },
-    {
-      "path": "/images/ships/x-wing-scene.svg",
-      "caption": "Combat deployment — X-wing (T-65B)"
-    },
-    {
-      "path": "/images/ships/x-wing-blueprint.svg",
-      "caption": "Technical schematic — X-wing (T-65B)"
+      "path": "/images/ships/x-wing-scene.png",
+      "caption": "Cinematic illustration — X-wing (T-65B)"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/victory-i-class.svg",
-      "caption": "Profile view of the Victory I-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/victory-i-class-scene.svg",
-      "caption": "Combat deployment — Victory I-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/victory-i-class-blueprint.svg",
-      "caption": "Technical schematic — Victory I-class Star Destroyer"
+      "path": "/images/ships/victory-i-class-scene.png",
+      "caption": "Cinematic illustration — Victory I-class Star Destroyer"
     }
   ]
 }

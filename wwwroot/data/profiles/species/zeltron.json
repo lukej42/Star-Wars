@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/zeltron.svg",
-      "caption": "Emblem — Zeltron"
-    },
-    {
-      "path": "/images/species/zeltron-scene.svg",
-      "caption": "Scene illustration — Zeltron"
+      "path": "/images/species/zeltron-scene.png",
+      "caption": "Cinematic illustration — Zeltron"
     }
   ]
 }

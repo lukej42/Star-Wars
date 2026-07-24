@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/ajunta-pall.svg",
-      "caption": "Portrait of Ajunta Pall"
-    },
-    {
-      "path": "/images/sith/ajunta-pall-scene.svg",
-      "caption": "Dark side lightning scene — Ajunta Pall"
-    },
-    {
-      "path": "/images/sith/ajunta-pall-emblem.svg",
-      "caption": "Sith emblem associated with Ajunta Pall"
+      "path": "/images/sith/ajunta-pall-scene.png",
+      "caption": "Cinematic illustration — Ajunta Pall"
     }
   ]
 }

@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/anulus-gae.svg",
-      "caption": "Emblem — Anulus Gae"
-    },
-    {
-      "path": "/images/bounty-hunters/anulus-gae-scene.svg",
-      "caption": "Scene illustration — Anulus Gae"
+      "path": "/images/bounty-hunters/anulus-gae-scene.png",
+      "caption": "Cinematic illustration — Anulus Gae"
     }
   ]
 }

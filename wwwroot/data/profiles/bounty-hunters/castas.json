@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/castas.svg",
-      "caption": "Emblem — Castas"
-    },
-    {
-      "path": "/images/bounty-hunters/castas-scene.svg",
-      "caption": "Scene illustration — Castas"
+      "path": "/images/bounty-hunters/castas-scene.png",
+      "caption": "Cinematic illustration — Castas"
     }
   ]
 }

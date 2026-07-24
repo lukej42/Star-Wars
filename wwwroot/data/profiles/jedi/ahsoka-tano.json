@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/ahsoka-tano.svg",
-      "caption": "Portrait of Ahsoka Tano"
-    },
-    {
-      "path": "/images/jedi/ahsoka-tano-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Ahsoka Tano"
-    },
-    {
-      "path": "/images/jedi/ahsoka-tano-emblem.svg",
-      "caption": "Jedi Order emblem associated with Ahsoka Tano"
+      "path": "/images/jedi/ahsoka-tano-scene.png",
+      "caption": "Cinematic illustration — Ahsoka Tano"
     }
   ]
 }

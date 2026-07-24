@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/tognath.svg",
-      "caption": "Emblem — Tognath"
-    },
-    {
-      "path": "/images/species/tognath-scene.svg",
-      "caption": "Scene illustration — Tognath"
+      "path": "/images/species/tognath-scene.png",
+      "caption": "Cinematic illustration — Tognath"
     }
   ]
 }

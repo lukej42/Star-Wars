@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/dqar.svg",
-      "caption": "Emblem — D'Qar"
-    },
-    {
-      "path": "/images/settlements/dqar-scene.svg",
-      "caption": "Scene illustration — D'Qar"
+      "path": "/images/settlements/dqar-scene.png",
+      "caption": "Cinematic illustration — D'Qar"
     }
   ]
 }

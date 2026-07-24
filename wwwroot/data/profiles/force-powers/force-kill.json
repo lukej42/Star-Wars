@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-kill.svg",
-      "caption": "Emblem — Force Kill"
-    },
-    {
-      "path": "/images/force-powers/force-kill-scene.svg",
-      "caption": "Scene illustration — Force Kill"
+      "path": "/images/force-powers/force-kill-scene.png",
+      "caption": "Cinematic illustration — Force Kill"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/ki-adi-mundi.svg",
-      "caption": "Portrait of Ki-Adi-Mundi"
-    },
-    {
-      "path": "/images/jedi/ki-adi-mundi-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Ki-Adi-Mundi"
-    },
-    {
-      "path": "/images/jedi/ki-adi-mundi-emblem.svg",
-      "caption": "Jedi Order emblem associated with Ki-Adi-Mundi"
+      "path": "/images/jedi/ki-adi-mundi-scene.png",
+      "caption": "Cinematic illustration — Ki-Adi-Mundi"
     }
   ]
 }

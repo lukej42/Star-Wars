@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/duro.svg",
-      "caption": "Emblem — Duro"
-    },
-    {
-      "path": "/images/species/duro-scene.svg",
-      "caption": "Scene illustration — Duro"
+      "path": "/images/species/duro-scene.png",
+      "caption": "Cinematic illustration — Duro"
     }
   ]
 }

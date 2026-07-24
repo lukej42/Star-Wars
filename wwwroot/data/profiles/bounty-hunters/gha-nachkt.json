@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/gha-nachkt.svg",
-      "caption": "Emblem — Gha Nachkt"
-    },
-    {
-      "path": "/images/bounty-hunters/gha-nachkt-scene.svg",
-      "caption": "Scene illustration — Gha Nachkt"
+      "path": "/images/bounty-hunters/gha-nachkt-scene.png",
+      "caption": "Cinematic illustration — Gha Nachkt"
     }
   ]
 }

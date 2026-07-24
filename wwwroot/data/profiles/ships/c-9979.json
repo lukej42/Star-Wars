@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/c-9979.svg",
-      "caption": "Profile view of the C-9979 Landing Craft"
-    },
-    {
-      "path": "/images/ships/c-9979-scene.svg",
-      "caption": "Combat deployment — C-9979 Landing Craft"
-    },
-    {
-      "path": "/images/ships/c-9979-blueprint.svg",
-      "caption": "Technical schematic — C-9979 Landing Craft"
+      "path": "/images/ships/c-9979-scene.png",
+      "caption": "Cinematic illustration — C-9979 Landing Craft"
     }
   ]
 }

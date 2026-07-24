@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/rattataki.svg",
-      "caption": "Emblem — Rattataki"
-    },
-    {
-      "path": "/images/species/rattataki-scene.svg",
-      "caption": "Scene illustration — Rattataki"
+      "path": "/images/species/rattataki-scene.png",
+      "caption": "Cinematic illustration — Rattataki"
     }
   ]
 }

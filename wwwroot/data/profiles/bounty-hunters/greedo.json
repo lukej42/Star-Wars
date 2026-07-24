@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/greedo.svg",
-      "caption": "Emblem — Greedo"
-    },
-    {
-      "path": "/images/bounty-hunters/greedo-scene.svg",
-      "caption": "Scene illustration — Greedo"
+      "path": "/images/bounty-hunters/greedo-scene.png",
+      "caption": "Cinematic illustration — Greedo"
     }
   ]
 }

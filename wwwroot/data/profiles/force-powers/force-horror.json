@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-horror.svg",
-      "caption": "Emblem — Force Horror"
-    },
-    {
-      "path": "/images/force-powers/force-horror-scene.svg",
-      "caption": "Scene illustration — Force Horror"
+      "path": "/images/force-powers/force-horror-scene.png",
+      "caption": "Cinematic illustration — Force Horror"
     }
   ]
 }

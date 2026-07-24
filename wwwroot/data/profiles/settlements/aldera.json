@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/aldera.svg",
-      "caption": "Emblem — Aldera"
-    },
-    {
-      "path": "/images/settlements/aldera-scene.svg",
-      "caption": "Scene illustration — Aldera"
+      "path": "/images/settlements/aldera-scene.png",
+      "caption": "Cinematic illustration — Aldera"
     }
   ]
 }

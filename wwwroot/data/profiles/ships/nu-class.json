@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/nu-class.svg",
-      "caption": "Profile view of the Nu-class Attack Shuttle"
-    },
-    {
-      "path": "/images/ships/nu-class-scene.svg",
-      "caption": "Combat deployment — Nu-class Attack Shuttle"
-    },
-    {
-      "path": "/images/ships/nu-class-blueprint.svg",
-      "caption": "Technical schematic — Nu-class Attack Shuttle"
+      "path": "/images/ships/nu-class-scene.png",
+      "caption": "Cinematic illustration — Nu-class Attack Shuttle"
     }
   ]
 }

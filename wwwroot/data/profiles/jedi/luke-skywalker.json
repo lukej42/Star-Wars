@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/luke-skywalker.svg",
-      "caption": "Portrait of Luke Skywalker"
-    },
-    {
-      "path": "/images/jedi/luke-skywalker-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Luke Skywalker"
-    },
-    {
-      "path": "/images/jedi/luke-skywalker-emblem.svg",
-      "caption": "Jedi Order emblem associated with Luke Skywalker"
+      "path": "/images/jedi/luke-skywalker-scene.png",
+      "caption": "Cinematic illustration — Luke Skywalker"
     }
   ]
 }

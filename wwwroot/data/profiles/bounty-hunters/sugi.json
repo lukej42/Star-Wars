@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/sugi.svg",
-      "caption": "Emblem — Sugi"
-    },
-    {
-      "path": "/images/bounty-hunters/sugi-scene.svg",
-      "caption": "Scene illustration — Sugi"
+      "path": "/images/bounty-hunters/sugi-scene.png",
+      "caption": "Cinematic illustration — Sugi"
     }
   ]
 }

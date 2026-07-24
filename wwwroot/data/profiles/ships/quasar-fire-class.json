@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/quasar-fire-class.svg",
-      "caption": "Profile view of the Quasar Fire-class Carrier"
-    },
-    {
-      "path": "/images/ships/quasar-fire-class-scene.svg",
-      "caption": "Combat deployment — Quasar Fire-class Carrier"
-    },
-    {
-      "path": "/images/ships/quasar-fire-class-blueprint.svg",
-      "caption": "Technical schematic — Quasar Fire-class Carrier"
+      "path": "/images/ships/quasar-fire-class-scene.png",
+      "caption": "Cinematic illustration — Quasar Fire-class Carrier"
     }
   ]
 }

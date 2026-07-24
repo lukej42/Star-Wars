@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/tie-defender.svg",
-      "caption": "Profile view of the TIE/d Defender"
-    },
-    {
-      "path": "/images/ships/tie-defender-scene.svg",
-      "caption": "Combat deployment — TIE/d Defender"
-    },
-    {
-      "path": "/images/ships/tie-defender-blueprint.svg",
-      "caption": "Technical schematic — TIE/d Defender"
+      "path": "/images/ships/tie-defender-scene.png",
+      "caption": "Cinematic illustration — TIE/d Defender"
     }
   ]
 }

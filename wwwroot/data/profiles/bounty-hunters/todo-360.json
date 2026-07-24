@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/todo-360.svg",
-      "caption": "Emblem — Todo 360"
-    },
-    {
-      "path": "/images/bounty-hunters/todo-360-scene.svg",
-      "caption": "Scene illustration — Todo 360"
+      "path": "/images/bounty-hunters/todo-360-scene.png",
+      "caption": "Cinematic illustration — Todo 360"
     }
   ]
 }

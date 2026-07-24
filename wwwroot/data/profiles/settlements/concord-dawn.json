@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/concord-dawn.svg",
-      "caption": "Emblem — Concord Dawn"
-    },
-    {
-      "path": "/images/settlements/concord-dawn-scene.svg",
-      "caption": "Scene illustration — Concord Dawn"
+      "path": "/images/settlements/concord-dawn-scene.png",
+      "caption": "Cinematic illustration — Concord Dawn"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-wave.svg",
-      "caption": "Emblem — Force Wave"
-    },
-    {
-      "path": "/images/force-powers/force-wave-scene.svg",
-      "caption": "Scene illustration — Force Wave"
+      "path": "/images/force-powers/force-wave-scene.png",
+      "caption": "Cinematic illustration — Force Wave"
     }
   ]
 }

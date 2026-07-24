@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-malak.svg",
-      "caption": "Portrait of Darth Malak"
-    },
-    {
-      "path": "/images/sith/darth-malak-scene.svg",
-      "caption": "Dark side lightning scene — Darth Malak"
-    },
-    {
-      "path": "/images/sith/darth-malak-emblem.svg",
-      "caption": "Sith emblem associated with Darth Malak"
+      "path": "/images/sith/darth-malak-scene.png",
+      "caption": "Cinematic illustration — Darth Malak"
     }
   ]
 }

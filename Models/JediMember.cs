@@ -9,5 +9,6 @@ public sealed class JediMember
     public required string Description { get; init; }
     public required string Color { get; init; }
 
-    public string ImagePath => $"/images/jedi/{Slug}.svg";
+    public string ImagePath => $"/images/jedi/{Slug}.png";
+    public string SceneImagePath => $"/images/jedi/{Slug}-scene.png";
 }

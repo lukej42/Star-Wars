@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/cad-bane.svg",
-      "caption": "Emblem — Cad Bane"
-    },
-    {
-      "path": "/images/bounty-hunters/cad-bane-scene.svg",
-      "caption": "Scene illustration — Cad Bane"
+      "path": "/images/bounty-hunters/cad-bane-scene.png",
+      "caption": "Cinematic illustration — Cad Bane"
     }
   ]
 }

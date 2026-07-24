@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-empower.svg",
-      "caption": "Emblem — Force Empower"
-    },
-    {
-      "path": "/images/force-powers/force-empower-scene.svg",
-      "caption": "Scene illustration — Force Empower"
+      "path": "/images/force-powers/force-empower-scene.png",
+      "caption": "Cinematic illustration — Force Empower"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/ketsu-onyo.svg",
-      "caption": "Emblem — Ketsu Onyo"
-    },
-    {
-      "path": "/images/bounty-hunters/ketsu-onyo-scene.svg",
-      "caption": "Scene illustration — Ketsu Onyo"
+      "path": "/images/bounty-hunters/ketsu-onyo-scene.png",
+      "caption": "Cinematic illustration — Ketsu Onyo"
     }
   ]
 }

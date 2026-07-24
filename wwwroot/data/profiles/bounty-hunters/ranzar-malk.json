@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/ranzar-malk.svg",
-      "caption": "Emblem — Ranzar Malk"
-    },
-    {
-      "path": "/images/bounty-hunters/ranzar-malk-scene.svg",
-      "caption": "Scene illustration — Ranzar Malk"
+      "path": "/images/bounty-hunters/ranzar-malk-scene.png",
+      "caption": "Cinematic illustration — Ranzar Malk"
     }
   ]
 }

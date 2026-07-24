@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/klatooinian.svg",
-      "caption": "Emblem — Klatooinian"
-    },
-    {
-      "path": "/images/species/klatooinian-scene.svg",
-      "caption": "Scene illustration — Klatooinian"
+      "path": "/images/species/klatooinian-scene.png",
+      "caption": "Cinematic illustration — Klatooinian"
     }
   ]
 }

@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/punworcca-116.svg",
-      "caption": "Profile view of the Punworcca 116-class Sailer"
-    },
-    {
-      "path": "/images/ships/punworcca-116-scene.svg",
-      "caption": "Combat deployment — Punworcca 116-class Sailer"
-    },
-    {
-      "path": "/images/ships/punworcca-116-blueprint.svg",
-      "caption": "Technical schematic — Punworcca 116-class Sailer"
+      "path": "/images/ships/punworcca-116-scene.png",
+      "caption": "Cinematic illustration — Punworcca 116-class Sailer"
     }
   ]
 }

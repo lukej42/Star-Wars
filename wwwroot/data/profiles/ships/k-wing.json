@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/k-wing.svg",
-      "caption": "Profile view of the K-wing Assault Fighter"
-    },
-    {
-      "path": "/images/ships/k-wing-scene.svg",
-      "caption": "Combat deployment — K-wing Assault Fighter"
-    },
-    {
-      "path": "/images/ships/k-wing-blueprint.svg",
-      "caption": "Technical schematic — K-wing Assault Fighter"
+      "path": "/images/ships/k-wing-scene.png",
+      "caption": "Cinematic illustration — K-wing Assault Fighter"
     }
   ]
 }

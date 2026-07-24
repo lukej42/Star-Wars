@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/twilek.svg",
-      "caption": "Emblem — Twi'lek"
-    },
-    {
-      "path": "/images/species/twilek-scene.svg",
-      "caption": "Scene illustration — Twi'lek"
+      "path": "/images/species/twilek-scene.png",
+      "caption": "Cinematic illustration — Twi'lek"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/chaleydonia.svg",
-      "caption": "Emblem — Chaleydonia"
-    },
-    {
-      "path": "/images/settlements/chaleydonia-scene.svg",
-      "caption": "Scene illustration — Chaleydonia"
+      "path": "/images/settlements/chaleydonia-scene.png",
+      "caption": "Cinematic illustration — Chaleydonia"
     }
   ]
 }

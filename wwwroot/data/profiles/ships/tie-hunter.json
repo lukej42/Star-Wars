@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/tie-hunter.svg",
-      "caption": "Profile view of the TIE Hunter"
-    },
-    {
-      "path": "/images/ships/tie-hunter-scene.svg",
-      "caption": "Combat deployment — TIE Hunter"
-    },
-    {
-      "path": "/images/ships/tie-hunter-blueprint.svg",
-      "caption": "Technical schematic — TIE Hunter"
+      "path": "/images/ships/tie-hunter-scene.png",
+      "caption": "Cinematic illustration — TIE Hunter"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/resurgent-class.svg",
-      "caption": "Profile view of the Resurgent-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/resurgent-class-scene.svg",
-      "caption": "Combat deployment — Resurgent-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/resurgent-class-blueprint.svg",
-      "caption": "Technical schematic — Resurgent-class Star Destroyer"
+      "path": "/images/ships/resurgent-class-scene.png",
+      "caption": "Cinematic illustration — Resurgent-class Star Destroyer"
     }
   ]
 }

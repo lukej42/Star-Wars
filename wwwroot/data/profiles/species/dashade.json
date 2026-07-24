@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/dashade.svg",
-      "caption": "Emblem — Dashade"
-    },
-    {
-      "path": "/images/species/dashade-scene.svg",
-      "caption": "Scene illustration — Dashade"
+      "path": "/images/species/dashade-scene.png",
+      "caption": "Cinematic illustration — Dashade"
     }
   ]
 }

@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/mira.svg",
-      "caption": "Emblem — Mira"
-    },
-    {
-      "path": "/images/bounty-hunters/mira-scene.svg",
-      "caption": "Scene illustration — Mira"
+      "path": "/images/bounty-hunters/mira-scene.png",
+      "caption": "Cinematic illustration — Mira"
     }
   ]
 }

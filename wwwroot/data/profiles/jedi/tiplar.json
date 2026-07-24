@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/tiplar.svg",
-      "caption": "Portrait of Tiplar"
-    },
-    {
-      "path": "/images/jedi/tiplar-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Tiplar"
-    },
-    {
-      "path": "/images/jedi/tiplar-emblem.svg",
-      "caption": "Jedi Order emblem associated with Tiplar"
+      "path": "/images/jedi/tiplar-scene.png",
+      "caption": "Cinematic illustration — Tiplar"
     }
   ]
 }

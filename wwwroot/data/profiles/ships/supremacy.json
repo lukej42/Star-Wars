@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/supremacy.svg",
-      "caption": "Profile view of the Supremacy (Mega-class)"
-    },
-    {
-      "path": "/images/ships/supremacy-scene.svg",
-      "caption": "Combat deployment — Supremacy (Mega-class)"
-    },
-    {
-      "path": "/images/ships/supremacy-blueprint.svg",
-      "caption": "Technical schematic — Supremacy (Mega-class)"
+      "path": "/images/ships/supremacy-scene.png",
+      "caption": "Cinematic illustration — Supremacy (Mega-class)"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/zygerrian.svg",
-      "caption": "Emblem — Zygerrian"
-    },
-    {
-      "path": "/images/species/zygerrian-scene.svg",
-      "caption": "Scene illustration — Zygerrian"
+      "path": "/images/species/zygerrian-scene.png",
+      "caption": "Cinematic illustration — Zygerrian"
     }
   ]
 }

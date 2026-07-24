@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ord-mantell-city.svg",
-      "caption": "Emblem — Ord Mantell City"
-    },
-    {
-      "path": "/images/settlements/ord-mantell-city-scene.svg",
-      "caption": "Scene illustration — Ord Mantell City"
+      "path": "/images/settlements/ord-mantell-city-scene.png",
+      "caption": "Cinematic illustration — Ord Mantell City"
     }
   ]
 }

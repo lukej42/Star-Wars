@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/hedarr.svg",
-      "caption": "Emblem — Hedarr"
-    },
-    {
-      "path": "/images/bounty-hunters/hedarr-scene.svg",
-      "caption": "Scene illustration — Hedarr"
+      "path": "/images/bounty-hunters/hedarr-scene.png",
+      "caption": "Cinematic illustration — Hedarr"
     }
   ]
 }

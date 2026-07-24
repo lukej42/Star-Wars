@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/bantha-ii-skiff.svg",
-      "caption": "Profile view of the Bantha-II Cargo Skiff"
-    },
-    {
-      "path": "/images/ships/bantha-ii-skiff-scene.svg",
-      "caption": "Combat deployment — Bantha-II Cargo Skiff"
-    },
-    {
-      "path": "/images/ships/bantha-ii-skiff-blueprint.svg",
-      "caption": "Technical schematic — Bantha-II Cargo Skiff"
+      "path": "/images/ships/bantha-ii-skiff-scene.png",
+      "caption": "Cinematic illustration — Bantha-II Cargo Skiff"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-sense.svg",
-      "caption": "Emblem — Force Sense"
-    },
-    {
-      "path": "/images/force-powers/force-sense-scene.svg",
-      "caption": "Scene illustration — Force Sense"
+      "path": "/images/force-powers/force-sense-scene.png",
+      "caption": "Cinematic illustration — Force Sense"
     }
   ]
 }

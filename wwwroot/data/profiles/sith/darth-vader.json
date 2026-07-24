@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-vader.svg",
-      "caption": "Portrait of Darth Vader"
-    },
-    {
-      "path": "/images/sith/darth-vader-scene.svg",
-      "caption": "Dark side lightning scene — Darth Vader"
-    },
-    {
-      "path": "/images/sith/darth-vader-emblem.svg",
-      "caption": "Sith emblem associated with Darth Vader"
+      "path": "/images/sith/darth-vader-scene.png",
+      "caption": "Cinematic illustration — Darth Vader"
     }
   ]
 }

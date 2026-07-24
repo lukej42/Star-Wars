@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/second-sister.svg",
-      "caption": "Portrait of Second Sister"
-    },
-    {
-      "path": "/images/sith/second-sister-scene.svg",
-      "caption": "Dark side lightning scene — Second Sister"
-    },
-    {
-      "path": "/images/sith/second-sister-emblem.svg",
-      "caption": "Sith emblem associated with Second Sister"
+      "path": "/images/sith/second-sister-scene.png",
+      "caption": "Cinematic illustration — Second Sister"
     }
   ]
 }

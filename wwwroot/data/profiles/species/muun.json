@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/muun.svg",
-      "caption": "Emblem — Muun"
-    },
-    {
-      "path": "/images/species/muun-scene.svg",
-      "caption": "Scene illustration — Muun"
+      "path": "/images/species/muun-scene.png",
+      "caption": "Cinematic illustration — Muun"
     }
   ]
 }

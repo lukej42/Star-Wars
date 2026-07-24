@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/sinrich.svg",
-      "caption": "Emblem — Sinrich"
-    },
-    {
-      "path": "/images/bounty-hunters/sinrich-scene.svg",
-      "caption": "Scene illustration — Sinrich"
+      "path": "/images/bounty-hunters/sinrich-scene.png",
+      "caption": "Cinematic illustration — Sinrich"
     }
   ]
 }

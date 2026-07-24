@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/naboo-royal-yacht.svg",
-      "caption": "Profile view of the Naboo Royal Yacht"
-    },
-    {
-      "path": "/images/ships/naboo-royal-yacht-scene.svg",
-      "caption": "Combat deployment — Naboo Royal Yacht"
-    },
-    {
-      "path": "/images/ships/naboo-royal-yacht-blueprint.svg",
-      "caption": "Technical schematic — Naboo Royal Yacht"
+      "path": "/images/ships/naboo-royal-yacht-scene.png",
+      "caption": "Cinematic illustration — Naboo Royal Yacht"
     }
   ]
 }

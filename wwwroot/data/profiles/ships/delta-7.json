@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/delta-7.svg",
-      "caption": "Profile view of the Delta-7 Aethersprite"
-    },
-    {
-      "path": "/images/ships/delta-7-scene.svg",
-      "caption": "Combat deployment — Delta-7 Aethersprite"
-    },
-    {
-      "path": "/images/ships/delta-7-blueprint.svg",
-      "caption": "Technical schematic — Delta-7 Aethersprite"
+      "path": "/images/ships/delta-7-scene.png",
+      "caption": "Cinematic illustration — Delta-7 Aethersprite"
     }
   ]
 }

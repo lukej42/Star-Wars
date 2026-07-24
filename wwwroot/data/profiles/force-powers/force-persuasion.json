@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-persuasion.svg",
-      "caption": "Emblem — Force Persuasion"
-    },
-    {
-      "path": "/images/force-powers/force-persuasion-scene.svg",
-      "caption": "Scene illustration — Force Persuasion"
+      "path": "/images/force-powers/force-persuasion-scene.png",
+      "caption": "Cinematic illustration — Force Persuasion"
     }
   ]
 }

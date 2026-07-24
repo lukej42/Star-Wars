@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/mc30c-frigate.svg",
-      "caption": "Profile view of the MC30c Frigate"
-    },
-    {
-      "path": "/images/ships/mc30c-frigate-scene.svg",
-      "caption": "Combat deployment — MC30c Frigate"
-    },
-    {
-      "path": "/images/ships/mc30c-frigate-blueprint.svg",
-      "caption": "Technical schematic — MC30c Frigate"
+      "path": "/images/ships/mc30c-frigate-scene.png",
+      "caption": "Cinematic illustration — MC30c Frigate"
     }
   ]
 }

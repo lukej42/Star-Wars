@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/mind-trick.svg",
-      "caption": "Emblem — Mind Trick"
-    },
-    {
-      "path": "/images/force-powers/mind-trick-scene.svg",
-      "caption": "Scene illustration — Mind Trick"
+      "path": "/images/force-powers/mind-trick-scene.png",
+      "caption": "Cinematic illustration — Mind Trick"
     }
   ]
 }

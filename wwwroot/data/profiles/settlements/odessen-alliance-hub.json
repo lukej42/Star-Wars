@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/odessen-alliance-hub.svg",
-      "caption": "Emblem — Odessen Alliance Hub"
-    },
-    {
-      "path": "/images/settlements/odessen-alliance-hub-scene.svg",
-      "caption": "Scene illustration — Odessen Alliance Hub"
+      "path": "/images/settlements/odessen-alliance-hub-scene.png",
+      "caption": "Cinematic illustration — Odessen Alliance Hub"
     }
   ]
 }

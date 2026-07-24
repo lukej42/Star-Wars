@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/sith-pureblood.svg",
-      "caption": "Emblem — Sith Pureblood"
-    },
-    {
-      "path": "/images/species/sith-pureblood-scene.svg",
-      "caption": "Scene illustration — Sith Pureblood"
+      "path": "/images/species/sith-pureblood-scene.png",
+      "caption": "Cinematic illustration — Sith Pureblood"
     }
   ]
 }

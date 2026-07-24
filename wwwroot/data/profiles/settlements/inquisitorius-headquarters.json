@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/inquisitorius-headquarters.svg",
-      "caption": "Emblem — Inquisitorius Headquarters"
-    },
-    {
-      "path": "/images/settlements/inquisitorius-headquarters-scene.svg",
-      "caption": "Scene illustration — Inquisitorius Headquarters"
+      "path": "/images/settlements/inquisitorius-headquarters-scene.png",
+      "caption": "Cinematic illustration — Inquisitorius Headquarters"
     }
   ]
 }

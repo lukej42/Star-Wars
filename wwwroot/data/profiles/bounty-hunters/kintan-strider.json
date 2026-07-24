@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/kintan-strider.svg",
-      "caption": "Emblem — Kintan Strider"
-    },
-    {
-      "path": "/images/bounty-hunters/kintan-strider-scene.svg",
-      "caption": "Scene illustration — Kintan Strider"
+      "path": "/images/bounty-hunters/kintan-strider-scene.png",
+      "caption": "Cinematic illustration — Kintan Strider"
     }
   ]
 }

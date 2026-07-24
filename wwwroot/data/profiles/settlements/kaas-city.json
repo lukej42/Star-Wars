@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/kaas-city.svg",
-      "caption": "Emblem — Kaas City"
-    },
-    {
-      "path": "/images/settlements/kaas-city-scene.svg",
-      "caption": "Scene illustration — Kaas City"
+      "path": "/images/settlements/kaas-city-scene.png",
+      "caption": "Cinematic illustration — Kaas City"
     }
   ]
 }

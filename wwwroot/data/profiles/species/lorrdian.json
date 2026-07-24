@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/lorrdian.svg",
-      "caption": "Emblem — Lorrdian"
-    },
-    {
-      "path": "/images/species/lorrdian-scene.svg",
-      "caption": "Scene illustration — Lorrdian"
+      "path": "/images/species/lorrdian-scene.png",
+      "caption": "Cinematic illustration — Lorrdian"
     }
   ]
 }

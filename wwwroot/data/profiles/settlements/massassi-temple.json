@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/massassi-temple.svg",
-      "caption": "Emblem — Massassi Temple"
-    },
-    {
-      "path": "/images/settlements/massassi-temple-scene.svg",
-      "caption": "Scene illustration — Massassi Temple"
+      "path": "/images/settlements/massassi-temple-scene.png",
+      "caption": "Cinematic illustration — Massassi Temple"
     }
   ]
 }

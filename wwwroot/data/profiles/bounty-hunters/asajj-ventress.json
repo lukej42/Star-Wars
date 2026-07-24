@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/asajj-ventress.svg",
-      "caption": "Emblem — Asajj Ventress"
-    },
-    {
-      "path": "/images/bounty-hunters/asajj-ventress-scene.svg",
-      "caption": "Scene illustration — Asajj Ventress"
+      "path": "/images/bounty-hunters/asajj-ventress-scene.png",
+      "caption": "Cinematic illustration — Asajj Ventress"
     }
   ]
 }

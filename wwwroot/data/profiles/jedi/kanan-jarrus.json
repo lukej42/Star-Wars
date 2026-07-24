@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/kanan-jarrus.svg",
-      "caption": "Portrait of Kanan Jarrus"
-    },
-    {
-      "path": "/images/jedi/kanan-jarrus-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Kanan Jarrus"
-    },
-    {
-      "path": "/images/jedi/kanan-jarrus-emblem.svg",
-      "caption": "Jedi Order emblem associated with Kanan Jarrus"
+      "path": "/images/jedi/kanan-jarrus-scene.png",
+      "caption": "Cinematic illustration — Kanan Jarrus"
     }
   ]
 }

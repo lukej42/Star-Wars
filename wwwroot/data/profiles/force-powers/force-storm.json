@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-storm.svg",
-      "caption": "Emblem — Force Storm"
-    },
-    {
-      "path": "/images/force-powers/force-storm-scene.svg",
-      "caption": "Scene illustration — Force Storm"
+      "path": "/images/force-powers/force-storm-scene.png",
+      "caption": "Cinematic illustration — Force Storm"
     }
   ]
 }

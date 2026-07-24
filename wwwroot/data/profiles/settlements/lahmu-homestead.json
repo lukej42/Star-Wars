@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/lahmu-homestead.svg",
-      "caption": "Emblem — Lah'mu Homestead"
-    },
-    {
-      "path": "/images/settlements/lahmu-homestead-scene.svg",
-      "caption": "Scene illustration — Lah'mu Homestead"
+      "path": "/images/settlements/lahmu-homestead-scene.png",
+      "caption": "Cinematic illustration — Lah'mu Homestead"
     }
   ]
 }

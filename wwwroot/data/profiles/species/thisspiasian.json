@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/thisspiasian.svg",
-      "caption": "Emblem — Thisspiasian"
-    },
-    {
-      "path": "/images/species/thisspiasian-scene.svg",
-      "caption": "Scene illustration — Thisspiasian"
+      "path": "/images/species/thisspiasian-scene.png",
+      "caption": "Cinematic illustration — Thisspiasian"
     }
   ]
 }

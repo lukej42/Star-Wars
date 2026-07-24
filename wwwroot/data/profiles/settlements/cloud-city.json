@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/cloud-city.svg",
-      "caption": "Emblem — Cloud City"
-    },
-    {
-      "path": "/images/settlements/cloud-city-scene.svg",
-      "caption": "Scene illustration — Cloud City"
+      "path": "/images/settlements/cloud-city-scene.png",
+      "caption": "Cinematic illustration — Cloud City"
     }
   ]
 }

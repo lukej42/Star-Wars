@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/kijimi-city.svg",
-      "caption": "Emblem — Kijimi City"
-    },
-    {
-      "path": "/images/settlements/kijimi-city-scene.svg",
-      "caption": "Scene illustration — Kijimi City"
+      "path": "/images/settlements/kijimi-city-scene.png",
+      "caption": "Cinematic illustration — Kijimi City"
     }
   ]
 }

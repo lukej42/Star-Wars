@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/gorm-the-dissolver.svg",
-      "caption": "Emblem — Gorm the Dissolver"
-    },
-    {
-      "path": "/images/bounty-hunters/gorm-the-dissolver-scene.svg",
-      "caption": "Scene illustration — Gorm the Dissolver"
+      "path": "/images/bounty-hunters/gorm-the-dissolver-scene.png",
+      "caption": "Cinematic illustration — Gorm the Dissolver"
     }
   ]
 }

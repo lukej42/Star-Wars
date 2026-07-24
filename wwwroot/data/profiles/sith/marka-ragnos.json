@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/marka-ragnos.svg",
-      "caption": "Portrait of Marka Ragnos"
-    },
-    {
-      "path": "/images/sith/marka-ragnos-scene.svg",
-      "caption": "Dark side lightning scene — Marka Ragnos"
-    },
-    {
-      "path": "/images/sith/marka-ragnos-emblem.svg",
-      "caption": "Sith emblem associated with Marka Ragnos"
+      "path": "/images/sith/marka-ragnos-scene.png",
+      "caption": "Cinematic illustration — Marka Ragnos"
     }
   ]
 }

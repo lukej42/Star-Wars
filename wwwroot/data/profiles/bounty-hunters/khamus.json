@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/khamus.svg",
-      "caption": "Emblem — Khamus"
-    },
-    {
-      "path": "/images/bounty-hunters/khamus-scene.svg",
-      "caption": "Scene illustration — Khamus"
+      "path": "/images/bounty-hunters/khamus-scene.png",
+      "caption": "Cinematic illustration — Khamus"
     }
   ]
 }

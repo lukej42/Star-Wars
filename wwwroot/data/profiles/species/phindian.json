@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/phindian.svg",
-      "caption": "Emblem — Phindian"
-    },
-    {
-      "path": "/images/species/phindian-scene.svg",
-      "caption": "Scene illustration — Phindian"
+      "path": "/images/species/phindian-scene.png",
+      "caption": "Cinematic illustration — Phindian"
     }
   ]
 }

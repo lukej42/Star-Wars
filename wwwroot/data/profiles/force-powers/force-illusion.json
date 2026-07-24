@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-illusion.svg",
-      "caption": "Emblem — Force Illusion"
-    },
-    {
-      "path": "/images/force-powers/force-illusion-scene.svg",
-      "caption": "Scene illustration — Force Illusion"
+      "path": "/images/force-powers/force-illusion-scene.png",
+      "caption": "Cinematic illustration — Force Illusion"
     }
   ]
 }

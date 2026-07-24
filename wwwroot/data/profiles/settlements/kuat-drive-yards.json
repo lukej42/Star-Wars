@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/kuat-drive-yards.svg",
-      "caption": "Emblem — Kuat Drive Yards"
-    },
-    {
-      "path": "/images/settlements/kuat-drive-yards-scene.svg",
-      "caption": "Scene illustration — Kuat Drive Yards"
+      "path": "/images/settlements/kuat-drive-yards-scene.png",
+      "caption": "Cinematic illustration — Kuat Drive Yards"
     }
   ]
 }

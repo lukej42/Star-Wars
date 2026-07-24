@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/pong-krell.svg",
-      "caption": "Portrait of Pong Krell"
-    },
-    {
-      "path": "/images/sith/pong-krell-scene.svg",
-      "caption": "Dark side lightning scene — Pong Krell"
-    },
-    {
-      "path": "/images/sith/pong-krell-emblem.svg",
-      "caption": "Sith emblem associated with Pong Krell"
+      "path": "/images/sith/pong-krell-scene.png",
+      "caption": "Cinematic illustration — Pong Krell"
     }
   ]
 }

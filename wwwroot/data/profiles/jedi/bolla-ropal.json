@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/bolla-ropal.svg",
-      "caption": "Portrait of Bolla Ropal"
-    },
-    {
-      "path": "/images/jedi/bolla-ropal-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Bolla Ropal"
-    },
-    {
-      "path": "/images/jedi/bolla-ropal-emblem.svg",
-      "caption": "Jedi Order emblem associated with Bolla Ropal"
+      "path": "/images/jedi/bolla-ropal-scene.png",
+      "caption": "Cinematic illustration — Bolla Ropal"
     }
   ]
 }

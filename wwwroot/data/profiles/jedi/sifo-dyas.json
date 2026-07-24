@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/sifo-dyas.svg",
-      "caption": "Portrait of Sifo-Dyas"
-    },
-    {
-      "path": "/images/jedi/sifo-dyas-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Sifo-Dyas"
-    },
-    {
-      "path": "/images/jedi/sifo-dyas-emblem.svg",
-      "caption": "Jedi Order emblem associated with Sifo-Dyas"
+      "path": "/images/jedi/sifo-dyas-scene.png",
+      "caption": "Cinematic illustration — Sifo-Dyas"
     }
   ]
 }

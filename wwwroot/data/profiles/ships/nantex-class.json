@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/nantex-class.svg",
-      "caption": "Profile view of the Nantex-class Territorial Starfighter"
-    },
-    {
-      "path": "/images/ships/nantex-class-scene.svg",
-      "caption": "Combat deployment — Nantex-class Territorial Starfighter"
-    },
-    {
-      "path": "/images/ships/nantex-class-blueprint.svg",
-      "caption": "Technical schematic — Nantex-class Territorial Starfighter"
+      "path": "/images/ships/nantex-class-scene.png",
+      "caption": "Cinematic illustration — Nantex-class Territorial Starfighter"
     }
   ]
 }

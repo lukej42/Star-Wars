@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/a-wing.svg",
-      "caption": "Profile view of the A-wing (RZ-1)"
-    },
-    {
-      "path": "/images/ships/a-wing-scene.svg",
-      "caption": "Combat deployment — A-wing (RZ-1)"
-    },
-    {
-      "path": "/images/ships/a-wing-blueprint.svg",
-      "caption": "Technical schematic — A-wing (RZ-1)"
+      "path": "/images/ships/a-wing-scene.png",
+      "caption": "Cinematic illustration — A-wing (RZ-1)"
     }
   ]
 }

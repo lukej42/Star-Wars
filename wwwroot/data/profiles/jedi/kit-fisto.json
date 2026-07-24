@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/kit-fisto.svg",
-      "caption": "Portrait of Kit Fisto"
-    },
-    {
-      "path": "/images/jedi/kit-fisto-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Kit Fisto"
-    },
-    {
-      "path": "/images/jedi/kit-fisto-emblem.svg",
-      "caption": "Jedi Order emblem associated with Kit Fisto"
+      "path": "/images/jedi/kit-fisto-scene.png",
+      "caption": "Cinematic illustration — Kit Fisto"
     }
   ]
 }

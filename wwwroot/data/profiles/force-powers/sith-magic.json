@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/sith-magic.svg",
-      "caption": "Emblem — Sith Magic"
-    },
-    {
-      "path": "/images/force-powers/sith-magic-scene.svg",
-      "caption": "Scene illustration — Sith Magic"
+      "path": "/images/force-powers/sith-magic-scene.png",
+      "caption": "Cinematic illustration — Sith Magic"
     }
   ]
 }

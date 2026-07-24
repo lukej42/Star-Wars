@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/trident-class.svg",
-      "caption": "Profile view of the Trident-class Assault Ship"
-    },
-    {
-      "path": "/images/ships/trident-class-scene.svg",
-      "caption": "Combat deployment — Trident-class Assault Ship"
-    },
-    {
-      "path": "/images/ships/trident-class-blueprint.svg",
-      "caption": "Technical schematic — Trident-class Assault Ship"
+      "path": "/images/ships/trident-class-scene.png",
+      "caption": "Cinematic illustration — Trident-class Assault Ship"
     }
   ]
 }

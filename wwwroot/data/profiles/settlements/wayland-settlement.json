@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/wayland-settlement.svg",
-      "caption": "Emblem — Wayland Settlement"
-    },
-    {
-      "path": "/images/settlements/wayland-settlement-scene.svg",
-      "caption": "Scene illustration — Wayland Settlement"
+      "path": "/images/settlements/wayland-settlement-scene.png",
+      "caption": "Cinematic illustration — Wayland Settlement"
     }
   ]
 }

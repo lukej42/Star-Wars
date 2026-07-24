@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/ninth-sister.svg",
-      "caption": "Portrait of Ninth Sister"
-    },
-    {
-      "path": "/images/sith/ninth-sister-scene.svg",
-      "caption": "Dark side lightning scene — Ninth Sister"
-    },
-    {
-      "path": "/images/sith/ninth-sister-emblem.svg",
-      "caption": "Sith emblem associated with Ninth Sister"
+      "path": "/images/sith/ninth-sister-scene.png",
+      "caption": "Cinematic illustration — Ninth Sister"
     }
   ]
 }

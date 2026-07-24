@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/sentinel-class.svg",
-      "caption": "Profile view of the Sentinel-class Landing Craft"
-    },
-    {
-      "path": "/images/ships/sentinel-class-scene.svg",
-      "caption": "Combat deployment — Sentinel-class Landing Craft"
-    },
-    {
-      "path": "/images/ships/sentinel-class-blueprint.svg",
-      "caption": "Technical schematic — Sentinel-class Landing Craft"
+      "path": "/images/ships/sentinel-class-scene.png",
+      "caption": "Cinematic illustration — Sentinel-class Landing Craft"
     }
   ]
 }

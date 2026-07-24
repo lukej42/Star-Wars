@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/mc80-cruiser.svg",
-      "caption": "Profile view of the MC80 Star Cruiser"
-    },
-    {
-      "path": "/images/ships/mc80-cruiser-scene.svg",
-      "caption": "Combat deployment — MC80 Star Cruiser"
-    },
-    {
-      "path": "/images/ships/mc80-cruiser-blueprint.svg",
-      "caption": "Technical schematic — MC80 Star Cruiser"
+      "path": "/images/ships/mc80-cruiser-scene.png",
+      "caption": "Cinematic illustration — MC80 Star Cruiser"
     }
   ]
 }

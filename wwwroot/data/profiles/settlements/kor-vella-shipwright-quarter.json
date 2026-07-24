@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/kor-vella-shipwright-quarter.svg",
-      "caption": "Emblem — Kor Vella Shipwright Quarter"
-    },
-    {
-      "path": "/images/settlements/kor-vella-shipwright-quarter-scene.svg",
-      "caption": "Scene illustration — Kor Vella Shipwright Quarter"
+      "path": "/images/settlements/kor-vella-shipwright-quarter-scene.png",
+      "caption": "Cinematic illustration — Kor Vella Shipwright Quarter"
     }
   ]
 }

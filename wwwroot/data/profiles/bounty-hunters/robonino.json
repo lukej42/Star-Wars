@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/robonino.svg",
-      "caption": "Emblem — Robonino"
-    },
-    {
-      "path": "/images/bounty-hunters/robonino-scene.svg",
-      "caption": "Scene illustration — Robonino"
+      "path": "/images/bounty-hunters/robonino-scene.png",
+      "caption": "Cinematic illustration — Robonino"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-net.svg",
-      "caption": "Emblem — Force Net"
-    },
-    {
-      "path": "/images/force-powers/force-net-scene.svg",
-      "caption": "Scene illustration — Force Net"
+      "path": "/images/force-powers/force-net-scene.png",
+      "caption": "Cinematic illustration — Force Net"
     }
   ]
 }

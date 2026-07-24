@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/kef-bir-ocean-settlement.svg",
-      "caption": "Emblem — Kef Bir Ocean Settlement"
-    },
-    {
-      "path": "/images/settlements/kef-bir-ocean-settlement-scene.svg",
-      "caption": "Scene illustration — Kef Bir Ocean Settlement"
+      "path": "/images/settlements/kef-bir-ocean-settlement-scene.png",
+      "caption": "Cinematic illustration — Kef Bir Ocean Settlement"
     }
   ]
 }

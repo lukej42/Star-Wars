@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/eclipse-class.svg",
-      "caption": "Profile view of the Eclipse-class Super Star Destroyer"
-    },
-    {
-      "path": "/images/ships/eclipse-class-scene.svg",
-      "caption": "Combat deployment — Eclipse-class Super Star Destroyer"
-    },
-    {
-      "path": "/images/ships/eclipse-class-blueprint.svg",
-      "caption": "Technical schematic — Eclipse-class Super Star Destroyer"
+      "path": "/images/ships/eclipse-class-scene.png",
+      "caption": "Cinematic illustration — Eclipse-class Super Star Destroyer"
     }
   ]
 }

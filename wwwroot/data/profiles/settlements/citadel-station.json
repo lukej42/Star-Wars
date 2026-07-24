@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/citadel-station.svg",
-      "caption": "Emblem — Citadel Station"
-    },
-    {
-      "path": "/images/settlements/citadel-station-scene.svg",
-      "caption": "Scene illustration — Citadel Station"
+      "path": "/images/settlements/citadel-station-scene.png",
+      "caption": "Cinematic illustration — Citadel Station"
     }
   ]
 }

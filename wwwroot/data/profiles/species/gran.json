@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/gran.svg",
-      "caption": "Emblem — Gran"
-    },
-    {
-      "path": "/images/species/gran-scene.svg",
-      "caption": "Scene illustration — Gran"
+      "path": "/images/species/gran-scene.png",
+      "caption": "Cinematic illustration — Gran"
     }
   ]
 }

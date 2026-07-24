@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/providence-class.svg",
-      "caption": "Profile view of the Providence-class Carrier/Destroyer"
-    },
-    {
-      "path": "/images/ships/providence-class-scene.svg",
-      "caption": "Combat deployment — Providence-class Carrier/Destroyer"
-    },
-    {
-      "path": "/images/ships/providence-class-blueprint.svg",
-      "caption": "Technical schematic — Providence-class Carrier/Destroyer"
+      "path": "/images/ships/providence-class-scene.png",
+      "caption": "Cinematic illustration — Providence-class Carrier/Destroyer"
     }
   ]
 }

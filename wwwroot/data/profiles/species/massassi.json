@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/massassi.svg",
-      "caption": "Emblem — Massassi"
-    },
-    {
-      "path": "/images/species/massassi-scene.svg",
-      "caption": "Scene illustration — Massassi"
+      "path": "/images/species/massassi-scene.png",
+      "caption": "Cinematic illustration — Massassi"
     }
   ]
 }

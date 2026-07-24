@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/drain-life.svg",
-      "caption": "Emblem — Drain Life"
-    },
-    {
-      "path": "/images/force-powers/drain-life-scene.svg",
-      "caption": "Scene illustration — Drain Life"
+      "path": "/images/force-powers/drain-life-scene.png",
+      "caption": "Cinematic illustration — Drain Life"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/nahdar-vebb.svg",
-      "caption": "Portrait of Nahdar Vebb"
-    },
-    {
-      "path": "/images/jedi/nahdar-vebb-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Nahdar Vebb"
-    },
-    {
-      "path": "/images/jedi/nahdar-vebb-emblem.svg",
-      "caption": "Jedi Order emblem associated with Nahdar Vebb"
+      "path": "/images/jedi/nahdar-vebb-scene.png",
+      "caption": "Cinematic illustration — Nahdar Vebb"
     }
   ]
 }

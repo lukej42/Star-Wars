@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/rhen-var-outpost.svg",
-      "caption": "Emblem — Rhen Var Outpost"
-    },
-    {
-      "path": "/images/settlements/rhen-var-outpost-scene.svg",
-      "caption": "Scene illustration — Rhen Var Outpost"
+      "path": "/images/settlements/rhen-var-outpost-scene.png",
+      "caption": "Cinematic illustration — Rhen Var Outpost"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/harrower-class.svg",
-      "caption": "Profile view of the Harrower-class Dreadnought"
-    },
-    {
-      "path": "/images/ships/harrower-class-scene.svg",
-      "caption": "Combat deployment — Harrower-class Dreadnought"
-    },
-    {
-      "path": "/images/ships/harrower-class-blueprint.svg",
-      "caption": "Technical schematic — Harrower-class Dreadnought"
+      "path": "/images/ships/harrower-class-scene.png",
+      "caption": "Cinematic illustration — Harrower-class Dreadnought"
     }
   ]
 }

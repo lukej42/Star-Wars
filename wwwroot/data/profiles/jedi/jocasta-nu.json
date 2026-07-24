@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/jocasta-nu.svg",
-      "caption": "Portrait of Jocasta Nu"
-    },
-    {
-      "path": "/images/jedi/jocasta-nu-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Jocasta Nu"
-    },
-    {
-      "path": "/images/jedi/jocasta-nu-emblem.svg",
-      "caption": "Jedi Order emblem associated with Jocasta Nu"
+      "path": "/images/jedi/jocasta-nu-scene.png",
+      "caption": "Cinematic illustration — Jocasta Nu"
     }
   ]
 }

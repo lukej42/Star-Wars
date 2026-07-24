@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/akku-seii.svg",
-      "caption": "Emblem — Akku Seii"
-    },
-    {
-      "path": "/images/bounty-hunters/akku-seii-scene.svg",
-      "caption": "Scene illustration — Akku Seii"
+      "path": "/images/bounty-hunters/akku-seii-scene.png",
+      "caption": "Cinematic illustration — Akku Seii"
     }
   ]
 }

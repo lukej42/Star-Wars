@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/arcona.svg",
-      "caption": "Emblem — Arcona"
-    },
-    {
-      "path": "/images/species/arcona-scene.svg",
-      "caption": "Scene illustration — Arcona"
+      "path": "/images/species/arcona-scene.png",
+      "caption": "Cinematic illustration — Arcona"
     }
   ]
 }

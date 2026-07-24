@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-lightning.svg",
-      "caption": "Emblem — Force Lightning"
-    },
-    {
-      "path": "/images/force-powers/force-lightning-scene.svg",
-      "caption": "Scene illustration — Force Lightning"
+      "path": "/images/force-powers/force-lightning-scene.png",
+      "caption": "Cinematic illustration — Force Lightning"
     }
   ]
 }

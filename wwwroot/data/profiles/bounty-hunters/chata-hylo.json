@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/chata-hylo.svg",
-      "caption": "Emblem — Chata Hylo"
-    },
-    {
-      "path": "/images/bounty-hunters/chata-hylo-scene.svg",
-      "caption": "Scene illustration — Chata Hylo"
+      "path": "/images/bounty-hunters/chata-hylo-scene.png",
+      "caption": "Cinematic illustration — Chata Hylo"
     }
   ]
 }

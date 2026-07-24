@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/sith-alchemy.svg",
-      "caption": "Emblem — Sith Alchemy"
-    },
-    {
-      "path": "/images/force-powers/sith-alchemy-scene.svg",
-      "caption": "Scene illustration — Sith Alchemy"
+      "path": "/images/force-powers/sith-alchemy-scene.png",
+      "caption": "Cinematic illustration — Sith Alchemy"
     }
   ]
 }

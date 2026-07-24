@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/carida-imperial-academy.svg",
-      "caption": "Emblem — Carida Imperial Academy"
-    },
-    {
-      "path": "/images/settlements/carida-imperial-academy-scene.svg",
-      "caption": "Scene illustration — Carida Imperial Academy"
+      "path": "/images/settlements/carida-imperial-academy-scene.png",
+      "caption": "Cinematic illustration — Carida Imperial Academy"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/abednedo.svg",
-      "caption": "Emblem — Abednedo"
-    },
-    {
-      "path": "/images/species/abednedo-scene.svg",
-      "caption": "Scene illustration — Abednedo"
+      "path": "/images/species/abednedo-scene.png",
+      "caption": "Cinematic illustration — Abednedo"
     }
   ]
 }

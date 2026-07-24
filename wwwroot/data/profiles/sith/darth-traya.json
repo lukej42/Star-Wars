@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-traya.svg",
-      "caption": "Portrait of Darth Traya"
-    },
-    {
-      "path": "/images/sith/darth-traya-scene.svg",
-      "caption": "Dark side lightning scene — Darth Traya"
-    },
-    {
-      "path": "/images/sith/darth-traya-emblem.svg",
-      "caption": "Sith emblem associated with Darth Traya"
+      "path": "/images/sith/darth-traya-scene.png",
+      "caption": "Cinematic illustration — Darth Traya"
     }
   ]
 }

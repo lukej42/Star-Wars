@@ -37,12 +37,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-push.svg",
-      "caption": "Emblem — Force Push"
-    },
-    {
-      "path": "/images/force-powers/force-push-scene.svg",
-      "caption": "Scene illustration — Force Push"
+      "path": "/images/force-powers/force-push-scene.png",
+      "caption": "Cinematic illustration — Force Push"
     }
   ]
 }

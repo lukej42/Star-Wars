@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/z-95-headhunter.svg",
-      "caption": "Profile view of the Z-95 Headhunter"
-    },
-    {
-      "path": "/images/ships/z-95-headhunter-scene.svg",
-      "caption": "Combat deployment — Z-95 Headhunter"
-    },
-    {
-      "path": "/images/ships/z-95-headhunter-blueprint.svg",
-      "caption": "Technical schematic — Z-95 Headhunter"
+      "path": "/images/ships/z-95-headhunter-scene.png",
+      "caption": "Cinematic illustration — Z-95 Headhunter"
     }
   ]
 }

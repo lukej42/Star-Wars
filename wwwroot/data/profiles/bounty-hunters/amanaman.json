@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/amanaman.svg",
-      "caption": "Emblem — Amanaman"
-    },
-    {
-      "path": "/images/bounty-hunters/amanaman-scene.svg",
-      "caption": "Scene illustration — Amanaman"
+      "path": "/images/bounty-hunters/amanaman-scene.png",
+      "caption": "Cinematic illustration — Amanaman"
     }
   ]
 }

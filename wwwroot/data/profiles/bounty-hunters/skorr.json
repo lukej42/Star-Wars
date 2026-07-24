@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/skorr.svg",
-      "caption": "Emblem — Skorr"
-    },
-    {
-      "path": "/images/bounty-hunters/skorr-scene.svg",
-      "caption": "Scene illustration — Skorr"
+      "path": "/images/bounty-hunters/skorr-scene.png",
+      "caption": "Cinematic illustration — Skorr"
     }
   ]
 }

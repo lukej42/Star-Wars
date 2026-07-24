@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/acclamator-class.svg",
-      "caption": "Profile view of the Acclamator-class Assault Ship"
-    },
-    {
-      "path": "/images/ships/acclamator-class-scene.svg",
-      "caption": "Combat deployment — Acclamator-class Assault Ship"
-    },
-    {
-      "path": "/images/ships/acclamator-class-blueprint.svg",
-      "caption": "Technical schematic — Acclamator-class Assault Ship"
+      "path": "/images/ships/acclamator-class-scene.png",
+      "caption": "Cinematic illustration — Acclamator-class Assault Ship"
     }
   ]
 }

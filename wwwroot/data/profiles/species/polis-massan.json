@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/polis-massan.svg",
-      "caption": "Emblem — Polis Massan"
-    },
-    {
-      "path": "/images/species/polis-massan-scene.svg",
-      "caption": "Scene illustration — Polis Massan"
+      "path": "/images/species/polis-massan-scene.png",
+      "caption": "Cinematic illustration — Polis Massan"
     }
   ]
 }

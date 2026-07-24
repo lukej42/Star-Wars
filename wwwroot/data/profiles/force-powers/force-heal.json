@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-heal.svg",
-      "caption": "Emblem — Force Heal"
-    },
-    {
-      "path": "/images/force-powers/force-heal-scene.svg",
-      "caption": "Scene illustration — Force Heal"
+      "path": "/images/force-powers/force-heal-scene.png",
+      "caption": "Cinematic illustration — Force Heal"
     }
   ]
 }

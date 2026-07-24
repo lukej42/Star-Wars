@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/droid-tri-fighter.svg",
-      "caption": "Profile view of the Droid Tri-Fighter"
-    },
-    {
-      "path": "/images/ships/droid-tri-fighter-scene.svg",
-      "caption": "Combat deployment — Droid Tri-Fighter"
-    },
-    {
-      "path": "/images/ships/droid-tri-fighter-blueprint.svg",
-      "caption": "Technical schematic — Droid Tri-Fighter"
+      "path": "/images/ships/droid-tri-fighter-scene.png",
+      "caption": "Cinematic illustration — Droid Tri-Fighter"
     }
   ]
 }

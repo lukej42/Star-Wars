@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/kage.svg",
-      "caption": "Emblem — Kage"
-    },
-    {
-      "path": "/images/species/kage-scene.svg",
-      "caption": "Scene illustration — Kage"
+      "path": "/images/species/kage-scene.png",
+      "caption": "Cinematic illustration — Kage"
     }
   ]
 }

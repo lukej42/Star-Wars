@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/tutaminis.svg",
-      "caption": "Emblem — Tutaminis"
-    },
-    {
-      "path": "/images/force-powers/tutaminis-scene.svg",
-      "caption": "Scene illustration — Tutaminis"
+      "path": "/images/force-powers/tutaminis-scene.png",
+      "caption": "Cinematic illustration — Tutaminis"
     }
   ]
 }

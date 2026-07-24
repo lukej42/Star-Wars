@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/eighth-brother.svg",
-      "caption": "Portrait of Eighth Brother"
-    },
-    {
-      "path": "/images/sith/eighth-brother-scene.svg",
-      "caption": "Dark side lightning scene — Eighth Brother"
-    },
-    {
-      "path": "/images/sith/eighth-brother-emblem.svg",
-      "caption": "Sith emblem associated with Eighth Brother"
+      "path": "/images/sith/eighth-brother-scene.png",
+      "caption": "Cinematic illustration — Eighth Brother"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ahto-city.svg",
-      "caption": "Emblem — Ahto City"
-    },
-    {
-      "path": "/images/settlements/ahto-city-scene.svg",
-      "caption": "Scene illustration — Ahto City"
+      "path": "/images/settlements/ahto-city-scene.png",
+      "caption": "Cinematic illustration — Ahto City"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/mace-windu.svg",
-      "caption": "Portrait of Mace Windu"
-    },
-    {
-      "path": "/images/jedi/mace-windu-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Mace Windu"
-    },
-    {
-      "path": "/images/jedi/mace-windu-emblem.svg",
-      "caption": "Jedi Order emblem associated with Mace Windu"
+      "path": "/images/jedi/mace-windu-scene.png",
+      "caption": "Cinematic illustration — Mace Windu"
     }
   ]
 }

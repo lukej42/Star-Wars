@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/ludo-kressh.svg",
-      "caption": "Portrait of Ludo Kressh"
-    },
-    {
-      "path": "/images/sith/ludo-kressh-scene.svg",
-      "caption": "Dark side lightning scene — Ludo Kressh"
-    },
-    {
-      "path": "/images/sith/ludo-kressh-emblem.svg",
-      "caption": "Sith emblem associated with Ludo Kressh"
+      "path": "/images/sith/ludo-kressh-scene.png",
+      "caption": "Cinematic illustration — Ludo Kressh"
     }
   ]
 }

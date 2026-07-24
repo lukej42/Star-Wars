@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/tholothian.svg",
-      "caption": "Emblem — Tholothian"
-    },
-    {
-      "path": "/images/species/tholothian-scene.svg",
-      "caption": "Scene illustration — Tholothian"
+      "path": "/images/species/tholothian-scene.png",
+      "caption": "Cinematic illustration — Tholothian"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-repulse.svg",
-      "caption": "Emblem — Force Repulse"
-    },
-    {
-      "path": "/images/force-powers/force-repulse-scene.svg",
-      "caption": "Scene illustration — Force Repulse"
+      "path": "/images/force-powers/force-repulse-scene.png",
+      "caption": "Cinematic illustration — Force Repulse"
     }
   ]
 }

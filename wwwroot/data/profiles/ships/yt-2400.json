@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/yt-2400.svg",
-      "caption": "Profile view of the YT-2400 Light Freighter"
-    },
-    {
-      "path": "/images/ships/yt-2400-scene.svg",
-      "caption": "Combat deployment — YT-2400 Light Freighter"
-    },
-    {
-      "path": "/images/ships/yt-2400-blueprint.svg",
-      "caption": "Technical schematic — YT-2400 Light Freighter"
+      "path": "/images/ships/yt-2400-scene.png",
+      "caption": "Cinematic illustration — YT-2400 Light Freighter"
     }
   ]
 }

@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/electric-judgment.svg",
-      "caption": "Emblem — Electric Judgment"
-    },
-    {
-      "path": "/images/force-powers/electric-judgment-scene.svg",
-      "caption": "Scene illustration — Electric Judgment"
+      "path": "/images/force-powers/electric-judgment-scene.png",
+      "caption": "Cinematic illustration — Electric Judgment"
     }
   ]
 }

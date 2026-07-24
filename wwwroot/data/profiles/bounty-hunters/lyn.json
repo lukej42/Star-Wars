@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/lyn.svg",
-      "caption": "Emblem — Lyn"
-    },
-    {
-      "path": "/images/bounty-hunters/lyn-scene.svg",
-      "caption": "Scene illustration — Lyn"
+      "path": "/images/bounty-hunters/lyn-scene.png",
+      "caption": "Cinematic illustration — Lyn"
     }
   ]
 }

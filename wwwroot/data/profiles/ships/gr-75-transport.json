@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/gr-75-transport.svg",
-      "caption": "Profile view of the GR-75 Medium Transport"
-    },
-    {
-      "path": "/images/ships/gr-75-transport-scene.svg",
-      "caption": "Combat deployment — GR-75 Medium Transport"
-    },
-    {
-      "path": "/images/ships/gr-75-transport-blueprint.svg",
-      "caption": "Technical schematic — GR-75 Medium Transport"
+      "path": "/images/ships/gr-75-transport-scene.png",
+      "caption": "Cinematic illustration — GR-75 Medium Transport"
     }
   ]
 }

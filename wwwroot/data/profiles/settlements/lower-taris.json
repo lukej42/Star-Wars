@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/lower-taris.svg",
-      "caption": "Emblem — Lower Taris"
-    },
-    {
-      "path": "/images/settlements/lower-taris-scene.svg",
-      "caption": "Scene illustration — Lower Taris"
+      "path": "/images/settlements/lower-taris-scene.png",
+      "caption": "Cinematic illustration — Lower Taris"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/quermian.svg",
-      "caption": "Emblem — Quermian"
-    },
-    {
-      "path": "/images/species/quermian-scene.svg",
-      "caption": "Scene illustration — Quermian"
+      "path": "/images/species/quermian-scene.png",
+      "caption": "Cinematic illustration — Quermian"
     }
   ]
 }

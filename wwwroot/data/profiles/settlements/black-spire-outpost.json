@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/black-spire-outpost.svg",
-      "caption": "Emblem — Black Spire Outpost"
-    },
-    {
-      "path": "/images/settlements/black-spire-outpost-scene.svg",
-      "caption": "Scene illustration — Black Spire Outpost"
+      "path": "/images/settlements/black-spire-outpost-scene.png",
+      "caption": "Cinematic illustration — Black Spire Outpost"
     }
   ]
 }

@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/quarren.svg",
-      "caption": "Emblem — Quarren"
-    },
-    {
-      "path": "/images/species/quarren-scene.svg",
-      "caption": "Scene illustration — Quarren"
+      "path": "/images/species/quarren-scene.png",
+      "caption": "Cinematic illustration — Quarren"
     }
   ]
 }

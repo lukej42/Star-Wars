@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/eta-2.svg",
-      "caption": "Profile view of the ETA-2 Actis Interceptor"
-    },
-    {
-      "path": "/images/ships/eta-2-scene.svg",
-      "caption": "Combat deployment — ETA-2 Actis Interceptor"
-    },
-    {
-      "path": "/images/ships/eta-2-blueprint.svg",
-      "caption": "Technical schematic — ETA-2 Actis Interceptor"
+      "path": "/images/ships/eta-2-scene.png",
+      "caption": "Cinematic illustration — ETA-2 Actis Interceptor"
     }
   ]
 }

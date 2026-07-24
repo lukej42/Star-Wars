@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/e-wing.svg",
-      "caption": "Profile view of the E-wing Escort Fighter"
-    },
-    {
-      "path": "/images/ships/e-wing-scene.svg",
-      "caption": "Combat deployment — E-wing Escort Fighter"
-    },
-    {
-      "path": "/images/ships/e-wing-blueprint.svg",
-      "caption": "Technical schematic — E-wing Escort Fighter"
+      "path": "/images/ships/e-wing-scene.png",
+      "caption": "Cinematic illustration — E-wing Escort Fighter"
     }
   ]
 }

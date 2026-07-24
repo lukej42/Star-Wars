@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-projection.svg",
-      "caption": "Emblem — Force Projection"
-    },
-    {
-      "path": "/images/force-powers/force-projection-scene.svg",
-      "caption": "Scene illustration — Force Projection"
+      "path": "/images/force-powers/force-projection-scene.png",
+      "caption": "Cinematic illustration — Force Projection"
     }
   ]
 }

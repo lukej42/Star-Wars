@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/exegol-sith-citadel.svg",
-      "caption": "Emblem — Exegol Sith Citadel"
-    },
-    {
-      "path": "/images/settlements/exegol-sith-citadel-scene.svg",
-      "caption": "Scene illustration — Exegol Sith Citadel"
+      "path": "/images/settlements/exegol-sith-citadel-scene.png",
+      "caption": "Cinematic illustration — Exegol Sith Citadel"
     }
   ]
 }

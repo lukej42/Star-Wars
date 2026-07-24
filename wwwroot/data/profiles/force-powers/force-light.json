@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-light.svg",
-      "caption": "Emblem — Force Light"
-    },
-    {
-      "path": "/images/force-powers/force-light-scene.svg",
-      "caption": "Scene illustration — Force Light"
+      "path": "/images/force-powers/force-light-scene.png",
+      "caption": "Cinematic illustration — Force Light"
     }
   ]
 }

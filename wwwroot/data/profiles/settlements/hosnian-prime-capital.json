@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/hosnian-prime-capital.svg",
-      "caption": "Emblem — Hosnian Prime Capital"
-    },
-    {
-      "path": "/images/settlements/hosnian-prime-capital-scene.svg",
-      "caption": "Scene illustration — Hosnian Prime Capital"
+      "path": "/images/settlements/hosnian-prime-capital-scene.png",
+      "caption": "Cinematic illustration — Hosnian Prime Capital"
     }
   ]
 }

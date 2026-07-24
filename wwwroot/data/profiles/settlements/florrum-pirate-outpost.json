@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/florrum-pirate-outpost.svg",
-      "caption": "Emblem — Florrum Pirate Outpost"
-    },
-    {
-      "path": "/images/settlements/florrum-pirate-outpost-scene.svg",
-      "caption": "Scene illustration — Florrum Pirate Outpost"
+      "path": "/images/settlements/florrum-pirate-outpost-scene.png",
+      "caption": "Cinematic illustration — Florrum Pirate Outpost"
     }
   ]
 }

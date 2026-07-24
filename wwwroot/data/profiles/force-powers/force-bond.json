@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-bond.svg",
-      "caption": "Emblem — Force Bond"
-    },
-    {
-      "path": "/images/force-powers/force-bond-scene.svg",
-      "caption": "Scene illustration — Force Bond"
+      "path": "/images/force-powers/force-bond-scene.png",
+      "caption": "Cinematic illustration — Force Bond"
     }
   ]
 }

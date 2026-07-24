@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/sheathipede-class.svg",
-      "caption": "Profile view of the Sheathipede-class Shuttle"
-    },
-    {
-      "path": "/images/ships/sheathipede-class-scene.svg",
-      "caption": "Combat deployment — Sheathipede-class Shuttle"
-    },
-    {
-      "path": "/images/ships/sheathipede-class-blueprint.svg",
-      "caption": "Technical schematic — Sheathipede-class Shuttle"
+      "path": "/images/ships/sheathipede-class-scene.png",
+      "caption": "Cinematic illustration — Sheathipede-class Shuttle"
     }
   ]
 }

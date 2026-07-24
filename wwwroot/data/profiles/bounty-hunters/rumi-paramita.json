@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/rumi-paramita.svg",
-      "caption": "Emblem — Rumi Paramita"
-    },
-    {
-      "path": "/images/bounty-hunters/rumi-paramita-scene.svg",
-      "caption": "Scene illustration — Rumi Paramita"
+      "path": "/images/bounty-hunters/rumi-paramita-scene.png",
+      "caption": "Cinematic illustration — Rumi Paramita"
     }
   ]
 }

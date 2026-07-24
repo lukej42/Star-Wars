@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/anchorhead.svg",
-      "caption": "Emblem — Anchorhead"
-    },
-    {
-      "path": "/images/settlements/anchorhead-scene.svg",
-      "caption": "Scene illustration — Anchorhead"
+      "path": "/images/settlements/anchorhead-scene.png",
+      "caption": "Cinematic illustration — Anchorhead"
     }
   ]
 }

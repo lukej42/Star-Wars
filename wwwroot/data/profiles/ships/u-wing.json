@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/u-wing.svg",
-      "caption": "Profile view of the U-wing"
-    },
-    {
-      "path": "/images/ships/u-wing-scene.svg",
-      "caption": "Combat deployment — U-wing"
-    },
-    {
-      "path": "/images/ships/u-wing-blueprint.svg",
-      "caption": "Technical schematic — U-wing"
+      "path": "/images/ships/u-wing-scene.png",
+      "caption": "Cinematic illustration — U-wing"
     }
   ]
 }

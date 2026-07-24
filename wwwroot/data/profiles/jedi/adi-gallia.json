@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/adi-gallia.svg",
-      "caption": "Portrait of Adi Gallia"
-    },
-    {
-      "path": "/images/jedi/adi-gallia-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Adi Gallia"
-    },
-    {
-      "path": "/images/jedi/adi-gallia-emblem.svg",
-      "caption": "Jedi Order emblem associated with Adi Gallia"
+      "path": "/images/jedi/adi-gallia-scene.png",
+      "caption": "Cinematic illustration — Adi Gallia"
     }
   ]
 }

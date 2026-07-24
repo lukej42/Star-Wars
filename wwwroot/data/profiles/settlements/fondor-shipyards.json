@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/fondor-shipyards.svg",
-      "caption": "Emblem — Fondor Shipyards"
-    },
-    {
-      "path": "/images/settlements/fondor-shipyards-scene.svg",
-      "caption": "Scene illustration — Fondor Shipyards"
+      "path": "/images/settlements/fondor-shipyards-scene.png",
+      "caption": "Cinematic illustration — Fondor Shipyards"
     }
   ]
 }

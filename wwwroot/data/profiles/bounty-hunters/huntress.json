@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/huntress.svg",
-      "caption": "Emblem — Huntress"
-    },
-    {
-      "path": "/images/bounty-hunters/huntress-scene.svg",
-      "caption": "Scene illustration — Huntress"
+      "path": "/images/bounty-hunters/huntress-scene.png",
+      "caption": "Cinematic illustration — Huntress"
     }
   ]
 }

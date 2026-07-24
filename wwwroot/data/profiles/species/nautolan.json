@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/nautolan.svg",
-      "caption": "Emblem — Nautolan"
-    },
-    {
-      "path": "/images/species/nautolan-scene.svg",
-      "caption": "Scene illustration — Nautolan"
+      "path": "/images/species/nautolan-scene.png",
+      "caption": "Cinematic illustration — Nautolan"
     }
   ]
 }

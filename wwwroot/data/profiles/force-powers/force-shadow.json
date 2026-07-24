@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-shadow.svg",
-      "caption": "Emblem — Force Shadow"
-    },
-    {
-      "path": "/images/force-powers/force-shadow-scene.svg",
-      "caption": "Scene illustration — Force Shadow"
+      "path": "/images/force-powers/force-shadow-scene.png",
+      "caption": "Cinematic illustration — Force Shadow"
     }
   ]
 }

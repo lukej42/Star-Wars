@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/shistavanen.svg",
-      "caption": "Emblem — Shistavanen"
-    },
-    {
-      "path": "/images/species/shistavanen-scene.svg",
-      "caption": "Scene illustration — Shistavanen"
+      "path": "/images/species/shistavanen-scene.png",
+      "caption": "Cinematic illustration — Shistavanen"
     }
   ]
 }

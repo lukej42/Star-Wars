@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/sith-interceptor.svg",
-      "caption": "Profile view of the Sith Interceptor"
-    },
-    {
-      "path": "/images/ships/sith-interceptor-scene.svg",
-      "caption": "Combat deployment — Sith Interceptor"
-    },
-    {
-      "path": "/images/ships/sith-interceptor-blueprint.svg",
-      "caption": "Technical schematic — Sith Interceptor"
+      "path": "/images/ships/sith-interceptor-scene.png",
+      "caption": "Cinematic illustration — Sith Interceptor"
     }
   ]
 }

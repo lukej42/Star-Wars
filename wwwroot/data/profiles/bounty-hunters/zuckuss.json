@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/zuckuss.svg",
-      "caption": "Emblem — Zuckuss"
-    },
-    {
-      "path": "/images/bounty-hunters/zuckuss-scene.svg",
-      "caption": "Scene illustration — Zuckuss"
+      "path": "/images/bounty-hunters/zuckuss-scene.png",
+      "caption": "Cinematic illustration — Zuckuss"
     }
   ]
 }

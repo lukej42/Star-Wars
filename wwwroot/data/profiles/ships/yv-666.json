@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/yv-666.svg",
-      "caption": "Profile view of the YV-666 Light Freighter"
-    },
-    {
-      "path": "/images/ships/yv-666-scene.svg",
-      "caption": "Combat deployment — YV-666 Light Freighter"
-    },
-    {
-      "path": "/images/ships/yv-666-blueprint.svg",
-      "caption": "Technical schematic — YV-666 Light Freighter"
+      "path": "/images/ships/yv-666-scene.png",
+      "caption": "Cinematic illustration — YV-666 Light Freighter"
     }
   ]
 }

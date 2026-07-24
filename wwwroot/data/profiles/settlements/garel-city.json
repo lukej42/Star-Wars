@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/garel-city.svg",
-      "caption": "Emblem — Garel City"
-    },
-    {
-      "path": "/images/settlements/garel-city-scene.svg",
-      "caption": "Scene illustration — Garel City"
+      "path": "/images/settlements/garel-city-scene.png",
+      "caption": "Cinematic illustration — Garel City"
     }
   ]
 }

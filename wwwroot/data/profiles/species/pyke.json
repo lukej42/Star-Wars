@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/pyke.svg",
-      "caption": "Emblem — Pyke"
-    },
-    {
-      "path": "/images/species/pyke-scene.svg",
-      "caption": "Scene illustration — Pyke"
+      "path": "/images/species/pyke-scene.png",
+      "caption": "Cinematic illustration — Pyke"
     }
   ]
 }

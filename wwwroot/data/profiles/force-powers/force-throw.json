@@ -37,12 +37,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-throw.svg",
-      "caption": "Emblem — Force Throw"
-    },
-    {
-      "path": "/images/force-powers/force-throw-scene.svg",
-      "caption": "Scene illustration — Force Throw"
+      "path": "/images/force-powers/force-throw-scene.png",
+      "caption": "Cinematic illustration — Force Throw"
     }
   ]
 }

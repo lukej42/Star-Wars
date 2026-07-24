@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/secutor-class.svg",
-      "caption": "Profile view of the Secutor-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/secutor-class-scene.svg",
-      "caption": "Combat deployment — Secutor-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/secutor-class-blueprint.svg",
-      "caption": "Technical schematic — Secutor-class Star Destroyer"
+      "path": "/images/ships/secutor-class-scene.png",
+      "caption": "Cinematic illustration — Secutor-class Star Destroyer"
     }
   ]
 }

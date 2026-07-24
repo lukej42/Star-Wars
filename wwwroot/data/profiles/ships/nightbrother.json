@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/nightbrother.svg",
-      "caption": "Profile view of the Nightbrother"
-    },
-    {
-      "path": "/images/ships/nightbrother-scene.svg",
-      "caption": "Combat deployment — Nightbrother"
-    },
-    {
-      "path": "/images/ships/nightbrother-blueprint.svg",
-      "caption": "Technical schematic — Nightbrother"
+      "path": "/images/ships/nightbrother-scene.png",
+      "caption": "Cinematic illustration — Nightbrother"
     }
   ]
 }

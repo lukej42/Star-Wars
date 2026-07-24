@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/oppo-rancisis.svg",
-      "caption": "Portrait of Oppo Rancisis"
-    },
-    {
-      "path": "/images/jedi/oppo-rancisis-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Oppo Rancisis"
-    },
-    {
-      "path": "/images/jedi/oppo-rancisis-emblem.svg",
-      "caption": "Jedi Order emblem associated with Oppo Rancisis"
+      "path": "/images/jedi/oppo-rancisis-scene.png",
+      "caption": "Cinematic illustration — Oppo Rancisis"
     }
   ]
 }

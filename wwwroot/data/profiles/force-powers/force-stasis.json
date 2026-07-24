@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-stasis.svg",
-      "caption": "Emblem — Force Stasis"
-    },
-    {
-      "path": "/images/force-powers/force-stasis-scene.svg",
-      "caption": "Scene illustration — Force Stasis"
+      "path": "/images/force-powers/force-stasis-scene.png",
+      "caption": "Cinematic illustration — Force Stasis"
     }
   ]
 }

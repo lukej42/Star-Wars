@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/ishi-tib.svg",
-      "caption": "Emblem — Ishi Tib"
-    },
-    {
-      "path": "/images/species/ishi-tib-scene.svg",
-      "caption": "Scene illustration — Ishi Tib"
+      "path": "/images/species/ishi-tib-scene.png",
+      "caption": "Cinematic illustration — Ishi Tib"
     }
   ]
 }

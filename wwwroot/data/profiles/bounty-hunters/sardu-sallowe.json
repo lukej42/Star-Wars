@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/sardu-sallowe.svg",
-      "caption": "Emblem — Sardu Sallowe"
-    },
-    {
-      "path": "/images/bounty-hunters/sardu-sallowe-scene.svg",
-      "caption": "Scene illustration — Sardu Sallowe"
+      "path": "/images/bounty-hunters/sardu-sallowe-scene.png",
+      "caption": "Cinematic illustration — Sardu Sallowe"
     }
   ]
 }

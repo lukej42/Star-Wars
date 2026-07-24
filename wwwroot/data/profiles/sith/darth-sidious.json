@@ -46,16 +46,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-sidious.svg",
-      "caption": "Portrait of Darth Sidious"
-    },
-    {
-      "path": "/images/sith/darth-sidious-scene.svg",
-      "caption": "Dark side lightning scene — Darth Sidious"
-    },
-    {
-      "path": "/images/sith/darth-sidious-emblem.svg",
-      "caption": "Sith emblem associated with Darth Sidious"
+      "path": "/images/sith/darth-sidious-scene.png",
+      "caption": "Cinematic illustration — Darth Sidious"
     }
   ]
 }

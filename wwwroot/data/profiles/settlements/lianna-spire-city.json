@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/lianna-spire-city.svg",
-      "caption": "Emblem — Lianna Spire City"
-    },
-    {
-      "path": "/images/settlements/lianna-spire-city-scene.svg",
-      "caption": "Scene illustration — Lianna Spire City"
+      "path": "/images/settlements/lianna-spire-city-scene.png",
+      "caption": "Cinematic illustration — Lianna Spire City"
     }
   ]
 }

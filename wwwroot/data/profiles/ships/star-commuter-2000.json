@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/star-commuter-2000.svg",
-      "caption": "Profile view of the Star Commuter 2000"
-    },
-    {
-      "path": "/images/ships/star-commuter-2000-scene.svg",
-      "caption": "Combat deployment — Star Commuter 2000"
-    },
-    {
-      "path": "/images/ships/star-commuter-2000-blueprint.svg",
-      "caption": "Technical schematic — Star Commuter 2000"
+      "path": "/images/ships/star-commuter-2000-scene.png",
+      "caption": "Cinematic illustration — Star Commuter 2000"
     }
   ]
 }

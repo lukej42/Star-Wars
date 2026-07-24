@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/balosar.svg",
-      "caption": "Emblem — Balosar"
-    },
-    {
-      "path": "/images/species/balosar-scene.svg",
-      "caption": "Scene illustration — Balosar"
+      "path": "/images/species/balosar-scene.png",
+      "caption": "Cinematic illustration — Balosar"
     }
   ]
 }

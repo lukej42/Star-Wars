@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/ginivex-class.svg",
-      "caption": "Profile view of the Ginivex-class Fanblade Starfighter"
-    },
-    {
-      "path": "/images/ships/ginivex-class-scene.svg",
-      "caption": "Combat deployment — Ginivex-class Fanblade Starfighter"
-    },
-    {
-      "path": "/images/ships/ginivex-class-blueprint.svg",
-      "caption": "Technical schematic — Ginivex-class Fanblade Starfighter"
+      "path": "/images/ships/ginivex-class-scene.png",
+      "caption": "Cinematic illustration — Ginivex-class Fanblade Starfighter"
     }
   ]
 }

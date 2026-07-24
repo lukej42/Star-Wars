@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/venator-class.svg",
-      "caption": "Profile view of the Venator-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/venator-class-scene.svg",
-      "caption": "Combat deployment — Venator-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/venator-class-blueprint.svg",
-      "caption": "Technical schematic — Venator-class Star Destroyer"
+      "path": "/images/ships/venator-class-scene.png",
+      "caption": "Cinematic illustration — Venator-class Star Destroyer"
     }
   ]
 }

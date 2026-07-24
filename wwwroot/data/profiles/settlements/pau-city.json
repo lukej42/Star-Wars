@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/pau-city.svg",
-      "caption": "Emblem — Pau City"
-    },
-    {
-      "path": "/images/settlements/pau-city-scene.svg",
-      "caption": "Scene illustration — Pau City"
+      "path": "/images/settlements/pau-city-scene.png",
+      "caption": "Cinematic illustration — Pau City"
     }
   ]
 }

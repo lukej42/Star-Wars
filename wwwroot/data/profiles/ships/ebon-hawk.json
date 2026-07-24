@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/ebon-hawk.svg",
-      "caption": "Profile view of the Ebon Hawk"
-    },
-    {
-      "path": "/images/ships/ebon-hawk-scene.svg",
-      "caption": "Combat deployment — Ebon Hawk"
-    },
-    {
-      "path": "/images/ships/ebon-hawk-blueprint.svg",
-      "caption": "Technical schematic — Ebon Hawk"
+      "path": "/images/ships/ebon-hawk-scene.png",
+      "caption": "Cinematic illustration — Ebon Hawk"
     }
   ]
 }

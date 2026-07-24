@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/niima-outpost.svg",
-      "caption": "Emblem — Niima Outpost"
-    },
-    {
-      "path": "/images/settlements/niima-outpost-scene.svg",
-      "caption": "Scene illustration — Niima Outpost"
+      "path": "/images/settlements/niima-outpost-scene.png",
+      "caption": "Cinematic illustration — Niima Outpost"
     }
   ]
 }

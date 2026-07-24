@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/tuanul-village.svg",
-      "caption": "Emblem — Tuanul Village"
-    },
-    {
-      "path": "/images/settlements/tuanul-village-scene.svg",
-      "caption": "Scene illustration — Tuanul Village"
+      "path": "/images/settlements/tuanul-village-scene.png",
+      "caption": "Cinematic illustration — Tuanul Village"
     }
   ]
 }

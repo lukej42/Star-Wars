@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/arc-170.svg",
-      "caption": "Profile view of the ARC-170 Starfighter"
-    },
-    {
-      "path": "/images/ships/arc-170-scene.svg",
-      "caption": "Combat deployment — ARC-170 Starfighter"
-    },
-    {
-      "path": "/images/ships/arc-170-blueprint.svg",
-      "caption": "Technical schematic — ARC-170 Starfighter"
+      "path": "/images/ships/arc-170-scene.png",
+      "caption": "Cinematic illustration — ARC-170 Starfighter"
     }
   ]
 }

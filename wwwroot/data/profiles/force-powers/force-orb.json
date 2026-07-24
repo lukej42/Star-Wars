@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-orb.svg",
-      "caption": "Emblem — Force Orb"
-    },
-    {
-      "path": "/images/force-powers/force-orb-scene.svg",
-      "caption": "Scene illustration — Force Orb"
+      "path": "/images/force-powers/force-orb-scene.png",
+      "caption": "Cinematic illustration — Force Orb"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/sixth-brother.svg",
-      "caption": "Portrait of Sixth Brother"
-    },
-    {
-      "path": "/images/sith/sixth-brother-scene.svg",
-      "caption": "Dark side lightning scene — Sixth Brother"
-    },
-    {
-      "path": "/images/sith/sixth-brother-emblem.svg",
-      "caption": "Sith emblem associated with Sixth Brother"
+      "path": "/images/sith/sixth-brother-scene.png",
+      "caption": "Cinematic illustration — Sixth Brother"
     }
   ]
 }

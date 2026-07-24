@@ -20,7 +20,8 @@ else
 {
     <DirectoryDetailShell Name="@species.Name"
                           HeroImagePath="@species.SceneImagePath"
-                          HeroImageAlt="@($"Illustration of a {species.Name}")"
+                          HeroImageAlt="@($"Cinematic illustration of a {species.Name}")"
+                          ShowPortraitHero="false"
                           Subtitle="@($"{species.Classification} · {species.Homeworld}")"
                           MetaLine="@($"Sources: {species.Sources}")"
                           OverviewText="@(profile?.Overview ?? species.Description)"

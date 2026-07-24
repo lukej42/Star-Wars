@@ -11,5 +11,6 @@ public sealed class Ship
     public required string Era { get; init; }
     public required string Color { get; init; }
 
-    public string ImagePath => $"/images/ships/{Slug}.svg";
+    public string ImagePath => $"/images/ships/{Slug}.png";
+    public string SceneImagePath => $"/images/ships/{Slug}-scene.png";
 }

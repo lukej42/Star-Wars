@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/v-19-torrent.svg",
-      "caption": "Profile view of the V-19 Torrent Starfighter"
-    },
-    {
-      "path": "/images/ships/v-19-torrent-scene.svg",
-      "caption": "Combat deployment — V-19 Torrent Starfighter"
-    },
-    {
-      "path": "/images/ships/v-19-torrent-blueprint.svg",
-      "caption": "Technical schematic — V-19 Torrent Starfighter"
+      "path": "/images/ships/v-19-torrent-scene.png",
+      "caption": "Cinematic illustration — V-19 Torrent Starfighter"
     }
   ]
 }

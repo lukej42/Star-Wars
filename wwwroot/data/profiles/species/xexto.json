@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/xexto.svg",
-      "caption": "Emblem — Xexto"
-    },
-    {
-      "path": "/images/species/xexto-scene.svg",
-      "caption": "Scene illustration — Xexto"
+      "path": "/images/species/xexto-scene.png",
+      "caption": "Cinematic illustration — Xexto"
     }
   ]
 }

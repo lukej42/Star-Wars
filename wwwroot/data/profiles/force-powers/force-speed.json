@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-speed.svg",
-      "caption": "Emblem — Force Speed"
-    },
-    {
-      "path": "/images/force-powers/force-speed-scene.svg",
-      "caption": "Scene illustration — Force Speed"
+      "path": "/images/force-powers/force-speed-scene.png",
+      "caption": "Cinematic illustration — Force Speed"
     }
   ]
 }

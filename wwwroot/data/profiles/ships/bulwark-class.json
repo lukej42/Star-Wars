@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/bulwark-class.svg",
-      "caption": "Profile view of the Bulwark-class Battlecruiser"
-    },
-    {
-      "path": "/images/ships/bulwark-class-scene.svg",
-      "caption": "Combat deployment — Bulwark-class Battlecruiser"
-    },
-    {
-      "path": "/images/ships/bulwark-class-blueprint.svg",
-      "caption": "Technical schematic — Bulwark-class Battlecruiser"
+      "path": "/images/ships/bulwark-class-scene.png",
+      "caption": "Cinematic illustration — Bulwark-class Battlecruiser"
     }
   ]
 }

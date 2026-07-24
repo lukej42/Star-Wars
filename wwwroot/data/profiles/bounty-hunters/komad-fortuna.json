@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/komad-fortuna.svg",
-      "caption": "Emblem — Komad Fortuna"
-    },
-    {
-      "path": "/images/bounty-hunters/komad-fortuna-scene.svg",
-      "caption": "Scene illustration — Komad Fortuna"
+      "path": "/images/bounty-hunters/komad-fortuna-scene.png",
+      "caption": "Cinematic illustration — Komad Fortuna"
     }
   ]
 }

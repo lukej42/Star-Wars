@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-resistance.svg",
-      "caption": "Emblem — Force Resistance"
-    },
-    {
-      "path": "/images/force-powers/force-resistance-scene.svg",
-      "caption": "Scene illustration — Force Resistance"
+      "path": "/images/force-powers/force-resistance-scene.png",
+      "caption": "Cinematic illustration — Force Resistance"
     }
   ]
 }

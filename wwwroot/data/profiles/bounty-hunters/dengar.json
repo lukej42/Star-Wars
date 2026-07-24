@@ -41,12 +41,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/dengar.svg",
-      "caption": "Emblem — Dengar"
-    },
-    {
-      "path": "/images/bounty-hunters/dengar-scene.svg",
-      "caption": "Scene illustration — Dengar"
+      "path": "/images/bounty-hunters/dengar-scene.png",
+      "caption": "Cinematic illustration — Dengar"
     }
   ]
 }

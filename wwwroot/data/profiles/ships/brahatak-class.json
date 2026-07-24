@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/brahatak-class.svg",
-      "caption": "Profile view of the Braha'tok-class Gunship"
-    },
-    {
-      "path": "/images/ships/brahatak-class-scene.svg",
-      "caption": "Combat deployment — Braha'tok-class Gunship"
-    },
-    {
-      "path": "/images/ships/brahatak-class-blueprint.svg",
-      "caption": "Technical schematic — Braha'tok-class Gunship"
+      "path": "/images/ships/brahatak-class-scene.png",
+      "caption": "Cinematic illustration — Braha'tok-class Gunship"
     }
   ]
 }

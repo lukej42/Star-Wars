@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/shae-vizla.svg",
-      "caption": "Emblem — Shae Vizla"
-    },
-    {
-      "path": "/images/bounty-hunters/shae-vizla-scene.svg",
-      "caption": "Scene illustration — Shae Vizla"
+      "path": "/images/bounty-hunters/shae-vizla-scene.png",
+      "caption": "Cinematic illustration — Shae Vizla"
     }
   ]
 }

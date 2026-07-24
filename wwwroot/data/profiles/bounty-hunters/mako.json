@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/mako.svg",
-      "caption": "Emblem — Mako"
-    },
-    {
-      "path": "/images/bounty-hunters/mako-scene.svg",
-      "caption": "Scene illustration — Mako"
+      "path": "/images/bounty-hunters/mako-scene.png",
+      "caption": "Cinematic illustration — Mako"
     }
   ]
 }

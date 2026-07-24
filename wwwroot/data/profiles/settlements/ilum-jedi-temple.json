@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ilum-jedi-temple.svg",
-      "caption": "Emblem — Ilum Jedi Temple"
-    },
-    {
-      "path": "/images/settlements/ilum-jedi-temple-scene.svg",
-      "caption": "Scene illustration — Ilum Jedi Temple"
+      "path": "/images/settlements/ilum-jedi-temple-scene.png",
+      "caption": "Cinematic illustration — Ilum Jedi Temple"
     }
   ]
 }

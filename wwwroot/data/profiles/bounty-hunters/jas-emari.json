@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/jas-emari.svg",
-      "caption": "Emblem — Jas Emari"
-    },
-    {
-      "path": "/images/bounty-hunters/jas-emari-scene.svg",
-      "caption": "Scene illustration — Jas Emari"
+      "path": "/images/bounty-hunters/jas-emari-scene.png",
+      "caption": "Cinematic illustration — Jas Emari"
     }
   ]
 }

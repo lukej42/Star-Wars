@@ -18,6 +18,6 @@ public sealed class ForcePower
     public required string Color { get; init; }
     public required string Sources { get; init; }
 
-    public string ImagePath => $"/images/force-powers/{Slug}.svg";
-    public string SceneImagePath => $"/images/force-powers/{Slug}-scene.svg";
+    public string ImagePath => $"/images/force-powers/{Slug}.png";
+    public string SceneImagePath => $"/images/force-powers/{Slug}-scene.png";
 }

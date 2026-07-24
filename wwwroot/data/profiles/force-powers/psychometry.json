@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/psychometry.svg",
-      "caption": "Emblem — Psychometry"
-    },
-    {
-      "path": "/images/force-powers/psychometry-scene.svg",
-      "caption": "Scene illustration — Psychometry"
+      "path": "/images/force-powers/psychometry-scene.png",
+      "caption": "Cinematic illustration — Psychometry"
     }
   ]
 }

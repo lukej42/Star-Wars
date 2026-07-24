@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/boushh.svg",
-      "caption": "Emblem — Boushh"
-    },
-    {
-      "path": "/images/bounty-hunters/boushh-scene.svg",
-      "caption": "Scene illustration — Boushh"
+      "path": "/images/bounty-hunters/boushh-scene.png",
+      "caption": "Cinematic illustration — Boushh"
     }
   ]
 }

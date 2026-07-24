@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/ulic-qel-droma.svg",
-      "caption": "Portrait of Ulic Qel-Droma"
-    },
-    {
-      "path": "/images/sith/ulic-qel-droma-scene.svg",
-      "caption": "Dark side lightning scene — Ulic Qel-Droma"
-    },
-    {
-      "path": "/images/sith/ulic-qel-droma-emblem.svg",
-      "caption": "Sith emblem associated with Ulic Qel-Droma"
+      "path": "/images/sith/ulic-qel-droma-scene.png",
+      "caption": "Cinematic illustration — Ulic Qel-Droma"
     }
   ]
 }

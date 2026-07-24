@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/malachor-sith-temple.svg",
-      "caption": "Emblem — Malachor Sith Temple"
-    },
-    {
-      "path": "/images/settlements/malachor-sith-temple-scene.svg",
-      "caption": "Scene illustration — Malachor Sith Temple"
+      "path": "/images/settlements/malachor-sith-temple-scene.png",
+      "caption": "Cinematic illustration — Malachor Sith Temple"
     }
   ]
 }

@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/recusant-class.svg",
-      "caption": "Profile view of the Recusant-class Destroyer"
-    },
-    {
-      "path": "/images/ships/recusant-class-scene.svg",
-      "caption": "Combat deployment — Recusant-class Destroyer"
-    },
-    {
-      "path": "/images/ships/recusant-class-blueprint.svg",
-      "caption": "Technical schematic — Recusant-class Destroyer"
+      "path": "/images/ships/recusant-class-scene.png",
+      "caption": "Cinematic illustration — Recusant-class Destroyer"
     }
   ]
 }

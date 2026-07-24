@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/dharhan.svg",
-      "caption": "Emblem — D'harhan"
-    },
-    {
-      "path": "/images/bounty-hunters/dharhan-scene.svg",
-      "caption": "Scene illustration — D'harhan"
+      "path": "/images/bounty-hunters/dharhan-scene.png",
+      "caption": "Cinematic illustration — D'harhan"
     }
   ]
 }

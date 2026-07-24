@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/seripas.svg",
-      "caption": "Emblem — Seripas"
-    },
-    {
-      "path": "/images/bounty-hunters/seripas-scene.svg",
-      "caption": "Scene illustration — Seripas"
+      "path": "/images/bounty-hunters/seripas-scene.png",
+      "caption": "Cinematic illustration — Seripas"
     }
   ]
 }

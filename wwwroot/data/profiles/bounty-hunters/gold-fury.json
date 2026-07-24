@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/gold-fury.svg",
-      "caption": "Emblem — Gold Fury"
-    },
-    {
-      "path": "/images/bounty-hunters/gold-fury-scene.svg",
-      "caption": "Scene illustration — Gold Fury"
+      "path": "/images/bounty-hunters/gold-fury-scene.png",
+      "caption": "Cinematic illustration — Gold Fury"
     }
   ]
 }

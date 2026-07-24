@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/hardcell-class.svg",
-      "caption": "Profile view of the Hardcell-class Transport"
-    },
-    {
-      "path": "/images/ships/hardcell-class-scene.svg",
-      "caption": "Combat deployment — Hardcell-class Transport"
-    },
-    {
-      "path": "/images/ships/hardcell-class-blueprint.svg",
-      "caption": "Technical schematic — Hardcell-class Transport"
+      "path": "/images/ships/hardcell-class-scene.png",
+      "caption": "Cinematic illustration — Hardcell-class Transport"
     }
   ]
 }

@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-phantom.svg",
-      "caption": "Emblem — Force Phantom"
-    },
-    {
-      "path": "/images/force-powers/force-phantom-scene.svg",
-      "caption": "Scene illustration — Force Phantom"
+      "path": "/images/force-powers/force-phantom-scene.png",
+      "caption": "Cinematic illustration — Force Phantom"
     }
   ]
 }

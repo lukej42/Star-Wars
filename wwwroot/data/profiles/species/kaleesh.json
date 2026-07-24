@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/kaleesh.svg",
-      "caption": "Emblem — Kaleesh"
-    },
-    {
-      "path": "/images/species/kaleesh-scene.svg",
-      "caption": "Scene illustration — Kaleesh"
+      "path": "/images/species/kaleesh-scene.png",
+      "caption": "Cinematic illustration — Kaleesh"
     }
   ]
 }

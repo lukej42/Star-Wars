@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/coruscant-galactic-city.svg",
-      "caption": "Emblem — Coruscant Galactic City"
-    },
-    {
-      "path": "/images/settlements/coruscant-galactic-city-scene.svg",
-      "caption": "Scene illustration — Coruscant Galactic City"
+      "path": "/images/settlements/coruscant-galactic-city-scene.png",
+      "caption": "Cinematic illustration — Coruscant Galactic City"
     }
   ]
 }

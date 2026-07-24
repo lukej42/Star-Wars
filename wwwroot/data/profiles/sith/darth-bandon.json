@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/darth-bandon.svg",
-      "caption": "Portrait of Darth Bandon"
-    },
-    {
-      "path": "/images/sith/darth-bandon-scene.svg",
-      "caption": "Dark side lightning scene — Darth Bandon"
-    },
-    {
-      "path": "/images/sith/darth-bandon-emblem.svg",
-      "caption": "Sith emblem associated with Darth Bandon"
+      "path": "/images/sith/darth-bandon-scene.png",
+      "caption": "Cinematic illustration — Darth Bandon"
     }
   ]
 }

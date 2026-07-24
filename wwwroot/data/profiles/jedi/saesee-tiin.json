@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/jedi/saesee-tiin.svg",
-      "caption": "Portrait of Saesee Tiin"
-    },
-    {
-      "path": "/images/jedi/saesee-tiin-scene.svg",
-      "caption": "Jedi temple and battlefield scene — Saesee Tiin"
-    },
-    {
-      "path": "/images/jedi/saesee-tiin-emblem.svg",
-      "caption": "Jedi Order emblem associated with Saesee Tiin"
+      "path": "/images/jedi/saesee-tiin-scene.png",
+      "caption": "Cinematic illustration — Saesee Tiin"
     }
   ]
 }

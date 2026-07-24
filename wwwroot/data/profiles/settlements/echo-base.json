@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/echo-base.svg",
-      "caption": "Emblem — Echo Base"
-    },
-    {
-      "path": "/images/settlements/echo-base-scene.svg",
-      "caption": "Scene illustration — Echo Base"
+      "path": "/images/settlements/echo-base-scene.png",
+      "caption": "Cinematic illustration — Echo Base"
     }
   ]
 }

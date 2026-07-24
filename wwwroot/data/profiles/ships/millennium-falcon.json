@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/millennium-falcon.svg",
-      "caption": "Profile view of the Millennium Falcon"
-    },
-    {
-      "path": "/images/ships/millennium-falcon-scene.svg",
-      "caption": "Combat deployment — Millennium Falcon"
-    },
-    {
-      "path": "/images/ships/millennium-falcon-blueprint.svg",
-      "caption": "Technical schematic — Millennium Falcon"
+      "path": "/images/ships/millennium-falcon-scene.png",
+      "caption": "Cinematic illustration — Millennium Falcon"
     }
   ]
 }

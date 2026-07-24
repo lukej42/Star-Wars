@@ -39,12 +39,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-choke.svg",
-      "caption": "Emblem — Force Choke"
-    },
-    {
-      "path": "/images/force-powers/force-choke-scene.svg",
-      "caption": "Scene illustration — Force Choke"
+      "path": "/images/force-powers/force-choke-scene.png",
+      "caption": "Cinematic illustration — Force Choke"
     }
   ]
 }

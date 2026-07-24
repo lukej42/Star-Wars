@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/mg-100-bomber.svg",
-      "caption": "Profile view of the MG-100 StarFortress"
-    },
-    {
-      "path": "/images/ships/mg-100-bomber-scene.svg",
-      "caption": "Combat deployment — MG-100 StarFortress"
-    },
-    {
-      "path": "/images/ships/mg-100-bomber-blueprint.svg",
-      "caption": "Technical schematic — MG-100 StarFortress"
+      "path": "/images/ships/mg-100-bomber-scene.png",
+      "caption": "Cinematic illustration — MG-100 StarFortress"
     }
   ]
 }

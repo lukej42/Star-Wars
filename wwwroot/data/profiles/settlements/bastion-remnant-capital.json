@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/bastion-remnant-capital.svg",
-      "caption": "Emblem — Bastion Remnant Capital"
-    },
-    {
-      "path": "/images/settlements/bastion-remnant-capital-scene.svg",
-      "caption": "Scene illustration — Bastion Remnant Capital"
+      "path": "/images/settlements/bastion-remnant-capital-scene.png",
+      "caption": "Cinematic illustration — Bastion Remnant Capital"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/savage-opress.svg",
-      "caption": "Portrait of Savage Opress"
-    },
-    {
-      "path": "/images/sith/savage-opress-scene.svg",
-      "caption": "Dark side lightning scene — Savage Opress"
-    },
-    {
-      "path": "/images/sith/savage-opress-emblem.svg",
-      "caption": "Sith emblem associated with Savage Opress"
+      "path": "/images/sith/savage-opress-scene.png",
+      "caption": "Cinematic illustration — Savage Opress"
     }
   ]
 }

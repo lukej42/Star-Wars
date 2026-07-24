@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/cradossk.svg",
-      "caption": "Emblem — Cradossk"
-    },
-    {
-      "path": "/images/bounty-hunters/cradossk-scene.svg",
-      "caption": "Scene illustration — Cradossk"
+      "path": "/images/bounty-hunters/cradossk-scene.png",
+      "caption": "Cinematic illustration — Cradossk"
     }
   ]
 }

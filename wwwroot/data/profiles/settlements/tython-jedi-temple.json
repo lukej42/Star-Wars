@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/tython-jedi-temple.svg",
-      "caption": "Emblem — Tython Jedi Temple"
-    },
-    {
-      "path": "/images/settlements/tython-jedi-temple-scene.svg",
-      "caption": "Scene illustration — Tython Jedi Temple"
+      "path": "/images/settlements/tython-jedi-temple-scene.png",
+      "caption": "Cinematic illustration — Tython Jedi Temple"
     }
   ]
 }

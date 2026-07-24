@@ -48,16 +48,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/b-wing.svg",
-      "caption": "Profile view of the B-wing (A/SF-01)"
-    },
-    {
-      "path": "/images/ships/b-wing-scene.svg",
-      "caption": "Combat deployment — B-wing (A/SF-01)"
-    },
-    {
-      "path": "/images/ships/b-wing-blueprint.svg",
-      "caption": "Technical schematic — B-wing (A/SF-01)"
+      "path": "/images/ships/b-wing-scene.png",
+      "caption": "Cinematic illustration — B-wing (A/SF-01)"
     }
   ]
 }

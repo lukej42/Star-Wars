@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-wound.svg",
-      "caption": "Emblem — Force Wound"
-    },
-    {
-      "path": "/images/force-powers/force-wound-scene.svg",
-      "caption": "Scene illustration — Force Wound"
+      "path": "/images/force-powers/force-wound-scene.png",
+      "caption": "Cinematic illustration — Force Wound"
     }
   ]
 }

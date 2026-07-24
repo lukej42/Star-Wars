@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/mandator-iv-class.svg",
-      "caption": "Profile view of the Mandator IV-class Siege Dreadnought"
-    },
-    {
-      "path": "/images/ships/mandator-iv-class-scene.svg",
-      "caption": "Combat deployment — Mandator IV-class Siege Dreadnought"
-    },
-    {
-      "path": "/images/ships/mandator-iv-class-blueprint.svg",
-      "caption": "Technical schematic — Mandator IV-class Siege Dreadnought"
+      "path": "/images/ships/mandator-iv-class-scene.png",
+      "caption": "Cinematic illustration — Mandator IV-class Siege Dreadnought"
     }
   ]
 }

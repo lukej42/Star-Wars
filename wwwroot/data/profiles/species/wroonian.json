@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/wroonian.svg",
-      "caption": "Emblem — Wroonian"
-    },
-    {
-      "path": "/images/species/wroonian-scene.svg",
-      "caption": "Scene illustration — Wroonian"
+      "path": "/images/species/wroonian-scene.png",
+      "caption": "Cinematic illustration — Wroonian"
     }
   ]
 }

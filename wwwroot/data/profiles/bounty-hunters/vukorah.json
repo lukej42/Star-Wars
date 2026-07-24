@@ -34,12 +34,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/vukorah.svg",
-      "caption": "Emblem — Vukorah"
-    },
-    {
-      "path": "/images/bounty-hunters/vukorah-scene.svg",
-      "caption": "Scene illustration — Vukorah"
+      "path": "/images/bounty-hunters/vukorah-scene.png",
+      "caption": "Cinematic illustration — Vukorah"
     }
   ]
 }

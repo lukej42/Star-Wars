@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/shatterpoint.svg",
-      "caption": "Emblem — Shatterpoint"
-    },
-    {
-      "path": "/images/force-powers/shatterpoint-scene.svg",
-      "caption": "Scene illustration — Shatterpoint"
+      "path": "/images/force-powers/shatterpoint-scene.png",
+      "caption": "Cinematic illustration — Shatterpoint"
     }
   ]
 }

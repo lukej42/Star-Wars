@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/subjugator-class.svg",
-      "caption": "Profile view of the Subjugator-class Heavy Cruiser"
-    },
-    {
-      "path": "/images/ships/subjugator-class-scene.svg",
-      "caption": "Combat deployment — Subjugator-class Heavy Cruiser"
-    },
-    {
-      "path": "/images/ships/subjugator-class-blueprint.svg",
-      "caption": "Technical schematic — Subjugator-class Heavy Cruiser"
+      "path": "/images/ships/subjugator-class-scene.png",
+      "caption": "Cinematic illustration — Subjugator-class Heavy Cruiser"
     }
   ]
 }

@@ -47,16 +47,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/sith/seventh-sister.svg",
-      "caption": "Portrait of Seventh Sister"
-    },
-    {
-      "path": "/images/sith/seventh-sister-scene.svg",
-      "caption": "Dark side lightning scene — Seventh Sister"
-    },
-    {
-      "path": "/images/sith/seventh-sister-emblem.svg",
-      "caption": "Sith emblem associated with Seventh Sister"
+      "path": "/images/sith/seventh-sister-scene.png",
+      "caption": "Cinematic illustration — Seventh Sister"
     }
   ]
 }

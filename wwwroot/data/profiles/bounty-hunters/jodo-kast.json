@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/bounty-hunters/jodo-kast.svg",
-      "caption": "Emblem — Jodo Kast"
-    },
-    {
-      "path": "/images/bounty-hunters/jodo-kast-scene.svg",
-      "caption": "Scene illustration — Jodo Kast"
+      "path": "/images/bounty-hunters/jodo-kast-scene.png",
+      "caption": "Cinematic illustration — Jodo Kast"
     }
   ]
 }

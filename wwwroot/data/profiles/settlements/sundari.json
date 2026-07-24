@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/sundari.svg",
-      "caption": "Emblem — Sundari"
-    },
-    {
-      "path": "/images/settlements/sundari-scene.svg",
-      "caption": "Scene illustration — Sundari"
+      "path": "/images/settlements/sundari-scene.png",
+      "caption": "Cinematic illustration — Sundari"
     }
   ]
 }

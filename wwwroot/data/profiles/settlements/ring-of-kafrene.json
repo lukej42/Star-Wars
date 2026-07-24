@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/ring-of-kafrene.svg",
-      "caption": "Emblem — Ring of Kafrene"
-    },
-    {
-      "path": "/images/settlements/ring-of-kafrene-scene.svg",
-      "caption": "Scene illustration — Ring of Kafrene"
+      "path": "/images/settlements/ring-of-kafrene-scene.png",
+      "caption": "Cinematic illustration — Ring of Kafrene"
     }
   ]
 }

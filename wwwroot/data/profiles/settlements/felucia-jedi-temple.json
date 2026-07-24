@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/felucia-jedi-temple.svg",
-      "caption": "Emblem — Felucia Jedi Temple"
-    },
-    {
-      "path": "/images/settlements/felucia-jedi-temple-scene.svg",
-      "caption": "Scene illustration — Felucia Jedi Temple"
+      "path": "/images/settlements/felucia-jedi-temple-scene.png",
+      "caption": "Cinematic illustration — Felucia Jedi Temple"
     }
   ]
 }

@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/force-powers/force-scream.svg",
-      "caption": "Emblem — Force Scream"
-    },
-    {
-      "path": "/images/force-powers/force-scream-scene.svg",
-      "caption": "Scene illustration — Force Scream"
+      "path": "/images/force-powers/force-scream-scene.png",
+      "caption": "Cinematic illustration — Force Scream"
     }
   ]
 }

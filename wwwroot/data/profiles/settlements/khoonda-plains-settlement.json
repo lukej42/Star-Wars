@@ -40,12 +40,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/settlements/khoonda-plains-settlement.svg",
-      "caption": "Emblem — Khoonda Plains Settlement"
-    },
-    {
-      "path": "/images/settlements/khoonda-plains-settlement-scene.svg",
-      "caption": "Scene illustration — Khoonda Plains Settlement"
+      "path": "/images/settlements/khoonda-plains-settlement-scene.png",
+      "caption": "Cinematic illustration — Khoonda Plains Settlement"
     }
   ]
 }

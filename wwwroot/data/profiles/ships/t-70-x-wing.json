@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/t-70-x-wing.svg",
-      "caption": "Profile view of the T-70 X-wing"
-    },
-    {
-      "path": "/images/ships/t-70-x-wing-scene.svg",
-      "caption": "Combat deployment — T-70 X-wing"
-    },
-    {
-      "path": "/images/ships/t-70-x-wing-blueprint.svg",
-      "caption": "Technical schematic — T-70 X-wing"
+      "path": "/images/ships/t-70-x-wing-scene.png",
+      "caption": "Cinematic illustration — T-70 X-wing"
     }
   ]
 }

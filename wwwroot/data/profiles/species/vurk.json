@@ -38,12 +38,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/species/vurk.svg",
-      "caption": "Emblem — Vurk"
-    },
-    {
-      "path": "/images/species/vurk-scene.svg",
-      "caption": "Scene illustration — Vurk"
+      "path": "/images/species/vurk-scene.png",
+      "caption": "Cinematic illustration — Vurk"
     }
   ]
 }

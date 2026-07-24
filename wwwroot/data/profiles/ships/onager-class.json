@@ -43,16 +43,8 @@
   ],
   "gallery": [
     {
-      "path": "/images/ships/onager-class.svg",
-      "caption": "Profile view of the Onager-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/onager-class-scene.svg",
-      "caption": "Combat deployment — Onager-class Star Destroyer"
-    },
-    {
-      "path": "/images/ships/onager-class-blueprint.svg",
-      "caption": "Technical schematic — Onager-class Star Destroyer"
+      "path": "/images/ships/onager-class-scene.png",
+      "caption": "Cinematic illustration — Onager-class Star Destroyer"
     }
   ]
 }
