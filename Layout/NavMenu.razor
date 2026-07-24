@@ -310,70 +310,85 @@
             </div>
             <div class="nav-item px-3 nav-flyout"
                  @onclick:stopPropagation="true"
-                 @onmouseleave="CloseMobileForcePowers">
+                 @onmouseleave="CloseMobileTheForce">
                 <button type="button"
-                        class="nav-link nav-flyout-trigger @(IsForcePowerRoute ? "active" : null)"
-                        @onclick="ToggleMobileForcePowers">
-                    <span class="bi bi-force-powers-nav-menu" aria-hidden="true"></span> Force Powers
+                        class="nav-link nav-flyout-trigger @(IsTheForceRoute ? "active" : null)"
+                        @onclick="ToggleMobileTheForce">
+                    <span class="bi bi-the-force-nav-menu" aria-hidden="true"></span> The Force
                     <span class="nav-flyout-chevron" aria-hidden="true"></span>
                 </button>
-                <div class="nav-flyout-menu @(mobileForcePowersOpen ? "is-open" : null)">
+                <div class="nav-flyout-menu @(mobileTheForceOpen ? "is-open" : null)">
                     <div class="nav-flyout-panel">
-                        <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-all-force-powers-link" href="all-force-powers" @onclick="CloseMobileNav">
-                            <span class="bi bi-all-force-powers-nav-menu" aria-hidden="true"></span>
-                            All Force Powers
-                        </NavLink>
                         <div class="nav-subflyout"
                              @onclick:stopPropagation="true"
-                             @onmouseleave="CloseMobileLightSide">
+                             @onmouseleave="CloseMobileForcePowersSub">
                             <button type="button"
-                                    class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsLightSideForceRoute ? "active" : null)"
-                                    @onclick="ToggleMobileLightSide">
-                                <span class="bi bi-light-side-powers-nav-menu" aria-hidden="true"></span>
-                                Light Side Powers
+                                    class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsForcePowersSubRoute ? "active" : null)"
+                                    @onclick="ToggleMobileForcePowersSub">
+                                <span class="bi bi-force-powers-nav-menu" aria-hidden="true"></span>
+                                Force Powers
                                 <span class="nav-flyout-chevron" aria-hidden="true"></span>
                             </button>
-                            <div class="nav-subflyout-menu @(mobileLightSideOpen ? "is-open" : null)">
-                                <div class="nav-flyout-panel nav-flyout-panel-scroll">
-                                    <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-all-light-side-link" href="all-light-side-powers" @onclick="CloseMobileNav">
-                                        <span class="bi bi-all-light-side-nav-menu" aria-hidden="true"></span>
-                                        All Light Side Powers
+                            <div class="nav-subflyout-menu @(mobileForcePowersSubOpen ? "is-open" : null)">
+                                <div class="nav-flyout-panel">
+                                    <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-all-force-powers-link" href="all-force-powers" @onclick="CloseMobileNav">
+                                        <span class="bi bi-all-force-powers-nav-menu" aria-hidden="true"></span>
+                                        All Force Powers
                                     </NavLink>
-                                    <div class="nav-flyout-divider" aria-hidden="true"></div>
-                                    @foreach (var power in ForcePowerData.LightSidePowers.OrderBy(power => power.Name))
-                                    {
-                                        <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-light-side-link" href="@power.Route" @onclick="CloseMobileNav">
-                                            <span class="nav-force-power-dot" style="background-color: @power.Color" aria-hidden="true"></span>
-                                            @power.Name
-                                        </NavLink>
-                                    }
-                                </div>
-                            </div>
-                        </div>
-                        <div class="nav-subflyout"
-                             @onclick:stopPropagation="true"
-                             @onmouseleave="CloseMobileDarkSide">
-                            <button type="button"
-                                    class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsDarkSideForceRoute ? "active" : null)"
-                                    @onclick="ToggleMobileDarkSide">
-                                <span class="bi bi-dark-side-powers-nav-menu" aria-hidden="true"></span>
-                                Dark Side Powers
-                                <span class="nav-flyout-chevron" aria-hidden="true"></span>
-                            </button>
-                            <div class="nav-subflyout-menu @(mobileDarkSideOpen ? "is-open" : null)">
-                                <div class="nav-flyout-panel nav-flyout-panel-scroll">
-                                    <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-all-dark-side-link" href="all-dark-side-powers" @onclick="CloseMobileNav">
-                                        <span class="bi bi-all-dark-side-nav-menu" aria-hidden="true"></span>
-                                        All Dark Side Powers
-                                    </NavLink>
-                                    <div class="nav-flyout-divider" aria-hidden="true"></div>
-                                    @foreach (var power in ForcePowerData.DarkSidePowers.OrderBy(power => power.Name))
-                                    {
-                                        <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-dark-side-link" href="@power.Route" @onclick="CloseMobileNav">
-                                            <span class="nav-force-power-dot" style="background-color: @power.Color" aria-hidden="true"></span>
-                                            @power.Name
-                                        </NavLink>
-                                    }
+                                    <div class="nav-subflyout"
+                                         @onclick:stopPropagation="true"
+                                         @onmouseleave="CloseMobileLightSide">
+                                        <button type="button"
+                                                class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsLightSideForceRoute ? "active" : null)"
+                                                @onclick="ToggleMobileLightSide">
+                                            <span class="bi bi-light-side-powers-nav-menu" aria-hidden="true"></span>
+                                            Light Side Powers
+                                            <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="nav-subflyout-menu @(mobileLightSideOpen ? "is-open" : null)">
+                                            <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                                                <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-all-light-side-link" href="all-light-side-powers" @onclick="CloseMobileNav">
+                                                    <span class="bi bi-all-light-side-nav-menu" aria-hidden="true"></span>
+                                                    All Light Side Powers
+                                                </NavLink>
+                                                <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                                @foreach (var power in ForcePowerData.LightSidePowers.OrderBy(power => power.Name))
+                                                {
+                                                    <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-light-side-link" href="@power.Route" @onclick="CloseMobileNav">
+                                                        <span class="nav-force-power-dot" style="background-color: @power.Color" aria-hidden="true"></span>
+                                                        @power.Name
+                                                    </NavLink>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="nav-subflyout"
+                                         @onclick:stopPropagation="true"
+                                         @onmouseleave="CloseMobileDarkSide">
+                                        <button type="button"
+                                                class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsDarkSideForceRoute ? "active" : null)"
+                                                @onclick="ToggleMobileDarkSide">
+                                            <span class="bi bi-dark-side-powers-nav-menu" aria-hidden="true"></span>
+                                            Dark Side Powers
+                                            <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="nav-subflyout-menu @(mobileDarkSideOpen ? "is-open" : null)">
+                                            <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                                                <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-all-dark-side-link" href="all-dark-side-powers" @onclick="CloseMobileNav">
+                                                    <span class="bi bi-all-dark-side-nav-menu" aria-hidden="true"></span>
+                                                    All Dark Side Powers
+                                                </NavLink>
+                                                <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                                @foreach (var power in ForcePowerData.DarkSidePowers.OrderBy(power => power.Name))
+                                                {
+                                                    <NavLink class="nav-link nav-flyout-link nav-force-power-link nav-dark-side-link" href="@power.Route" @onclick="CloseMobileNav">
+                                                        <span class="nav-force-power-dot" style="background-color: @power.Color" aria-hidden="true"></span>
+                                                        @power.Name
+                                                    </NavLink>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -397,7 +412,8 @@
     private bool mobileSettlementsOpen;
     private bool mobileDroidsOpen;
     private bool mobileBountyHuntersOpen;
-    private bool mobileForcePowersOpen;
+    private bool mobileForcePowersSubOpen;
+    private bool mobileTheForceOpen;
     private bool mobileLightSideOpen;
     private bool mobileDarkSideOpen;
 
@@ -563,7 +579,9 @@
         }
     }
 
-    private bool IsForcePowerRoute
+    private bool IsTheForceRoute => IsForcePowersSubRoute;
+
+    private bool IsForcePowersSubRoute
     {
         get
         {
@@ -579,6 +597,8 @@
                 uri.StartsWith($"{power.Route}/", StringComparison.OrdinalIgnoreCase));
         }
     }
+
+    private bool IsForcePowerRoute => IsForcePowersSubRoute;
 
     private bool IsLightSideForceRoute
     {
@@ -718,14 +738,25 @@
         }
     }
 
-    private void ToggleMobileForcePowers()
+    private void ToggleMobileTheForce()
     {
-        mobileForcePowersOpen = !mobileForcePowersOpen;
-        if (mobileForcePowersOpen)
+        mobileTheForceOpen = !mobileTheForceOpen;
+        if (mobileTheForceOpen)
         {
-            CloseOtherFlyouts(nameof(mobileForcePowersOpen));
+            CloseOtherFlyouts(nameof(mobileTheForceOpen));
         }
         else
+        {
+            mobileForcePowersSubOpen = false;
+            mobileLightSideOpen = false;
+            mobileDarkSideOpen = false;
+        }
+    }
+
+    private void ToggleMobileForcePowersSub()
+    {
+        mobileForcePowersSubOpen = !mobileForcePowersSubOpen;
+        if (mobileForcePowersSubOpen)
         {
             mobileLightSideOpen = false;
             mobileDarkSideOpen = false;
@@ -807,9 +838,14 @@
             mobileBountyHuntersOpen = false;
         }
 
-        if (except != nameof(mobileForcePowersOpen))
+        if (except != nameof(mobileTheForceOpen))
         {
-            mobileForcePowersOpen = false;
+            mobileTheForceOpen = false;
+        }
+
+        if (except != nameof(mobileForcePowersSubOpen))
+        {
+            mobileForcePowersSubOpen = false;
         }
     }
 
@@ -868,11 +904,24 @@
         mobileBountyHuntersOpen = false;
     }
 
-    private void CloseMobileForcePowers()
+    private void CloseMobileTheForce()
     {
-        mobileForcePowersOpen = false;
+        mobileTheForceOpen = false;
+        mobileForcePowersSubOpen = false;
         mobileLightSideOpen = false;
         mobileDarkSideOpen = false;
+    }
+
+    private void CloseMobileForcePowersSub()
+    {
+        mobileForcePowersSubOpen = false;
+        mobileLightSideOpen = false;
+        mobileDarkSideOpen = false;
+    }
+
+    private void CloseMobileForcePowers()
+    {
+        CloseMobileTheForce();
     }
 
     private void CloseMobileLightSide()
@@ -899,7 +948,8 @@
         mobileSettlementsOpen = false;
         mobileDroidsOpen = false;
         mobileBountyHuntersOpen = false;
-        mobileForcePowersOpen = false;
+        mobileTheForceOpen = false;
+        mobileForcePowersSubOpen = false;
         mobileLightSideOpen = false;
         mobileDarkSideOpen = false;
     }
