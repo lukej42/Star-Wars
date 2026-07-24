@@ -1,0 +1,50 @@
+{
+  "overview": "The Clone Wars were three years of total galactic war — the Republic and Confederacy fighting across thousands of worlds while Darth Sidious manipulated both sides toward a single outcome: Jedi extinction and Imperial birth. It was the Republic's last war and the Jedi Order's fatal trial.",
+  "history": "Geonosis (22 BBY) transformed a political crisis into open warfare overnight. Kaminoan clone legions, ordered in secret by Sifo-Dyas and funded by Sidious, gave the Republic an army overnight — while Separatist droid foundries matched them ship for ship.\n\nGenerals like Obi-Wan Kenobi, Anakin Skywalker, and Mace Windu became battlefield celebrities; Count Dooku and General Grievous served as Confederate figureheads. Corporate backers profited from both sides while Rim worlds burned.\n\nThe war eroded Republic values: civilian casualties, military tribunals, and emergency powers that never expired. Anakin's secret marriage, Padmé's peace efforts, and Dooku's political arguments all competed with the simple fact that the war was designed not to be won — but to exhaust.\n\nWhen Grievous struck Coruscant and kidnapped Palpatine, the Chancellor's rescue provided cover for Anakin's fall. Order 66, issued moments after Dooku's death, turned every clone against their Jedi generals. The Separatist shutdown and Mustafar massacre ended the war in a day — with Sidious ruling both outcomes.",
+  "significance": "The Clone Wars explain how a democracy dies with popular support — war as distraction, enemies manufactured, and heroes turned into weapons.\n\nThe era connects the prequel films, The Clone Wars series, and Bad Batch — defining character arcs for Anakin, Ahsoka, Rex, and the galaxy that would accept the Empire.",
+  "notableEvents": [
+    "First Battle of Geonosis (22 BBY)",
+    "Battle of Christophsis and early Rim campaigns",
+    "Mortis and Force-wielder encounters (Anakin's destiny)",
+    "Siege of Mandalore and Darth Maul's schemes",
+    "Battle of Coruscant — Chancellor 'rescued'",
+    "Anakin Skywalker falls; becomes Darth Vader",
+    "Order 66 executed across the galaxy",
+    "Separatist leadership eliminated on Mustafar"
+  ],
+  "affiliations": [
+    "Galactic Republic / Grand Army of the Republic",
+    "Confederacy of Independent Systems",
+    "Jedi Order (military command)",
+    "Sith — Darth Sidious orchestrating both sides",
+    "Mandalore, Neutral systems, Corporate sponsors"
+  ],
+  "timeline": [
+    {
+      "era": "22 BBY",
+      "event": "War declared after Geonosis"
+    },
+    {
+      "era": "Mid-war",
+      "event": "Outer Rim sieges and hero campaigns"
+    },
+    {
+      "era": "21–20 BBY",
+      "event": "Political corruption deepens in Senate"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Coruscant battle and Order 66"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Empire proclaimed; war ends"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/clone-wars-scene.png",
+      "caption": "Cinematic illustration — Clone Wars"
+    }
+  ]
+}

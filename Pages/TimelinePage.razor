@@ -1,0 +1,59 @@
+@page "/timelines/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(era?.Name ?? "Timeline")</PageTitle>
+
+@if (era is null)
+{
+    <h1>Timeline entry not found</h1>
+    <p>Sorry, there are no records for this era.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading timeline records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@era.Name"
+                          HeroImagePath="@era.SceneImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {era.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@era.EraLabel"
+                          MetaLine="@($"Dates: {era.DateRange}")"
+                          OverviewText="@(profile?.Overview ?? era.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Legacy and impact"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@era.Color" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private TimelineEra? era;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        era = TimelineData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (era is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("timelines", era.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

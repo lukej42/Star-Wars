@@ -1,0 +1,51 @@
+{
+  "overview": "The Imperial Era was twenty-three years of rule by fear — Palpatine's New Order replacing Senate debate with Moffs, the ISB, and fleet deployments. The Jedi were hunted to near extinction, dissent crushed on worlds from Lothal to Alderaan, and rebellion slowly kindled until Endor broke the Empire's myth of invincibility.",
+  "history": "Day one of the Empire brought the Jedi Temple's burning broadcast as warning. Inquisitors hunted survivors; Kamino was sanitized; and the clone army gave way to recruited stormtroopers loyal to the Emperor alone.\n\nThe Death Star program consumed entire budgets — a mobile world-killer meant to end rebellion before it started. Dissolution of the Senate (0 BBY) removed the last facade of democracy while the station neared completion.\n\nRebellion grew in cells: Bail Organa's network, Hera's Spectres, Saw Gerrera's extremists, and eventually Mon Mothma's Alliance. Scarif delivered Death Star plans; Yavin destroyed the weapon; Hoth tested the Alliance's resolve.\n\nEndor (4 ABY) killed Palpatine and Vader, shattered the second Death Star, and inspired uprisings across occupied worlds. Imperial remnants fought for years — Thrawn in some timelines, warlords in others — until Jakku (5 ABY) ended the Imperial Era as a unified threat.",
+  "significance": "The Empire is the saga's central tyranny — the benchmark for every 'order' movement that follows, from the First Order to fascist nostalgia in the New Republic Senate.\n\nIts institutions — COMPNOR, ISB, Inquisitorius — show how bureaucratic evil sustains itself beyond any single leader.",
+  "notableEvents": [
+    "Proclamation of the New Order (19 BBY)",
+    "Great Jedi Purge and Inquisitor campaigns",
+    "Construction of the first Death Star",
+    "Dissolution of the Imperial Senate (0 BBY)",
+    "Destruction of Alderaan as terror demonstration",
+    "Battle of Yavin — Rebel victory (0 BBY)",
+    "Battle of Hoth and pursuit of the Alliance (3 ABY)",
+    "Battle of Endor — Emperor killed (4 ABY)",
+    "Battle of Jakku — Imperial surrender (5 ABY)"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Imperial Navy and Stormtrooper Corps",
+    "Imperial Security Bureau",
+    "Inquisitorius",
+    "Rebel Alliance (opposition)"
+  ],
+  "timeline": [
+    {
+      "era": "19 BBY",
+      "event": "Empire consolidates power; Jedi hunted"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Death Star and Rim pacification"
+    },
+    {
+      "era": "0 BBY",
+      "event": "Senate dissolved; Yavin battle"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Alliance escalates to open war"
+    },
+    {
+      "era": "4–5 ABY",
+      "event": "Endor and Jakku end Imperial unity"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/imperial-era-scene.png",
+      "caption": "Cinematic illustration — Imperial Era"
+    }
+  ]
+}

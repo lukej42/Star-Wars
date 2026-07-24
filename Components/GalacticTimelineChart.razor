@@ -1,0 +1,105 @@
+@using StarWars.Data
+@using StarWars.Models
+
+<div class="galactic-timeline-chart" aria-label="Galactic history timeline">
+    <div class="galactic-timeline-axis-header">
+        <span class="galactic-timeline-axis-spacer" aria-hidden="true"></span>
+        <div class="galactic-timeline-axis-track">
+            @foreach (var tick in AxisTicks)
+            {
+                <span class="galactic-timeline-axis-tick" style="left: @(ToPosition(tick.Year))%">
+                    <span class="galactic-timeline-axis-tick-line" aria-hidden="true"></span>
+                    <span class="galactic-timeline-axis-tick-label">@tick.Label</span>
+                </span>
+            }
+        </div>
+        <span class="galactic-timeline-axis-dates-spacer" aria-hidden="true"></span>
+    </div>
+
+    <div class="galactic-timeline-rows">
+        @foreach (var era in TimelineData.ChartEras)
+        {
+            var ancient = Math.Max(era.ChartStart, era.ChartEnd);
+            var recent = Math.Min(era.ChartStart, era.ChartEnd);
+            var left = ToPosition(ancient);
+            var right = ToPosition(recent);
+            var width = Math.Max(right - left, 0.6);
+
+            <a href="@era.Route" class="galactic-timeline-row" title="@era.Name (@era.DateRange)">
+                <span class="galactic-timeline-row-label">
+                    <span class="galactic-timeline-row-swatch" style="background-color: @era.Color"></span>
+                    <span class="galactic-timeline-row-name">@era.Name</span>
+                </span>
+                <span class="galactic-timeline-row-track">
+                    <span class="galactic-timeline-row-bar"
+                          style="--era-color: @era.Color; left: @(left.ToString("F2"))%; width: @(width.ToString("F2"))%;"></span>
+                </span>
+                <span class="galactic-timeline-row-dates">@era.DateRange</span>
+            </a>
+        }
+    </div>
+
+    <p class="galactic-timeline-note">
+        Scale compresses deep time on the left and expands the modern era on the right for readability. BBY = Before the Battle of Yavin; ABY = After the Battle of Yavin.
+    </p>
+</div>
+
+@code {
+    private static readonly (int Year, string Label)[] AxisTicks =
+    [
+        (25000, "25,000 BBY"),
+        (1000, "1,000 BBY"),
+        (500, "500 BBY"),
+        (100, "100 BBY"),
+        (22, "22 BBY"),
+        (0, "0 BBY"),
+        (-5, "5 ABY"),
+        (-34, "34 ABY"),
+    ];
+
+    // Piecewise anchors compress ancient history and expand the modern era on the chart.
+    private static readonly (int Year, double Position)[] ScaleAnchors =
+    [
+        (25000, 0),
+        (1000, 10),
+        (500, 18),
+        (100, 30),
+        (22, 58),
+        (19, 61),
+        (0, 65),
+        (-5, 72),
+        (-28, 86),
+        (-34, 92),
+        (-40, 100),
+    ];
+
+    private static double ToPosition(int year)
+    {
+        var anchors = ScaleAnchors;
+
+        if (year >= anchors[0].Year)
+        {
+            return anchors[0].Position;
+        }
+
+        if (year <= anchors[^1].Year)
+        {
+            return anchors[^1].Position;
+        }
+
+        for (var i = 0; i < anchors.Length - 1; i++)
+        {
+            var upper = anchors[i];
+            var lower = anchors[i + 1];
+
+            if (year <= upper.Year && year >= lower.Year)
+            {
+                var span = (double)(upper.Year - lower.Year);
+                var ratio = span == 0 ? 0 : (upper.Year - year) / span;
+                return upper.Position + ratio * (lower.Position - upper.Position);
+            }
+        }
+
+        return 50;
+    }
+}

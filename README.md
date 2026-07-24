@@ -7,6 +7,7 @@ An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse 
 | Section | Count | Description |
 |---------|------:|-------------|
 | **Galaxy Map** | 66 worlds | Pan, zoom, and search an interactive map of the galaxy. Click any marker for a quick preview and jump to the full planet page. |
+| **Timelines** | 8 eras | Full galactic chronology with interactive time chart — Major Events, Republic Era, High Republic, Clone Wars, Imperial Era, New Republic, First Order Era, and Legends. |
 | **Factions** | 11 | Major galactic powers and syndicates — Republic, Confederacy, Empire, Rebel Alliance, New Republic, Hutts, Sith Empire, First Order, Resistance, Mandalorians, and Trade Federation. |
 | **Characters** | 102 | Heroes, villains, leaders, and supporting figures from across the saga (excluding dedicated Jedi/Sith directories). |
 | **Jedi Directory** | 42 | Jedi Masters, Knights, and Padawans with rank, history, and legacy. |
@@ -29,6 +30,7 @@ Detail pages and most directory index pages use **1536×1024 (16:9) cinematic PN
 |-----------|-----------------|
 | Characters | `/images/characters/{slug}-scene.png` |
 | Factions | `/images/factions/{slug}-scene.png` |
+| Timelines | `/images/timelines/{slug}-scene.png` |
 | Jedi, Sith, Ships, Species, Bounty Hunters, Settlements, Force Powers, Droids | `/images/{category}/{slug}-scene.png` |
 | Planets | `/images/planets/{slug}-hero.png` (banner only) |
 
@@ -119,6 +121,8 @@ Star-Wars/
 |-------|------|-------|
 | `/` | Home | Landing page |
 | `/galaxy-map` | Galaxy Map | Interactive world map |
+| `/timelines` | Full Timeline | Interactive galactic time chart |
+| `/timelines/{slug}` | Timeline era detail | e.g. `/timelines/clone-wars` |
 | `/all-factions` | Faction index | |
 | `/factions/{slug}` | Faction detail | e.g. `/factions/empire` |
 | `/all-characters` | Character index | |
@@ -173,6 +177,7 @@ Content is split into two layers:
 | Category | Profiles |
 |----------|----------:|
 | Factions | 11 |
+| Timelines | 8 |
 | Characters | 102 |
 | Jedi | 42 |
 | Sith | 34 |
@@ -196,6 +201,9 @@ The `scripts/` folder contains Python utilities for maintaining catalogues, prof
 | Regenerate faction profiles | `generate_faction_profiles.py` |
 | Install faction hero banners | `install_faction_heroes.py` |
 | Verify faction hero PNG coverage | `verify_faction_hero_coverage.py` |
+| Regenerate timeline profiles | `generate_timeline_profiles.py` |
+| Install timeline hero banners | `install_timeline_heroes.py` |
+| Verify timeline hero PNG coverage | `verify_timeline_hero_coverage.py` |
 | Install directory hero PNGs into `wwwroot` | `install_directory_heroes.py` |
 | Install planet hero banners | `install_planet_heroes.py` |
 | Install character hero banners | `install_character_heroes.py` |
@@ -207,6 +215,7 @@ The `scripts/` folder contains Python utilities for maintaining catalogues, prof
 Run coverage checks from the repo root:
 
 ```bash
+python3 scripts/verify_timeline_hero_coverage.py
 python3 scripts/verify_faction_hero_coverage.py
 python3 scripts/verify_hero_coverage.py
 python3 scripts/verify_planet_hero_coverage.py

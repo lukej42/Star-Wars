@@ -1,0 +1,50 @@
+{
+  "overview": "The Republic Era spans more than twenty-five millennia of democratic experiment — from the unification of the Core Worlds through the Jedi's long guardianship, the corporate corruption of the late Republic, and the final collapse into Empire. For most of this period the Republic was the default condition of civilized space.",
+  "history": "Early Republic history is fragmented — tales of the Rakata, the Mandalorian crusades, and repeated Sith wars that scarred the galaxy. The Great Hyperspace War and subsequent conflicts proved that dark-side empires could threaten the entire known map.\n\nAfter Ruusan, the Republic entered a millennium of relative stability. The Jedi recast themselves as peacekeepers rather than warriors, taking younglings from across the galaxy and serving as negotiators in a slowly expanding union of worlds.\n\nThe late Republic was defined by inequality: Core wealth, Rim neglect, and megacorporations with private armies. The Senate became a venue for trade disputes rather than justice. Chancellors like Valorum failed to act decisively until Palpatine demonstrated how crisis could centralize power.\n\nBy 19 BBY the Republic was a war state — clones in every sector, Jedi as generals, and civil liberties suspended in the name of victory. When the war ended, the institution survived only long enough to vote itself out of existence.",
+  "significance": "Every rebellion in Star Wars invokes the Republic as the lost ideal — proof that democracy once worked at galactic scale, however imperfectly.\n\nThe era explains the Jedi Order's political role, the Outer Rim's distrust of Coruscant, and why Palpatine needed a war rather than a coup to seize control.",
+  "notableEvents": [
+    "Founding and expansion of the Galactic Republic",
+    "Multiple Jedi–Sith galactic wars",
+    "Ruusan Reformations (~1,000 BBY)",
+    "Mandalorian conflicts with Jedi and Republic",
+    "Trade route disputes and corporate militarization",
+    "Invasion of Naboo (32 BBY)",
+    "Separatist Crisis (24–22 BBY)",
+    "Transformation into the Galactic Empire (19 BBY)"
+  ],
+  "affiliations": [
+    "Galactic Senate",
+    "Jedi Order",
+    "Republic Judicial Forces / later Grand Army",
+    "Core and Mid Rim member worlds",
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "25,000+ BBY",
+      "event": "Republic consolidates Core governance"
+    },
+    {
+      "era": "Old Republic wars",
+      "event": "Repeated Sith and Mandalorian conflicts"
+    },
+    {
+      "era": "~1,000 BBY",
+      "event": "Ruusan peace begins Jedi's golden age"
+    },
+    {
+      "era": "Late Republic",
+      "event": "Corporate influence and Rim unrest grow"
+    },
+    {
+      "era": "32–19 BBY",
+      "event": "Palpatine's rise and Republic militarization"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/republic-era-scene.png",
+      "caption": "Cinematic illustration — Republic Era"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "overview": "The New Republic Era promised restoration after Endor — Senate chambers reopened, Imperial war machines dismantled, and Mon Mothma's vision of peace through diplomacy. For thirty years it held, but demilitarization, political division, and blindness to the First Order's rise left the galaxy vulnerable to another cataclysm.",
+  "history": "Chandrila hosted the first restored Senate sessions. Former rebels became senators; Imperial officers faced trials or amnesty depending on faction; and the galaxy celebrated a hard-won peace.\n\nThe Galactic Concordance (5 ABY) formalized Imperial surrender at Jakku, restricting  remnant fleets and banning certain weapons — but also allowing hidden Imperial holdouts to flee into the Unknown Regions with sympathizers and resources.\n\nCapital moved to Hosnian Prime as the Republic expanded membership. Populists and Centrists debated demilitarization: should the New Republic maintain a fleet capable of deterring warlords, or trust that Endor had ended fascism forever?\n\nLeia Organa's warnings about Imperial remnants were sidelined. The Resistance formed unofficially while the Senate argued. Starkiller Base's strike (34 ABY) destroyed Hosnian Prime and most of the government in an instant — proving the New Republic had traded security for optimism once again.",
+  "significance": "The New Republic shows the difficulty of peace-building — forgiveness vs accountability, security vs liberty, and the assumption that victory is permanent.\n\nIts fall sets the sequel trilogy's stakes and explains why the Resistance fought without official backing.",
+  "notableEvents": [
+    "Proclamation of the New Republic (4 ABY)",
+    "Battle of Jakku and Galactic Concordance (5 ABY)",
+    "Demilitarization debates in the Senate",
+    "Capital relocation to Hosnian Prime",
+    "Leia Organa forms the Resistance (28 ABY)",
+    "First Order emerges from Unknown Regions",
+    "Destruction of the Hosnian system (34 ABY)"
+  ],
+  "affiliations": [
+    "New Republic Senate",
+    "New Republic Defense Force (reduced over time)",
+    "Imperial Remnants / warlords",
+    "Resistance (unofficial opposition to First Order)",
+    "Populist and Centrist factions"
+  ],
+  "timeline": [
+    {
+      "era": "4 ABY",
+      "event": "Republic restored after Endor"
+    },
+    {
+      "era": "5 ABY",
+      "event": "Jakku ends open Imperial war"
+    },
+    {
+      "era": "Decades of peace",
+      "event": "Senate governs; military scaled back"
+    },
+    {
+      "era": "28 ABY",
+      "event": "Leia marginalized; Resistance begins"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Hosnian annihilation ends the era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/new-republic-scene.png",
+      "caption": "Cinematic illustration — New Republic"
+    }
+  ]
+}

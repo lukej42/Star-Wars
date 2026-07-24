@@ -1,0 +1,46 @@
+{
+  "overview": "The First Order Era compresses galactic crisis into a few explosive years — hidden Imperial revival, the Resistance's desperate fight, Starkiller Base, Snoke's Supremacy, and Palpatine's return on Exegol. It is the sequel trilogy's span: legacy, failure, and the question of whether the galaxy can break cycles of darkness.",
+  "history": "After the Concordance, Imperial ideologues regrouped beyond the known map. Snoke — later revealed as a pawn of deeper Sith designs — molded Kylo Ren from Ben Solo's fall and rebuilt stormtrooper legions from abducted children.\n\nThe New Republic's leadership refused full mobilization. Leia's Resistance operated covertly while the First Order tested borders. Starkiller Base's first firing destroyed five worlds including Hosnian Prime — the Senate, fleet, and bureaucracy gone in seconds.\n\nRey, Finn, Poe, and Luke's legacy intersected in a race to destroy superweapons and reach Kylo Ren before Snoke consolidated absolute power. Holdo's hyperspace ram and Luke's projection at Crait preserved hope when defeat seemed total.\n\nPalpatine's reveal on Exegol (35 ABY) exposed the First Order as prelude to a Final Order. The citizens' fleet — ordinary pilots answering the call — defeated the Sith armada and ended the era with Ben Solo's redemption and Rey's choice of identity.",
+  "significance": "This era closes the Skywalker narrative — asking whether destiny is blood or choice, and whether democracies must remain vigilant forever.\n\nIt connects the original trilogy's heroes to a new generation burdened by their failures and their hope.",
+  "notableEvents": [
+    "Ben Solo falls to the dark side; Knights of Ren formed",
+    "Resistance intelligence locates Starkiller Base",
+    "Hosnian system destroyed (34 ABY)",
+    "Starkiller Base destroyed by Resistance",
+    "Snoke killed aboard the Supremacy; Kylo Ren takes command",
+    "Siege of Crait — Luke Skywalker's stand",
+    "Palpatine revealed on Exegol (35 ABY)",
+    "Battle of Exegol — Final Order defeated"
+  ],
+  "affiliations": [
+    "First Order",
+    "Resistance",
+    "Knights of Ren",
+    "Sith Eternal",
+    "Citizens' fleet (final battle)"
+  ],
+  "timeline": [
+    {
+      "era": "28 ABY",
+      "event": "Resistance organized amid Senate denial"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Open war begins with Hosnian strike"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Starkiller destroyed; fleet hunted"
+    },
+    {
+      "era": "35 ABY",
+      "event": "Exegol battle ends Palpatine and First Order"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/first-order-era-scene.png",
+      "caption": "Cinematic illustration — First Order Era"
+    }
+  ]
+}

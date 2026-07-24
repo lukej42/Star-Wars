@@ -1,0 +1,54 @@
+{
+  "overview": "Star Wars Legends is the Expanded Universe continuity that flourished before Lucasfilm declared it non-canon in 2014. Spanning comics, novels, games, and radio dramas, Legends told stories from Tales of the Jedi through Legacy — a parallel chronology  fans still celebrate for its depth, contradictions, and ambition.",
+  "history": "Legends began with early Marvel comics and Brian Daley's Han Solo adventures, then exploded with Timothy Zahn's Heir to the Empire trilogy — introducing Grand Admiral Thrawn and a post-Endor Empire that felt strategically terrifying.\n\nDark Horse comics explored the Old Republic: Tales of the Jedi, Knights of the Old Republic, and the Mandalorian Wars that shaped Revan and Malak. BioWare's KOTOR games became touchstones for interactive Legends storytelling.\n\nThe New Jedi Order novels pushed the galaxy into biological horror and moral ambiguity; Legacy comics jumped to 137 ABY with Cade Skywalker wielding a lightsaber against a Sith-dominated Empire. Clone Wars multimedia projects bridged prequel gaps until George Lucas's canon decisions diverged.\n\nWhen Disney acquired Lucasfilm, the Story Group reset continuity — canon films and series superseded Legends, though names like Thrawn, Rukh, and Korriban persist in adapted form. Legends remains available as 'Infinities' heritage — not official history, but essential cultural context for decades of fandom.",
+  "significance": "Legends explains why so many fans reference Thrawn, Mara Jade, Revan, and Kyle Katarn — and why debates about canon still matter emotionally even when official timelines move on.\n\nIt preserves thousands of years of storytelling that canon has only begun to re-explore through High Republic and Old Republic projects.",
+  "notableEvents": [
+    "Tales of the Jedi — ancient Sith and Jedi wars",
+    "Knights of the Old Republic — Revan and Malak",
+    "Great Sith War and Mandalorian Wars",
+    "Heir to the Empire — Thrawn campaigns (9 ABY)",
+    "Dark Empire — Palpatine clones return",
+    "New Jedi Order — Yuuzhan Vong invasion",
+    "Legacy era — Cade Skywalker (137 ABY)",
+    "2014 Lucasfilm continuity reset — Legends label applied"
+  ],
+  "affiliations": [
+    "Expanded Universe publishing imprints",
+    "Old Republic Jedi and Sith Empires (Legends)",
+    "New Republic / Galactic Alliance (Legends)",
+    "Yuuzhan Vong (Legends antagonists)",
+    "Legacy Sith and Imperial Remnants"
+  ],
+  "timeline": [
+    {
+      "era": "25,000+ BBY",
+      "event": "Legends ancient history — Rakata, early Jedi"
+    },
+    {
+      "era": "Old Republic era",
+      "event": "KOTOR, Tales of the Jedi stories"
+    },
+    {
+      "era": "Post-Endor EU",
+      "event": "Thrawn, Dark Empire, Jedi Academy"
+    },
+    {
+      "era": "New Jedi Order",
+      "event": "Vong war reshapes galaxy"
+    },
+    {
+      "era": "Legacy comics",
+      "event": "Far-future Skywalker line continues"
+    },
+    {
+      "era": "2014",
+      "event": "Legends designation; canon reset"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/legends-timeline-scene.png",
+      "caption": "Cinematic illustration — Legends Timeline"
+    }
+  ]
+}

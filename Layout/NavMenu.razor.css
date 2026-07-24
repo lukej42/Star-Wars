@@ -52,8 +52,20 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='2' fill='%23fff'/%3E%3Cellipse cx='8' cy='8' rx='7' ry='3' fill='none' stroke='%23fff' stroke-width='1' transform='rotate(-20 8 8)'/%3E%3Cellipse cx='8' cy='8' rx='5' ry='2' fill='none' stroke='%23fff' stroke-width='1' transform='rotate(25 8 8)'/%3E%3C/svg%3E");
 }
 
+.bi-timelines-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='none' stroke='%23fff' stroke-width='1.2' d='M2 12h12M2 8h9M2 4h6'/%3E%3Ccircle fill='%23ffd166' cx='13' cy='4' r='1.2'/%3E%3Ccircle fill='%234a90d9' cx='12' cy='8' r='1.2'/%3E%3Ccircle fill='%23b91c1c' cx='14' cy='12' r='1.2'/%3E%3C/svg%3E");
+}
+
+.bi-full-timeline-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Cpath fill='none' stroke='%23ffd166' stroke-width='1' d='M4 11h8M4 8h6M4 5h4'/%3E%3C/svg%3E");
+}
+
 .bi-factions-nav-menu {
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 3.5A1.5 1.5 0 0 1 3.5 2h9A1.5 1.5 0 0 1 14 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 12.5v-9zM3.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-9z'/%3E%3Cpath fill='%23fff' d='M5 6.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 3a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z'/%3E%3C/svg%3E");
+}
+
+.bi-all-factions-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6' r='1' fill='%234a90d9'/%3E%3Ccircle cx='8' cy='6' r='1' fill='%23e85d04'/%3E%3Ccircle cx='10.5' cy='6' r='1' fill='%239ca3af'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23ffd166'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23b91c1c'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%23dc2626'/%3E%3C/svg%3E");
 }
 
 .bi-characters-directory-nav-menu {
@@ -336,6 +348,7 @@
 }
 
 .nav-flyout-panel ::deep .nav-faction-link,
+.nav-flyout-panel ::deep .nav-timeline-link,
 .nav-flyout-panel ::deep .nav-character-link,
 .nav-flyout-panel ::deep .nav-jedi-link,
 .nav-flyout-panel ::deep .nav-sith-link,
@@ -351,6 +364,7 @@
 
 .nav-flyout-panel ::deep .nav-planet-dot,
 .nav-flyout-panel ::deep .nav-faction-dot,
+.nav-flyout-panel ::deep .nav-timeline-dot,
 .nav-flyout-panel ::deep .nav-character-dot,
 .nav-flyout-panel ::deep .nav-jedi-dot,
 .nav-flyout-panel ::deep .nav-sith-dot,
@@ -372,6 +386,7 @@
 
 .nav-flyout-panel ::deep .nav-planet-link:hover .nav-planet-dot,
 .nav-flyout-panel ::deep .nav-faction-link:hover .nav-faction-dot,
+.nav-flyout-panel ::deep .nav-timeline-link:hover .nav-timeline-dot,
 .nav-flyout-panel ::deep .nav-character-link:hover .nav-character-dot,
 .nav-flyout-panel ::deep .nav-jedi-link:hover .nav-jedi-dot,
 .nav-flyout-panel ::deep .nav-sith-link:hover .nav-sith-dot,
@@ -482,6 +497,8 @@
     background: rgba(255, 255, 255, 0.12);
 }
 
+.nav-full-timeline-link ::deep .bi,
+.nav-all-factions-link ::deep .bi,
 .nav-all-planets-link ::deep .bi,
 .nav-all-characters-link ::deep .bi,
 .nav-all-jedi-link ::deep .bi,

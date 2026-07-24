@@ -1,0 +1,34 @@
+@page "/timelines"
+@using StarWars.Data
+@using StarWars.Components
+
+<PageTitle>Full Timeline</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/timelines/timelines-directory-hero.png" alt="Panoramic galactic history chart spanning ancient Sith empires through the First Order era" loading="lazy" />
+</figure>
+
+<h1>Full Timeline</h1>
+<p class="all-planets-intro">
+    A chronological map of galactic history from the deep past through the fall of the First Order.
+    Dates use the in-universe standard: BBY (Before the Battle of Yavin) and ABY (After the Battle of Yavin).
+</p>
+
+<GalacticTimelineChart />
+
+<section class="directory-detail-section galactic-timeline-section">
+    <h2>Historic periods</h2>
+    <div class="planet-directory-grid">
+        @foreach (var era in TimelineData.Eras)
+        {
+            <article class="planet-directory-card">
+                <span class="planet-directory-swatch" style="background-color: @era.Color" aria-hidden="true"></span>
+                <div class="planet-directory-details">
+                    <a href="@era.Route">@era.Name</a>
+                    <p class="planet-region">@era.DateRange</p>
+                    <p class="galactic-timeline-card-summary">@era.EraLabel</p>
+                </div>
+            </article>
+        }
+    </div>
+</section>

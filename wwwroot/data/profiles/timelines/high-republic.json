@@ -1,0 +1,49 @@
+{
+  "overview": "The High Republic was an age of expansion and confidence — Jedi as heroes of the frontier, Starlight Beacons guiding hyperspace lanes, and a Republic that believed the light side could outshine any shadow. It ended not in one battle but in the revelation that hubris and neglect could breed horrors like the Nihil and the Drengir.",
+  "history": "Centuries before the prequel trilogy, the Republic pushed into the Outer Rim with optimism unmatched in later eras. Chancellor Lina Soh's Great Hyperspace Rush opened new routes; Jedi like Avar Kriss, Elzar Mann, and Stellan Gios served as public symbols of justice rather than secretive monks.\n\nStarlight Beacons — massive space stations — became lighthouses for navigation and diplomacy. The Jedi Temple on Coruscant worked openly with the Senate, and many worlds welcomed Jedi as liberators rather than suspicious mystics.\n\nThe Nihil — marauders led by Marchion Ro — weaponized hyperspace anomalies and demonstrated that the Republic's expansion had outpaced its ability to protect settlers. The destruction of Starlight Beacon and the Legacy Run disaster shattered the era's complacency.\n\nParallel threats like the Drengir and the Nameless creatures forced Jedi to confront limits of the Force itself. By the time of the prequel era, the Order had retreated into caution — a shadow of the High Republic's open idealism.",
+  "significance": "The High Republic reframes Jedi history — showing them beloved, visible, and politically trusted before the Clone Wars tarnished their reputation.\n\nIt connects ancient threats to modern ones, and explains why later Jedi feared attachment, frontier expansion, and public celebrity.",
+  "notableEvents": [
+    "Great Hyperspace Rush expands Republic frontiers",
+    "Construction of Starlight Beacon network",
+    "Legacy Run hyperspace disaster",
+    "Nihil conflict and Marchion Ro's campaigns",
+    "Drengir awakening in the Outer Rim",
+    "Fall of Starlight Beacon",
+    "Gradual retreat from High Republic optimism"
+  ],
+  "affiliations": [
+    "Galactic Republic (High Republic period)",
+    "Jedi Order — frontier guardians",
+    "Starlight Beacon program",
+    "Nihil marauders (antagonists)",
+    "Outer Rim settlement charters"
+  ],
+  "timeline": [
+    {
+      "era": "~500 BBY",
+      "event": "Republic enters High Republic phase"
+    },
+    {
+      "era": "~232 BBY",
+      "event": "Starlight Beacon era peak"
+    },
+    {
+      "era": "Nihil crisis",
+      "event": "Hyperspace terrorism devastates Rim"
+    },
+    {
+      "era": "~136 BBY",
+      "event": "High Republic confidence wanes"
+    },
+    {
+      "era": "Prequel era",
+      "event": "Jedi adopt more cautious public role"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/high-republic-scene.png",
+      "caption": "Cinematic illustration — High Republic"
+    }
+  ]
+}

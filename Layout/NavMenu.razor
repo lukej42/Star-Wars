@@ -25,6 +25,32 @@
             </div>
             <div class="nav-item px-3 nav-flyout"
                  @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileTimelines">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsTimelineRoute ? "active" : null)"
+                        @onclick="ToggleMobileTimelines">
+                    <span class="bi bi-timelines-nav-menu" aria-hidden="true"></span> Timelines
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileTimelinesOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel">
+                        <NavLink class="nav-link nav-flyout-link nav-timeline-link nav-full-timeline-link" href="timelines" @onclick="CloseMobileNav">
+                            <span class="bi bi-full-timeline-nav-menu" aria-hidden="true"></span>
+                            Full Timeline
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var era in TimelineData.Eras)
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-timeline-link" href="@era.Route" @onclick="CloseMobileNav">
+                                <span class="nav-timeline-dot" style="background-color: @era.Color" aria-hidden="true"></span>
+                                @era.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
                  @onmouseleave="CloseMobileFactions">
                 <button type="button"
                         class="nav-link nav-flyout-trigger @(IsFactionRoute ? "active" : null)"
@@ -360,6 +386,7 @@
 
 @code {
     private bool collapseNavMenu = true;
+    private bool mobileTimelinesOpen;
     private bool mobileFactionsOpen;
     private bool mobileCharactersOpen;
     private bool mobileJediOpen;
@@ -375,6 +402,9 @@
     private bool mobileDarkSideOpen;
 
     private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private bool IsTimelineRoute =>
+        Navigation.Uri.Contains("/timelines", StringComparison.OrdinalIgnoreCase);
 
     private bool IsFactionRoute =>
         Navigation.Uri.Contains("/factions/", StringComparison.OrdinalIgnoreCase) ||
@@ -589,6 +619,15 @@
         collapseNavMenu = !collapseNavMenu;
     }
 
+    private void ToggleMobileTimelines()
+    {
+        mobileTimelinesOpen = !mobileTimelinesOpen;
+        if (mobileTimelinesOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileTimelinesOpen));
+        }
+    }
+
     private void ToggleMobileFactions()
     {
         mobileFactionsOpen = !mobileFactionsOpen;
@@ -713,6 +752,11 @@
 
     private void CloseOtherFlyouts(string except)
     {
+        if (except != nameof(mobileTimelinesOpen))
+        {
+            mobileTimelinesOpen = false;
+        }
+
         if (except != nameof(mobileFactionsOpen))
         {
             mobileFactionsOpen = false;
@@ -767,6 +811,11 @@
         {
             mobileForcePowersOpen = false;
         }
+    }
+
+    private void CloseMobileTimelines()
+    {
+        mobileTimelinesOpen = false;
     }
 
     private void CloseMobileFactions()
@@ -839,6 +888,7 @@
     private void CloseMobileNav()
     {
         collapseNavMenu = true;
+        mobileTimelinesOpen = false;
         mobileFactionsOpen = false;
         mobileCharactersOpen = false;
         mobileJediOpen = false;

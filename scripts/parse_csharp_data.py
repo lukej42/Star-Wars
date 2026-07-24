@@ -63,6 +63,10 @@ def load_factions() -> list[dict[str, str]]:
     return [normalize(e) for e in load_category("FactionData.cs")]
 
 
+def load_timelines() -> list[dict[str, str]]:
+    return [normalize(e) for e in load_category("TimelineData.cs")]
+
+
 if __name__ == "__main__":
     entries = all_directory_entries()
     for cat, items in entries.items():

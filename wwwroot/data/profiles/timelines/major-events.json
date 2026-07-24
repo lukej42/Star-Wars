@@ -1,0 +1,64 @@
+{
+  "overview": "Galactic history is not a smooth arc but a chain of catastrophes and recoveries — founding charters, superweapons, purges, and revolutions that reset the political order. These major events are the hinge points every era defines itself against: what was lost, what was gained, and who chose to resist when institutions failed.",
+  "history": "The Republic's founding myths speak of uniting the Core against chaos, but the earliest recorded turning point for modern historians is the defeat of the Sith at Ruusan (~1,000 BBY), which ended the New Sith Wars and led to the Ruusan Reformations — a thousand-year peace that shaped the Jedi Order Palpatine would later destroy.\n\nThe Trade Federation's blockade of Naboo (32 BBY) proved that corporate armies could paralyze Senate action. Palpatine's election as Chancellor turned crisis into opportunity, and the Separatist movement manufactured a war designed to exhaust democracy.\n\nOrder 66 (19 BBY) and the Jedi Purge severed the Republic from its guardians in a single night. The Galactic Empire rose not by invasion but by legal decree — a lesson later generations would cite when warning against emergency powers.\n\nThe Battle of Yavin (0 BBY/0 ABY) established the galaxy's common calendar and proved that a small rebel force could destroy a planet-killer. Endor (4 ABY) killed the Emperor and fragmented the Empire; Jakku (5 ABY) formalized the New Republic's victory.\n\nStarkiller Base (34 ABY) annihilated the Hosnian system in minutes — demonstrating that even a restored democracy could be decapitated by a hidden foe. Exegol (35 ABY) rallied the galaxy's citizens against Palpatine's final fleet, closing the Skywalker saga's loop.",
+  "significance": "Major events are the narrative skeleton of Star Wars — the moments fans date everything from, and the references that connect films, series, games, and novels into a shared chronology.\n\nUnderstanding these turning points clarifies why the Jedi fell, why the Empire endured despite Endor, and why the New Republic's demilitarization had catastrophic consequences.",
+  "notableEvents": [
+    "Ruusan Reformations establish the modern Republic (~1,000 BBY)",
+    "Trade Federation blockades Naboo; Palpatine elected Chancellor (32 BBY)",
+    "First Battle of Geonosis opens the Clone Wars (22 BBY)",
+    "Order 66 and the Great Jedi Purge (19 BBY)",
+    "Proclamation of the Galactic Empire (19 BBY)",
+    "Battle of Yavin — first Death Star destroyed (0 BBY)",
+    "Battle of Endor — Emperor Palpatine killed (4 ABY)",
+    "Battle of Jakku — Imperial capitulation (5 ABY)",
+    "Destruction of the Hosnian system by Starkiller Base (34 ABY)",
+    "Battle of Exegol — Final Order defeated (35 ABY)"
+  ],
+  "affiliations": [
+    "Galactic Republic / Empire / New Republic",
+    "Jedi Order",
+    "Confederacy of Independent Systems",
+    "Rebel Alliance / Resistance",
+    "Sith (Rule of Two and Eternal)"
+  ],
+  "timeline": [
+    {
+      "era": "~1,000 BBY",
+      "event": "Ruusan Reformations reshape Republic and Jedi"
+    },
+    {
+      "era": "32 BBY",
+      "event": "Naboo crisis elevates Palpatine"
+    },
+    {
+      "era": "22 BBY",
+      "event": "Clone Wars begin at Geonosis"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Empire rises; Jedi Purge executed"
+    },
+    {
+      "era": "0 BBY",
+      "event": "Battle of Yavin defines galactic dating"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Endor victory ends Palpatine's reign"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Hosnian cataclysm shatters New Republic"
+    },
+    {
+      "era": "35 ABY",
+      "event": "Galaxy unites at Exegol"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/timelines/major-events-scene.png",
+      "caption": "Cinematic illustration — Major Events"
+    }
+  ]
+}
