@@ -1,0 +1,51 @@
+{
+  "overview": "Citadel Station is a orbital restoration hub on Telos, documented across KOTOR II. Citadel Station orbited shattered Telos as a model of post-war recovery until Sith infiltration corrupted its restoration project.",
+  "history": "Citadel Station began as a orbital restoration hub anchor on Telos, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Citadel Station began as a strategic anchor on Telos, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Citadel Station as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Citadel Station as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Citadel Station include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Citadel Station include ward-stones and battle markers from Sith and Jedi campaigns on Telos. High Republic pathfinders logged Citadel Station as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Telos suggest Citadel Station once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Citadel Station expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Citadel Station appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Citadel Station because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Citadel Station as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nCitadel Station has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Citadel Station as contested territory on Telos. Clone Wars dossiers mark Citadel Station as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Citadel Station meant control of Telos.",
+  "significance": "The economy of Citadel Station runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Citadel Station runs on local industry, trade tariffs, and black-market mediation typical of Telos. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Citadel Station infrastructure during the late Republic. Post-war reconstruction funds often bypass Citadel Station officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Citadel Station mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Citadel Station preserve Telos rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Citadel Station are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Citadel Station back alleys.\n\nCitadel Station influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Citadel Station when tracing how Telos influenced sector-wide treaties and fleet movements. Scenes set in Citadel Station across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Citadel Station when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Citadel Station founded on Telos",
+    "Recorded siege or battle at Citadel Station",
+    "Occupation forces restructure Citadel Station",
+    "Underground resistance operates from Citadel Station",
+    "Post-war memorialization of Citadel Station"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Telos governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Citadel Station"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Citadel Station"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Citadel Station"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Citadel Station"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Citadel Station"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/citadel-station.svg",
+      "caption": "Emblem — Citadel Station"
+    },
+    {
+      "path": "/images/settlements/citadel-station-scene.svg",
+      "caption": "Scene illustration — Citadel Station"
+    }
+  ]
+}

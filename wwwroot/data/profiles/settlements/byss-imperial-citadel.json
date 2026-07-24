@@ -1,0 +1,51 @@
+{
+  "overview": "Byss Imperial Citadel is a deep core fortress on Byss, documented across Legends · Dark Empire. Byss housed Palpatine's clone laboratories and dark-side citadels deep in the Deep Core.",
+  "history": "Byss Imperial Citadel began as a deep core fortress anchor on Byss, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Byss Imperial Citadel began as a strategic anchor on Byss, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Byss Imperial Citadel as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Byss Imperial Citadel as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Byss Imperial Citadel include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Byss Imperial Citadel include ward-stones and battle markers from Sith and Jedi campaigns on Byss. High Republic pathfinders logged Byss Imperial Citadel as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Byss suggest Byss Imperial Citadel once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Byss Imperial Citadel expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Byss Imperial Citadel appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Byss Imperial Citadel because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Byss Imperial Citadel as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nByss Imperial Citadel has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Byss Imperial Citadel as contested territory on Byss. Clone Wars dossiers mark Byss Imperial Citadel as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Byss Imperial Citadel meant control of Byss.",
+  "significance": "The economy of Byss Imperial Citadel runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Byss Imperial Citadel runs on local industry, trade tariffs, and black-market mediation typical of Byss. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Byss Imperial Citadel infrastructure during the late Republic. Post-war reconstruction funds often bypass Byss Imperial Citadel officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Byss Imperial Citadel mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Byss Imperial Citadel preserve Byss rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Byss Imperial Citadel are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Byss Imperial Citadel back alleys.\n\nByss Imperial Citadel influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Byss Imperial Citadel when tracing how Byss influenced sector-wide treaties and fleet movements. Scenes set in Byss Imperial Citadel across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Byss Imperial Citadel when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Byss Imperial Citadel founded on Byss",
+    "Recorded siege or battle at Byss Imperial Citadel",
+    "Occupation forces restructure Byss Imperial Citadel",
+    "Underground resistance operates from Byss Imperial Citadel",
+    "Post-war memorialization of Byss Imperial Citadel"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Byss governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Byss Imperial Citadel"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Byss Imperial Citadel"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Byss Imperial Citadel"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Byss Imperial Citadel"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Byss Imperial Citadel"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/byss-imperial-citadel.svg",
+      "caption": "Emblem — Byss Imperial Citadel"
+    },
+    {
+      "path": "/images/settlements/byss-imperial-citadel-scene.svg",
+      "caption": "Scene illustration — Byss Imperial Citadel"
+    }
+  ]
+}

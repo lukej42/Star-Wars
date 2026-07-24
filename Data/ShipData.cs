@@ -669,7 +669,734 @@ public static class ShipData
             ProductionCount = "~320 units",
             Era = "Galactic Civil War (3 BBY–4 ABY)",
             Color = "#d97706"
-        }
+        },
+        new()
+        {
+            Name = "Providence-class Carrier/Destroyer",
+            Slug = "providence-class",
+            Route = "ships/providence-class",
+            Class = "Carrier / Destroyer",
+            Description = "General Grievous's flagship class combined droid starfighter wings with heavy turbolasers, epitomizing Separatist fleet doctrine.",
+            ProductionCount = "~1,200 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Pelta-class Frigate",
+            Slug = "pelta-class",
+            Route = "ships/pelta-class",
+            Class = "Medical / Support Frigate",
+            Description = "Republic Pelta frigates served as hospital ships and command relays, including the frigate that evacuated Ahsoka Tano's wounded.",
+            ProductionCount = "~420 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "Consular-class Space Cruiser",
+            Slug = "consular-class",
+            Route = "ships/consular-class",
+            Class = "Diplomatic Cruiser",
+            Description = "The Radiant VII design ferried Jedi and ambassadors until Trade Federation fire destroyed one above Naboo.",
+            ProductionCount = "~180 units",
+            Era = "Old Republic through Clone Wars",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "Victory I-class Star Destroyer",
+            Slug = "victory-i-class",
+            Route = "ships/victory-i-class",
+            Class = "Star Destroyer",
+            Description = "Compact Victory-class destroyers bridged Republic-era design to Imperial dominance with ion cannons and heavy armor.",
+            ProductionCount = "~4,500 units",
+            Era = "Clone Wars through Imperial Era",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Victory II-class Star Destroyer",
+            Slug = "victory-ii-class",
+            Route = "ships/victory-ii-class",
+            Class = "Star Destroyer",
+            Description = "Victory II variants traded ground assault capacity for improved deep-space patrol endurance in Outer Rim fleets.",
+            ProductionCount = "~2,800 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Gladiator-class Star Destroyer",
+            Slug = "gladiator-class",
+            Route = "ships/gladiator-class",
+            Class = "Star Destroyer",
+            Description = "Gladiator-class hulls escorted convoys and hunted pirates with hangars for TIE squadrons in tight sectors.",
+            ProductionCount = "~800 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Onager-class Star Destroyer",
+            Slug = "onager-class",
+            Route = "ships/onager-class",
+            Class = "Siege Star Destroyer",
+            Description = "Onager-class ships mounted axial superlasers capable of cracking planetary shields from orbit.",
+            ProductionCount = "~35 units",
+            Era = "Imperial Era (0–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Mandator IV-class Siege Dreadnought",
+            Slug = "mandator-iv-class",
+            Route = "ships/mandator-iv-class",
+            Class = "Siege Dreadnought",
+            Description = "First Order Mandator IV dreadnoughts bombarded Resistance bases with orbital autocannons from extreme range.",
+            ProductionCount = "~12 units",
+            Era = "First Order (34 ABY–)",
+            Color = "#334155"
+        },
+        new()
+        {
+            Name = "Supremacy (Mega-class)",
+            Slug = "supremacy",
+            Route = "ships/supremacy",
+            Class = "Mega-class Star Dreadnought",
+            Description = "Snoke's Supremacy served as mobile capital, shipyard, and palace spanning kilometers of First Order fleet command.",
+            ProductionCount = "1 unit",
+            Era = "First Order (34 ABY–35 ABY)",
+            Color = "#334155"
+        },
+        new()
+        {
+            Name = "Xyston-class Star Destroyer",
+            Slug = "xyston-class",
+            Route = "ships/xyston-class",
+            Class = "Planet-killer Star Destroyer",
+            Description = "Final Order Xyston destroyers mounted axial superlasers to glass worlds in Palpatine's reborn Sith fleet.",
+            ProductionCount = "~1,080 units planned",
+            Era = "First Order / Sith Eternal (35 ABY)",
+            Color = "#991b1b"
+        },
+        new()
+        {
+            Name = "MC75 Star Cruiser",
+            Slug = "mc75-cruiser",
+            Route = "ships/mc75-cruiser",
+            Class = "Mon Calamari Cruiser",
+            Description = "Profundity-class MC75 cruisers combined starfighter bays with diplomatic suites before conversion to rebel flagships.",
+            ProductionCount = "~140 units",
+            Era = "Galactic Civil War (0 BBY–4 ABY)",
+            Color = "#e11d48"
+        },
+        new()
+        {
+            Name = "MC85 Star Cruiser",
+            Slug = "mc85-cruiser",
+            Route = "ships/mc85-cruiser",
+            Class = "Mon Calamari Cruiser",
+            Description = "Resistance-era MC85 cruisers like the Raddus carried heavier shields and ion drives for deep-space retreats.",
+            ProductionCount = "~25 units",
+            Era = "Resistance (34 ABY–35 ABY)",
+            Color = "#f97316"
+        },
+        new()
+        {
+            Name = "Starhawk-class Battleship",
+            Slug = "starhawk-class",
+            Route = "ships/starhawk-class",
+            Class = "New Republic Battleship",
+            Description = "Project Starhawk converted Imperial hulls into ram-capable battleships that could tear Star Destroyers apart.",
+            ProductionCount = "~6 units",
+            Era = "New Republic (5 ABY–)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "Nebulon-C Escort Frigate",
+            Slug = "nebulon-c",
+            Route = "ships/nebulon-c",
+            Class = "Escort Frigate",
+            Description = "Nebulon-C frigates updated the classic EF76 design with better point defense for convoy escort.",
+            ProductionCount = "~900 units",
+            Era = "New Republic through First Order",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "Carrack-class Light Cruiser",
+            Slug = "carrack-class",
+            Route = "ships/carrack-class",
+            Class = "Light Cruiser",
+            Description = "Carrack-class cruisers filled gaps between corvettes and Star Destroyers in Imperial picket fleets.",
+            ProductionCount = "~750 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Dreadnaught-class Heavy Cruiser",
+            Slug = "dreadnaught-class",
+            Route = "ships/dreadnaught-class",
+            Class = "Heavy Cruiser",
+            Description = "Old Republic Dreadnaught hulls were refitted for centuries, forming the Katana fleet and early Imperial lines.",
+            ProductionCount = "~2,000 units",
+            Era = "Old Republic through Imperial Era",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "Subjugator-class Heavy Cruiser",
+            Slug = "subjugator-class",
+            Route = "ships/subjugator-class",
+            Class = "Heavy Cruiser / Ion Battleship",
+            Description = "Malevolence-class ships wielded ion cannons that could disable entire fleets before conventional bombardment.",
+            ProductionCount = "~4 units",
+            Era = "Clone Wars (22–21 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Z-95 Headhunter",
+            Slug = "z-95-headhunter",
+            Route = "ships/z-95-headhunter",
+            Class = "Multi-role Starfighter",
+            Description = "The Z-95 Headhunter served as the Republic's workhorse snubfighter before ARC-170 and V-wing adoption.",
+            ProductionCount = "~110,000 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "V-19 Torrent Starfighter",
+            Slug = "v-19-torrent",
+            Route = "ships/v-19-torrent",
+            Class = "Starfighter",
+            Description = "V-19 Torrents gave clone pilots a sturdy early-war fighter before Y-wing and ARC-170 specialization.",
+            ProductionCount = "~85,000 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "E-wing Escort Fighter",
+            Slug = "e-wing",
+            Route = "ships/e-wing",
+            Class = "Escort Starfighter",
+            Description = "E-wings were designed to replace X-wings in elite New Republic squadrons with advanced targeting computers.",
+            ProductionCount = "~4,500 units",
+            Era = "New Republic (5 ABY–)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "T-70 X-wing",
+            Slug = "t-70-x-wing",
+            Route = "ships/t-70-x-wing",
+            Class = "Superiority Starfighter",
+            Description = "T-70 X-wings upgraded the T-65 with split wings and modern avionics for Resistance starfighter corps.",
+            ProductionCount = "~2,200 units",
+            Era = "Resistance (28 ABY–)",
+            Color = "#f97316"
+        },
+        new()
+        {
+            Name = "RZ-2 A-wing",
+            Slug = "rz-2-a-wing",
+            Route = "ships/rz-2-a-wing",
+            Class = "Interceptor",
+            Description = "RZ-2 A-wings refined the RZ-1 with better shields while keeping blistering sublight acceleration.",
+            ProductionCount = "~1,800 units",
+            Era = "Resistance (28 ABY–)",
+            Color = "#f97316"
+        },
+        new()
+        {
+            Name = "TIE/d Defender",
+            Slug = "tie-defender",
+            Route = "ships/tie-defender",
+            Class = "Advanced Starfighter",
+            Description = "TIE Defenders combined shields, hyperdrive, and tri-wing design in Thrawn's push for elite Imperial squadrons.",
+            ProductionCount = "~500 units",
+            Era = "Imperial Era (2 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "TIE/rp Reaper",
+            Slug = "tie-reaper",
+            Route = "ships/tie-reaper",
+            Class = "Troop Transport",
+            Description = "TIE Reapers inserted death trooper squads and elite infantry with atmospheric landing capability.",
+            ProductionCount = "~1,200 units",
+            Era = "Imperial Era (0 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "TIE Hunter",
+            Slug = "tie-hunter",
+            Route = "ships/tie-hunter",
+            Class = "Multi-role Starfighter",
+            Description = "TIE Hunters mimicked Rebel X-wing layout with Imperial engineering, used in experimental cross-training units.",
+            ProductionCount = "~300 units",
+            Era = "Galactic Civil War (0 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Kom'rk-class Fighter/Transport",
+            Slug = "komrk-class-fighter",
+            Route = "ships/komrk-class-fighter",
+            Class = "Gunship / Fighter",
+            Description = "Kom'rk-class ships serve Mandalorian super commandos as troop transports and heavy gun platforms.",
+            ProductionCount = "~200 units",
+            Era = "Clone Wars through Mandalorian Era",
+            Color = "#0284c7"
+        },
+        new()
+        {
+            Name = "Gauntlet Fighter",
+            Slug = "gauntlet-fighter",
+            Route = "ships/gauntlet-fighter",
+            Class = "Mandalorian Assault Ship",
+            Description = "Mandalorian Gauntlet fighters combine heavy weapons with troop deployment for clan warfare and bounty operations.",
+            ProductionCount = "~350 units",
+            Era = "Clone Wars through Mandalorian Era",
+            Color = "#0284c7"
+        },
+        new()
+        {
+            Name = "Fang-class Protector",
+            Slug = "fang-class",
+            Route = "ships/fang-class",
+            Class = "Mandalorian Starfighter",
+            Description = "Fang fighters give Mandalorian Protectors speed and firepower over Concord Dawn's mesas.",
+            ProductionCount = "~120 units",
+            Era = "Clone Wars through Galactic Civil War",
+            Color = "#0284c7"
+        },
+        new()
+        {
+            Name = "Sheathipede-class Shuttle",
+            Slug = "sheathipede-class",
+            Route = "ships/sheathipede-class",
+            Class = "Diplomatic Shuttle",
+            Description = "Neimoidian Sheathipede shuttles served Trade Federation VIPs with insectoid styling and minimal armament.",
+            ProductionCount = "~2,400 units",
+            Era = "Clone Wars (32–19 BBY)",
+            Color = "#ca8a04"
+        },
+        new()
+        {
+            Name = "Theta-class T-2c Shuttle",
+            Slug = "theta-class",
+            Route = "ships/theta-class",
+            Class = "Executive Shuttle",
+            Description = "Theta-class shuttles carried Imperial officials including Palpatine with hidden defensive suites.",
+            ProductionCount = "~600 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Nu-class Attack Shuttle",
+            Slug = "nu-class",
+            Route = "ships/nu-class",
+            Class = "Republic Gunship Shuttle",
+            Description = "Nu-class shuttles inserted clone commandos and Jedi on covert missions with faster profiles than LAAT gunships.",
+            ProductionCount = "~3,500 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "Sentinel-class Landing Craft",
+            Slug = "sentinel-class",
+            Route = "ships/sentinel-class",
+            Class = "Imperial Landing Craft",
+            Description = "Sentinel landing craft delivered stormtrooper platoons from orbit with armored ramps and heavy support weapons.",
+            ProductionCount = "~8,000 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "C-9979 Landing Craft",
+            Slug = "c-9979",
+            Route = "ships/c-9979",
+            Class = "Separatist Landing Ship",
+            Description = "C-9979 landing ships disgorged droid battalions and MTTs across Naboo, Geonosis, and countless invasion beaches.",
+            ProductionCount = "~1,500 units",
+            Era = "Clone Wars (32–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Belbullab-22 Starfighter",
+            Slug = "belbullab-22",
+            Route = "ships/belbullab-22",
+            Class = "Starfighter",
+            Description = "General Grievous flew a customized Belbullab-22 named Soulless One, outpacing clone interceptors.",
+            ProductionCount = "~800 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Droid Tri-Fighter",
+            Slug = "droid-tri-fighter",
+            Route = "ships/droid-tri-fighter",
+            Class = "Automated Starfighter",
+            Description = "Tri-fighters used triple radial arms and buzz droid tactics to overwhelm Jedi starfighter wings.",
+            ProductionCount = "~45,000 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Ginivex-class Fanblade Starfighter",
+            Slug = "ginivex-class",
+            Route = "ships/ginivex-class",
+            Class = "Starfighter",
+            Description = "Asajj Ventress piloted Ginivex fanblade fighters with distinctive crescent wings and deadly agility.",
+            ProductionCount = "~60 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Geonosian Solar Sailer",
+            Slug = "geonosian-solar-sailer",
+            Route = "ships/geonosian-solar-sailer",
+            Class = "Solar Sailer",
+            Description = "Count Dooku escaped Geonosis aboard a solar sailer pushed by exotic tachyon streams and collector sails.",
+            ProductionCount = "~40 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Punworcca 116-class Sailer",
+            Slug = "punworcca-116",
+            Route = "ships/punworcca-116",
+            Class = "Solar Sailer",
+            Description = "Darth Maul traveled in Punworcca 116 sailers with minimal life support and maximum intimidation profile.",
+            ProductionCount = "~25 units",
+            Era = "Clone Wars (32–19 BBY)",
+            Color = "#991b1b"
+        },
+        new()
+        {
+            Name = "HWK-290 Light Freighter",
+            Slug = "hwk-290",
+            Route = "ships/hwk-290",
+            Class = "Light Freighter",
+            Description = "HWK-290 freighters like the Moldy Crow served smugglers and Kyle Katarn with modular gun mounts.",
+            ProductionCount = "~1,100 units",
+            Era = "Galactic Civil War (0 BBY–5 ABY)",
+            Color = "#d97706"
+        },
+        new()
+        {
+            Name = "Action VI Transport",
+            Slug = "action-vi",
+            Route = "ships/action-vi",
+            Class = "Bulk Transport",
+            Description = "Action VI transports moved containerized cargo between Core worlds with slow but enormous hold capacity.",
+            ProductionCount = "~12,000 units",
+            Era = "Old Republic through Imperial Era",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Imperial Landing Craft",
+            Slug = "imperial-landing-craft",
+            Route = "ships/imperial-landing-craft",
+            Class = "Atmospheric Landing Craft",
+            Description = "Imperial landing barges delivered personnel to occupied cities with imposing wedge profiles and escort wings.",
+            ProductionCount = "~6,500 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Braha'tok-class Gunship",
+            Slug = "brahatak-class",
+            Route = "ships/brahatak-class",
+            Class = "Point-defense Gunship",
+            Description = "Dornean Braha'tok gunships protected Mon Calamari cruisers with concentrated flak during Endor.",
+            ProductionCount = "~220 units",
+            Era = "Galactic Civil War (0 BBY–4 ABY)",
+            Color = "#e11d48"
+        },
+        new()
+        {
+            Name = "MC30c Frigate",
+            Slug = "mc30c-frigate",
+            Route = "ships/mc30c-frigate",
+            Class = "Mon Calamari Frigate",
+            Description = "MC30c frigates paired proton torpedo volleys with stealth fields for rebel hit-and-run raids.",
+            ProductionCount = "~180 units",
+            Era = "Galactic Civil War (2 BBY–4 ABY)",
+            Color = "#e11d48"
+        },
+        new()
+        {
+            Name = "Bulwark-class Battlecruiser",
+            Slug = "bulwark-class",
+            Route = "ships/bulwark-class",
+            Class = "Separatist Battlecruiser",
+            Description = "Bulwark battlecruisers gave the CIS battleship tonnage to challenge Republic Star Destroyers head-on.",
+            ProductionCount = "~90 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "First Order Dreadnought",
+            Slug = "first-order-dreadnought",
+            Route = "ships/first-order-dreadnought",
+            Class = "Siege Dreadnought",
+            Description = "Fulminatrix-class dreadnoughts opened bombardments that stripped planetary shields before invasion fleets arrived.",
+            ProductionCount = "~8 units",
+            Era = "First Order (34 ABY–)",
+            Color = "#334155"
+        },
+        new()
+        {
+            Name = "Trident-class Assault Ship",
+            Slug = "trident-class",
+            Route = "ships/trident-class",
+            Class = "Aquatic Assault Ship",
+            Description = "Trident drills pierced underwater cities on Mon Cala and Kamino during Separatist amphibious operations.",
+            ProductionCount = "~200 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "C-ROC Gozanti-class Cruiser",
+            Slug = "c-roc-gozanti",
+            Route = "ships/c-roc-gozanti",
+            Class = "Modified Freighter",
+            Description = "C-ROC Gozanti variants expanded cargo jaws for criminal syndicates and Imperial supply convoys.",
+            ProductionCount = "~4,000 units",
+            Era = "Imperial Era through Mandalorian Era",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Khetanna Sail Barge",
+            Slug = "khetanna",
+            Route = "ships/khetanna",
+            Class = "Luxury Sail Barge",
+            Description = "Jabba's Khetanna sail barge hosted desert celebrations until Luke Skywalker's rescue mission destroyed it.",
+            ProductionCount = "1 notable unit",
+            Era = "Galactic Civil War (4 ABY)",
+            Color = "#65a30d"
+        },
+        new()
+        {
+            Name = "Bantha-II Cargo Skiff",
+            Slug = "bantha-ii-skiff",
+            Route = "ships/bantha-ii-skiff",
+            Class = "Desert Skiff",
+            Description = "Bantha-II skiffs moved cargo and prisoners across Tatooine's Dune Sea under Hutt and gang control.",
+            ProductionCount = "~8,000 units",
+            Era = "Galactic Civil War era",
+            Color = "#65a30d"
+        },
+        new()
+        {
+            Name = "Star Commuter 2000",
+            Slug = "star-commuter-2000",
+            Route = "ships/star-commuter-2000",
+            Class = "Shuttle Transport",
+            Description = "Star Commuter shuttles linked Coruscant's surface districts to orbital terminals for working-class transit.",
+            ProductionCount = "~50,000 units",
+            Era = "Clone Wars through Imperial Era",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "AA-9 Coruscant Freighter",
+            Slug = "aa-9-freighter",
+            Route = "ships/aa-9-freighter",
+            Class = "Orbital Freighter",
+            Description = "AA-9 freighters hauled bulk goods between Coruscant's logistics hubs with distinctive stacked container spines.",
+            ProductionCount = "~6,000 units",
+            Era = "Clone Wars through Imperial Era",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "G9 Rigger-class Freighter",
+            Slug = "g9-rigger",
+            Route = "ships/g9-rigger",
+            Class = "Light Freighter",
+            Description = "Anakin and Ahsoka used the Twilight G9 Rigger on covert missions with jury-rigged stealth systems.",
+            ProductionCount = "~900 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "Praetorian-class Battlecruiser",
+            Slug = "praetorian-class",
+            Route = "ships/praetorian-class",
+            Class = "Battlecruiser",
+            Description = "Imperial Praetorian battlecruisers guarded key Core worlds with heavier firepower than standard line destroyers.",
+            ProductionCount = "~120 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Secutor-class Star Destroyer",
+            Slug = "secutor-class",
+            Route = "ships/secutor-class",
+            Class = "Carrier Star Destroyer",
+            Description = "Secutor-class hulls prioritized starfighter capacity with twin command towers for fleet coordination.",
+            ProductionCount = "~60 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Lancer-class Frigate",
+            Slug = "lancer-class",
+            Route = "ships/lancer-class",
+            Class = "Anti-starfighter Frigate",
+            Description = "Lancer frigates bristled with point-defense turbolasers to shred snubfighter wings in fleet engagements.",
+            ProductionCount = "~500 units",
+            Era = "Imperial Era (19 BBY–4 ABY)",
+            Color = "#64748b"
+        },
+        new()
+        {
+            Name = "Hardcell-class Transport",
+            Slug = "hardcell-class",
+            Route = "ships/hardcell-class",
+            Class = "Corporate Transport",
+            Description = "Techno Union Hardcell transports moved battle droids with exposed engines and vertical landing capability.",
+            ProductionCount = "~3,200 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "Banking Clan Frigate",
+            Slug = "banking-clan-frigate",
+            Route = "ships/banking-clan-frigate",
+            Class = "Frigate",
+            Description = "InterGalactic Banking Clan frigates financed Separatist fleets while officially maintaining neutrality.",
+            ProductionCount = "~600 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#ca8a04"
+        },
+        new()
+        {
+            Name = "Nantex-class Territorial Starfighter",
+            Slug = "nantex-class",
+            Route = "ships/nantex-class",
+            Class = "Geonosian Starfighter",
+            Description = "Geonosian Nantex fighters used ring-cockpits and insectile control yokes in defense of droid foundries.",
+            ProductionCount = "~25,000 units",
+            Era = "Clone Wars (22–19 BBY)",
+            Color = "#0891b2"
+        },
+        new()
+        {
+            Name = "CloakShape Fighter",
+            Slug = "cloakshape-fighter",
+            Route = "ships/cloakshape-fighter",
+            Class = "Starfighter",
+            Description = "CloakShape fighters served pirates and mercenaries with rugged frames predating modern snubfighter doctrine.",
+            ProductionCount = "~18,000 units",
+            Era = "Old Republic through Galactic Civil War",
+            Color = "#d97706"
+        },
+        new()
+        {
+            Name = "K-wing Assault Fighter",
+            Slug = "k-wing",
+            Route = "ships/k-wing",
+            Class = "Assault Starfighter",
+            Description = "K-wings delivered heavy ordnance in New Republic bombing wings with rotating wing weapons pods.",
+            ProductionCount = "~2,800 units",
+            Era = "New Republic (5 ABY–)",
+            Color = "#6366f1"
+        },
+        new()
+        {
+            Name = "H-60 Tempest Bomber",
+            Slug = "h-60-tempest",
+            Route = "ships/h-60-tempest",
+            Class = "Heavy Bomber",
+            Description = "First Order Tempest bombers carried magma bombs in wing racks for planetary suppression campaigns.",
+            ProductionCount = "~400 units",
+            Era = "First Order (34 ABY–)",
+            Color = "#334155"
+        },
+        new()
+        {
+            Name = "YV-666 Light Freighter",
+            Slug = "yv-666",
+            Route = "ships/yv-666",
+            Class = "Light Freighter",
+            Description = "YV-666 freighters like the Hound's Tooth offered bounty hunters armored holds and extended range.",
+            ProductionCount = "~700 units",
+            Era = "Galactic Civil War through Mandalorian Era",
+            Color = "#65a30d"
+        },
+        new()
+        {
+            Name = "Nightbrother",
+            Slug = "nightbrother",
+            Route = "ships/nightbrother",
+            Class = "Modified Omidian Nightship",
+            Description = "Maul's Nightbrother served as command ship for Shadow Collective raids with brutalist Mandalorian refits.",
+            ProductionCount = "1 notable unit",
+            Era = "Clone Wars (20–19 BBY)",
+            Color = "#991b1b"
+        },
+        new()
+        {
+            Name = "IG-2000",
+            Slug = "ig-2000",
+            Route = "ships/ig-2000",
+            Class = "Aggressor-class Assassin Droid Ship",
+            Description = "IG-88's IG-2000 pursued the Millennium Falcon with droid-piloted precision and hidden superweapon ambitions.",
+            ProductionCount = "4 units",
+            Era = "Galactic Civil War (0 BBY–3 ABY)",
+            Color = "#65a30d"
+        },
+        new()
+        {
+            Name = "Eclipse-class Super Star Destroyer",
+            Slug = "eclipse-class",
+            Route = "ships/eclipse-class",
+            Class = "Super Star Destroyer",
+            Description = "Palpatine's Eclipse-class dreadnoughts mounted superlasers and dark-side sanctums in Legends continuity.",
+            ProductionCount = "~2 units",
+            Era = "Imperial Remnant (10 ABY–)",
+            Color = "#991b1b"
+        },
+        new()
+        {
+            Name = "World Devastator",
+            Slug = "world-devastator",
+            Route = "ships/world-devastator",
+            Class = "Planet-eating Dreadnought",
+            Description = "World Devastators consumed cityscapes to manufacture war materiel for Palpatine's Dark Empire.",
+            ProductionCount = "~25 units",
+            Era = "Dark Empire (10 ABY)",
+            Color = "#991b1b"
+        },
+
     ];
 
     public static Ship? GetBySlug(string slug) =>

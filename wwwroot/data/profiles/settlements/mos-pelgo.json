@@ -1,0 +1,51 @@
+{
+  "overview": "Mos Pelgo is a desert township on Tatooine, documented across Mandalorian · Book of Boba Fett. Mos Pelgo—later Freetown—merged Tusken and settler communities under Cobb Vanth before Bib Fortuna's syndicate disruptions.",
+  "history": "Mos Pelgo began as a desert township anchor on Tatooine, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Mos Pelgo grew where Tatooine's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a desert township that outlasted first founders. Early survey maps from the Old Republic era list Mos Pelgo as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Mos Pelgo as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Mos Pelgo include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Mos Pelgo include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Mos Pelgo as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Tatooine suggest Mos Pelgo once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Mos Pelgo expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Mos Pelgo; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Mos Pelgo because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Mos Pelgo as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nMos Pelgo has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Mos Pelgo as strategically contested on Tatooine. Clone Wars dossiers mark Mos Pelgo as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Mos Pelgo meant control of Tatooine.",
+  "significance": "The economy of Mos Pelgo runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Mos Pelgo's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Mos Pelgo infrastructure during the late Republic. Post-war reconstruction funds often bypass Mos Pelgo officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Mos Pelgo mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Mos Pelgo blend Tatooine native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Mos Pelgo are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Mos Pelgo back alleys.\n\nMos Pelgo influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Mos Pelgo altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Mos Pelgo across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Mos Pelgo when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Mos Pelgo founded as desert township on Tatooine",
+    "Major battle or siege recorded at Mos Pelgo",
+    "Imperial occupation transforms Mos Pelgo governance",
+    "Rebel or Resistance cell operates from Mos Pelgo",
+    "New Republic era reconstruction begins at Mos Pelgo"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Mos Pelgo"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Mos Pelgo joins sector trade networks on Tatooine"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Mos Pelgo triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Mos Pelgo"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Mos Pelgo"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/mos-pelgo.svg",
+      "caption": "Emblem — Mos Pelgo"
+    },
+    {
+      "path": "/images/settlements/mos-pelgo-scene.svg",
+      "caption": "Scene illustration — Mos Pelgo"
+    }
+  ]
+}

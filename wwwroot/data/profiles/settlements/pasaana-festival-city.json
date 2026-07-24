@@ -1,0 +1,51 @@
+{
+  "overview": "Pasaana Festival City is a desert festival hub on Pasaana, documented across Rise of Skywalker. Pasaana's Aki-Aki Festival of the Ancestors masked Resistance intelligence work amid celebratory parades.",
+  "history": "Pasaana Festival City began as a desert festival hub anchor on Pasaana, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Pasaana Festival City began as a strategic anchor on Pasaana, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Pasaana Festival City as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Pasaana Festival City as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Pasaana Festival City include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Pasaana Festival City include ward-stones and battle markers from Sith and Jedi campaigns on Pasaana. High Republic pathfinders logged Pasaana Festival City as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Pasaana suggest Pasaana Festival City once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Pasaana Festival City expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Pasaana Festival City appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Pasaana Festival City because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Pasaana Festival City as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nPasaana Festival City has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Pasaana Festival City as contested territory on Pasaana. Clone Wars dossiers mark Pasaana Festival City as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Pasaana Festival City meant control of Pasaana.",
+  "significance": "The economy of Pasaana Festival City runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Pasaana Festival City runs on local industry, trade tariffs, and black-market mediation typical of Pasaana. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Pasaana Festival City infrastructure during the late Republic. Post-war reconstruction funds often bypass Pasaana Festival City officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Pasaana Festival City mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Pasaana Festival City preserve Pasaana rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Pasaana Festival City are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Pasaana Festival City back alleys.\n\nPasaana Festival City influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Pasaana Festival City when tracing how Pasaana influenced sector-wide treaties and fleet movements. Scenes set in Pasaana Festival City across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Pasaana Festival City when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Pasaana Festival City founded on Pasaana",
+    "Recorded siege or battle at Pasaana Festival City",
+    "Occupation forces restructure Pasaana Festival City",
+    "Underground resistance operates from Pasaana Festival City",
+    "Post-war memorialization of Pasaana Festival City"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Pasaana governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Pasaana Festival City"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Pasaana Festival City"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Pasaana Festival City"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Pasaana Festival City"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Pasaana Festival City"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/pasaana-festival-city.svg",
+      "caption": "Emblem — Pasaana Festival City"
+    },
+    {
+      "path": "/images/settlements/pasaana-festival-city-scene.svg",
+      "caption": "Scene illustration — Pasaana Festival City"
+    }
+  ]
+}

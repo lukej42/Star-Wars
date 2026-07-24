@@ -212,6 +212,141 @@ a, .btn-link {
     text-decoration: underline;
 }
 
+.ship-directory-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.ship-directory-card {
+    align-items: flex-start;
+}
+
+.planet-directory-details {
+    min-width: 0;
+    flex: 1;
+}
+
+.planet-directory-details a {
+    display: block;
+    line-height: 1.35;
+    word-break: break-word;
+}
+
+.ship-directory-class {
+    margin-top: 0.25rem;
+}
+
+.ship-directory-era {
+    margin-top: 0.1rem;
+    color: rgba(255, 255, 255, 0.58);
+    font-size: 0.75rem;
+}
+
+.droid-directory-grid {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.droid-directory-card {
+    align-items: flex-start;
+}
+
+.droid-directory-manufacturer {
+    margin-top: 0.2rem;
+    color: rgba(255, 255, 255, 0.62);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    word-break: break-word;
+}
+
+.bounty-hunter-directory-grid {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.bounty-hunter-directory-card {
+    align-items: flex-start;
+}
+
+.bounty-hunter-directory-homeworld {
+    margin-top: 0.2rem;
+    color: rgba(255, 255, 255, 0.62);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    word-break: break-word;
+}
+
+.force-powers-summary {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    max-width: 640px;
+}
+
+.force-powers-side-link {
+    flex: 1 1 220px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.force-powers-side-link:hover {
+    transform: translateY(-2px);
+    text-decoration: none;
+}
+
+.force-powers-side-link-light {
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.18), rgba(59, 130, 246, 0.12));
+}
+
+.force-powers-side-link-dark {
+    background: linear-gradient(135deg, rgba(220, 38, 38, 0.18), rgba(124, 58, 237, 0.12));
+}
+
+.force-powers-side-count {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.force-powers-category {
+    margin-bottom: 2.5rem;
+}
+
+.force-powers-category h2 {
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+    color: rgba(255, 255, 255, 0.85);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.force-powers-crosslink {
+    margin-top: 2rem;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.directory-hero,
+.force-powers-hero {
+    margin: 0 0 1.5rem;
+    max-width: 920px;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.directory-hero img,
+.force-powers-hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 280px;
+    object-fit: cover;
+}
+
 .content {
     padding-top: 1.1rem;
 }
@@ -322,6 +457,27 @@ a, .btn-link {
     margin-top: 0.5rem;
 }
 
+.directory-detail-hero-banner {
+    display: block;
+    padding: 0;
+    overflow: hidden;
+}
+
+.directory-detail-banner {
+    margin: 0;
+    max-width: none;
+    border-radius: 0;
+    border: none;
+}
+
+.directory-detail-banner img {
+    max-height: 320px;
+}
+
+.directory-detail-intro-full {
+    padding: 1.75rem;
+}
+
 .directory-detail-hero {
     display: grid;
     grid-template-columns: minmax(180px, 280px) 1fr;
@@ -341,10 +497,17 @@ a, .btn-link {
     color: rgba(255, 255, 255, 0.9);
 }
 
+.directory-detail-intro h1 {
+    line-height: 1.2;
+    word-break: break-word;
+}
+
 .directory-detail-meta-line {
     margin: 0.35rem 0 0;
     color: rgba(255, 255, 255, 0.62);
     font-size: 0.92rem;
+    line-height: 1.45;
+    word-break: break-word;
 }
 
 .directory-detail-section {
@@ -447,7 +610,8 @@ a, .btn-link {
 .directory-detail-gallery-item img {
     display: block;
     width: 100%;
-    aspect-ratio: 1;
+    aspect-ratio: 16 / 9;
+    max-height: 220px;
     object-fit: cover;
     background: radial-gradient(circle at 50% 30%, rgba(255, 255, 255, 0.08), rgba(0, 0, 0, 0.65));
 }

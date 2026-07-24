@@ -1,0 +1,51 @@
+{
+  "overview": "Talz (Humanoid mammal) is native to Orto Plutonia and ranks among the most consequential species in galactic history. Talz from Orto Plutonia were mistaken for unintelligent until Clone Wars diplomacy revealed complex tribal governance beneath fur and tusks.",
+  "history": "The Talz (humanoid mammal) trace their deepest roots to Orto Plutonia, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Talz evolutionary history on Orto Plutonia intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Talz populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Talz history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Talz societies on Orto Plutonia established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Talz polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Orto Plutonia ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Talz identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Talz delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Talz diaspora communities appeared on every major trade lane and war front. Modern Talz diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Talz networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Talz migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nTalz fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Talz veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Orto Plutonia's geography. KOTOR and KOTOR II document Talz involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Talz leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Talz display traits typical of humanoid mammal life adapted to Orto Plutonia's gravity, atmosphere, and seasonal extremes. Talz physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Talz physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Talz resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nTalz culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Talz rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Orto Plutonia accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Talz spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Talz communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Talz exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Talz merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Talz innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Talz choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Talz homeworld first mapped by Republic surveyors",
+    "Notable Talz leaders emerge during Clone Wars",
+    "Talz communities resist Imperial occupation policies",
+    "KOTOR-era Talz figures influence Jedi Civil War",
+    "New Republic restores Talz representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Orto Plutonia governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Talz civilization consolidates on Orto Plutonia"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Talz join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Talz factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Talz identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Talz"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/talz.svg",
+      "caption": "Emblem — Talz"
+    },
+    {
+      "path": "/images/species/talz-scene.svg",
+      "caption": "Scene illustration — Talz"
+    }
+  ]
+}

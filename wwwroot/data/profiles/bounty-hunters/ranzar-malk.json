@@ -1,0 +1,45 @@
+{
+  "overview": "Ranzar Malk is a mandalorian bounty broker from Unknown, documented across Mandalorian. Mandalorian fixer who assembled hunter crews for high-risk prison breaks and assassination contracts during the New Republic era.",
+  "history": "Ranzar Malk rose from Unknown to become a mandalorian bounty broker whose name appears on guild boards from the Core to the Outer Rim. Ranzar Malk operated a Bothan-5 space station crew, brokering hunter teams for Imperial remnant targets and Grogu abduction contracts. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Ranzar Malk as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Ranzar Malk's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Unknown supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Ranzar Malk posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty broker contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Ranzar Malk negotiate payment and honor.\n\nIn the modern era, Ranzar Malk competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Ranzar Malk remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Ranzar Malk. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty broker specialists remain essential to galactic order—and chaos.\n\nRanzar Malk operated in war zones where capture alive paid more than kill, and both paid more than failure. Ranzar hired Din Djarin, Q9-0, Xi'an, and Burg for a New Republic prisoner extraction that collapsed into double-cross and droid destruction. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty broker hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Ranzar Malk's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Ranzar Malk as a mandalorian bounty broker relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Crew assembly, orbital station logistics, Mandalorian credential verification, and cold-profit contract math—Ranzar rarely pulled triggers personally. Guild instructors use redacted mission logs from Ranzar Malk's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Ranzar Malk often know smuggler routes better than naval patrols.\n\nAmong peers, Ranzar Malk earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Ranzar Malk as a mandalorian bounty broker whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Ranzar Malk that may be half true and fully instructive. Whether Ranzar Malk followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Ranzar Malk exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Ranzar Malk's captures and eliminations shifted local power wherever Unknown expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Ranzar Malk, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Ranzar Malk when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Runs Bothan-5 hunter broker station",
+    "Assembles crew including Din Djarin",
+    "Posts contract on Grogu",
+    "Double-crosses Mandalorian allies"
+  ],
+  "affiliations": [
+    "Ranzar Malk's crew",
+    "Bothan-5 station",
+    "Bounty Hunters' Guild",
+    "Imperial remnant clients"
+  ],
+  "timeline": [
+    {
+      "era": "Broker Era",
+      "event": "Bothan-5 operations"
+    },
+    {
+      "era": "Prison Break",
+      "event": "Assembles hunter crew"
+    },
+    {
+      "era": "Grogu Contract",
+      "event": "Assassination posting"
+    },
+    {
+      "era": "Betrayal",
+      "event": "Mandalorian double-cross"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/ranzar-malk.svg",
+      "caption": "Emblem — Ranzar Malk"
+    },
+    {
+      "path": "/images/bounty-hunters/ranzar-malk-scene.svg",
+      "caption": "Scene illustration — Ranzar Malk"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Mon Calamari (Amphibious humanoid) is native to Mon Cala and ranks among the most consequential species in galactic history. Mon Calamari are visionary shipwrights and diplomats from ocean world Mon Cala, whose star cruisers became the backbone of the Rebel fleet. Their bulbous eyes and salmon skin mark a people who built democracy beneath the waves.",
+  "history": "The Mon Calamari (amphibious humanoid) trace their deepest roots to Mon Cala, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Mon Calamari evolutionary history on Mon Cala intertwines with amphibious humanoid adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Mon Calamari populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Mon Calamari history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Mon Calamari societies on Mon Cala established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Mon Calamari polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Mon Cala ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Mon Calamari identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Mon Calamari delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Mon Calamari diaspora communities appeared on every major trade lane and war front. Modern Mon Calamari diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Mon Calamari networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Mon Calamari migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nMon Calamari fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Mon Calamari veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Mon Cala's geography. KOTOR and KOTOR II document Mon Calamari involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Mon Calamari leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Mon Calamari display traits typical of amphibious humanoid life adapted to Mon Cala's gravity, atmosphere, and seasonal extremes. Mon Calamari physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Mon Calamari physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Mon Calamari resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nMon Calamari culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Mon Calamari rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Mon Cala accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Mon Calamari spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Mon Calamari communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Mon Calamari exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Mon Calamari merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Mon Calamari innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Mon Calamari choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Mon Calamari homeworld first mapped by Republic surveyors",
+    "Notable Mon Calamari leaders emerge during Clone Wars",
+    "Mon Calamari communities resist Imperial occupation policies",
+    "KOTOR-era Mon Calamari figures influence Jedi Civil War",
+    "New Republic restores Mon Calamari representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Mon Cala governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Mon Calamari civilization consolidates on Mon Cala"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Mon Calamari join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Mon Calamari factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Mon Calamari identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Mon Calamari"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/mon-calamari.svg",
+      "caption": "Emblem — Mon Calamari"
+    },
+    {
+      "path": "/images/species/mon-calamari-scene.svg",
+      "caption": "Scene illustration — Mon Calamari"
+    }
+  ]
+}

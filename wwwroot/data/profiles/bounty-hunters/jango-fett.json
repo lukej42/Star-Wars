@@ -1,0 +1,51 @@
+{
+  "overview": "Jango Fett is a mandalorian bounty hunter & clone template from Concord Dawn, documented across Attack of the Clones · Clone Wars · Mandalorian lore. The last Mandalorian recruited as genetic template for the Grand Army of the Republic, Jango combined guild prestige with Kaminoian cloning before dying at Mace Windu's hand on Geonosis.",
+  "history": "Jango Fett rose from Concord Dawn to become a mandalorian bounty hunter & clone template whose name appears on guild boards from the Core to the Outer Rim. Orphaned by civil war on Concord Dawn, Jango was taken in by Jaster Mereel's True Mandalorians, earned beskar armor through the Mandalorian Civil War, and became the galaxy's most expensive genetic donor. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Jango Fett as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Jango Fett's career, Concord Dawn produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Concord Dawn's warrior exiles supplied Old Republic mercenary companies centuries before Jango; his beskar-and-blaster ethos mirrors KOTOR Mandalorian wars and TOR-era Great Hunt charters on Dromund Kaas. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty hunter & clone template contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Jango Fett negotiate payment and honor.\n\nIn the modern era, Jango Fett competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Jango's DNA produced millions of clone troopers and one unaltered son, Boba—making him biological architect of the Clone Wars and the template controversy that haunted Imperial stormtrooper recruitment debates for decades. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Jango Fett. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty hunter & clone template specialists remain essential to galactic order—and chaos.\n\nJango Fett operated in war zones where capture alive paid more than kill, and both paid more than failure. Jango assassinated for Count Dooku using Kamino saberdarts, fought Obi-Wan Kenobi on Kamino's rain-swept landing platforms, and led Separatist escape at Geonosis before Mace Windu killed him in the arena that ignited open galactic war. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty hunter & clone template hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Jango Fett's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Jango Fett as a mandalorian bounty hunter & clone template relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Dual WESTAR-34 blasters, Z-6 jetpack mobility, Kamino saberdarts for silent kills, and brutal hand-to-hand training defined Jango's preference for lethal precision over prolonged sieges or orbital bombardment. Guild instructors use redacted mission logs from Jango Fett's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Jango Fett often know smuggler routes better than naval patrols.\n\nAmong peers, Jango Fett earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Sifo-Dyas and Dooku chose Jango over every other hunter in the galaxy; Tyranus presented him to Separatist leadership as proof that one Mandalorian can change the course of history. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Jango Fett that may be half true and fully instructive. Whether Jango Fett followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Jango Fett exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Without Jango there is no clone army, no Boba Fett, and no Kamino conspiracy—the entire Clone Wars timeline pivots on his decision to sell his face to the Kaminoians. Without contractors like Jango Fett, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Jango Fett when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Recruited as clone template on Bogden for Kamino project",
+    "Attempts assassination of Senator Padmé Amidala",
+    "Fights Obi-Wan Kenobi on Kamino landing platform",
+    "Leads Separatist escape at Battle of Geonosis",
+    "Killed by Mace Windu in Geonosis arena"
+  ],
+  "affiliations": [
+    "True Mandalorians (historical)",
+    "Count Dooku / CIS",
+    "Kamino cloners",
+    "Bounty Hunters' Guild",
+    "Concord Dawn exile networks"
+  ],
+  "timeline": [
+    {
+      "era": "Concord Dawn",
+      "event": "Orphaned; joins Jaster Mereel"
+    },
+    {
+      "era": "Mandalorian Civil War",
+      "event": "Earns beskar armor"
+    },
+    {
+      "era": "Kamino Contract",
+      "event": "Provides DNA for Grand Army"
+    },
+    {
+      "era": "Kamino Incident",
+      "event": "Obi-Wan discovers clones"
+    },
+    {
+      "era": "Geonosis",
+      "event": "Dies; Boba inherits legacy"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/jango-fett.svg",
+      "caption": "Emblem — Jango Fett"
+    },
+    {
+      "path": "/images/bounty-hunters/jango-fett-scene.svg",
+      "caption": "Scene illustration — Jango Fett"
+    }
+  ]
+}

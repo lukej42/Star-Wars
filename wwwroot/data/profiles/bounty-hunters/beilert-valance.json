@@ -1,0 +1,52 @@
+{
+  "overview": "Beilert Valance is a cyborged bounty hunter from Chorin, documented across Comics · War of the Bounty Hunters. Imperial-turned-hunter cyborg who hunted Han Solo in War of the Bounty Hunters comics arc.",
+  "history": "Beilert Valance rose from Chorin to become a cyborged bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Beilert Valance served as Imperial officer on Chorin until injuries required extensive cybernetic reconstruction; discharged and bitter, he entered bounty markets with military precision and hatred for the Empire that discarded him. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Beilert Valance as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Beilert Valance's career, Chorin produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Chorin's mining officer corps supplied Imperial cadres; cyborg reconstruction clinics on Nar Shaddaa documented similar veterans turned hunters after medical discharge. Old Republic bounty charters and Sith Empire mercenary rolls show how cyborged bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Beilert Valance negotiate payment and honor.\n\nIn the modern era, Beilert Valance competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Valance became central to War of the Bounty Hunters after Han Solo's carbonite theft, hunting across Nar Shaddaa, Corellia, and Rebel-adjacent space with cyborg-enhanced endurance. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Beilert Valance. Mandalorian-era postings on Nevarro and Mos Espa show cyborged bounty hunter specialists remain essential to galactic order—and chaos.\n\nBeilert Valance operated in war zones where capture alive paid more than kill, and both paid more than failure. Valance fought Imperial holdouts, competed for Solo's carbonite puck, clashed with Boba Fett and other marquee hunters, and navigated post-Endor power vacuum guild wars. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of cyborged bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Beilert Valance's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Beilert Valance as a cyborged bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Military tactical planning, cybernetic strength and resilience, starship combat, and blaster precision—Valance treats hunts like Imperial operations with hunter profit motive. Guild instructors use redacted mission logs from Beilert Valance's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Beilert Valance often know smuggler routes better than naval patrols.\n\nAmong peers, Beilert Valance earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers rank Valance among top Imperial-era cyborg hunters; his War of the Bounty Hunters performance elevated him to marquee comics status alongside Fett and Dengar. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Beilert Valance that may be half true and fully instructive. Whether Beilert Valance followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Beilert Valance exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Valance exemplifies Imperial veteran reinvention in hunter markets; his Solo pursuit during carbonite theft crisis reshaped post-Endor guild competition dynamics. Without contractors like Beilert Valance, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Beilert Valance when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Imperial officer service on Chorin",
+    "Cyborg reconstruction after combat injuries",
+    "Enters bounty hunting post-discharge",
+    "Competes in War of the Bounty Hunters",
+    "Pursues Han Solo carbonite puck across sectors"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Galactic Empire (former officer)",
+    "War of the Bounty Hunters competitors",
+    "Chorin veteran networks",
+    "Cyonotic enhancement clinics",
+    "Han Solo pursuit coalition"
+  ],
+  "timeline": [
+    {
+      "era": "Chorin",
+      "event": "Imperial officer career"
+    },
+    {
+      "era": "Injury",
+      "event": "Cyborg reconstruction"
+    },
+    {
+      "era": "Guild Entry",
+      "event": "Hunter reinvention"
+    },
+    {
+      "era": "Carbonite Theft",
+      "event": "Solo puck competition"
+    },
+    {
+      "era": "War of the Bounty Hunters",
+      "event": "Marquee crossover arc"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/beilert-valance.svg",
+      "caption": "Emblem — Beilert Valance"
+    },
+    {
+      "path": "/images/bounty-hunters/beilert-valance-scene.svg",
+      "caption": "Scene illustration — Beilert Valance"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Tuanul Village is a remote sacred village on Jakku, documented across Films · Force Awakens. Tuanul Village on Jakku hid Lor San Tekka and a map fragment to Luke Skywalker until First Order massacre.",
+  "history": "Tuanul Village began as a remote sacred village anchor on Jakku, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Tuanul Village grew where Jakku's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a remote sacred village that outlasted first founders. Early survey maps from the Old Republic era list Tuanul Village as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Tuanul Village as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Tuanul Village include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Tuanul Village include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Tuanul Village as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Jakku suggest Tuanul Village once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Tuanul Village expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Tuanul Village; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Tuanul Village because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Tuanul Village as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nTuanul Village has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Tuanul Village as strategically contested on Jakku. Clone Wars dossiers mark Tuanul Village as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Tuanul Village meant control of Jakku.",
+  "significance": "The economy of Tuanul Village runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Tuanul Village's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Tuanul Village infrastructure during the late Republic. Post-war reconstruction funds often bypass Tuanul Village officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Tuanul Village mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Tuanul Village blend Jakku native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Tuanul Village are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Tuanul Village back alleys.\n\nTuanul Village influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Tuanul Village altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Tuanul Village across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Tuanul Village when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Tuanul Village founded as remote sacred village on Jakku",
+    "Major battle or siege recorded at Tuanul Village",
+    "Imperial occupation transforms Tuanul Village governance",
+    "Rebel or Resistance cell operates from Tuanul Village",
+    "New Republic era reconstruction begins at Tuanul Village"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Tuanul Village"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Tuanul Village joins sector trade networks on Jakku"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Tuanul Village triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Tuanul Village"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Tuanul Village"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/tuanul-village.svg",
+      "caption": "Emblem — Tuanul Village"
+    },
+    {
+      "path": "/images/settlements/tuanul-village-scene.svg",
+      "caption": "Scene illustration — Tuanul Village"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Gran (Humanoid mammal) is native to Kinyen and ranks among the most consequential species in galactic history. Gran from Kinyen possess triple eyestalks and gentle demeanor; Senators and pilots from this species appear across Republic councils and podracing circuits.",
+  "history": "The Gran (humanoid mammal) trace their deepest roots to Kinyen, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Gran evolutionary history on Kinyen intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Gran populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Gran history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Gran societies on Kinyen established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Gran polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Kinyen ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Gran identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Gran delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Gran diaspora communities appeared on every major trade lane and war front. Modern Gran diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Gran networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Gran migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nGran fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Gran veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Kinyen's geography. KOTOR and KOTOR II document Gran involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Gran leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Gran display traits typical of humanoid mammal life adapted to Kinyen's gravity, atmosphere, and seasonal extremes. Gran physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Gran physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Gran resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nGran culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Gran rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Kinyen accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Gran spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Gran communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Gran exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Gran merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Gran innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Gran choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Gran homeworld first mapped by Republic surveyors",
+    "Notable Gran leaders emerge during Clone Wars",
+    "Gran communities resist Imperial occupation policies",
+    "KOTOR-era Gran figures influence Jedi Civil War",
+    "New Republic restores Gran representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Kinyen governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Gran civilization consolidates on Kinyen"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Gran join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Gran factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Gran identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Gran"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/gran.svg",
+      "caption": "Emblem — Gran"
+    },
+    {
+      "path": "/images/species/gran-scene.svg",
+      "caption": "Scene illustration — Gran"
+    }
+  ]
+}

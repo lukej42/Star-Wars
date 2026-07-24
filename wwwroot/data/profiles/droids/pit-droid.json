@@ -1,0 +1,47 @@
+{
+  "overview": "Pit Droid is a pit droid built by Droid Works, documented across Phantom Menace · Mandalorian · Resistance. Small, eager repair droids from Tatooine podracing pits—fragile in crowds but indispensable during Boonta Eve and Resistance-era hangar maintenance.",
+  "history": "Pit Droid belongs to the pit droid class manufactured by Droid Works, one of the most recognizable automaton designs documented across galactic history. Pit droids swarm podrace maintenance bays with enthusiastic if clumsy repair protocols. Droid Works factory schematics document the pit droid platform lineage that produced Pit Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Pit Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Pit Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered pit droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Droid Works subsystems, spreading design language across millennia before Pit Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Droid Works subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and pit droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Pit Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Pit Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Droid Works frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Droid Works frames. Historians studying the Sequel Era treat surviving Pit Droid memory cores as primary sources on earlier conflicts.\n\nPit Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Pit Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of pit droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Droid Works automata.",
+  "significance": "Engineering analysis of Pit Droid highlights why pit droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Pit Droid's modular pit droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Droid Works documentation; slicers praise its predictable security flaws—both keep Pit Droid relevant in scrap yards centuries later. New Republic certification boards still debate which pit droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Pit Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Pit Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every pit droid rights petition involving Droid Works personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Pit Droid's service record. Whether Pit Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Pit Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Pit Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Pit Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Droid Works chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Maintains podracers during Boonta Eve Classic",
+    "Swarms Mos Espa hangars in chaotic repair teams",
+    "Fragile bodies crushed easily in crowds",
+    "Resistance-era hangars adopt pit droid maintenance",
+    "Droid Works designed them for rapid pit stops"
+  ],
+  "affiliations": [
+    "Podracing circuits",
+    "Mos Espa Grand Arena",
+    "Tatooine racing teams",
+    "Resistance hangars",
+    "Droid Works"
+  ],
+  "timeline": [
+    {
+      "era": "Podracing Era",
+      "event": "Pit droids standardize race maintenance"
+    },
+    {
+      "era": "Boonta Eve",
+      "event": "Maintain Anakin's podracer"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Used in civilian hangars across Rim"
+    },
+    {
+      "era": "New Republic",
+      "event": "Podracing revival uses pit droids"
+    },
+    {
+      "era": "Modern Era",
+      "event": "Hangar maintenance on multiple worlds"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/pit-droid-scene.png",
+      "caption": "Cinematic illustration — Pit Droid"
+    }
+  ]
+}

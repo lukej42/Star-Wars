@@ -1,0 +1,45 @@
+{
+  "overview": "Bric is a trandoshan guild instructor from Trandosha, documented across Clone Wars. Trandoshan bounty hunter who trained gladiator recruits and tested assassin candidates for the guild on Serenno.",
+  "history": "Bric rose from Trandosha to become a trandoshan guild instructor whose name appears on guild boards from the Core to the Outer Rim. Bric served as guild drillmaster on Serenno, breaking hunters in Moralo Eval's pipeline before they reached the box tournament—Trandoshan discipline as industry gatekeeper. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Bric as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Bric's career, Trandosha produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Trandosha supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Bric posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how trandoshan guild instructor contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Bric negotiate payment and honor.\n\nIn the modern era, Bric competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Bric remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Bric. Mandalorian-era postings on Nevarro and Mos Espa show trandoshan guild instructor specialists remain essential to galactic order—and chaos.\n\nBric operated in war zones where capture alive paid more than kill, and both paid more than failure. Bric evaluated Cad Bane, Derrown, and dozens of box entrants, deciding which hunters were lethal enough for Separatist assassination contracts. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of trandoshan guild instructor hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Bric's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Bric as a trandoshan guild instructor relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Arena drill instruction, capture-kill metrics, Trandoshan intimidation, and guild authority—Bric shaped hunter quality before pucks were ever posted. Guild instructors use redacted mission logs from Bric's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Bric often know smuggler routes better than naval patrols.\n\nAmong peers, Bric earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Bric as a trandoshan guild instructor whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Bric that may be half true and fully instructive. Whether Bric followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Bric exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Without instructors like Bric, Eval's box would have been spectacle without skill—guild historians credit him with raising Clone Wars hunter lethality. Without contractors like Bric, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Bric when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Appointed guild instructor on Serenno",
+    "Trains Moralo Eval box candidates",
+    "Evaluates Cad Bane-era hunter roster",
+    "Gatekeeps assassin recruitment pipeline"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Moralo Eval's training cadre",
+    "Trandoshan lodge authority",
+    "Serenno gladiator circuits"
+  ],
+  "timeline": [
+    {
+      "era": "Trandosha",
+      "event": "Hunter mastery"
+    },
+    {
+      "era": "Serenno",
+      "event": "Guild instructor posting"
+    },
+    {
+      "era": "Box Era",
+      "event": "Eval pipeline training"
+    },
+    {
+      "era": "Legacy",
+      "event": "Guild drillmaster archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/bric.svg",
+      "caption": "Emblem — Bric"
+    },
+    {
+      "path": "/images/bounty-hunters/bric-scene.svg",
+      "caption": "Scene illustration — Bric"
+    }
+  ]
+}

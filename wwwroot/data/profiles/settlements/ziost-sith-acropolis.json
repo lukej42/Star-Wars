@@ -1,0 +1,51 @@
+{
+  "overview": "Ziost Sith Acropolis is a frozen sith capital on Ziost, documented across SWTOR. Ziost's acropolis was the heart of the Old Sith Empire before Vitiate consumed the world, leaving ice-bound silence.",
+  "history": "Ziost Sith Acropolis began as a frozen sith capital anchor on Ziost, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Ziost Sith Acropolis began as a strategic anchor on Ziost, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Ziost Sith Acropolis as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Ziost Sith Acropolis as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Ziost Sith Acropolis include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Ziost Sith Acropolis include ward-stones and battle markers from Sith and Jedi campaigns on Ziost. High Republic pathfinders logged Ziost Sith Acropolis as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Ziost suggest Ziost Sith Acropolis once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Ziost Sith Acropolis expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Ziost Sith Acropolis appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Ziost Sith Acropolis because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Ziost Sith Acropolis as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nZiost Sith Acropolis has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Ziost Sith Acropolis as contested territory on Ziost. Clone Wars dossiers mark Ziost Sith Acropolis as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Ziost Sith Acropolis meant control of Ziost.",
+  "significance": "The economy of Ziost Sith Acropolis runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Ziost Sith Acropolis runs on local industry, trade tariffs, and black-market mediation typical of Ziost. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Ziost Sith Acropolis infrastructure during the late Republic. Post-war reconstruction funds often bypass Ziost Sith Acropolis officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Ziost Sith Acropolis mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Ziost Sith Acropolis preserve Ziost rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Ziost Sith Acropolis are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Ziost Sith Acropolis back alleys.\n\nZiost Sith Acropolis influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Ziost Sith Acropolis when tracing how Ziost influenced sector-wide treaties and fleet movements. Scenes set in Ziost Sith Acropolis across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Ziost Sith Acropolis when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Ziost Sith Acropolis founded on Ziost",
+    "Recorded siege or battle at Ziost Sith Acropolis",
+    "Occupation forces restructure Ziost Sith Acropolis",
+    "Underground resistance operates from Ziost Sith Acropolis",
+    "Post-war memorialization of Ziost Sith Acropolis"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Ziost governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Ziost Sith Acropolis"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Ziost Sith Acropolis"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Ziost Sith Acropolis"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Ziost Sith Acropolis"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Ziost Sith Acropolis"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/ziost-sith-acropolis.svg",
+      "caption": "Emblem — Ziost Sith Acropolis"
+    },
+    {
+      "path": "/images/settlements/ziost-sith-acropolis-scene.svg",
+      "caption": "Scene illustration — Ziost Sith Acropolis"
+    }
+  ]
+}

@@ -13,6 +13,19 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "Data"
 IMAGES = ROOT / "wwwroot" / "images"
 PROFILES = ROOT / "wwwroot" / "data" / "profiles"
+SCRIPTS = Path(__file__).resolve().parent
+
+import sys
+if str(SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS))
+
+from directory_art import ship_blueprint_svg, ship_scene_svg
+from jedi_sith_art import (
+    jedi_emblem_svg,
+    jedi_scene_svg,
+    sith_emblem_svg,
+    sith_scene_svg,
+)
 
 OUTLINE = "#1a1a2e"
 ERAS = [
@@ -26,6 +39,8 @@ ERAS = [
     "First Order",
 ]
 
+
+from ship_profile_enrichments import SHIP_ENRICHMENTS
 ENRICHMENTS: dict[str, dict] = {
     "obi-wan-kenobi": {
         "overview": (
@@ -1498,6 +1513,8 @@ def generic_profile(entry: dict, category: str) -> dict:
 def merge_profile(entry: dict, category: str) -> dict:
     base = generic_profile(entry, category)
     enriched = ENRICHMENTS.get(entry["slug"], {})
+    if category == "ships":
+        enriched = {**SHIP_ENRICHMENTS.get(entry["slug"], {}), **enriched}
     for key, value in enriched.items():
         base[key] = value
     return base
@@ -1566,44 +1583,6 @@ def planet_globe_svg(entry: dict) -> str:
     return svg_wrap(f"{entry['name']} globe", accent, body)
 
 
-def jedi_scene_svg(entry: dict) -> str:
-    accent = entry["color"]
-    body = textwrap.dedent(
-        """
-          <rect class="fill-mid" x="0" y="340" width="512" height="172"/>
-          <path class="fill-light" d="M80 340 L140 180 L200 340 Z"/>
-          <path class="fill-light" d="M312 340 L372 160 L432 340 Z"/>
-          <rect class="fill-light" x="220" y="120" width="72" height="220" rx="8"/>
-          <path class="fill-accent" d="M256 80 L286 140 L226 140 Z"/>
-          <path class="outline" d="M256 140 L256 340"/>
-          <circle class="fill-accent" cx="120" cy="380" r="18" opacity="0.8"/>
-          <circle class="fill-accent" cx="390" cy="390" r="14" opacity="0.8"/>
-          <line class="outline" x1="120" y1="380" x2="180" y2="320"/>
-          <line class="outline" x1="390" y1="390" x2="330" y2="330"/>
-          <path class="fill-dark" d="M40 380 Q256 300 472 380 L512 512 H0 Z" opacity="0.35"/>
-        """
-    )
-    return svg_wrap(f"{entry['name']} Jedi scene", accent, body)
-
-
-def sith_scene_svg(entry: dict) -> str:
-    accent = entry["color"]
-    body = textwrap.dedent(
-        """
-          <path class="fill-dark" d="M60 420 Q256 260 452 420 L430 512 H82 Z"/>
-          <path class="fill-dark" d="M180 420 L256 200 L332 420 Z"/>
-          <path class="stroke-red" d="M256 80 L220 200"/>
-          <path class="stroke-red" d="M256 80 L292 200"/>
-          <path class="stroke-red" d="M256 80 L256 230"/>
-          <path class="stroke-red" d="M180 120 Q256 160 332 120"/>
-          <circle class="fill-red" cx="256" cy="240" r="28"/>
-          <rect class="fill-dark" x="230" y="300" width="52" height="80" rx="10"/>
-          <path class="fill-red" d="M100 360 Q256 320 412 360" fill="none" stroke="#ef4444" stroke-width="5"/>
-        """
-    )
-    return svg_wrap(f"{entry['name']} Sith scene", accent, body)
-
-
 def planet_scene_svg(entry: dict) -> str:
     accent = entry["color"]
     blob = entry["desc"].lower()
@@ -1627,33 +1606,6 @@ def planet_scene_svg(entry: dict) -> str:
         """
     )
     return svg_wrap(f"{entry['name']} landscape", accent, body)
-
-
-def jedi_emblem_svg(entry: dict) -> str:
-    accent = entry["color"]
-    body = textwrap.dedent(
-        """
-          <circle class="fill-light" cx="256" cy="256" r="148"/>
-          <circle class="outline" cx="256" cy="256" r="148"/>
-          <path class="fill-accent" d="M256 110 L290 250 L420 250 L310 320 L350 450 L256 370 L162 450 L202 320 L92 250 L222 250 Z"/>
-          <circle class="fill-light" cx="256" cy="256" r="36"/>
-        """
-    )
-    return svg_wrap(f"Jedi emblem — {entry['name']}", accent, body)
-
-
-def sith_emblem_svg(entry: dict) -> str:
-    accent = entry["color"]
-    body = textwrap.dedent(
-        """
-          <circle class="fill-dark" cx="256" cy="256" r="148"/>
-          <circle class="outline" cx="256" cy="256" r="148"/>
-          <polygon class="fill-red" points="256,96 360,176 328,304 184,304 152,176"/>
-          <circle class="fill-light" cx="256" cy="220" r="22"/>
-          <rect class="fill-red" x="244" y="240" width="24" height="56" rx="6"/>
-        """
-    )
-    return svg_wrap(f"Sith emblem — {entry['name']}", accent, body)
 
 
 def character_scene_svg(entry: dict) -> str:
@@ -1761,100 +1713,6 @@ def planet_chart_svg(entry: dict) -> str:
         """
     )
     return svg_wrap(f"Star chart — {entry['name']}", accent, body)
-
-
-def ship_scene_svg(entry: dict) -> str:
-    accent = entry["color"]
-    archetype = ship_archetype(entry)
-    if archetype == "capital":
-        body = textwrap.dedent(
-            """
-          <rect class="fill-dark" x="0" y="0" width="512" height="512" opacity="0.35"/>
-          <path class="fill-accent" d="M40 280 L220 120 L420 280 L380 360 L132 360 Z"/>
-          <rect class="fill-light" x="200" y="160" width="112" height="48" rx="6"/>
-          <rect class="fill-mid" x="170" y="300" width="172" height="36" rx="4"/>
-          <circle class="fill-light" cx="420" cy="100" r="18" opacity="0.5"/>
-          <circle class="fill-light" cx="90" cy="140" r="10" opacity="0.4"/>
-        """
-        )
-    elif archetype == "station":
-        body = textwrap.dedent(
-            """
-          <circle class="fill-accent" cx="256" cy="256" r="120"/>
-          <circle class="fill-dark" cx="256" cy="256" r="72"/>
-          <rect class="fill-light" x="236" y="80" width="40" height="80" rx="4"/>
-          <rect class="fill-light" x="236" y="352" width="40" height="80" rx="4"/>
-          <rect class="fill-light" x="80" y="236" width="80" height="40" rx="4"/>
-          <rect class="fill-light" x="352" y="236" width="80" height="40" rx="4"/>
-        """
-        )
-    elif archetype == "freighter":
-        body = textwrap.dedent(
-            """
-          <ellipse class="fill-accent" cx="256" cy="280" rx="160" ry="70"/>
-          <rect class="fill-light" x="180" y="180" width="152" height="80" rx="16"/>
-          <circle class="fill-mid" cx="120" cy="290" r="22"/>
-          <circle class="fill-mid" cx="392" cy="290" r="22"/>
-          <rect class="fill-dark" x="220" y="200" width="72" height="40" rx="6"/>
-        """
-        )
-    elif archetype == "bomber":
-        body = textwrap.dedent(
-            """
-          <path class="fill-accent" d="M80 300 L200 220 L320 300 L280 340 L120 340 Z"/>
-          <rect class="fill-light" x="220" y="260" width="72" height="48" rx="8"/>
-          <circle class="fill-mid" cx="160" cy="310" r="18"/>
-          <circle class="fill-mid" cx="352" cy="310" r="18"/>
-          <path class="fill-dark" d="M240 340 L272 380 L240 420 L208 380 Z"/>
-        """
-        )
-    elif archetype == "shuttle":
-        body = textwrap.dedent(
-            """
-          <rect class="fill-accent" x="160" y="220" width="192" height="80" rx="12"/>
-          <path class="fill-light" d="M160 260 L80 320 L160 300 Z"/>
-          <path class="fill-light" d="M352 260 L432 320 L352 300 Z"/>
-          <rect class="fill-dark" x="220" y="240" width="72" height="40" rx="6"/>
-        """
-        )
-    elif archetype == "droid":
-        body = textwrap.dedent(
-            """
-          <circle class="fill-accent" cx="256" cy="260" r="80"/>
-          <rect class="fill-light" x="220" y="180" width="72" height="40" rx="8"/>
-          <line class="outline" x1="256" y1="340" x2="256" y2="400"/>
-          <line class="outline" x1="200" y1="380" x2="312" y2="380"/>
-          <circle class="fill-mid" cx="200" cy="220" r="16"/>
-          <circle class="fill-mid" cx="312" cy="220" r="16"/>
-        """
-        )
-    else:
-        body = textwrap.dedent(
-            """
-          <path class="fill-accent" d="M120 300 L256 180 L392 300 L340 340 L172 340 Z"/>
-          <rect class="fill-light" x="232" y="220" width="48" height="56" rx="6"/>
-          <circle class="fill-mid" cx="160" cy="310" r="14"/>
-          <circle class="fill-mid" cx="352" cy="310" r="14"/>
-          <path class="fill-dark" d="M256 180 L270 140 L242 140 Z"/>
-        """
-        )
-    return svg_wrap(f"{entry['name']} in combat", accent, body)
-
-
-def ship_blueprint_svg(entry: dict) -> str:
-    accent = entry["color"]
-    body = textwrap.dedent(
-        f"""
-          <rect class="fill-dark" x="48" y="48" width="416" height="416" rx="16" opacity="0.85"/>
-          <path class="outline" d="M96 320 L256 160 L416 320" fill="none"/>
-          <line class="outline" x1="256" y1="160" x2="256" y2="380"/>
-          <line class="outline" x1="160" y1="260" x2="352" y2="260"/>
-          <rect class="outline" x="220" y="200" width="72" height="48" fill="none"/>
-          <text x="72" y="96" fill="#f8fafc" font-family="monospace" font-size="18">{entry['name'][:24]}</text>
-          <text x="72" y="430" fill="{accent}" font-family="monospace" font-size="16">{entry.get('production', '')[:28]}</text>
-        """
-    )
-    return svg_wrap(f"Blueprint — {entry['name']}", accent, body)
 
 
 def write_always(path: Path, content: str) -> None:

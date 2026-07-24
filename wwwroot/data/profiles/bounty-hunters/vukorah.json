@@ -1,0 +1,45 @@
+{
+  "overview": "Vukorah is a devaronian bounty hunter from Devaron, documented across War of the Bounty Hunters · Comics. Crimson Dawn enforcer who hunted rival syndicate brokers during the War of the Bounty Hunters.",
+  "history": "Vukorah rose from Devaron to become a devaronian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Vukorah sold horned intimidation to Crimson Dawn during Qi'ra's syndicate war, hunting guild brokers who challenged Dawn's puck monopoly. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Vukorah as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Vukorah's career, Devaron produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Devaron supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Vukorah posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how devaronian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Vukorah negotiate payment and honor.\n\nIn the modern era, Vukorah competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Vukorah remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Vukorah. Mandalorian-era postings on Nevarro and Mos Espa show devaronian bounty hunter specialists remain essential to galactic order—and chaos.\n\nVukorah operated in war zones where capture alive paid more than kill, and both paid more than failure. Vukorah targeted Doctor Aphra associates and independent hunters holding Han Solo carbonite stakes during the syndicate-wide bounty crisis. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of devaronian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Vukorah's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Vukorah as a devaronian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Devaronian horn combat, Crimson Dawn strike teams, syndicate assassination, and broker intimidation. Guild instructors use redacted mission logs from Vukorah's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Vukorah often know smuggler routes better than naval patrols.\n\nAmong peers, Vukorah earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Vukorah as a devaronian bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Vukorah that may be half true and fully instructive. Whether Vukorah followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Vukorah exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Vukorah's captures and eliminations shifted local power wherever Devaron expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Vukorah, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Vukorah when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Recruited as Crimson Dawn enforcer",
+    "War of the Bounty Hunters operations",
+    "Targets rival syndicate brokers",
+    "Hunts carbonite puck holders"
+  ],
+  "affiliations": [
+    "Crimson Dawn",
+    "Devaronian enforcer networks",
+    "Bounty Hunters' Guild (opposed)",
+    "Qi'ra syndicate command"
+  ],
+  "timeline": [
+    {
+      "era": "Devaron",
+      "event": "Enforcer origins"
+    },
+    {
+      "era": "Crimson Dawn",
+      "event": "Recruitment"
+    },
+    {
+      "era": "Syndicate War",
+      "event": "Broker hunts"
+    },
+    {
+      "era": "Legacy",
+      "event": "Dawn enforcer icon"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/vukorah.svg",
+      "caption": "Emblem — Vukorah"
+    },
+    {
+      "path": "/images/bounty-hunters/vukorah-scene.svg",
+      "caption": "Scene illustration — Vukorah"
+    }
+  ]
+}

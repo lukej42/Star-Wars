@@ -1,0 +1,51 @@
+{
+  "overview": "Kiffar (Humanoid mammal) is native to Kiffex and ranks among the most consequential species in galactic history. Kiffar like Quinlan Vos carry psychometric talent through ritual face tattoos, reading object memories valued by Jedi and criminals alike.",
+  "history": "The Kiffar (humanoid mammal) trace their deepest roots to Kiffex, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Kiffar evolutionary history on Kiffex intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Kiffar populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Kiffar history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Kiffar societies on Kiffex established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Kiffar polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Kiffex ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Kiffar identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Kiffar delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Kiffar diaspora communities appeared on every major trade lane and war front. Modern Kiffar diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Kiffar networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Kiffar migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nKiffar fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Kiffar veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Kiffex's geography. KOTOR and KOTOR II document Kiffar involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Kiffar leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Kiffar display traits typical of humanoid mammal life adapted to Kiffex's gravity, atmosphere, and seasonal extremes. Kiffar physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Kiffar physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Kiffar resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nKiffar culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Kiffar rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Kiffex accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Kiffar spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Kiffar communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Kiffar exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Kiffar merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Kiffar innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Kiffar choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Kiffar homeworld first mapped by Republic surveyors",
+    "Notable Kiffar leaders emerge during Clone Wars",
+    "Kiffar communities resist Imperial occupation policies",
+    "KOTOR-era Kiffar figures influence Jedi Civil War",
+    "New Republic restores Kiffar representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Kiffex governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Kiffar civilization consolidates on Kiffex"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Kiffar join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Kiffar factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Kiffar identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Kiffar"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/kiffar.svg",
+      "caption": "Emblem — Kiffar"
+    },
+    {
+      "path": "/images/species/kiffar-scene.svg",
+      "caption": "Scene illustration — Kiffar"
+    }
+  ]
+}

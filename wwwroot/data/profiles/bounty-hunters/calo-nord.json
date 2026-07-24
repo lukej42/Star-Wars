@@ -1,0 +1,52 @@
+{
+  "overview": "Calo Nord is a mandalorian bounty hunter from Unknown, documented across KOTOR. Legendary Mandalorian hunter from KOTOR who gunned down targets in cantinas without negotiation.",
+  "history": "Calo Nord rose from Unknown to become a mandalorian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Calo Nord built legendary KOTOR-era reputation on Taris and beyond as a Mandalorian hunter who ended conversations with blaster fire and counted kills before accepting new contracts. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Calo Nord as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Calo Nord's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Mandalorian hunter mercenaries dominated Old Republic Rim markets during Jedi Civil War; Calo represents the era when guild boards on Taris competed with Exchange-backed assassination. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Calo Nord negotiate payment and honor.\n\nIn the modern era, Calo Nord competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Calo Nord remains KOTOR's iconic hunter encounter—players remember his cantina warnings and Taris pursuit as defining bounty hunter gameplay in Old Republic era. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Calo Nord. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty hunter specialists remain essential to galactic order—and chaos.\n\nCalo Nord operated in war zones where capture alive paid more than kill, and both paid more than failure. Calo hunted Revan's companions on Taris for Sith bounty, ambushed in Lower City, and exemplified Mandalorian hunter lethality during Jedi Civil War chaos. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Calo Nord's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Calo Nord as a mandalorian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Dual blasters, Mandalorian armor, no-negotiation policy, and cantina kill counts—Calo Nord warns targets once then fires without further dialogue. Guild instructors use redacted mission logs from Calo Nord's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Calo Nord often know smuggler routes better than naval patrols.\n\nAmong peers, Calo Nord earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Taris underworld feared his kill-count ritual; Sith paid premium rates; KOTOR-era guild brokers ranked him among top Mandalorian contractors of the Jedi Civil War. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Calo Nord that may be half true and fully instructive. Whether Calo Nord followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Calo Nord exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Calo Nord defined KOTOR bounty hunter identity for a generation of players; his Taris arc proved hunters could be pivotal antagonists in Old Republic narratives. Without contractors like Calo Nord, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Calo Nord when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Builds reputation on Taris bounty boards",
+    "Warns cantina patrons about kill count",
+    "Hunts Revan's party for Sith contract",
+    "Ambush in Taris Lower City",
+    "Defining KOTOR hunter encounter"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Sith Empire (contracted)",
+    "Mandalorian mercenary tradition",
+    "Taris underworld",
+    "Exchange (adjacent)",
+    "Old Republic hunter markets"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Rise on Taris"
+    },
+    {
+      "era": "Jedi Civil War",
+      "event": "Sith-backed contracts"
+    },
+    {
+      "era": "Taris",
+      "event": "Hunts Revan's companions"
+    },
+    {
+      "era": "Cantina",
+      "event": "Kill-count warnings"
+    },
+    {
+      "era": "Legacy",
+      "event": "KOTOR icon status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/calo-nord.svg",
+      "caption": "Emblem — Calo Nord"
+    },
+    {
+      "path": "/images/bounty-hunters/calo-nord-scene.svg",
+      "caption": "Scene illustration — Calo Nord"
+    }
+  ]
+}

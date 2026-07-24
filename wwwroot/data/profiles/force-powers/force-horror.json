@@ -1,0 +1,49 @@
+{
+  "overview": "Force Horror is a adept-level dark side technique classified under Mind. Amplifies Force fear into vivid, personalized nightmares that overwhelm a target's sanity and can incapacitate groups simultaneously. Sith sorcerers on Dromund Kaas used Force horror to break the wills of prisoners before interrogation.",
+  "history": "Force scholars trace Force Horror across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR II · The Old Republic · Sith Empire · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Horror into initiates as part of the standard curriculum for mind specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Horror alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Horror exemplifies how mind abilities shape Force doctrine on the dark side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Horror could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Horror remains a benchmark of mind proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Horror in Imperial Era conflicts",
+    "Standardised in Mind curricula of the Sith academies",
+    "Featured prominently in media: KOTOR II · The Old Republic · Sith Empire · Clone Wars",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Sith Order",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "First major documented use of Force Horror in Imperial Era conflicts"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Standardised in Mind curricula of the Sith academies"
+    },
+    {
+      "era": "New Republic",
+      "event": "Featured prominently in media: KOTOR II · The Old Republic · Sith Empire · Clone Wars"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-horror.svg",
+      "caption": "Emblem — Force Horror"
+    },
+    {
+      "path": "/images/force-powers/force-horror-scene.svg",
+      "caption": "Scene illustration — Force Horror"
+    }
+  ]
+}

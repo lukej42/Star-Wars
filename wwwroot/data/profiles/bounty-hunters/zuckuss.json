@@ -1,0 +1,52 @@
+{
+  "overview": "Zuckuss is a gand findsman bounty hunter from Gand, documented across Empire Strikes Back · comics. Mystic Gand findsman whose ammonia respirator and intuition partnered with 4-LOM on Imperial contracts.",
+  "history": "Zuckuss rose from Gand to become a gand findsman bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Zuckuss left Gand's ammonia atmosphere practicing findsman tracking in the wider galaxy, wearing a respirator and relying on mystical intuition peers dismissed until his success rate silenced them. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Zuckuss as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Zuckuss's career, Gand produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Gand findsman traditions predate the Republic; KOTOR Gand pilgrims on Dxun documented tracking rituals mirroring Zuckuss's ammonia-scented divination. Old Republic bounty charters and Sith Empire mercenary rolls show how gand findsman bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Zuckuss negotiate payment and honor.\n\nIn the modern era, Zuckuss competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Zuckuss and 4-LOM's Mist Hunter partnership survived Imperial contracts; combined mysticism and droid precision became a guild case study. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Zuckuss. Mandalorian-era postings on Nevarro and Mos Espa show gand findsman bounty hunter specialists remain essential to galactic order—and chaos.\n\nZuckuss operated in war zones where capture alive paid more than kill, and both paid more than failure. Zuckuss served on Vader's Executor hunting Han Solo, operated in Hutt space, and competed against Core hunters underestimating Gand findsman reputation. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of gand findsman bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Zuckuss's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Zuckuss as a gand findsman bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Findsman divination, ammonia respirator scent-tracking, paired sniper overwatch with 4-LOM sensors—Zuckuss reads atmospheres and prey psychology. Guild instructors use redacted mission logs from Zuckuss's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Zuckuss often know smuggler routes better than naval patrols.\n\nAmong peers, Zuckuss earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Core hunters mocked Gand mysticism until Vader's cut; findsman apprentices study Zuckuss's Imperial contracts as ritual proof. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Zuckuss that may be half true and fully instructive. Whether Zuckuss followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Zuckuss exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Zuckuss validated Gand traditions in galactic bounty markets and established the droid-organic partnership model guild instructors teach on Ord Mantell. Without contractors like Zuckuss, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Zuckuss when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Leaves Gand with respirator gear",
+    "Partners with 4-LOM on Mist Hunter",
+    "Joins Vader's Executor roster",
+    "Tracks Falcon via findsman rituals",
+    "Gand reputation on Core posting boards"
+  ],
+  "affiliations": [
+    "4-LOM partnership",
+    "Mist Hunter crew",
+    "Gand findsman tradition",
+    "Darth Vader's hunter roster",
+    "Bounty Hunters' Guild",
+    "Hutt Cartel (contracted)"
+  ],
+  "timeline": [
+    {
+      "era": "Gand",
+      "event": "Findsman training"
+    },
+    {
+      "era": "Mist Hunter",
+      "event": "4-LOM partnership"
+    },
+    {
+      "era": "Executor",
+      "event": "Falcon hunt"
+    },
+    {
+      "era": "Bespin",
+      "event": "Cloud City pursuit"
+    },
+    {
+      "era": "Legacy",
+      "event": "Gand guild curriculum"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/zuckuss.svg",
+      "caption": "Emblem — Zuckuss"
+    },
+    {
+      "path": "/images/bounty-hunters/zuckuss-scene.svg",
+      "caption": "Scene illustration — Zuckuss"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Greef Karga is a bounty hunters' guild agent from Nevarro, documented across Mandalorian · Book of Boba Fett. Nevarro guild magistrate who posted Din Djarin's Grogu contract before turning ally against Imperial remnant.",
+  "history": "Greef Karga rose from Nevarro to become a bounty hunters' guild agent whose name appears on guild boards from the Core to the Outer Rim. Greef Karga managed Nevarro's Bounty Hunters' Guild hall as magistrate—posting contracts, collecting fees, and balancing Imperial remnant pressure against hunter independence until Din Djarin broke the Grogu puck. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Greef Karga as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Greef Karga's career, Nevarro produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Nevarro guild halls followed Ord Mantell posting board traditions; Greef represents mid-tier guild bureaucrats who control puck access without hunting themselves. Old Republic bounty charters and Sith Empire mercenary rolls show how bounty hunters' guild agent contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Greef Karga negotiate payment and honor.\n\nIn the modern era, Greef Karga competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Greef allied with Din Djarin against Moff Gideon's Imperial remnant, became Mos Espa business partner in Book of Boba Fett, and survived guild-to-politics transition. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Greef Karga. Mandalorian-era postings on Nevarro and Mos Espa show bounty hunters' guild agent specialists remain essential to galactic order—and chaos.\n\nGreef Karga operated in war zones where capture alive paid more than kill, and both paid more than failure. Greef posted Grogu's Imperial remnant contract, pursued Din for breach, negotiated truce against Gideon, and defended Nevarro from Imperial occupation forces. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of bounty hunters' guild agent hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Greef Karga's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Greef Karga as a bounty hunters' guild agent relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Guild authority, contract negotiation, armed backup from guild hunters, and political pragmatism—Greef manages hunters rather than leading assaults. Guild instructors use redacted mission logs from Greef Karga's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Greef Karga often know smuggler routes better than naval patrols.\n\nAmong peers, Greef Karga earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Nevarro hunters answered to Greef; Din Djarin initially obeyed his puck; Imperial remnant tried corrupting him before he chose local survival over Client loyalty. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Greef Karga that may be half true and fully instructive. Whether Greef Karga followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Greef Karga exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Greef Karga's Grogu contract launched Mandalorian series events; his guild-to-ally arc defined Nevarro's post-Imperial governance model. Without contractors like Greef Karga, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Greef Karga when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Manages Nevarro guild hall as magistrate",
+    "Posts Grogu contract for Imperial Client",
+    "Pursues Din Djarin for contract breach",
+    "Allies against Moff Gideon's remnant",
+    "Book of Boba Fett Mos Espa business"
+  ],
+  "affiliations": [
+    "Nevarro Bounty Hunters' Guild",
+    "Din Djarin (former employer/ally)",
+    "Moff Gideon's Imperial remnant (former Client)",
+    "Mos Espa commerce",
+    "Guild magistrate authority"
+  ],
+  "timeline": [
+    {
+      "era": "Nevarro",
+      "event": "Guild magistrate appointment"
+    },
+    {
+      "era": "Grogu Contract",
+      "event": "Posts Imperial remnant puck"
+    },
+    {
+      "era": "Breach",
+      "event": "Din Djarin defies delivery"
+    },
+    {
+      "era": "Alliance",
+      "event": "Fights Gideon together"
+    },
+    {
+      "era": "Book of Boba Fett",
+      "event": "Mos Espa partner"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/greef-karga.svg",
+      "caption": "Emblem — Greef Karga"
+    },
+    {
+      "path": "/images/bounty-hunters/greef-karga-scene.svg",
+      "caption": "Scene illustration — Greef Karga"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Bracca Shipbreaking Yard is a salvage yard on Bracca, documented across Bad Batch · Jedi Survivor. Bracca's scrapping yards dismantle decommissioned starships under exploitative labor conditions featured in The Bad Batch and Jedi Survivor era.",
+  "history": "Bracca Shipbreaking Yard began as a salvage yard anchor on Bracca, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Bracca Shipbreaking Yard grew where Bracca's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a salvage yard that outlasted first founders. Early survey maps from the Old Republic era list Bracca Shipbreaking Yard as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Bracca Shipbreaking Yard as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Bracca Shipbreaking Yard include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Bracca Shipbreaking Yard include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Bracca Shipbreaking Yard as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Bracca suggest Bracca Shipbreaking Yard once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Bracca Shipbreaking Yard expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Bracca Shipbreaking Yard; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Bracca Shipbreaking Yard because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Bracca Shipbreaking Yard as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nBracca Shipbreaking Yard has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Bracca Shipbreaking Yard as strategically contested on Bracca. Clone Wars dossiers mark Bracca Shipbreaking Yard as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Bracca Shipbreaking Yard meant control of Bracca.",
+  "significance": "The economy of Bracca Shipbreaking Yard runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Bracca Shipbreaking Yard's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Bracca Shipbreaking Yard infrastructure during the late Republic. Post-war reconstruction funds often bypass Bracca Shipbreaking Yard officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Bracca Shipbreaking Yard mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Bracca Shipbreaking Yard blend Bracca native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Bracca Shipbreaking Yard are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Bracca Shipbreaking Yard back alleys.\n\nBracca Shipbreaking Yard influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Bracca Shipbreaking Yard altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Bracca Shipbreaking Yard across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Bracca Shipbreaking Yard when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Bracca Shipbreaking Yard founded as salvage yard on Bracca",
+    "Major battle or siege recorded at Bracca Shipbreaking Yard",
+    "Imperial occupation transforms Bracca Shipbreaking Yard governance",
+    "Rebel or Resistance cell operates from Bracca Shipbreaking Yard",
+    "New Republic era reconstruction begins at Bracca Shipbreaking Yard"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Bracca Shipbreaking Yard"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Bracca Shipbreaking Yard joins sector trade networks on Bracca"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Bracca Shipbreaking Yard triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Bracca Shipbreaking Yard"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Bracca Shipbreaking Yard"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/bracca-shipbreaking-yard.svg",
+      "caption": "Emblem — Bracca Shipbreaking Yard"
+    },
+    {
+      "path": "/images/settlements/bracca-shipbreaking-yard-scene.svg",
+      "caption": "Scene illustration — Bracca Shipbreaking Yard"
+    }
+  ]
+}

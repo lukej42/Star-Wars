@@ -10,6 +10,14 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "Data"
 OUT = ROOT / "wwwroot" / "images"
+SCRIPTS = Path(__file__).resolve().parent
+
+import sys
+if str(SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS))
+
+from directory_art import ship_svg_for
+from jedi_sith_art import portrait_svg as jedi_sith_portrait_svg
 
 SLUG_ARCHETYPE: dict[str, str] = {
     "admiral-ackbar": "alien_fish",
@@ -119,89 +127,6 @@ def parse_ship_entries(path: Path) -> list[dict]:
                 }
             )
     return entries
-
-
-def ship_kind(entry: dict) -> str:
-    blob = f"{entry['name']} {entry['role']} {entry['desc']}".lower()
-    if "battle station" in blob or "death star" in blob:
-        return "station"
-    if any(k in blob for k in ("destroyer", "cruiser", "dreadnought", "battleship", "frigate", "corvette", "carrier")):
-        return "capital"
-    if any(k in blob for k in ("freighter", "transport", "yacht")):
-        return "freighter"
-    if any(k in blob for k in ("bomber", "gunship", "lander")):
-        return "bomber"
-    if "shuttle" in blob:
-        return "shuttle"
-    if "droid" in blob:
-        return "droid"
-    return "fighter"
-
-
-def ship_body_for(kind: str) -> str:
-    templates = {
-        "capital": """
-  <path class="gear" d="M60 320 L230 140 L452 320 L410 400 L102 400 Z"/>
-  <rect class="metal" x="210" y="170" width="92" height="44" rx="6"/>
-  <rect class="dark" x="180" y="330" width="152" height="32" rx="4"/>
-""",
-        "station": """
-  <circle class="gear" cx="256" cy="256" r="118"/>
-  <circle class="dark" cx="256" cy="256" r="68"/>
-  <rect class="metal" x="236" y="90" width="40" height="70" rx="4"/>
-  <rect class="metal" x="236" y="352" width="40" height="70" rx="4"/>
-""",
-        "freighter": """
-  <ellipse class="gear" cx="256" cy="290" rx="150" ry="68"/>
-  <rect class="metal" x="190" y="200" width="132" height="72" rx="14"/>
-  <circle class="dark" cx="130" cy="300" r="20"/>
-  <circle class="dark" cx="382" cy="300" r="20"/>
-""",
-        "bomber": """
-  <path class="gear" d="M90 310 L210 230 L330 310 L290 350 L130 350 Z"/>
-  <rect class="metal" x="220" y="270" width="72" height="44" rx="8"/>
-  <path class="dark" d="M240 350 L272 390 L240 430 L208 390 Z"/>
-""",
-        "shuttle": """
-  <rect class="gear" x="150" y="230" width="212" height="76" rx="12"/>
-  <path class="metal" d="M150 270 L70 330 L150 310 Z"/>
-  <path class="metal" d="M362 270 L442 330 L362 310 Z"/>
-""",
-        "droid": """
-  <circle class="gear" cx="256" cy="270" r="76"/>
-  <rect class="metal" x="220" y="190" width="72" height="36" rx="8"/>
-  <line class="outline" x1="256" y1="346" x2="256" y2="410"/>
-""",
-        "fighter": """
-  <path class="gear" d="M130 310 L256 190 L382 310 L340 350 L172 350 Z"/>
-  <rect class="metal" x="232" y="230" width="48" height="52" rx="6"/>
-  <path class="dark" d="M256 190 L270 150 L242 150 Z"/>
-""",
-    }
-    return templates.get(kind, templates["fighter"])
-
-
-def ship_svg_for(entry: dict) -> str:
-    accent = entry["color"]
-    kind = ship_kind(entry)
-    body = ship_body_for(kind)
-    style = STYLE.format(accent=accent)
-    return textwrap.dedent(
-        f"""\
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="{entry['name']}">
-          <defs>
-            <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="{accent}" stop-opacity="0.55"/>
-              <stop offset="100%" stop-color="#050814" stop-opacity="0.95"/>
-            </linearGradient>
-          </defs>
-          {style}
-          <rect class="bg" width="512" height="512" rx="24"/>
-          {starfield()}
-          {body}
-        </svg>
-        """
-    )
 
 
 def archetype(entry: dict, folder: str) -> str:
@@ -431,7 +356,10 @@ def main() -> None:
         out_dir.mkdir(parents=True, exist_ok=True)
         for entry in parse_entries(path, role_field):
             svg_path = out_dir / f"{entry['slug']}.svg"
-            svg_path.write_text(svg_for(entry, folder))
+            if folder in ("jedi", "sith"):
+                svg_path.write_text(jedi_sith_portrait_svg(entry, folder))
+            else:
+                svg_path.write_text(svg_for(entry, folder))
             total += 1
 
     ship_dir = OUT / "ships"

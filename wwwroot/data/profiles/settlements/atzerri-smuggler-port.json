@@ -1,0 +1,51 @@
+{
+  "overview": "Atzerri Smuggler Port is a free trade port on Atzerri, documented across Legends · Mandalorian. Atzerri's chaotic docks move contraband with minimal customs, frequented by smugglers and bounty hunters.",
+  "history": "Atzerri Smuggler Port began as a free trade port anchor on Atzerri, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Atzerri Smuggler Port began as a strategic anchor on Atzerri, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Atzerri Smuggler Port as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Atzerri Smuggler Port as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Atzerri Smuggler Port include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Atzerri Smuggler Port include ward-stones and battle markers from Sith and Jedi campaigns on Atzerri. High Republic pathfinders logged Atzerri Smuggler Port as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Atzerri suggest Atzerri Smuggler Port once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Atzerri Smuggler Port expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Atzerri Smuggler Port appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Atzerri Smuggler Port because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Atzerri Smuggler Port as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nAtzerri Smuggler Port has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Atzerri Smuggler Port as contested territory on Atzerri. Clone Wars dossiers mark Atzerri Smuggler Port as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Atzerri Smuggler Port meant control of Atzerri.",
+  "significance": "The economy of Atzerri Smuggler Port runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Atzerri Smuggler Port runs on local industry, trade tariffs, and black-market mediation typical of Atzerri. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Atzerri Smuggler Port infrastructure during the late Republic. Post-war reconstruction funds often bypass Atzerri Smuggler Port officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Atzerri Smuggler Port mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Atzerri Smuggler Port preserve Atzerri rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Atzerri Smuggler Port are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Atzerri Smuggler Port back alleys.\n\nAtzerri Smuggler Port influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Atzerri Smuggler Port when tracing how Atzerri influenced sector-wide treaties and fleet movements. Scenes set in Atzerri Smuggler Port across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Atzerri Smuggler Port when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Atzerri Smuggler Port founded on Atzerri",
+    "Recorded siege or battle at Atzerri Smuggler Port",
+    "Occupation forces restructure Atzerri Smuggler Port",
+    "Underground resistance operates from Atzerri Smuggler Port",
+    "Post-war memorialization of Atzerri Smuggler Port"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Atzerri governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Atzerri Smuggler Port"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Atzerri Smuggler Port"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Atzerri Smuggler Port"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Atzerri Smuggler Port"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Atzerri Smuggler Port"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/atzerri-smuggler-port.svg",
+      "caption": "Emblem — Atzerri Smuggler Port"
+    },
+    {
+      "path": "/images/settlements/atzerri-smuggler-port-scene.svg",
+      "caption": "Scene illustration — Atzerri Smuggler Port"
+    }
+  ]
+}

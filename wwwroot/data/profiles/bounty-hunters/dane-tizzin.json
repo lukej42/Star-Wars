@@ -1,0 +1,45 @@
+{
+  "overview": "Dane Tizzin is a human bounty hunter from Naboo, documented across Expanded lore. Naboo-born hunter who specialized in pirate-king eliminations along the Mid Rim during the Imperial Era.",
+  "history": "Dane Tizzin rose from Naboo to become a human bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Dane Tizzin left Naboo's peaceful reputation behind to hunt pirate kings whose fleets threatened Mid Rim shipping when Imperial patrols were absent. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Dane Tizzin as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Dane Tizzin's career, Naboo produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Naboo supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Dane Tizzin posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how human bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Dane Tizzin negotiate payment and honor.\n\nIn the modern era, Dane Tizzin competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Dane Tizzin remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Dane Tizzin. Mandalorian-era postings on Nevarro and Mos Espa show human bounty hunter specialists remain essential to galactic order—and chaos.\n\nDane Tizzin operated in war zones where capture alive paid more than kill, and both paid more than failure. Tizzin dismantled pirate bases through infiltration and capture bounties priced higher than Navy deployments for local governors. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of human bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Dane Tizzin's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Dane Tizzin as a human bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Pirate king infiltration, Mid Rim naval intelligence, capture-alive pirate contracts, and Naboo diplomatic cover stories. Guild instructors use redacted mission logs from Dane Tizzin's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Dane Tizzin often know smuggler routes better than naval patrols.\n\nAmong peers, Dane Tizzin earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Dane Tizzin as a human bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Dane Tizzin that may be half true and fully instructive. Whether Dane Tizzin followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Dane Tizzin exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Dane Tizzin's captures and eliminations shifted local power wherever Naboo expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Dane Tizzin, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Dane Tizzin when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Leaves Naboo for hunter career",
+    "Mid Rim pirate-king specialization",
+    "Dismantles multiple pirate bases",
+    "Governor-priced capture contracts"
+  ],
+  "affiliations": [
+    "Mid Rim governors (contracted)",
+    "Bounty Hunters' Guild",
+    "Naboo expatriates",
+    "Anti-piracy broker networks"
+  ],
+  "timeline": [
+    {
+      "era": "Naboo",
+      "event": "Origins"
+    },
+    {
+      "era": "Mid Rim",
+      "event": "Pirate specialization"
+    },
+    {
+      "era": "Base Raids",
+      "event": "King eliminations"
+    },
+    {
+      "era": "Legacy",
+      "event": "Pirate-hunter specialist"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/dane-tizzin.svg",
+      "caption": "Emblem — Dane Tizzin"
+    },
+    {
+      "path": "/images/bounty-hunters/dane-tizzin-scene.svg",
+      "caption": "Scene illustration — Dane Tizzin"
+    }
+  ]
+}

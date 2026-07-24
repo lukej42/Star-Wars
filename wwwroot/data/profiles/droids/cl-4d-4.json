@@ -1,0 +1,47 @@
+{
+  "overview": "CL-4D-4 is a protocol droid built by Cybot Galactica, documented across Empire Strikes Back · comics. A fussy protocol droid associated with Cloud City's administrative and hospitality services during the Galactic Civil War.",
+  "history": "CL-4D-4 belongs to the protocol droid class manufactured by Cybot Galactica, one of the most recognizable automaton designs documented across galactic history. CL-4D-4 protocol droids serve Cloud City hospitality with fussy administrative precision. Cybot Galactica factory schematics document the protocol droid platform lineage that produced CL-4D-4, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat CL-4D-4 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced CL-4D-4. Excavations on Taris, Dxun, and Dromund Kaas recovered protocol droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Cybot Galactica subsystems, spreading design language across millennia before CL-4D-4 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Cybot Galactica subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and protocol droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, CL-4D-4 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. CL-4D-4 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Cybot Galactica frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Cybot Galactica frames. Historians studying the Sequel Era treat surviving CL-4D-4 memory cores as primary sources on earlier conflicts.\n\nCL-4D-4 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, CL-4D-4 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of protocol droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Cybot Galactica automata.",
+  "significance": "Engineering analysis of CL-4D-4 highlights why protocol droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise CL-4D-4's modular protocol droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Cybot Galactica documentation; slicers praise its predictable security flaws—both keep CL-4D-4 relevant in scrap yards centuries later. New Republic certification boards still debate which protocol droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite CL-4D-4 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite CL-4D-4 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every protocol droid rights petition involving Cybot Galactica personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as CL-4D-4's service record. Whether CL-4D-4 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of CL-4D-4 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like CL-4D-4; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like CL-4D-4, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Cybot Galactica chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Serves Cloud City administrative and hospitality roles",
+    "Cybot Galactica protocol droid on Bespin",
+    "Present during Empire's Cloud City occupation",
+    "Fussy personality typical of protocol line",
+    "Galactic Civil War-era Cloud City service"
+  ],
+  "affiliations": [
+    "Cloud City administration",
+    "Bespin mining operations",
+    "Cybot Galactica",
+    "Galactic Empire (occupied Cloud City)",
+    "Independent operators"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "CL-4D-4 serves Cloud City"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Present during Empire occupation"
+    },
+    {
+      "era": "Bespin",
+      "event": "Hospitality and admin droid role"
+    },
+    {
+      "era": "Post-Endor",
+      "event": "Cloud City independence restored"
+    },
+    {
+      "era": "Legacy",
+      "event": "Standard Bespin protocol droid"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/cl-4d-4-scene.png",
+      "caption": "Cinematic illustration — CL-4D-4"
+    }
+  ]
+}

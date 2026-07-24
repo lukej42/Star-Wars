@@ -1,0 +1,45 @@
+{
+  "overview": "Skreek is a trandoshan bounty hunter from Trandosha, documented across Expanded lore. Trandoshan hunter who contested Bossk's scorekeeper tallies during Imperial Era lodge disputes.",
+  "history": "Skreek rose from Trandosha to become a trandoshan bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Skreek challenged Bossk's Cradossk-backed authority in Trandoshan lodges, turning scorekeeper disputes into public hunt duels on Wookiee contract worlds. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Skreek as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Skreek's career, Trandosha produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Trandosha supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Skreek posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how trandoshan bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Skreek negotiate payment and honor.\n\nIn the modern era, Skreek competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Skreek remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Skreek. Mandalorian-era postings on Nevarro and Mos Espa show trandoshan bounty hunter specialists remain essential to galactic order—and chaos.\n\nSkreek operated in war zones where capture alive paid more than kill, and both paid more than failure. Skreek and Bossk competed for the same Kashyyyk slave-route pucks, escalating Trandoshan hunter feud into Imperial broker attention. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of trandoshan bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Skreek's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Skreek as a trandoshan bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Scorekeeper duel tradition, Wookiee hunt rivalry, lodge political combat, and Trandoshan trophy competition. Guild instructors use redacted mission logs from Skreek's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Skreek often know smuggler routes better than naval patrols.\n\nAmong peers, Skreek earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Skreek as a trandoshan bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Skreek that may be half true and fully instructive. Whether Skreek followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Skreek exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Skreek's captures and eliminations shifted local power wherever Trandosha expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Skreek, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Skreek when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Challenges Bossk lodge authority",
+    "Competes for Kashyyyk route pucks",
+    "Public Trandoshan hunt duels",
+    "Imperial broker attention from feud"
+  ],
+  "affiliations": [
+    "Trandoshan scorekeepers",
+    "Bossk rival lodges",
+    "Bounty Hunters' Guild",
+    "Kashyyyk hunt routes"
+  ],
+  "timeline": [
+    {
+      "era": "Trandosha",
+      "event": "Rival lodge rise"
+    },
+    {
+      "era": "Feud",
+      "event": "Bossk competition"
+    },
+    {
+      "era": "Kashyyyk Routes",
+      "event": "Puck disputes"
+    },
+    {
+      "era": "Legacy",
+      "event": "Lodge rivalry icon"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/skreek.svg",
+      "caption": "Emblem — Skreek"
+    },
+    {
+      "path": "/images/bounty-hunters/skreek-scene.svg",
+      "caption": "Scene illustration — Skreek"
+    }
+  ]
+}

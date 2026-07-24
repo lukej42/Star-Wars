@@ -1,0 +1,51 @@
+{
+  "overview": "Cato Parasitti is a clawdite bounty hunter from Zolan, documented across Clone Wars. Clawdite infiltrator who impersonated Jedi librarian Jocasta Nu during holocron heist.",
+  "history": "Cato Parasitti rose from Zolan to become a clawdite bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Cato Parasitti, Clawdite shapeshifter, infiltrated Jedi Temple disguised as librarian Jocasta Nu during Cad Bane's holocron heist—specializing in identity theft over combat. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Cato Parasitti as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Cato Parasitti's career, Zolan produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Zolan Clawdite infiltration specialists served Separatist intelligence for decades; Cato represents shapeshifter hunters who win through disguise before blaster fire. Old Republic bounty charters and Sith Empire mercenary rolls show how clawdite bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Cato Parasitti negotiate payment and honor.\n\nIn the modern era, Cato Parasitti competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Cato's Jedi Temple impersonation enabled Cad Bane's holocron theft—one of Clone Wars' boldest hunter-intelligence operations against Jedi Order. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Cato Parasitti. Mandalorian-era postings on Nevarro and Mos Espa show clawdite bounty hunter specialists remain essential to galactic order—and chaos.\n\nCato Parasitti operated in war zones where capture alive paid more than kill, and both paid more than failure. Cato maintained Jocasta Nu disguise inside Jedi Temple, assisted Bane's vault breach, and demonstrated Clawdite infiltration could penetrate Order's most sacred archives. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of clawdite bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Cato Parasitti's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Cato Parasitti as a clawdite bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Clawdite shapeshifting, voice mimicry, behavioral study of impersonation targets, and intelligence support for Cad Bane's combat team. Guild instructors use redacted mission logs from Cato Parasitti's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Cato Parasitti often know smuggler routes better than naval patrols.\n\nAmong peers, Cato Parasitti earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Cad Bane trusted Cato's infiltration skills; Jedi discovered impersonation post-heist; Clawdite guilds cite Temple job as masterwork infiltration. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Cato Parasitti that may be half true and fully instructive. Whether Cato Parasitti followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Cato Parasitti exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Cato Parasitti's Temple infiltration forced Jedi to upgrade identity verification—proving shapeshifter hunters are intelligence threats not just assassins. Without contractors like Cato Parasitti, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Cato Parasitti when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Hired by Cad Bane for Temple heist",
+    "Impersonates Jedi librarian Jocasta Nu",
+    "Assists holocron vault breach",
+    "Maintains cover during Bane operation",
+    "Clawdite infiltration masterwork"
+  ],
+  "affiliations": [
+    "Cad Bane gang",
+    "Clawdite infiltrator networks",
+    "Count Dooku / CIS (contracted)",
+    "Jedi Temple (infiltrated)",
+    "Separatist intelligence"
+  ],
+  "timeline": [
+    {
+      "era": "Zolan",
+      "event": "Clawdite infiltration training"
+    },
+    {
+      "era": "Bane Contract",
+      "event": "Temple heist recruitment"
+    },
+    {
+      "era": "Impersonation",
+      "event": "Jocasta Nu disguise"
+    },
+    {
+      "era": "Vault",
+      "event": "Holocron theft support"
+    },
+    {
+      "era": "Legacy",
+      "event": "Jedi security upgrade catalyst"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/cato-parasitti.svg",
+      "caption": "Emblem — Cato Parasitti"
+    },
+    {
+      "path": "/images/bounty-hunters/cato-parasitti-scene.svg",
+      "caption": "Scene illustration — Cato Parasitti"
+    }
+  ]
+}

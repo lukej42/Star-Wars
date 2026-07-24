@@ -1,0 +1,51 @@
+{
+  "overview": "Battle Meditation is a master-level light side technique classified under Support. A deep meditative state through which a Jedi subtly coordinates allied forces, bolstering morale and tactical cohesion across an entire fleet or army. Bastila Shan's battle meditation was pivotal to the Republic's victory at the Battle of Rakata Prime during the Jedi Civil War.",
+  "history": "Force scholars trace Battle Meditation across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR · The Old Republic · Clone Wars · High Republic established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Battle Meditation into initiates as part of the standard curriculum for support specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Battle Meditation alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Battle Meditation exemplifies how support abilities shape Force doctrine on the light side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Battle Meditation could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Battle Meditation remains a benchmark of support proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Battle Meditation in Imperial Era conflicts",
+    "Standardised in Support curricula of the Jedi academies",
+    "Featured prominently in media: KOTOR · The Old Republic · Clone Wars · High Republic",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Battle Meditation altered galactic history"
+  ],
+  "affiliations": [
+    "Jedi Masters",
+    "Oppo Rancisis",
+    "Satele Shan",
+    "Jedi Battlemasters"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "First major documented use of Battle Meditation in Imperial Era conflicts"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Standardised in Support curricula of the Jedi academies"
+    },
+    {
+      "era": "New Republic",
+      "event": "Featured prominently in media: KOTOR · The Old Republic · Clone Wars · High Republic"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/battle-meditation.svg",
+      "caption": "Emblem — Battle Meditation"
+    },
+    {
+      "path": "/images/force-powers/battle-meditation-scene.svg",
+      "caption": "Scene illustration — Battle Meditation"
+    }
+  ]
+}

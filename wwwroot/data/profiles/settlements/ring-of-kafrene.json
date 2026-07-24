@@ -1,0 +1,51 @@
+{
+  "overview": "Ring of Kafrene is a asteroid trading post on Kafrene, documented across Rogue One. The Ring of Kafrene's asteroid markets moved illegal goods until Cassian Andor learned of the Death Star there.",
+  "history": "Ring of Kafrene began as a asteroid trading post anchor on Kafrene, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Ring of Kafrene began as a strategic anchor on Kafrene, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Ring of Kafrene as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Ring of Kafrene as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Ring of Kafrene include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Ring of Kafrene include ward-stones and battle markers from Sith and Jedi campaigns on Kafrene. High Republic pathfinders logged Ring of Kafrene as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Kafrene suggest Ring of Kafrene once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Ring of Kafrene expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Ring of Kafrene appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Ring of Kafrene because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Ring of Kafrene as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nRing of Kafrene has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Ring of Kafrene as contested territory on Kafrene. Clone Wars dossiers mark Ring of Kafrene as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Ring of Kafrene meant control of Kafrene.",
+  "significance": "The economy of Ring of Kafrene runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Ring of Kafrene runs on local industry, trade tariffs, and black-market mediation typical of Kafrene. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Ring of Kafrene infrastructure during the late Republic. Post-war reconstruction funds often bypass Ring of Kafrene officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Ring of Kafrene mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Ring of Kafrene preserve Kafrene rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Ring of Kafrene are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Ring of Kafrene back alleys.\n\nRing of Kafrene influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Ring of Kafrene when tracing how Kafrene influenced sector-wide treaties and fleet movements. Scenes set in Ring of Kafrene across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Ring of Kafrene when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Ring of Kafrene founded on Kafrene",
+    "Recorded siege or battle at Ring of Kafrene",
+    "Occupation forces restructure Ring of Kafrene",
+    "Underground resistance operates from Ring of Kafrene",
+    "Post-war memorialization of Ring of Kafrene"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Kafrene governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Ring of Kafrene"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Ring of Kafrene"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Ring of Kafrene"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Ring of Kafrene"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Ring of Kafrene"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/ring-of-kafrene.svg",
+      "caption": "Emblem — Ring of Kafrene"
+    },
+    {
+      "path": "/images/settlements/ring-of-kafrene-scene.svg",
+      "caption": "Scene illustration — Ring of Kafrene"
+    }
+  ]
+}

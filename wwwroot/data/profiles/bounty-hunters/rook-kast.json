@@ -1,0 +1,45 @@
+{
+  "overview": "Rook Kast is a mandalorian bounty hunter from Mandalore, documented across Clone Wars · Comics. Mandalorian super commando who hunted Jedi and Republic targets under Darth Maul's Shadow Collective.",
+  "history": "Rook Kast rose from Mandalore to become a mandalorian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Rook Kast led Mandalorian hunter squads for Maul's Shadow Collective, posting pucks on Jedi and Republic officials during Mandalore's civil collapse. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Rook Kast as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Rook Kast's career, Mandalore produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Mandalore supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Rook Kast posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Rook Kast negotiate payment and honor.\n\nIn the modern era, Rook Kast competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Rook Kast remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Rook Kast. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty hunter specialists remain essential to galactic order—and chaos.\n\nRook Kast operated in war zones where capture alive paid more than kill, and both paid more than failure. Kast coordinated super commando pursuit teams across Sundari and Dathomir when Maul needed hunter precision instead of army occupation. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Rook Kast's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Rook Kast as a mandalorian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Super commando jetpack assault, Maul's Shadow Collective authority, Mandalore civil war pursuit, and Jedi target extraction. Guild instructors use redacted mission logs from Rook Kast's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Rook Kast often know smuggler routes better than naval patrols.\n\nAmong peers, Rook Kast earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Rook Kast as a mandalorian bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Rook Kast that may be half true and fully instructive. Whether Rook Kast followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Rook Kast exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Rook Kast's captures and eliminations shifted local power wherever Mandalore expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Rook Kast, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Rook Kast when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Shadow Collective hunter commander",
+    "Mandalore civil war pursuits",
+    "Jedi target extraction operations",
+    "Maul-era super commando raids"
+  ],
+  "affiliations": [
+    "Shadow Collective",
+    "Mandalorian super commandos",
+    "Darth Maul's hunter squads",
+    "Mandalore civil war factions"
+  ],
+  "timeline": [
+    {
+      "era": "Mandalore",
+      "event": "Super commando rise"
+    },
+    {
+      "era": "Shadow Collective",
+      "event": "Maul recruitment"
+    },
+    {
+      "era": "Civil War",
+      "event": "Jedi pursuits"
+    },
+    {
+      "era": "Legacy",
+      "event": "Mandalorian hunter-commander"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/rook-kast.svg",
+      "caption": "Emblem — Rook Kast"
+    },
+    {
+      "path": "/images/bounty-hunters/rook-kast-scene.svg",
+      "caption": "Scene illustration — Rook Kast"
+    }
+  ]
+}

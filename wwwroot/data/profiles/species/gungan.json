@@ -1,0 +1,51 @@
+{
+  "overview": "Gungan (Amphibious humanoid) is native to Naboo and ranks among the most consequential species in galactic history. Gungans are amphibious natives of Naboo who built underwater cities like Otoh Gunga and fielded energy-shielded militia that turned the Battle of Naboo. Their booma weapons and shield generators surprised Trade Federation invaders.",
+  "history": "The Gungan (amphibious humanoid) trace their deepest roots to Naboo, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Gungan evolutionary history on Naboo intertwines with amphibious humanoid adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Gungan populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Gungan history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Gungan societies on Naboo established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Gungan polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Naboo ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Gungan identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Gungan delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Gungan diaspora communities appeared on every major trade lane and war front. Modern Gungan diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Gungan networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Gungan migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nGungan fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Gungan veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Naboo's geography. KOTOR and KOTOR II document Gungan involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Gungan leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Gungan display traits typical of amphibious humanoid life adapted to Naboo's gravity, atmosphere, and seasonal extremes. Gungan physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Gungan physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Gungan resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nGungan culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Gungan rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Naboo accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Gungan spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Gungan communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Gungan exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Gungan merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Gungan innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Gungan choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Gungan homeworld first mapped by Republic surveyors",
+    "Notable Gungan leaders emerge during Clone Wars",
+    "Gungan communities resist Imperial occupation policies",
+    "KOTOR-era Gungan figures influence Jedi Civil War",
+    "New Republic restores Gungan representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Naboo governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Gungan civilization consolidates on Naboo"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Gungan join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Gungan factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Gungan identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Gungan"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/gungan.svg",
+      "caption": "Emblem — Gungan"
+    },
+    {
+      "path": "/images/species/gungan-scene.svg",
+      "caption": "Scene illustration — Gungan"
+    }
+  ]
+}

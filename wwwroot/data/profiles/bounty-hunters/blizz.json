@@ -1,0 +1,51 @@
+{
+  "overview": "Blizz is a jawa bounty hunter from Tatooine, documented across SWTOR. Jawa mercenary companion from SWTOR Great Hunt with sandcrawler firepower.",
+  "history": "Blizz rose from Tatooine to become a jawa bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Blizz, Jawa mercenary, joined SWTOR Great Hunt competitor's team bringing sandcrawler-mounted heavy weapons and Tatooine scrap-field engineering to Mandalorian competition. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Blizz as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Blizz's career, Tatooine produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Tatooine Jawa mercenary bands occasionally enter galactic hunter markets; Blizz represents rare Jawa Great Hunt participation with sandcrawler mobile arsenal. Old Republic bounty charters and Sith Empire mercenary rolls show how jawa bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Blizz negotiate payment and honor.\n\nIn the modern era, Blizz competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Blizz's SWTOR companion role added comic relief and heavy firepower to Great Hunt narrative—Jawa hunter in Mandalorian-dominated competition. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Blizz. Mandalorian-era postings on Nevarro and Mos Espa show jawa bounty hunter specialists remain essential to galactic order—and chaos.\n\nBlizz operated in war zones where capture alive paid more than kill, and both paid more than failure. Blizz deployed sandcrawler weapons during Great Hunt trials, scavenged battlefield equipment, and supported player hunter against Tarro Blood sabotage. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of jawa bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Blizz's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Blizz as a jawa bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Sandcrawler heavy weapons, Jawa engineering improvisation, scrap-field salvage combat, and unpredictable mercenary loyalty—Blizz fights loud and messy. Guild instructors use redacted mission logs from Blizz's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Blizz often know smuggler routes better than naval patrols.\n\nAmong peers, Blizz earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Great Hunt competitors underestimated Blizz initially; player hunters valued his firepower; Tatooine Jawas celebrate his off-world mercenary fame. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Blizz that may be half true and fully instructive. Whether Blizz followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Blizz exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Blizz proved Jawa mercenaries belong in SWTOR hunter narratives—diversifying Great Hunt species representation beyond Mandalorians and Rodians. Without contractors like Blizz, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Blizz when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Leaves Tatooine for Great Hunt",
+    "Joins SWTOR player hunter team",
+    "Deploys sandcrawler heavy weapons",
+    "Great Hunt trial support operations",
+    "Jawa mercenary SWTOR icon"
+  ],
+  "affiliations": [
+    "SWTOR Great Hunt",
+    "Player hunter team",
+    "Tatooine Jawa clans",
+    "Sandcrawler mercenary unit",
+    "Dromund Kaas competition"
+  ],
+  "timeline": [
+    {
+      "era": "Tatooine",
+      "event": "Jawa mercenary origins"
+    },
+    {
+      "era": "Great Hunt",
+      "event": "Team recruitment"
+    },
+    {
+      "era": "Trials",
+      "event": "Sandcrawler firepower"
+    },
+    {
+      "era": "Tarro Blood",
+      "event": "Sabotage response"
+    },
+    {
+      "era": "Legacy",
+      "event": "Jawa hunter representation"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/blizz.svg",
+      "caption": "Emblem — Blizz"
+    },
+    {
+      "path": "/images/bounty-hunters/blizz-scene.svg",
+      "caption": "Scene illustration — Blizz"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Hosnian Prime Capital is a new republic capital on Hosnian Prime, documented across Films · Force Awakens. The Hosnian system capital hosted the New Republic Senate until Starkiller Base destroyed it in Force Awakens' opening salvo.",
+  "history": "Hosnian Prime Capital began as a new republic capital anchor on Hosnian Prime, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Hosnian Prime Capital grew where Hosnian Prime's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a new republic capital that outlasted first founders. Early survey maps from the Old Republic era list Hosnian Prime Capital as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Hosnian Prime Capital as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Hosnian Prime Capital include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Hosnian Prime Capital include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Hosnian Prime Capital as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Hosnian Prime suggest Hosnian Prime Capital once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Hosnian Prime Capital expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Hosnian Prime Capital; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Hosnian Prime Capital because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Hosnian Prime Capital as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nHosnian Prime Capital has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Hosnian Prime Capital as strategically contested on Hosnian Prime. Clone Wars dossiers mark Hosnian Prime Capital as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Hosnian Prime Capital meant control of Hosnian Prime.",
+  "significance": "The economy of Hosnian Prime Capital runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Hosnian Prime Capital's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Hosnian Prime Capital infrastructure during the late Republic. Post-war reconstruction funds often bypass Hosnian Prime Capital officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Hosnian Prime Capital mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Hosnian Prime Capital blend Hosnian Prime native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Hosnian Prime Capital are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Hosnian Prime Capital back alleys.\n\nHosnian Prime Capital influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Hosnian Prime Capital altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Hosnian Prime Capital across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Hosnian Prime Capital when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Hosnian Prime Capital founded as new republic capital on Hosnian Prime",
+    "Major battle or siege recorded at Hosnian Prime Capital",
+    "Imperial occupation transforms Hosnian Prime Capital governance",
+    "Rebel or Resistance cell operates from Hosnian Prime Capital",
+    "New Republic era reconstruction begins at Hosnian Prime Capital"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Hosnian Prime Capital"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Hosnian Prime Capital joins sector trade networks on Hosnian Prime"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Hosnian Prime Capital triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Hosnian Prime Capital"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Hosnian Prime Capital"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/hosnian-prime-capital.svg",
+      "caption": "Emblem — Hosnian Prime Capital"
+    },
+    {
+      "path": "/images/settlements/hosnian-prime-capital-scene.svg",
+      "caption": "Scene illustration — Hosnian Prime Capital"
+    }
+  ]
+}

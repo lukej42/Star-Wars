@@ -1,0 +1,51 @@
+{
+  "overview": "Concord Dawn is a mandalorian colony on Concord Dawn, documented across Films · Clone Wars · Rebels. Concord Dawn's dusty mesas bred Journeyman Protectors and warriors like Jango Fett, torn between Mandalorian honor and Imperial proxy wars.",
+  "history": "Concord Dawn began as a mandalorian colony anchor on Concord Dawn, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Concord Dawn began as a Mandalorian forward colony guarding hyperspace approaches to the Concordia foundries. Early survey maps from the Old Republic era list Concord Dawn as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Concord Dawn as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Concord Dawn include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Ancient Mandalorian bas-reliefs depict Basilisk war droids crossing the mesas. High Republic pathfinders logged Concord Dawn as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Concord Dawn suggest Concord Dawn once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Concord Dawn expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Jango Fett's legacy and the Protectors' neutrality made the colony a Fenn Rau flashpoint in the Civil War. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Concord Dawn because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Concord Dawn as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nConcord Dawn has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Imperial Viceroy Gar Saxon attempted to conscript Protectors, triggering rebellion and massacre. Clone Wars dossiers mark Concord Dawn as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Concord Dawn meant control of Concord Dawn.",
+  "significance": "The economy of Concord Dawn runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Grazing, microforge exports, and mercenary retainers sustain sparse settlements. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Concord Dawn infrastructure during the late Republic. Post-war reconstruction funds often bypass Concord Dawn officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Concord Dawn mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Protector code emphasizes aerial supremacy and hospitality to clan kin—not outsiders. Music, food, and festival calendars in Concord Dawn are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Concord Dawn back alleys.\n\nConcord Dawn influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Concord Dawn illustrates Mandalore's diaspora beyond the domed capital. Scenes set in Concord Dawn across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Concord Dawn when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Journeyman Protectors established",
+    "Jango Fett rises as bounty hunter from Concord Dawn",
+    "Fenn Rau leads Protectors in Clone Wars",
+    "Gar Saxon crushes Protector neutrality",
+    "Sabine Wren and Clan Wren reclaim Mandalorian identity"
+  ],
+  "affiliations": [
+    "Mandalorian Protectors",
+    "Clan Fett (historical)",
+    "Galactic Empire",
+    "Rebel Alliance",
+    "Mandalorian resistance"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Colony founded for sector defense"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Protectors ally with Republic"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial occupation and Protector purge"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Fenn Rau joins Rebellion"
+    },
+    {
+      "era": "New Republic",
+      "event": "Clan diaspora memorializes mesa battles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/concord-dawn.svg",
+      "caption": "Emblem — Concord Dawn"
+    },
+    {
+      "path": "/images/settlements/concord-dawn-scene.svg",
+      "caption": "Scene illustration — Concord Dawn"
+    }
+  ]
+}

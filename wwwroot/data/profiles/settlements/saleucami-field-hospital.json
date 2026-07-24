@@ -1,0 +1,51 @@
+{
+  "overview": "Saleucami Field Hospital is a clone wars medical camp on Saleucami, documented across Clone Wars. Saleucami's plains hosted mobile hospitals where Captain Rex was nearly buried alive after Order 66.",
+  "history": "Saleucami Field Hospital began as a clone wars medical camp anchor on Saleucami, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Saleucami Field Hospital began as a strategic anchor on Saleucami, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Saleucami Field Hospital as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Saleucami Field Hospital as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Saleucami Field Hospital include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Saleucami Field Hospital include ward-stones and battle markers from Sith and Jedi campaigns on Saleucami. High Republic pathfinders logged Saleucami Field Hospital as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Saleucami suggest Saleucami Field Hospital once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Saleucami Field Hospital expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Saleucami Field Hospital appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Saleucami Field Hospital because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Saleucami Field Hospital as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nSaleucami Field Hospital has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Saleucami Field Hospital as contested territory on Saleucami. Clone Wars dossiers mark Saleucami Field Hospital as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Saleucami Field Hospital meant control of Saleucami.",
+  "significance": "The economy of Saleucami Field Hospital runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Saleucami Field Hospital runs on local industry, trade tariffs, and black-market mediation typical of Saleucami. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Saleucami Field Hospital infrastructure during the late Republic. Post-war reconstruction funds often bypass Saleucami Field Hospital officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Saleucami Field Hospital mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Saleucami Field Hospital preserve Saleucami rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Saleucami Field Hospital are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Saleucami Field Hospital back alleys.\n\nSaleucami Field Hospital influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Saleucami Field Hospital when tracing how Saleucami influenced sector-wide treaties and fleet movements. Scenes set in Saleucami Field Hospital across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Saleucami Field Hospital when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Saleucami Field Hospital founded on Saleucami",
+    "Recorded siege or battle at Saleucami Field Hospital",
+    "Occupation forces restructure Saleucami Field Hospital",
+    "Underground resistance operates from Saleucami Field Hospital",
+    "Post-war memorialization of Saleucami Field Hospital"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Saleucami governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Saleucami Field Hospital"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Saleucami Field Hospital"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Saleucami Field Hospital"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Saleucami Field Hospital"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Saleucami Field Hospital"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/saleucami-field-hospital.svg",
+      "caption": "Emblem — Saleucami Field Hospital"
+    },
+    {
+      "path": "/images/settlements/saleucami-field-hospital-scene.svg",
+      "caption": "Scene illustration — Saleucami Field Hospital"
+    }
+  ]
+}

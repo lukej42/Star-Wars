@@ -1,0 +1,45 @@
+{
+  "overview": "Gold Fury is a zabrak great hunt hunter from Iridonia, documented across Star Wars: The Old Republic. Zabrak brawler-hunter who fought through SWTOR Great Hunt arenas with horned close-combat dominance.",
+  "history": "Gold Fury rose from Iridonia to become a zabrak great hunt hunter whose name appears on guild boards from the Core to the Outer Rim. Gold Fury earned the name in underground Iridonia fight pits before translating horned brawling into Great Hunt tournament carnage on Dromund Kaas. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Gold Fury as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Gold Fury's career, Iridonia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Iridonia supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Gold Fury posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how zabrak great hunt hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Gold Fury negotiate payment and honor.\n\nIn the modern era, Gold Fury competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Gold Fury remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Gold Fury. Mandalorian-era postings on Nevarro and Mos Espa show zabrak great hunt hunter specialists remain essential to galactic order—and chaos.\n\nGold Fury operated in war zones where capture alive paid more than kill, and both paid more than failure. Gold Fury closed distance on sniper-specialist rivals, turning Hunt brackets into melee slaughter that guild bookmakers exploited. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of zabrak great hunt hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Gold Fury's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Gold Fury as a zabrak great hunt hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Zabrak horn rushes, arena grappling, pain tolerance training, and tournament crowd manipulation. Guild instructors use redacted mission logs from Gold Fury's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Gold Fury often know smuggler routes better than naval patrols.\n\nAmong peers, Gold Fury earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Gold Fury as a zabrak great hunt hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Gold Fury that may be half true and fully instructive. Whether Gold Fury followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Gold Fury exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Gold Fury's captures and eliminations shifted local power wherever Iridonia expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Gold Fury, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Gold Fury when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Underground champion on Iridonia",
+    "Great Hunt tournament entry",
+    "Melee dominance in Hunt arenas",
+    "Bookmaker-famous brawler-hunter"
+  ],
+  "affiliations": [
+    "Iridonia fight pits",
+    "Great Hunt tournament",
+    "Bounty Hunters' Guild",
+    "Dromund Kaas arena circuits"
+  ],
+  "timeline": [
+    {
+      "era": "Iridonia",
+      "event": "Fight pit champion"
+    },
+    {
+      "era": "Great Hunt",
+      "event": "Tournament entry"
+    },
+    {
+      "era": "Arena",
+      "event": "Melee slaughter"
+    },
+    {
+      "era": "Legacy",
+      "event": "Zabrak brawler-hunter"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/gold-fury.svg",
+      "caption": "Emblem — Gold Fury"
+    },
+    {
+      "path": "/images/bounty-hunters/gold-fury-scene.svg",
+      "caption": "Scene illustration — Gold Fury"
+    }
+  ]
+}

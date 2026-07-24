@@ -1,0 +1,47 @@
+{
+  "overview": "OOM-9 is a oom command droid built by Baktoid Combat Automata, documented across Phantom Menace · Clone Wars. The OOM command droid who led the Trade Federation invasion of Naboo under Viceroy Gunray, coordinating battle droid armies from the Theed palace.",
+  "history": "OOM-9 belongs to the oom command droid class manufactured by Baktoid Combat Automata, one of the most recognizable automaton designs documented across galactic history. OOM-9 commanded the entire Trade Federation invasion force during the Naboo crisis. Baktoid Combat Automata factory schematics document the oom command droid platform lineage that produced OOM-9, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat OOM-9 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced OOM-9. Excavations on Taris, Dxun, and Dromund Kaas recovered oom command droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Baktoid Combat Automata subsystems, spreading design language across millennia before OOM-9 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Baktoid Combat Automata subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and oom command droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, OOM-9 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. OOM-9 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Baktoid Combat Automata frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Baktoid Combat Automata frames. Historians studying the Sequel Era treat surviving OOM-9 memory cores as primary sources on earlier conflicts.\n\nOOM-9 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, OOM-9 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of oom command droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Baktoid Combat Automata automata.",
+  "significance": "Engineering analysis of OOM-9 highlights why oom command droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise OOM-9's modular oom command droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Baktoid Combat Automata documentation; slicers praise its predictable security flaws—both keep OOM-9 relevant in scrap yards centuries later. New Republic certification boards still debate which oom command droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite OOM-9 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite OOM-9 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every oom command droid rights petition involving Baktoid Combat Automata personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as OOM-9's service record. Whether OOM-9 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of OOM-9 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like OOM-9; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like OOM-9, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Baktoid Combat Automata chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Leads Trade Federation invasion of Naboo",
+    "Commands battle droid army from Theed palace",
+    "Reports to Viceroy Nute Gunray",
+    "First major OOM command droid in galactic history",
+    "Captured after Naboo liberation forces prevail"
+  ],
+  "affiliations": [
+    "Trade Federation",
+    "Confederacy of Independent Systems",
+    "Viceroy Nute Gunray",
+    "Baktoid Combat Automata",
+    "Naboo invasion force"
+  ],
+  "timeline": [
+    {
+      "era": "Naboo Crisis",
+      "event": "OOM-9 leads full planetary invasion"
+    },
+    {
+      "era": "Theed",
+      "event": "Commands from occupied palace"
+    },
+    {
+      "era": "Liberation",
+      "event": "Captured by Naboo and Gungan forces"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "OOM-9 archived as CIS precedent"
+    },
+    {
+      "era": "Legacy",
+      "event": "Model for later tactical droid commanders"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/oom-9-scene.png",
+      "caption": "Cinematic illustration — OOM-9"
+    }
+  ]
+}

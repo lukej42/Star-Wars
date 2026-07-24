@@ -1,0 +1,51 @@
+{
+  "overview": "Xi'an is a twilek bounty hunter from Ryloth, documented across Mandalorian. Twilek thief-hunter and Mando's former partner imprisoned aboard Bothan-5.",
+  "history": "Xi'an rose from Ryloth to become a twilek bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Xi'an, Twilek thief-hunter from Ryloth, was Din Djarin's former partner on a dangerous job before Ranzar Malk's crew imprisoned her aboard prison ship Bothan-5 during Grogu rescue operation. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Xi'an as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Xi'an's career, Ryloth produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Ryloth Twi'lek hunter-thief hybrids populate Rim smuggling routes; Xi'an represents Din Djarin's pre-Nevarro partnership history in guild underworld. Old Republic bounty charters and Sith Empire mercenary rolls show how twilek bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Xi'an negotiate payment and honor.\n\nIn the modern era, Xi'an competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Xi'an's Mandalorian episode revealed Din's past crew relationships and complicated Ranzar Malk's betrayal during New Republic prison break sequence. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Xi'an. Mandalorian-era postings on Nevarro and Mos Espa show twilek bounty hunter specialists remain essential to galactic order—and chaos.\n\nXi'an operated in war zones where capture alive paid more than kill, and both paid more than failure. Xi'an joined Ranzar's crew targeting Grogu on Bothan-5, confronted Din Djarin over past partnership, and navigated prison ship combat during rescue chaos. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of twilek bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Xi'an's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Xi'an as a twilek bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Twi'lek agility, knife combat, thief infiltration, and former partnership leverage—Xi'an fights close and personal with emotional history as weapon. Guild instructors use redacted mission logs from Xi'an's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Xi'an often know smuggler routes better than naval patrols.\n\nAmong peers, Xi'an earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Din Djarin trusted Xi'an once before betrayal patterns; Ranzar Malk used her skills until Bothan-5 chaos; Twi'lek networks know her thief-hunter reputation. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Xi'an that may be half true and fully instructive. Whether Xi'an followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Xi'an exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Xi'an expanded Din Djarin's backstory—showing Mandalorian hunter had partnership history and trust failures before Grogu foundling bond defined his path. Without contractors like Xi'an, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Xi'an when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Former partnership with Din Djarin",
+    "Joins Ranzar Malk's Bothan-5 crew",
+    "Targets Grogu on prison ship",
+    "Confronts Din over shared past",
+    "Prison break combat sequence"
+  ],
+  "affiliations": [
+    "Din Djarin (former partner)",
+    "Ranzar Malk's crew",
+    "Bothan-5 prison ship",
+    "Ryloth Twi'lek networks",
+    "Nevarro hunter underworld"
+  ],
+  "timeline": [
+    {
+      "era": "Partnership",
+      "event": "Din Djarin crew history"
+    },
+    {
+      "era": "Ranzar Crew",
+      "event": "Bothan-5 recruitment"
+    },
+    {
+      "era": "Prison Ship",
+      "event": "Grogu target operation"
+    },
+    {
+      "era": "Confrontation",
+      "event": "Past partnership clash"
+    },
+    {
+      "era": "Legacy",
+      "event": "Din's backstory expansion"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/xian.svg",
+      "caption": "Emblem — Xi'an"
+    },
+    {
+      "path": "/images/bounty-hunters/xian-scene.svg",
+      "caption": "Scene illustration — Xi'an"
+    }
+  ]
+}

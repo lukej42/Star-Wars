@@ -1,0 +1,51 @@
+{
+  "overview": "Massassi Temple is a ancient rebel base on Yavin 4, documented across Films · Rebels. Massassi Temple on Yavin 4, built by Sith-linked Massassi workers, became the Rebel base from which the first Death Star was destroyed.",
+  "history": "Massassi Temple began as a ancient rebel base anchor on Yavin 4, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Massassi Temple grew where Yavin 4's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a ancient rebel base that outlasted first founders. Early survey maps from the Old Republic era list Massassi Temple as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Massassi Temple as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Massassi Temple include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Massassi Temple include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Massassi Temple as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Yavin 4 suggest Massassi Temple once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Massassi Temple expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Massassi Temple; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Massassi Temple because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Massassi Temple as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nMassassi Temple has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Massassi Temple as strategically contested on Yavin 4. Clone Wars dossiers mark Massassi Temple as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Massassi Temple meant control of Yavin 4.",
+  "significance": "The economy of Massassi Temple runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Massassi Temple's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Massassi Temple infrastructure during the late Republic. Post-war reconstruction funds often bypass Massassi Temple officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Massassi Temple mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Massassi Temple blend Yavin 4 native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Massassi Temple are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Massassi Temple back alleys.\n\nMassassi Temple influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Massassi Temple altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Massassi Temple across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Massassi Temple when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Massassi Temple founded as ancient rebel base on Yavin 4",
+    "Major battle or siege recorded at Massassi Temple",
+    "Imperial occupation transforms Massassi Temple governance",
+    "Rebel or Resistance cell operates from Massassi Temple",
+    "New Republic era reconstruction begins at Massassi Temple"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Massassi Temple"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Massassi Temple joins sector trade networks on Yavin 4"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Massassi Temple triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Massassi Temple"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Massassi Temple"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/massassi-temple.svg",
+      "caption": "Emblem — Massassi Temple"
+    },
+    {
+      "path": "/images/settlements/massassi-temple-scene.svg",
+      "caption": "Scene illustration — Massassi Temple"
+    }
+  ]
+}

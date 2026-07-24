@@ -1,0 +1,51 @@
+{
+  "overview": "Gault Rennow is a bounty hunter from Unknown, documented across KOTOR II. Hunter from KOTOR II smuggling moon Nar Shaddaa with ties to Exchange and refugee networks.",
+  "history": "Gault Rennow rose from Unknown to become a bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Gault Rennow operated on Nar Shaddaa during KOTOR II as hunter-smuggler hybrid navigating Exchange politics, refugee networks, and Meetra Surik's crew orbit. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Gault Rennow as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Gault Rennow's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Nar Shaddaa hunter-smuggler hybrids predated Gault; KOTOR Exchange markets blurred puck work and contraband transport on vertical city levels. Old Republic bounty charters and Sith Empire mercenary rolls show how bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Gault Rennow negotiate payment and honor.\n\nIn the modern era, Gault Rennow competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Gault Rennow's KOTOR II presence added neutral hunter option in Surik's companion ecosystem—pragmatic contractor avoiding Exchange extremes. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Gault Rennow. Mandalorian-era postings on Nevarro and Mos Espa show bounty hunter specialists remain essential to galactic order—and chaos.\n\nGault Rennow operated in war zones where capture alive paid more than kill, and both paid more than failure. Gault navigated Nar Shaddaa Exchange territory, took selective contracts avoiding Skadge's brutality, and operated in Jedi Civil War aftermath chaos. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Gault Rennow's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Gault Rennow as a bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Smuggler routes, selective contract acceptance, blaster pragmatism, and refugee network contacts—Gault hunts when paid but avoids cult-like Exchange loyalty. Guild instructors use redacted mission logs from Gault Rennow's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Gault Rennow often know smuggler routes better than naval patrols.\n\nAmong peers, Gault Rennow earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Nar Shaddaa brokers knew Gault as reliable middle-tier hunter; Surik crew considered him optional ally; Exchange tolerated his independence. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Gault Rennow that may be half true and fully instructive. Whether Gault Rennow followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Gault Rennow exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Gault Rennow represented neutral hunter middle ground in KOTOR II's Exchange-dominated Nar Shaddaa—between Mira's ethics and Skadge's brutality. Without contractors like Gault Rennow, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Gault Rennow when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Operates on Nar Shaddaa during KOTOR II",
+    "Navigates Exchange hunter politics",
+    "Selective contract work",
+    "Surik crew orbit interactions",
+    "Hunter-smuggler hybrid model"
+  ],
+  "affiliations": [
+    "Nar Shaddaa hunter markets",
+    "Exchange (independent contractor)",
+    "KOTOR II smuggling routes",
+    "Refugee network contacts",
+    "Meetra Surik (optional ally)"
+  ],
+  "timeline": [
+    {
+      "era": "Nar Shaddaa",
+      "event": "Hunter-smuggler setup"
+    },
+    {
+      "era": "Exchange Era",
+      "event": "Independent contracts"
+    },
+    {
+      "era": "KOTOR II",
+      "event": "Surik timeline operations"
+    },
+    {
+      "era": "Neutrality",
+      "event": "Avoids Exchange extremes"
+    },
+    {
+      "era": "Legacy",
+      "event": "Middle-tier hunter model"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/gault-rennow.svg",
+      "caption": "Emblem — Gault Rennow"
+    },
+    {
+      "path": "/images/bounty-hunters/gault-rennow-scene.svg",
+      "caption": "Scene illustration — Gault Rennow"
+    }
+  ]
+}

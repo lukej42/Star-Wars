@@ -1,0 +1,71 @@
+@page "/force-powers/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(power?.Name ?? "Force Power")</PageTitle>
+
+@if (power is null)
+{
+    <h1>Force power not found</h1>
+    <p>Sorry, there are no records for this ability.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading Force power records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@power.Name"
+                          HeroImagePath="@power.SceneImagePath"
+                          HeroImageAlt="@($"Illustration of {power.Name}")"
+                          Subtitle="@($"{SideLabel} · {power.Category}")"
+                          MetaLine="@($"Difficulty: {power.Difficulty} · Sources: {power.Sources}")"
+                          OverviewText="@(profile?.Overview ?? power.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Mastery and doctrine"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@power.Color">
+        @if (power.Side == ForceSide.Light)
+        {
+            <a href="all-light-side-powers">Back to all Light Side powers</a>
+        }
+        else
+        {
+            <a href="all-dark-side-powers">Back to all Dark Side powers</a>
+        }
+        ·
+        <a href="all-force-powers">All Force powers</a>
+    </DirectoryDetailShell>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private ForcePower? power;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    private string SideLabel => power?.Side == ForceSide.Light ? "Light Side" : "Dark Side";
+
+    protected override async Task OnParametersSetAsync()
+    {
+        power = ForcePowerData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (power is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("force-powers", power.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

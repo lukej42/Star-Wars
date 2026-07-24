@@ -1,0 +1,51 @@
+{
+  "overview": "Fennec Shand is a master assassin from Unknown, documented across Mandalorian · Book of Boba Fett · Bad Batch. Precision sniper who survived Tatooine's Dune Sea and became Boba Fett's Daimyo enforcer.",
+  "history": "Fennec Shand rose from Unknown to become a master assassin whose name appears on guild boards from the Core to the Outer Rim. Fennec Shand built reputation as a Core-tier assassin before Toro Calican's betrayal left her wounded in Tatooine's Dune Sea, where Boba Fett's rescue forged an alliance. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Fennec Shand as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Fennec Shand's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Assassin guilds from Coruscant to Muunilinst maintained sniper cadres centuries before Fennec; TOR-era Imperial Intelligence used similar precision contractors. Old Republic bounty charters and Sith Empire mercenary rolls show how master assassin contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Fennec Shand negotiate payment and honor.\n\nIn the modern era, Fennec Shand competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Rebuilt with cybernetic enhancements, Fennec became Boba Fett's Daimyo lieutenant, killing Bib Fortuna's guards and coordinating Mos Espa defense against Pyke syndicate forces. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Fennec Shand. Mandalorian-era postings on Nevarro and Mos Espa show master assassin specialists remain essential to galactic order—and chaos.\n\nFennec Shand operated in war zones where capture alive paid more than kill, and both paid more than failure. Fennec hunted Grogu for Imperial remnant clients, survived Dune Sea wounds, executed Toro Calican, and led tactical operations during Boba's Mos Espa power grab. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of master assassin hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Fennec Shand's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Fennec Shand as a master assassin relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Long-range sniper precision, cybernetic enhancement after Dune Sea trauma, close-quarters bladed combat, and tactical coordination—Fennec combines assassin patience with enforcer loyalty. Guild instructors use redacted mission logs from Fennec Shand's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Fennec Shand often know smuggler routes better than naval patrols.\n\nAmong peers, Fennec Shand earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Toro Calican called her the finest assassin in the sector; Boba trusted her with Daimyo operations; Pyke capos learned to fear her rooftop overwatch. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Fennec Shand that may be half true and fully instructive. Whether Fennec Shand followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Fennec Shand exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Fennec's partnership stabilized Boba Fett's Daimyo transition; her survival and enhancement arc exemplifies post-Empire hunter reinvention on Tatooine. Without contractors like Fennec Shand, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Fennec Shand when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Hunted as elite Core assassin",
+    "Wounded and left in Tatooine Dune Sea",
+    "Rescued and allied with Boba Fett",
+    "Kills Toro Calican in revenge",
+    "Serves as Mos Espa Daimyo lieutenant"
+  ],
+  "affiliations": [
+    "Boba Fett's court",
+    "Mos Espa Daimyo administration",
+    "Bounty Hunters' Guild (former)",
+    "Cybernetic enhancement clinics",
+    "Tatooine crime syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Core Assassin",
+      "event": "Elite sniper reputation"
+    },
+    {
+      "era": "Dune Sea",
+      "event": "Betrayed by Toro Calican"
+    },
+    {
+      "era": "Rescue",
+      "event": "Boba Fett alliance"
+    },
+    {
+      "era": "Revenge",
+      "event": "Kills Toro Calican"
+    },
+    {
+      "era": "Book of Boba Fett",
+      "event": "Daimyo enforcer"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/fennec-shand.svg",
+      "caption": "Emblem — Fennec Shand"
+    },
+    {
+      "path": "/images/bounty-hunters/fennec-shand-scene.svg",
+      "caption": "Scene illustration — Fennec Shand"
+    }
+  ]
+}

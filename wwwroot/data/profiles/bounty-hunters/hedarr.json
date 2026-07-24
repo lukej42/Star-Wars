@@ -1,0 +1,45 @@
+{
+  "overview": "Hedarr is a trandoshan great hunt hunter from Trandosha, documented across Star Wars: The Old Republic. Trandoshan competitor in the SWTOR Great Hunt who brought scorekeeper trophy rituals to the galaxy's most public hunter tournament.",
+  "history": "Hedarr rose from Trandosha to become a trandoshan great hunt hunter whose name appears on guild boards from the Core to the Outer Rim. Hedarr entered the Great Hunt to prove Trandoshan scorekeeper traditions could dominate Dromund Kaas tournament brackets against Mandalorian and cyborg rivals. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Hedarr as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Hedarr's career, Trandosha produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Trandosha supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Hedarr posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how trandoshan great hunt hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Hedarr negotiate payment and honor.\n\nIn the modern era, Hedarr competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Hedarr remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Hedarr. Mandalorian-era postings on Nevarro and Mos Espa show trandoshan great hunt hunter specialists remain essential to galactic order—and chaos.\n\nHedarr operated in war zones where capture alive paid more than kill, and both paid more than failure. Hedarr eliminated multiple Hunt competitors using trophy-capture methods that horrified Republic spectators but impressed guild elders. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of trandoshan great hunt hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Hedarr's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Hedarr as a trandoshan great hunt hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Scorekeeper nets, trophy manacles, Trandoshan pack psychology, and Great Hunt arena adaptation. Guild instructors use redacted mission logs from Hedarr's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Hedarr often know smuggler routes better than naval patrols.\n\nAmong peers, Hedarr earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Hedarr as a trandoshan great hunt hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Hedarr that may be half true and fully instructive. Whether Hedarr followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Hedarr exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Hedarr's captures and eliminations shifted local power wherever Trandosha expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Hedarr, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Hedarr when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Scorekeeper lodge champion on Trandosha",
+    "Great Hunt tournament entry",
+    "Eliminates multiple Hunt rivals",
+    "Public Trandoshan hunter representation"
+  ],
+  "affiliations": [
+    "Trandoshan scorekeepers",
+    "Great Hunt tournament",
+    "Bounty Hunters' Guild",
+    "Dromund Kaas lodges"
+  ],
+  "timeline": [
+    {
+      "era": "Trandosha",
+      "event": "Lodge champion"
+    },
+    {
+      "era": "Great Hunt",
+      "event": "Tournament entry"
+    },
+    {
+      "era": "Arena",
+      "event": "Rival eliminations"
+    },
+    {
+      "era": "Legacy",
+      "event": "SWTOR Trandoshan icon"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/hedarr.svg",
+      "caption": "Emblem — Hedarr"
+    },
+    {
+      "path": "/images/bounty-hunters/hedarr-scene.svg",
+      "caption": "Scene illustration — Hedarr"
+    }
+  ]
+}

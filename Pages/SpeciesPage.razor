@@ -1,0 +1,60 @@
+@page "/species/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(species?.Name ?? "Species")</PageTitle>
+
+@if (species is null)
+{
+    <h1>Species not found</h1>
+    <p>Sorry, there are no records for this species.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading species records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@species.Name"
+                          HeroImagePath="@species.SceneImagePath"
+                          HeroImageAlt="@($"Illustration of a {species.Name}")"
+                          Subtitle="@($"{species.Classification} · {species.Homeworld}")"
+                          MetaLine="@($"Sources: {species.Sources}")"
+                          OverviewText="@(profile?.Overview ?? species.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Biology and galactic impact"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@species.Color">
+        <a href="all-species">Back to all species</a>
+    </DirectoryDetailShell>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private Species? species;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        species = SpeciesData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (species is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("species", species.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

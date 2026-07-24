@@ -1,0 +1,51 @@
+{
+  "overview": "Kessel Spice Mines is a penal mining complex on Kessel, documented across Solo · Rebels. Kessel's underground spice mines enslaved prisoners until the Pyke syndicate and later Rebellion raids disrupted operations.",
+  "history": "Kessel Spice Mines began as a penal mining complex anchor on Kessel, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Kessel Spice Mines began as a strategic anchor on Kessel, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Kessel Spice Mines as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Kessel Spice Mines as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Kessel Spice Mines include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Kessel Spice Mines include ward-stones and battle markers from Sith and Jedi campaigns on Kessel. High Republic pathfinders logged Kessel Spice Mines as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Kessel suggest Kessel Spice Mines once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Kessel Spice Mines expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Kessel Spice Mines appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Kessel Spice Mines because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Kessel Spice Mines as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nKessel Spice Mines has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Kessel Spice Mines as contested territory on Kessel. Clone Wars dossiers mark Kessel Spice Mines as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Kessel Spice Mines meant control of Kessel.",
+  "significance": "The economy of Kessel Spice Mines runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Kessel Spice Mines runs on local industry, trade tariffs, and black-market mediation typical of Kessel. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Kessel Spice Mines infrastructure during the late Republic. Post-war reconstruction funds often bypass Kessel Spice Mines officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Kessel Spice Mines mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Kessel Spice Mines preserve Kessel rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Kessel Spice Mines are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Kessel Spice Mines back alleys.\n\nKessel Spice Mines influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Kessel Spice Mines when tracing how Kessel influenced sector-wide treaties and fleet movements. Scenes set in Kessel Spice Mines across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Kessel Spice Mines when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Kessel Spice Mines founded on Kessel",
+    "Recorded siege or battle at Kessel Spice Mines",
+    "Occupation forces restructure Kessel Spice Mines",
+    "Underground resistance operates from Kessel Spice Mines",
+    "Post-war memorialization of Kessel Spice Mines"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Kessel governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Kessel Spice Mines"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Kessel Spice Mines"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Kessel Spice Mines"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Kessel Spice Mines"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Kessel Spice Mines"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/kessel-spice-mines.svg",
+      "caption": "Emblem — Kessel Spice Mines"
+    },
+    {
+      "path": "/images/settlements/kessel-spice-mines-scene.svg",
+      "caption": "Scene illustration — Kessel Spice Mines"
+    }
+  ]
+}

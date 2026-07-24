@@ -1,0 +1,49 @@
+{
+  "overview": "Whiphid (Humanoid mammal) is native to Toola and ranks among the most consequential species in galactic history. Whiphids are tusked, fur-covered giants from frozen Toola who work as hunters and enforcers in Rim cantinas. Their size and ice-planet endurance mirror Wookiee strength but with predatory trade in megafauna trophies.",
+  "history": "The Whiphid (humanoid mammal) trace their deepest roots to Toola, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Toola and Jedi Archaeological surveys confirm Whiphid civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Whiphid populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Whiphid history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Whiphid societies on Toola established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Whiphid polities traded with Core Founders and Sith Empire emissaries; ruins on Toola still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Whiphid identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Whiphid delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Whiphid diaspora communities appeared on every major trade lane and war front. Modern Whiphid appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Whiphid bounty crews remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Whiphid networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Whiphid migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nWhiphid fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Whiphid fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Toola's terrain and humanoid mammal biology. KOTOR and KOTOR II document Whiphid involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Whiphid leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Whiphid display traits typical of humanoid mammal life adapted to Toola's gravity, atmosphere, and seasonal extremes. tusks and blubber insulation. Republic medics and Imperial biometrics both document Whiphid resilience under occupation, exile, and frontline trauma. Medics note that Whiphid physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Whiphid resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nWhiphid culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. ice-shelf nomad clans. Whiphid diaspora communities preserve homeworld ritual even when Toola itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Whiphid spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Whiphid communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Whiphid exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Whiphid merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Whiphid innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Whiphid choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Whiphid hunters trade Toola ivory on Nar Shaddaa",
+    "Cantina enforcers recruit Whiphid muscle",
+    "Toola melt-season migrations disrupt Rim supply"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Toola governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Whiphid consolidate early civilization on Toola"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Whiphid join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Whiphid factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Whiphid identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Whiphid political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/whiphid.svg",
+      "caption": "Emblem — Whiphid"
+    },
+    {
+      "path": "/images/species/whiphid-scene.svg",
+      "caption": "Scene illustration — Whiphid"
+    }
+  ]
+}

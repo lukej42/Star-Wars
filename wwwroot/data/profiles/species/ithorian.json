@@ -1,0 +1,51 @@
+{
+  "overview": "Ithorian (Humanoid mammal) is native to Ithor and ranks among the most consequential species in galactic history. Ithorians are peaceful gardeners from Ithor whose twin mouths produce harmonic speech and whose herd ships spread botanical restoration across devastated worlds.",
+  "history": "The Ithorian (humanoid mammal) trace their deepest roots to Ithor, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Ithorian evolutionary history on Ithor intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Ithorian populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Ithorian history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Ithorian societies on Ithor established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Ithorian polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Ithor ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Ithorian identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Ithorian delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Ithorian diaspora communities appeared on every major trade lane and war front. Modern Ithorian diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Ithorian networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Ithorian migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nIthorian fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Ithorian veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Ithor's geography. KOTOR and KOTOR II document Ithorian involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Ithorian leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Ithorian display traits typical of humanoid mammal life adapted to Ithor's gravity, atmosphere, and seasonal extremes. Ithorian physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Ithorian physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Ithorian resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nIthorian culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Ithorian rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Ithor accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Ithorian spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Ithorian communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Ithorian exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Ithorian merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Ithorian innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Ithorian choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Ithorian homeworld first mapped by Republic surveyors",
+    "Notable Ithorian leaders emerge during Clone Wars",
+    "Ithorian communities resist Imperial occupation policies",
+    "KOTOR-era Ithorian figures influence Jedi Civil War",
+    "New Republic restores Ithorian representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Ithor governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Ithorian civilization consolidates on Ithor"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Ithorian join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Ithorian factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Ithorian identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Ithorian"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/ithorian.svg",
+      "caption": "Emblem — Ithorian"
+    },
+    {
+      "path": "/images/species/ithorian-scene.svg",
+      "caption": "Scene illustration — Ithorian"
+    }
+  ]
+}

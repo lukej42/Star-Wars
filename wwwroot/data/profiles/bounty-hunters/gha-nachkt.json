@@ -1,0 +1,45 @@
+{
+  "overview": "Gha Nachkt is a trandoshan bounty hunter from Trandosha, documented across Clone Wars. Trandoshan scavenger-hunter who sold captured droids on Ruusan black markets during the Clone Wars.",
+  "history": "Gha Nachkt rose from Trandosha to become a trandoshan bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Gha Nachkt combined scavenging and bounty work, capturing astromech droids and selling them to Separatist buyers when Republic salvage law failed to reach Rim junkyards. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Gha Nachkt as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Gha Nachkt's career, Trandosha produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Trandosha supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Gha Nachkt posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how trandoshan bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Gha Nachkt negotiate payment and honor.\n\nIn the modern era, Gha Nachkt competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Gha Nachkt remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Gha Nachkt. Mandalorian-era postings on Nevarro and Mos Espa show trandoshan bounty hunter specialists remain essential to galactic order—and chaos.\n\nGha Nachkt operated in war zones where capture alive paid more than kill, and both paid more than failure. Nachkt hunted Republic droids during Clone Wars salvage operations, treating droid capture as profitable puck work on Ruusan and Mid Rim depots. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of trandoshan bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Gha Nachkt's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Gha Nachkt as a trandoshan bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Droid capture nets, salvage yard operations, Trandoshan boarding tactics, and black-market droid resale. Guild instructors use redacted mission logs from Gha Nachkt's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Gha Nachkt often know smuggler routes better than naval patrols.\n\nAmong peers, Gha Nachkt earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Gha Nachkt as a trandoshan bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Gha Nachkt that may be half true and fully instructive. Whether Gha Nachkt followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Gha Nachkt exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Gha Nachkt's captures and eliminations shifted local power wherever Trandosha expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Gha Nachkt, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Gha Nachkt when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Ruusan salvage-hunter operations",
+    "Droid capture and resale contracts",
+    "Clone Wars astromech hunts",
+    "Separatist buyer network service"
+  ],
+  "affiliations": [
+    "Ruusan salvage markets",
+    "Separatist buyers",
+    "Trandoshan scavenger guilds",
+    "Bounty Hunters' Guild"
+  ],
+  "timeline": [
+    {
+      "era": "Trandosha",
+      "event": "Scavenger origins"
+    },
+    {
+      "era": "Ruusan",
+      "event": "Salvage operations"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Droid captures"
+    },
+    {
+      "era": "Legacy",
+      "event": "Scavenger-hunter icon"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/gha-nachkt.svg",
+      "caption": "Emblem — Gha Nachkt"
+    },
+    {
+      "path": "/images/bounty-hunters/gha-nachkt-scene.svg",
+      "caption": "Scene illustration — Gha Nachkt"
+    }
+  ]
+}

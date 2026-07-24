@@ -1,0 +1,60 @@
+@page "/bounty-hunters/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(hunter?.Name ?? "Bounty Hunter")</PageTitle>
+
+@if (hunter is null)
+{
+    <h1>Bounty hunter not found</h1>
+    <p>Sorry, there are no guild records for this contractor.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading bounty hunter records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@hunter.Name"
+                          HeroImagePath="@hunter.SceneImagePath"
+                          HeroImageAlt="@($"Illustration of {hunter.Name}")"
+                          Subtitle="@($"{hunter.Specialty} · {hunter.Homeworld}")"
+                          MetaLine="@($"Sources: {hunter.Sources}")"
+                          OverviewText="@(profile?.Overview ?? hunter.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Reputation and galactic impact"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@hunter.Color">
+        <a href="all-bounty-hunters">Back to all bounty hunters</a>
+    </DirectoryDetailShell>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private BountyHunter? hunter;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        hunter = BountyHunterData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (hunter is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("bounty-hunters", hunter.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

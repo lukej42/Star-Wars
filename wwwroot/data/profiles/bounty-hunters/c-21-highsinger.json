@@ -1,0 +1,51 @@
+{
+  "overview": "C-21 Highsinger is a assassin droid bounty hunter from Unknown manufacture, documented across Clone Wars. Droid mercenary in Sugi's crew with heavy weapons specialization on Felucia.",
+  "history": "C-21 Highsinger rose from Unknown manufacture to become a assassin droid bounty hunter whose name appears on guild boards from the Core to the Outer Rim. C-21 Highsinger was an assassin droid mercenary Sugi recruited for heavy weapons support—providing firepower Embo's silence and Rumi's sniper overwatch couldn't deliver on Felucia. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document C-21 Highsinger as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before C-21 Highsinger's career, Unknown manufacture produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Assassin droid mercenary markets on Nar Shaddaa supplied Clone Wars crew hunters; Highsinger represents droid squad integration predating IG-11's Mandalorian arc. Old Republic bounty charters and Sith Empire mercenary rolls show how assassin droid bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like C-21 Highsinger negotiate payment and honor.\n\nIn the modern era, C-21 Highsinger competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Highsinger's Felucia deployment with Sugi's crew demonstrated droid heavy-weapons specialists in farmer-defense contracts against Hondo Ohnaka's pirates. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to C-21 Highsinger. Mandalorian-era postings on Nevarro and Mos Espa show assassin droid bounty hunter specialists remain essential to galactic order—and chaos.\n\nC-21 Highsinger operated in war zones where capture alive paid more than kill, and both paid more than failure. Highsinger fought Hondo's pirate assault on Felucian nerf herders, providing suppressive fire while Sugi coordinated ground defense and Embo flanked attackers. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of assassin droid bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear C-21 Highsinger's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify C-21 Highsinger as a assassin droid bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Heavy repeating blasters, droid durability, squad fire support, and mercenary programming—Highsinger delivers volume of fire over precision. Guild instructors use redacted mission logs from C-21 Highsinger's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like C-21 Highsinger often know smuggler routes better than naval patrols.\n\nAmong peers, C-21 Highsinger earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Sugi relied on Highsinger for pirate battles; guild brokers note droid heavy-gunners as cost-effective crew additions for Rim defense contracts. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about C-21 Highsinger that may be half true and fully instructive. Whether C-21 Highsinger followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of C-21 Highsinger exceeds credit totals: key captures, assassinations, and rescues altered the timeline. C-21 Highsinger validated droid heavy-weapons roles in hunter mercenary crews—a template for later Mandalorian-era assassin droid contracts. Without contractors like C-21 Highsinger, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite C-21 Highsinger when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Recruited into Sugi's mercenary crew",
+    "Deploys on Felucian farmer defense",
+    "Provides heavy fire against Hondo's pirates",
+    "Supports Embo and Rumi Paramita",
+    "Droid mercenary crew model"
+  ],
+  "affiliations": [
+    "Sugi's mercenary crew",
+    "Bounty Hunters' Guild",
+    "Felucian defense contract",
+    "Embo partnership (crew)",
+    "Assassin droid manufacturing"
+  ],
+  "timeline": [
+    {
+      "era": "Recruitment",
+      "event": "Joins Sugi's crew"
+    },
+    {
+      "era": "Felucia",
+      "event": "Farmer defense deployment"
+    },
+    {
+      "era": "Pirate Battle",
+      "event": "Heavy weapons support"
+    },
+    {
+      "era": "Crew Ops",
+      "event": "Mercenary fire team"
+    },
+    {
+      "era": "Legacy",
+      "event": "Droid crew gunner model"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/c-21-highsinger.svg",
+      "caption": "Emblem — C-21 Highsinger"
+    },
+    {
+      "path": "/images/bounty-hunters/c-21-highsinger-scene.svg",
+      "caption": "Scene illustration — C-21 Highsinger"
+    }
+  ]
+}

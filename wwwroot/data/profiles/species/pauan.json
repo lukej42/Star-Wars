@@ -1,0 +1,51 @@
+{
+  "overview": "Pau'an (Humanoid mammal) is native to Utapau and ranks among the most consequential species in galactic history. Pau'ans from Utapau's sinkhole cities are gaunt long-lived administrators; Tion Medon welcomed Obi-Wan to Pau City during the Clone Wars' final hunt for Grievous.",
+  "history": "The Pau'an (humanoid mammal) trace their deepest roots to Utapau, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Pau'an evolutionary history on Utapau intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Pau'an populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Pau'an history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Pau'an societies on Utapau established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Pau'an polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Utapau ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Pau'an identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Pau'an delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Pau'an diaspora communities appeared on every major trade lane and war front. Modern Pau'an diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Pau'an networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Pau'an migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nPau'an fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Pau'an veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Utapau's geography. KOTOR and KOTOR II document Pau'an involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Pau'an leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Pau'an display traits typical of humanoid mammal life adapted to Utapau's gravity, atmosphere, and seasonal extremes. Pau'an physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Pau'an physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Pau'an resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nPau'an culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Pau'an rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Utapau accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Pau'an spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Pau'an communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Pau'an exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Pau'an merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Pau'an innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Pau'an choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Pau'an homeworld first mapped by Republic surveyors",
+    "Notable Pau'an leaders emerge during Clone Wars",
+    "Pau'an communities resist Imperial occupation policies",
+    "KOTOR-era Pau'an figures influence Jedi Civil War",
+    "New Republic restores Pau'an representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Utapau governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Pau'an civilization consolidates on Utapau"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Pau'an join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Pau'an factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Pau'an identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Pau'an"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/pauan.svg",
+      "caption": "Emblem — Pau'an"
+    },
+    {
+      "path": "/images/species/pauan-scene.svg",
+      "caption": "Scene illustration — Pau'an"
+    }
+  ]
+}

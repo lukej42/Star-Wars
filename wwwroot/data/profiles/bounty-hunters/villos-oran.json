@@ -1,0 +1,45 @@
+{
+  "overview": "Villos Oran is a chiss bounty hunter from Csilla, documented across Expanded lore · Thrawn adjacent. Chiss precision hunter who exported Ascendancy tracking doctrine to Republic-era guild markets under strict neutrality contracts.",
+  "history": "Villos Oran rose from Csilla to become a chiss bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Villos Oran left Csilla on deniable Ascendancy contracts, selling Chiss precision pursuit to clients who needed hunter work without diplomatic attribution. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Villos Oran as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Villos Oran's career, Csilla produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Csilla supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Villos Oran posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how chiss bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Villos Oran negotiate payment and honor.\n\nIn the modern era, Villos Oran competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Villos Oran remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Villos Oran. Mandalorian-era postings on Nevarro and Mos Espa show chiss bounty hunter specialists remain essential to galactic order—and chaos.\n\nVillos Oran operated in war zones where capture alive paid more than kill, and both paid more than failure. Oran tracked smuggler convoys and Separatist agents along the Unknown Regions border when Republic brokers paid premium for Chiss accuracy. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of chiss bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Villos Oran's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Villos Oran as a chiss bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Chiss precision targeting, Unknown Regions navigation, deniable Ascendancy contracts, and cold-logic pursuit planning. Guild instructors use redacted mission logs from Villos Oran's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Villos Oran often know smuggler routes better than naval patrols.\n\nAmong peers, Villos Oran earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Villos Oran as a chiss bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Villos Oran that may be half true and fully instructive. Whether Villos Oran followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Villos Oran exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Villos Oran's captures and eliminations shifted local power wherever Csilla expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Villos Oran, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Villos Oran when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Csilla Ascendancy hunter training",
+    "Deniable Republic border contracts",
+    "Separatist agent pursuits",
+    "Unknown Regions navigation expertise"
+  ],
+  "affiliations": [
+    "Chiss Ascendancy (deniable)",
+    "Bounty Hunters' Guild",
+    "Republic border brokers",
+    "Unknown Regions navigators"
+  ],
+  "timeline": [
+    {
+      "era": "Csilla",
+      "event": "Ascendancy training"
+    },
+    {
+      "era": "Border",
+      "event": "Deniable contracts"
+    },
+    {
+      "era": "Pursuits",
+      "event": "Agent hunts"
+    },
+    {
+      "era": "Legacy",
+      "event": "Chiss hunter export"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/villos-oran.svg",
+      "caption": "Emblem — Villos Oran"
+    },
+    {
+      "path": "/images/bounty-hunters/villos-oran-scene.svg",
+      "caption": "Scene illustration — Villos Oran"
+    }
+  ]
+}

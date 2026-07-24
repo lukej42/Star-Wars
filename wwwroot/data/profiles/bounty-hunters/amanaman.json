@@ -1,0 +1,51 @@
+{
+  "overview": "Amanaman is a snivvian bounty hunter from Cadomai Prime, documented across Return of the Jedi. Snivvian hunter present in Jabba's palace during Return of the Jedi.",
+  "history": "Amanaman rose from Cadomai Prime to become a snivvian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Amanaman, Snivvian hunter from Cadomai Prime, occupied Jabba's palace court during Return of the Jedi—silent Snivvian presence among Hutt criminal hunter retinue. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Amanaman as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Amanaman's career, Cadomai Prime produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Cadomai Prime Snivvian hunters serve Hutt courts across eras; Amanaman represents background palace hunter retinue during saga's Tatooine criminal climax. Old Republic bounty charters and Sith Empire mercenary rolls show how snivvian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Amanaman negotiate payment and honor.\n\nIn the modern era, Amanaman competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Amanaman's Jabba palace presence during Solo rescue and sail barge battle places him in saga's most documented Hutt hunter court scene. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Amanaman. Mandalorian-era postings on Nevarro and Mos Espa show snivvian bounty hunter specialists remain essential to galactic order—and chaos.\n\nAmanaman operated in war zones where capture alive paid more than kill, and both paid more than failure. Amanaman witnessed palace chaos during Luke's rescue attempt, sail barge departure, and Jabba's death—Snivvian hunter observing Hutt empire collapse. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of snivvian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Amanaman's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Amanaman as a snivvian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Snivvian silent observation, palace court presence as intimidation, Hutt retinue hunter standby, and Cadomai Prime tracking traditions. Guild instructors use redacted mission logs from Amanaman's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Amanaman often know smuggler routes better than naval patrols.\n\nAmong peers, Amanaman earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Jabba's court included Amanaman among diverse hunter retinue; palace witnesses remember Snivvian silhouette during sail barge events. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Amanaman that may be half true and fully instructive. Whether Amanaman followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Amanaman exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Amanaman documents Snivvian hunter integration in Hutt court retinue—background species presence in saga's definitive criminal hunter gathering. Without contractors like Amanaman, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Amanaman when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Serves in Jabba's palace hunter retinue",
+    "Present during Han Solo rescue attempt",
+    "Witnesses sail barge departure",
+    "Observes Jabba's death and court collapse",
+    "Snivvian palace hunter documentation"
+  ],
+  "affiliations": [
+    "Jabba the Hutt's court",
+    "Cadomai Prime Snivvian hunters",
+    "Tatooine criminal retinue",
+    "Hutt Cartel enforcement",
+    "Sail barge court"
+  ],
+  "timeline": [
+    {
+      "era": "Cadomai Prime",
+      "event": "Snivvian hunter origins"
+    },
+    {
+      "era": "Jabba Court",
+      "event": "Palace retinue service"
+    },
+    {
+      "era": "Rescue Attempt",
+      "event": "Luke's palace infiltration"
+    },
+    {
+      "era": "Sail Barge",
+      "event": "Departure and battle"
+    },
+    {
+      "era": "Collapse",
+      "event": "Jabba's death aftermath"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/amanaman.svg",
+      "caption": "Emblem — Amanaman"
+    },
+    {
+      "path": "/images/bounty-hunters/amanaman-scene.svg",
+      "caption": "Scene illustration — Amanaman"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "Firefighter B1 is a firefighter battle droid built by Baktoid Combat Automata, documented across Clone Wars. B1 variants equipped with fire suppression gear deployed aboard Separatist vessels and flammable industrial facilities.",
+  "history": "Firefighter B1 belongs to the firefighter battle droid class manufactured by Baktoid Combat Automata, one of the most recognizable automaton designs documented across galactic history. Firefighter B1 droids carry suppression equipment for Separatist vessel and factory fire emergencies. Baktoid Combat Automata factory schematics document the firefighter battle droid platform lineage that produced Firefighter B1, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Firefighter B1 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Firefighter B1. Excavations on Taris, Dxun, and Dromund Kaas recovered firefighter battle droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Baktoid Combat Automata subsystems, spreading design language across millennia before Firefighter B1 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Baktoid Combat Automata subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and firefighter battle droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Firefighter B1 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Firefighter B1 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Baktoid Combat Automata frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Baktoid Combat Automata frames. Historians studying the Sequel Era treat surviving Firefighter B1 memory cores as primary sources on earlier conflicts.\n\nFirefighter B1 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Firefighter B1 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of firefighter battle droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Baktoid Combat Automata automata.",
+  "significance": "Engineering analysis of Firefighter B1 highlights why firefighter battle droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Firefighter B1's modular firefighter battle droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Baktoid Combat Automata documentation; slicers praise its predictable security flaws—both keep Firefighter B1 relevant in scrap yards centuries later. New Republic certification boards still debate which firefighter battle droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Firefighter B1 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Firefighter B1 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every firefighter battle droid rights petition involving Baktoid Combat Automata personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Firefighter B1's service record. Whether Firefighter B1 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Firefighter B1 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Firefighter B1; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Firefighter B1, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Baktoid Combat Automata chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Equipped with fire suppression gear on B1 chassis",
+    "Deploys aboard Separatist capital ships",
+    "Protects flammable droid factory facilities",
+    "B1 variant specialized for emergency response",
+    "Clone Wars-era industrial safety droid"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Separatist Navy",
+    "Baktoid Combat Automata",
+    "Techno Union factories",
+    "Geonosian Industries"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Firefighter B1 variant developed"
+    },
+    {
+      "era": "Naval Service",
+      "event": "Deployed on Separatist warships"
+    },
+    {
+      "era": "Factory Worlds",
+      "event": "Protects droid production facilities"
+    },
+    {
+      "era": "Late War",
+      "event": "Standard emergency response droid"
+    },
+    {
+      "era": "Post-War",
+      "event": "Deactivated with B1 army"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/firefighter-b1-scene.png",
+      "caption": "Cinematic illustration — Firefighter B1"
+    }
+  ]
+}

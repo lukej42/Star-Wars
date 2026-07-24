@@ -1,0 +1,45 @@
+{
+  "overview": "Boushh is a ubese bounty hunter from Uba IV, documented across Return of the Jedi · Comics. Ubese warrior whose armor and identity were famously borrowed to infiltrate Jabba's palace during the rescue of Han Solo.",
+  "history": "Boushh rose from Uba IV to become a ubese bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Boushh built a lethal reputation on Uba IV before Imperial isolation policies drove Ubese hunters into Hutt space, where Boushh's armor became synonymous with silent extraction. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Boushh as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Boushh's career, Uba IV produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Uba IV supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Boushh posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how ubese bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Boushh negotiate payment and honor.\n\nIn the modern era, Boushh competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. After the armor's use at Jabba's palace, Ubese hunter gear became among the most counterfeited identities in the guild—every impostor measured against Boushh's original lethality. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Boushh. Mandalorian-era postings on Nevarro and Mos Espa show ubese bounty hunter specialists remain essential to galactic order—and chaos.\n\nBoushh operated in war zones where capture alive paid more than kill, and both paid more than failure. Boushk hunted Black Sun intermediaries on Nar Shaddaa and accepted Jabba-posted pucks before Leia Organa used the armor to breach the Hutt palace with a thermal detonator bluff. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of ubese bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Boushh's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Boushh as a ubese bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Ubese battle armor, vibroblades, thermal detonators, and isolationist clan training—Boushh preferred close-quarters intimidation over prolonged pursuit. Guild instructors use redacted mission logs from Boushh's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Boushh often know smuggler routes better than naval patrols.\n\nAmong peers, Boushh earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Boushh as a ubese bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Boushh that may be half true and fully instructive. Whether Boushh followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Boushh exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Boushh's captures and eliminations shifted local power wherever Uba IV expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Boushh, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Boushh when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Earns Ubese clan hunter prestige on Uba IV",
+    "Posts bounties in Hutt space",
+    "Armor used in Jabba palace infiltration",
+    "Identity becomes guild legend and forgery target"
+  ],
+  "affiliations": [
+    "Ubese hunter clans",
+    "Black Sun (targets)",
+    "Jabba the Hutt's court (contracted)",
+    "Bounty Hunters' Guild"
+  ],
+  "timeline": [
+    {
+      "era": "Uba IV",
+      "event": "Clan hunter training"
+    },
+    {
+      "era": "Hutt Space",
+      "event": "Independent contracts"
+    },
+    {
+      "era": "Jabba Era",
+      "event": "Palace court presence"
+    },
+    {
+      "era": "Legacy",
+      "event": "Armor iconography"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/boushh.svg",
+      "caption": "Emblem — Boushh"
+    },
+    {
+      "path": "/images/bounty-hunters/boushh-scene.svg",
+      "caption": "Scene illustration — Boushh"
+    }
+  ]
+}

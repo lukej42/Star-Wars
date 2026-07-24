@@ -1,0 +1,51 @@
+{
+  "overview": "IG-11 is a nurse droid turned hunter from Unknown manufacture, documented across Mandalorian. Assassin droid reprogrammed to protect Grogu after Nevarro guild contract went sideways.",
+  "history": "IG-11 rose from Unknown manufacture to become a nurse droid turned hunter whose name appears on guild boards from the Core to the Outer Rim. IG-11 was an assassin droid activated for Greef Karga's Grogu contract on Nevarro; after Din Djarin destroyed and Kuiil reprogrammed him, IG-11 became Grogu's nurse-droid protector until sacrificing himself against Imperial forces. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document IG-11 as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before IG-11's career, Unknown manufacture produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Assassin droid reprogramming traditions on Nevarro follow Nar Shaddaa modification culture; IG-11's nurse protocol inversion mirrors 4-LOM's hunter rewiring generations earlier. Old Republic bounty charters and Sith Empire mercenary rolls show how nurse droid turned hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like IG-11 negotiate payment and honor.\n\nIn the modern era, IG-11 competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. IG-11's Mandalorian arc from hunter to protector to sacrificial hero defined droid character depth and launched Grogu protection narrative alongside Din Djarin. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to IG-11. Mandalorian-era postings on Nevarro and Mos Espa show nurse droid turned hunter specialists remain essential to galactic order—and chaos.\n\nIG-11 operated in war zones where capture alive paid more than kill, and both paid more than failure. IG-11 fought Din Djarin as assassin, served Kuiil's reprogramming on Nevarro, nursed Grogu, and self-destructed holding off Imperial remnant troopers for crew escape. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of nurse droid turned hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear IG-11's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify IG-11 as a nurse droid turned hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Assassin droid precision (pre-reprogram), nurse protocol caregiving (post-reprogram), self-destruct sacrificial combat—IG-11's methods transformed entirely mid-arc. Guild instructors use redacted mission logs from IG-11's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like IG-11 often know smuggler routes better than naval patrols.\n\nAmong peers, IG-11 earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Greef Karga deployed IG-11 as reliable assassin; Kuiil trusted his reprogramming; Din honored IG-11's sacrifice; Nevarro remembers him as Grogu's protector droid. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about IG-11 that may be half true and fully instructive. Whether IG-11 followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of IG-11 exceeds credit totals: key captures, assassinations, and rescues altered the timeline. IG-11's sacrifice enabled Din Djarin and Grogu to escape Nevarro—catalyzing Mandalorian series central relationship and droid hunter reprogramming theme. Without contractors like IG-11, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite IG-11 when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Activated for Grogu assassin contract",
+    "Fights Din Djarin on Nevarro",
+    "Reprogrammed by Kuiil as nurse droid",
+    "Protects Grogu from Imperial forces",
+    "Self-destructs enabling crew escape"
+  ],
+  "affiliations": [
+    "Nevarro Bounty Hunters' Guild (contracted)",
+    "Kuiil reprogramming",
+    "Din Djarin (former target/ally)",
+    "Grogu protection detail",
+    "Imperial remnant (opposed)"
+  ],
+  "timeline": [
+    {
+      "era": "Activation",
+      "event": "Grogu assassin contract"
+    },
+    {
+      "era": "Nevarro Fight",
+      "event": "Battles Din Djarin"
+    },
+    {
+      "era": "Reprogramming",
+      "event": "Kuiil nurse protocol"
+    },
+    {
+      "era": "Protection",
+      "event": "Grogu nurse droid"
+    },
+    {
+      "era": "Sacrifice",
+      "event": "Self-destruct for escape"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/ig-11.svg",
+      "caption": "Emblem — IG-11"
+    },
+    {
+      "path": "/images/bounty-hunters/ig-11-scene.svg",
+      "caption": "Scene illustration — IG-11"
+    }
+  ]
+}

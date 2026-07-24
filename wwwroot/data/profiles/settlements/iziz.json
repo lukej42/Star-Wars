@@ -1,0 +1,51 @@
+{
+  "overview": "Iziz is a walled capital on Onderon, documented across Clone Wars · KOTOR references. Iziz on Onderon maintained beast-rider traditions and Royalist politics through Clone Wars sieges and ancient Sith tomb influence.",
+  "history": "Iziz began as a walled capital anchor on Onderon, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Iziz grew where Onderon's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a walled capital that outlasted first founders. Early survey maps from the Old Republic era list Iziz as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Iziz as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Iziz include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Iziz include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Iziz as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Onderon suggest Iziz once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Iziz expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Iziz; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Iziz because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Iziz as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nIziz has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Iziz as strategically contested on Onderon. Clone Wars dossiers mark Iziz as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Iziz meant control of Onderon.",
+  "significance": "The economy of Iziz runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Iziz's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Iziz infrastructure during the late Republic. Post-war reconstruction funds often bypass Iziz officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Iziz mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Iziz blend Onderon native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Iziz are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Iziz back alleys.\n\nIziz influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Iziz altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Iziz across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Iziz when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Iziz founded as walled capital on Onderon",
+    "Major battle or siege recorded at Iziz",
+    "Imperial occupation transforms Iziz governance",
+    "Rebel or Resistance cell operates from Iziz",
+    "New Republic era reconstruction begins at Iziz"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Iziz"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Iziz joins sector trade networks on Onderon"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Iziz triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Iziz"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Iziz"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/iziz.svg",
+      "caption": "Emblem — Iziz"
+    },
+    {
+      "path": "/images/settlements/iziz-scene.svg",
+      "caption": "Scene illustration — Iziz"
+    }
+  ]
+}

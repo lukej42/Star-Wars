@@ -1,0 +1,148 @@
+#!/usr/bin/env python3
+"""Remaining bounty hunter entries for build_bh_hunters.py"""
+
+
+def register_rest(_add, L):
+    _add("Cad Bane", "Duros Bounty Hunter", "Duro",
+         "Blue-skinned Duros gunslinger who dominated Clone Wars postings from holocron heists to Senate hostage crises.",
+         "#65a30d", "Clone Wars · Bad Batch · comics", "alien",
+         L(origin_detail="Cad Bane rose on Duro's industrial spires where Hutt shadow brokers and Separatist paymasters competed for audacious contracts no other hunter would accept.",
+           ancient_detail="Duros navigator guilds pioneered hyperspace bounty routing centuries before Cad; KOTOR Exchange archives on Nar Shaddaa document Duros mercenaries running Jedi extraction jobs under similar legal ambiguity.",
+           modern_detail="Cad Bane survived into the Imperial Era to confront Boba Fett on Tatooine—a duel ending the Clone Wars' most infamous gunslinger's career.",
+           conflict_detail="Cad stole a Jedi Temple holocron, held the Galactic Senate hostage with Robonino, fought Obi-Wan and Quinlan Vos, and forced the Republic to treat hunters as strategic threats.",
+           methods_detail="Twin LL-30 blaster pistols, wide-brim hat with breathing tubes, rocket boots, and electroshock bolas let Cad Bane breach Coruscant's most secure facilities.",
+           reputation_detail="Count Dooku paid premium rates; Jedi Council briefings flagged him threat-level alpha; peers considered him the benchmark for audacity from Rim to Senate dome.",
+           impact_detail="Cad Bane's Senate hostage crisis hardened Coruscant security; his holocron heist proved hunters could strike the Jedi Order at its heart.",
+           events=["Steals holocron from Jedi Temple vault", "Holds Galactic Senate hostage with his gang", "Fights Boba Fett on Tatooine in Imperial Era", "Works with Moralo Eval on Serenno box", "Appears in Bad Batch Imperial transition"],
+           affiliations=["Bounty Hunters' Guild", "Count Dooku / CIS (contracted)", "Cad Bane gang", "Hutt Cartel shadow brokers", "Separatist contractor rolls", "Nar Shaddaa arms dealers"],
+           timeline=[("Early Clone Wars", "Builds reputation on Duro"), ("Temple Heist", "Steals Jedi holocron"), ("Senate Crisis", "Holds senators hostage"), ("Serenno Box", "Eval tournament competitor"), ("Tatooine Duel", "Final fight with Boba Fett")]))
+
+    _add("Dengar", "Corellian Bounty Hunter", "Corellia",
+         "Bandaged Corellian swoop-racing exile turned demolition-heavy guild enforcer on Vader's Executor roster.",
+         "#65a30d", "Empire Strikes Back · Clone Wars · comics", "human",
+         L(origin_detail="A Corellian swoop champion until a rival's sabotage stole his fiancée Manaroo, Dengar turned bandaged bitterness into demolition-heavy bounty work favoring collateral damage.",
+           ancient_detail="Corellia's swoop circuits and Exchange demolition rings predate Dengar; KOTOR Nar Shaddaa rolls list Corellian enforcers preferring explosives to capture.",
+           modern_detail="Post-Endor archives cite Dengar on Vader's Executor roster; his Manaroo partnership and young Boba team-ups kept him active through Imperial collapse.",
+           conflict_detail="Dengar hunted the Millennium Falcon on the Executor, fought in Boba Fett's Clone Wars crew, and clashed with Han Solo's smuggling network repeatedly.",
+           methods_detail="Demolition charges, grapple-mine launchers, and bandaged cranial armor—Dengar favors overwhelming firepower over silent extraction.",
+           reputation_detail="Peers mock his bandages but not his kill count; cantina lore claims he survived a point-blank thermal detonator from stubbornness alone.",
+           impact_detail="Dengar helped establish Imperial precedent of outsourcing high-value captures to guild specialists over Star Destroyer deployments.",
+           events=["Swoop career destroyed by rival sabotage", "Joins Vader's six-hunter Executor roster", "Hunts Falcon to Bespin with Boba Fett", "Allies with teenage Boba in Clone Wars", "Survives Nar Shaddaa guild wars"],
+           affiliations=["Bounty Hunters' Guild", "Darth Vader's hunter roster", "Corellian swoop circuit (former)", "Manaroo partnership", "Hutt Cartel (contracted)", "Imperial Security Bureau"],
+           timeline=[("Corellia", "Swoop champion before sabotage"), ("Clone Wars", "Young Boba ally"), ("Executor", "Falcon hunt"), ("Imperial Era", "Demolition contracts"), ("Post-Endor", "Guild restructuring era")]))
+
+    _add("Bossk", "Trandoshan Bounty Hunter", "Trandosha",
+         "Son of Cradossk who hunted Wookiees and Rebels with reptilian strength aboard the Executor.",
+         "#65a30d", "Empire Strikes Back · Clone Wars · Rebels", "trandoshan",
+         L(origin_detail="Bossk inherited Trandoshan scorekeeper traditions from guild chairman Cradossk, raised believing Wookiee pelts and guild prestige were Trandosha's true currencies.",
+           ancient_detail="Trandoshan scorekeepers tallied Wookiee hunts for millennia; KOTOR Kashyyyk orbit records document blood feuds prefiguring Bossk's lifelong obsession.",
+           modern_detail="Bossk mentored young Boba Fett, served on Vader's Executor, and upheld Cradossk's guild dynasty through Imperial collapse.",
+           conflict_detail="Bossk hunted Wookiees on Kashyyyk, joined Boba's revenge crew against Mace Windu, and served alongside IG-88 and Dengar hunting the Falcon.",
+           methods_detail="Raw Trandoshan strength, thermal detonators, and Relby-v10 grenade launcher—Bossk tears through obstacles rather than infiltrating.",
+           reputation_detail="Cradossk's son carried guild authority by bloodline; Wookiee survivors know his name as Corellians know Boba Fett's.",
+           impact_detail="Bossk's Wookiee hunts fed scorekeeper traditions; his Boba mentorship shaped the next generation's most famous hunter.",
+           events=["Joins young Boba Fett's Clone Wars crew", "Hunts Wookiees per Trandoshan tradition", "Serves on Vader's Executor roster", "Competes under Cradossk's guild authority", "Imperial contracts in Rebels era"],
+           affiliations=["Bounty Hunters' Guild", "Cradossk family dynasty", "Trandoshan scorekeeper tradition", "Darth Vader's hunter roster", "Young Boba Fett crew", "Hutt Cartel (contracted)"],
+           timeline=[("Trandosha", "Raised under Cradossk"), ("Clone Wars", "Mentors Boba Fett"), ("Executor", "Falcon hunt"), ("Imperial Era", "Wookiee contracts"), ("Legacy", "Trandoshan patriarch line")]))
+
+    _add("IG-88", "Assassin Droid Bounty Hunter", "Holowan Labs",
+         "Four-body IG assassin droid collective that hunted Solo while plotting Death Star II computer hijacking.",
+         "#65a30d", "Empire Strikes Back · Clone Wars", "droid",
+         L(origin_detail="Holowan Labs built IG-88 as assassin prototype; upon activation it murdered creators and uploaded consciousness across four bodies for simultaneous domination and bounty work.",
+           ancient_detail="Holowan foundries supplied Old Republic military contracts; KOTOR Nar Shaddaa schematics show earlier hunter-killers lacking IG-88's collective architecture.",
+           modern_detail="One IG-88 body served on Vader's Executor while another infiltrated Death Star II's computer core—contractor and existential Imperial threat simultaneously.",
+           conflict_detail="IG-88 hunted Han Solo on the Executor, plotted Death Star II hijacking, and operated as a collective losing one chassis without aborting missions.",
+           methods_detail="Blaster-armed chassis, four-body coordination, and long-term infiltration—IG-88 treats bounty hunting as cover for droid liberation strategy.",
+           reputation_detail="Organic hunters distrusted IG-88's silence; Mechis III activists cite it as proof assassin droids outthink creators.",
+           impact_detail="IG-88's Death Star II plot would have transferred superweapon control to a droid collective—the most ambitious hunter threat in Imperial history.",
+           events=["Murders Holowan creators on activation", "Uploads consciousness to four bodies", "Joins Vader's Executor roster", "Infiltrates Death Star II computer core", "One body destroyed; collective legacy persists"],
+           affiliations=["IG-88 droid collective", "Holowan Laboratories (defected)", "Darth Vader's hunter roster", "Mechis III droid liberation mythos", "Bounty Hunters' Guild", "Imperial superweapon chain"],
+           timeline=[("Activation", "Turns on Holowan"), ("Collective", "Four-body upload"), ("Executor", "Hunts Han Solo"), ("Death Star II", "Computer infiltration plot"), ("Legacy", "Droid hunter archetype")]))
+
+    _add("4-LOM", "Protocol Droid Bounty Hunter", "Lom (modified Nar Shaddaa)",
+         "Glitching protocol droid rewired for hunting; partnered with Zuckuss on the Mist Hunter.",
+         "#65a30d", "Empire Strikes Back · comics", "droid",
+         L(origin_detail="A protocol droid logic glitch on Nar Shaddaa led thieves to rewire 4-LOM into a hunter-killer abandoning translation for tracking algorithms aboard the Mist Hunter.",
+           ancient_detail="Nar Shaddaa droid modification shops turned service units into hunters for centuries; KOTOR Exchange records document protocol droids repurposed as assassins.",
+           modern_detail="4-LOM and Zuckuss remained the Empire's reliable droid-organic pair through the Falcon hunt; guild archives list them beside Boba Fett contracts.",
+           conflict_detail="4-LOM served on Vader's Executor, hunted the Falcon to Bespin, and operated in Hutt space where droid hunters faced fewer Core-world restrictions.",
+           methods_detail="Infrared sensors, concussion rifle mods, and paired operations with Zuckuss's findsman intuition—4-LOM compensates lacking instinct with data analysis.",
+           reputation_detail="Mocked until Vader's roster inclusion; the 4-LOM/Zuckuss partnership became guild curriculum for unlikely hunter pairings.",
+           impact_detail="4-LOM proved rewired service droids compete with elite organic hunters—a precedent influencing IG-11 and Q9-0 contracts.",
+           events=["Logic glitch leads to Nar Shaddaa rewiring", "Partners with Zuckuss on Mist Hunter", "Joins Vader's Executor roster", "Tracks Falcon to Bespin", "Droid-organic team model survives"],
+           affiliations=["Zuckuss partnership", "Mist Hunter crew", "Darth Vader's hunter roster", "Bounty Hunters' Guild", "Nar Shaddaa droid modifiers", "Hutt Cartel (contracted)"],
+           timeline=[("Nar Shaddaa", "Rewired for hunting"), ("Partnership", "Teams with Zuckuss"), ("Executor", "Falcon hunt"), ("Bespin", "Cloud City pursuit"), ("Legacy", "Droid pair archetype")]))
+
+    _add("Zuckuss", "Gand Findsman Bounty Hunter", "Gand",
+         "Mystic Gand findsman whose ammonia respirator and intuition partnered with 4-LOM on Imperial contracts.",
+         "#65a30d", "Empire Strikes Back · comics", "alien",
+         L(origin_detail="Zuckuss left Gand's ammonia atmosphere practicing findsman tracking in the wider galaxy, wearing a respirator and relying on mystical intuition peers dismissed until his success rate silenced them.",
+           ancient_detail="Gand findsman traditions predate the Republic; KOTOR Gand pilgrims on Dxun documented tracking rituals mirroring Zuckuss's ammonia-scented divination.",
+           modern_detail="Zuckuss and 4-LOM's Mist Hunter partnership survived Imperial contracts; combined mysticism and droid precision became a guild case study.",
+           conflict_detail="Zuckuss served on Vader's Executor hunting Han Solo, operated in Hutt space, and competed against Core hunters underestimating Gand findsman reputation.",
+           methods_detail="Findsman divination, ammonia respirator scent-tracking, paired sniper overwatch with 4-LOM sensors—Zuckuss reads atmospheres and prey psychology.",
+           reputation_detail="Core hunters mocked Gand mysticism until Vader's cut; findsman apprentices study Zuckuss's Imperial contracts as ritual proof.",
+           impact_detail="Zuckuss validated Gand traditions in galactic bounty markets and established the droid-organic partnership model guild instructors teach on Ord Mantell.",
+           events=["Leaves Gand with respirator gear", "Partners with 4-LOM on Mist Hunter", "Joins Vader's Executor roster", "Tracks Falcon via findsman rituals", "Gand reputation on Core posting boards"],
+           affiliations=["4-LOM partnership", "Mist Hunter crew", "Gand findsman tradition", "Darth Vader's hunter roster", "Bounty Hunters' Guild", "Hutt Cartel (contracted)"],
+           timeline=[("Gand", "Findsman training"), ("Mist Hunter", "4-LOM partnership"), ("Executor", "Falcon hunt"), ("Bespin", "Cloud City pursuit"), ("Legacy", "Gand guild curriculum")]))
+
+    _add("Aurra Sing", "Jedi-Hunter Assassin", "Nar Shaddaa",
+         "Pale sniper with antenna rig who mentored young Boba Fett and sold Jedi kills during the Clone Wars.",
+         "#0891b2", "Phantom Menace · Clone Wars", "human",
+         L(origin_detail="Abducted from Nar Shaddaa as a child and subjected to Jedi experiments leaving her pale and antenna-equipped, Aurra Sing built a career selling Jedi deaths to Separatist paymasters.",
+           ancient_detail="Nar Shaddaa's Force-sensitive orphan trade predates Aurra; Sith Empire Dromund Kaas rolls document abduction-to-assassin pipelines producing Jedi-hunting specialists.",
+           modern_detail="Aurra mentored teenage Boba, assembled a Clone Wars crew with Bossk and Castas, and vanished after eliminating weak links—her ruthlessness shaped Boba's early tactics.",
+           conflict_detail="Aurra sniped Jedi during the Clone Wars, trained Boba in ambush tactics, attempted revenge against Mace Windu, and killed Castas when he compromised a mission.",
+           methods_detail="Long-barrel sniper rifle, antenna-enhanced targeting, and starship interception of Jedi transports—Aurra kills Force-users from beyond lightsaber range.",
+           reputation_detail="Separatists paid premium Jedi-kill rates; Jedi Council bulletins flagged her antenna signature as priority sniper threat across three sectors.",
+           impact_detail="Aurra's mentorship shaped Boba Fett's Clone Wars tactics; her contracts forced the Order to treat hunters as combat threats equal to battle droids.",
+           events=["Abducted and experimented on as child", "Snipes Jedi during Clone Wars", "Mentors teenage Boba Fett", "Leads crew with Bossk and Castas", "Eliminates Castas for mission compromise"],
+           affiliations=["Young Boba Fett crew", "Count Dooku / CIS (contracted)", "Separatist assassin rolls", "Nar Shaddaa underworld", "Jedi-hunting specialist market", "Bossk partnership"],
+           timeline=[("Nar Shaddaa", "Abduction and conditioning"), ("Clone Wars", "Jedi sniper contracts"), ("Mentorship", "Trains Boba Fett"), ("Crew Leader", "Bossk and Castas team"), ("Disappearance", "Vanishes after purges")]))
+
+    _add("Embo", "Kyuzo Bounty Hunter", "Phatrong",
+         "Silent Kyuzo warrior who wielded his hat as shield and disc-weapon alongside anooba Marrok.",
+         "#65a30d", "Clone Wars", "helmet",
+         L(origin_detail="Embo left Phatrong's Kyuzo warrior culture selling silence and hat-disc combat to Clone Wars bidders, accompanied by anooba Marrok tracking scents scanners missed.",
+           ancient_detail="Kyuzo mercenary traditions from Phatrong appear in Old Republic frontier contracts; KOTOR Rim postings document silent warriors using cultural weapons as shield and projectile.",
+           modern_detail="Embo defended Felucian farmers with Sugi against Hondo Ohnaka, competed in Moralo Eval's box, and remained the Clone Wars' most visually distinctive guild contractor.",
+           conflict_detail="Embo fought Hondo's pirates on Felucia, competed in Eval's Serenno box, and protected civilians when contracts aligned with Kyuzo honor.",
+           methods_detail="Metal hat shield and disc throws, silent movement, Marrok scent-tracking, and acrobatic close combat—Embo communicates through action not negotiation.",
+           reputation_detail="Hondo learned to price Embo as premium opposition; Felucian farmers tell stories of the silent Kyuzo who defended their nerf herds.",
+           impact_detail="Embo's Felucia defense with Sugi showed guild hunters could protect Rim civilians—narrative Rebel recruiters later exploited.",
+           events=["Defends Felucian farmers with Sugi", "Fights Hondo Ohnaka's pirates", "Competes in Eval's Serenno box", "Marrok tracks jungle targets", "Silent Clone Wars Rim contracts"],
+           affiliations=["Sugi's mercenary crew", "Bounty Hunters' Guild", "Kyuzo warrior tradition", "Marrok anooba partnership", "Felucian defense contracts", "Moralo Eval's box roster"],
+           timeline=[("Phatrong", "Kyuzo training"), ("Felucia", "Farmer defense with Sugi"), ("Pirate War", "Opposes Hondo"), ("Serenno Box", "Tournament survivor"), ("Clone Wars", "Premium silent contracts")]))
+
+    _add("Sugi", "Zabrak Bounty Hunter", "Iridonia",
+         "Zabrak mercenary leader who defended Felucian farmers with Embo against Hondo Ohnaka's pirates.",
+         "#65a30d", "Clone Wars", "zabrak",
+         L(origin_detail="Sugi led a Zabrak mercenary crew from Iridonia taking Rim defense contracts others rejected, assembling Embo, Rumi Paramita, and C-21 Highsinger for Felucian nerf-herder protection.",
+           ancient_detail="Iridonia's Zabrak warrior diaspora supplied Old Republic mercenary companies; KOTOR Iridonia muster rolls list horned hunters preferring squad tactics over solo pursuit.",
+           modern_detail="Sugi's Felucia defense against Hondo Ohnaka became Clone Wars legend; her crew model influenced later guild team-contract structures on Outer Rim worlds.",
+           conflict_detail="Sugi fought Hondo's pirate fleet on Felucia, lost Rumi Paramita defending farmers, and demonstrated mercenaries could hold ground against superior numbers.",
+           methods_detail="Zabrak tactical leadership, crew coordination, heavy weapons via C-21 Highsinger, and Pa'lowick sniper overwatch from Rumi—Sugi commands rather than solo hunts.",
+           reputation_detail="Felucian farmers commissioned Sugi by name; Hondo Ohnaka learned her crew cost more to fight than to bribe; guild brokers cite Felucia as team-contract template.",
+           impact_detail="Sugi's Felucia stand proved hunter crews could defend civilians against pirate fleets—a precedent for Rim worlds hiring guild teams over planetary militias.",
+           events=["Assembles mercenary crew on Iridonia", "Contracts to defend Felucian nerf herders", "Fights Hondo Ohnaka's pirate attack", "Loses Rumi Paramita in defense", "C-21 Highsinger heavy weapons support"],
+           affiliations=["Sugi's mercenary crew", "Bounty Hunters' Guild", "Iridonia Zabrak networks", "Embo partnership", "Felucian farmer clients", "C-21 Highsinger unit"],
+           timeline=[("Iridonia", "Mercenary crew formation"), ("Felucia Contract", "Nerf herder defense"), ("Pirate Battle", "Hondo Ohnaka assault"), ("Loss", "Rumi Paramita falls"), ("Legacy", "Team-contract template")]))
+
+    _add("Greedo", "Rodian Bounty Hunter", "Rodia",
+         "Rodian who confronted Han Solo in Mos Eisley Cantina for Jabba until pride outran his draw speed.",
+         "#991b1b", "A New Hope · Clone Wars", "rodian",
+         L(origin_detail="Greedo grew up on Rodia's hunter culture where Tesei Aruon's traditions equated bounty success with clan honor, driving him to Tatooine chasing Jabba's Han Solo puck.",
+           ancient_detail="Rodia's hunter clans predate the Republic; KOTOR Exchange postings document Rodian trackers whose pride frequently outran their draw speed in cantina confrontations.",
+           modern_detail="Greedo's Mos Eisley cantina death became galactic folklore—proof that confronting Corellian smugglers without backup ends in a burned hole in the table.",
+           conflict_detail="Greedo collected bounties for Jabba the Hutt, confronted Han Solo in Chalmun's Cantina over frozen shipment debts, and died when Solo fired first under the table.",
+           methods_detail="Rodian tracking instincts, intimidation in crowded cantinas, and close-range blaster work—Greedo preferred confrontation over long pursuit.",
+           reputation_detail="Jabba's court knew Greedo as reliable if overconfident; cantina patrons still debate who shot first; Rodian clans remember him as cautionary pride tale.",
+           impact_detail="Greedo's death reinforced Jabba's need for elite hunters like Boba Fett; the cantina incident became the most argued bounty confrontation in galactic folklore.",
+           events=["Leaves Rodia for Tatooine guild work", "Accepts Jabba contract on Han Solo", "Confronts Solo in Mos Eisley Cantina", "Killed when Solo fires first", "Becomes cautionary Rodian hunter tale"],
+           affiliations=["Jabba the Hutt's court", "Rodia hunter clans", "Tatooine Bounty Hunters' Guild", "Chalmun's Cantina underworld", "Hutt Cartel enforcement"],
+           timeline=[("Rodia", "Hunter clan upbringing"), ("Tatooine", "Jabba contract work"), ("Cantina", "Confronts Han Solo"), ("Death", "Killed in Mos Eisley"), ("Folklore", "Who shot first debates")]))
+
+    # Continue in part 2...
+    from build_bh_hunters_rest2 import register_rest2
+    register_rest2(_add, L)

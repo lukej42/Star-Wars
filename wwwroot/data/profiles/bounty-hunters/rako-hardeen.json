@@ -1,0 +1,51 @@
+{
+  "overview": "Rako Hardeen is a bounty hunter identity (obi-wan kenobi) from Concordia (cover), documented across Clone Wars. Cover identity Obi-Wan used to infiltrate Moralo Eval's box tournament and foil kidnapping plot.",
+  "history": "Rako Hardeen rose from Concordia (cover) to become a bounty hunter identity (obi-wan kenobi) whose name appears on guild boards from the Core to the Outer Rim. Rako Hardeen was supposedly a deadly bounty hunter whose identity Obi-Wan Kenobi assumed via facial disguise to infiltrate Moralo Eval's box tournament and expose Count Dooku's kidnapping plot. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Rako Hardeen as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Rako Hardeen's career, Concordia (cover) produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Undercover Jedi hunter infiltration has precedent in Old Republic intelligence; Hardeen—real or fabricated—served as Clone Wars cover legend for Kenobi's Serenno operation. Old Republic bounty charters and Sith Empire mercenary rolls show how bounty hunter identity (obi-wan kenobi) contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Rako Hardeen negotiate payment and honor.\n\nIn the modern era, Rako Hardeen competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Obi-Wan's Rako Hardeen disguise fooled Cad Bane and Eval's box competitors, enabling Jedi to thwart Separatist assassin recruitment pipeline. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Rako Hardeen. Mandalorian-era postings on Nevarro and Mos Espa show bounty hunter identity (obi-wan kenobi) specialists remain essential to galactic order—and chaos.\n\nRako Hardeen operated in war zones where capture alive paid more than kill, and both paid more than failure. Kenobi-as-Hardeen survived Eval's box trials on Serenno, earned Cad Bane's grudging respect, and prevented Moralo Eval from delivering kidnapped Chancellor Palpatine to Dooku. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of bounty hunter identity (obi-wan kenobi) hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Rako Hardeen's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Rako Hardeen as a bounty hunter identity (obi-wan kenobi) relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Facial disguise, undercover improvisation, Jedi combat hidden behind hunter persona, and box tournament survival—Hardeen identity is performance not profession. Guild instructors use redacted mission logs from Rako Hardeen's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Rako Hardeen often know smuggler routes better than naval patrols.\n\nAmong peers, Rako Hardeen earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Box competitors feared Hardeen's supposed kill count; Cad Bane tested him repeatedly; only audiences knowing Clone Wars context understand the identity was Obi-Wan Kenobi. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Rako Hardeen that may be half true and fully instructive. Whether Rako Hardeen followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Rako Hardeen exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Rako Hardeen infiltration foiled Separatist kidnapping plot and demonstrated Jedi could penetrate hunter tournaments—adding intelligence dimension to guild events. Without contractors like Rako Hardeen, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Rako Hardeen when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Obi-Wan assumes Hardeen identity",
+    "Infiltrates Moralo Eval's box tournament",
+    "Survives Serenno box trials with Cad Bane",
+    "Exposes Count Dooku kidnapping plot",
+    "Prevents Palpatine abduction delivery"
+  ],
+  "affiliations": [
+    "Jedi Order (Obi-Wan Kenobi cover)",
+    "Moralo Eval's box roster",
+    "Cad Bane (unwitting competitor)",
+    "Count Dooku plot (opposed)",
+    "Serenno tournament"
+  ],
+  "timeline": [
+    {
+      "era": "Cover Creation",
+      "event": "Obi-Wan becomes Hardeen"
+    },
+    {
+      "era": "Box Entry",
+      "event": "Eval tournament infiltration"
+    },
+    {
+      "era": "Serenno",
+      "event": "Survival with Cad Bane"
+    },
+    {
+      "era": "Plot Exposed",
+      "event": "Kidnapping foiled"
+    },
+    {
+      "era": "Legacy",
+      "event": "Jedi undercover hunter legend"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/rako-hardeen.svg",
+      "caption": "Emblem — Rako Hardeen"
+    },
+    {
+      "path": "/images/bounty-hunters/rako-hardeen-scene.svg",
+      "caption": "Scene illustration — Rako Hardeen"
+    }
+  ]
+}

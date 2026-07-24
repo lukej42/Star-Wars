@@ -1,0 +1,52 @@
+{
+  "overview": "Din Djarin is a mandalorian bounty hunter from Aq Vallack (foundling), documented across Mandalorian · Book of Boba Fett. Foundling hunter who captured Grogu for Nevarro guild before breaking Creed to become Mand'alor.",
+  "history": "Din Djarin rose from Aq Vallack (foundling) to become a mandalorian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Rescued as a foundling by Death Watch during the Clone Wars, Din Djarin was raised on Concordia under the Way of Mandalore and became a guild hunter on Nevarro under Greef Karga. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Din Djarin as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Din Djarin's career, Aq Vallack (foundling) produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Mandalorian foundling traditions stretch to KOTOR-era Neo-Crusaders; Din's Creed-breaking choice to protect Grogu echoes ancient debates over hunter honor versus foundling bonds. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Din Djarin negotiate payment and honor.\n\nIn the modern era, Din Djarin competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Din returned Grogu to Jedi training, reclaimed Mandalore from Imperial remnant occupation, and accepted the Darksaber to become Mand'alor—transcending guild work entirely. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Din Djarin. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty hunter specialists remain essential to galactic order—and chaos.\n\nDin Djarin operated in war zones where capture alive paid more than kill, and both paid more than failure. Din captured Grogu for Imperial remnant client, fought IG-11 and Moff Gideon's forces on Nevarro, assembled a Mandalorian covert on Glavis Ring, and retook Mandalore from Gideon's base. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Din Djarin's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Din Djarin as a mandalorian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Beskar armor, Amban sniper rifle, whistling birds, jetpack assault, and Mudhorn signet—Din combines Mandalorian martial code with guild pragmatism until Creed supersedes contracts. Guild instructors use redacted mission logs from Din Djarin's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Din Djarin often know smuggler routes better than naval patrols.\n\nAmong peers, Din Djarin earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Greef Karga posted his puck; Bo-Katan initially dismissed him; the Armorer declared him apostate then prophet; Grogu's bond made him legend beyond any single contract total. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Din Djarin that may be half true and fully instructive. Whether Din Djarin followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Din Djarin exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Din's Grogu protection altered Imperial remnant plans; his Mandalore reclamation restored Mandalorian sovereignty; he proved foundling bonds can override guild and Imperial payment alike. Without contractors like Din Djarin, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Din Djarin when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Captures Grogu for Nevarro guild contract",
+    "Protects Grogu and breaks bounty delivery",
+    "Defeats Moff Gideon's Imperial remnant on Nevarro",
+    "Retrieves Darksaber and founds covert on Glavis Ring",
+    "Retakes Mandalore and becomes Mand'alor"
+  ],
+  "affiliations": [
+    "Children of the Watch",
+    "Nevarro Bounty Hunters' Guild",
+    "Clan Mudhorn",
+    "Mandalorian covert",
+    "Grogu foundling bond",
+    "Greef Karga (former employer)"
+  ],
+  "timeline": [
+    {
+      "era": "Foundling",
+      "event": "Raised by Death Watch"
+    },
+    {
+      "era": "Nevarro",
+      "event": "Guild hunter under Greef Karga"
+    },
+    {
+      "era": "Grogu Contract",
+      "event": "Capture and Creed break"
+    },
+    {
+      "era": "Imperial Remnant",
+      "event": "Fights Gideon's forces"
+    },
+    {
+      "era": "Mandalore",
+      "event": "Becomes Mand'alor"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/din-djarin.svg",
+      "caption": "Emblem — Din Djarin"
+    },
+    {
+      "path": "/images/bounty-hunters/din-djarin-scene.svg",
+      "caption": "Scene illustration — Din Djarin"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "FX-7 is a medical droid built by Medtech Industries, documented across Empire Strikes Back. A multi-armed medical assistant droid that treated Luke Skywalker in the bacta tank facility on Hoth alongside 2-1B.",
+  "history": "FX-7 belongs to the medical droid class manufactured by Medtech Industries, one of the most recognizable automaton designs documented across galactic history. FX-7 medical assistant droids operate bacta tank controls with multiple manipulator arms. Medtech Industries factory schematics document the medical droid platform lineage that produced FX-7, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat FX-7 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced FX-7. Excavations on Taris, Dxun, and Dromund Kaas recovered medical droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Medtech Industries subsystems, spreading design language across millennia before FX-7 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Medtech Industries subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and medical droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, FX-7 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. FX-7 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Medtech Industries frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Medtech Industries frames. Historians studying the Sequel Era treat surviving FX-7 memory cores as primary sources on earlier conflicts.\n\nFX-7 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, FX-7 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of medical droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Medtech Industries automata.",
+  "significance": "Engineering analysis of FX-7 highlights why medical droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise FX-7's modular medical droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Medtech Industries documentation; slicers praise its predictable security flaws—both keep FX-7 relevant in scrap yards centuries later. New Republic certification boards still debate which medical droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite FX-7 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite FX-7 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every medical droid rights petition involving Medtech Industries personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as FX-7's service record. Whether FX-7 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of FX-7 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like FX-7; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like FX-7, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Medtech Industries chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Assists 2-1B treating Luke in bacta tank on Hoth",
+    "Multi-armed bacta tank control droid",
+    "Medtech Industries medical assistant platform",
+    "Standard Rebel Echo Base medical equipment",
+    "Works alongside 2-1B surgical droids"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Medtech Industries",
+    "Echo Base medical corps",
+    "Galactic Empire (medical bays)",
+    "Outer Rim hospitals"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "FX-7 enters medical assistant market"
+    },
+    {
+      "era": "Hoth Campaign",
+      "event": "Treats Luke Skywalker in bacta tank"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Rebel base standard medical droid"
+    },
+    {
+      "era": "New Republic",
+      "event": "Continues hospital service"
+    },
+    {
+      "era": "Legacy",
+      "event": "Standard bacta tank assistant droid"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/fx-7-scene.png",
+      "caption": "Cinematic illustration — FX-7"
+    }
+  ]
+}

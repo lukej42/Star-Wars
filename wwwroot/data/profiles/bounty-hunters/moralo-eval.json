@@ -1,0 +1,51 @@
+{
+  "overview": "Moralo Eval is a phindian hunter mastermind from Phindar, documented across Clone Wars. Phindian criminal who designed Count Dooku's box gladiator trial to recruit hunter assassins.",
+  "history": "Moralo Eval rose from Phindar to become a phindian hunter mastermind whose name appears on guild boards from the Core to the Outer Rim. Moralo Eval, Phindian criminal mastermind, designed the Box gladiator-hunter trial on Serenno for Count Dooku to recruit assassins capable of kidnapping Supreme Chancellor Palpatine. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Moralo Eval as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Moralo Eval's career, Phindar produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Phindar's criminal engineer class historically built Separatist trial courses; Eval represents designer-masterminds who weaponize hunter competition for political assassination. Old Republic bounty charters and Sith Empire mercenary rolls show how phindian hunter mastermind contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Moralo Eval negotiate payment and honor.\n\nIn the modern era, Moralo Eval competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Eval's box tournament gathered Cad Bane, Obi-Wan-as-Hardeen, Derrown, Onca, and others in Clone Wars' definitive hunter gladiator event. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Moralo Eval. Mandalorian-era postings on Nevarro and Mos Espa show phindian hunter mastermind specialists remain essential to galactic order—and chaos.\n\nMoralo Eval operated in war zones where capture alive paid more than kill, and both paid more than failure. Eval ran box trials killing competitors via retractable platforms and environmental traps, tested Cad Bane's crew, and planned Palpatine delivery until Obi-Wan foiled the plot. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of phindian hunter mastermind hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Moralo Eval's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Moralo Eval as a phindian hunter mastermind relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Trap engineering, psychological testing, platform retraction mechanics, and assassin recruitment screening—Eval designs death courses not personal combat. Guild instructors use redacted mission logs from Moralo Eval's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Moralo Eval often know smuggler routes better than naval patrols.\n\nAmong peers, Moralo Eval earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Count Dooku funded Eval's box; surviving hunters earned premium assassination contracts; Republic Intelligence studied his trial design after plot exposure. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Moralo Eval that may be half true and fully instructive. Whether Moralo Eval followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Moralo Eval exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Moralo Eval's box tournament became Clone Wars' defining hunter gladiator event—recruiting assassins through lethal competition rather than guild postings. Without contractors like Moralo Eval, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Moralo Eval when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Designs Box for Count Dooku",
+    "Runs Serenno gladiator-hunter trials",
+    "Recruits Cad Bane and competitors",
+    "Plans Palpatine kidnapping delivery",
+    "Plot foiled by Obi-Wan Kenobi infiltration"
+  ],
+  "affiliations": [
+    "Count Dooku / CIS",
+    "Phindian criminal engineers",
+    "Box tournament roster",
+    "Separatist assassin recruitment",
+    "Serenno operations"
+  ],
+  "timeline": [
+    {
+      "era": "Phindar",
+      "event": "Criminal mastermind rise"
+    },
+    {
+      "era": "Dooku Contract",
+      "event": "Box design commission"
+    },
+    {
+      "era": "Serenno",
+      "event": "Tournament execution"
+    },
+    {
+      "era": "Recruitment",
+      "event": "Cad Bane selected"
+    },
+    {
+      "era": "Failure",
+      "event": "Kenobi foils kidnapping plot"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/moralo-eval.svg",
+      "caption": "Emblem — Moralo Eval"
+    },
+    {
+      "path": "/images/bounty-hunters/moralo-eval-scene.svg",
+      "caption": "Scene illustration — Moralo Eval"
+    }
+  ]
+}

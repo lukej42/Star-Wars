@@ -1,0 +1,50 @@
+{
+  "overview": "Force Grip is a adept-level dark side technique classified under Telekinesis. Seizes an opponent with telekinetic force and holds them suspended and helpless, often as a prelude to execution or torture. Count Dooku gripped Obi-Wan Kenobi mid-duel on Geonosis, demonstrating the cruel precision with which Sith Lords dominate their prey.",
+  "history": "Force scholars trace Force Grip across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · Attack of the Clones · Revenge of the Sith · Clone Wars · Rebels established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Grip into initiates as part of the standard curriculum for telekinesis specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Grip alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Grip exemplifies how telekinesis abilities shape Force doctrine on the dark side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Grip could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Grip remains a benchmark of telekinesis proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Grip in New Republic conflicts",
+    "Standardised in Telekinesis curricula of the Sith academies",
+    "Featured prominently in media: Films · Attack of the Clones · Revenge of the Sith · Clone W…",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Darth Vader",
+    "Emperor Palpatine",
+    "Sith Lords",
+    "Dark-side adepts"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "First major documented use of Force Grip in New Republic conflicts"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Standardised in Telekinesis curricula of the Sith academies"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Featured prominently in media: Films · Attack of the Clones · Revenge of the Sith · Clone W…"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "High Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-grip.svg",
+      "caption": "Emblem — Force Grip"
+    },
+    {
+      "path": "/images/force-powers/force-grip-scene.svg",
+      "caption": "Scene illustration — Force Grip"
+    }
+  ]
+}

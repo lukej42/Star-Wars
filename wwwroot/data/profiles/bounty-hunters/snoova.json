@@ -1,0 +1,45 @@
+{
+  "overview": "Snoova is a shistavanen bounty hunter from Uvena Prime, documented across Comics · Expanded lore. Wolf-like Shistavanen tracker hired for Imperial-era extractions where scent tracking beat sensor arrays.",
+  "history": "Snoova rose from Uvena Prime to become a shistavanen bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Snoova leveraged Shistavanen olfactory tracking on frontier worlds where Imperial sensors failed and guild clients needed prey found across wasteland continents. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Snoova as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Snoova's career, Uvena Prime produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Uvena Prime supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Snoova posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how shistavanen bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Snoova negotiate payment and honor.\n\nIn the modern era, Snoova competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Snoova remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Snoova. Mandalorian-era postings on Nevarro and Mos Espa show shistavanen bounty hunter specialists remain essential to galactic order—and chaos.\n\nSnoova operated in war zones where capture alive paid more than kill, and both paid more than failure. Snoova hunted Rebel cells and deserter convoys for Imperial paymasters who valued tracking over public capture displays. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of shistavanen bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Snoova's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Snoova as a shistavanen bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Scent-trail pursuit, wilderness endurance, Shistavanen pack instincts, and silent takedown tactics. Guild instructors use redacted mission logs from Snoova's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Snoova often know smuggler routes better than naval patrols.\n\nAmong peers, Snoova earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Snoova as a shistavanen bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Snoova that may be half true and fully instructive. Whether Snoova followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Snoova exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Snoova's captures and eliminations shifted local power wherever Uvena Prime expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Snoova, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Snoova when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Shistavanen tracking mastery on Uvena Prime",
+    "Imperial wilderness extraction contracts",
+    "Rebel cell pursuit campaigns",
+    "Frontier tracker legend"
+  ],
+  "affiliations": [
+    "Shistavanen tracker clans",
+    "Galactic Empire (contracted)",
+    "Bounty Hunters' Guild",
+    "Frontier broker networks"
+  ],
+  "timeline": [
+    {
+      "era": "Uvena Prime",
+      "event": "Tracker training"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Wilderness contracts"
+    },
+    {
+      "era": "Rebel Hunts",
+      "event": "Cell pursuit"
+    },
+    {
+      "era": "Legacy",
+      "event": "Scent-tracker icon"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/snoova.svg",
+      "caption": "Emblem — Snoova"
+    },
+    {
+      "path": "/images/bounty-hunters/snoova-scene.svg",
+      "caption": "Scene illustration — Snoova"
+    }
+  ]
+}

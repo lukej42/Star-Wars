@@ -1,0 +1,47 @@
+{
+  "overview": "FA-4 Pilot Droid is a pilot droid built by Haor Chall Engineering, documented across Clone Wars · Prequel Trilogy. Pilot droids that flew Separatist landing craft and vulture droid carriers during invasions from Ryloth to Saleucami.",
+  "history": "FA-4 Pilot Droid belongs to the pilot droid class manufactured by Haor Chall Engineering, one of the most recognizable automaton designs documented across galactic history. FA-4 pilot droids operate Separatist landing craft and carriers without organic crew requirements. Haor Chall Engineering factory schematics document the pilot droid platform lineage that produced FA-4 Pilot Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat FA-4 Pilot Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced FA-4 Pilot Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered pilot droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Haor Chall Engineering subsystems, spreading design language across millennia before FA-4 Pilot Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Haor Chall Engineering subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and pilot droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, FA-4 Pilot Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. FA-4 Pilot Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Haor Chall Engineering frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Haor Chall Engineering frames. Historians studying the Sequel Era treat surviving FA-4 Pilot Droid memory cores as primary sources on earlier conflicts.\n\nFA-4 Pilot Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, FA-4 Pilot Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of pilot droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Haor Chall Engineering automata.",
+  "significance": "Engineering analysis of FA-4 Pilot Droid highlights why pilot droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise FA-4 Pilot Droid's modular pilot droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Haor Chall Engineering documentation; slicers praise its predictable security flaws—both keep FA-4 Pilot Droid relevant in scrap yards centuries later. New Republic certification boards still debate which pilot droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite FA-4 Pilot Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite FA-4 Pilot Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every pilot droid rights petition involving Haor Chall Engineering personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as FA-4 Pilot Droid's service record. Whether FA-4 Pilot Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of FA-4 Pilot Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like FA-4 Pilot Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like FA-4 Pilot Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Haor Chall Engineering chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Pilots Trade Federation landing craft to Naboo",
+    "Flies Separatist carriers during Rim invasions",
+    "Haor Chall design eliminates organic pilot need",
+    "Deploys troops during Ryloth and Saleucami landings",
+    "Standard Separatist amphibious assault support"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Trade Federation",
+    "Haor Chall Engineering",
+    "Separatist Navy",
+    "Separatist ground army"
+  ],
+  "timeline": [
+    {
+      "era": "Naboo Era",
+      "event": "FA-4 pilots invasion landing craft"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Standard Separatist pilot droid"
+    },
+    {
+      "era": "Ryloth",
+      "event": "Flies landing craft during invasion"
+    },
+    {
+      "era": "Late War",
+      "event": "Supports Outer Rim Sieges"
+    },
+    {
+      "era": "Post-War",
+      "event": "Deactivated with Separatist forces"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/fa-4-pilot-droid-scene.png",
+      "caption": "Cinematic illustration — FA-4 Pilot Droid"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+@page "/all-bounty-hunters"
+@using StarWars.Data
+
+<PageTitle>All Bounty Hunters</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/bounty-hunters/bounty-hunters-directory-hero.png" alt="Guild contractors silhouetted before a starlit viewport in a spaceport hall" loading="lazy" />
+</figure>
+
+<h1>All Bounty Hunters</h1>
+<p class="all-planets-intro">
+    @BountyHunterData.BountyHunters.Count bounty hunters, assassins, and guild contractors from all nine saga films,
+    live-action and animated series, <em>Knights of the Old Republic</em>, and the ancient Sith Empire — contracts,
+    codes, and legends written in credits and blaster fire.
+</p>
+
+@foreach (var group in BountyHunterData.BountyHunters.GroupBy(hunter => hunter.Specialty).OrderBy(group => group.Key))
+{
+    <section class="force-powers-category">
+        <h2>@group.Key</h2>
+        <div class="planet-directory-grid bounty-hunter-directory-grid">
+            @foreach (var hunter in group.OrderBy(hunter => hunter.Name))
+            {
+                <article class="planet-directory-card bounty-hunter-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @hunter.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@hunter.Route">@hunter.Name</a>
+                        <p class="planet-region bounty-hunter-directory-homeworld">@hunter.Homeworld</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </section>
+}

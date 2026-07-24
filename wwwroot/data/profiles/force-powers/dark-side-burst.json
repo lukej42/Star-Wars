@@ -1,0 +1,49 @@
+{
+  "overview": "Dark Side Burst is a adept-level dark side technique classified under Energy. Releases a sudden radial explosion of dark-side energy from the wielder's body, damaging all nearby enemies and often staggering even armored foes. Inquisitors and Sith acolytes favored dark-side burst when surrounded, turning desperation into a devastating counterattack.",
+  "history": "Force scholars trace Dark Side Burst across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR · Rebels · The Old Republic · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Dark Side Burst into initiates as part of the standard curriculum for energy specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Dark Side Burst alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Dark Side Burst exemplifies how energy abilities shape Force doctrine on the dark side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Dark Side Burst could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Dark Side Burst remains a benchmark of energy proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Dark Side Burst in High Republic conflicts",
+    "Standardised in Energy curricula of the Sith academies",
+    "Featured prominently in media: KOTOR · Rebels · The Old Republic · Clone Wars",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Sith Order",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "First major documented use of Dark Side Burst in High Republic conflicts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Standardised in Energy curricula of the Sith academies"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Featured prominently in media: KOTOR · Rebels · The Old Republic · Clone Wars"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "New Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/dark-side-burst.svg",
+      "caption": "Emblem — Dark Side Burst"
+    },
+    {
+      "path": "/images/force-powers/dark-side-burst-scene.svg",
+      "caption": "Scene illustration — Dark Side Burst"
+    }
+  ]
+}

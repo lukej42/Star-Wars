@@ -1,0 +1,51 @@
+{
+  "overview": "Stygeon Prime Spire is a separatist prison on Stygeon Prime, documented across Clone Wars · Rebels. The Spire on Stygeon Prime held Darth Maul before breakout and later Imperial Inquisitor detention cells.",
+  "history": "Stygeon Prime Spire began as a separatist prison anchor on Stygeon Prime, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Stygeon Prime Spire began as a strategic anchor on Stygeon Prime, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Stygeon Prime Spire as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Stygeon Prime Spire as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Stygeon Prime Spire include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Stygeon Prime Spire include ward-stones and battle markers from Sith and Jedi campaigns on Stygeon Prime. High Republic pathfinders logged Stygeon Prime Spire as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Stygeon Prime suggest Stygeon Prime Spire once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Stygeon Prime Spire expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Stygeon Prime Spire appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Stygeon Prime Spire because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Stygeon Prime Spire as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nStygeon Prime Spire has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Stygeon Prime Spire as contested territory on Stygeon Prime. Clone Wars dossiers mark Stygeon Prime Spire as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Stygeon Prime Spire meant control of Stygeon Prime.",
+  "significance": "The economy of Stygeon Prime Spire runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Stygeon Prime Spire runs on local industry, trade tariffs, and black-market mediation typical of Stygeon Prime. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Stygeon Prime Spire infrastructure during the late Republic. Post-war reconstruction funds often bypass Stygeon Prime Spire officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Stygeon Prime Spire mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Stygeon Prime Spire preserve Stygeon Prime rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Stygeon Prime Spire are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Stygeon Prime Spire back alleys.\n\nStygeon Prime Spire influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Stygeon Prime Spire when tracing how Stygeon Prime influenced sector-wide treaties and fleet movements. Scenes set in Stygeon Prime Spire across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Stygeon Prime Spire when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Stygeon Prime Spire founded on Stygeon Prime",
+    "Recorded siege or battle at Stygeon Prime Spire",
+    "Occupation forces restructure Stygeon Prime Spire",
+    "Underground resistance operates from Stygeon Prime Spire",
+    "Post-war memorialization of Stygeon Prime Spire"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Stygeon Prime governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Stygeon Prime Spire"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Stygeon Prime Spire"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Stygeon Prime Spire"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Stygeon Prime Spire"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Stygeon Prime Spire"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/stygeon-prime-spire.svg",
+      "caption": "Emblem — Stygeon Prime Spire"
+    },
+    {
+      "path": "/images/settlements/stygeon-prime-spire-scene.svg",
+      "caption": "Scene illustration — Stygeon Prime Spire"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "overview": "Mind Trick is a novice-level light side technique classified under Mind. Influences weak-minded individuals through a subtle telepathic suggestion, causing them to comply with simple commands or overlook the Jedi's presence. Obi-Wan's 'These aren't the droids you're looking for' on Tatooine remains the definitive example of this technique.",
+  "history": "Force scholars trace Mind Trick across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · A New Hope · Attack of the Clones · The Phantom Menace · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Mind Trick into initiates as part of the standard curriculum for mind specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Mind Trick alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Mind Trick exemplifies how mind abilities shape Force doctrine on the light side. At novice mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Mind Trick could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Mind Trick remains a benchmark of mind proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Mind Trick in Old Republic conflicts",
+    "Standardised in Mind curricula of the Jedi academies",
+    "Featured prominently in media: Films · A New Hope · Attack of the Clones · The Phantom Mena…",
+    "Requires Novice training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Knights",
+    "Obi-Wan Kenobi",
+    "Rey",
+    "Jedi Temple instructors"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major documented use of Mind Trick in Old Republic conflicts"
+    },
+    {
+      "era": "High Republic",
+      "event": "Standardised in Mind curricula of the Jedi academies"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Featured prominently in media: Films · A New Hope · Attack of the Clones · The Phantom Mena…"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Requires Novice training minimum before field deployment"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/mind-trick.svg",
+      "caption": "Emblem — Mind Trick"
+    },
+    {
+      "path": "/images/force-powers/mind-trick-scene.svg",
+      "caption": "Scene illustration — Mind Trick"
+    }
+  ]
+}

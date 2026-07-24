@@ -1,0 +1,51 @@
+{
+  "overview": "Devaronian (Humanoid mammal) is native to Devaron and ranks among the most consequential species in galactic history. Devaronian males and females developed divergent biology driving exploration vs homemaking stereotypes; horns and teeth mark a species common on frontier trade posts.",
+  "history": "The Devaronian (humanoid mammal) trace their deepest roots to Devaron, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Devaronian evolutionary history on Devaron intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Devaronian populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Devaronian history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Devaronian societies on Devaron established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Devaronian polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Devaron ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Devaronian identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Devaronian delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Devaronian diaspora communities appeared on every major trade lane and war front. Modern Devaronian diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Devaronian networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Devaronian migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nDevaronian fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Devaronian veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Devaron's geography. KOTOR and KOTOR II document Devaronian involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Devaronian leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Devaronian display traits typical of humanoid mammal life adapted to Devaron's gravity, atmosphere, and seasonal extremes. Devaronian physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Devaronian physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Devaronian resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nDevaronian culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Devaronian rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Devaron accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Devaronian spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Devaronian communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Devaronian exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Devaronian merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Devaronian innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Devaronian choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Devaronian homeworld first mapped by Republic surveyors",
+    "Notable Devaronian leaders emerge during Clone Wars",
+    "Devaronian communities resist Imperial occupation policies",
+    "KOTOR-era Devaronian figures influence Jedi Civil War",
+    "New Republic restores Devaronian representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Devaron governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Devaronian civilization consolidates on Devaron"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Devaronian join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Devaronian factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Devaronian identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Devaronian"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/devaronian.svg",
+      "caption": "Emblem — Devaronian"
+    },
+    {
+      "path": "/images/species/devaronian-scene.svg",
+      "caption": "Scene illustration — Devaronian"
+    }
+  ]
+}

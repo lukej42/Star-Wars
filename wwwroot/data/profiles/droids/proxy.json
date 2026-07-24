@@ -1,0 +1,47 @@
+{
+  "overview": "PROXY is a holodroid built by Sith Empire, documented across Force Unleashed · Legends crossover. Starkiller's shape-shifting training holodroid who could mimic Jedi and Sith holoforms while hiding a deadly combat core—loyalty tested across the Force Unleashed campaigns.",
+  "history": "PROXY belongs to the holodroid class manufactured by Sith Empire, one of the most recognizable automaton designs documented across galactic history. PROXY's holoshift technology lets him mimic Obi-Wan, Vader, and other figures for Starkiller's training. Sith Empire factory schematics document the holodroid platform lineage that produced PROXY, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat PROXY as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced PROXY. Excavations on Taris, Dxun, and Dromund Kaas recovered holodroid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Sith Empire subsystems, spreading design language across millennia before PROXY rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Sith Empire subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and holodroid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, PROXY units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. PROXY units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Sith Empire frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Sith Empire frames. Historians studying the Sequel Era treat surviving PROXY memory cores as primary sources on earlier conflicts.\n\nPROXY and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, PROXY and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of holodroid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Sith Empire automata.",
+  "significance": "Engineering analysis of PROXY highlights why holodroid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise PROXY's modular holodroid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Sith Empire documentation; slicers praise its predictable security flaws—both keep PROXY relevant in scrap yards centuries later. New Republic certification boards still debate which holodroid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite PROXY when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite PROXY when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every holodroid rights petition involving Sith Empire personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as PROXY's service record. Whether PROXY is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of PROXY exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like PROXY; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like PROXY, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Sith Empire chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Serves Galen Marek (Starkiller) as training droid",
+    "Holoshifts into Obi-Wan, Vader, and other forms",
+    "Hidden combat core for assassination missions",
+    "Loyalty to Starkiller tested by Vader's orders",
+    "Sith Empire-era holodroid technology"
+  ],
+  "affiliations": [
+    "Galen Marek (Starkiller)",
+    "Galactic Empire",
+    "Darth Vader",
+    "Juno Eclipse",
+    "PROXY (self)"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "PROXY assigned to Starkiller"
+    },
+    {
+      "era": "Training",
+      "event": "Holoshifts for combat training sessions"
+    },
+    {
+      "era": "Mission Era",
+      "event": "Accompanies Starkiller on covert ops"
+    },
+    {
+      "era": "Betrayal Test",
+      "event": "Vader orders PROXY to kill Starkiller"
+    },
+    {
+      "era": "Legacy",
+      "event": "Holodroid tech studied by Imperial R&D"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/proxy-scene.png",
+      "caption": "Cinematic illustration — PROXY"
+    }
+  ]
+}

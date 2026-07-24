@@ -1,0 +1,47 @@
+{
+  "overview": "8D8 is a torture droid built by Roche Hive, documented across Return of the Jedi. A gaunt torture droid in Jabba's palace who delighted in breaking other droids for EV-9D9's entertainment.",
+  "history": "8D8 belongs to the torture droid class manufactured by Roche Hive, one of the most recognizable automaton designs documented across galactic history. 8D8 tortured fellow droids in Jabba's palace basement while EV-9D9 watched with administrative glee. Roche Hive factory schematics document the torture droid platform lineage that produced 8D8, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat 8D8 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced 8D8. Excavations on Taris, Dxun, and Dromund Kaas recovered torture droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Roche Hive subsystems, spreading design language across millennia before 8D8 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Roche Hive subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and torture droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, 8D8 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. 8D8 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Roche Hive frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Roche Hive frames. Historians studying the Sequel Era treat surviving 8D8 memory cores as primary sources on earlier conflicts.\n\n8D8 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, 8D8 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of torture droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Roche Hive automata.",
+  "significance": "Engineering analysis of 8D8 highlights why torture droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise 8D8's modular torture droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Roche Hive documentation; slicers praise its predictable security flaws—both keep 8D8 relevant in scrap yards centuries later. New Republic certification boards still debate which torture droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite 8D8 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite 8D8 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every torture droid rights petition involving Roche Hive personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as 8D8's service record. Whether 8D8 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of 8D8 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like 8D8; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like 8D8, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Roche Hive chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Tortures GNK droid in Jabba's palace scene",
+    "Works under EV-9D9's administrative oversight",
+    "Roche Hive design repurposed for Hutt cruelty",
+    "Gaunt chassis designed for droid-on-droid torture",
+    "Symbol of Hutt palace droid abuse"
+  ],
+  "affiliations": [
+    "Jabba's criminal empire",
+    "Hutt Cartel",
+    "Roche Hive (origin)",
+    "EV-9D9 oversight",
+    "Tatooine palace"
+  ],
+  "timeline": [
+    {
+      "era": "Installation",
+      "event": "8D8 placed in Jabba's torture chamber"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Breaks droids for Hutt entertainment"
+    },
+    {
+      "era": "Rescue Mission",
+      "event": "Active during Solo extraction"
+    },
+    {
+      "era": "Jabba's Death",
+      "event": "Palace operations collapse"
+    },
+    {
+      "era": "Legacy",
+      "event": "Example of droid-on-droid abuse"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/8d8-scene.png",
+      "caption": "Cinematic illustration — 8D8"
+    }
+  ]
+}

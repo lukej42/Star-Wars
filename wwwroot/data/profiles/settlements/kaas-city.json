@@ -1,0 +1,51 @@
+{
+  "overview": "Kaas City is a sith empire capital on Dromund Kaas, documented across TOR · Sith Empire. Kaas City on Dromund Kaas anchors TOR-era Sith Empire power with dark-side monuments and Imperial citadel spires.",
+  "history": "Kaas City began as a sith empire capital anchor on Dromund Kaas, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Kaas City grew where Dromund Kaas's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a sith empire capital that outlasted first founders. Early survey maps from the Old Republic era list Kaas City as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Kaas City as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Kaas City include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Kaas City include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Kaas City as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Dromund Kaas suggest Kaas City once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Kaas City expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Kaas City; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Kaas City because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Kaas City as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nKaas City has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Kaas City as strategically contested on Dromund Kaas. Clone Wars dossiers mark Kaas City as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Kaas City meant control of Dromund Kaas.",
+  "significance": "The economy of Kaas City runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Kaas City's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Kaas City infrastructure during the late Republic. Post-war reconstruction funds often bypass Kaas City officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Kaas City mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Kaas City blend Dromund Kaas native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Kaas City are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Kaas City back alleys.\n\nKaas City influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Kaas City altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Kaas City across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Kaas City when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Kaas City founded as sith empire capital on Dromund Kaas",
+    "Major battle or siege recorded at Kaas City",
+    "Imperial occupation transforms Kaas City governance",
+    "Rebel or Resistance cell operates from Kaas City",
+    "New Republic era reconstruction begins at Kaas City"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Kaas City"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Kaas City joins sector trade networks on Dromund Kaas"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Kaas City triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Kaas City"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Kaas City"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/kaas-city.svg",
+      "caption": "Emblem — Kaas City"
+    },
+    {
+      "path": "/images/settlements/kaas-city-scene.svg",
+      "caption": "Scene illustration — Kaas City"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "overview": "Ishi Tib (Amphibious humanoid) is native to Tibrin and ranks among the most consequential species in galactic history. Ishi Tib are amphibious architects from Tibrin whose beaked faces and communal nesting produced Separatist-allied leaders and later Rebel shipyard engineers.",
+  "history": "The Ishi Tib (amphibious humanoid) trace their deepest roots to Tibrin, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Tibrin and Jedi Archaeological surveys confirm Ishi Tib civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Ishi Tib populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Ishi Tib history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Ishi Tib societies on Tibrin established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Ishi Tib polities traded with Core Founders and Sith Empire emissaries; ruins on Tibrin still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Ishi Tib identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Ishi Tib delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Ishi Tib diaspora communities appeared on every major trade lane and war front. Modern Ishi Tib appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Ishi Tib architects remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Ishi Tib networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Ishi Tib migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nIshi Tib fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Ishi Tib fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Tibrin's terrain and amphibious humanoid biology. KOTOR and KOTOR II document Ishi Tib involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Ishi Tib leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Ishi Tib display traits typical of amphibious humanoid life adapted to Tibrin's gravity, atmosphere, and seasonal extremes. beak manipulation and saltwater lung efficiency. Republic medics and Imperial biometrics both document Ishi Tib resilience under occupation, exile, and frontline trauma. Medics note that Ishi Tib physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Ishi Tib resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nIshi Tib culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. reef-platform city-states. Ishi Tib diaspora communities preserve homeworld ritual even when Tibrin itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Ishi Tib spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Ishi Tib communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Ishi Tib exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Ishi Tib merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Ishi Tib innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Ishi Tib choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Ishi Tib engineers build Separatist coral fortresses",
+    "Republic liberates Tibrin from CIS occupation",
+    "Ishi Tib shipwrights join Mon Calamari design teams"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Tibrin governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Ishi Tib consolidate early civilization on Tibrin"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Ishi Tib join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Ishi Tib factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Ishi Tib identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Ishi Tib political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/ishi-tib.svg",
+      "caption": "Emblem — Ishi Tib"
+    },
+    {
+      "path": "/images/species/ishi-tib-scene.svg",
+      "caption": "Scene illustration — Ishi Tib"
+    }
+  ]
+}

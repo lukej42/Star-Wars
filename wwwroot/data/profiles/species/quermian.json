@@ -1,0 +1,49 @@
+{
+  "overview": "Quermian (Multi-limbed humanoid) is native to Quermia and ranks among the most consequential species in galactic history. Quermians are towering beings with five pairs of spindly limbs, two brains, and an acute extrasensory perception that made Jedi Master Yarael Poof a legendary Council member. Their homeworld Quermia's low gravity shaped their fragile-looking frames into instruments of precise telekinetic and diplomatic mastery.",
+  "history": "The Quermian (multi-limbed humanoid) trace their deepest roots to Quermia, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Quermia and Jedi Archaeological surveys confirm Quermian civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Quermian populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Quermian history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Quermian societies on Quermia established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Quermian polities traded with Core Founders and Sith Empire emissaries; ruins on Quermia still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Quermian identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Quermian delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Quermian diaspora communities appeared on every major trade lane and war front. Modern Quermian appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Yarael Poof remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Quermian networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Quermian migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nQuermian fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Quermian fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Quermia's terrain and multi-limbed humanoid biology. KOTOR and KOTOR II document Quermian involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Quermian leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Quermian display traits typical of multi-limbed humanoid life adapted to Quermia's gravity, atmosphere, and seasonal extremes. dual-brain telepathic sensitivity. Republic medics and Imperial biometrics both document Quermian resilience under occupation, exile, and frontline trauma. Medics note that Quermian physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Quermian resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nQuermian culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. five pairs of limbs. Quermian diaspora communities preserve homeworld ritual even when Quermia itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Quermian spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Quermian communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Quermian exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Quermian merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Quermian innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Quermian choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Yarael Poof serves on Jedi High Council",
+    "Quermian physiology studied for dual-brain cognition",
+    "Quermia joins Republic medical exchange programs"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Quermia governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Quermian consolidate early civilization on Quermia"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Quermian join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Quermian factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Quermian identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Quermian political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/quermian.svg",
+      "caption": "Emblem — Quermian"
+    },
+    {
+      "path": "/images/species/quermian-scene.svg",
+      "caption": "Scene illustration — Quermian"
+    }
+  ]
+}

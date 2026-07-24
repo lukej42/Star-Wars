@@ -1,0 +1,51 @@
+{
+  "overview": "Dark Side Tendrils is a master-level dark side technique classified under Ritual. Manifests writhing tendrils of pure dark-side energy that erupt from the ground or air to grasp, crush, and drain victims in a display of sorcerous might. The Sith Emperor and powerful Nightsister shamans summoned dark-side tendrils during ritual combat to overwhelm multiple Jedi at once.",
+  "history": "Force scholars trace Dark Side Tendrils across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in The Old Republic · Sith Empire · Clone Wars · KOTOR II established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Dark Side Tendrils into initiates as part of the standard curriculum for ritual specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Dark Side Tendrils alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Dark Side Tendrils exemplifies how ritual abilities shape Force doctrine on the dark side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Dark Side Tendrils could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Dark Side Tendrils remains a benchmark of ritual proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Dark Side Tendrils in High Republic conflicts",
+    "Standardised in Ritual curricula of the Sith academies",
+    "Featured prominently in media: The Old Republic · Sith Empire · Clone Wars · KOTOR II",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Dark Side Tendrils altered galactic history"
+  ],
+  "affiliations": [
+    "Ancient Sith",
+    "Sith Emperor Vitiate",
+    "Sith alchemists",
+    "Nightsisters"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "First major documented use of Dark Side Tendrils in High Republic conflicts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Standardised in Ritual curricula of the Sith academies"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Featured prominently in media: The Old Republic · Sith Empire · Clone Wars · KOTOR II"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "New Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/dark-side-tendrils.svg",
+      "caption": "Emblem — Dark Side Tendrils"
+    },
+    {
+      "path": "/images/force-powers/dark-side-tendrils-scene.svg",
+      "caption": "Scene illustration — Dark Side Tendrils"
+    }
+  ]
+}

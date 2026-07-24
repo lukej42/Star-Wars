@@ -1,0 +1,47 @@
+{
+  "overview": "C-3PO is a protocol droid built by Cybot Galactica, documented across All 9 Films · Clone Wars · Rebels. An anxious golden protocol unit fluent in over six million forms of communication, built by Anakin Skywalker and witness to every Skywalker saga chapter from the Trade Federation blockade to the Resistance era.",
+  "history": "C-3PO belongs to the protocol droid class manufactured by Cybot Galactica, one of the most recognizable automaton designs documented across galactic history. Assembled by a slave boy on Tatooine, C-3PO translated treaties, insults, and betrayals that shaped galactic history. Cybot Galactica factory schematics document the protocol droid platform lineage that produced C-3PO, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat C-3PO as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced C-3PO. Excavations on Taris, Dxun, and Dromund Kaas recovered protocol droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Cybot Galactica subsystems, spreading design language across millennia before C-3PO rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Cybot Galactica subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and protocol droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, C-3PO units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. C-3PO units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Cybot Galactica frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Cybot Galactica frames. Historians studying the Sequel Era treat surviving C-3PO memory cores as primary sources on earlier conflicts.\n\nC-3PO and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, C-3PO and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of protocol droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Cybot Galactica automata.",
+  "significance": "Engineering analysis of C-3PO highlights why protocol droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise C-3PO's modular protocol droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Cybot Galactica documentation; slicers praise its predictable security flaws—both keep C-3PO relevant in scrap yards centuries later. New Republic certification boards still debate which protocol droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite C-3PO when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite C-3PO when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every protocol droid rights petition involving Cybot Galactica personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as C-3PO's service record. Whether C-3PO is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of C-3PO exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like C-3PO; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like C-3PO, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Cybot Galactica chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Translates for Padmé during Naboo blockade negotiations",
+    "Warns of Sand People attack on Lars homestead",
+    "Poses as Ewok deity during Battle of Endor",
+    "Receives memory wipe after Revenge of the Sith",
+    "Translates Sith wayfinder inscription for Rey"
+  ],
+  "affiliations": [
+    "Skywalker family",
+    "Galactic Republic",
+    "Rebel Alliance",
+    "New Republic",
+    "Resistance"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Anakin builds C-3PO on Tatooine"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Serves Padmé Amidala in Senate and field"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Memory wiped; serves Lars homestead then Rebellion"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Negotiates with Ewoks on Endor"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Accompanies Rey at Exegol"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/c-3po-scene.png",
+      "caption": "Cinematic illustration — C-3PO"
+    }
+  ]
+}

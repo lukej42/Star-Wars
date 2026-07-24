@@ -1,0 +1,51 @@
+{
+  "overview": "Olega Settlement is a corporate township on Olega, documented across Andor. Olega's corporate blocks and medcenters masked Cassian Andor's early rebel operations against Imperial price gouging.",
+  "history": "Olega Settlement began as a corporate township anchor on Olega, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Olega Settlement began as a strategic anchor on Olega, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Olega Settlement as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Olega Settlement as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Olega Settlement include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Olega Settlement include ward-stones and battle markers from Sith and Jedi campaigns on Olega. High Republic pathfinders logged Olega Settlement as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Olega suggest Olega Settlement once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Olega Settlement expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Olega Settlement appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Olega Settlement because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Olega Settlement as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nOlega Settlement has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Olega Settlement as contested territory on Olega. Clone Wars dossiers mark Olega Settlement as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Olega Settlement meant control of Olega.",
+  "significance": "The economy of Olega Settlement runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Olega Settlement runs on local industry, trade tariffs, and black-market mediation typical of Olega. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Olega Settlement infrastructure during the late Republic. Post-war reconstruction funds often bypass Olega Settlement officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Olega Settlement mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Olega Settlement preserve Olega rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Olega Settlement are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Olega Settlement back alleys.\n\nOlega Settlement influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Olega Settlement when tracing how Olega influenced sector-wide treaties and fleet movements. Scenes set in Olega Settlement across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Olega Settlement when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Olega Settlement founded on Olega",
+    "Recorded siege or battle at Olega Settlement",
+    "Occupation forces restructure Olega Settlement",
+    "Underground resistance operates from Olega Settlement",
+    "Post-war memorialization of Olega Settlement"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Olega governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Olega Settlement"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Olega Settlement"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Olega Settlement"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Olega Settlement"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Olega Settlement"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/olega-settlement.svg",
+      "caption": "Emblem — Olega Settlement"
+    },
+    {
+      "path": "/images/settlements/olega-settlement-scene.svg",
+      "caption": "Scene illustration — Olega Settlement"
+    }
+  ]
+}

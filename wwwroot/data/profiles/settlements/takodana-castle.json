@@ -1,0 +1,51 @@
+{
+  "overview": "Takodana Castle is a neutral fortress settlement on Takodana, documented across Films · Battlefront II. Maz Kanata's ancient castle on Takodana is a crossroads for smugglers, monarchs, and Resistance heroes beneath stained-glass war trophies.",
+  "history": "Takodana Castle began as a neutral fortress settlement anchor on Takodana, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Takodana Castle predates the Republic, built atop a Force nexus Maz Kanata has guarded for over a millennium. Early survey maps from the Old Republic era list Takodana Castle as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Takodana Castle as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Takodana Castle include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Basement vaults hold relics from every galactic war; some lightsaber fragments predate the Sith Rule of Two. High Republic pathfinders logged Takodana Castle as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Takodana suggest Takodana Castle once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Takodana Castle expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Han Solo, Rey, and Finn received Anakin's lightsaber here before Starkiller Base's destruction. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Takodana Castle because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Takodana Castle as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nTakodana Castle has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. The First Order bombarded the castle after the Hosnian cataclysm, scattering Maz's court to the stars. Clone Wars dossiers mark Takodana Castle as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Takodana Castle meant control of Takodana.",
+  "significance": "The economy of Takodana Castle runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Castle revenue flows from docking fees, information brokerage, and rare artifact authentication. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Takodana Castle infrastructure during the late Republic. Post-war reconstruction funds often bypass Takodana Castle officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Takodana Castle mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Maz hosts without judging faction—until guests break her neutrality, then her garrison acts decisively. Music, food, and festival calendars in Takodana Castle are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Takodana Castle back alleys.\n\nTakodana Castle influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Takodana's neutrality collapsed in the Sequel Era, forcing Maz into open Resistance support. Scenes set in Takodana Castle across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Takodana Castle when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Maz Kanata acquires the castle",
+    "Han Solo and Chewbacca frequent Maz's court for decades",
+    "Rey finds Anakin's lightsaber in the vault",
+    "First Order destroys much of the castle",
+    "Maz relocates operations while rebuilding"
+  ],
+  "affiliations": [
+    "Maz Kanata's court",
+    "Galactic underworld brokers",
+    "Resistance",
+    "Smuggler guilds",
+    "Ancient Force watchers"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Castle founded on Force nexus"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Maz Kanata becomes custodian"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Castle serves neutral ground"
+    },
+    {
+      "era": "First Order",
+      "event": "Bombardment after Hosnian Prime"
+    },
+    {
+      "era": "Resistance Era",
+      "event": "Maz aids fleet musters"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/takodana-castle.svg",
+      "caption": "Emblem — Takodana Castle"
+    },
+    {
+      "path": "/images/settlements/takodana-castle-scene.svg",
+      "caption": "Scene illustration — Takodana Castle"
+    }
+  ]
+}

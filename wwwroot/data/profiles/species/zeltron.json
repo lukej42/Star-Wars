@@ -1,0 +1,49 @@
+{
+  "overview": "Zeltron (Humanoid mammal) is native to Zeltros and ranks among the most consequential species in galactic history. Zeltrons from pleasure world Zeltros emit pheromones and empathic joy that make them diplomats, entertainers, and KOTOR-era companions like Missions' associates across the Rim. Their pink skin and hedonistic culture mask sharp survival instincts forged by invasion.",
+  "history": "The Zeltron (humanoid mammal) trace their deepest roots to Zeltros, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Zeltros and Jedi Archaeological surveys confirm Zeltron civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Zeltron populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Zeltron history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Zeltron societies on Zeltros established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Zeltron polities traded with Core Founders and Sith Empire emissaries; ruins on Zeltros still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Zeltron identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Zeltron delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Zeltron diaspora communities appeared on every major trade lane and war front. Modern Zeltron appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Zeltron empath guilds remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Zeltron networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Zeltron migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nZeltron fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Zeltron fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Zeltros's terrain and humanoid mammal biology. KOTOR and KOTOR II document Zeltron involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Zeltron leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Zeltron display traits typical of humanoid mammal life adapted to Zeltros's gravity, atmosphere, and seasonal extremes. pheromonal mood influence and pink pigmentation. Republic medics and Imperial biometrics both document Zeltron resilience under occupation, exile, and frontline trauma. Medics note that Zeltron physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Zeltron resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nZeltron culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. festival cities along tropical coasts. Zeltron diaspora communities preserve homeworld ritual even when Zeltros itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Zeltron spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Zeltron communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Zeltron exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Zeltron merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Zeltron innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Zeltron choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Zeltros repels Mandalorian and Hutt invasions through diplomacy",
+    "Zeltron empaths serve as Republic mediators",
+    "Sith occupation of Zeltros triggers underground resistance"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Zeltros governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Zeltron consolidate early civilization on Zeltros"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Zeltron join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Zeltron factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Zeltron identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Zeltron political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/zeltron.svg",
+      "caption": "Emblem — Zeltron"
+    },
+    {
+      "path": "/images/species/zeltron-scene.svg",
+      "caption": "Scene illustration — Zeltron"
+    }
+  ]
+}

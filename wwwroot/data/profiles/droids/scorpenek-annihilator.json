@@ -1,0 +1,47 @@
+{
+  "overview": "Scorpenek Annihilator is a destroyer droid built by Colicoid Creation Nest, documented across Clone Wars · Bad Batch. Massive scorpion-like annihilator droids with nearly impenetrable shields deployed in the final Clone Wars campaigns on Felucia and beyond.",
+  "history": "Scorpenek Annihilator belongs to the destroyer droid class manufactured by Colicoid Creation Nest, one of the most recognizable automaton designs documented across galactic history. Scorpenek annihilators are droideka-scale heavy walkers with scorpion profiles and stronger shields. Colicoid Creation Nest factory schematics document the destroyer droid platform lineage that produced Scorpenek Annihilator, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Scorpenek Annihilator as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Scorpenek Annihilator. Excavations on Taris, Dxun, and Dromund Kaas recovered destroyer droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Colicoid Creation Nest subsystems, spreading design language across millennia before Scorpenek Annihilator rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Colicoid Creation Nest subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and destroyer droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Scorpenek Annihilator units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Scorpenek Annihilator units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Colicoid Creation Nest frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Colicoid Creation Nest frames. Historians studying the Sequel Era treat surviving Scorpenek Annihilator memory cores as primary sources on earlier conflicts.\n\nScorpenek Annihilator and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Scorpenek Annihilator and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of destroyer droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Colicoid Creation Nest automata.",
+  "significance": "Engineering analysis of Scorpenek Annihilator highlights why destroyer droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Scorpenek Annihilator's modular destroyer droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Colicoid Creation Nest documentation; slicers praise its predictable security flaws—both keep Scorpenek Annihilator relevant in scrap yards centuries later. New Republic certification boards still debate which destroyer droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Scorpenek Annihilator when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Scorpenek Annihilator when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every destroyer droid rights petition involving Colicoid Creation Nest personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Scorpenek Annihilator's service record. Whether Scorpenek Annihilator is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Scorpenek Annihilator exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Scorpenek Annihilator; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Scorpenek Annihilator, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Colicoid Creation Nest chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Nearly impenetrable deflector shields",
+    "Scorpion-like profile larger than standard droideka",
+    "Deployed on Felucia and late-war battlefronts",
+    "Colicoid Creation Nest heavy assault variant",
+    "Bad Batch encounters scorpenek on late-war missions"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Colicoid Creation Nest",
+    "Separatist elite assault",
+    "Felucia garrison",
+    "General Grievous's forces"
+  ],
+  "timeline": [
+    {
+      "era": "Late War",
+      "event": "Scorpenek developed as droideka upgrade"
+    },
+    {
+      "era": "Felucia",
+      "event": "Heavy deployment on jungle world"
+    },
+    {
+      "era": "Bad Batch Era",
+      "event": "Clone Force 99 encounters scorpenek"
+    },
+    {
+      "era": "War's End",
+      "event": "Few units survive shutdown"
+    },
+    {
+      "era": "Legacy",
+      "event": "Most feared Separatist walker variant"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/scorpenek-annihilator-scene.png",
+      "caption": "Cinematic illustration — Scorpenek Annihilator"
+    }
+  ]
+}

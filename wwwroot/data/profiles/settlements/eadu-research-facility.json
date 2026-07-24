@@ -1,0 +1,51 @@
+{
+  "overview": "Eadu Research Facility is a imperial kyber lab on Eadu, documented across Rogue One. Eadu's rain-soaked cliffs hid Galen Erso's kyber weapon research team before the Death Star project's exposure.",
+  "history": "Eadu Research Facility began as a imperial kyber lab anchor on Eadu, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Eadu Research Facility began as a strategic anchor on Eadu, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Eadu Research Facility as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Eadu Research Facility as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Eadu Research Facility include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Eadu Research Facility include ward-stones and battle markers from Sith and Jedi campaigns on Eadu. High Republic pathfinders logged Eadu Research Facility as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Eadu suggest Eadu Research Facility once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Eadu Research Facility expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Eadu Research Facility appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Eadu Research Facility because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Eadu Research Facility as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nEadu Research Facility has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Eadu Research Facility as contested territory on Eadu. Clone Wars dossiers mark Eadu Research Facility as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Eadu Research Facility meant control of Eadu.",
+  "significance": "The economy of Eadu Research Facility runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Eadu Research Facility runs on local industry, trade tariffs, and black-market mediation typical of Eadu. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Eadu Research Facility infrastructure during the late Republic. Post-war reconstruction funds often bypass Eadu Research Facility officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Eadu Research Facility mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Eadu Research Facility preserve Eadu rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Eadu Research Facility are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Eadu Research Facility back alleys.\n\nEadu Research Facility influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Eadu Research Facility when tracing how Eadu influenced sector-wide treaties and fleet movements. Scenes set in Eadu Research Facility across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Eadu Research Facility when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Eadu Research Facility founded on Eadu",
+    "Recorded siege or battle at Eadu Research Facility",
+    "Occupation forces restructure Eadu Research Facility",
+    "Underground resistance operates from Eadu Research Facility",
+    "Post-war memorialization of Eadu Research Facility"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Eadu governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Eadu Research Facility"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Eadu Research Facility"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Eadu Research Facility"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Eadu Research Facility"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Eadu Research Facility"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/eadu-research-facility.svg",
+      "caption": "Emblem — Eadu Research Facility"
+    },
+    {
+      "path": "/images/settlements/eadu-research-facility-scene.svg",
+      "caption": "Scene illustration — Eadu Research Facility"
+    }
+  ]
+}

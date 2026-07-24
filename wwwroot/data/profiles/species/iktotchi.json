@@ -1,0 +1,49 @@
+{
+  "overview": "Iktotchi (Humanoid mammal) is native to Iktotch and ranks among the most consequential species in galactic history. Iktotchi possess curved cranial horns and precognitive flashes that made them valued—and feared—across the Rim. Jedi Master Saesee Tiin, a renowned starfighter pilot and swordsman, served on the Council until Darth Sidious personally killed him during the Temple purge.",
+  "history": "The Iktotchi (humanoid mammal) trace their deepest roots to Iktotch, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Iktotch and Jedi Archaeological surveys confirm Iktotchi civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Iktotchi populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Iktotchi history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Iktotchi societies on Iktotch established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Iktotchi polities traded with Core Founders and Sith Empire emissaries; ruins on Iktotch still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Iktotchi identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Iktotchi delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Iktotchi diaspora communities appeared on every major trade lane and war front. Modern Iktotchi appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Saesee Tiin remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Iktotchi networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Iktotchi migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nIktotchi fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Iktotchi fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Iktotch's terrain and humanoid mammal biology. KOTOR and KOTOR II document Iktotchi involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Iktotchi leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Iktotchi display traits typical of humanoid mammal life adapted to Iktotch's gravity, atmosphere, and seasonal extremes. precognitive dreams and horn sensory organs. Republic medics and Imperial biometrics both document Iktotchi resilience under occupation, exile, and frontline trauma. Medics note that Iktotchi physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Iktotchi resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nIktotchi culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. wind-scoured plateau monasteries. Iktotchi diaspora communities preserve homeworld ritual even when Iktotch itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Iktotchi spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Iktotchi communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Iktotchi exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Iktotchi merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Iktotchi innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Iktotchi choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Saesee Tiin joins Jedi Council",
+    "Iktotchi precognition documented by Jedi Archives",
+    "Tiin falls defending Temple from Sidious"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Iktotch governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Iktotchi consolidate early civilization on Iktotch"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Iktotchi join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Iktotchi factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Iktotchi identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Iktotchi political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/iktotchi.svg",
+      "caption": "Emblem — Iktotchi"
+    },
+    {
+      "path": "/images/species/iktotchi-scene.svg",
+      "caption": "Scene illustration — Iktotchi"
+    }
+  ]
+}

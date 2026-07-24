@@ -1,0 +1,49 @@
+{
+  "overview": "Force Net is a adept-level dark side technique classified under Telekinesis. Weaves strands of dark-side telekinetic energy into a binding net that ensnares and immobilizes multiple targets at once. Sith Inquisitors and Nightsister acolytes deployed Force nets to capture fleeing Jedi and Force-sensitive children for the Empire's Project Harvester.",
+  "history": "Force scholars trace Force Net across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Rebels · Clone Wars · KOTOR II · The Old Republic established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Net into initiates as part of the standard curriculum for telekinesis specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Net alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Net exemplifies how telekinesis abilities shape Force doctrine on the dark side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Net could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Net remains a benchmark of telekinesis proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Net in Imperial Era conflicts",
+    "Standardised in Telekinesis curricula of the Sith academies",
+    "Featured prominently in media: Rebels · Clone Wars · KOTOR II · The Old Republic",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Sith Order",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "First major documented use of Force Net in Imperial Era conflicts"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Standardised in Telekinesis curricula of the Sith academies"
+    },
+    {
+      "era": "New Republic",
+      "event": "Featured prominently in media: Rebels · Clone Wars · KOTOR II · The Old Republic"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-net.svg",
+      "caption": "Emblem — Force Net"
+    },
+    {
+      "path": "/images/force-powers/force-net-scene.svg",
+      "caption": "Scene illustration — Force Net"
+    }
+  ]
+}

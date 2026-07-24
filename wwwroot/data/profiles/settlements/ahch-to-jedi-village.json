@@ -1,0 +1,51 @@
+{
+  "overview": "Ahch-To Jedi Village is a sacred island enclave on Ahch-To, documented across Films · Expanded lore. Ahch-To's stone huts and cliffside steps sheltered the first Jedi temple and later Luke Skywalker's exile, where Rey learned that legacy is chosen—not inherited.",
+  "history": "Ahch-To Jedi Village began as a sacred island enclave anchor on Ahch-To, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Ahch-To's Jedi Village sits where the Prime Jedi first balanced light and dark; ocean storms and lanai birds shaped a monastic culture older than the Republic Senate. Early survey maps from the Old Republic era list Ahch-To Jedi Village as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Ahch-To Jedi Village as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Ahch-To Jedi Village include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Ruined texts in the island library describe Je'daii rites predating the Jedi Council, with meditation caves still resonating during Rey's vision quest. High Republic pathfinders logged Ahch-To Jedi Village as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Ahch-To suggest Ahch-To Jedi Village once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Ahch-To Jedi Village expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Luke Skywalker rebuilt occupancy in secret after Ben Solo's fall, training no students but archiving what remained of Order doctrine until Rey arrived. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Ahch-To Jedi Village because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Ahch-To Jedi Village as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nAhch-To Jedi Village has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. The First Order's hunt for Skywalker turned Ahch-To into a contested pilgrimage; Luke's Force projection at Crait began from these cliffs. Clone Wars dossiers mark Ahch-To Jedi Village as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Ahch-To Jedi Village meant control of Ahch-To.",
+  "significance": "The economy of Ahch-To Jedi Village runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Tourism is forbidden; sustenance comes from fish, seabird eggs, and salvaged offworld supplies left by Caretaker rituals. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Ahch-To Jedi Village infrastructure during the late Republic. Post-war reconstruction funds often bypass Ahch-To Jedi Village officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Ahch-To Jedi Village mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Caretakers maintain a oral liturgy in their language; Jedi visitors learn humility through manual labor and silence facing the northern sea. Music, food, and festival calendars in Ahch-To Jedi Village are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Ahch-To Jedi Village back alleys.\n\nAhch-To Jedi Village influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Ahch-To marks the pivot from Skywalker-centric hope to a wider Jedi future embodied by Rey and the buried texts she recovered. Scenes set in Ahch-To Jedi Village across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Ahch-To Jedi Village when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Prime Jedi temple established on Ahch-To",
+    "Luke Skywalker exiles himself after Ben Solo's destruction of the academy",
+    "Rey discovers Luke and the ancient Jedi texts",
+    "Luke becomes one with the Force after projecting at Crait",
+    "Rey buries Luke and Leia's lightsabers on the island"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Prime Jedi tradition",
+    "Luke Skywalker's exile community",
+    "Resistance",
+    "Caretaker lanai"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Prime Jedi forge first temple on Ahch-To"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Jedi historians catalog island rites"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Temple falls into obscurity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Luke Skywalker reoccupies the village"
+    },
+    {
+      "era": "First Order",
+      "event": "Rey completes her training pilgrimage"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/ahch-to-jedi-village.svg",
+      "caption": "Emblem — Ahch-To Jedi Village"
+    },
+    {
+      "path": "/images/settlements/ahch-to-jedi-village-scene.svg",
+      "caption": "Scene illustration — Ahch-To Jedi Village"
+    }
+  ]
+}

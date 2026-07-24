@@ -1,0 +1,51 @@
+{
+  "overview": "Echo Base is a rebel military base on Hoth, documented across Films · Rebels references. Echo Base hidden in Hoth's ice caves sheltered the Alliance until Imperial AT-AT assault forced evacuation after the Battle of Hoth.",
+  "history": "Echo Base began as a rebel military base anchor on Hoth, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Echo Base grew where Hoth's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a rebel military base that outlasted first founders. Early survey maps from the Old Republic era list Echo Base as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Echo Base as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Echo Base include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Echo Base include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Echo Base as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Hoth suggest Echo Base once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Echo Base expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Echo Base; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Echo Base because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Echo Base as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nEcho Base has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Echo Base as strategically contested on Hoth. Clone Wars dossiers mark Echo Base as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Echo Base meant control of Hoth.",
+  "significance": "The economy of Echo Base runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Echo Base's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Echo Base infrastructure during the late Republic. Post-war reconstruction funds often bypass Echo Base officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Echo Base mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Echo Base blend Hoth native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Echo Base are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Echo Base back alleys.\n\nEcho Base influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Echo Base altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Echo Base across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Echo Base when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Echo Base founded as rebel military base on Hoth",
+    "Major battle or siege recorded at Echo Base",
+    "Imperial occupation transforms Echo Base governance",
+    "Rebel or Resistance cell operates from Echo Base",
+    "New Republic era reconstruction begins at Echo Base"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Echo Base"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Echo Base joins sector trade networks on Hoth"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Echo Base triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Echo Base"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Echo Base"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/echo-base.svg",
+      "caption": "Emblem — Echo Base"
+    },
+    {
+      "path": "/images/settlements/echo-base-scene.svg",
+      "caption": "Scene illustration — Echo Base"
+    }
+  ]
+}

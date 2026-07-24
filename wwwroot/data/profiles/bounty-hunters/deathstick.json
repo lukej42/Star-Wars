@@ -1,0 +1,45 @@
+{
+  "overview": "Deathstick is a twi'lek assassin from Ryloth, documented across Clone Wars · Comics. Twi'lek assassin-hunter who operated on Nar Shaddaa during the Clone Wars, selling lethal precision to Exchange brokers.",
+  "history": "Deathstick rose from Ryloth to become a twi'lek assassin whose name appears on guild boards from the Core to the Outer Rim. Deathstick earned her name on Nar Shaddaa by completing Exchange assassinations that guild hunters considered too politically exposed for open pucks. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Deathstick as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Deathstick's career, Ryloth produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Ryloth supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Deathstick posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how twi'lek assassin contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Deathstick negotiate payment and honor.\n\nIn the modern era, Deathstick competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Deathstick remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Deathstick. Mandalorian-era postings on Nevarro and Mos Espa show twi'lek assassin specialists remain essential to galactic order—and chaos.\n\nDeathstick operated in war zones where capture alive paid more than kill, and both paid more than failure. Deathstick eliminated Separatist financiers and corrupt Republic officials when standard bounty postings would trigger diplomatic incidents. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of twi'lek assassin hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Deathstick's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Deathstick as a twi'lek assassin relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Vibro-blade mastery, Twi'lek stealth, Exchange safe routes, and politically deniable assassination. Guild instructors use redacted mission logs from Deathstick's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Deathstick often know smuggler routes better than naval patrols.\n\nAmong peers, Deathstick earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Deathstick as a twi'lek assassin whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Deathstick that may be half true and fully instructive. Whether Deathstick followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Deathstick exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Deathstick's captures and eliminations shifted local power wherever Ryloth expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Deathstick, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Deathstick when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Nar Shaddaa Exchange assassin training",
+    "Clone Wars politically deniable kills",
+    "Separatist financier eliminations",
+    "Republic corruption target removals"
+  ],
+  "affiliations": [
+    "Nar Shaddaa Exchange",
+    "Ryloth assassin circles",
+    "Bounty Hunters' Guild (adjacent)",
+    "Shadow broker networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ryloth",
+      "event": "Assassin training"
+    },
+    {
+      "era": "Nar Shaddaa",
+      "event": "Exchange work"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Deniable kills"
+    },
+    {
+      "era": "Legacy",
+      "event": "Assassin-hunter archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/deathstick.svg",
+      "caption": "Emblem — Deathstick"
+    },
+    {
+      "path": "/images/bounty-hunters/deathstick-scene.svg",
+      "caption": "Scene illustration — Deathstick"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Rhen Var Outpost is a arctic research base on Rhen Var, documented across Clone Wars · Battlefront. Rhen Var's frozen ruins and research domes saw Jedi battles during the Clone Wars' icy campaigns.",
+  "history": "Rhen Var Outpost began as a arctic research base anchor on Rhen Var, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Rhen Var Outpost began as a strategic anchor on Rhen Var, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Rhen Var Outpost as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Rhen Var Outpost as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Rhen Var Outpost include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Rhen Var Outpost include ward-stones and battle markers from Sith and Jedi campaigns on Rhen Var. High Republic pathfinders logged Rhen Var Outpost as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Rhen Var suggest Rhen Var Outpost once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Rhen Var Outpost expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Rhen Var Outpost appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Rhen Var Outpost because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Rhen Var Outpost as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nRhen Var Outpost has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Rhen Var Outpost as contested territory on Rhen Var. Clone Wars dossiers mark Rhen Var Outpost as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Rhen Var Outpost meant control of Rhen Var.",
+  "significance": "The economy of Rhen Var Outpost runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Rhen Var Outpost runs on local industry, trade tariffs, and black-market mediation typical of Rhen Var. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Rhen Var Outpost infrastructure during the late Republic. Post-war reconstruction funds often bypass Rhen Var Outpost officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Rhen Var Outpost mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Rhen Var Outpost preserve Rhen Var rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Rhen Var Outpost are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Rhen Var Outpost back alleys.\n\nRhen Var Outpost influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Rhen Var Outpost when tracing how Rhen Var influenced sector-wide treaties and fleet movements. Scenes set in Rhen Var Outpost across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Rhen Var Outpost when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Rhen Var Outpost founded on Rhen Var",
+    "Recorded siege or battle at Rhen Var Outpost",
+    "Occupation forces restructure Rhen Var Outpost",
+    "Underground resistance operates from Rhen Var Outpost",
+    "Post-war memorialization of Rhen Var Outpost"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Rhen Var governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Rhen Var Outpost"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Rhen Var Outpost"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Rhen Var Outpost"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Rhen Var Outpost"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Rhen Var Outpost"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/rhen-var-outpost.svg",
+      "caption": "Emblem — Rhen Var Outpost"
+    },
+    {
+      "path": "/images/settlements/rhen-var-outpost-scene.svg",
+      "caption": "Scene illustration — Rhen Var Outpost"
+    }
+  ]
+}

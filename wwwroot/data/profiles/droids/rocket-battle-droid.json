@@ -1,0 +1,47 @@
+{
+  "overview": "Rocket Battle Droid is a rocket battle droid built by Baktoid Combat Automata, documented across Clone Wars. B1 droids with rocket packs for zero-G boarding actions and asteroid facility assaults during the Clone Wars.",
+  "history": "Rocket Battle Droid belongs to the rocket battle droid class manufactured by Baktoid Combat Automata, one of the most recognizable automaton designs documented across galactic history. Rocket battle droids use jetpacks for zero-G combat during space station boarding actions. Baktoid Combat Automata factory schematics document the rocket battle droid platform lineage that produced Rocket Battle Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Rocket Battle Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Rocket Battle Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered rocket battle droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Baktoid Combat Automata subsystems, spreading design language across millennia before Rocket Battle Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Baktoid Combat Automata subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and rocket battle droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Rocket Battle Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Rocket Battle Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Baktoid Combat Automata frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Baktoid Combat Automata frames. Historians studying the Sequel Era treat surviving Rocket Battle Droid memory cores as primary sources on earlier conflicts.\n\nRocket Battle Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Rocket Battle Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of rocket battle droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Baktoid Combat Automata automata.",
+  "significance": "Engineering analysis of Rocket Battle Droid highlights why rocket battle droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Rocket Battle Droid's modular rocket battle droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Baktoid Combat Automata documentation; slicers praise its predictable security flaws—both keep Rocket Battle Droid relevant in scrap yards centuries later. New Republic certification boards still debate which rocket battle droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Rocket Battle Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Rocket Battle Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every rocket battle droid rights petition involving Baktoid Combat Automata personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Rocket Battle Droid's service record. Whether Rocket Battle Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Rocket Battle Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Rocket Battle Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Rocket Battle Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Baktoid Combat Automata chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Jetpack-equipped B1 for zero-G boarding",
+    "Assaults Republic space stations and asteroid bases",
+    "Clone Wars space combat specialist variant",
+    "Baktoid Combat Automata zero-G adaptation",
+    "Deploys from Separatist boarding craft"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Separatist Navy",
+    "Baktoid Combat Automata",
+    "General Grievous's fleet",
+    "Separatist boarding parties"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Rocket B1 variant enters service"
+    },
+    {
+      "era": "Space Combat",
+      "event": "Boards Republic space stations"
+    },
+    {
+      "era": "Mid-War",
+      "event": "Asteroid facility assaults"
+    },
+    {
+      "era": "Late War",
+      "event": "Outer Rim space station battles"
+    },
+    {
+      "era": "Post-War",
+      "event": "Deactivated with droid army"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/rocket-battle-droid-scene.png",
+      "caption": "Cinematic illustration — Rocket Battle Droid"
+    }
+  ]
+}

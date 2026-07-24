@@ -1,0 +1,51 @@
+{
+  "overview": "Jakoli is a rodian bounty hunter from Rodia, documented across Clone Wars. Rodian hunter known for never bringing targets alive; box tournament competitor.",
+  "history": "Jakoli rose from Rodia to become a rodian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Jakoli, Rodian hunter from Rodia, built reputation for never bringing targets alive before entering Moralo Eval's box—lethal Rodian tradition in gladiator assassin screening. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Jakoli as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Jakoli's career, Rodia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Rodia hunter clans debate kill-vs-capture ethics; Jakoli represents extreme lethal-only Rodian contractors predating Greedo's cantina confrontation fame. Old Republic bounty charters and Sith Empire mercenary rolls show how rodian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Jakoli negotiate payment and honor.\n\nIn the modern era, Jakoli competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Jakoli's no-prisoners policy made him box tournament outlier—Eval valued lethal intent for assassination recruitment pipeline over guild capture standards. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Jakoli. Mandalorian-era postings on Nevarro and Mos Espa show rodian bounty hunter specialists remain essential to galactic order—and chaos.\n\nJakoli operated in war zones where capture alive paid more than kill, and both paid more than failure. Jakoli competed in Eval's box using lethal Rodian tracking, eliminating competitors permanently rather than disabling—matching Separatist assassin requirements. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of rodian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Jakoli's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Jakoli as a rodian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Rodian lethal tracking, no-capture kill policy, box arena ambushes, and clan honor through permanent elimination of all targets. Guild instructors use redacted mission logs from Jakoli's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Jakoli often know smuggler routes better than naval patrols.\n\nAmong peers, Jakoli earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Box organizers noted Jakoli's kill-only policy; Rodian clans divided on his extremism; guild capture specialists considered him professionally deviant. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Jakoli that may be half true and fully instructive. Whether Jakoli followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Jakoli exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Jakoli represented lethal-only hunter subclass Separatists preferred for assassination pipeline—capture-alive guild norms explicitly rejected. Without contractors like Jakoli, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Jakoli when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Builds no-capture Rodian reputation",
+    "Enters Moralo Eval's box tournament",
+    "Lethal elimination of box competitors",
+    "Separatist assassin pipeline candidate",
+    "Rodian kill-only hunter icon"
+  ],
+  "affiliations": [
+    "Moralo Eval's box roster",
+    "Rodia hunter clans",
+    "Separatist assassination pipeline",
+    "Bounty Hunters' Guild (deviant)",
+    "Lethal-only contractor market"
+  ],
+  "timeline": [
+    {
+      "era": "Rodia",
+      "event": "Kill-only hunter training"
+    },
+    {
+      "era": "Reputation",
+      "event": "No-capture policy established"
+    },
+    {
+      "era": "Box Entry",
+      "event": "Eval tournament"
+    },
+    {
+      "era": "Lethal Trials",
+      "event": "Permanent eliminations"
+    },
+    {
+      "era": "Legacy",
+      "event": "Assassin pipeline fit"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/jakoli.svg",
+      "caption": "Emblem — Jakoli"
+    },
+    {
+      "path": "/images/bounty-hunters/jakoli-scene.svg",
+      "caption": "Scene illustration — Jakoli"
+    }
+  ]
+}

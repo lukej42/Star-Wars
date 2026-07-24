@@ -1,0 +1,51 @@
+{
+  "overview": "Chata Hylo is a pantoran bounty hunter from Pantora, documented across Comics · High Republic. Pantoran hunter active in High Republic and later eras in extended publishing.",
+  "history": "Chata Hylo rose from Pantora to become a pantoran bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Chata Hylo, Pantoran bounty hunter, operated across High Republic era frontiers where Nihil chaos created unprecedented puck demand for hunters willing to enter hyperspace anomaly zones. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Chata Hylo as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Chata Hylo's career, Pantora produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Pantora's diplomatic moon culture produced independent contractors when Republic governance failed Rim sectors; Hylo represents High Republic hunter generation predating Clone Wars guild formalization. Old Republic bounty charters and Sith Empire mercenary rolls show how pantoran bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Chata Hylo negotiate payment and honor.\n\nIn the modern era, Chata Hylo competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Chata Hylo's extended publishing presence connects High Republic hunter markets to later era guild continuity—rare cross-era Pantoran hunter documentation. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Chata Hylo. Mandalorian-era postings on Nevarro and Mos Espa show pantoran bounty hunter specialists remain essential to galactic order—and chaos.\n\nChata Hylo operated in war zones where capture alive paid more than kill, and both paid more than failure. Hylo hunted Nihil raiders, protected Rim convoys during High Republic crisis, and navigated frontier zones where Republic judicial authority barely reached. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of pantoran bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Chata Hylo's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Chata Hylo as a pantoran bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Pantoran cold-tolerance tactics, starship pursuit through anomaly zones, Rim convoy escort flipping to hunt mode, and frontier improvisation. Guild instructors use redacted mission logs from Chata Hylo's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Chata Hylo often know smuggler routes better than naval patrols.\n\nAmong peers, Chata Hylo earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. High Republic era brokers valued Hylo's anomaly-zone experience; Pantoran government noted her independent operations outside diplomatic corps. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Chata Hylo that may be half true and fully instructive. Whether Chata Hylo followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Chata Hylo exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Chata Hylo links High Republic hunter economy to later guild eras—documenting puck markets during Nihil crisis predating Imperial formalization. Without contractors like Chata Hylo, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Chata Hylo when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Active during High Republic Nihil crisis",
+    "Hunts raiders in hyperspace anomaly zones",
+    "Protects Rim convoy routes",
+    "Pantoran independent contractor role",
+    "Extended publishing cross-era presence"
+  ],
+  "affiliations": [
+    "High Republic hunter markets",
+    "Pantora independent contractors",
+    "Nihil crisis responders",
+    "Rim convoy clients",
+    "Bounty Hunters' Guild (proto-era)"
+  ],
+  "timeline": [
+    {
+      "era": "High Republic",
+      "event": "Frontier hunter career begins"
+    },
+    {
+      "era": "Nihil Crisis",
+      "event": "Anomaly zone contracts"
+    },
+    {
+      "era": "Pantora",
+      "event": "Independent contractor status"
+    },
+    {
+      "era": "Convoy War",
+      "event": "Escort and hunt dual role"
+    },
+    {
+      "era": "Legacy",
+      "event": "Cross-era publishing link"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/chata-hylo.svg",
+      "caption": "Emblem — Chata Hylo"
+    },
+    {
+      "path": "/images/bounty-hunters/chata-hylo-scene.svg",
+      "caption": "Scene illustration — Chata Hylo"
+    }
+  ]
+}

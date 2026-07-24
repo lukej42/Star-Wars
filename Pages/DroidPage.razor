@@ -1,0 +1,61 @@
+@page "/droids/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(droid?.Name ?? "Droid")</PageTitle>
+
+@if (droid is null)
+{
+    <h1>Droid not found</h1>
+    <p>Sorry, there are no records for this unit.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading droid records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@droid.Name"
+                          HeroImagePath="@droid.SceneImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {droid.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@($"{droid.DroidType} · {droid.Manufacturer}")"
+                          MetaLine="@($"Sources: {droid.Sources}")"
+                          OverviewText="@(profile?.Overview ?? droid.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Design and galactic impact"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@droid.Color">
+        <a href="all-droids">Back to all droids</a>
+    </DirectoryDetailShell>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private Droid? droid;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        droid = DroidData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (droid is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("droids", droid.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

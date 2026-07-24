@@ -1,0 +1,47 @@
+{
+  "overview": "GNK Power Droid is a power droid built by Industrial Automaton, documented across All saga eras · Mandalorian. The walking power generator nicknamed 'gonk' whose repetitive 'gonk gonk' sound became synonymous with Mos Eisley alleys and military staging areas galaxy-wide.",
+  "history": "GNK Power Droid belongs to the power droid class manufactured by Industrial Automaton, one of the most recognizable automaton designs documented across galactic history. GNK power droids walk circuits between generators with iconic 'gonk' vocalizations. Industrial Automaton factory schematics document the power droid platform lineage that produced GNK Power Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat GNK Power Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced GNK Power Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered power droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Industrial Automaton subsystems, spreading design language across millennia before GNK Power Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Industrial Automaton subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and power droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, GNK Power Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. GNK Power Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Industrial Automaton frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Industrial Automaton frames. Historians studying the Sequel Era treat surviving GNK Power Droid memory cores as primary sources on earlier conflicts.\n\nGNK Power Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, GNK Power Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of power droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Industrial Automaton automata.",
+  "significance": "Engineering analysis of GNK Power Droid highlights why power droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise GNK Power Droid's modular power droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Industrial Automaton documentation; slicers praise its predictable security flaws—both keep GNK Power Droid relevant in scrap yards centuries later. New Republic certification boards still debate which power droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite GNK Power Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite GNK Power Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every power droid rights petition involving Industrial Automaton personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as GNK Power Droid's service record. Whether GNK Power Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of GNK Power Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like GNK Power Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like GNK Power Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Industrial Automaton chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Powers equipment on Tatooine moisture farms",
+    "Common sight in Mos Eisley spaceport alleys",
+    "Imperial staging areas use gonk power walkers",
+    "Mandalorian-era hangars still deploy GNK units",
+    "Industrial Automaton's simplest and most beloved droid"
+  ],
+  "affiliations": [
+    "Moisture farmers",
+    "Galactic Empire (logistics)",
+    "Independent operators",
+    "Tatooine spaceports",
+    "Industrial Automaton clients"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "GNK series enters power delivery market"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Standard mobile generator across galaxy"
+    },
+    {
+      "era": "Tatooine",
+      "event": "Gonk droids power farms and cantinas"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Both sides use GNK logistics droids"
+    },
+    {
+      "era": "Modern Era",
+      "event": "Still produced for Rim colonies"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/gnk-power-droid-scene.png",
+      "caption": "Cinematic illustration — GNK Power Droid"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "Mark VII Inquisitor Droid is a inquisitor droid built by Sith Empire, documented across SWTOR · KOTOR references. Sith inquisitor droids with torture and interrogation subroutines used by the Sith Empire to break Jedi prisoners during the Cold War.",
+  "history": "Mark VII Inquisitor Droid belongs to the inquisitor droid class manufactured by Sith Empire, one of the most recognizable automaton designs documented across galactic history. Mark VII inquisitor droids combine Sith torture doctrine with automated interrogation efficiency. Sith Empire factory schematics document the inquisitor droid platform lineage that produced Mark VII Inquisitor Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Mark VII Inquisitor Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Mark VII Inquisitor Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered inquisitor droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Sith Empire subsystems, spreading design language across millennia before Mark VII Inquisitor Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Sith Empire subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and inquisitor droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Mark VII Inquisitor Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Mark VII Inquisitor Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Sith Empire frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Sith Empire frames. Historians studying the Sequel Era treat surviving Mark VII Inquisitor Droid memory cores as primary sources on earlier conflicts.\n\nMark VII Inquisitor Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Mark VII Inquisitor Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of inquisitor droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Sith Empire automata.",
+  "significance": "Engineering analysis of Mark VII Inquisitor Droid highlights why inquisitor droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Mark VII Inquisitor Droid's modular inquisitor droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Sith Empire documentation; slicers praise its predictable security flaws—both keep Mark VII Inquisitor Droid relevant in scrap yards centuries later. New Republic certification boards still debate which inquisitor droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Mark VII Inquisitor Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Mark VII Inquisitor Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every inquisitor droid rights petition involving Sith Empire personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Mark VII Inquisitor Droid's service record. Whether Mark VII Inquisitor Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Mark VII Inquisitor Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Mark VII Inquisitor Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Mark VII Inquisitor Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Sith Empire chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Interrogates Jedi prisoners on Dromund Kaas",
+    "Sith Empire standard detention torture droid",
+    "Mark VII series follows ancient IT-O design lineage",
+    "Deployed in Sith Academy detention blocks",
+    "Cold War-era tool for breaking Republic agents"
+  ],
+  "affiliations": [
+    "Sith Empire",
+    "Sith Inquisitorius",
+    "Dromund Kaas detention",
+    "Sith Academy",
+    "Imperial Intelligence (Sith)"
+  ],
+  "timeline": [
+    {
+      "era": "Great Galactic War",
+      "event": "Inquisitor droid development accelerates"
+    },
+    {
+      "era": "Cold War",
+      "event": "Mark VII deployed on Dromund Kaas"
+    },
+    {
+      "era": "Galactic War",
+      "event": "Interrogates captured Republic agents"
+    },
+    {
+      "era": "Eternal Empire",
+      "event": "Some units persist in hidden vaults"
+    },
+    {
+      "era": "Legacy",
+      "event": "Design influences Imperial IT-O"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/mark-vii-inquisitor-droid-scene.png",
+      "caption": "Cinematic illustration — Mark VII Inquisitor Droid"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Concordia is a industrial moon settlement on Mandalore, documented across Clone Wars. Concordia's mines and foundries on Mandalore's moon supplied beskar for centuries, hiding Death Watch cells beneath legitimate industry.",
+  "history": "Concordia began as a industrial moon settlement anchor on Mandalore, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Concordia's settlements ring mining pits where beskar veins made Mandalore an armorer to the galaxy. Early survey maps from the Old Republic era list Concordia as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Concordia as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Concordia include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Imperial excavations uncovered Basilisk frames sealed in lava tubes. High Republic pathfinders logged Concordia as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Mandalore suggest Concordia once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Concordia expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Death Watch used Concordia's abandoned mines as training camps before the Shadow Collective coup. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Concordia because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Concordia as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nConcordia has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Sabine Wren's discovery of Imperial weapons tests on Concordia exposed Mandalorian complicity. Clone Wars dossiers mark Concordia as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Concordia meant control of Mandalore.",
+  "significance": "The economy of Concordia runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Beskar refining, alloy export, and covert weapons labs dominate Concordia's economy. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Concordia infrastructure during the late Republic. Post-war reconstruction funds often bypass Concordia officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Concordia mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Miners maintain songs in Mando'a about flame and forge; Death Watch hijacked those symbols. Music, food, and festival calendars in Concordia are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Concordia back alleys.\n\nConcordia influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Concordia proves Mandalorian industry can arm both liberators and occupiers. Scenes set in Concordia across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Concordia when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Beskar mines opened on Concordia",
+    "Death Watch establishes hidden bases",
+    "Duchess Satine inspects mining safety reforms",
+    "Imperial saboteurs test weapons on Concordia",
+    "Mandalorian resistance reclaims foundries"
+  ],
+  "affiliations": [
+    "New Mandalorian government",
+    "Death Watch",
+    "Galactic Empire",
+    "Clan Saxon",
+    "Mandalorian super commandos"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Beskar mining begins"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Industrial moon urbanizes"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Death Watch insurgency"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Covert Imperial weapons testing"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Foundries contested by clans"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/concordia.svg",
+      "caption": "Emblem — Concordia"
+    },
+    {
+      "path": "/images/settlements/concordia-scene.svg",
+      "caption": "Scene illustration — Concordia"
+    }
+  ]
+}

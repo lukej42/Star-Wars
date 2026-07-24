@@ -1,0 +1,49 @@
+{
+  "overview": "Skakoan (Pressure-suit humanoid) is native to Skako and ranks among the most consequential species in galactic history. Skakoans require pressurized suits on any world unlike their methane-rich homeworld Skako, yet still dominate Techno Union leadership. Wat Tambor ruled Skako Minor foundries and exploited occupied worlds until the Republic retook his domain.",
+  "history": "The Skakoan (pressure-suit humanoid) trace their deepest roots to Skako, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Skako and Jedi Archaeological surveys confirm Skakoan civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Skakoan populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Skakoan history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Skakoan societies on Skako established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Skakoan polities traded with Core Founders and Sith Empire emissaries; ruins on Skako still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Skakoan identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Skakoan delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Skakoan diaspora communities appeared on every major trade lane and war front. Modern Skakoan appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Wat Tambor remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Skakoan networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Skakoan migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nSkakoan fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Skakoan fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Skako's terrain and pressure-suit humanoid biology. KOTOR and KOTOR II document Skakoan involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Skakoan leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Skakoan display traits typical of pressure-suit humanoid life adapted to Skako's gravity, atmosphere, and seasonal extremes. methane-breathing lungs requiring exosuits offworld. Republic medics and Imperial biometrics both document Skakoan resilience under occupation, exile, and frontline trauma. Medics note that Skakoan physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Skakoan resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nSkakoan culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. factory-cathedral hive cities. Skakoan diaspora communities preserve homeworld ritual even when Skako itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Skakoan spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Skakoan communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Skakoan exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Skakoan merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Skakoan innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Skakoan choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Wat Tambor leads Techno Union",
+    "Skakoan pressure suits become symbol of Separatist industry",
+    "Republic assault on Skako Minor"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Skako governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Skakoan consolidate early civilization on Skako"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Skakoan join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Skakoan factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Skakoan identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Skakoan political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/skakoan.svg",
+      "caption": "Emblem — Skakoan"
+    },
+    {
+      "path": "/images/species/skakoan-scene.svg",
+      "caption": "Scene illustration — Skakoan"
+    }
+  ]
+}

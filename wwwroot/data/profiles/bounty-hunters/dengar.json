@@ -1,0 +1,52 @@
+{
+  "overview": "Dengar is a corellian bounty hunter from Corellia, documented across Empire Strikes Back · Clone Wars · comics. Bandaged Corellian swoop-racing exile turned demolition-heavy guild enforcer on Vader's Executor roster.",
+  "history": "Dengar rose from Corellia to become a corellian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. A Corellian swoop champion until a rival's sabotage stole his fiancée Manaroo, Dengar turned bandaged bitterness into demolition-heavy bounty work favoring collateral damage. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Dengar as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Dengar's career, Corellia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Corellia's swoop circuits and Exchange demolition rings predate Dengar; KOTOR Nar Shaddaa rolls list Corellian enforcers preferring explosives to capture. Old Republic bounty charters and Sith Empire mercenary rolls show how corellian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Dengar negotiate payment and honor.\n\nIn the modern era, Dengar competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Post-Endor archives cite Dengar on Vader's Executor roster; his Manaroo partnership and young Boba team-ups kept him active through Imperial collapse. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Dengar. Mandalorian-era postings on Nevarro and Mos Espa show corellian bounty hunter specialists remain essential to galactic order—and chaos.\n\nDengar operated in war zones where capture alive paid more than kill, and both paid more than failure. Dengar hunted the Millennium Falcon on the Executor, fought in Boba Fett's Clone Wars crew, and clashed with Han Solo's smuggling network repeatedly. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of corellian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Dengar's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Dengar as a corellian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Demolition charges, grapple-mine launchers, and bandaged cranial armor—Dengar favors overwhelming firepower over silent extraction. Guild instructors use redacted mission logs from Dengar's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Dengar often know smuggler routes better than naval patrols.\n\nAmong peers, Dengar earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Peers mock his bandages but not his kill count; cantina lore claims he survived a point-blank thermal detonator from stubbornness alone. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Dengar that may be half true and fully instructive. Whether Dengar followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Dengar exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Dengar helped establish Imperial precedent of outsourcing high-value captures to guild specialists over Star Destroyer deployments. Without contractors like Dengar, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Dengar when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Swoop career destroyed by rival sabotage",
+    "Joins Vader's six-hunter Executor roster",
+    "Hunts Falcon to Bespin with Boba Fett",
+    "Allies with teenage Boba in Clone Wars",
+    "Survives Nar Shaddaa guild wars"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Darth Vader's hunter roster",
+    "Corellian swoop circuit (former)",
+    "Manaroo partnership",
+    "Hutt Cartel (contracted)",
+    "Imperial Security Bureau"
+  ],
+  "timeline": [
+    {
+      "era": "Corellia",
+      "event": "Swoop champion before sabotage"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Young Boba ally"
+    },
+    {
+      "era": "Executor",
+      "event": "Falcon hunt"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Demolition contracts"
+    },
+    {
+      "era": "Post-Endor",
+      "event": "Guild restructuring era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/dengar.svg",
+      "caption": "Emblem — Dengar"
+    },
+    {
+      "path": "/images/bounty-hunters/dengar-scene.svg",
+      "caption": "Scene illustration — Dengar"
+    }
+  ]
+}

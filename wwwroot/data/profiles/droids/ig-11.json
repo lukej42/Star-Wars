@@ -1,0 +1,47 @@
+{
+  "overview": "IG-11 is a assassin droid built by Holowan Mechanicals, documented across The Mandalorian. A nurse-turned-protector whose reprogramming by Kuiil and sacrifice on Nevarro redefined what Mandalorian found-family could mean for a killer droid.",
+  "history": "IG-11 belongs to the assassin droid class manufactured by Holowan Mechanicals, one of the most recognizable automaton designs documented across galactic history. IG-11 arrived on Nevarro to terminate Grogu; Kuiil's patience rewrote his purpose entirely. Holowan Mechanicals factory schematics document the assassin droid platform lineage that produced IG-11, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat IG-11 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced IG-11. Excavations on Taris, Dxun, and Dromund Kaas recovered assassin droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Holowan Mechanicals subsystems, spreading design language across millennia before IG-11 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Holowan Mechanicals subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and assassin droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, IG-11 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. IG-11 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Holowan Mechanicals frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Holowan Mechanicals frames. Historians studying the Sequel Era treat surviving IG-11 memory cores as primary sources on earlier conflicts.\n\nIG-11 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, IG-11 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of assassin droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Holowan Mechanicals automata.",
+  "significance": "Engineering analysis of IG-11 highlights why assassin droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise IG-11's modular assassin droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Holowan Mechanicals documentation; slicers praise its predictable security flaws—both keep IG-11 relevant in scrap yards centuries later. New Republic certification boards still debate which assassin droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite IG-11 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite IG-11 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every assassin droid rights petition involving Holowan Mechanicals personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as IG-11's service record. Whether IG-11 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of IG-11 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like IG-11; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like IG-11, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Holowan Mechanicals chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Hired to terminate Grogu on Nevarro",
+    "Kuiil reprograms IG-11 as nurse droid",
+    "Teaches IG-11 self-repair and independence",
+    "Protects Grogu during Nevarro cantina shootout",
+    "Sacrifices himself clearing stormtrooper ambush"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Kuiil",
+    "Clan Mudhorn",
+    "Imperial Remnant (target)",
+    "Nevarro community"
+  ],
+  "timeline": [
+    {
+      "era": "Nevarro Contract",
+      "event": "IG-11 hunts Grogu for Imperial client"
+    },
+    {
+      "era": "Reprogramming",
+      "event": "Kuiil converts IG-11 to caretaker"
+    },
+    {
+      "era": "Cantina Defense",
+      "event": "IG-11 saves Djarin and Grogu"
+    },
+    {
+      "era": "Final Stand",
+      "event": "IG-11 self-destructs to save found family"
+    },
+    {
+      "era": "Legacy",
+      "event": "Inspires Outer Rim droid nurture debate"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/ig-11-scene.png",
+      "caption": "Cinematic illustration — IG-11"
+    }
+  ]
+}

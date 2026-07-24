@@ -1,0 +1,52 @@
+{
+  "overview": "Asajj Ventress is a bounty hunter (post-sith) from Dathomir, documented across Clone Wars · Dark Disciple. Former Sith assassin who reinvented as guild hunter after Dooku's betrayals; died saving Quinlan Vos.",
+  "history": "Asajj Ventress rose from Dathomir to become a bounty hunter (post-sith) whose name appears on guild boards from the Core to the Outer Rim. Raised by Nightsisters and trained as Dooku's Sith assassin, Asajj Ventress survived multiple betrayals and reinvented herself as a Bounty Hunters' Guild contractor on Tatooine and Quarren. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Asajj Ventress as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Asajj Ventress's career, Dathomir produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Dathomir Nightsister hunter magic and Sith assassin training predate Ventress; KOTOR Sith acolyte programs on Korriban ran parallel force-user mercenary pipelines. Old Republic bounty charters and Sith Empire mercenary rolls show how bounty hunter (post-sith) contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Asajj Ventress negotiate payment and honor.\n\nIn the modern era, Asajj Ventress competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Ventress's Dark Disciple arc hunting with Quinlan Vos ended in her death saving him from Dooku—transforming Sith assassin into redeemed hunter martyr in guild folklore. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Asajj Ventress. Mandalorian-era postings on Nevarro and Mos Espa show bounty hunter (post-sith) specialists remain essential to galactic order—and chaos.\n\nAsajj Ventress operated in war zones where capture alive paid more than kill, and both paid more than failure. Ventress fought Jedi across the Clone Wars, hunted Separatist deserters as guild work, partnered Quinlan Vos against Dooku, and died absorbing Force lightning meant for her partner. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of bounty hunter (post-sith) hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Asajj Ventress's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Asajj Ventress as a bounty hunter (post-sith) relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Dual curved lightsabers (when armed), Nightsister force techniques, guild negotiation, and assassin infiltration—Ventress combines dark side training with bounty pragmatism. Guild instructors use redacted mission logs from Asajj Ventress's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Asajj Ventress often know smuggler routes better than naval patrols.\n\nAmong peers, Asajj Ventress earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Jedi feared her across the Clone Wars; guild brokers respected her post-Sith reinvention; Quinlan Vos mourned her as partner beyond any contract. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Asajj Ventress that may be half true and fully instructive. Whether Asajj Ventress followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Asajj Ventress exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Ventress's transition from Sith assassin to guild hunter proved Force-users could exit dark side service; her sacrifice influenced Vos and Nightsister-Dathomir politics. Without contractors like Asajj Ventress, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Asajj Ventress when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Serves Count Dooku as Sith assassin",
+    "Survives Dooku's betrayal on Dathomir",
+    "Reinvents as Bounty Hunters' Guild contractor",
+    "Partners Quinlan Vos against Dooku",
+    "Dies saving Vos from Force lightning"
+  ],
+  "affiliations": [
+    "Nightsisters of Dathomir",
+    "Bounty Hunters' Guild",
+    "Quinlan Vos partnership",
+    "Count Dooku / CIS (former)",
+    "Tatooine guild postings",
+    "Dark Disciple operation"
+  ],
+  "timeline": [
+    {
+      "era": "Dathomir",
+      "event": "Nightsister training"
+    },
+    {
+      "era": "Sith Assassin",
+      "event": "Dooku's apprentice"
+    },
+    {
+      "era": "Betrayal",
+      "event": "Cast aside; joins guild"
+    },
+    {
+      "era": "Dark Disciple",
+      "event": "Partners Quinlan Vos"
+    },
+    {
+      "era": "Sacrifice",
+      "event": "Dies saving Vos from Dooku"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/asajj-ventress.svg",
+      "caption": "Emblem — Asajj Ventress"
+    },
+    {
+      "path": "/images/bounty-hunters/asajj-ventress-scene.svg",
+      "caption": "Scene illustration — Asajj Ventress"
+    }
+  ]
+}

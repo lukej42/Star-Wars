@@ -1,0 +1,52 @@
+{
+  "overview": "Boba Fett is a mandalorian bounty hunter from Kamino (clone origin); raised Concord Dawn, documented across All 9 Films · Clone Wars · Mandalorian · Book of Boba Fett. The most feared bounty hunter of the Imperial Era, Boba Fett inherited Jango's beskar and tracked Han Solo for Vader and Jabba before surviving the Sarlacc to become Daimyo of Mos Espa.",
+  "history": "Boba Fett rose from Kamino (clone origin); raised Concord Dawn to become a mandalorian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Created as Jango Fett's unaltered clone on Kamino, young Boba watched his father decapitated by Mace Windu on Geonosis and spent his adolescence assembling a crew with Aurra Sing and Bossk to avenge the loss. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Boba Fett as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Boba Fett's career, Kamino (clone origin); raised Concord Dawn produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Concord Dawn's True Mandalorian diaspora and Kaminoian cloning contracts linked Boba to martial lineages stretching back to KOTOR-era Neo-Crusader mercenary rolls and TOR-era Mandalorian enclaves on Dxun. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Boba Fett negotiate payment and honor.\n\nIn the modern era, Boba Fett competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. After escaping the Sarlacc pit, Boba reclaimed his father's beskar from Cobb Vanth, healed in a bacta tank with Fennec Shand, and seized Mos Espa's Daimyo throne from Bib Fortuna during the Pyke syndicate war. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Boba Fett. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty hunter specialists remain essential to galactic order—and chaos.\n\nBoba Fett operated in war zones where capture alive paid more than kill, and both paid more than failure. Boba hunted Jedi and clones as a teenager, dominated Vader's six-hunter roster on the Executor, delivered carbonite-frozen Han Solo to Jabba, fell into the Sarlacc during the sail barge battle, and later fought Pyke capos in Mos Espa's streets. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Boba Fett's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Boba Fett as a mandalorian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Boba favors Slave I interceptions, Z-6 jetpack ambushes, fibercord whips, wrist-mounted flamethrowers, and disintegration threats—lethal precision backed by Mandalorian armor that survived acid, blaster fire, and Sarlacc digestion. Guild instructors use redacted mission logs from Boba Fett's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Boba Fett often know smuggler routes better than naval patrols.\n\nAmong peers, Boba Fett earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Darth Vader singled Boba out among six elite hunters on the Executor; Jabba's court treated him as untouchable; post-Sarlacc Tatooine whispers hold that crossing Fett means death or a lifetime of looking over your shoulder. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Boba Fett that may be half true and fully instructive. Whether Boba Fett followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Boba Fett exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Boba's capture of Han Solo enabled Jabba's sail barge trap that nearly killed Luke Skywalker; his Daimyo period reshaped Hutt-Pyke power on Tatooine and proved Mandalorian hunters can become planetary rulers without a fleet. Without contractors like Boba Fett, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Boba Fett when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Watches Jango die on Geonosis during arena battle",
+    "Accepts Vader's bounty on Han Solo aboard Executor",
+    "Delivers frozen Han to Jabba's palace on Tatooine",
+    "Falls into Sarlacc during sail barge fight",
+    "Becomes Daimyo of Mos Espa after reclaiming beskar armor"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Jabba the Hutt's court",
+    "Galactic Empire (contracted)",
+    "Mandalorian warrior culture",
+    "Crime syndicates of Tatooine",
+    "Concord Dawn traditions via Jango"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Teenage Boba seeks revenge against Mace Windu"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Galaxy's most feared hunter"
+    },
+    {
+      "era": "Bespin",
+      "event": "Tracks Millennium Falcon for Vader"
+    },
+    {
+      "era": "Sarlacc",
+      "event": "Presumed dead after Return of the Jedi"
+    },
+    {
+      "era": "Book of Boba Fett",
+      "event": "Rules Mos Espa as Daimyo"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/boba-fett.svg",
+      "caption": "Emblem — Boba Fett"
+    },
+    {
+      "path": "/images/bounty-hunters/boba-fett-scene.svg",
+      "caption": "Scene illustration — Boba Fett"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Kor Vella Shipwright Quarter is a freighter manufacturing district on Corellia, documented across Legends · Solo. Kor Vella's yards on Corellia build YT-series freighters and starfighters for independent operators galaxy-wide.",
+  "history": "Kor Vella Shipwright Quarter began as a freighter manufacturing district anchor on Corellia, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Kor Vella Shipwright Quarter began as a strategic anchor on Corellia, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Kor Vella Shipwright Quarter as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Kor Vella Shipwright Quarter as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Kor Vella Shipwright Quarter include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Kor Vella Shipwright Quarter include ward-stones and battle markers from Sith and Jedi campaigns on Corellia. High Republic pathfinders logged Kor Vella Shipwright Quarter as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Corellia suggest Kor Vella Shipwright Quarter once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Kor Vella Shipwright Quarter expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Kor Vella Shipwright Quarter appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Kor Vella Shipwright Quarter because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Kor Vella Shipwright Quarter as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nKor Vella Shipwright Quarter has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Kor Vella Shipwright Quarter as contested territory on Corellia. Clone Wars dossiers mark Kor Vella Shipwright Quarter as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Kor Vella Shipwright Quarter meant control of Corellia.",
+  "significance": "The economy of Kor Vella Shipwright Quarter runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Kor Vella Shipwright Quarter runs on local industry, trade tariffs, and black-market mediation typical of Corellia. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Kor Vella Shipwright Quarter infrastructure during the late Republic. Post-war reconstruction funds often bypass Kor Vella Shipwright Quarter officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Kor Vella Shipwright Quarter mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Kor Vella Shipwright Quarter preserve Corellia rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Kor Vella Shipwright Quarter are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Kor Vella Shipwright Quarter back alleys.\n\nKor Vella Shipwright Quarter influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Kor Vella Shipwright Quarter when tracing how Corellia influenced sector-wide treaties and fleet movements. Scenes set in Kor Vella Shipwright Quarter across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Kor Vella Shipwright Quarter when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Kor Vella Shipwright Quarter founded on Corellia",
+    "Recorded siege or battle at Kor Vella Shipwright Quarter",
+    "Occupation forces restructure Kor Vella Shipwright Quarter",
+    "Underground resistance operates from Kor Vella Shipwright Quarter",
+    "Post-war memorialization of Kor Vella Shipwright Quarter"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Corellia governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Kor Vella Shipwright Quarter"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Kor Vella Shipwright Quarter"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Kor Vella Shipwright Quarter"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Kor Vella Shipwright Quarter"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Kor Vella Shipwright Quarter"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/kor-vella-shipwright-quarter.svg",
+      "caption": "Emblem — Kor Vella Shipwright Quarter"
+    },
+    {
+      "path": "/images/settlements/kor-vella-shipwright-quarter-scene.svg",
+      "caption": "Scene illustration — Kor Vella Shipwright Quarter"
+    }
+  ]
+}

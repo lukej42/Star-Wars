@@ -1,0 +1,47 @@
+{
+  "overview": "R2-KT is a astromech droid built by Industrial Automaton, documented across Clone Wars · charity canon. A pink-accented astromech memorial droid honoring Katie Johnson, serving the 501st Legion and appearing in Clone Wars-era campaigns.",
+  "history": "R2-KT belongs to the astromech droid class manufactured by Industrial Automaton, one of the most recognizable automaton designs documented across galactic history. R2-KT pink-accented astromech honors Katie Johnson while serving the 501st Legion. Industrial Automaton factory schematics document the astromech droid platform lineage that produced R2-KT, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat R2-KT as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced R2-KT. Excavations on Taris, Dxun, and Dromund Kaas recovered astromech droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Industrial Automaton subsystems, spreading design language across millennia before R2-KT rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Industrial Automaton subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and astromech droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, R2-KT units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. R2-KT units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Industrial Automaton frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Industrial Automaton frames. Historians studying the Sequel Era treat surviving R2-KT memory cores as primary sources on earlier conflicts.\n\nR2-KT and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, R2-KT and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of astromech droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Industrial Automaton automata.",
+  "significance": "Engineering analysis of R2-KT highlights why astromech droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise R2-KT's modular astromech droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Industrial Automaton documentation; slicers praise its predictable security flaws—both keep R2-KT relevant in scrap yards centuries later. New Republic certification boards still debate which astromech droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite R2-KT when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite R2-KT when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every astromech droid rights petition involving Industrial Automaton personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as R2-KT's service record. Whether R2-KT is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of R2-KT exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like R2-KT; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like R2-KT, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Industrial Automaton chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Pink-accented memorial astromech for Katie Johnson",
+    "Serves 501st Legion during Clone Wars",
+    "Charity canon droid integrated into Star Wars lore",
+    "Industrial Automaton custom paint astromech",
+    "Symbol of fan community and Lucasfilm charity"
+  ],
+  "affiliations": [
+    "501st Legion",
+    "Galactic Republic",
+    "Industrial Automaton",
+    "Jedi Order",
+    "Clone trooper forces"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "R2-KT serves with 501st Legion"
+    },
+    {
+      "era": "Memorial",
+      "event": "Honors Katie Johnson through pink accents"
+    },
+    {
+      "era": "Charity Integration",
+      "event": "Lucasfilm adopts fan charity droid"
+    },
+    {
+      "era": "Legacy",
+      "event": "Appears in Clone Wars background scenes"
+    },
+    {
+      "era": "Modern Era",
+      "event": "501st fan community honors R2-KT"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/r2-kt-scene.png",
+      "caption": "Cinematic illustration — R2-KT"
+    }
+  ]
+}

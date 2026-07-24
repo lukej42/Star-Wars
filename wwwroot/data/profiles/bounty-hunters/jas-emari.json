@@ -1,0 +1,51 @@
+{
+  "overview": "Jas Emari is a zabrak bounty hunter from Iridonia, documented across Aftermath novels. New Republic-era Zabrak hunter from Aftermath novels who hunted Imperials and joined Han's crew.",
+  "history": "Jas Emari rose from Iridonia to become a zabrak bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Jas Emari, a Zabrak hunter from Iridonia, built New Republic-era reputation hunting Imperial holdouts before joining Han Solo's Aftermath crew for Battle of Jakku operations. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Jas Emari as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Jas Emari's career, Iridonia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Iridonia Zabrak hunters served Old Republic mercenary markets; Jas represents post-Endor generation turning guild skills toward Imperial remnant elimination. Old Republic bounty charters and Sith Empire mercenary rolls show how zabrak bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Jas Emari negotiate payment and honor.\n\nIn the modern era, Jas Emari competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Jas Emari's Aftermath trilogy role hunting Imperials with Han Solo connected bounty hunting to New Republic military operations during Jakku campaign. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Jas Emari. Mandalorian-era postings on Nevarro and Mos Espa show zabrak bounty hunter specialists remain essential to galactic order—and chaos.\n\nJas Emari operated in war zones where capture alive paid more than kill, and both paid more than failure. Jas hunted Imperial warlords across Outer Rim, joined Han's team against Rae Sloane's forces, and fought in New Republic transition battles post-Endor. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of zabrak bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Jas Emari's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Jas Emari as a zabrak bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Zabrak combat training, starship pursuit of Imperial fugitives, crew coordination with New Republic allies, and Iridonia tactical discipline. Guild instructors use redacted mission logs from Jas Emari's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Jas Emari often know smuggler routes better than naval patrols.\n\nAmong peers, Jas Emari earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. New Republic recruiters valued Jas's Imperial-hunting record; Han Solo trusted her in Aftermath operations; Iridonia clans celebrated her anti-Imperial contracts. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Jas Emari that may be half true and fully instructive. Whether Jas Emari followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Jas Emari exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Jas Emari linked bounty hunting to New Republic founding narrative—hunters as military auxiliaries against Imperial remnant rather than purely criminal contractors. Without contractors like Jas Emari, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Jas Emari when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Builds Imperial-hunting reputation post-Endor",
+    "Joins Han Solo's Aftermath crew",
+    "Hunts Imperial warlords on Outer Rim",
+    "Participates in Battle of Jakku operations",
+    "New Republic-era Zabrak hunter icon"
+  ],
+  "affiliations": [
+    "Han Solo's Aftermath crew",
+    "New Republic (allied)",
+    "Iridonia Zabrak networks",
+    "Bounty Hunters' Guild",
+    "Imperial remnant targets"
+  ],
+  "timeline": [
+    {
+      "era": "Post-Endor",
+      "event": "Imperial-hunting contracts"
+    },
+    {
+      "era": "Aftermath",
+      "event": "Joins Han's crew"
+    },
+    {
+      "era": "Outer Rim",
+      "event": "Warlord pursuit"
+    },
+    {
+      "era": "Jakku",
+      "event": "Battle operations"
+    },
+    {
+      "era": "Legacy",
+      "event": "New Republic hunter auxiliaries"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/jas-emari.svg",
+      "caption": "Emblem — Jas Emari"
+    },
+    {
+      "path": "/images/bounty-hunters/jas-emari-scene.svg",
+      "caption": "Scene illustration — Jas Emari"
+    }
+  ]
+}

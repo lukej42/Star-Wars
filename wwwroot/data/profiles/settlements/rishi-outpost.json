@@ -1,0 +1,51 @@
+{
+  "overview": "Rishi Outpost is a republic listening station on Rishi, documented across Clone Wars. Rishi Outpost's clone trooper garrison detected Separatist invasion routes in a Clone Wars episode defining early war perimeter defense.",
+  "history": "Rishi Outpost began as a republic listening station anchor on Rishi, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Rishi Outpost grew where Rishi's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a republic listening station that outlasted first founders. Early survey maps from the Old Republic era list Rishi Outpost as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Rishi Outpost as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Rishi Outpost include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Rishi Outpost include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Rishi Outpost as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Rishi suggest Rishi Outpost once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Rishi Outpost expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Rishi Outpost; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Rishi Outpost because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Rishi Outpost as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nRishi Outpost has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Rishi Outpost as strategically contested on Rishi. Clone Wars dossiers mark Rishi Outpost as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Rishi Outpost meant control of Rishi.",
+  "significance": "The economy of Rishi Outpost runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Rishi Outpost's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Rishi Outpost infrastructure during the late Republic. Post-war reconstruction funds often bypass Rishi Outpost officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Rishi Outpost mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Rishi Outpost blend Rishi native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Rishi Outpost are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Rishi Outpost back alleys.\n\nRishi Outpost influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Rishi Outpost altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Rishi Outpost across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Rishi Outpost when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Rishi Outpost founded as republic listening station on Rishi",
+    "Major battle or siege recorded at Rishi Outpost",
+    "Imperial occupation transforms Rishi Outpost governance",
+    "Rebel or Resistance cell operates from Rishi Outpost",
+    "New Republic era reconstruction begins at Rishi Outpost"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Rishi Outpost"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Rishi Outpost joins sector trade networks on Rishi"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Rishi Outpost triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Rishi Outpost"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Rishi Outpost"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/rishi-outpost.svg",
+      "caption": "Emblem — Rishi Outpost"
+    },
+    {
+      "path": "/images/settlements/rishi-outpost-scene.svg",
+      "caption": "Scene illustration — Rishi Outpost"
+    }
+  ]
+}

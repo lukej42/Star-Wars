@@ -1,0 +1,51 @@
+{
+  "overview": "Black Spire Outpost is a trading outpost on Batuu, documented across Films · Galaxy's Edge · Resistance. Black Spire Outpost on Batuu is a frontier trading port where Resistance and First Order agents recruit in the Sequel Era.",
+  "history": "Black Spire Outpost began as a trading outpost anchor on Batuu, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Black Spire Outpost grew where Batuu's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a trading outpost that outlasted first founders. Early survey maps from the Old Republic era list Black Spire Outpost as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Black Spire Outpost as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Black Spire Outpost include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Black Spire Outpost include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Black Spire Outpost as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Batuu suggest Black Spire Outpost once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Black Spire Outpost expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Black Spire Outpost; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Black Spire Outpost because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Black Spire Outpost as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nBlack Spire Outpost has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Black Spire Outpost as strategically contested on Batuu. Clone Wars dossiers mark Black Spire Outpost as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Black Spire Outpost meant control of Batuu.",
+  "significance": "The economy of Black Spire Outpost runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Black Spire Outpost's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Black Spire Outpost infrastructure during the late Republic. Post-war reconstruction funds often bypass Black Spire Outpost officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Black Spire Outpost mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Black Spire Outpost blend Batuu native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Black Spire Outpost are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Black Spire Outpost back alleys.\n\nBlack Spire Outpost influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Black Spire Outpost altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Black Spire Outpost across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Black Spire Outpost when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Black Spire Outpost founded as trading outpost on Batuu",
+    "Major battle or siege recorded at Black Spire Outpost",
+    "Imperial occupation transforms Black Spire Outpost governance",
+    "Rebel or Resistance cell operates from Black Spire Outpost",
+    "New Republic era reconstruction begins at Black Spire Outpost"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Black Spire Outpost"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Black Spire Outpost joins sector trade networks on Batuu"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Black Spire Outpost triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Black Spire Outpost"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Black Spire Outpost"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/black-spire-outpost.svg",
+      "caption": "Emblem — Black Spire Outpost"
+    },
+    {
+      "path": "/images/settlements/black-spire-outpost-scene.svg",
+      "caption": "Scene illustration — Black Spire Outpost"
+    }
+  ]
+}

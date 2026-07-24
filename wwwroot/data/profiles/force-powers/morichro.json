@@ -1,0 +1,50 @@
+{
+  "overview": "Morichro is a master-level light side technique classified under Purification. Induces a deep Force trance that slows bodily functions to near zero, preserving life in stasis for extended periods without aging or decay. Ancient Jedi used morichro to survive catastrophic events and to imprison dangerous dark-side entities in suspended animation.",
+  "history": "Force scholars trace Morichro across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in High Republic · The Old Republic · Clone Wars · KOTOR II established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Morichro into initiates as part of the standard curriculum for purification specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Morichro alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Morichro exemplifies how purification abilities shape Force doctrine on the light side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Morichro could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Morichro remains a benchmark of purification proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Morichro in Ancient Era conflicts",
+    "Standardised in Purification curricula of the Jedi academies",
+    "Featured prominently in media: High Republic · The Old Republic · Clone Wars · KOTOR II",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Morichro altered galactic history"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "First major documented use of Morichro in Ancient Era conflicts"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Standardised in Purification curricula of the Jedi academies"
+    },
+    {
+      "era": "High Republic",
+      "event": "Featured prominently in media: High Republic · The Old Republic · Clone Wars · KOTOR II"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/morichro.svg",
+      "caption": "Emblem — Morichro"
+    },
+    {
+      "path": "/images/force-powers/morichro-scene.svg",
+      "caption": "Scene illustration — Morichro"
+    }
+  ]
+}

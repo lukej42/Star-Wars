@@ -1,0 +1,58 @@
+{
+  "overview": "The Mandator IV-class Siege Dreadnought is a siege dreadnought whose design philosophy reflects the industrial and strategic priorities of First Order (34 ABY–). First Order Mandator IV dreadnoughts bombarded Resistance bases with orbital autocannons from extreme range. Production estimates place the class at ~12 units, though wartime losses, capture, and black-market duplication make precise fleet registries unreliable.",
+  "history": "Engineering teams first finalized the Mandator IV-class Siege Dreadnought blueprints during the political climate of First Order (34 ABY–). The siege dreadnought was intended to solve specific fleet gaps—whether planetary assault, convoy escort, starfighter superiority, or terror bombardment—and shipwrights iterated hull plates, reactor output, and crew compartments accordingly.\n\nOnce deployed, the Mandator IV-class Siege Dreadnought appeared in fleet actions that defined its reputation. First Order Mandator IV dreadnoughts bombarded Resistance bases with orbital autocannons from extreme range. Combat logs show crews exploiting the class's strengths while improvising fixes for known weaknesses under fire, a pattern repeated across every major galactic conflict.\n\nAs doctrine evolved, rival factions studied captured Mandator IV-class Siege Dreadnought hulls. Refit yards duplicated weapons mounts and sensor suites; some variants never appeared in official manifests. Estimated production of ~12 units therefore understates how many similar silhouettes operated under alternate insignia.\n\nSurviving Mandator IV-class Siege Dreadnought vessels now sit in museum orbits, mercenary fleets, and scrap worlds. Historians treat the class as a measure of how galactic wars industrialize violence—each hull a factory product that outlived the politicians who ordered it.",
+  "significance": "The Mandator IV-class Siege Dreadnought demonstrates how siege dreadnought design shapes campaign outcomes. Its layout influenced successor programs and remains a case study in naval academies.\n\nWith roughly ~12 units hulls associated with First Order (34 ABY–), the class became a visual symbol of its faction's reach—recognizable in holonet footage and feared in convoy manifests.\n\nEngineers still debate whether the Mandator IV-class Siege Dreadnought prioritized firepower over crew survival; that trade-off defines its legacy in both propaganda and honest after-action reports.",
+  "notableEvents": [
+    "Prototype Mandator IV-class Siege Dreadnought accepted into fleet trials during First Order",
+    "Mass production reaches approximately ~12 units",
+    "First major fleet battle featuring multiple Mandator IV-class Siege Dreadnought hulls",
+    "Captured or scuttled Mandator IV-class Siege Dreadnought studied by rival shipwrights",
+    "Notable commander achieves victory aboard a Mandator IV-class Siege Dreadnought",
+    "Refit program extends service life beyond original specifications",
+    "Class featured in faction propaganda broadcasts",
+    "Remaining hulls retired, preserved, or converted to civilian use"
+  ],
+  "affiliations": [
+    "First Order",
+    "Siege Dreadnought operational wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "Mandator IV-class Siege Dreadnought design approved and prototype tested"
+    },
+    {
+      "era": "First Order",
+      "event": "Production scales toward ~12 units"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Mandator IV-class Siege Dreadnought enters decisive fleet engagements"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Attrition and refits reshape active Mandator IV-class Siege Dreadnought registries"
+    },
+    {
+      "era": "New Republic",
+      "event": "Surviving Mandator IV-class Siege Dreadnought hulls decommissioned or sold"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/mandator-iv-class.svg",
+      "caption": "Profile view of the Mandator IV-class Siege Dreadnought"
+    },
+    {
+      "path": "/images/ships/mandator-iv-class-scene.svg",
+      "caption": "Combat deployment — Mandator IV-class Siege Dreadnought"
+    },
+    {
+      "path": "/images/ships/mandator-iv-class-blueprint.svg",
+      "caption": "Technical schematic — Mandator IV-class Siege Dreadnought"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Ugnaught (Small mammalian humanoid) is native to Gentes and ranks among the most consequential species in galactic history. Ugnaught engineers from Gentes maintain Cloud City's tibanna gas refineries; their labor under Imperial contract hid acts of sabotage and aid to Rebels.",
+  "history": "The Ugnaught (small mammalian humanoid) trace their deepest roots to Gentes, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Ugnaught evolutionary history on Gentes intertwines with small mammalian humanoid adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Ugnaught populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Ugnaught history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Ugnaught societies on Gentes established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Ugnaught polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Gentes ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Ugnaught identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Ugnaught delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Ugnaught diaspora communities appeared on every major trade lane and war front. Modern Ugnaught diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Ugnaught networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Ugnaught migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nUgnaught fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Ugnaught veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Gentes's geography. KOTOR and KOTOR II document Ugnaught involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Ugnaught leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Ugnaught display traits typical of small mammalian humanoid life adapted to Gentes's gravity, atmosphere, and seasonal extremes. Ugnaught physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Ugnaught physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Ugnaught resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nUgnaught culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Ugnaught rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Gentes accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Ugnaught spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Ugnaught communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Ugnaught exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Ugnaught merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Ugnaught innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Ugnaught choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Ugnaught homeworld first mapped by Republic surveyors",
+    "Notable Ugnaught leaders emerge during Clone Wars",
+    "Ugnaught communities resist Imperial occupation policies",
+    "KOTOR-era Ugnaught figures influence Jedi Civil War",
+    "New Republic restores Ugnaught representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Gentes governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Ugnaught civilization consolidates on Gentes"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Ugnaught join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Ugnaught factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Ugnaught identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Ugnaught"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/ugnaught.svg",
+      "caption": "Emblem — Ugnaught"
+    },
+    {
+      "path": "/images/species/ugnaught-scene.svg",
+      "caption": "Scene illustration — Ugnaught"
+    }
+  ]
+}

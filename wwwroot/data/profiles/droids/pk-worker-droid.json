@@ -1,0 +1,47 @@
+{
+  "overview": "PK Worker Droid is a worker droid built by Publictechnic, documented across Andor · Rogue One · Clone Wars. Small worker droids deployed in factories, mines, and Death Star construction crews—anonymous labor that built Imperial megaprojects.",
+  "history": "PK Worker Droid belongs to the worker droid class manufactured by Publictechnic, one of the most recognizable automaton designs documented across galactic history. PK worker droids perform repetitive factory and construction tasks on Imperial megaprojects. Publictechnic factory schematics document the worker droid platform lineage that produced PK Worker Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat PK Worker Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced PK Worker Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered worker droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Publictechnic subsystems, spreading design language across millennia before PK Worker Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Publictechnic subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and worker droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, PK Worker Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. PK Worker Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Publictechnic frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Publictechnic frames. Historians studying the Sequel Era treat surviving PK Worker Droid memory cores as primary sources on earlier conflicts.\n\nPK Worker Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, PK Worker Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of worker droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Publictechnic automata.",
+  "significance": "Engineering analysis of PK Worker Droid highlights why worker droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise PK Worker Droid's modular worker droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Publictechnic documentation; slicers praise its predictable security flaws—both keep PK Worker Droid relevant in scrap yards centuries later. New Republic certification boards still debate which worker droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite PK Worker Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite PK Worker Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every worker droid rights petition involving Publictechnic personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as PK Worker Droid's service record. Whether PK Worker Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of PK Worker Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like PK Worker Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like PK Worker Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Publictechnic chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Works on Death Star construction in Andor era",
+    "Factory assembly lines across Imperial worlds",
+    "Small frame designed for repetitive tasks",
+    "Publictechnic mass-produces for Imperial contracts",
+    "Anonymous labor behind Imperial megaprojects"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Publictechnic",
+    "Death Star construction",
+    "Imperial factory complexes",
+    "Separatist factories (captured)"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "PK workers in Separatist factories"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Deployed on Death Star construction"
+    },
+    {
+      "era": "Andor Era",
+      "event": "Works on secret Imperial facilities"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Imperial factory standard worker"
+    },
+    {
+      "era": "Post-Endor",
+      "event": "Freed or abandoned on many worlds"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/pk-worker-droid-scene.png",
+      "caption": "Cinematic illustration — PK Worker Droid"
+    }
+  ]
+}

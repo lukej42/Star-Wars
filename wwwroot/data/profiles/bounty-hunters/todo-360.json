@@ -1,0 +1,45 @@
+{
+  "overview": "Todo 360 is a assassin droid bounty hunter from Holowan Labs, documented across Clone Wars. Cad Bane's personal assassin droid partner who combined hunter precision with loyalty circuits tuned to the Duros gunslinger.",
+  "history": "Todo 360 rose from Holowan Labs to become a assassin droid bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Todo 360 was commissioned as Cad Bane's paired assassin droid, programmed for guild work where biological hunters needed mechanical backup inside secure facilities. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Todo 360 as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Todo 360's career, Holowan Labs produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Holowan Labs supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Todo 360 posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how assassin droid bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Todo 360 negotiate payment and honor.\n\nIn the modern era, Todo 360 competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Todo 360's partnership model influenced later IG-series hunter droids and Q9-0-style assassin postings in the New Republic era. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Todo 360. Mandalorian-era postings on Nevarro and Mos Espa show assassin droid bounty hunter specialists remain essential to galactic order—and chaos.\n\nTodo 360 operated in war zones where capture alive paid more than kill, and both paid more than failure. Todo accompanied Bane on Senate hostage operations, holocron heists, and Coruscant infiltrations—droid hunter integration at the highest Clone Wars threat level. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of assassin droid bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Todo 360's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Todo 360 as a assassin droid bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Integrated blaster arms, grappling appendages, compact chassis for ventilation infiltration, and Bane-synced tactical subroutines. Guild instructors use redacted mission logs from Todo 360's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Todo 360 often know smuggler routes better than naval patrols.\n\nAmong peers, Todo 360 earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Todo 360 as a assassin droid bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Todo 360 that may be half true and fully instructive. Whether Todo 360 followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Todo 360 exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Todo 360's captures and eliminations shifted local power wherever Holowan Labs expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Todo 360, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Todo 360 when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Commissioned as Cad Bane's partner droid",
+    "Participates in Senate hostage crisis",
+    "Supports Jedi Temple holocron heist",
+    "Destroyed in Clone Wars operations"
+  ],
+  "affiliations": [
+    "Cad Bane gang",
+    "Holowan Labs (origin)",
+    "Bounty Hunters' Guild",
+    "Separatist contractor rolls"
+  ],
+  "timeline": [
+    {
+      "era": "Activation",
+      "event": "Paired with Cad Bane"
+    },
+    {
+      "era": "Senate Crisis",
+      "event": "Hostage operation"
+    },
+    {
+      "era": "Temple Heist",
+      "event": "Holocron theft"
+    },
+    {
+      "era": "End",
+      "event": "Droid destroyed in field"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/todo-360.svg",
+      "caption": "Emblem — Todo 360"
+    },
+    {
+      "path": "/images/bounty-hunters/todo-360-scene.svg",
+      "caption": "Scene illustration — Todo 360"
+    }
+  ]
+}

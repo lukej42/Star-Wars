@@ -1,0 +1,45 @@
+{
+  "overview": "Skorr is a trandoshan bounty hunter from Trandosha, documented across Clone Wars. Trandoshan hunter who tracked Ahsoka Tano during the Clone Wars, embodying scorekeeper zeal against Jedi targets.",
+  "history": "Skorr rose from Trandosha to become a trandoshan bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Skorr rose through Trandosha's scorekeeper lodges by capturing prey alive for trophy rites, then sold those skills to Separatist brokers hunting Jedi Padawans. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Skorr as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Skorr's career, Trandosha produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Trandosha supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Skorr posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how trandoshan bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Skorr negotiate payment and honor.\n\nIn the modern era, Skorr competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Skorr remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Skorr. Mandalorian-era postings on Nevarro and Mos Espa show trandoshan bounty hunter specialists remain essential to galactic order—and chaos.\n\nSkorr operated in war zones where capture alive paid more than kill, and both paid more than failure. Skorr pursued Ahsoka Tano across Rim waystations, using Trandoshan tracking instincts and guild backup to corner Jedi separated from clone support. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of trandoshan bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Skorr's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Skorr as a trandoshan bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Scorekeeper manacles, thermal nets, Trandoshan strength, and pack-hunter coordination—Skorr favored capture trophies over quick kills. Guild instructors use redacted mission logs from Skorr's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Skorr often know smuggler routes better than naval patrols.\n\nAmong peers, Skorr earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Ahsoka's survival against Skorr became a Padawan cautionary tale about Trandoshan persistence when Jedi operate alone. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Skorr that may be half true and fully instructive. Whether Skorr followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Skorr exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Skorr's captures and eliminations shifted local power wherever Trandosha expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Skorr, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Skorr when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Rises in Trandoshan scorekeeper lodges",
+    "Accepts Separatist Jedi-hunting contracts",
+    "Tracks Ahsoka Tano during Clone Wars",
+    "Embodies Trandoshan trophy-hunter tradition"
+  ],
+  "affiliations": [
+    "Trandoshan scorekeepers",
+    "Confederacy of Independent Systems (contracted)",
+    "Bounty Hunters' Guild",
+    "Trandosha lodge networks"
+  ],
+  "timeline": [
+    {
+      "era": "Trandosha",
+      "event": "Scorekeeper initiation"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Jedi-hunting contracts"
+    },
+    {
+      "era": "Ahsoka Pursuit",
+      "event": "Padawan hunt"
+    },
+    {
+      "era": "Legacy",
+      "event": "Trandoshan trophy legend"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/skorr.svg",
+      "caption": "Emblem — Skorr"
+    },
+    {
+      "path": "/images/bounty-hunters/skorr-scene.svg",
+      "caption": "Scene illustration — Skorr"
+    }
+  ]
+}

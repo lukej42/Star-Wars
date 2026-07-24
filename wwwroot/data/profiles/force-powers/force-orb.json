@@ -1,0 +1,49 @@
+{
+  "overview": "Force Orb is a adept-level light side technique classified under Energy. Concentrates light-side energy into a sustained sphere that can be hurled at enemies or held as a shield against dark-side projectiles. Jedi Guardians of the Old Republic favored Force orbs when fighting Sith in close quarters where lightsaber strikes were insufficient.",
+  "history": "Force scholars trace Force Orb across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR · KOTOR II · The Old Republic · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Orb into initiates as part of the standard curriculum for energy specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Orb alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Force Orb exemplifies how energy abilities shape Force doctrine on the light side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Orb could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Orb remains a benchmark of energy proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Orb in New Republic conflicts",
+    "Standardised in Energy curricula of the Jedi academies",
+    "Featured prominently in media: KOTOR · KOTOR II · The Old Republic · Clone Wars",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "First major documented use of Force Orb in New Republic conflicts"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Standardised in Energy curricula of the Jedi academies"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Featured prominently in media: KOTOR · KOTOR II · The Old Republic · Clone Wars"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "High Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-orb.svg",
+      "caption": "Emblem — Force Orb"
+    },
+    {
+      "path": "/images/force-powers/force-orb-scene.svg",
+      "caption": "Scene illustration — Force Orb"
+    }
+  ]
+}

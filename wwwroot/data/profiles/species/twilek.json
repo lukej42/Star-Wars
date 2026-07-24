@@ -1,0 +1,51 @@
+{
+  "overview": "Twi'lek (Humanoid mammal) is native to Ryloth and ranks among the most consequential species in galactic history. Twi'leks are distinguished by brain-tails called lekku that convey emotion and hold cultural significance across Ryloth's harsh twilight zones. They have survived slavery, occupation, and syndicate exploitation while producing diplomats, warriors, and rebels of legendary stature.",
+  "history": "The Twi'lek (humanoid mammal) trace their deepest roots to Ryloth, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Ryloth's tidal-lock geography forced Twi'lek civilization into underground cities and mountain fortresses where lekku signaling evolved as silent battle language. Galactic surveyors first catalogued Twi'lek populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Twi'lek history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Twi'lek societies on Ryloth established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Old Republic slavers catalogued Twi'leks early; Free Ryloth movements and Jedi like Aayla Secura fought to reverse centuries of commodification. Archaeologists still debate how much of modern Twi'lek identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Twi'lek delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Twi'lek diaspora communities appeared on every major trade lane and war front. Hera Syndulla commanded Phoenix Squadron while Bib Fortuna and syndicate ports on Nar Shaddaa showed Twi'lek life under criminal empires. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Twi'lek networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Twi'lek migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nTwi'lek fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. The Clone Wars bombardment of Ryloth and Imperial occupation under Moff Delian Mors are taught as case studies in resistance logistics. KOTOR and KOTOR II document Twi'lek involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Twi'lek leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Twi'lek display traits typical of humanoid mammal life adapted to Ryloth's gravity, atmosphere, and seasonal extremes. Lekku contain neural tissue; injury can be fatal. Twi'leks see well in dim light, suiting Ryloth's terminator habitation bands. Medics note that Twi'lek physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Twi'lek resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nTwi'lek culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Clan tattoos, dance as diplomacy, and matriarch-led settlements persist despite offworld trafficking networks. Both Jedi and Sith sources acknowledge Twi'lek spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Twi'lek communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Twi'lek exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Twi'lek pilots and spies shaped Rebellion cell structure; their diaspora maps the galaxy's worst labor abuses and best rescue operations. Historians credit Twi'lek innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Twi'lek choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Battle of Ryloth liberates homeworld",
+    "Aayla Secura serves in Clone Wars",
+    "Hera Syndulla leads Spectre cell",
+    "Bib Fortuna rules Jabba's court",
+    "Free Ryloth movement strikes Imperial targets"
+  ],
+  "affiliations": [
+    "Free Ryloth movement",
+    "Rebel Alliance",
+    "Jedi Order",
+    "Hutt Cartel",
+    "Galactic Republic"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Ryloth joins Republic with contested sovereignty"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Techno Union invasion repelled"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation fuels guerrilla war"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Twi'lek pilots anchor Rebel fleets"
+    },
+    {
+      "era": "New Republic",
+      "event": "Ryloth regains seat in Senate"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/twilek.svg",
+      "caption": "Emblem — Twi'lek"
+    },
+    {
+      "path": "/images/species/twilek-scene.svg",
+      "caption": "Scene illustration — Twi'lek"
+    }
+  ]
+}

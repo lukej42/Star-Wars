@@ -1,0 +1,52 @@
+{
+  "overview": "Human (Humanoid mammal) is native to Coruscant and ranks among the most consequential species in galactic history. Humans are the galaxy's most numerous sentient species, founding the Republic and staffing every major institution from the Jedi Order to the Imperial Navy. Their adaptability and ambition have made them dominant on thousands of worlds despite originating on a single ecumenopolis.",
+  "history": "The Human (humanoid mammal) trace their deepest roots to Coruscant, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Coruscant's buried prehistory suggests humans achieved planetary unification long before hyperspace travel, leaving strata that Rakatan and Sith excavations later plundered. Galactic surveyors first catalogued Human populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Human history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Human societies on Coruscant established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Human Core Founders seeded colonies from Alderaan to Corellia, establishing the cultural template—Senate chambers, fleet academies, and credit banking—that the Old Republic formalized. Archaeologists still debate how much of modern Human identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Human delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Human diaspora communities appeared on every major trade lane and war front. Palpatine, Mon Mothma, Han Solo, and Rey represent opposing human visions of order; each era's human leaders decide whether the galaxy burns or rebuilds. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Human networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Human migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nHuman fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Humans filled both Imperial officer corps and Rebel starfighter wings; KOTOR's Revan and Malak were human, and TOR's Supreme Chancellor cycles show human politics driving superweapon crises. KOTOR and KOTOR II document Human involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Human leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Human display traits typical of humanoid mammal life adapted to Coruscant's gravity, atmosphere, and seasonal extremes. Humans tolerate diverse climates, reproduce quickly, and integrate cybernetics and clone genetics with fewer complications than many near-human species. Medics note that Human physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Human resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nHuman culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. From Jedi Temple pageantry to Mandalorian foundlings adopted into human-led clans, human cultural exports define what many species mean by 'civilized.' Both Jedi and Sith sources acknowledge Human spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Human communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Human exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Every major treaty desk—Ruusan, Naboo, Endor, Exegol—has been staffed primarily by humans, for better and worse. Historians credit Human innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Human choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Coruscant achieves planetary unification",
+    "Founding of the Galactic Republic",
+    "Palpatine declares the Empire",
+    "Battle of Endor and Imperial collapse",
+    "Rey's rise in the Sequel Era"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Galactic Empire",
+    "Rebel Alliance",
+    "New Republic",
+    "First Order"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Coruscant unified under early human polities"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Human Core Founders expand along Perlemian Trade Route"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Human clones and officers fight across the Outer Rim"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Humanocentric Empire consolidates Core power"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Human heroes and villains decide the Final Order crisis"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/human.svg",
+      "caption": "Emblem — Human"
+    },
+    {
+      "path": "/images/species/human-scene.svg",
+      "caption": "Scene illustration — Human"
+    }
+  ]
+}

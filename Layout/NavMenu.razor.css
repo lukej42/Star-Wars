@@ -96,6 +96,89 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%23e11d48'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%2364748b'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%236366f1'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23d97706'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23991b1b'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%230284c7'/%3E%3C/svg%3E");
 }
 
+.bi-force-powers-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='2.5' fill='%23fff'/%3E%3Cpath fill='none' stroke='%2322c55e' stroke-width='1.2' d='M8 1.5v3M8 11.5v3M1.5 8h3M11.5 8h3'/%3E%3Cpath fill='none' stroke='%23dc2626' stroke-width='1' d='M3 3l2 2M11 11l2 2M13 3l-2 2M5 11l-2 2'/%3E%3C/svg%3E");
+}
+
+.bi-all-force-powers-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%2322c55e'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%233b82f6'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%23dc2626'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23eab308'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%237c3aed'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%23991b1b'/%3E%3C/svg%3E");
+}
+
+.bi-all-light-side-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%2322c55e'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%233b82f6'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%2306b6d4'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23eab308'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%2322c55e'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%233b82f6'/%3E%3C/svg%3E");
+}
+
+.bi-all-dark-side-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%23dc2626'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%23991b1b'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%237c3aed'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23450a0a'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23dc2626'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%23b91c1c'/%3E%3C/svg%3E");
+}
+
+.bi-light-side-powers-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%2322c55e' d='M8 1.5 9.8 6h4.7l-3.8 2.8 1.5 4.7L8 10.9l-4.2 2.6 1.5-4.7-3.8-2.8h4.7z'/%3E%3C/svg%3E");
+}
+
+.bi-dark-side-powers-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23dc2626' d='M8 1.5 9.8 6h4.7l-3.8 2.8 1.5 4.7L8 10.9l-4.2 2.6 1.5-4.7-3.8-2.8h4.7z'/%3E%3C/svg%3E");
+}
+
+.bi-species-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='5.5' cy='5' r='2' fill='%2322c55e'/%3E%3Ccircle cx='10.5' cy='5' r='1.6' fill='%233b82f6'/%3E%3Cpath fill='%23fff' d='M3 13c0-2 1.5-3 2.5-3s2.5 1 2.5 3H3zm5.5-2c0-1.5 1-2.5 2-2.5s2 1 2 2.5H8.5z'/%3E%3C/svg%3E");
+}
+
+.bi-all-species-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6' r='1' fill='%2322c55e'/%3E%3Ccircle cx='8' cy='6' r='1' fill='%238b5cf6'/%3E%3Ccircle cx='10.5' cy='6' r='1' fill='%23f97316'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%230891b2'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%2365a30d'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%23eab308'/%3E%3C/svg%3E");
+}
+
+.bi-settlements-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Crect fill='%2394a3b8' x='2' y='9' width='3' height='5'/%3E%3Crect fill='%23cbd5e1' x='6' y='6' width='3' height='8'/%3E%3Crect fill='%2364748b' x='10' y='4' width='3' height='10'/%3E%3Crect fill='%23fbbf24' x='7' y='7' width='1' height='1'/%3E%3C/svg%3E");
+}
+
+.bi-all-settlements-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Crect fill='%23d97706' x='4.5' y='9' width='1.5' height='2.5'/%3E%3Crect fill='%233b82f6' x='7' y='7' width='1.5' height='4.5'/%3E%3Crect fill='%2394a3b8' x='9.5' y='8.5' width='1.5' height='3'/%3E%3C/svg%3E");
+}
+
+.bi-droids-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Crect fill='%23fff' x='3' y='4' width='10' height='8' rx='2'/%3E%3Ccircle fill='%2394a3b8' cx='6' cy='7' r='1'/%3E%3Ccircle fill='%2394a3b8' cx='10' cy='7' r='1'/%3E%3Crect fill='%2364748b' x='6' y='9' width='4' height='1' rx='0.5'/%3E%3Crect fill='%23fff' x='7' y='2' width='2' height='2' rx='0.5'/%3E%3C/svg%3E");
+}
+
+.bi-all-droids-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6' r='1' fill='%230284c7'/%3E%3Ccircle cx='8' cy='6' r='1' fill='%2364748b'/%3E%3Ccircle cx='10.5' cy='6' r='1' fill='%230891b2'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23eab308'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23e11d48'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%2394a3b8'/%3E%3C/svg%3E");
+}
+
+.bi-bounty-hunters-directory-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle fill='%2365a30d' cx='8' cy='8' r='6'/%3E%3Cpath fill='%23fff' d='M8 4v8M5 7h6' stroke='%23fff' stroke-width='1.5'/%3E%3Ccircle fill='%23fff' cx='8' cy='8' r='2'/%3E%3C/svg%3E");
+}
+
+.bi-all-bounty-hunters-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6' r='1' fill='%2365a30d'/%3E%3Ccircle cx='8' cy='6' r='1' fill='%230284c7'/%3E%3Ccircle cx='10.5' cy='6' r='1' fill='%23991b1b'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%2364748b'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23d97706'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%230891b2'/%3E%3C/svg%3E");
+}
+
+.nav-subflyout {
+    position: relative;
+}
+
+.nav-subflyout-trigger {
+    padding: 0 0.65rem !important;
+}
+
+.nav-subflyout-trigger .nav-flyout-chevron {
+    display: inline-block;
+}
+
+.nav-subflyout-menu {
+    display: none;
+}
+
+.nav-subflyout-menu .nav-flyout-panel {
+    min-width: 15.5rem;
+}
+
+.nav-subflyout-menu .nav-flyout-link {
+    height: auto !important;
+    min-height: 2.5rem;
+    line-height: 1.25 !important;
+    white-space: nowrap;
+}
+
 .bi-naboo-nav-menu {
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%235a9e8f'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%233d7568'/%3E%3C/svg%3E");
 }
@@ -236,6 +319,7 @@
     border-radius: 8px;
     background: rgba(8, 10, 18, 0.96);
     box-shadow: 0 10px 28px rgba(0, 0, 0, 0.55);
+    overflow: visible;
 }
 
 .nav-flyout-link {
@@ -255,7 +339,12 @@
 .nav-flyout-panel ::deep .nav-character-link,
 .nav-flyout-panel ::deep .nav-jedi-link,
 .nav-flyout-panel ::deep .nav-sith-link,
-.nav-flyout-panel ::deep .nav-ship-link {
+.nav-flyout-panel ::deep .nav-ship-link,
+.nav-flyout-panel ::deep .nav-force-power-link,
+.nav-flyout-panel ::deep .nav-species-link,
+.nav-flyout-panel ::deep .nav-settlement-link,
+.nav-flyout-panel ::deep .nav-droid-link,
+.nav-flyout-panel ::deep .nav-bounty-hunter-link {
     display: flex !important;
     align-items: center;
 }
@@ -265,7 +354,12 @@
 .nav-flyout-panel ::deep .nav-character-dot,
 .nav-flyout-panel ::deep .nav-jedi-dot,
 .nav-flyout-panel ::deep .nav-sith-dot,
-.nav-flyout-panel ::deep .nav-ship-dot {
+.nav-flyout-panel ::deep .nav-ship-dot,
+.nav-flyout-panel ::deep .nav-force-power-dot,
+.nav-flyout-panel ::deep .nav-species-dot,
+.nav-flyout-panel ::deep .nav-settlement-dot,
+.nav-flyout-panel ::deep .nav-droid-dot,
+.nav-flyout-panel ::deep .nav-bounty-hunter-dot {
     width: 0.85rem;
     height: 0.85rem;
     border-radius: 50%;
@@ -281,7 +375,12 @@
 .nav-flyout-panel ::deep .nav-character-link:hover .nav-character-dot,
 .nav-flyout-panel ::deep .nav-jedi-link:hover .nav-jedi-dot,
 .nav-flyout-panel ::deep .nav-sith-link:hover .nav-sith-dot,
-.nav-flyout-panel ::deep .nav-ship-link:hover .nav-ship-dot {
+.nav-flyout-panel ::deep .nav-ship-link:hover .nav-ship-dot,
+.nav-flyout-panel ::deep .nav-force-power-link:hover .nav-force-power-dot,
+.nav-flyout-panel ::deep .nav-species-link:hover .nav-species-dot,
+.nav-flyout-panel ::deep .nav-settlement-link:hover .nav-settlement-dot,
+.nav-flyout-panel ::deep .nav-droid-link:hover .nav-droid-dot,
+.nav-flyout-panel ::deep .nav-bounty-hunter-link:hover .nav-bounty-hunter-dot {
     transform: scale(1.15);
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.45);
 }
@@ -289,6 +388,92 @@
 .nav-flyout-panel-scroll {
     max-height: min(70vh, 24rem);
     overflow-y: auto;
+}
+
+.nav-flyout-panel-wide {
+    min-width: 15.5rem;
+}
+
+.nav-flyout-panel-wide .nav-flyout-link {
+    height: auto !important;
+    min-height: 2.5rem;
+    line-height: 1.25 !important;
+    white-space: nowrap;
+}
+
+.nav-flyout-panel-ships {
+    min-width: 18rem;
+    max-width: 22rem;
+    overflow-x: hidden;
+}
+
+.nav-flyout-panel-ships .nav-flyout-link {
+    height: auto !important;
+    min-height: 2.5rem;
+    line-height: 1.35 !important;
+    white-space: normal;
+    word-break: break-word;
+    padding-top: 0.4rem !important;
+    padding-bottom: 0.4rem !important;
+    align-items: flex-start !important;
+}
+
+.nav-flyout-panel-ships ::deep .nav-ship-link {
+    gap: 0.65rem;
+}
+
+.nav-flyout-panel-ships ::deep .nav-ship-dot {
+    margin-top: 0.35rem;
+}
+
+.nav-flyout-panel-droids {
+    min-width: 17rem;
+    max-width: 21rem;
+    overflow-x: hidden;
+}
+
+.nav-flyout-panel-droids .nav-flyout-link {
+    height: auto !important;
+    min-height: 2.5rem;
+    line-height: 1.35 !important;
+    white-space: normal;
+    word-break: break-word;
+    padding-top: 0.4rem !important;
+    padding-bottom: 0.4rem !important;
+    align-items: flex-start !important;
+}
+
+.nav-flyout-panel-droids ::deep .nav-droid-link {
+    gap: 0.65rem;
+}
+
+.nav-flyout-panel-droids ::deep .nav-droid-dot {
+    margin-top: 0.35rem;
+}
+
+.nav-flyout-panel-bounty-hunters {
+    min-width: 18rem;
+    max-width: 22rem;
+    overflow-x: hidden;
+}
+
+.nav-flyout-panel-bounty-hunters .nav-flyout-link {
+    height: auto !important;
+    min-height: 2.5rem;
+    line-height: 1.35 !important;
+    white-space: normal;
+    word-break: break-word;
+    padding-top: 0.4rem !important;
+    padding-bottom: 0.4rem !important;
+    align-items: flex-start !important;
+}
+
+.nav-flyout-panel-bounty-hunters ::deep .nav-bounty-hunter-link {
+    gap: 0.65rem;
+}
+
+.nav-flyout-panel-bounty-hunters ::deep .nav-bounty-hunter-dot {
+    margin-top: 0.35rem;
 }
 
 .nav-flyout-divider {
@@ -301,7 +486,13 @@
 .nav-all-characters-link ::deep .bi,
 .nav-all-jedi-link ::deep .bi,
 .nav-all-sith-link ::deep .bi,
-.nav-all-ships-link ::deep .bi {
+.nav-all-ships-link ::deep .bi,
+.nav-all-force-powers-link ::deep .bi,
+.nav-all-light-side-link ::deep .bi,
+.nav-all-dark-side-link ::deep .bi,
+.nav-all-species-link ::deep .bi,
+.nav-all-settlements-link ::deep .bi,
+.nav-all-droids-link ::deep .bi {
     margin-right: 0.75rem;
 }
 
@@ -334,6 +525,18 @@
     }
 
     .nav-flyout:has(.nav-flyout-menu.is-open) .nav-flyout-chevron {
+        transform: rotate(-45deg);
+    }
+
+    .nav-subflyout-menu.is-open {
+        display: block;
+    }
+
+    .nav-subflyout .nav-flyout-panel {
+        margin-left: 1.25rem;
+    }
+
+    .nav-subflyout:has(.nav-subflyout-menu.is-open) .nav-flyout-chevron {
         transform: rotate(-45deg);
     }
 }
@@ -377,6 +580,7 @@
         border: none;
         box-shadow: none;
         min-width: 0;
+        overflow: visible;
     }
 
     .nav-flyout-menu::before {
@@ -388,8 +592,8 @@
         height: 100%;
     }
 
-    .nav-flyout:hover .nav-flyout-menu,
-    .nav-flyout-menu:hover {
+    .nav-item.nav-flyout:hover > .nav-flyout-menu,
+    .nav-item.nav-flyout > .nav-flyout-menu:hover {
         opacity: 1;
         visibility: visible;
         pointer-events: auto;
@@ -398,5 +602,46 @@
 
     .nav-flyout-chevron {
         display: none;
+    }
+
+    .nav-subflyout-menu {
+        display: block;
+        position: absolute;
+        left: 100%;
+        top: 0;
+        z-index: 40;
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transform: translateX(-6px);
+        transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
+        padding-left: 0.35rem;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        min-width: 0;
+        overflow: visible;
+    }
+
+    .nav-subflyout-menu::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 0.35rem;
+        height: 100%;
+    }
+
+    .nav-subflyout:hover > .nav-subflyout-menu,
+    .nav-subflyout > .nav-subflyout-menu:hover {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        transform: translateX(0);
+    }
+
+    .nav-subflyout-trigger .nav-flyout-chevron {
+        display: inline-block;
+        margin-left: auto;
     }
 }

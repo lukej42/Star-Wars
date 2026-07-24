@@ -1,0 +1,49 @@
+{
+  "overview": "Force Scream is a adept-level dark side technique classified under Enhancement. Releases a sonic blast of dark-side energy through a horrifying scream that shatters eardrums, staggers Force users, and damages nearby structures. Darth Vader's anguished cry upon learning of Padmé's death on Mustafar echoed through the Force itself.",
+  "history": "Force scholars trace Force Scream across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · Revenge of the Sith · Clone Wars · KOTOR II · The Old Republic established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Scream into initiates as part of the standard curriculum for enhancement specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Scream alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Scream exemplifies how enhancement abilities shape Force doctrine on the dark side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Scream could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Scream remains a benchmark of enhancement proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Scream in Ancient Era conflicts",
+    "Standardised in Enhancement curricula of the Sith academies",
+    "Featured prominently in media: Films · Revenge of the Sith · Clone Wars · KOTOR II · The Ol…",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Sith Order",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "First major documented use of Force Scream in Ancient Era conflicts"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Standardised in Enhancement curricula of the Sith academies"
+    },
+    {
+      "era": "High Republic",
+      "event": "Featured prominently in media: Films · Revenge of the Sith · Clone Wars · KOTOR II · The Ol…"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-scream.svg",
+      "caption": "Emblem — Force Scream"
+    },
+    {
+      "path": "/images/force-powers/force-scream-scene.svg",
+      "caption": "Scene illustration — Force Scream"
+    }
+  ]
+}

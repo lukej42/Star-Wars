@@ -1,0 +1,45 @@
+{
+  "overview": "Akku Seii is a anzati bounty hunter from Anzat, documented across Legends · Old Republic lore. Anzati hunter who taught assassination traditions that blurred bounty hunting and soul-drinking ritual across Old Republic eras.",
+  "history": "Akku Seii rose from Anzat to become a anzati bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Akku Seii trained Anzati hunters to treat targets as sustenance and contract simultaneously, exporting the tradition to Nar Shaddaa guild markets. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Akku Seii as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Akku Seii's career, Anzat produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Anzat supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Akku Seii posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how anzati bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Akku Seii negotiate payment and honor.\n\nIn the modern era, Akku Seii competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Akku Seii remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Akku Seii. Mandalorian-era postings on Nevarro and Mos Espa show anzati bounty hunter specialists remain essential to galactic order—and chaos.\n\nAkku Seii operated in war zones where capture alive paid more than kill, and both paid more than failure. Seii's pupils hunted Jedi and Sith sympathizers during Old Republic collapse, where capture-alive clauses rarely survived Anzati feeding rituals. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of anzati bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Akku Seii's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Akku Seii as a anzati bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Anzati proboscis strike, stealth infiltration, soul-drinking ritual, and hunter-pupil lineage training. Guild instructors use redacted mission logs from Akku Seii's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Akku Seii often know smuggler routes better than naval patrols.\n\nAmong peers, Akku Seii earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Akku Seii as a anzati bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Akku Seii that may be half true and fully instructive. Whether Akku Seii followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Akku Seii exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Akku Seii's captures and eliminations shifted local power wherever Anzat expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Akku Seii, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Akku Seii when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Anzati hunter master on Anzat",
+    "Trains Nar Shaddaa pupil assassins",
+    "Old Republic collapse contracts",
+    "Jedi and Sith sympathizer hunts"
+  ],
+  "affiliations": [
+    "Anzati hunter tradition",
+    "Nar Shaddaa training circles",
+    "Bounty Hunters' Guild (adjacent)",
+    "Old Republic shadow markets"
+  ],
+  "timeline": [
+    {
+      "era": "Anzat",
+      "event": "Master hunter rise"
+    },
+    {
+      "era": "Training",
+      "event": "Pupil assassin line"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Collapse-era contracts"
+    },
+    {
+      "era": "Legacy",
+      "event": "Anzati hunter myth"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/akku-seii.svg",
+      "caption": "Emblem — Akku Seii"
+    },
+    {
+      "path": "/images/bounty-hunters/akku-seii-scene.svg",
+      "caption": "Scene illustration — Akku Seii"
+    }
+  ]
+}

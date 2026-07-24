@@ -1,0 +1,49 @@
+{
+  "overview": "Elom (Humanoid mammal) is native to Elom and ranks among the most consequential species in galactic history. Elom from frigid Elom split between surface-dwelling Eloms and cave-dwelling Elomin, whose cultural reunion became a Republic case study in species reconciliation.",
+  "history": "The Elom (humanoid mammal) trace their deepest roots to Elom, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Elom and Jedi Archaeological surveys confirm Elom civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Elom populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Elom history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Elom societies on Elom established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Elom polities traded with Core Founders and Sith Empire emissaries; ruins on Elom still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Elom identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Elom delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Elom diaspora communities appeared on every major trade lane and war front. Modern Elom appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Elom and Elomin councils remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Elom networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Elom migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nElom fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Elom fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Elom's terrain and humanoid mammal biology. KOTOR and KOTOR II document Elom involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Elom leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Elom display traits typical of humanoid mammal life adapted to Elom's gravity, atmosphere, and seasonal extremes. dual-species planetary coexistence. Republic medics and Imperial biometrics both document Elom resilience under occupation, exile, and frontline trauma. Medics note that Elom physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Elom resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nElom culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. tilm mine cave networks. Elom diaspora communities preserve homeworld ritual even when Elom itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Elom spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Elom communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Elom exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Elom merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Elom innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Elom choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Elomin miners clash with Elom cave societies",
+    "Republic mediates Elom-Elomin treaty",
+    "Joint councils export tilm ore to Core markets"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Elom governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Elom consolidate early civilization on Elom"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Elom join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Elom factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Elom identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Elom political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/elom.svg",
+      "caption": "Emblem — Elom"
+    },
+    {
+      "path": "/images/species/elom-scene.svg",
+      "caption": "Scene illustration — Elom"
+    }
+  ]
+}

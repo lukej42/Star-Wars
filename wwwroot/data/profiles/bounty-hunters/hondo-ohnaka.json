@@ -1,0 +1,51 @@
+{
+  "overview": "Hondo Ohnaka is a pirate king (bounty contractor) from Sriluur, documented across Clone Wars · Rebels. Weequay pirate who alternately hired hunters and placed bounties during Clone Wars and Rebels.",
+  "history": "Hondo Ohnaka rose from Sriluur to become a pirate king (bounty contractor) whose name appears on guild boards from the Core to the Outer Rim. Hondo Ohnaka built Florrum-based pirate empire alternately hiring bounty hunters and placing pucks on rivals—Weequay kingpin whose contracts shaped Clone Wars and Rebels hunter economies. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Hondo Ohnaka as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Hondo Ohnaka's career, Sriluur produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Sriluur Weequay pirate-kajidic traditions blend smuggling and bounty placement; Hondo represents pirate contractors who compete with guild for Rim enforcement. Old Republic bounty charters and Sith Empire mercenary rolls show how pirate king (bounty contractor) contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Hondo Ohnaka negotiate payment and honor.\n\nIn the modern era, Hondo Ohnaka competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Hondo's Rebels era partnership with Ezra Bridger showed pirate-bounty hybrid evolution—same Hondo who fought Sugi on Felucia later aided Rebellion for profit. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Hondo Ohnaka. Mandalorian-era postings on Nevarro and Mos Espa show pirate king (bounty contractor) specialists remain essential to galactic order—and chaos.\n\nHondo Ohnaka operated in war zones where capture alive paid more than kill, and both paid more than failure. Hondo fought Sugi and Embo on Felucia, captured Count Dooku briefly for ransom, lost Florrum base repeatedly, and supplied Rebels with smuggler-hunter intelligence. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of pirate king (bounty contractor) hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Hondo Ohnaka's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Hondo Ohnaka as a pirate king (bounty contractor) relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Pirate fleet assault, ransom negotiation, bounty placement on rivals, charismatic betrayal, and Florrum base operations—Hondo contracts hunters when piracy insufficient. Guild instructors use redacted mission logs from Hondo Ohnaka's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Hondo Ohnaka often know smuggler routes better than naval patrols.\n\nAmong peers, Hondo Ohnaka earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild hunters price Hondo as employer and obstacle; Dooku ransomed from him once; Rebels tolerate him for useful chaos; Weequay pirates study his survival instincts. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Hondo Ohnaka that may be half true and fully instructive. Whether Hondo Ohnaka followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Hondo Ohnaka exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Hondo Ohnaka linked pirate and bounty economies across Clone Wars and Rebels—proving Rim power brokers both hire hunters and become targets. Without contractors like Hondo Ohnaka, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Hondo Ohnaka when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Builds Florrum pirate empire",
+    "Fights Sugi's crew on Felucia",
+    "Captures Count Dooku for ransom",
+    "Places and hires bounty contracts",
+    "Rebels era Ezra Bridger alliance"
+  ],
+  "affiliations": [
+    "Ohnaka pirate gang",
+    "Florrum base operations",
+    "Hutt Cartel (adjacent)",
+    "Rebel Alliance (opportunistic)",
+    "Bounty Hunters' Guild (client and rival)"
+  ],
+  "timeline": [
+    {
+      "era": "Florrum",
+      "event": "Pirate empire founding"
+    },
+    {
+      "era": "Felucia",
+      "event": "Fights Sugi and Embo"
+    },
+    {
+      "era": "Dooku Ransom",
+      "event": "Brief Separatist capture"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Hunter contract cycles"
+    },
+    {
+      "era": "Rebels",
+      "event": "Ezra alliance era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/hondo-ohnaka.svg",
+      "caption": "Emblem — Hondo Ohnaka"
+    },
+    {
+      "path": "/images/bounty-hunters/hondo-ohnaka-scene.svg",
+      "caption": "Scene illustration — Hondo Ohnaka"
+    }
+  ]
+}

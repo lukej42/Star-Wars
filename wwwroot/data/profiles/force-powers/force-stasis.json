@@ -1,0 +1,50 @@
+{
+  "overview": "Force Stasis is a master-level light side technique classified under Telekinesis. Suspends a target in a telekinetic stasis field, immobilizing limbs and freezing motion without inflicting direct harm. Master-level practitioners can hold multiple assailants at once, as seen when senior Jedi subdued rampaging foes during Temple disturbances.",
+  "history": "Force scholars trace Force Stasis across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR · KOTOR II · Clone Wars · The Old Republic established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Stasis into initiates as part of the standard curriculum for telekinesis specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Stasis alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Force Stasis exemplifies how telekinesis abilities shape Force doctrine on the light side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Stasis could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Stasis remains a benchmark of telekinesis proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Stasis in Galactic Civil War conflicts",
+    "Standardised in Telekinesis curricula of the Jedi academies",
+    "Featured prominently in media: KOTOR · KOTOR II · Clone Wars · The Old Republic",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Force Stasis altered galactic history"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "First major documented use of Force Stasis in Galactic Civil War conflicts"
+    },
+    {
+      "era": "New Republic",
+      "event": "Standardised in Telekinesis curricula of the Jedi academies"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Featured prominently in media: KOTOR · KOTOR II · Clone Wars · The Old Republic"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-stasis.svg",
+      "caption": "Emblem — Force Stasis"
+    },
+    {
+      "path": "/images/force-powers/force-stasis-scene.svg",
+      "caption": "Scene illustration — Force Stasis"
+    }
+  ]
+}

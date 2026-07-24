@@ -1,0 +1,51 @@
+{
+  "overview": "Bazine Netal is a spy & bounty adjacent operative from Chaasadai, documented across Force Awakens · comics. Mercenary spy at Maz Kanata's castle who reported to First Order on Solo's movements.",
+  "history": "Bazine Netal rose from Chaasadai to become a spy & bounty adjacent operative whose name appears on guild boards from the Core to the Outer Rim. Bazine Netal operated as mercenary spy at Maz Kanata's castle on Takodana, selling intelligence to First Order about Han Solo's Resistance movements during Force Awakens era. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Bazine Netal as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Bazine Netal's career, Chaasadai produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Chaasadai mercenary spy networks supplied Old Republic intelligence markets; Bazine represents post-Imperial era hunter-spy hybrids working First Order contracts. Old Republic bounty charters and Sith Empire mercenary rolls show how spy & bounty adjacent operative contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Bazine Netal negotiate payment and honor.\n\nIn the modern era, Bazine Netal competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Bazine's Takodana castle presence during Force Awakens made her key informant in Han Solo pursuit—hunter-adjacent intelligence rather than direct puck work. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Bazine Netal. Mandalorian-era postings on Nevarro and Mos Espa show spy & bounty adjacent operative specialists remain essential to galactic order—and chaos.\n\nBazine Netal operated in war zones where capture alive paid more than kill, and both paid more than failure. Bazine monitored Maz's castle clientele, reported Solo's arrival to First Order, and operated in shadow intelligence economy parallel to bounty boards. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of spy & bounty adjacent operative hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Bazine Netal's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Bazine Netal as a spy & bounty adjacent operative relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Social infiltration at neutral castle hubs, encrypted First Order reporting, disguise, and information brokerage—Bazine sells locations not captures. Guild instructors use redacted mission logs from Bazine Netal's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Bazine Netal often know smuggler routes better than naval patrols.\n\nAmong peers, Bazine Netal earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Maz Kanata's staff watched Bazine suspiciously; First Order valued her Takodana access; Resistance later flagged her as First Order intelligence asset. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Bazine Netal that may be half true and fully instructive. Whether Bazine Netal followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Bazine Netal exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Bazine Netal demonstrated post-Endor hunter economy includes intelligence mercenaries at neutral hubs—complementing traditional capture-kill contracts. Without contractors like Bazine Netal, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Bazine Netal when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Establishes cover at Maz's castle",
+    "Monitors smuggler and Resistance traffic",
+    "Reports Han Solo arrival to First Order",
+    "Force Awakens intelligence role",
+    "Mercenary spy at Takodana"
+  ],
+  "affiliations": [
+    "First Order intelligence",
+    "Maz Kanata's castle (cover)",
+    "Chaasadai mercenary networks",
+    "Information broker markets",
+    "Han Solo surveillance"
+  ],
+  "timeline": [
+    {
+      "era": "Chaasadai",
+      "event": "Mercenary spy training"
+    },
+    {
+      "era": "Takodana",
+      "event": "Castle infiltration cover"
+    },
+    {
+      "era": "Force Awakens",
+      "event": "Solo intelligence report"
+    },
+    {
+      "era": "First Order",
+      "event": "Contracted asset"
+    },
+    {
+      "era": "Legacy",
+      "event": "Spy-hunter hybrid model"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/bazine-netal.svg",
+      "caption": "Emblem — Bazine Netal"
+    },
+    {
+      "path": "/images/bounty-hunters/bazine-netal-scene.svg",
+      "caption": "Scene illustration — Bazine Netal"
+    }
+  ]
+}

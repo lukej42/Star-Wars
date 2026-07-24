@@ -1,0 +1,45 @@
+{
+  "overview": "T'lar is a twi'lek bounty hunter from Ryloth, documented across War of the Bounty Hunters · Comics. Sister of T'onga who continued the family hunter business after T'ongor's death during the War of the Bounty Hunters.",
+  "history": "T'lar rose from Ryloth to become a twi'lek bounty hunter whose name appears on guild boards from the Core to the Outer Rim. T'lar inherited T'ongor's debts and ship alongside T'onga, keeping the family hunter brand alive when Crimson Dawn and Pyke syndicates rewrote guild law. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document T'lar as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before T'lar's career, Ryloth produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Ryloth supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before T'lar posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how twi'lek bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like T'lar negotiate payment and honor.\n\nIn the modern era, T'lar competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. T'lar remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to T'lar. Mandalorian-era postings on Nevarro and Mos Espa show twi'lek bounty hunter specialists remain essential to galactic order—and chaos.\n\nT'lar operated in war zones where capture alive paid more than kill, and both paid more than failure. T'lar fought alongside T'onga during the Han Solo carbonite puck crisis, targeting syndicate brokers who exploited T'ongor's death. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of twi'lek bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear T'lar's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify T'lar as a twi'lek bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Sibling crew coordination, Twi'lek pursuit tactics, family debt honor, and syndicate war navigation. Guild instructors use redacted mission logs from T'lar's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like T'lar often know smuggler routes better than naval patrols.\n\nAmong peers, T'lar earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify T'lar as a twi'lek bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about T'lar that may be half true and fully instructive. Whether T'lar followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of T'lar exceeds credit totals: key captures, assassinations, and rescues altered the timeline. T'lar's captures and eliminations shifted local power wherever Ryloth expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like T'lar, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite T'lar when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Inherits T'ongor hunter legacy",
+    "Partners with T'onga on family contracts",
+    "War of the Bounty Hunters syndicate fights",
+    "Maintains family hunter brand"
+  ],
+  "affiliations": [
+    "T'onga family hunter lineage",
+    "Bounty Hunters' Guild",
+    "Crimson Dawn (opposed)",
+    "Ryloth expatriates"
+  ],
+  "timeline": [
+    {
+      "era": "Ryloth",
+      "event": "Family origins"
+    },
+    {
+      "era": "T'ongor Death",
+      "event": "Legacy inheritance"
+    },
+    {
+      "era": "Syndicate War",
+      "event": "T'onga partnership"
+    },
+    {
+      "era": "Legacy",
+      "event": "Sister-hunter lineage"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/tlar.svg",
+      "caption": "Emblem — T'lar"
+    },
+    {
+      "path": "/images/bounty-hunters/tlar-scene.svg",
+      "caption": "Scene illustration — T'lar"
+    }
+  ]
+}

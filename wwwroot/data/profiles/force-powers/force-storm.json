@@ -1,0 +1,50 @@
+{
+  "overview": "Force Storm is a master-level dark side technique classified under Energy. Summons a cataclysmic tempest of dark-side energy capable of annihilating fleets, ravaging planets, and tearing holes in the fabric of hyperspace. Only the most powerful Sith Lords—such as Palpatine in his clone bodies—could sustain a Force storm without being consumed by it.",
+  "history": "Force scholars trace Force Storm across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Dark Empire · The Old Republic · Sith Empire · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Storm into initiates as part of the standard curriculum for energy specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Storm alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Storm exemplifies how energy abilities shape Force doctrine on the dark side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Storm could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Storm remains a benchmark of energy proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Storm in Old Republic conflicts",
+    "Standardised in Energy curricula of the Sith academies",
+    "Featured prominently in media: Dark Empire · The Old Republic · Sith Empire · Clone Wars",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Force Storm altered galactic history"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Sith Order",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major documented use of Force Storm in Old Republic conflicts"
+    },
+    {
+      "era": "High Republic",
+      "event": "Standardised in Energy curricula of the Sith academies"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Featured prominently in media: Dark Empire · The Old Republic · Sith Empire · Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-storm.svg",
+      "caption": "Emblem — Force Storm"
+    },
+    {
+      "path": "/images/force-powers/force-storm-scene.svg",
+      "caption": "Scene illustration — Force Storm"
+    }
+  ]
+}

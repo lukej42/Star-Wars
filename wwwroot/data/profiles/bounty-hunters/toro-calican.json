@@ -1,0 +1,50 @@
+{
+  "overview": "Toro Calican is a aspirant bounty hunter from Unknown, documented across Mandalorian. Ambitious rookie who betrayed Din Djarin hunting Fennec Shand and died to her vengeance.",
+  "history": "Toro Calican rose from Unknown to become a aspirant bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Toro Calican arrived on Tatooine desperate to make guild name by capturing Fennec Shand, recruiting Din Djarin with flattery before planning to steal credit and fame. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Toro Calican as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Toro Calican's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Guild aspirant culture on Tatooine dates to Hutt-era posting boards; KOTOR Nar Shaddaa records show similar rookies betraying partners for debut contracts. Old Republic bounty charters and Sith Empire mercenary rolls show how aspirant bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Toro Calican negotiate payment and honor.\n\nIn the modern era, Toro Calican competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Toro's betrayal and death by Fennec Shand became cautionary tale for Nevarro guild cadets—proof that stealing a veteran's hunt ends worse than failing honestly. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Toro Calican. Mandalorian-era postings on Nevarro and Mos Espa show aspirant bounty hunter specialists remain essential to galactic order—and chaos.\n\nToro Calican operated in war zones where capture alive paid more than kill, and both paid more than failure. Toro partnered with Din Djarin tracking Fennec Shand, handcuffed Djarin to steal the capture, and left Fennec wounded in the Dune Sea before she killed him in retaliation. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of aspirant bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Toro Calican's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Toro Calican as a aspirant bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Blaster work, speeder bike pursuit, handcuff betrayal, and social manipulation—Toro had ambition and equipment but lacked honor or survival instinct. Guild instructors use redacted mission logs from Toro Calican's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Toro Calican often know smuggler routes better than naval patrols.\n\nAmong peers, Toro Calican earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Fennec dismissed him as a wannabe; Din survived his betrayal; Tatooine guild brokers blacklisted his name posthumously as partnership poison. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Toro Calican that may be half true and fully instructive. Whether Toro Calican followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Toro Calican exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Toro's betrayal directly caused Fennec Shand's Dune Sea wounds and her subsequent alliance with Boba Fett—his failure reshaped Tatooine power dynamics. Without contractors like Toro Calican, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Toro Calican when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Recruits Din Djarin on Tatooine",
+    "Tracks Fennec Shand together",
+    "Betrayals and handcuffs Djarin",
+    "Leaves Fennec wounded in Dune Sea",
+    "Killed by Fennec Shand in revenge"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild (aspirant)",
+    "Tatooine posting boards",
+    "Fennec Shand hunt (target)",
+    "Din Djarin (betrayed partner)"
+  ],
+  "timeline": [
+    {
+      "era": "Tatooine Arrival",
+      "event": "Seeks Fennec Shand puck"
+    },
+    {
+      "era": "Partnership",
+      "event": "Recruits Din Djarin"
+    },
+    {
+      "era": "Betrayal",
+      "event": "Handcuffs Djarin"
+    },
+    {
+      "era": "Dune Sea",
+      "event": "Wounds Fennec"
+    },
+    {
+      "era": "Death",
+      "event": "Killed by Fennec Shand"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/toro-calican.svg",
+      "caption": "Emblem — Toro Calican"
+    },
+    {
+      "path": "/images/bounty-hunters/toro-calican-scene.svg",
+      "caption": "Scene illustration — Toro Calican"
+    }
+  ]
+}

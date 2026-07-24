@@ -1,0 +1,47 @@
+{
+  "overview": "K-2SO is a kx security droid built by Arakyd Industries, documented across Rogue One · Andor. A reprogrammed Imperial security droid whose blunt sarcasm and towering frame concealed fierce loyalty to Cassian Andor and the Rebel Alliance during the theft of the Death Star plans.",
+  "history": "K-2SO belongs to the kx security droid class manufactured by Arakyd Industries, one of the most recognizable automaton designs documented across galactic history. Cassian Andor's reprogramming turned an Imperial enforcer into one of the Rebellion's deadliest assets. Arakyd Industries factory schematics document the kx security droid platform lineage that produced K-2SO, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat K-2SO as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced K-2SO. Excavations on Taris, Dxun, and Dromund Kaas recovered kx security droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Arakyd Industries subsystems, spreading design language across millennia before K-2SO rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Arakyd Industries subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and kx security droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, K-2SO units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. K-2SO units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Arakyd Industries frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Arakyd Industries frames. Historians studying the Sequel Era treat surviving K-2SO memory cores as primary sources on earlier conflicts.\n\nK-2SO and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, K-2SO and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of kx security droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Arakyd Industries automata.",
+  "significance": "Engineering analysis of K-2SO highlights why kx security droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise K-2SO's modular kx security droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Arakyd Industries documentation; slicers praise its predictable security flaws—both keep K-2SO relevant in scrap yards centuries later. New Republic certification boards still debate which kx security droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite K-2SO when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite K-2SO when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every kx security droid rights petition involving Arakyd Industries personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as K-2SO's service record. Whether K-2SO is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of K-2SO exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like K-2SO; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like K-2SO, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Arakyd Industries chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Cassian reprograms K-2SO on Wecacoe",
+    "Infiltrates Imperial vault on Scarif",
+    "Calculates odds for Jedha and Eadu missions",
+    "Holds off stormtroopers during Scarif assault",
+    "Sacrifices himself so Jyn can transmit plans"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Rebel Intelligence",
+    "Cassian Andor's team",
+    "Imperial Security Bureau (former)",
+    "Massassi Group"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "KX unit manufactured for enforcement"
+    },
+    {
+      "era": "Reprogramming",
+      "event": "Andor converts K-2SO to Rebel service"
+    },
+    {
+      "era": "Jedha Mission",
+      "event": "Escorts Jyn Erso to Saw Gerrera"
+    },
+    {
+      "era": "Scarif Assault",
+      "event": "Leads beachhead defense of comm tower"
+    },
+    {
+      "era": "Legacy",
+      "event": "Plans reach Tantive IV because of Scarif team"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/k-2so-scene.png",
+      "caption": "Cinematic illustration — K-2SO"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Nightsister Fortress is a dark side enclave on Dathomir, documented across Films · Clone Wars · Fallen Order. The Nightsister fortress on Dathomir is a stone labyrinth of magick, rancor pens, and Mother Talzin's throne overlooking haunted valleys.",
+  "history": "Nightsister Fortress began as a dark side enclave anchor on Dathomir, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Nightsister Fortress grew from Allyan exiles who merged Force craft with Dathomir's blood rituals. Early survey maps from the Old Republic era list Nightsister Fortress as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Nightsister Fortress as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Nightsister Fortress include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Sith and Jedi both feared the fortress; Darth Sidious abducted Maul from nearby village pens. High Republic pathfinders logged Nightsister Fortress as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Dathomir suggest Nightsister Fortress once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Nightsister Fortress expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. General Grievous annihilated much of the fortress on Sidious's orders, scattering surviving witches. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Nightsister Fortress because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Nightsister Fortress as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nNightsister Fortress has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Merrin and others rebuilt fragments of tradition while Imperial hunters sought Nightsister artifacts. Clone Wars dossiers mark Nightsister Fortress as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Nightsister Fortress meant control of Dathomir.",
+  "significance": "The economy of Nightsister Fortress runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. No conventional trade—sisterhood barters magick, beasts, and mercenary aid with offworld clients. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Nightsister Fortress infrastructure during the late Republic. Post-war reconstruction funds often bypass Nightsister Fortress officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Nightsister Fortress mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Nightsister culture centers on the Book of Law, rancor kinship, and vengeance oaths. Music, food, and festival calendars in Nightsister Fortress are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Nightsister Fortress back alleys.\n\nNightsister Fortress influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. The fortress represents Force practice outside Jedi/Sith binaries, nearly erased by Sidious. Scenes set in Nightsister Fortress across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Nightsister Fortress when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Allyan's descendants become Nightsisters",
+    "Mother Talzin leads the clan against Separatists",
+    "Grievous massacres Nightsisters on Sidious's command",
+    "Maul returns seeking Talzin's aid",
+    "Survivors preserve magick in hidden covens"
+  ],
+  "affiliations": [
+    "Nightsisters of Dathomir",
+    "Nightbrothers",
+    "Confederacy of Independent Systems (brief)",
+    "Sith Order (enemy)",
+    "Mandalorian mercenaries (historical)"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Fortress established in rancor valleys"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Talzin wars against Dooku"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Grievous destroys primary fortress"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Artifact hunters scour ruins"
+    },
+    {
+      "era": "New Republic",
+      "event": "Merrin revives scattered traditions"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/nightsister-fortress.svg",
+      "caption": "Emblem — Nightsister Fortress"
+    },
+    {
+      "path": "/images/settlements/nightsister-fortress-scene.svg",
+      "caption": "Scene illustration — Nightsister Fortress"
+    }
+  ]
+}

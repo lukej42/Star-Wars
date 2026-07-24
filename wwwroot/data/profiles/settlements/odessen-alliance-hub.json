@@ -1,0 +1,51 @@
+{
+  "overview": "Odessen Alliance Hub is a alliance operations base on Odessen, documented across SWTOR. Odessen became the Eternal Alliance's hidden headquarters in wild jungle mesas during the war against Zakuul.",
+  "history": "Odessen Alliance Hub began as a alliance operations base anchor on Odessen, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Odessen Alliance Hub began as a strategic anchor on Odessen, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Odessen Alliance Hub as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Odessen Alliance Hub as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Odessen Alliance Hub include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Odessen Alliance Hub include ward-stones and battle markers from Sith and Jedi campaigns on Odessen. High Republic pathfinders logged Odessen Alliance Hub as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Odessen suggest Odessen Alliance Hub once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Odessen Alliance Hub expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Odessen Alliance Hub appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Odessen Alliance Hub because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Odessen Alliance Hub as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nOdessen Alliance Hub has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Odessen Alliance Hub as contested territory on Odessen. Clone Wars dossiers mark Odessen Alliance Hub as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Odessen Alliance Hub meant control of Odessen.",
+  "significance": "The economy of Odessen Alliance Hub runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Odessen Alliance Hub runs on local industry, trade tariffs, and black-market mediation typical of Odessen. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Odessen Alliance Hub infrastructure during the late Republic. Post-war reconstruction funds often bypass Odessen Alliance Hub officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Odessen Alliance Hub mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Odessen Alliance Hub preserve Odessen rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Odessen Alliance Hub are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Odessen Alliance Hub back alleys.\n\nOdessen Alliance Hub influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Odessen Alliance Hub when tracing how Odessen influenced sector-wide treaties and fleet movements. Scenes set in Odessen Alliance Hub across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Odessen Alliance Hub when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Odessen Alliance Hub founded on Odessen",
+    "Recorded siege or battle at Odessen Alliance Hub",
+    "Occupation forces restructure Odessen Alliance Hub",
+    "Underground resistance operates from Odessen Alliance Hub",
+    "Post-war memorialization of Odessen Alliance Hub"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Odessen governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Odessen Alliance Hub"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Odessen Alliance Hub"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Odessen Alliance Hub"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Odessen Alliance Hub"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Odessen Alliance Hub"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/odessen-alliance-hub.svg",
+      "caption": "Emblem — Odessen Alliance Hub"
+    },
+    {
+      "path": "/images/settlements/odessen-alliance-hub-scene.svg",
+      "caption": "Scene illustration — Odessen Alliance Hub"
+    }
+  ]
+}

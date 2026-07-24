@@ -1,0 +1,51 @@
+{
+  "overview": "Mustafar Mining Complex is a lava mining facility on Mustafar, documented across Films · Clone Wars · Rogue One. Mustafar's lava-mining complex witnessed Anakin's duel with Obi-Wan and later served Darth Vader's fortress construction.",
+  "history": "Mustafar Mining Complex began as a lava mining facility anchor on Mustafar, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Mustafar Mining Complex grew where Mustafar's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a lava mining facility that outlasted first founders. Early survey maps from the Old Republic era list Mustafar Mining Complex as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Mustafar Mining Complex as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Mustafar Mining Complex include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Mustafar Mining Complex include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Mustafar Mining Complex as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Mustafar suggest Mustafar Mining Complex once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Mustafar Mining Complex expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Mustafar Mining Complex; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Mustafar Mining Complex because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Mustafar Mining Complex as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nMustafar Mining Complex has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Mustafar Mining Complex as strategically contested on Mustafar. Clone Wars dossiers mark Mustafar Mining Complex as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Mustafar Mining Complex meant control of Mustafar.",
+  "significance": "The economy of Mustafar Mining Complex runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Mustafar Mining Complex's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Mustafar Mining Complex infrastructure during the late Republic. Post-war reconstruction funds often bypass Mustafar Mining Complex officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Mustafar Mining Complex mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Mustafar Mining Complex blend Mustafar native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Mustafar Mining Complex are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Mustafar Mining Complex back alleys.\n\nMustafar Mining Complex influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Mustafar Mining Complex altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Mustafar Mining Complex across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Mustafar Mining Complex when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Mustafar Mining Complex founded as lava mining facility on Mustafar",
+    "Major battle or siege recorded at Mustafar Mining Complex",
+    "Imperial occupation transforms Mustafar Mining Complex governance",
+    "Rebel or Resistance cell operates from Mustafar Mining Complex",
+    "New Republic era reconstruction begins at Mustafar Mining Complex"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Mustafar Mining Complex"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Mustafar Mining Complex joins sector trade networks on Mustafar"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Mustafar Mining Complex triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Mustafar Mining Complex"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Mustafar Mining Complex"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/mustafar-mining-complex.svg",
+      "caption": "Emblem — Mustafar Mining Complex"
+    },
+    {
+      "path": "/images/settlements/mustafar-mining-complex-scene.svg",
+      "caption": "Scene illustration — Mustafar Mining Complex"
+    }
+  ]
+}

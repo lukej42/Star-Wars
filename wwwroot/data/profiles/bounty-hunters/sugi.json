@@ -1,0 +1,52 @@
+{
+  "overview": "Sugi is a zabrak bounty hunter from Iridonia, documented across Clone Wars. Zabrak mercenary leader who defended Felucian farmers with Embo against Hondo Ohnaka's pirates.",
+  "history": "Sugi rose from Iridonia to become a zabrak bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Sugi led a Zabrak mercenary crew from Iridonia taking Rim defense contracts others rejected, assembling Embo, Rumi Paramita, and C-21 Highsinger for Felucian nerf-herder protection. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Sugi as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Sugi's career, Iridonia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Iridonia's Zabrak warrior diaspora supplied Old Republic mercenary companies; KOTOR Iridonia muster rolls list horned hunters preferring squad tactics over solo pursuit. Old Republic bounty charters and Sith Empire mercenary rolls show how zabrak bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Sugi negotiate payment and honor.\n\nIn the modern era, Sugi competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Sugi's Felucia defense against Hondo Ohnaka became Clone Wars legend; her crew model influenced later guild team-contract structures on Outer Rim worlds. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Sugi. Mandalorian-era postings on Nevarro and Mos Espa show zabrak bounty hunter specialists remain essential to galactic order—and chaos.\n\nSugi operated in war zones where capture alive paid more than kill, and both paid more than failure. Sugi fought Hondo's pirate fleet on Felucia, lost Rumi Paramita defending farmers, and demonstrated mercenaries could hold ground against superior numbers. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of zabrak bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Sugi's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Sugi as a zabrak bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Zabrak tactical leadership, crew coordination, heavy weapons via C-21 Highsinger, and Pa'lowick sniper overwatch from Rumi—Sugi commands rather than solo hunts. Guild instructors use redacted mission logs from Sugi's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Sugi often know smuggler routes better than naval patrols.\n\nAmong peers, Sugi earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Felucian farmers commissioned Sugi by name; Hondo Ohnaka learned her crew cost more to fight than to bribe; guild brokers cite Felucia as team-contract template. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Sugi that may be half true and fully instructive. Whether Sugi followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Sugi exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Sugi's Felucia stand proved hunter crews could defend civilians against pirate fleets—a precedent for Rim worlds hiring guild teams over planetary militias. Without contractors like Sugi, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Sugi when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Assembles mercenary crew on Iridonia",
+    "Contracts to defend Felucian nerf herders",
+    "Fights Hondo Ohnaka's pirate attack",
+    "Loses Rumi Paramita in defense",
+    "C-21 Highsinger heavy weapons support"
+  ],
+  "affiliations": [
+    "Sugi's mercenary crew",
+    "Bounty Hunters' Guild",
+    "Iridonia Zabrak networks",
+    "Embo partnership",
+    "Felucian farmer clients",
+    "C-21 Highsinger unit"
+  ],
+  "timeline": [
+    {
+      "era": "Iridonia",
+      "event": "Mercenary crew formation"
+    },
+    {
+      "era": "Felucia Contract",
+      "event": "Nerf herder defense"
+    },
+    {
+      "era": "Pirate Battle",
+      "event": "Hondo Ohnaka assault"
+    },
+    {
+      "era": "Loss",
+      "event": "Rumi Paramita falls"
+    },
+    {
+      "era": "Legacy",
+      "event": "Team-contract template"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/sugi.svg",
+      "caption": "Emblem — Sugi"
+    },
+    {
+      "path": "/images/bounty-hunters/sugi-scene.svg",
+      "caption": "Scene illustration — Sugi"
+    }
+  ]
+}

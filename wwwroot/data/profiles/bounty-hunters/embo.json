@@ -1,0 +1,52 @@
+{
+  "overview": "Embo is a kyuzo bounty hunter from Phatrong, documented across Clone Wars. Silent Kyuzo warrior who wielded his hat as shield and disc-weapon alongside anooba Marrok.",
+  "history": "Embo rose from Phatrong to become a kyuzo bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Embo left Phatrong's Kyuzo warrior culture selling silence and hat-disc combat to Clone Wars bidders, accompanied by anooba Marrok tracking scents scanners missed. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Embo as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Embo's career, Phatrong produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Kyuzo mercenary traditions from Phatrong appear in Old Republic frontier contracts; KOTOR Rim postings document silent warriors using cultural weapons as shield and projectile. Old Republic bounty charters and Sith Empire mercenary rolls show how kyuzo bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Embo negotiate payment and honor.\n\nIn the modern era, Embo competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Embo defended Felucian farmers with Sugi against Hondo Ohnaka, competed in Moralo Eval's box, and remained the Clone Wars' most visually distinctive guild contractor. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Embo. Mandalorian-era postings on Nevarro and Mos Espa show kyuzo bounty hunter specialists remain essential to galactic order—and chaos.\n\nEmbo operated in war zones where capture alive paid more than kill, and both paid more than failure. Embo fought Hondo's pirates on Felucia, competed in Eval's Serenno box, and protected civilians when contracts aligned with Kyuzo honor. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of kyuzo bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Embo's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Embo as a kyuzo bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Metal hat shield and disc throws, silent movement, Marrok scent-tracking, and acrobatic close combat—Embo communicates through action not negotiation. Guild instructors use redacted mission logs from Embo's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Embo often know smuggler routes better than naval patrols.\n\nAmong peers, Embo earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Hondo learned to price Embo as premium opposition; Felucian farmers tell stories of the silent Kyuzo who defended their nerf herds. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Embo that may be half true and fully instructive. Whether Embo followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Embo exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Embo's Felucia defense with Sugi showed guild hunters could protect Rim civilians—narrative Rebel recruiters later exploited. Without contractors like Embo, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Embo when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Defends Felucian farmers with Sugi",
+    "Fights Hondo Ohnaka's pirates",
+    "Competes in Eval's Serenno box",
+    "Marrok tracks jungle targets",
+    "Silent Clone Wars Rim contracts"
+  ],
+  "affiliations": [
+    "Sugi's mercenary crew",
+    "Bounty Hunters' Guild",
+    "Kyuzo warrior tradition",
+    "Marrok anooba partnership",
+    "Felucian defense contracts",
+    "Moralo Eval's box roster"
+  ],
+  "timeline": [
+    {
+      "era": "Phatrong",
+      "event": "Kyuzo training"
+    },
+    {
+      "era": "Felucia",
+      "event": "Farmer defense with Sugi"
+    },
+    {
+      "era": "Pirate War",
+      "event": "Opposes Hondo"
+    },
+    {
+      "era": "Serenno Box",
+      "event": "Tournament survivor"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Premium silent contracts"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/embo.svg",
+      "caption": "Emblem — Embo"
+    },
+    {
+      "path": "/images/bounty-hunters/embo-scene.svg",
+      "caption": "Scene illustration — Embo"
+    }
+  ]
+}

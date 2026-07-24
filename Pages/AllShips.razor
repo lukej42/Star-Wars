@@ -3,17 +3,22 @@
 
 <PageTitle>All Ships</PageTitle>
 
+<figure class="directory-hero">
+    <img src="/images/ships/ships-directory-hero.png" alt="Starship silhouettes drifting through a luminous deep-space nebula" loading="lazy" />
+</figure>
+
 <h1>All Ships</h1>
 <p class="all-planets-intro">@ShipData.Ships.Count starships and support craft from the saga films, series, Knights of the Old Republic, and the Sith Empire — fighters, freighters, capital ships, and battle stations. Entries are colour-coded by primary affiliation.</p>
 
-<div class="planet-directory-grid">
+<div class="planet-directory-grid ship-directory-grid">
     @foreach (var ship in ShipData.Ships.OrderBy(ship => ship.Name))
     {
-        <article class="planet-directory-card">
+        <article class="planet-directory-card ship-directory-card">
             <span class="planet-directory-swatch" style="background-color: @ship.Color" aria-hidden="true"></span>
             <div class="planet-directory-details">
                 <a href="@ship.Route">@ship.Name</a>
-                <p class="planet-region">@ship.Class · @ship.Era</p>
+                <p class="planet-region ship-directory-class">@ship.Class</p>
+                <p class="planet-region ship-directory-era">@ship.Era</p>
             </div>
         </article>
     }

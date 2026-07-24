@@ -1,0 +1,49 @@
+{
+  "overview": "Force Bond is a adept-level light side technique classified under Connection. Creates a persistent telepathic link between two Force-sensitive individuals, allowing them to share thoughts, emotions, and visions across any distance. The bond between Rey and Ben Solo grew so powerful that it eventually transcended death itself.",
+  "history": "Force scholars trace Force Bond across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · The Last Jedi · The Rise of Skywalker · Clone Wars · KOTOR established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Bond into initiates as part of the standard curriculum for connection specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Bond alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Force Bond exemplifies how connection abilities shape Force doctrine on the light side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Bond could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Bond remains a benchmark of connection proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Bond in Clone Wars conflicts",
+    "Standardised in Connection curricula of the Jedi academies",
+    "Featured prominently in media: Films · The Last Jedi · The Rise of Skywalker · Clone Wars ·…",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "First major documented use of Force Bond in Clone Wars conflicts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Standardised in Connection curricula of the Jedi academies"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Featured prominently in media: Films · The Last Jedi · The Rise of Skywalker · Clone Wars ·…"
+    },
+    {
+      "era": "New Republic",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-bond.svg",
+      "caption": "Emblem — Force Bond"
+    },
+    {
+      "path": "/images/force-powers/force-bond-scene.svg",
+      "caption": "Scene illustration — Force Bond"
+    }
+  ]
+}

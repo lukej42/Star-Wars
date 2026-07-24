@@ -1,0 +1,50 @@
+{
+  "overview": "Plazir-17 Domed Resort is a domed leisure city on Plazir-17, documented across Mandalorian · The Book of Boba Fett. Plazir-17's dome encloses a hedonistic city-state ruled by the Duchess and her droid rights reforms, where Bo-Katan negotiated post-imperial futures.",
+  "history": "Plazir-17 Domed Resort began as a domed leisure city anchor on Plazir-17, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Plazir-17 was founded as a corporate pleasure dome for post-war tourists seeking regulated vice. Early survey maps from the Old Republic era list Plazir-17 Domed Resort as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Plazir-17 Domed Resort as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Plazir-17 Domed Resort include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. The dome's repulsor grid survived multiple pirate sieges thanks to Mandalorian security contracts. High Republic pathfinders logged Plazir-17 Domed Resort as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Plazir-17 suggest Plazir-17 Domed Resort once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Plazir-17 Domed Resort expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Bo-Katan Kryze and Din Djarin brokered alliance terms here amid droid union politics. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Plazir-17 Domed Resort because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Plazir-17 Domed Resort as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nPlazir-17 Domed Resort has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Imperial remnant cells attempted to infiltrate gambling halls for laundering operations. Clone Wars dossiers mark Plazir-17 Domed Resort as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Plazir-17 Domed Resort meant control of Plazir-17.",
+  "significance": "The economy of Plazir-17 Domed Resort runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Casinos, droid racing, luxury imports, and orbital yacht services fuel Plazir-17. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Plazir-17 Domed Resort infrastructure during the late Republic. Post-war reconstruction funds often bypass Plazir-17 Domed Resort officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Plazir-17 Domed Resort mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. The Duchess merged aristocratic hospitality with radical droid emancipation statutes. Music, food, and festival calendars in Plazir-17 Domed Resort are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Plazir-17 Domed Resort back alleys.\n\nPlazir-17 Domed Resort influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Plazir-17 models how Outer Rim city-states survive without Republic oversight. Scenes set in Plazir-17 Domed Resort across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Plazir-17 Domed Resort when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Domed city chartered as independent resort",
+    "Droid rights charter implemented under the Duchess",
+    "Bo-Katan seeks Mandalorian fleet support",
+    "Boba Fett consulted on security reforms",
+    "New Republic monitors but does not govern Plazir-17"
+  ],
+  "affiliations": [
+    "Plazir-17 ducal government",
+    "Droid worker unions",
+    "Mandalorian mercenary contracts",
+    "New Republic observers"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Resort dome constructed"
+    },
+    {
+      "era": "New Republic",
+      "event": "Independence recognized"
+    },
+    {
+      "era": "New Republic",
+      "event": "Droid emancipation laws enacted"
+    },
+    {
+      "era": "Mandalorian Era",
+      "event": "Bo-Katan diplomatic summit"
+    },
+    {
+      "era": "New Republic",
+      "event": "Status as neutral resort persists"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/plazir-17-domed-resort.svg",
+      "caption": "Emblem — Plazir-17 Domed Resort"
+    },
+    {
+      "path": "/images/settlements/plazir-17-domed-resort-scene.svg",
+      "caption": "Scene illustration — Plazir-17 Domed Resort"
+    }
+  ]
+}

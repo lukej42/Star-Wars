@@ -1,0 +1,51 @@
+{
+  "overview": "Sixtat is a zabrak bounty hunter from Iridonia, documented across Clone Wars. Zabrak sniper eliminated during Eval's box when platforms retracted.",
+  "history": "Sixtat rose from Iridonia to become a zabrak bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Sixtat, Zabrak sniper from Iridonia, entered Moralo Eval's box tournament as precision shooter eliminated when retractable platforms dropped him into arena depths. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Sixtat as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Sixtat's career, Iridonia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Iridonia Zabrak sniper cadres supply mercenary overwatch across eras; Sixtat's box death demonstrates even precision specialists fail Eval's trap engineering. Old Republic bounty charters and Sith Empire mercenary rolls show how zabrak bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Sixtat negotiate payment and honor.\n\nIn the modern era, Sixtat competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Sixtat's platform-retraction elimination became box tournament cautionary moment—sniper skill insufficient against Moralo Eval's engineered death course. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Sixtat. Mandalorian-era postings on Nevarro and Mos Espa show zabrak bounty hunter specialists remain essential to galactic order—and chaos.\n\nSixtat operated in war zones where capture alive paid more than kill, and both paid more than failure. Sixtat provided sniper overwatch in early box stages until platform mechanism triggered, dropping him to elimination despite Zabrak combat training. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of zabrak bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Sixtat's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Sixtat as a zabrak bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Zabrak sniper precision, elevated platform overwatch, long-range elimination of competitors, and Iridonia discipline—undone by trap engineering not rival skill. Guild instructors use redacted mission logs from Sixtat's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Sixtat often know smuggler routes better than naval patrols.\n\nAmong peers, Sixtat earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Box competitors witnessed Sixtat's platform fall; Eval used his elimination as course demonstration; Iridonia sniper cadres study his failure as trap-awareness lesson. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Sixtat that may be half true and fully instructive. Whether Sixtat followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Sixtat exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Sixtat's elimination illustrated Eval's box prioritizes trap survival over raw skill—sniper precision worthless against engineered platform betrayal. Without contractors like Sixtat, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Sixtat when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Iridonia Zabrak sniper training",
+    "Enters Moralo Eval's box tournament",
+    "Sniper overwatch in early trials",
+    "Eliminated by platform retraction trap",
+    "Cautionary box tournament death"
+  ],
+  "affiliations": [
+    "Moralo Eval's box roster",
+    "Iridonia Zabrak snipers",
+    "Separatist recruitment (failed)",
+    "Bounty Hunters' Guild",
+    "Eval trap engineering (victim)"
+  ],
+  "timeline": [
+    {
+      "era": "Iridonia",
+      "event": "Sniper cadre training"
+    },
+    {
+      "era": "Box Entry",
+      "event": "Eval tournament"
+    },
+    {
+      "era": "Overwatch",
+      "event": "Early trial sniping"
+    },
+    {
+      "era": "Trap Death",
+      "event": "Platform retraction fall"
+    },
+    {
+      "era": "Legacy",
+      "event": "Trap-awareness lesson"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/sixtat.svg",
+      "caption": "Emblem — Sixtat"
+    },
+    {
+      "path": "/images/bounty-hunters/sixtat-scene.svg",
+      "caption": "Scene illustration — Sixtat"
+    }
+  ]
+}

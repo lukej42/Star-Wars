@@ -1,0 +1,52 @@
+{
+  "overview": "Mira is a bounty hunter & scout from Unknown, documented across KOTOR II. Force-sensitive hunter from KOTOR II who redeemed Hanharr and fought Sith Triumvirate on Malachor V.",
+  "history": "Mira rose from Unknown to become a bounty hunter & scout whose name appears on guild boards from the Core to the Outer Rim. Mira was raised on Nar Shaddaa's refugee stacks learning survival scouting before the Exchange posted bounties making her target and hunter simultaneously in KOTOR II's most complex companion arc. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Mira as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Mira's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Nar Shaddaa Exchange hunter markets during Jedi Civil War aftermath produced Force-sensitive scouts; Mira represents found-family hunter ethics against Exchange brutality. Old Republic bounty charters and Sith Empire mercenary rolls show how bounty hunter & scout contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Mira negotiate payment and honor.\n\nIn the modern era, Mira competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Mira's redemption of Hanharr and Malachor V assault alongside Meetra Surik made her KOTOR II's moral center—proof hunters can choose light over Exchange blood money. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Mira. Mandalorian-era postings on Nevarro and Mos Espa show bounty hunter & scout specialists remain essential to galactic order—and chaos.\n\nMira operated in war zones where capture alive paid more than kill, and both paid more than failure. Mira hunted and was hunted by Hanharr on Nar Shaddaa, joined Surik's crew against Sith Triumvirate, and fought on Malachor V's gravity-wounded surface. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of bounty hunter & scout hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Mira's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Mira as a bounty hunter & scout relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Scout tracking, non-lethal preference when possible, explosive traps, and Force sensitivity enhancing intuition—Mira hunts to protect rather than for cruelty. Guild instructors use redacted mission logs from Mira's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Mira often know smuggler routes better than naval patrols.\n\nAmong peers, Mira earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Exchange brokers frustrated by her ethics; Surik trusted her as crew anchor; Hanharr's redemption attempt defines her among Wookiee-hunter relationships galaxy-wide. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Mira that may be half true and fully instructive. Whether Mira followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Mira exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Mira's Hanharr redemption arc and Triumvirate role proved Force-sensitive hunters could align with Jedi exile causes without joining the Order. Without contractors like Mira, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Mira when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Raised on Nar Shaddaa refugee stacks",
+    "Targeted by Exchange and Hanharr hunts",
+    "Joins Meetra Surik's crew",
+    "Attempts Hanharr redemption",
+    "Fights Sith Triumvirate on Malachor V"
+  ],
+  "affiliations": [
+    "Meetra Surik's crew",
+    "Nar Shaddaa Exchange (opposed)",
+    "Hanharr (redemption target)",
+    "KOTOR II hunter scouts",
+    "Malachor V assault force",
+    "Independent Rim brokers"
+  ],
+  "timeline": [
+    {
+      "era": "Nar Shaddaa",
+      "event": "Refugee scout upbringing"
+    },
+    {
+      "era": "Exchange",
+      "event": "Target and hunter dual role"
+    },
+    {
+      "era": "Surik Crew",
+      "event": "Joins against Triumvirate"
+    },
+    {
+      "era": "Hanharr",
+      "event": "Redemption attempt"
+    },
+    {
+      "era": "Malachor V",
+      "event": "Triumvirate final battle"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/mira.svg",
+      "caption": "Emblem — Mira"
+    },
+    {
+      "path": "/images/bounty-hunters/mira-scene.svg",
+      "caption": "Scene illustration — Mira"
+    }
+  ]
+}

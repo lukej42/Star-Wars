@@ -1,0 +1,51 @@
+{
+  "overview": "Mako is a rodian bounty hunter from Rodia, documented across SWTOR. SWTOR Great Hunt competitor and Braden's protégé on Dromund Kaas.",
+  "history": "Mako rose from Rodia to become a rodian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Mako, Rodian hacker-tracker, partnered Braden's SWTOR hunter team on Dromund Kaas as Great Hunt competitor—combining Rodian tracking instincts with elite slicing skills. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Mako as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Mako's career, Rodia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Rodia produces tracker-hacker hybrids for Exchange markets; Mako represents SWTOR-era Rodian hunters complementing Mandalorian muscle with intelligence support. Old Republic bounty charters and Sith Empire mercenary rolls show how rodian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Mako negotiate payment and honor.\n\nIn the modern era, Mako competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Mako's SWTOR Great Hunt partnership with Braden's protégé made her iconic Rodian companion in TOR hunter class storyline on Dromund Kaas and Nar Shaddaa. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Mako. Mandalorian-era postings on Nevarro and Mos Espa show rodian bounty hunter specialists remain essential to galactic order—and chaos.\n\nMako operated in war zones where capture alive paid more than kill, and both paid more than failure. Mako competed in Great Hunt trials, sliced Imperial security for hunter ops, and navigated Tarro Blood's sabotage campaign against her team. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of rodian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Mako's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Mako as a rodian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Slicing, tracking, Rodian intuition, starship nav data theft, and Great Hunt competition strategy—Mako wins through intelligence not brute force. Guild instructors use redacted mission logs from Mako's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Mako often know smuggler routes better than naval patrols.\n\nAmong peers, Mako earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Braden valued Mako's slicing; Great Hunt officials monitored her tech advantage; Rodian clans celebrate her SWTOR representation. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Mako that may be half true and fully instructive. Whether Mako followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Mako exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Mako defined SWTOR Rodian hunter companion archetype—hacker-tracker essential to Great Hunt team success against Tarro Blood. Without contractors like Mako, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Mako when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Joins Braden's hunter team on Dromund Kaas",
+    "Competes in SWTOR Great Hunt",
+    "Slicing support for hunter operations",
+    "Partners Great Hunt protagonist",
+    "Rodian tracker-hacker icon"
+  ],
+  "affiliations": [
+    "SWTOR Great Hunt",
+    "Braden's team (successor)",
+    "Dromund Kaas hunter markets",
+    "Rodian tracker networks",
+    "Tarro Blood rivals"
+  ],
+  "timeline": [
+    {
+      "era": "Rodia",
+      "event": "Tracker-hacker training"
+    },
+    {
+      "era": "Dromund Kaas",
+      "event": "Braden team join"
+    },
+    {
+      "era": "Great Hunt",
+      "event": "Competition begins"
+    },
+    {
+      "era": "Slicing Ops",
+      "event": "Intelligence support role"
+    },
+    {
+      "era": "Legacy",
+      "event": "SWTOR Rodian companion"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/mako.svg",
+      "caption": "Emblem — Mako"
+    },
+    {
+      "path": "/images/bounty-hunters/mako-scene.svg",
+      "caption": "Scene illustration — Mako"
+    }
+  ]
+}

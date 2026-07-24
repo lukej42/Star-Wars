@@ -1,0 +1,51 @@
+{
+  "overview": "Inquisitorius Headquarters is a imperial dark-side fortress on Coruscant, documented across Rebels · Jedi Fallen Order. The Inquisitorius tower on Coruscant trained Jedi hunters in torture chambers hidden from Senate oversight.",
+  "history": "Inquisitorius Headquarters began as a imperial dark-side fortress anchor on Coruscant, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Inquisitorius Headquarters began as a strategic anchor on Coruscant, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Inquisitorius Headquarters as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Inquisitorius Headquarters as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Inquisitorius Headquarters include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Inquisitorius Headquarters include ward-stones and battle markers from Sith and Jedi campaigns on Coruscant. High Republic pathfinders logged Inquisitorius Headquarters as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Coruscant suggest Inquisitorius Headquarters once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Inquisitorius Headquarters expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Inquisitorius Headquarters appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Inquisitorius Headquarters because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Inquisitorius Headquarters as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nInquisitorius Headquarters has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Inquisitorius Headquarters as contested territory on Coruscant. Clone Wars dossiers mark Inquisitorius Headquarters as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Inquisitorius Headquarters meant control of Coruscant.",
+  "significance": "The economy of Inquisitorius Headquarters runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Inquisitorius Headquarters runs on local industry, trade tariffs, and black-market mediation typical of Coruscant. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Inquisitorius Headquarters infrastructure during the late Republic. Post-war reconstruction funds often bypass Inquisitorius Headquarters officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Inquisitorius Headquarters mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Inquisitorius Headquarters preserve Coruscant rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Inquisitorius Headquarters are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Inquisitorius Headquarters back alleys.\n\nInquisitorius Headquarters influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Inquisitorius Headquarters when tracing how Coruscant influenced sector-wide treaties and fleet movements. Scenes set in Inquisitorius Headquarters across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Inquisitorius Headquarters when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Inquisitorius Headquarters founded on Coruscant",
+    "Recorded siege or battle at Inquisitorius Headquarters",
+    "Occupation forces restructure Inquisitorius Headquarters",
+    "Underground resistance operates from Inquisitorius Headquarters",
+    "Post-war memorialization of Inquisitorius Headquarters"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Coruscant governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Inquisitorius Headquarters"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Inquisitorius Headquarters"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Inquisitorius Headquarters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Inquisitorius Headquarters"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Inquisitorius Headquarters"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/inquisitorius-headquarters.svg",
+      "caption": "Emblem — Inquisitorius Headquarters"
+    },
+    {
+      "path": "/images/settlements/inquisitorius-headquarters-scene.svg",
+      "caption": "Scene illustration — Inquisitorius Headquarters"
+    }
+  ]
+}

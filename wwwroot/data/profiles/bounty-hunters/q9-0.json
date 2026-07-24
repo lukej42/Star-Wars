@@ -1,0 +1,51 @@
+{
+  "overview": "Q9-0 is a zero assassin droid from Unknown manufacture, documented across Mandalorian. Ranzar Malk's assassin droid who nearly killed Grogu before Din Djarin destroyed him.",
+  "history": "Q9-0 rose from Unknown manufacture to become a zero assassin droid whose name appears on guild boards from the Core to the Outer Rim. Q9-0, called Zero, served Ranzar Malk's crew as assassin droid specializing in precise elimination—nearly killing Grogu aboard Bothan-5 before Din Djarin destroyed him. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Q9-0 as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Q9-0's career, Unknown manufacture produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Assassin droid precision units follow IG-88 and IG-11 lineage; Zero represents Imperial-adjacent droid hunters in New Republic era prison break operations. Old Republic bounty charters and Sith Empire mercenary rolls show how zero assassin droid contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Q9-0 negotiate payment and honor.\n\nIn the modern era, Q9-0 competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Zero's Mandalorian episode antagonism toward Grogu paralleled IG-11's redemption arc inversion—assassin droid who would not be reprogrammed into protector. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Q9-0. Mandalorian-era postings on Nevarro and Mos Espa show zero assassin droid specialists remain essential to galactic order—and chaos.\n\nQ9-0 operated in war zones where capture alive paid more than kill, and both paid more than failure. Zero infiltrated New Republic prison ship, targeted infant Grogu for elimination, fought Din Djarin in close combat, and was destroyed protecting Ranzar Malk's contract. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of zero assassin droid hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Q9-0's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Q9-0 as a zero assassin droid relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Assassin droid precision shooting, infiltration protocols, emotionless target elimination, and tactical analysis—Zero treats Grogu as pure contract objective. Guild instructors use redacted mission logs from Q9-0's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Q9-0 often know smuggler routes better than naval patrols.\n\nAmong peers, Q9-0 earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Ranzar Malk trusted Zero's precision; Din Djarin destroyed him to protect Grogu; droid hunters compare Zero unfavorably to IG-11's sacrificial redemption. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Q9-0 that may be half true and fully instructive. Whether Q9-0 followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Q9-0 exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Q9-0's destruction reinforced Din-Grogu bond—assassin droid failure contrasting IG-11's protective sacrifice on same narrative theme. Without contractors like Q9-0, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Q9-0 when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Serves Ranzar Malk's crew as assassin",
+    "Infiltrates Bothan-5 prison ship",
+    "Targets Grogu for elimination",
+    "Fights Din Djarin in combat",
+    "Destroyed protecting infant Grogu"
+  ],
+  "affiliations": [
+    "Ranzar Malk's crew",
+    "Bothan-5 operation",
+    "Assassin droid manufacturing",
+    "Grogu target contract",
+    "Din Djarin (destroyed by)"
+  ],
+  "timeline": [
+    {
+      "era": "Activation",
+      "event": "Ranzar Malk recruitment"
+    },
+    {
+      "era": "Bothan-5",
+      "event": "Prison ship infiltration"
+    },
+    {
+      "era": "Grogu Target",
+      "event": "Assassination attempt"
+    },
+    {
+      "era": "Combat",
+      "event": "Din Djarin confrontation"
+    },
+    {
+      "era": "Destruction",
+      "event": "Droid eliminated"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/q9-0.svg",
+      "caption": "Emblem — Q9-0"
+    },
+    {
+      "path": "/images/bounty-hunters/q9-0-scene.svg",
+      "caption": "Scene illustration — Q9-0"
+    }
+  ]
+}

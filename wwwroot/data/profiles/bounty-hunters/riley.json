@@ -1,0 +1,45 @@
+{
+  "overview": "Riley is a human bounty hunter from Unknown, documented across Target Vader · Comics. Beilert Valance's partner whose death on a Core job pushed the cyborg hunter toward vengeance against Imperial-backed clients.",
+  "history": "Riley rose from Unknown to become a human bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Riley partnered with Beilert Valance on Core Worlds extractions until an Imperial-backed ambush killed Riley and hardened Valance into cyborg vengeance. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Riley as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Riley's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Unknown supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Riley posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how human bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Riley negotiate payment and honor.\n\nIn the modern era, Riley competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Riley remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Riley. Mandalorian-era postings on Nevarro and Mos Espa show human bounty hunter specialists remain essential to galactic order—and chaos.\n\nRiley operated in war zones where capture alive paid more than kill, and both paid more than failure. Riley and Valance hunted Rebel sympathizers and deserters until Riley's death proved even elite partners could not survive ISB trap architecture. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of human bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Riley's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Riley as a human bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Dual-hunter coordination, Core Worlds infiltration, fast extraction pods, and Valance partnership tactics. Guild instructors use redacted mission logs from Riley's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Riley often know smuggler routes better than naval patrols.\n\nAmong peers, Riley earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Riley as a human bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Riley that may be half true and fully instructive. Whether Riley followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Riley exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Riley's captures and eliminations shifted local power wherever Unknown expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Riley, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Riley when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Partners with Beilert Valance",
+    "Core Worlds extraction contracts",
+    "Killed in Imperial-backed ambush",
+    "Death catalyzes Valance cyborg path"
+  ],
+  "affiliations": [
+    "Beilert Valance partnership",
+    "Bounty Hunters' Guild",
+    "Core Worlds broker networks",
+    "Galactic Empire (targets)"
+  ],
+  "timeline": [
+    {
+      "era": "Partnership",
+      "event": "Valance crew formation"
+    },
+    {
+      "era": "Core Jobs",
+      "event": "Extraction contracts"
+    },
+    {
+      "era": "Ambush",
+      "event": "Riley killed"
+    },
+    {
+      "era": "Legacy",
+      "event": "Valance vengeance catalyst"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/riley.svg",
+      "caption": "Emblem — Riley"
+    },
+    {
+      "path": "/images/bounty-hunters/riley-scene.svg",
+      "caption": "Scene illustration — Riley"
+    }
+  ]
+}

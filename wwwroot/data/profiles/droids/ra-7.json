@@ -1,0 +1,47 @@
+{
+  "overview": "RA-7 is a protocol droid built by Arakyd Industries, documented across A New Hope · Andor · Rebels. Black 'Death Star droid' protocol units used for surveillance and administrative tasks aboard the first Death Star and Imperial installations.",
+  "history": "RA-7 belongs to the protocol droid class manufactured by Arakyd Industries, one of the most recognizable automaton designs documented across galactic history. RA-7 protocol droids with black plating served surveillance roles aboard the first Death Star. Arakyd Industries factory schematics document the protocol droid platform lineage that produced RA-7, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat RA-7 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced RA-7. Excavations on Taris, Dxun, and Dromund Kaas recovered protocol droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Arakyd Industries subsystems, spreading design language across millennia before RA-7 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Arakyd Industries subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and protocol droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, RA-7 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. RA-7 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Arakyd Industries frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Arakyd Industries frames. Historians studying the Sequel Era treat surviving RA-7 memory cores as primary sources on earlier conflicts.\n\nRA-7 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, RA-7 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of protocol droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Arakyd Industries automata.",
+  "significance": "Engineering analysis of RA-7 highlights why protocol droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise RA-7's modular protocol droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Arakyd Industries documentation; slicers praise its predictable security flaws—both keep RA-7 relevant in scrap yards centuries later. New Republic certification boards still debate which protocol droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite RA-7 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite RA-7 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every protocol droid rights petition involving Arakyd Industries personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as RA-7's service record. Whether RA-7 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of RA-7 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like RA-7; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like RA-7, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Arakyd Industries chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Black-plated protocol droid aboard first Death Star",
+    "Surveillance and administrative subroutines",
+    "Nicknamed 'Death Star droid' by Rebel intelligence",
+    "Andor-era ISB installations deploy RA-7 units",
+    "Arakyd Industries Imperial protocol contract"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Imperial Security Bureau",
+    "Death Star command",
+    "Arakyd Industries",
+    "Imperial Intelligence"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "RA-7 enters Death Star service"
+    },
+    {
+      "era": "Death Star",
+      "event": "Surveillance droid on first battle station"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Deployed on Imperial installations"
+    },
+    {
+      "era": "Andor Era",
+      "event": "ISB surveillance operations"
+    },
+    {
+      "era": "Post-Endor",
+      "event": "Units destroyed with Death Star"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/ra-7-scene.png",
+      "caption": "Cinematic illustration — RA-7"
+    }
+  ]
+}

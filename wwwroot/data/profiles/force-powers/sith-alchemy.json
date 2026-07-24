@@ -1,0 +1,51 @@
+{
+  "overview": "Sith Alchemy is a master-level dark side technique classified under Ritual. A forbidden science that combines dark-side sorcery with chemical and biological manipulation to create monsters, poison worlds, and forge unnatural artifacts. Naga Sadow and later Sith Lords bred Sithspawn—mutated creatures warped into living weapons through alchemical rituals.",
+  "history": "Force scholars trace Sith Alchemy across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Tales of the Jedi · The Old Republic · Sith Empire · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Sith Alchemy into initiates as part of the standard curriculum for ritual specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Sith Alchemy alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Sith Alchemy exemplifies how ritual abilities shape Force doctrine on the dark side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Sith Alchemy could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Sith Alchemy remains a benchmark of ritual proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Sith Alchemy in Ancient Era conflicts",
+    "Standardised in Ritual curricula of the Sith academies",
+    "Featured prominently in media: Tales of the Jedi · The Old Republic · Sith Empire · Clone W…",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Sith Alchemy altered galactic history"
+  ],
+  "affiliations": [
+    "Ancient Sith",
+    "Sith Emperor Vitiate",
+    "Sith alchemists",
+    "Nightsisters"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "First major documented use of Sith Alchemy in Ancient Era conflicts"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Standardised in Ritual curricula of the Sith academies"
+    },
+    {
+      "era": "High Republic",
+      "event": "Featured prominently in media: Tales of the Jedi · The Old Republic · Sith Empire · Clone W…"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/sith-alchemy.svg",
+      "caption": "Emblem — Sith Alchemy"
+    },
+    {
+      "path": "/images/force-powers/sith-alchemy-scene.svg",
+      "caption": "Scene illustration — Sith Alchemy"
+    }
+  ]
+}

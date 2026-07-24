@@ -1,0 +1,49 @@
+{
+  "overview": "Ongree (Humanoid mammal) is native to Skustell and ranks among the most consequential species in galactic history. Ongree possess inverted curving necks and multi-jointed legs from Skustell, producing Jedi like Pablo-Jill and cartographers valued for panoramic vision. Their awkward gait hides exceptional spatial reasoning.",
+  "history": "The Ongree (humanoid mammal) trace their deepest roots to Skustell, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Skustell and Jedi Archaeological surveys confirm Ongree civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Ongree populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Ongree history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Ongree societies on Skustell established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Ongree polities traded with Core Founders and Sith Empire emissaries; ruins on Skustell still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Ongree identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Ongree delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Ongree diaspora communities appeared on every major trade lane and war front. Modern Ongree appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Pablo-Jill remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Ongree networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Ongree migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nOngree fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Ongree fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Skustell's terrain and humanoid mammal biology. KOTOR and KOTOR II document Ongree involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Ongree leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Ongree display traits typical of humanoid mammal life adapted to Skustell's gravity, atmosphere, and seasonal extremes. 360-degree neck rotation and long-distance vision. Republic medics and Imperial biometrics both document Ongree resilience under occupation, exile, and frontline trauma. Medics note that Ongree physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Ongree resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nOngree culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. arch-bridge university cities. Ongree diaspora communities preserve homeworld ritual even when Skustell itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Ongree spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Ongree communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Ongree exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Ongree merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Ongree innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Ongree choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Pablo-Jill fights in Petranaki arena on Geonosis",
+    "Ongree cartographers map Unknown Regions corridors",
+    "Skustell joins Republic academic exchange"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Skustell governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Ongree consolidate early civilization on Skustell"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Ongree join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Ongree factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Ongree identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Ongree political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/ongree.svg",
+      "caption": "Emblem — Ongree"
+    },
+    {
+      "path": "/images/species/ongree-scene.svg",
+      "caption": "Scene illustration — Ongree"
+    }
+  ]
+}

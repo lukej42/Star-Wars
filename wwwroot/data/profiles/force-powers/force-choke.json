@@ -1,0 +1,50 @@
+{
+  "overview": "Force Choke is a adept-level dark side technique classified under Telekinesis. Constricts a victim's throat with invisible telekinetic force, lifting them off the ground while cutting off their airway—a signature intimidation technique of the Sith. Darth Vader used Force choke to discipline incompetent officers and subdue rebels aboard the Tantive IV.",
+  "history": "Force scholars trace Force Choke across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · A New Hope · Empire Strikes Back · Return of the Jedi · Rogue One established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Choke into initiates as part of the standard curriculum for telekinesis specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Choke alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Choke exemplifies how telekinesis abilities shape Force doctrine on the dark side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Choke could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Choke remains a benchmark of telekinesis proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Choke in Clone Wars conflicts",
+    "Standardised in Telekinesis curricula of the Sith academies",
+    "Featured prominently in media: Films · A New Hope · Empire Strikes Back · Return of the Jed…",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Darth Vader",
+    "Emperor Palpatine",
+    "Sith Lords",
+    "Dark-side adepts"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "First major documented use of Force Choke in Clone Wars conflicts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Standardised in Telekinesis curricula of the Sith academies"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Featured prominently in media: Films · A New Hope · Empire Strikes Back · Return of the Jed…"
+    },
+    {
+      "era": "New Republic",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-choke.svg",
+      "caption": "Emblem — Force Choke"
+    },
+    {
+      "path": "/images/force-powers/force-choke-scene.svg",
+      "caption": "Scene illustration — Force Choke"
+    }
+  ]
+}

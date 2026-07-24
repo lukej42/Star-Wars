@@ -1,0 +1,48 @@
+{
+  "overview": "Force Vision is a adept-level light side technique classified under Sense. Grants prophetic glimpses of possible futures, past events, or hidden truths through vivid waking or meditative visions. Anakin Skywalker's nightmares of Padmé's death and Rey's vision in the Mirror of Darth Vader both shaped the fate of the galaxy.",
+  "history": "Force scholars trace Force Vision across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · Revenge of the Sith · The Force Awakens · Clone Wars · Rebels established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Vision into initiates as part of the standard curriculum for sense specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Vision alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Force Vision exemplifies how sense abilities shape Force doctrine on the light side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Vision could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Vision remains a benchmark of sense proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Vision in New Republic conflicts",
+    "Standardised in Sense curricula of the Jedi academies",
+    "Featured prominently in media: Films · Revenge of the Sith · The Force Awakens · Clone Wars…",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "First major documented use of Force Vision in New Republic conflicts"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Standardised in Sense curricula of the Jedi academies"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Featured prominently in media: Films · Revenge of the Sith · The Force Awakens · Clone Wars…"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "High Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-vision.svg",
+      "caption": "Emblem — Force Vision"
+    },
+    {
+      "path": "/images/force-powers/force-vision-scene.svg",
+      "caption": "Scene illustration — Force Vision"
+    }
+  ]
+}

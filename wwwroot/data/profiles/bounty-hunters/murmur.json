@@ -1,0 +1,45 @@
+{
+  "overview": "Murmur is a anomid great hunt hunter from Yablari, documented across Star Wars: The Old Republic. Vocal-modulator Anomid hunter who communicated through encrypted frequency bursts during SWTOR Great Hunt operations.",
+  "history": "Murmur rose from Yablari to become a anomid great hunt hunter whose name appears on guild boards from the Core to the Outer Rim. Murmur's Anomid biology required vocal modulators for galactic trade, which Murmur weaponized as encrypted hunter coordination during Great Hunt team eliminations. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Murmur as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Murmur's career, Yablari produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Yablari supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Murmur posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how anomid great hunt hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Murmur negotiate payment and honor.\n\nIn the modern era, Murmur competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Murmur remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Murmur. Mandalorian-era postings on Nevarro and Mos Espa show anomid great hunt hunter specialists remain essential to galactic order—and chaos.\n\nMurmur operated in war zones where capture alive paid more than kill, and both paid more than failure. Murmur coordinated Hunt ambushes using frequency-coded commands competitors could not intercept, elevating Anomid hunters in tournament archives. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of anomid great hunt hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Murmur's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Murmur as a anomid great hunt hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Vocal-modulator encryption, ambush synchronization, Anomid tech integration, and Great Hunt team tactics. Guild instructors use redacted mission logs from Murmur's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Murmur often know smuggler routes better than naval patrols.\n\nAmong peers, Murmur earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Murmur as a anomid great hunt hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Murmur that may be half true and fully instructive. Whether Murmur followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Murmur exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Murmur's captures and eliminations shifted local power wherever Yablari expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Murmur, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Murmur when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Anomid vocal-modulator adaptation",
+    "Great Hunt tournament entry",
+    "Frequency-coded ambush victories",
+    "Anomid hunter representation in SWTOR"
+  ],
+  "affiliations": [
+    "Anomid expatriates",
+    "Great Hunt tournament",
+    "Bounty Hunters' Guild",
+    "Yablari tech brokers"
+  ],
+  "timeline": [
+    {
+      "era": "Yablari",
+      "event": "Modulator adaptation"
+    },
+    {
+      "era": "Great Hunt",
+      "event": "Tournament entry"
+    },
+    {
+      "era": "Ambush Era",
+      "event": "Frequency-coded wins"
+    },
+    {
+      "era": "Legacy",
+      "event": "Anomid hunter archive"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/murmur.svg",
+      "caption": "Emblem — Murmur"
+    },
+    {
+      "path": "/images/bounty-hunters/murmur-scene.svg",
+      "caption": "Scene illustration — Murmur"
+    }
+  ]
+}

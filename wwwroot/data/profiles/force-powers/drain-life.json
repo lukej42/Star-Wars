@@ -1,0 +1,51 @@
+{
+  "overview": "Drain Life is a master-level dark side technique classified under Drain. A more aggressive variant of Force drain that rapidly extracts the life essence of a target, often leaving them desiccated corpses while the Sith grows stronger. Sith alchemists combined drain life with ritual sacrifice to fuel their darkest experiments.",
+  "history": "Force scholars trace Drain Life across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR II · The Old Republic · Sith Empire · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Drain Life into initiates as part of the standard curriculum for drain specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Drain Life alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Drain Life exemplifies how drain abilities shape Force doctrine on the dark side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Drain Life could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Drain Life remains a benchmark of drain proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Drain Life in Old Republic conflicts",
+    "Standardised in Drain curricula of the Sith academies",
+    "Featured prominently in media: KOTOR II · The Old Republic · Sith Empire · Clone Wars",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Drain Life altered galactic history"
+  ],
+  "affiliations": [
+    "Sith Lords",
+    "Emperor Palpatine",
+    "Darth Sidious",
+    "Sith Inquisitors"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major documented use of Drain Life in Old Republic conflicts"
+    },
+    {
+      "era": "High Republic",
+      "event": "Standardised in Drain curricula of the Sith academies"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Featured prominently in media: KOTOR II · The Old Republic · Sith Empire · Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/drain-life.svg",
+      "caption": "Emblem — Drain Life"
+    },
+    {
+      "path": "/images/force-powers/drain-life-scene.svg",
+      "caption": "Scene illustration — Drain Life"
+    }
+  ]
+}

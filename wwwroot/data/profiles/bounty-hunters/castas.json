@@ -1,0 +1,51 @@
+{
+  "overview": "Castas is a klatooinian bounty hunter from Klatooine, documented across Clone Wars. Klatooinian crew member of young Boba who died when Aurra Sing eliminated weak links.",
+  "history": "Castas rose from Klatooine to become a klatooinian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Castas, a Klatooinian hunter, joined young Boba Fett's crew but lacked Aurra Sing's discipline—his complaints about risk led Aurra to eliminate him as crew weak link. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Castas as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Castas's career, Klatooine produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Klatooinian servitude traditions to Hutt masters historically produced hunter-enforcers; Castas broke pattern by joining independent crew under Boba. Old Republic bounty charters and Sith Empire mercenary rolls show how klatooinian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Castas negotiate payment and honor.\n\nIn the modern era, Castas competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Castas's death by Aurra Sing became defining example of Boba crew's volatile internal politics and the cost of complaining about elite hunter leadership. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Castas. Mandalorian-era postings on Nevarro and Mos Espa show klatooinian bounty hunter specialists remain essential to galactic order—and chaos.\n\nCastas operated in war zones where capture alive paid more than kill, and both paid more than failure. Castas participated in young Boba's Clone Wars operations until his dissent prompted Aurra Sing to kill him—demonstrating crew survival required silence and competence. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of klatooinian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Castas's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Castas as a klatooinian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Standard blaster work, crew support roles, and Klatooinian physical durability—Castas had adequate skills but poor judgment about crew politics. Guild instructors use redacted mission logs from Castas's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Castas often know smuggler routes better than naval patrols.\n\nAmong peers, Castas earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Aurra considered him expendable; Boba learned crew management from his death; Klatooinian hunters cite Castas as politics-over-skill cautionary tale. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Castas that may be half true and fully instructive. Whether Castas followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Castas exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Castas's elimination showed young Boba's crew operated by predator rules—not guild bureaucracy—and shaped Boba's later preference for solo or elite partnerships. Without contractors like Castas, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Castas when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Joins young Boba Fett's crew",
+    "Participates in Clone Wars hunt ops",
+    "Complains about mission risk to Aurra Sing",
+    "Killed by Aurra as weak link",
+    "Cautionary crew politics lesson"
+  ],
+  "affiliations": [
+    "Young Boba Fett crew",
+    "Aurra Sing (killer)",
+    "Bossk partnership (crew)",
+    "Klatooine hunter diaspora",
+    "Bounty Hunters' Guild"
+  ],
+  "timeline": [
+    {
+      "era": "Crew Join",
+      "event": "Young Boba's team"
+    },
+    {
+      "era": "Operations",
+      "event": "Clone Wars hunt missions"
+    },
+    {
+      "era": "Dissent",
+      "event": "Complains about risk"
+    },
+    {
+      "era": "Death",
+      "event": "Aurra Sing eliminates him"
+    },
+    {
+      "era": "Legacy",
+      "event": "Crew politics warning"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/castas.svg",
+      "caption": "Emblem — Castas"
+    },
+    {
+      "path": "/images/bounty-hunters/castas-scene.svg",
+      "caption": "Scene illustration — Castas"
+    }
+  ]
+}

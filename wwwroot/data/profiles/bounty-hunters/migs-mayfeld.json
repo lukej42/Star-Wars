@@ -1,0 +1,51 @@
+{
+  "overview": "Migs Mayfeld is a imperial sharpshooter turned hunter from Turbolift City, documented across Mandalorian. Cynical ex-Imperial marksman who helped Din Djarin infiltrate Morak refinery.",
+  "history": "Migs Mayfeld rose from Turbolift City to become a imperial sharpshooter turned hunter whose name appears on guild boards from the Core to the Outer Rim. Migs Mayfeld served as Imperial sharpshooter before Imperial collapse left him cynical guild work on Nevarro, where survival mattered more than ideology. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Migs Mayfeld as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Migs Mayfeld's career, Turbolift City produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Imperial remnant sharpshooters on Morak and similar refinery worlds appear in Andor-era ISB archives; Mayfeld represents veteran gunners sold to guild markets post-Endor. Old Republic bounty charters and Sith Empire mercenary rolls show how imperial sharpshooter turned hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Migs Mayfeld negotiate payment and honor.\n\nIn the modern era, Migs Mayfeld competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Mayfeld's Morak infiltration with Din Djarin exposed Operation: Cinder connections; his choice to let Din kill ex-Imperial officer showed personal justice overriding contracts. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Migs Mayfeld. Mandalorian-era postings on Nevarro and Mos Espa show imperial sharpshooter turned hunter specialists remain essential to galactic order—and chaos.\n\nMigs Mayfeld operated in war zones where capture alive paid more than kill, and both paid more than failure. Mayfeld joined Din's prison break, infiltrated Morak Imperial refinery disguised as troopers, and confronted the officer responsible for Burnin Konday destruction. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of imperial sharpshooter turned hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Migs Mayfeld's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Migs Mayfeld as a imperial sharpshooter turned hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Imperial marksman training, disguised infiltration, heavy blaster work, and cynical improvisation—Mayfeld knows Imperial protocols better than most active hunters. Guild instructors use redacted mission logs from Migs Mayfeld's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Migs Mayfeld often know smuggler routes better than naval patrols.\n\nAmong peers, Migs Mayfeld earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Greef Karga vouched for his skills if not his attitude; Din trusted him inside an Imperial base; Mayfeld himself expected betrayal and planned accordingly. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Migs Mayfeld that may be half true and fully instructive. Whether Migs Mayfeld followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Migs Mayfeld exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Mayfeld's Morak mission provided intelligence on Imperial remnant logistics and demonstrated ex-Imperial specialists remain valuable guild assets post-Endor. Without contractors like Migs Mayfeld, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Migs Mayfeld when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Imperial sharpshooter service",
+    "Imprisoned on Nevarro with Din Djarin",
+    "Infiltrates Morak refinery in disguise",
+    "Confronts Burnin Konday officer",
+    "Released after successful mission"
+  ],
+  "affiliations": [
+    "Galactic Empire (former)",
+    "Nevarro Bounty Hunters' Guild",
+    "Din Djarin (mission partner)",
+    "Morak Imperial remnant (infiltrated)",
+    "Imperial sharpshooter corps (former)"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Sharpshooter service"
+    },
+    {
+      "era": "Nevarro Prison",
+      "event": "Meets Din Djarin"
+    },
+    {
+      "era": "Morak Infiltration",
+      "event": "Refinery disguise mission"
+    },
+    {
+      "era": "Confrontation",
+      "event": "Burnin Konday reckoning"
+    },
+    {
+      "era": "Release",
+      "event": "Freedom after mission"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/migs-mayfeld.svg",
+      "caption": "Emblem — Migs Mayfeld"
+    },
+    {
+      "path": "/images/bounty-hunters/migs-mayfeld-scene.svg",
+      "caption": "Scene illustration — Migs Mayfeld"
+    }
+  ]
+}

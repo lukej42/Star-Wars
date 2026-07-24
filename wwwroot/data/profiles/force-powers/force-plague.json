@@ -1,0 +1,50 @@
+{
+  "overview": "Force Plague is a master-level dark side technique classified under Drain. Projects a dark-side affliction that spreads sickness, decay, and Force corruption through a target and potentially to those nearby. Sith sorcerers on Korriban weaponized Force plague during ancient wars, turning entire battalions into rotting, mindless husks.",
+  "history": "Force scholars trace Force Plague across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in The Old Republic · Sith Empire · KOTOR II · Clone Wars established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Plague into initiates as part of the standard curriculum for drain specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Plague alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Plague exemplifies how drain abilities shape Force doctrine on the dark side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Plague could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Plague remains a benchmark of drain proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Plague in Old Republic conflicts",
+    "Standardised in Drain curricula of the Sith academies",
+    "Featured prominently in media: The Old Republic · Sith Empire · KOTOR II · Clone Wars",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Force Plague altered galactic history"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Sith Order",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major documented use of Force Plague in Old Republic conflicts"
+    },
+    {
+      "era": "High Republic",
+      "event": "Standardised in Drain curricula of the Sith academies"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Featured prominently in media: The Old Republic · Sith Empire · KOTOR II · Clone Wars"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-plague.svg",
+      "caption": "Emblem — Force Plague"
+    },
+    {
+      "path": "/images/force-powers/force-plague-scene.svg",
+      "caption": "Scene illustration — Force Plague"
+    }
+  ]
+}

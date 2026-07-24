@@ -1,0 +1,51 @@
+{
+  "overview": "Malastare Capital is a fuel refinery metropolis on Malastare, documented across Clone Wars. Malastare's capital refines fuel and hosted the Zillo Beast incident that threatened Coruscant itself.",
+  "history": "Malastare Capital began as a fuel refinery metropolis anchor on Malastare, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Malastare Capital began as a strategic anchor on Malastare, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Malastare Capital as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Malastare Capital as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Malastare Capital include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Malastare Capital include ward-stones and battle markers from Sith and Jedi campaigns on Malastare. High Republic pathfinders logged Malastare Capital as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Malastare suggest Malastare Capital once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Malastare Capital expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Malastare Capital appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Malastare Capital because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Malastare Capital as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nMalastare Capital has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Malastare Capital as contested territory on Malastare. Clone Wars dossiers mark Malastare Capital as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Malastare Capital meant control of Malastare.",
+  "significance": "The economy of Malastare Capital runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Malastare Capital runs on local industry, trade tariffs, and black-market mediation typical of Malastare. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Malastare Capital infrastructure during the late Republic. Post-war reconstruction funds often bypass Malastare Capital officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Malastare Capital mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Malastare Capital preserve Malastare rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Malastare Capital are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Malastare Capital back alleys.\n\nMalastare Capital influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Malastare Capital when tracing how Malastare influenced sector-wide treaties and fleet movements. Scenes set in Malastare Capital across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Malastare Capital when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Malastare Capital founded on Malastare",
+    "Recorded siege or battle at Malastare Capital",
+    "Occupation forces restructure Malastare Capital",
+    "Underground resistance operates from Malastare Capital",
+    "Post-war memorialization of Malastare Capital"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Malastare governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Malastare Capital"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Malastare Capital"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Malastare Capital"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Malastare Capital"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Malastare Capital"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/malastare-capital.svg",
+      "caption": "Emblem — Malastare Capital"
+    },
+    {
+      "path": "/images/settlements/malastare-capital-scene.svg",
+      "caption": "Scene illustration — Malastare Capital"
+    }
+  ]
+}

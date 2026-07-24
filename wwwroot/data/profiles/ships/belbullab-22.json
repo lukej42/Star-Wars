@@ -1,0 +1,58 @@
+{
+  "overview": "The Belbullab-22 Starfighter is a starfighter whose design philosophy reflects the industrial and strategic priorities of Clone Wars (22–19 BBY). General Grievous flew a customized Belbullab-22 named Soulless One, outpacing clone interceptors. Production estimates place the class at ~800 units, though wartime losses, capture, and black-market duplication make precise fleet registries unreliable.",
+  "history": "Engineering teams first finalized the Belbullab-22 Starfighter blueprints during the political climate of Clone Wars (22–19 BBY). The starfighter was intended to solve specific fleet gaps—whether planetary assault, convoy escort, starfighter superiority, or terror bombardment—and shipwrights iterated hull plates, reactor output, and crew compartments accordingly.\n\nOnce deployed, the Belbullab-22 Starfighter appeared in fleet actions that defined its reputation. General Grievous flew a customized Belbullab-22 named Soulless One, outpacing clone interceptors. Combat logs show crews exploiting the class's strengths while improvising fixes for known weaknesses under fire, a pattern repeated across every major galactic conflict.\n\nAs doctrine evolved, rival factions studied captured Belbullab-22 Starfighter hulls. Refit yards duplicated weapons mounts and sensor suites; some variants never appeared in official manifests. Estimated production of ~800 units therefore understates how many similar silhouettes operated under alternate insignia.\n\nSurviving Belbullab-22 Starfighter vessels now sit in museum orbits, mercenary fleets, and scrap worlds. Historians treat the class as a measure of how galactic wars industrialize violence—each hull a factory product that outlived the politicians who ordered it.",
+  "significance": "The Belbullab-22 Starfighter demonstrates how starfighter design shapes campaign outcomes. Its layout influenced successor programs and remains a case study in naval academies.\n\nWith roughly ~800 units hulls associated with Clone Wars (22–19 BBY), the class became a visual symbol of its faction's reach—recognizable in holonet footage and feared in convoy manifests.\n\nEngineers still debate whether the Belbullab-22 Starfighter prioritized firepower over crew survival; that trade-off defines its legacy in both propaganda and honest after-action reports.",
+  "notableEvents": [
+    "Prototype Belbullab-22 Starfighter accepted into fleet trials during Clone Wars",
+    "Mass production reaches approximately ~800 units",
+    "First major fleet battle featuring multiple Belbullab-22 Starfighter hulls",
+    "Captured or scuttled Belbullab-22 Starfighter studied by rival shipwrights",
+    "Notable commander achieves victory aboard a Belbullab-22 Starfighter",
+    "Refit program extends service life beyond original specifications",
+    "Class featured in faction propaganda broadcasts",
+    "Remaining hulls retired, preserved, or converted to civilian use"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Starfighter operational wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Belbullab-22 Starfighter design approved and prototype tested"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Production scales toward ~800 units"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Belbullab-22 Starfighter enters decisive fleet engagements"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Attrition and refits reshape active Belbullab-22 Starfighter registries"
+    },
+    {
+      "era": "New Republic",
+      "event": "Surviving Belbullab-22 Starfighter hulls decommissioned or sold"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/belbullab-22.svg",
+      "caption": "Profile view of the Belbullab-22 Starfighter"
+    },
+    {
+      "path": "/images/ships/belbullab-22-scene.svg",
+      "caption": "Combat deployment — Belbullab-22 Starfighter"
+    },
+    {
+      "path": "/images/ships/belbullab-22-blueprint.svg",
+      "caption": "Technical schematic — Belbullab-22 Starfighter"
+    }
+  ]
+}

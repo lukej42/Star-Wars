@@ -1,0 +1,51 @@
+{
+  "overview": "Raxus Secundus is a separatist capital on Raxus, documented across Clone Wars. Raxus Secundus hosted Separatist Parliament sessions where Dooku and civilian leaders debated war aims away from Coruscant.",
+  "history": "Raxus Secundus began as a separatist capital anchor on Raxus, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Raxus Secundus grew where Raxus's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a separatist capital that outlasted first founders. Early survey maps from the Old Republic era list Raxus Secundus as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Raxus Secundus as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Raxus Secundus include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Raxus Secundus include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Raxus Secundus as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Raxus suggest Raxus Secundus once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Raxus Secundus expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Raxus Secundus; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Raxus Secundus because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Raxus Secundus as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nRaxus Secundus has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Raxus Secundus as strategically contested on Raxus. Clone Wars dossiers mark Raxus Secundus as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Raxus Secundus meant control of Raxus.",
+  "significance": "The economy of Raxus Secundus runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Raxus Secundus's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Raxus Secundus infrastructure during the late Republic. Post-war reconstruction funds often bypass Raxus Secundus officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Raxus Secundus mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Raxus Secundus blend Raxus native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Raxus Secundus are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Raxus Secundus back alleys.\n\nRaxus Secundus influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Raxus Secundus altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Raxus Secundus across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Raxus Secundus when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Raxus Secundus founded as separatist capital on Raxus",
+    "Major battle or siege recorded at Raxus Secundus",
+    "Imperial occupation transforms Raxus Secundus governance",
+    "Rebel or Resistance cell operates from Raxus Secundus",
+    "New Republic era reconstruction begins at Raxus Secundus"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Raxus Secundus"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Raxus Secundus joins sector trade networks on Raxus"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Raxus Secundus triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Raxus Secundus"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Raxus Secundus"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/raxus-secundus.svg",
+      "caption": "Emblem — Raxus Secundus"
+    },
+    {
+      "path": "/images/settlements/raxus-secundus-scene.svg",
+      "caption": "Scene illustration — Raxus Secundus"
+    }
+  ]
+}

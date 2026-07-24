@@ -1,0 +1,45 @@
+{
+  "overview": "Danzigorro Potts is a human bounty hunter from Corellia, documented across Empire Strikes Back era · Expanded lore. Corellian hunter whose flamboyant weapon collection and Rim contracts made him a guild showman during the Imperial Era.",
+  "history": "Danzigorro Potts rose from Corellia to become a human bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Danzigorro Potts built a Corellian reputation on customized blaster arsenals and theatrical captures that impressed Hutt clients and humiliated targets. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Danzigorro Potts as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Danzigorro Potts's career, Corellia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Corellia supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Danzigorro Potts posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how human bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Danzigorro Potts negotiate payment and honor.\n\nIn the modern era, Danzigorro Potts competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Danzigorro Potts remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Danzigorro Potts. Mandalorian-era postings on Nevarro and Mos Espa show human bounty hunter specialists remain essential to galactic order—and chaos.\n\nDanzigorro Potts operated in war zones where capture alive paid more than kill, and both paid more than failure. Potts hunted smuggler rivals and Rebel couriers along Corellian trade spurs, posting trophies in hunter cantinas as marketing. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of human bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Danzigorro Potts's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Danzigorro Potts as a human bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Custom blaster collection, theatrical capture displays, Corellian piloting, and cantina reputation engineering. Guild instructors use redacted mission logs from Danzigorro Potts's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Danzigorro Potts often know smuggler routes better than naval patrols.\n\nAmong peers, Danzigorro Potts earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Danzigorro Potts as a human bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Danzigorro Potts that may be half true and fully instructive. Whether Danzigorro Potts followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Danzigorro Potts exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Danzigorro Potts's captures and eliminations shifted local power wherever Corellia expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Danzigorro Potts, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Danzigorro Potts when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Corellian hunter showmanship rises",
+    "Custom weapon arsenal fame",
+    "Smuggler and Rebel courier hunts",
+    "Cantina trophy marketing"
+  ],
+  "affiliations": [
+    "Corellian hunter circuits",
+    "Bounty Hunters' Guild",
+    "Hutt Cartel (contracted)",
+    "Smuggler rival networks"
+  ],
+  "timeline": [
+    {
+      "era": "Corellia",
+      "event": "Showman origins"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Rim contracts"
+    },
+    {
+      "era": "Cantina Fame",
+      "event": "Trophy marketing"
+    },
+    {
+      "era": "Legacy",
+      "event": "Flamboyant hunter archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/danzigorro-potts.svg",
+      "caption": "Emblem — Danzigorro Potts"
+    },
+    {
+      "path": "/images/bounty-hunters/danzigorro-potts-scene.svg",
+      "caption": "Scene illustration — Danzigorro Potts"
+    }
+  ]
+}

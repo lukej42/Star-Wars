@@ -1,0 +1,51 @@
+{
+  "overview": "Pinyumb is a underground metropolis on Sullust, documented across Films · Battlefront. Pinyumb's caverns housed Sullustan resistance cells that rose against Imperial garrisons before Endor.",
+  "history": "Pinyumb began as a underground metropolis anchor on Sullust, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Pinyumb began as a strategic anchor on Sullust, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Pinyumb as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Pinyumb as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Pinyumb include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Pinyumb include ward-stones and battle markers from Sith and Jedi campaigns on Sullust. High Republic pathfinders logged Pinyumb as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Sullust suggest Pinyumb once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Pinyumb expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Pinyumb appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Pinyumb because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Pinyumb as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nPinyumb has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Pinyumb as contested territory on Sullust. Clone Wars dossiers mark Pinyumb as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Pinyumb meant control of Sullust.",
+  "significance": "The economy of Pinyumb runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Pinyumb runs on local industry, trade tariffs, and black-market mediation typical of Sullust. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Pinyumb infrastructure during the late Republic. Post-war reconstruction funds often bypass Pinyumb officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Pinyumb mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Pinyumb preserve Sullust rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Pinyumb are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Pinyumb back alleys.\n\nPinyumb influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Pinyumb when tracing how Sullust influenced sector-wide treaties and fleet movements. Scenes set in Pinyumb across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Pinyumb when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Pinyumb founded on Sullust",
+    "Recorded siege or battle at Pinyumb",
+    "Occupation forces restructure Pinyumb",
+    "Underground resistance operates from Pinyumb",
+    "Post-war memorialization of Pinyumb"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Sullust governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Pinyumb"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Pinyumb"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Pinyumb"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Pinyumb"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Pinyumb"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/pinyumb.svg",
+      "caption": "Emblem — Pinyumb"
+    },
+    {
+      "path": "/images/settlements/pinyumb-scene.svg",
+      "caption": "Scene illustration — Pinyumb"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Greedo is a rodian bounty hunter from Rodia, documented across A New Hope · Clone Wars. Rodian who confronted Han Solo in Mos Eisley Cantina for Jabba until pride outran his draw speed.",
+  "history": "Greedo rose from Rodia to become a rodian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Greedo grew up on Rodia's hunter culture where Tesei Aruon's traditions equated bounty success with clan honor, driving him to Tatooine chasing Jabba's Han Solo puck. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Greedo as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Greedo's career, Rodia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Rodia's hunter clans predate the Republic; KOTOR Exchange postings document Rodian trackers whose pride frequently outran their draw speed in cantina confrontations. Old Republic bounty charters and Sith Empire mercenary rolls show how rodian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Greedo negotiate payment and honor.\n\nIn the modern era, Greedo competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Greedo's Mos Eisley cantina death became galactic folklore—proof that confronting Corellian smugglers without backup ends in a burned hole in the table. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Greedo. Mandalorian-era postings on Nevarro and Mos Espa show rodian bounty hunter specialists remain essential to galactic order—and chaos.\n\nGreedo operated in war zones where capture alive paid more than kill, and both paid more than failure. Greedo collected bounties for Jabba the Hutt, confronted Han Solo in Chalmun's Cantina over frozen shipment debts, and died when Solo fired first under the table. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of rodian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Greedo's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Greedo as a rodian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Rodian tracking instincts, intimidation in crowded cantinas, and close-range blaster work—Greedo preferred confrontation over long pursuit. Guild instructors use redacted mission logs from Greedo's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Greedo often know smuggler routes better than naval patrols.\n\nAmong peers, Greedo earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Jabba's court knew Greedo as reliable if overconfident; cantina patrons still debate who shot first; Rodian clans remember him as cautionary pride tale. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Greedo that may be half true and fully instructive. Whether Greedo followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Greedo exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Greedo's death reinforced Jabba's need for elite hunters like Boba Fett; the cantina incident became the most argued bounty confrontation in galactic folklore. Without contractors like Greedo, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Greedo when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Leaves Rodia for Tatooine guild work",
+    "Accepts Jabba contract on Han Solo",
+    "Confronts Solo in Mos Eisley Cantina",
+    "Killed when Solo fires first",
+    "Becomes cautionary Rodian hunter tale"
+  ],
+  "affiliations": [
+    "Jabba the Hutt's court",
+    "Rodia hunter clans",
+    "Tatooine Bounty Hunters' Guild",
+    "Chalmun's Cantina underworld",
+    "Hutt Cartel enforcement"
+  ],
+  "timeline": [
+    {
+      "era": "Rodia",
+      "event": "Hunter clan upbringing"
+    },
+    {
+      "era": "Tatooine",
+      "event": "Jabba contract work"
+    },
+    {
+      "era": "Cantina",
+      "event": "Confronts Han Solo"
+    },
+    {
+      "era": "Death",
+      "event": "Killed in Mos Eisley"
+    },
+    {
+      "era": "Folklore",
+      "event": "Who shot first debates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/greedo.svg",
+      "caption": "Emblem — Greedo"
+    },
+    {
+      "path": "/images/bounty-hunters/greedo-scene.svg",
+      "caption": "Scene illustration — Greedo"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Derrown is a parwan bounty hunter from Parwan, documented across Clone Wars. Parwan sniper alchemist who competed in Moralo Eval's box on Serenno.",
+  "history": "Derrown rose from Parwan to become a parwan bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Derrown, a Parwan sniper-alchemist, competed in Moralo Eval's box tournament using toxic gas chemistry and long-range precision—representing Parwan's unique hunter-scientist tradition. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Derrown as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Derrown's career, Parwan produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Parwan's ammonia-atmosphere alchemists produced toxin specialists for Rim mercenary markets; Derrown brings chemical warfare to hunter gladiator competitions. Old Republic bounty charters and Sith Empire mercenary rolls show how parwan bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Derrown negotiate payment and honor.\n\nIn the modern era, Derrown competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Derrown's box performance alongside Cad Bane and Onca showcased Parwan hunter-alchemists in Clone Wars' deadliest tournament environment. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Derrown. Mandalorian-era postings on Nevarro and Mos Espa show parwan bounty hunter specialists remain essential to galactic order—and chaos.\n\nDerrown operated in war zones where capture alive paid more than kill, and both paid more than failure. Derrown survived multiple box trial stages using gas attacks and sniper overwatch until Eval's retractable platforms eliminated weaker competitors. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of parwan bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Derrown's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Derrown as a parwan bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Toxic gas synthesis, long-range sniper shots, atmospheric chemistry exploiting competitor weaknesses, and Parwan biological toxin resistance. Guild instructors use redacted mission logs from Derrown's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Derrown often know smuggler routes better than naval patrols.\n\nAmong peers, Derrown earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Box competitors feared Derrown's gas clouds; Eval ranked him among top technical specialists; Parwan clans celebrate his tournament representation. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Derrown that may be half true and fully instructive. Whether Derrown followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Derrown exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Derrown validated Parwan alchemist-hunter hybrid class in guild gladiator events—chemical warfare as legitimate hunter methodology. Without contractors like Derrown, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Derrown when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Enters Moralo Eval's box tournament",
+    "Deploys toxic gas against competitors",
+    "Sniper overwatch on Serenno trials",
+    "Survives multiple box stages",
+    "Parwan alchemist-hunter showcase"
+  ],
+  "affiliations": [
+    "Moralo Eval's box roster",
+    "Parwan alchemist tradition",
+    "Cad Bane tournament peers",
+    "Separatist assassin pipeline",
+    "Bounty Hunters' Guild"
+  ],
+  "timeline": [
+    {
+      "era": "Parwan",
+      "event": "Alchemist-sniper training"
+    },
+    {
+      "era": "Box Entry",
+      "event": "Eval tournament recruitment"
+    },
+    {
+      "era": "Serenno",
+      "event": "Gas and sniper trials"
+    },
+    {
+      "era": "Survival",
+      "event": "Multiple stage advancement"
+    },
+    {
+      "era": "Legacy",
+      "event": "Parwan hunter archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/derrown.svg",
+      "caption": "Emblem — Derrown"
+    },
+    {
+      "path": "/images/bounty-hunters/derrown-scene.svg",
+      "caption": "Scene illustration — Derrown"
+    }
+  ]
+}

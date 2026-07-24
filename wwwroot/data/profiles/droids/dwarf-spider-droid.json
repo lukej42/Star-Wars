@@ -1,0 +1,47 @@
+{
+  "overview": "Dwarf Spider Droid is a artillery droid built by Baktoid Armor Workshop, documented across Clone Wars · Prequel Trilogy. Compact spider-walker droids with central blaster cannons used as mobile artillery and anti-infantry platforms across Separatist beachheads.",
+  "history": "Dwarf Spider Droid belongs to the artillery droid class manufactured by Baktoid Armor Workshop, one of the most recognizable automaton designs documented across galactic history. Dwarf spider droids provide cheap mobile fire support with four-legged stability on rough terrain. Baktoid Armor Workshop factory schematics document the artillery droid platform lineage that produced Dwarf Spider Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Dwarf Spider Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Dwarf Spider Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered artillery droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Baktoid Armor Workshop subsystems, spreading design language across millennia before Dwarf Spider Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Baktoid Armor Workshop subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and artillery droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Dwarf Spider Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Dwarf Spider Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Baktoid Armor Workshop frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Baktoid Armor Workshop frames. Historians studying the Sequel Era treat surviving Dwarf Spider Droid memory cores as primary sources on earlier conflicts.\n\nDwarf Spider Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Dwarf Spider Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of artillery droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Baktoid Armor Workshop automata.",
+  "significance": "Engineering analysis of Dwarf Spider Droid highlights why artillery droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Dwarf Spider Droid's modular artillery droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Baktoid Armor Workshop documentation; slicers praise its predictable security flaws—both keep Dwarf Spider Droid relevant in scrap yards centuries later. New Republic certification boards still debate which artillery droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Dwarf Spider Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Dwarf Spider Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every artillery droid rights petition involving Baktoid Armor Workshop personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Dwarf Spider Droid's service record. Whether Dwarf Spider Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Dwarf Spider Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Dwarf Spider Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Dwarf Spider Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Baktoid Armor Workshop chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Anti-infantry role on Felucia and Utapau",
+    "Compact design fits inside landing craft",
+    "Central blaster cannon engages clone armor",
+    "Often deployed alongside B1 infantry waves",
+    "Baktoid Armor Workshop mass-produces variants"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Baktoid Armor Workshop",
+    "Techno Union",
+    "Separatist ground forces",
+    "Retail Caucus"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Dwarf spider droid mass deployment"
+    },
+    {
+      "era": "Felucia",
+      "event": "Anti-infantry artillery role"
+    },
+    {
+      "era": "Utapau",
+      "event": "Supports droid army in sinkhole battle"
+    },
+    {
+      "era": "Late War",
+      "event": "Standard Separatist fire support"
+    },
+    {
+      "era": "Post-War",
+      "event": "Salvaged by Rim militias"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/dwarf-spider-droid-scene.png",
+      "caption": "Cinematic illustration — Dwarf Spider Droid"
+    }
+  ]
+}

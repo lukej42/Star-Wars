@@ -1,0 +1,50 @@
+{
+  "overview": "Aldhani Garrison Sector is a wilderness rebel staging ground on Aldhani, documented across Andor. Aldhani's alpine wilderness hid the Aldhani heist staging camp where Andor's rebels stole an Imperial payroll from an elevated garrison.",
+  "history": "Aldhani Garrison Sector began as a wilderness rebel staging ground anchor on Aldhani, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Aldhani's garrison sector protects a Imperial payroll vault anchoring sector suppression operations. Early survey maps from the Old Republic era list Aldhani Garrison Sector as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Aldhani Garrison Sector as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Aldhani Garrison Sector include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Indigenous Aldhani pastoralists predated the garrison; Empire classified them as trespassers on their own land. High Republic pathfinders logged Aldhani Garrison Sector as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Aldhani suggest Aldhani Garrison Sector once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Aldhani Garrison Sector expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Cassian Andor's cell infiltrated the vault in a precision raid exposing Imperial payroll vulnerability. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Aldhani Garrison Sector because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Aldhani Garrison Sector as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nAldhani Garrison Sector has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Post-raid sweeps devastated local villages, radicalizing survivors against Coruscant. Clone Wars dossiers mark Aldhani Garrison Sector as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Aldhani Garrison Sector meant control of Aldhani.",
+  "significance": "The economy of Aldhani Garrison Sector runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Imperial payroll storage and alpine sensor towers dominate; locals subsist on herding. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Aldhani Garrison Sector infrastructure during the late Republic. Post-war reconstruction funds often bypass Aldhani Garrison Sector officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Aldhani Garrison Sector mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Aldhani herders maintain night-song warnings about sky machines; rebels learned to mimic wind patterns. Music, food, and festival calendars in Aldhani Garrison Sector are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Aldhani Garrison Sector back alleys.\n\nAldhani Garrison Sector influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. The heist proved small cells could strike Imperial treasury lines, inspiring wider rebellion. Scenes set in Aldhani Garrison Sector across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Aldhani Garrison Sector when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Imperial garrison established on Aldhani",
+    "Cassian Andor joins Aldhani raid cell",
+    "Payroll vault stolen in synchronized assault",
+    "Imperial reprisals scour the valleys",
+    "Raid inspires Mon Mothma's broader resistance funding"
+  ],
+  "affiliations": [
+    "Imperial Military",
+    "Aldhani pastoral communities",
+    "Rebel infiltration cells",
+    "Sector command payroll office"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Garrison vault constructed"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Aldhani heist succeeds"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Reprisal sweeps follow"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Sector joins wider revolt"
+    },
+    {
+      "era": "New Republic",
+      "event": "Vault ruins become memorial site"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/aldhani-garrison-sector.svg",
+      "caption": "Emblem — Aldhani Garrison Sector"
+    },
+    {
+      "path": "/images/settlements/aldhani-garrison-sector-scene.svg",
+      "caption": "Scene illustration — Aldhani Garrison Sector"
+    }
+  ]
+}

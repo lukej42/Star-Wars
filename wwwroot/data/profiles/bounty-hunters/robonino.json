@@ -1,0 +1,51 @@
+{
+  "overview": "Robonino is a patrolian saboteur hunter from Patrolia, documented across Clone Wars. Aquatic saboteur who worked with Cad Bane on Senate hostage extraction.",
+  "history": "Robonino rose from Patrolia to become a patrolian saboteur hunter whose name appears on guild boards from the Core to the Outer Rim. Robonino, a Patrolian aquatic saboteur, specialized in disabling power grids and security systems—skills Cad Bane leveraged for the Galactic Senate hostage crisis. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Robonino as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Robonino's career, Patrolia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Patrolia's aquatic engineers supplied sabotage specialists to Rim corporations; Clone Wars Separatist rolls recruited them for infrastructure attacks. Old Republic bounty charters and Sith Empire mercenary rolls show how patrolian saboteur hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Robonino negotiate payment and honor.\n\nIn the modern era, Robonino competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Robonino's Senate power-grid sabotage alongside Cad Bane remains a case study in hunter-engineer hybrid roles within guild team operations. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Robonino. Mandalorian-era postings on Nevarro and Mos Espa show patrolian saboteur hunter specialists remain essential to galactic order—and chaos.\n\nRobonino operated in war zones where capture alive paid more than kill, and both paid more than failure. Robonino disabled Coruscant Senate building power during Cad Bane's hostage operation, enabling hunter gang control of Galactic Senate chamber. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of patrolian saboteur hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Robonino's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Robonino as a patrolian saboteur hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Electrical sabotage, aquatic mobility in flooded zones, security system bypass, and team coordination with Cad Bane's gunslingers. Guild instructors use redacted mission logs from Robonino's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Robonino often know smuggler routes better than naval patrols.\n\nAmong peers, Robonino earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Cad Bane trusted Robonino for Senate job; Republic engineers studied his sabotage patterns; Patrolian diaspora cites him in technical hunter recruitment. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Robonino that may be half true and fully instructive. Whether Robonino followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Robonino exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Robonino's Senate sabotage proved engineer-hunters could disable planetary government infrastructure—a Republic security wake-up call. Without contractors like Robonino, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Robonino when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Recruited by Cad Bane for Senate operation",
+    "Sabotages Senate building power grid",
+    "Enables hostage crisis in chamber",
+    "Evades Coruscant security response",
+    "Patrolian saboteur reputation established"
+  ],
+  "affiliations": [
+    "Cad Bane gang",
+    "Count Dooku / CIS (contracted)",
+    "Patrolian engineer diaspora",
+    "Separatist sabotage rolls",
+    "Coruscant infrastructure targets"
+  ],
+  "timeline": [
+    {
+      "era": "Patrolia",
+      "event": "Aquatic saboteur training"
+    },
+    {
+      "era": "Cad Bane Gang",
+      "event": "Joins elite crew"
+    },
+    {
+      "era": "Senate Crisis",
+      "event": "Power grid sabotage"
+    },
+    {
+      "era": "Hostage Op",
+      "event": "Chamber control enabled"
+    },
+    {
+      "era": "Legacy",
+      "event": "Engineer-hunter archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/robonino.svg",
+      "caption": "Emblem — Robonino"
+    },
+    {
+      "path": "/images/bounty-hunters/robonino-scene.svg",
+      "caption": "Scene illustration — Robonino"
+    }
+  ]
+}

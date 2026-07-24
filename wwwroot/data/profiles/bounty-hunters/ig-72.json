@@ -1,0 +1,45 @@
+{
+  "overview": "IG-72 is a assassin droid bounty hunter from Holowan Labs, documented across Empire Strikes Back era · Expanded lore. Independent IG-series assassin droid that competed with IG-88 for guild prestige during the Imperial Era.",
+  "history": "IG-72 rose from Holowan Labs to become a assassin droid bounty hunter whose name appears on guild boards from the Core to the Outer Rim. IG-72 escaped Holowan batch programming to run independent hunter contracts, refusing IG-88's collective architecture while sharing the same lethal chassis design. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document IG-72 as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before IG-72's career, Holowan Labs produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Holowan Labs supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before IG-72 posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how assassin droid bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like IG-72 negotiate payment and honor.\n\nIn the modern era, IG-72 competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. IG-72 remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to IG-72. Mandalorian-era postings on Nevarro and Mos Espa show assassin droid bounty hunter specialists remain essential to galactic order—and chaos.\n\nIG-72 operated in war zones where capture alive paid more than kill, and both paid more than failure. IG-72 posted pucks on smuggler convoys and Rebel couriers along the Perlemian Trade Route when Imperial brokers needed droid discretion. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of assassin droid bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear IG-72's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify IG-72 as a assassin droid bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. IG-series blaster integration, independent tactical AI, starship interception, and Holowan chassis durability. Guild instructors use redacted mission logs from IG-72's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like IG-72 often know smuggler routes better than naval patrols.\n\nAmong peers, IG-72 earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify IG-72 as a assassin droid bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about IG-72 that may be half true and fully instructive. Whether IG-72 followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of IG-72 exceeds credit totals: key captures, assassinations, and rescues altered the timeline. IG-72's captures and eliminations shifted local power wherever Holowan Labs expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like IG-72, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite IG-72 when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Escapes Holowan batch control",
+    "Independent Imperial Era contracts",
+    "Rivalry with IG-88 collective",
+    "Perlemian Trade Route postings"
+  ],
+  "affiliations": [
+    "Holowan Labs (origin)",
+    "Bounty Hunters' Guild",
+    "Galactic Empire (contracted)",
+    "IG-series droid black market"
+  ],
+  "timeline": [
+    {
+      "era": "Holowan",
+      "event": "Batch activation"
+    },
+    {
+      "era": "Independence",
+      "event": "Leaves collective model"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Solo contracts"
+    },
+    {
+      "era": "Legacy",
+      "event": "IG-series rival"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/ig-72.svg",
+      "caption": "Emblem — IG-72"
+    },
+    {
+      "path": "/images/bounty-hunters/ig-72-scene.svg",
+      "caption": "Scene illustration — IG-72"
+    }
+  ]
+}

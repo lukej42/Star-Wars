@@ -1,0 +1,51 @@
+{
+  "overview": "Geonosian (Insectoid humanoid) is native to Geonosis and ranks among the most consequential species in galactic history. Geonosians are hive-minded insectoids from Geonosis whose droid foundries ignited the Clone Wars and whose queen-led hives built the Death Star plans. Winged warriors oversee gladiatorial arenas and factory spires.",
+  "history": "The Geonosian (insectoid humanoid) trace their deepest roots to Geonosis, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Geonosian evolutionary history on Geonosis intertwines with insectoid humanoid adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Geonosian populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Geonosian history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Geonosian societies on Geonosis established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Geonosian polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Geonosis ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Geonosian identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Geonosian delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Geonosian diaspora communities appeared on every major trade lane and war front. Modern Geonosian diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Geonosian networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Geonosian migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nGeonosian fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Geonosian veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Geonosis's geography. KOTOR and KOTOR II document Geonosian involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Geonosian leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Geonosian display traits typical of insectoid humanoid life adapted to Geonosis's gravity, atmosphere, and seasonal extremes. Geonosian physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Geonosian physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Geonosian resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nGeonosian culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Geonosian rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Geonosis accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Geonosian spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Geonosian communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Geonosian exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Geonosian merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Geonosian innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Geonosian choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Geonosian homeworld first mapped by Republic surveyors",
+    "Notable Geonosian leaders emerge during Clone Wars",
+    "Geonosian communities resist Imperial occupation policies",
+    "KOTOR-era Geonosian figures influence Jedi Civil War",
+    "New Republic restores Geonosian representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Geonosis governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Geonosian civilization consolidates on Geonosis"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Geonosian join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Geonosian factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Geonosian identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Geonosian"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/geonosian.svg",
+      "caption": "Emblem — Geonosian"
+    },
+    {
+      "path": "/images/species/geonosian-scene.svg",
+      "caption": "Scene illustration — Geonosian"
+    }
+  ]
+}

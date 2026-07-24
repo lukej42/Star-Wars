@@ -1,0 +1,47 @@
+{
+  "overview": "B-4D4 is a administrative droid built by Taris Corporation, documented across KOTOR. An administrative droid on Taris whose corrupted testimony and hidden subroutines became central to the Sith occupation investigation during KOTOR.",
+  "history": "B-4D4 belongs to the administrative droid class manufactured by Taris Corporation, one of the most recognizable automaton designs documented across galactic history. B-4D4's corrupted testimony on Taris concealed Sith Black Vulkar gang connections. Taris Corporation factory schematics document the administrative droid platform lineage that produced B-4D4, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat B-4D4 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced B-4D4. Excavations on Taris, Dxun, and Dromund Kaas recovered administrative droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Taris Corporation subsystems, spreading design language across millennia before B-4D4 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Taris Corporation subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and administrative droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, B-4D4 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. B-4D4 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Taris Corporation frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Taris Corporation frames. Historians studying the Sequel Era treat surviving B-4D4 memory cores as primary sources on earlier conflicts.\n\nB-4D4 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, B-4D4 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of administrative droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Taris Corporation automata.",
+  "significance": "Engineering analysis of B-4D4 highlights why administrative droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise B-4D4's modular administrative droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Taris Corporation documentation; slicers praise its predictable security flaws—both keep B-4D4 relevant in scrap yards centuries later. New Republic certification boards still debate which administrative droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite B-4D4 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite B-4D4 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every administrative droid rights petition involving Taris Corporation personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as B-4D4's service record. Whether B-4D4 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of B-4D4 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like B-4D4; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like B-4D4, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Taris Corporation chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Provides testimony during Taris Sith occupation investigation",
+    "Memory corruption hides Black Vulkar connections",
+    "Administrative droid at Taris Corporation offices",
+    "Central to Taris lower city questline events",
+    "Example of droid memory manipulation in KOTOR"
+  ],
+  "affiliations": [
+    "Taris Corporation",
+    "Black Vulkars (hidden)",
+    "Sith Empire (Taris occupation)",
+    "Galactic Republic (nominal)",
+    "Czerka Corporation (competitor)"
+  ],
+  "timeline": [
+    {
+      "era": "Mandalorian Wars",
+      "event": "B-4D4 serves Taris Corporation"
+    },
+    {
+      "era": "Sith Occupation",
+      "event": "Testimony corrupted by gang influence"
+    },
+    {
+      "era": "Revan's Taris Visit",
+      "event": "Investigation exposes memory tampering"
+    },
+    {
+      "era": "Destruction of Taris",
+      "event": "Unit likely destroyed with planet"
+    },
+    {
+      "era": "Legacy",
+      "event": "Case study in droid memory evidence"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/b-4d4-scene.png",
+      "caption": "Cinematic illustration — B-4D4"
+    }
+  ]
+}

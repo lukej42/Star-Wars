@@ -1,0 +1,51 @@
+{
+  "overview": "Zam Wesell is a clawdite assassin from Zolan, documented across Attack of the Clones. Shapeshifting Clawdite hired to kill Padmé Amidala; silenced by Jango's Kamino saberdart.",
+  "history": "Zam Wesell rose from Zolan to become a clawdite assassin whose name appears on guild boards from the Core to the Outer Rim. Zam Wesell trained on Zolan as a Clawdite shapeshifter selling assassination to Separatist intermediaries, using form-shift infiltration where blasters would fail. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Zam Wesell as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Zam Wesell's career, Zolan produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Clawdite metamorph traditions on Zolan predate the Republic; KOTOR intelligence archives document shapeshifter assassins bypassing Senate security for millennia. Old Republic bounty charters and Sith Empire mercenary rolls show how clawdite assassin contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Zam Wesell negotiate payment and honor.\n\nIn the modern era, Zam Wesell competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Zam's death by Jango's Kamino saberdart in Coruscant alleyways exposed the clone army trail—her assassination attempt triggered the chain revealing Kamino. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Zam Wesell. Mandalorian-era postings on Nevarro and Mos Espa show clawdite assassin specialists remain essential to galactic order—and chaos.\n\nZam Wesell operated in war zones where capture alive paid more than kill, and both paid more than failure. Zam bombed Padmé's Naboo cruiser, infiltrated Coruscant as multiple identities, and died when Jango silenced her before Obi-Wan could interrogate her. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of clawdite assassin hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Zam Wesell's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Zam Wesell as a clawdite assassin relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Clawdite shapeshifting, sniper rifle from speeder lanes, explosive sabotage, and identity infiltration—Zam kills from inside the target's trust perimeter. Guild instructors use redacted mission logs from Zam Wesell's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Zam Wesell often know smuggler routes better than naval patrols.\n\nAmong peers, Zam Wesell earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Dooku's agents valued Zam's discretion; Jedi investigators never caught her true face until post-mortem; Clawdite guilds cite her Amidala contract as masterwork. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Zam Wesell that may be half true and fully instructive. Whether Zam Wesell followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Zam Wesell exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Zam Wesell's failed assassination set Obi-Wan on Jango's trail to Kamino—without her contract, the clone conspiracy might have stayed hidden longer. Without contractors like Zam Wesell, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Zam Wesell when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Bombs Padmé Amidala's Naboo cruiser",
+    "Assassinates via speeder-lane sniper attempt",
+    "Infiltrates Coruscant in shapeshifted forms",
+    "Killed by Jango's Kamino saberdart",
+    "Death leads Obi-Wan to Kamino discovery"
+  ],
+  "affiliations": [
+    "Count Dooku / CIS (contracted)",
+    "Clawdite assassin networks",
+    "Zolan shapeshifter clans",
+    "Separatist shadow accounts",
+    "Coruscant underworld brokers"
+  ],
+  "timeline": [
+    {
+      "era": "Zolan",
+      "event": "Clawdite assassin training"
+    },
+    {
+      "era": "Contract",
+      "event": "Hired to kill Senator Amidala"
+    },
+    {
+      "era": "Naboo Cruiser",
+      "event": "Bombing attempt"
+    },
+    {
+      "era": "Coruscant",
+      "event": "Speeder chase with Anakin"
+    },
+    {
+      "era": "Death",
+      "event": "Silenced by Jango Fett"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/zam-wesell.svg",
+      "caption": "Emblem — Zam Wesell"
+    },
+    {
+      "path": "/images/bounty-hunters/zam-wesell-scene.svg",
+      "caption": "Scene illustration — Zam Wesell"
+    }
+  ]
+}

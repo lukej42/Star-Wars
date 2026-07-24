@@ -1,0 +1,51 @@
+{
+  "overview": "Ketsu Onyo is a black sun bounty hunter from Shukut, documented across Rebels. Former Black Sun enforcer turned Rebel-allied hunter partnered with Sabine Wren on Lothal.",
+  "history": "Ketsu Onyo rose from Shukut to become a black sun bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Ketsu Onyo trained with Sabine Wren at Mandalorian Imperial Academy before becoming Black Sun enforcer; she later reconciled with Sabine and aided Rebel cell operations on Lothal. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Ketsu Onyo as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Ketsu Onyo's career, Shukut produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Shukut Twi'lek hunter traditions and Black Sun enforcer pipelines predate Ketsu; Mandalorian Academy dropout hunters represent Imperial training turned syndicate service. Old Republic bounty charters and Sith Empire mercenary rolls show how black sun bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Ketsu Onyo negotiate payment and honor.\n\nIn the modern era, Ketsu Onyo competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Ketsu's Rebels arc from Sabine's estranged partner to Rebel ally showcased Twi'lek hunter redemption alongside Mandalorian revolutionary politics on Lothal. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Ketsu Onyo. Mandalorian-era postings on Nevarro and Mos Espa show black sun bounty hunter specialists remain essential to galactic order—and chaos.\n\nKetsu Onyo operated in war zones where capture alive paid more than kill, and both paid more than failure. Ketsu hunted Sabine for Black Sun before reconciliation, ambushed Ghost crew shipments, then helped Sabine steal fuel for Lothal rebellion and fought Imperial blockade. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of black sun bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Ketsu Onyo's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Ketsu Onyo as a black sun bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Twi'lek agility, Black Sun tactics, starship interdiction with Shadow Caster, and Mandalorian Academy-trained combat—Ketsu combines syndicate brutality with formal training. Guild instructors use redacted mission logs from Ketsu Onyo's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Ketsu Onyo often know smuggler routes better than naval patrols.\n\nAmong peers, Ketsu Onyo earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Black Sun valued Ketsu's Sabine connection; Rebels celebrated her reconciliation; Lothal cells trusted her after fuel heist alliance. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Ketsu Onyo that may be half true and fully instructive. Whether Ketsu Onyo followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Ketsu Onyo exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Ketsu Onyo's Sabine reconciliation arc proved Black Sun enforcers could defect to Rebellion—linking syndicate hunter markets to revolutionary cause. Without contractors like Ketsu Onyo, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Ketsu Onyo when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Trains with Sabine at Mandalorian Academy",
+    "Joins Black Sun as enforcer",
+    "Hunts Sabine and Ghost crew",
+    "Reconciles and aids Lothal rebellion",
+    "Shadow Caster fuel heist alliance"
+  ],
+  "affiliations": [
+    "Black Sun (former)",
+    "Sabine Wren partnership",
+    "Lothal Rebel cell",
+    "Shadow Caster crew",
+    "Mandalorian Academy (dropout)"
+  ],
+  "timeline": [
+    {
+      "era": "Academy",
+      "event": "Sabine friendship and fallout"
+    },
+    {
+      "era": "Black Sun",
+      "event": "Enforcer service"
+    },
+    {
+      "era": "Hunt",
+      "event": "Pursues Sabine for syndicate"
+    },
+    {
+      "era": "Reconciliation",
+      "event": "Rebel alliance restored"
+    },
+    {
+      "era": "Lothal",
+      "event": "Fuel heist for rebellion"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/ketsu-onyo.svg",
+      "caption": "Emblem — Ketsu Onyo"
+    },
+    {
+      "path": "/images/bounty-hunters/ketsu-onyo-scene.svg",
+      "caption": "Scene illustration — Ketsu Onyo"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "overview": "The Braha'tok-class Gunship is a point-defense gunship whose design philosophy reflects the industrial and strategic priorities of Galactic Civil War (0 BBY–4 ABY). Dornean Braha'tok gunships protected Mon Calamari cruisers with concentrated flak during Endor. Production estimates place the class at ~220 units, though wartime losses, capture, and black-market duplication make precise fleet registries unreliable.",
+  "history": "Engineering teams first finalized the Braha'tok-class Gunship blueprints during the political climate of Galactic Civil War (0 BBY–4 ABY). The point-defense gunship was intended to solve specific fleet gaps—whether planetary assault, convoy escort, starfighter superiority, or terror bombardment—and shipwrights iterated hull plates, reactor output, and crew compartments accordingly.\n\nOnce deployed, the Braha'tok-class Gunship appeared in fleet actions that defined its reputation. Dornean Braha'tok gunships protected Mon Calamari cruisers with concentrated flak during Endor. Combat logs show crews exploiting the class's strengths while improvising fixes for known weaknesses under fire, a pattern repeated across every major galactic conflict.\n\nAs doctrine evolved, rival factions studied captured Braha'tok-class Gunship hulls. Refit yards duplicated weapons mounts and sensor suites; some variants never appeared in official manifests. Estimated production of ~220 units therefore understates how many similar silhouettes operated under alternate insignia.\n\nSurviving Braha'tok-class Gunship vessels now sit in museum orbits, mercenary fleets, and scrap worlds. Historians treat the class as a measure of how galactic wars industrialize violence—each hull a factory product that outlived the politicians who ordered it.",
+  "significance": "The Braha'tok-class Gunship demonstrates how point-defense gunship design shapes campaign outcomes. Its layout influenced successor programs and remains a case study in naval academies.\n\nWith roughly ~220 units hulls associated with Galactic Civil War (0 BBY–4 ABY), the class became a visual symbol of its faction's reach—recognizable in holonet footage and feared in convoy manifests.\n\nEngineers still debate whether the Braha'tok-class Gunship prioritized firepower over crew survival; that trade-off defines its legacy in both propaganda and honest after-action reports.",
+  "notableEvents": [
+    "Prototype Braha'tok-class Gunship accepted into fleet trials during Galactic Civil War",
+    "Mass production reaches approximately ~220 units",
+    "First major fleet battle featuring multiple Braha'tok-class Gunship hulls",
+    "Captured or scuttled Braha'tok-class Gunship studied by rival shipwrights",
+    "Notable commander achieves victory aboard a Braha'tok-class Gunship",
+    "Refit program extends service life beyond original specifications",
+    "Class featured in faction propaganda broadcasts",
+    "Remaining hulls retired, preserved, or converted to civilian use"
+  ],
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Point-defense Gunship operational wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "Braha'tok-class Gunship design approved and prototype tested"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Production scales toward ~220 units"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Braha'tok-class Gunship enters decisive fleet engagements"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Attrition and refits reshape active Braha'tok-class Gunship registries"
+    },
+    {
+      "era": "New Republic",
+      "event": "Surviving Braha'tok-class Gunship hulls decommissioned or sold"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/brahatak-class.svg",
+      "caption": "Profile view of the Braha'tok-class Gunship"
+    },
+    {
+      "path": "/images/ships/brahatak-class-scene.svg",
+      "caption": "Combat deployment — Braha'tok-class Gunship"
+    },
+    {
+      "path": "/images/ships/brahatak-class-blueprint.svg",
+      "caption": "Technical schematic — Braha'tok-class Gunship"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "overview": "Force Meld is a master-level light side technique classified under Connection. Merges the minds of multiple Jedi into a unified consciousness, combining their strength for tasks no individual could accomplish alone. Luke and Leia Organa performed a Force meld to locate their lost brother Jacen during the dark days of the Yuuzhan Vong invasion.",
+  "history": "Force scholars trace Force Meld across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · KOTOR · Clone Wars · High Republic · Rebels established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Meld into initiates as part of the standard curriculum for connection specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Meld alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Force Meld exemplifies how connection abilities shape Force doctrine on the light side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Meld could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Meld remains a benchmark of connection proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Meld in New Republic conflicts",
+    "Standardised in Connection curricula of the Jedi academies",
+    "Featured prominently in media: Films · KOTOR · Clone Wars · High Republic · Rebels",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Force Meld altered galactic history"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "First major documented use of Force Meld in New Republic conflicts"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Standardised in Connection curricula of the Jedi academies"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Featured prominently in media: Films · KOTOR · Clone Wars · High Republic · Rebels"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "High Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-meld.svg",
+      "caption": "Emblem — Force Meld"
+    },
+    {
+      "path": "/images/force-powers/force-meld-scene.svg",
+      "caption": "Scene illustration — Force Meld"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "TT-8L Gatekeeper is a gatekeeper droid built by Arakyd Industries, documented across A New Hope · Mandalorian. The extending eye-stalk gatekeeper droids guarding Mos Eisley cantina doors and countless secure facilities with suspicious lens inspections.",
+  "history": "TT-8L Gatekeeper belongs to the gatekeeper droid class manufactured by Arakyd Industries, one of the most recognizable automaton designs documented across galactic history. TT-8L gatekeeper droids inspect visitors through extending eye-stalk lenses at secure entry points. Arakyd Industries factory schematics document the gatekeeper droid platform lineage that produced TT-8L Gatekeeper, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat TT-8L Gatekeeper as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced TT-8L Gatekeeper. Excavations on Taris, Dxun, and Dromund Kaas recovered gatekeeper droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Arakyd Industries subsystems, spreading design language across millennia before TT-8L Gatekeeper rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Arakyd Industries subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and gatekeeper droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, TT-8L Gatekeeper units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. TT-8L Gatekeeper units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Arakyd Industries frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Arakyd Industries frames. Historians studying the Sequel Era treat surviving TT-8L Gatekeeper memory cores as primary sources on earlier conflicts.\n\nTT-8L Gatekeeper and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, TT-8L Gatekeeper and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of gatekeeper droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Arakyd Industries automata.",
+  "significance": "Engineering analysis of TT-8L Gatekeeper highlights why gatekeeper droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise TT-8L Gatekeeper's modular gatekeeper droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Arakyd Industries documentation; slicers praise its predictable security flaws—both keep TT-8L Gatekeeper relevant in scrap yards centuries later. New Republic certification boards still debate which gatekeeper droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite TT-8L Gatekeeper when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite TT-8L Gatekeeper when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every gatekeeper droid rights petition involving Arakyd Industries personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as TT-8L Gatekeeper's service record. Whether TT-8L Gatekeeper is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of TT-8L Gatekeeper exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like TT-8L Gatekeeper; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like TT-8L Gatekeeper, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Arakyd Industries chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Guards Mos Eisley cantina entrance in A New Hope",
+    "Extending eye-stalk inspects visitors suspiciously",
+    "Standard secure facility entry droid across galaxy",
+    "Arakyd Industries security product line",
+    "Mandalorian-era facilities still deploy TT-8L units"
+  ],
+  "affiliations": [
+    "Cantina owners",
+    "Independent security contractors",
+    "Arakyd Industries",
+    "Hutt facilities",
+    "Imperial installations (civilian)"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "TT-8L enters security market"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Standard gatekeeper across galaxy"
+    },
+    {
+      "era": "Tatooine",
+      "event": "Guards Mos Eisley cantina"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Deployed on secure Rebel and Imperial sites"
+    },
+    {
+      "era": "Modern Era",
+      "event": "Still produced for Rim security"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/tt-8l-gatekeeper-scene.png",
+      "caption": "Cinematic illustration — TT-8L Gatekeeper"
+    }
+  ]
+}

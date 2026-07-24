@@ -1,0 +1,36 @@
+@page "/all-dark-side-powers"
+@using StarWars.Data
+
+<PageTitle>All Dark Side Powers</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/force-powers/force-powers-dark-side-hero.png" alt="Crackling dark side Force lightning across a shadowed nebula" loading="lazy" />
+</figure>
+
+<h1>All Dark Side Powers</h1>
+<p class="all-planets-intro">
+    @ForcePowerData.DarkSidePowers.Count dark-side abilities wielded by Sith Lords, Inquisitors, Nightsisters,
+    and the ancient Sith Empire — aggression, domination, and corruption channelled through the Force from
+    Darth Bane's Rule of Two to Vitiate's essence rituals on Ziost.
+</p>
+
+@foreach (var group in ForcePowerData.DarkSidePowers.GroupBy(power => power.Category).OrderBy(group => group.Key))
+{
+    <section class="force-powers-category">
+        <h2>@group.Key</h2>
+        <div class="planet-directory-grid">
+            @foreach (var power in group.OrderBy(power => power.Name))
+            {
+                <article class="planet-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @power.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@power.Route">@power.Name</a>
+                        <p class="planet-region">@power.Difficulty · @power.Sources</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </section>
+}
+
+<p class="force-powers-crosslink"><a href="all-force-powers">View all Force powers</a> · <a href="all-light-side-powers">Light Side powers</a></p>

@@ -1,0 +1,45 @@
+{
+  "overview": "Sardu Sallowe is a ubese bounty hunter from Uba IV, documented across Expanded lore. Ubese hunter whose clan armor designs influenced the gear later associated with Boushh and other Ubese contractors.",
+  "history": "Sardu Sallowe rose from Uba IV to become a ubese bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Sardu Sallowe pioneered Ubese isolation-armor hunter exports after Uba IV's Imperial quarantine, selling clan designs to offworld guild members. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Sardu Sallowe as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Sardu Sallowe's career, Uba IV produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Uba IV supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Sardu Sallowe posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how ubese bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Sardu Sallowe negotiate payment and honor.\n\nIn the modern era, Sardu Sallowe competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Sardu Sallowe remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Sardu Sallowe. Mandalorian-era postings on Nevarro and Mos Espa show ubese bounty hunter specialists remain essential to galactic order—and chaos.\n\nSardu Sallowe operated in war zones where capture alive paid more than kill, and both paid more than failure. Sallowe hunted Black Sun lieutenants and Imperial quarantine breakers, establishing Ubese hunter gear as premium Rim protection. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of ubese bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Sardu Sallowe's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Sardu Sallowe as a ubese bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Ubese clan armor crafting, quarantine-smuggling routes, Black Sun contract work, and isolationist clan codes. Guild instructors use redacted mission logs from Sardu Sallowe's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Sardu Sallowe often know smuggler routes better than naval patrols.\n\nAmong peers, Sardu Sallowe earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Sardu Sallowe as a ubese bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Sardu Sallowe that may be half true and fully instructive. Whether Sardu Sallowe followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Sardu Sallowe exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Sardu Sallowe's captures and eliminations shifted local power wherever Uba IV expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Sardu Sallowe, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Sardu Sallowe when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Uba IV quarantine hunter adaptation",
+    "Ubese armor design exports",
+    "Black Sun contract eliminations",
+    "Influences Boushh-era gear standards"
+  ],
+  "affiliations": [
+    "Ubese hunter clans",
+    "Black Sun (targets)",
+    "Bounty Hunters' Guild",
+    "Uba IV smuggling networks"
+  ],
+  "timeline": [
+    {
+      "era": "Uba IV",
+      "event": "Quarantine adaptation"
+    },
+    {
+      "era": "Armor",
+      "event": "Design exports"
+    },
+    {
+      "era": "Black Sun",
+      "event": "Contract work"
+    },
+    {
+      "era": "Legacy",
+      "event": "Ubese gear standards"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/sardu-sallowe.svg",
+      "caption": "Emblem — Sardu Sallowe"
+    },
+    {
+      "path": "/images/bounty-hunters/sardu-sallowe-scene.svg",
+      "caption": "Scene illustration — Sardu Sallowe"
+    }
+  ]
+}

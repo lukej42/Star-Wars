@@ -1,0 +1,51 @@
+{
+  "overview": "Sith Pureblood (Humanoid mammal) is native to Korriban and ranks among the most consequential species in galactic history. Sith Purebloods descend from ancient Sith species on Korriban, bearing red skin and facial bone spurs tied to Sith Empire nobility in the TOR era. Their bloodlines intermix with Dark Jedi exiles across millennia.",
+  "history": "The Sith Pureblood (humanoid mammal) trace their deepest roots to Korriban, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Sith Pureblood evolutionary history on Korriban intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Sith Pureblood populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Sith Pureblood history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Sith Pureblood societies on Korriban established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Sith Pureblood polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Korriban ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Sith Pureblood identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Sith Pureblood delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Sith Pureblood diaspora communities appeared on every major trade lane and war front. Modern Sith Pureblood diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Sith Pureblood networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Sith Pureblood migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nSith Pureblood fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Sith Pureblood veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Korriban's geography. KOTOR and KOTOR II document Sith Pureblood involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Sith Pureblood leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Sith Pureblood display traits typical of humanoid mammal life adapted to Korriban's gravity, atmosphere, and seasonal extremes. Sith Pureblood physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Sith Pureblood physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Sith Pureblood resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nSith Pureblood culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Sith Pureblood rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Korriban accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Sith Pureblood spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Sith Pureblood communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Sith Pureblood exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Sith Pureblood merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Sith Pureblood innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Sith Pureblood choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Sith Pureblood homeworld first mapped by Republic surveyors",
+    "Notable Sith Pureblood leaders emerge during Clone Wars",
+    "Sith Pureblood communities resist Imperial occupation policies",
+    "KOTOR-era Sith Pureblood figures influence Jedi Civil War",
+    "New Republic restores Sith Pureblood representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Korriban governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Sith Pureblood civilization consolidates on Korriban"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Sith Pureblood join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Sith Pureblood factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Sith Pureblood identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Sith Pureblood"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/sith-pureblood.svg",
+      "caption": "Emblem — Sith Pureblood"
+    },
+    {
+      "path": "/images/species/sith-pureblood-scene.svg",
+      "caption": "Scene illustration — Sith Pureblood"
+    }
+  ]
+}

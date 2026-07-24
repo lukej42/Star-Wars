@@ -1,0 +1,52 @@
+{
+  "overview": "Sabine Wren is a mandalorian bounty past from Krownest, documented across Rebels · Clone Wars. Mandalorian artist-warrior who briefly took guild contracts before joining Phoenix Squadron.",
+  "history": "Sabine Wren rose from Krownest to become a mandalorian bounty past whose name appears on guild boards from the Core to the Outer Rim. Sabine Wren, Mandalorian artist-warrior from Clan Wren, briefly operated in bounty-adjacent mercenary space before joining Phoenix Squadron as Ghost crew weapons expert and Rebel propagandist. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Sabine Wren as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Sabine Wren's career, Krownest produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Clan Wren's Krownest traditions combine art and combat; Sabine represents Mandalorian warriors who reject guild long-term but retain hunter tactical skills in Rebel service. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty past contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Sabine Wren negotiate payment and honor.\n\nIn the modern era, Sabine Wren competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Sabine's Rebels arc from Imperial Academy dropout to Mandalore liberator connects brief hunter-adjacent past to full revolutionary Mandalorian leadership against Empire. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Sabine Wren. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty past specialists remain essential to galactic order—and chaos.\n\nSabine Wren operated in war zones where capture alive paid more than kill, and both paid more than failure. Sabine fought Imperials on Lothal, reclaimed Darksaber significance, reunited with Ketsu Onyo, and led Mandalore liberation from Imperial occupation post-Endor. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty past hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Sabine Wren's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Sabine Wren as a mandalorian bounty past relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Graffiti propaganda, explosives expertise, Mandalorian jetpack combat, and Darksaber training—Sabine weaponizes art and hunter skills for Rebellion. Guild instructors use redacted mission logs from Sabine Wren's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Sabine Wren often know smuggler routes better than naval patrols.\n\nAmong peers, Sabine Wren earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Ghost crew trusted her completely; Ketsu Onyo reconciled with her; Mandalore recognized her as liberator; Imperial governors feared her propaganda bombs. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Sabine Wren that may be half true and fully instructive. Whether Sabine Wren followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Sabine Wren exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Sabine Wren proved Mandalorian hunter skills transfer to Rebel operations—brief guild-adjacent past shaped full revolutionary arc and Mandalore's future. Without contractors like Sabine Wren, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Sabine Wren when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Imperial Academy training with Ketsu",
+    "Joins Ghost crew / Phoenix Squadron",
+    "Brief bounty-adjacent mercenary work",
+    "Reclaims Darksaber cultural role",
+    "Leads Mandalore liberation post-Endor"
+  ],
+  "affiliations": [
+    "Clan Wren",
+    "Ghost crew / Phoenix Squadron",
+    "Ketsu Onyo (partner)",
+    "Lothal Rebel cell",
+    "Mandalorian resistance",
+    "Rebel Alliance"
+  ],
+  "timeline": [
+    {
+      "era": "Krownest",
+      "event": "Clan Wren upbringing"
+    },
+    {
+      "era": "Academy",
+      "event": "Imperial training; dropout"
+    },
+    {
+      "era": "Ghost Crew",
+      "event": "Rebel weapons expert"
+    },
+    {
+      "era": "Lothal",
+      "event": "Platform liberation fight"
+    },
+    {
+      "era": "Mandalore",
+      "event": "Post-Endor liberation leader"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/sabine-wren.svg",
+      "caption": "Emblem — Sabine Wren"
+    },
+    {
+      "path": "/images/bounty-hunters/sabine-wren-scene.svg",
+      "caption": "Scene illustration — Sabine Wren"
+    }
+  ]
+}

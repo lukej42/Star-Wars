@@ -1,0 +1,51 @@
+{
+  "overview": "Tusken Raider (Humanoid mammal) is native to Tatooine and ranks among the most consequential species in galactic history. Tusken Raiders—or Sand People—are masked nomads of Tatooine whose gaffi sticks and bantha herds guard sacred dunes from settlers. Recent alliances with Boba Fett reframed their role in desert politics.",
+  "history": "The Tusken Raider (humanoid mammal) trace their deepest roots to Tatooine, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Tusken Raider evolutionary history on Tatooine intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Tusken Raider populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Tusken Raider history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Tusken Raider societies on Tatooine established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Tusken Raider polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Tatooine ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Tusken Raider identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Tusken Raider delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Tusken Raider diaspora communities appeared on every major trade lane and war front. Modern Tusken Raider diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Tusken Raider networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Tusken Raider migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nTusken Raider fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Tusken Raider veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Tatooine's geography. KOTOR and KOTOR II document Tusken Raider involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Tusken Raider leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Tusken Raider display traits typical of humanoid mammal life adapted to Tatooine's gravity, atmosphere, and seasonal extremes. Tusken Raider physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Tusken Raider physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Tusken Raider resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nTusken Raider culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Tusken Raider rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Tatooine accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Tusken Raider spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Tusken Raider communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Tusken Raider exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Tusken Raider merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Tusken Raider innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Tusken Raider choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Tusken Raider homeworld first mapped by Republic surveyors",
+    "Notable Tusken Raider leaders emerge during Clone Wars",
+    "Tusken Raider communities resist Imperial occupation policies",
+    "KOTOR-era Tusken Raider figures influence Jedi Civil War",
+    "New Republic restores Tusken Raider representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Tatooine governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Tusken Raider civilization consolidates on Tatooine"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Tusken Raider join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Tusken Raider factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Tusken Raider identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Tusken Raider"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/tusken-raider.svg",
+      "caption": "Emblem — Tusken Raider"
+    },
+    {
+      "path": "/images/species/tusken-raider-scene.svg",
+      "caption": "Scene illustration — Tusken Raider"
+    }
+  ]
+}

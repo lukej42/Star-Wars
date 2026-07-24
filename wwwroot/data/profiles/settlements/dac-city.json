@@ -1,0 +1,51 @@
+{
+  "overview": "Dac City is a underwater capital on Mon Cala, documented across Films · Clone Wars · Rebels. Dac City is the seat of Mon Calamari and Quarren co-rule, famed for starship artistry and brutal Imperial subjugation under Governor Triton.",
+  "history": "Dac City began as a underwater capital anchor on Mon Cala, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Dac City rose in Mon Cala's shallow zones where Quarren reef architecture meets Mon Calamari coral engineering. Early survey maps from the Old Republic era list Dac City as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Dac City as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Dac City include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Old Republic envoys recorded Dac City's shipyards as unmatched for modular fleet design. High Republic pathfinders logged Dac City as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Mon Cala suggest Dac City once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Dac City expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. King Lee-Char's coronation and Riff Tamson's Separatist invasion made the city a Clone Wars crucible. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Dac City because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Dac City as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nDac City has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Imperial occupation drowned dissent in hydro-bore prisons until Bail Organa's resistance cells surfaced. Clone Wars dossiers mark Dac City as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Dac City meant control of Mon Cala.",
+  "significance": "The economy of Dac City runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Starship contracts, coral exports, and tourism to kelp cathedrals fund Dac City's recovery. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Dac City infrastructure during the late Republic. Post-war reconstruction funds often bypass Dac City officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Dac City mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Dual-species councils rotate governance; art celebrates both aquatic cultures in plaza mosaics. Music, food, and festival calendars in Dac City are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Dac City back alleys.\n\nDac City influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Mon Calamari cruisers built here became the Rebel Alliance's backbone at Endor and Scarif. Scenes set in Dac City across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Dac City when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Separatist invasion of Mon Cala",
+    "King Lee-Char unifies Mon Calamari and Quarren",
+    "Imperial subjugation under Governor Triton",
+    "Rebel Mon Calamari fleet launches from Dac City",
+    "New Republic restores planetary autonomy"
+  ],
+  "affiliations": [
+    "Mon Calamari monarchy",
+    "Quarren Isolation League (historical)",
+    "Galactic Republic",
+    "Rebel Alliance",
+    "New Republic"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Dac City joins galactic trade"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Separatist assault on Mon Cala"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and prison camps"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Fleet construction for Rebellion"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural renaissance in Dac City"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/dac-city.svg",
+      "caption": "Emblem — Dac City"
+    },
+    {
+      "path": "/images/settlements/dac-city-scene.svg",
+      "caption": "Scene illustration — Dac City"
+    }
+  ]
+}

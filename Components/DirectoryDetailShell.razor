@@ -1,12 +1,21 @@
 <div class="directory-detail" style="--character-accent: @AccentColor">
-    <header class="directory-detail-hero">
-        <figure class="character-page-portrait-wrap directory-detail-portrait">
-            <img class="character-page-portrait"
-                 src="@HeroImagePath"
-                 alt="@HeroImageAlt"
-                 loading="lazy" />
-        </figure>
-        <div class="directory-detail-intro">
+    <header class="directory-detail-hero @(ShowPortraitHero ? null : "directory-detail-hero-banner")">
+        @if (ShowPortraitHero)
+        {
+            <figure class="character-page-portrait-wrap directory-detail-portrait">
+                <img class="character-page-portrait"
+                     src="@HeroImagePath"
+                     alt="@HeroImageAlt"
+                     loading="lazy" />
+            </figure>
+        }
+        else if (!string.IsNullOrWhiteSpace(HeroImagePath))
+        {
+            <figure class="directory-hero directory-detail-banner">
+                <img src="@HeroImagePath" alt="@HeroImageAlt" loading="lazy" />
+            </figure>
+        }
+        <div class="directory-detail-intro @(ShowPortraitHero ? null : "directory-detail-intro-full")">
             <h1>@Name</h1>
             @if (!string.IsNullOrWhiteSpace(Subtitle))
             {
@@ -150,6 +159,9 @@
 
     [Parameter]
     public string AccentColor { get; set; } = "#7eb8ff";
+
+    [Parameter]
+    public bool ShowPortraitHero { get; set; } = true;
 
     [Parameter]
     public RenderFragment? ChildContent { get; set; }

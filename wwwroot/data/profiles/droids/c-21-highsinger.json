@@ -1,0 +1,47 @@
+{
+  "overview": "C-21 Highsinger is a assassin droid built by Holowan Mechanicals, documented across Clone Wars. A modified assassin droid bounty hunter who joined Boba Fett's crew of mercenaries during the Clone Wars' shadow conflicts.",
+  "history": "C-21 Highsinger belongs to the assassin droid class manufactured by Holowan Mechanicals, one of the most recognizable automaton designs documented across galactic history. C-21 Highsinger modified his assassin chassis for bounty hunting alongside Boba Fett's crew. Holowan Mechanicals factory schematics document the assassin droid platform lineage that produced C-21 Highsinger, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat C-21 Highsinger as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced C-21 Highsinger. Excavations on Taris, Dxun, and Dromund Kaas recovered assassin droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Holowan Mechanicals subsystems, spreading design language across millennia before C-21 Highsinger rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Holowan Mechanicals subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and assassin droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, C-21 Highsinger units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. C-21 Highsinger units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Holowan Mechanicals frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Holowan Mechanicals frames. Historians studying the Sequel Era treat surviving C-21 Highsinger memory cores as primary sources on earlier conflicts.\n\nC-21 Highsinger and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, C-21 Highsinger and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of assassin droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Holowan Mechanicals automata.",
+  "significance": "Engineering analysis of C-21 Highsinger highlights why assassin droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise C-21 Highsinger's modular assassin droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Holowan Mechanicals documentation; slicers praise its predictable security flaws—both keep C-21 Highsinger relevant in scrap yards centuries later. New Republic certification boards still debate which assassin droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite C-21 Highsinger when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite C-21 Highsinger when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every assassin droid rights petition involving Holowan Mechanicals personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as C-21 Highsinger's service record. Whether C-21 Highsinger is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of C-21 Highsinger exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like C-21 Highsinger; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like C-21 Highsinger, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Holowan Mechanicals chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Joins Boba Fett's mercenary crew in Clone Wars",
+    "Modified Holowan assassin chassis for bounty work",
+    "Operates during Clone Wars shadow conflicts",
+    "Specialized in heavy weapons bounty hunting",
+    "Holowan Mechanicals assassin droid repurposed"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Boba Fett's crew",
+    "Holowan Mechanicals (origin)",
+    "Independent mercenaries",
+    "CIS (contracted occasionally)"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Highsinger enters bounty hunting"
+    },
+    {
+      "era": "Mercenary Era",
+      "event": "Joins Boba Fett's crew"
+    },
+    {
+      "era": "Shadow Conflicts",
+      "event": "Operates on Rim bounty contracts"
+    },
+    {
+      "era": "Late War",
+      "event": "Continues independent bounty work"
+    },
+    {
+      "era": "Legacy",
+      "event": "Model for assassin-to-bounty conversion"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/c-21-highsinger-scene.png",
+      "caption": "Cinematic illustration — C-21 Highsinger"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "overview": "Dagobah Swamp Hermitage is a force-strong wilderness on Dagobah, documented across Films · Clone Wars. Dagobah's fog-choked marshes hide Yoda's hut and the cave of the dark side, where Luke Skywalker confronted fear beneath gnarltree roots.",
+  "history": "Dagobah Swamp Hermitage began as a force-strong wilderness anchor on Dagobah, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Dagobah's hermitage formed where the Living Force pools so densely that technology fails and prophecy becomes tactile. Early survey maps from the Old Republic era list Dagobah Swamp Hermitage as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Dagobah Swamp Hermitage as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Dagobah Swamp Hermitage include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Ancient Sith and Jedi both avoided permanent settlement here, leaving only stone markers swallowed by vines. High Republic pathfinders logged Dagobah Swamp Hermitage as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Dagobah suggest Dagobah Swamp Hermitage once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Dagobah Swamp Hermitage expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Yoda chose exile after Order 66, living simply while Clone Wars battlefields burned across the galaxy. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Dagobah Swamp Hermitage because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Dagobah Swamp Hermitage as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nDagobah Swamp Hermitage has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Imperial probes rarely penetrate the mist; Vader's hunt for Luke nearly ended in the swamp in visions, not invasions. Clone Wars dossiers mark Dagobah Swamp Hermitage as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Dagobah Swamp Hermitage meant control of Dagobah.",
+  "significance": "The economy of Dagobah Swamp Hermitage runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. No formal economy exists—Yoda traded nothing but wisdom for rations Luke carried. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Dagobah Swamp Hermitage infrastructure during the late Republic. Post-war reconstruction funds often bypass Dagobah Swamp Hermitage officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Dagobah Swamp Hermitage mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Hermit culture on Dagobah is silence, stew, and confronting the self in Force vergence. Music, food, and festival calendars in Dagobah Swamp Hermitage are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Dagobah Swamp Hermitage back alleys.\n\nDagobah Swamp Hermitage influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Dagobah training defined Luke's path and proved a Jedi could be rebuilt outside temple walls. Scenes set in Dagobah Swamp Hermitage across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Dagobah Swamp Hermitage when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Yoda flees to Dagobah after Order 66",
+    "Luke Skywalker trains under Yoda in the swamp",
+    "Luke enters the cave of the dark side",
+    "Yoda dies and becomes one with the Force",
+    "Rey experiences vision echoes on her journey"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Yoda's exile circle",
+    "Alliance to Restore the Republic",
+    "Living Force vergence sites"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Yoda establishes hermitage"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Luke begins accelerated training"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Yoda passes into the Force"
+    },
+    {
+      "era": "New Republic",
+      "event": "Historians debate locating the site"
+    },
+    {
+      "era": "First Order",
+      "event": "Force vergence cited in Jedi revival studies"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/dagobah-swamp-hermitage.svg",
+      "caption": "Emblem — Dagobah Swamp Hermitage"
+    },
+    {
+      "path": "/images/settlements/dagobah-swamp-hermitage-scene.svg",
+      "caption": "Scene illustration — Dagobah Swamp Hermitage"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+@page "/all-force-powers"
+@using StarWars.Data
+@using StarWars.Models
+
+<PageTitle>All Force Powers</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/force-powers/force-powers-all-hero.png" alt="Light and dark side Force energy intertwined across the galaxy" loading="lazy" />
+</figure>
+
+<h1>All Force Powers</h1>
+<p class="all-planets-intro">
+    @ForcePowerData.Powers.Count abilities drawn from all nine saga films, live-action and animated series,
+    <em>Knights of the Old Republic</em>, and the ancient Sith Empire — telekinesis, battle meditation,
+    Force lightning, Sith sorcery, and the full spectrum of light-side and dark-side techniques.
+</p>
+
+<div class="force-powers-summary">
+    <a class="force-powers-side-link force-powers-side-link-light" href="all-light-side-powers">
+        <span class="force-powers-side-count">@ForcePowerData.LightSidePowers.Count</span>
+        <span>Light Side powers</span>
+    </a>
+    <a class="force-powers-side-link force-powers-side-link-dark" href="all-dark-side-powers">
+        <span class="force-powers-side-count">@ForcePowerData.DarkSidePowers.Count</span>
+        <span>Dark Side powers</span>
+    </a>
+</div>
+
+@foreach (var group in ForcePowerData.Powers.GroupBy(power => power.Category).OrderBy(group => group.Key))
+{
+    <section class="force-powers-category">
+        <h2>@group.Key</h2>
+        <div class="planet-directory-grid">
+            @foreach (var power in group.OrderBy(power => power.Name))
+            {
+                <article class="planet-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @power.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@power.Route">@power.Name</a>
+                        <p class="planet-region">@(power.Side == ForceSide.Light ? "Light Side" : "Dark Side") · @power.Difficulty</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </section>
+}

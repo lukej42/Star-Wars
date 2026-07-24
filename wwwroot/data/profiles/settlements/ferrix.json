@@ -1,0 +1,51 @@
+{
+  "overview": "Ferrix is a industrial settlement on Ferrix, documented across Andor. Ferrix is a salvage-and-commerce world whose citizens resisted Imperial corporate takeover until Cassian Andor's rebellion roots ran deep in its foundry yards.",
+  "history": "Ferrix began as a industrial settlement anchor on Ferrix, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Ferrix grew where Ferrix's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a industrial settlement that outlasted first founders. Early survey maps from the Old Republic era list Ferrix as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Ferrix as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Ferrix include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Ferrix include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Ferrix as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Ferrix suggest Ferrix once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Ferrix expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Ferrix; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Ferrix because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Ferrix as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nFerrix has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Ferrix as strategically contested on Ferrix. Clone Wars dossiers mark Ferrix as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Ferrix meant control of Ferrix.",
+  "significance": "The economy of Ferrix runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Ferrix's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Ferrix infrastructure during the late Republic. Post-war reconstruction funds often bypass Ferrix officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Ferrix mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Ferrix blend Ferrix native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Ferrix are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Ferrix back alleys.\n\nFerrix influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Ferrix altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Ferrix across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Ferrix when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Ferrix founded as industrial settlement on Ferrix",
+    "Major battle or siege recorded at Ferrix",
+    "Imperial occupation transforms Ferrix governance",
+    "Rebel or Resistance cell operates from Ferrix",
+    "New Republic era reconstruction begins at Ferrix"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Ferrix"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Ferrix joins sector trade networks on Ferrix"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Ferrix triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Ferrix"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Ferrix"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/ferrix.svg",
+      "caption": "Emblem — Ferrix"
+    },
+    {
+      "path": "/images/settlements/ferrix-scene.svg",
+      "caption": "Scene illustration — Ferrix"
+    }
+  ]
+}

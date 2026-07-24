@@ -1,0 +1,51 @@
+{
+  "overview": "Rumi Paramita is a pa'lowick bounty hunter from Lowick, documented across Clone Wars. Pa'lowick sniper in Sugi's mercenary crew killed defending Felucian farmers.",
+  "history": "Rumi Paramita rose from Lowick to become a pa'lowick bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Rumi Paramita, a Pa'lowick sniper from Lowick, joined Sugi's mercenary crew providing long-range overwatch for Felucian nerf-herder defense contracts against pirate threats. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Rumi Paramita as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Rumi Paramita's career, Lowick produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Pa'lowick musical and hunting traditions from Lowick produce sniper-specialists; Rumi represents Rim species joining multi-species mercenary crews for farmer-defense work. Old Republic bounty charters and Sith Empire mercenary rolls show how pa'lowick bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Rumi Paramita negotiate payment and honor.\n\nIn the modern era, Rumi Paramita competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Rumi's death defending Felucian farmers against Hondo Ohnaka's pirates made her Clone Wars sacrifice emblematic of hunter crews protecting Rim civilians. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Rumi Paramita. Mandalorian-era postings on Nevarro and Mos Espa show pa'lowick bounty hunter specialists remain essential to galactic order—and chaos.\n\nRumi Paramita operated in war zones where capture alive paid more than kill, and both paid more than failure. Rumi held sniper positions during Hondo's Felucia assault until overwhelming pirate numbers killed her—buying time for Embo and Sugi to organize counterattack. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of pa'lowick bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Rumi Paramita's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Rumi Paramita as a pa'lowick bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Pa'lowick sniper rifle expertise, elevated overwatch positions, and crew coordination with Embo's close combat—Rumi covers approaches while allies engage. Guild instructors use redacted mission logs from Rumi Paramita's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Rumi Paramita often know smuggler routes better than naval patrols.\n\nAmong peers, Rumi Paramita earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Felucian farmers mourned Rumi by name; Sugi's crew honored her sacrifice; Pa'lowick clans remember her farmer-defense death as honor. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Rumi Paramita that may be half true and fully instructive. Whether Rumi Paramita followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Rumi Paramita exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Rumi Paramita's Felucia death proved hunter crews could die defending Rim civilians—not just hunting for Hutt credits—shaping Sugi crew legacy. Without contractors like Rumi Paramita, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Rumi Paramita when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Joins Sugi's mercenary crew as sniper",
+    "Deploys on Felucian farmer defense",
+    "Provides overwatch against Hondo's pirates",
+    "Killed during Felucia assault",
+    "Honored as farmer-defense martyr"
+  ],
+  "affiliations": [
+    "Sugi's mercenary crew",
+    "Embo partnership (crew)",
+    "Felucian farmer clients",
+    "Pa'lowick sniper tradition",
+    "Bounty Hunters' Guild"
+  ],
+  "timeline": [
+    {
+      "era": "Lowick",
+      "event": "Pa'lowick sniper training"
+    },
+    {
+      "era": "Crew Join",
+      "event": "Sugi's mercenaries"
+    },
+    {
+      "era": "Felucia",
+      "event": "Farmer defense contract"
+    },
+    {
+      "era": "Battle",
+      "event": "Overwatch against pirates"
+    },
+    {
+      "era": "Death",
+      "event": "Falls defending farmers"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/rumi-paramita.svg",
+      "caption": "Emblem — Rumi Paramita"
+    },
+    {
+      "path": "/images/bounty-hunters/rumi-paramita-scene.svg",
+      "caption": "Scene illustration — Rumi Paramita"
+    }
+  ]
+}

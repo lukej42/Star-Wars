@@ -1,0 +1,45 @@
+{
+  "overview": "Noval Garaint is a mandalorian bounty hunter from Mandalore, documented across Legends · Guild lore. Mandalorian hunter and author of pre-Imperial guild tactical manuals still cited in hunter training academies.",
+  "history": "Noval Garaint rose from Mandalore to become a mandalorian bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Noval Garaint codified Mandalorian pursuit doctrine into hunter manuals that survived the Clone Wars, influencing Boba Fett-era guild academies on Nevarro. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Noval Garaint as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Noval Garaint's career, Mandalore produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Mandalore supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Noval Garaint posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Noval Garaint negotiate payment and honor.\n\nIn the modern era, Noval Garaint competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Noval Garaint remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Noval Garaint. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty hunter specialists remain essential to galactic order—and chaos.\n\nNoval Garaint operated in war zones where capture alive paid more than kill, and both paid more than failure. Garaint hunted Separatist agents and Rim pirates before publishing trap-setting guides that Imperial ISB later confiscated as insurgent literature. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Noval Garaint's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Noval Garaint as a mandalorian bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Mandalorian jetpack interception, manual-authored ambush geometry, beskar durability tactics, and guild curriculum design. Guild instructors use redacted mission logs from Noval Garaint's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Noval Garaint often know smuggler routes better than naval patrols.\n\nAmong peers, Noval Garaint earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Noval Garaint as a mandalorian bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Noval Garaint that may be half true and fully instructive. Whether Noval Garaint followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Noval Garaint exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Garaint's manuals appear in redacted form in Nevarro guild training—hunter historians treat them as foundational Rim enforcement theory. Without contractors like Noval Garaint, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Noval Garaint when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Active Mandalorian hunter during late Republic",
+    "Publishes guild tactical manuals",
+    "Hunts Separatist agents on the Rim",
+    "Manuals survive into Imperial era"
+  ],
+  "affiliations": [
+    "Mandalorian warrior culture",
+    "Bounty Hunters' Guild",
+    "Nevarro training academies (legacy)",
+    "Old Republic contractor rolls"
+  ],
+  "timeline": [
+    {
+      "era": "Late Republic",
+      "event": "Active hunting career"
+    },
+    {
+      "era": "Manuals",
+      "event": "Tactical doctrine published"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Confiscated literature"
+    },
+    {
+      "era": "Legacy",
+      "event": "Guild academy citations"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/noval-garaint.svg",
+      "caption": "Emblem — Noval Garaint"
+    },
+    {
+      "path": "/images/bounty-hunters/noval-garaint-scene.svg",
+      "caption": "Scene illustration — Noval Garaint"
+    }
+  ]
+}

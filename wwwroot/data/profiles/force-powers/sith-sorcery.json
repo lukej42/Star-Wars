@@ -1,0 +1,51 @@
+{
+  "overview": "Sith Sorcery is a master-level dark side technique classified under Ritual. Encompasses the deepest dark-side rituals—curses, binding spells, and reality-warping incantations passed down through Sith holocrons and tomes on Korriban. Mother Talzin and the Nightsisters practiced a Dathomirian variant of Sith sorcery that rivaled the power of the Sith Lords themselves.",
+  "history": "Force scholars trace Sith Sorcery across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Clone Wars · The Old Republic · Sith Empire · Tales of the Jedi established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Sith Sorcery into initiates as part of the standard curriculum for ritual specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Sith Sorcery alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Sith Sorcery exemplifies how ritual abilities shape Force doctrine on the dark side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Sith Sorcery could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Sith Sorcery remains a benchmark of ritual proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Sith Sorcery in Galactic Civil War conflicts",
+    "Standardised in Ritual curricula of the Sith academies",
+    "Featured prominently in media: Clone Wars · The Old Republic · Sith Empire · Tales of the J…",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Sith Sorcery altered galactic history"
+  ],
+  "affiliations": [
+    "Ancient Sith",
+    "Sith Emperor Vitiate",
+    "Sith alchemists",
+    "Nightsisters"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Civil War",
+      "event": "First major documented use of Sith Sorcery in Galactic Civil War conflicts"
+    },
+    {
+      "era": "New Republic",
+      "event": "Standardised in Ritual curricula of the Sith academies"
+    },
+    {
+      "era": "Sequel Era",
+      "event": "Featured prominently in media: Clone Wars · The Old Republic · Sith Empire · Tales of the J…"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/sith-sorcery.svg",
+      "caption": "Emblem — Sith Sorcery"
+    },
+    {
+      "path": "/images/force-powers/sith-sorcery-scene.svg",
+      "caption": "Scene illustration — Sith Sorcery"
+    }
+  ]
+}

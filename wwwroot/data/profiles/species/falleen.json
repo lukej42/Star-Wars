@@ -1,0 +1,49 @@
+{
+  "overview": "Falleen (Reptilian humanoid) is native to Falleen and ranks among the most consequential species in galactic history. Falleen nobles control banking and black markets from jungle palaces where pheromonal control lets them manipulate crowds. Prince Xizor's Black Sun syndicate epitomized Falleen ambition beneath a reptilian elegance that survived Imperial scrutiny.",
+  "history": "The Falleen (reptilian humanoid) trace their deepest roots to Falleen, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Falleen and Jedi Archaeological surveys confirm Falleen civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Falleen populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Falleen history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Falleen societies on Falleen established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Falleen polities traded with Core Founders and Sith Empire emissaries; ruins on Falleen still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Falleen identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Falleen delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Falleen diaspora communities appeared on every major trade lane and war front. Modern Falleen appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Prince Xizor remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Falleen networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Falleen migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nFalleen fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Falleen fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Falleen's terrain and reptilian humanoid biology. KOTOR and KOTOR II document Falleen involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Falleen leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Falleen display traits typical of reptilian humanoid life adapted to Falleen's gravity, atmosphere, and seasonal extremes. pheromonal influence and scaled epidermis. Republic medics and Imperial biometrics both document Falleen resilience under occupation, exile, and frontline trauma. Medics note that Falleen physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Falleen resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nFalleen culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. river-jungle palace estates. Falleen diaspora communities preserve homeworld ritual even when Falleen itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Falleen spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Falleen communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Falleen exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Falleen merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Falleen innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Falleen choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Black Sun rises under Falleen leadership",
+    "Falleen pheromone incidents banned on Coruscant",
+    "Imperial Intelligence monitors Falleen cartels"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Falleen governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Falleen consolidate early civilization on Falleen"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Falleen join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Falleen factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Falleen identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Falleen political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/falleen.svg",
+      "caption": "Emblem — Falleen"
+    },
+    {
+      "path": "/images/species/falleen-scene.svg",
+      "caption": "Scene illustration — Falleen"
+    }
+  ]
+}

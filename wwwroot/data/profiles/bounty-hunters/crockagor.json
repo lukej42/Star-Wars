@@ -1,0 +1,45 @@
+{
+  "overview": "Crockagor is a gamorrean bounty hunter from Gamorr, documented across Expanded lore · Hutt contracts. Gamorrean enforcer-hunter who sold brute capture services to Hutt courts that valued intimidation over finesse.",
+  "history": "Crockagor rose from Gamorr to become a gamorrean bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Crockagor left Gamorr's clan wars for Hutt court muscle work, translating Gamorrean brutality into live-capture contracts for debtors and rival capos. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Crockagor as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Crockagor's career, Gamorr produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Gamorr supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Crockagor posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how gamorrean bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Crockagor negotiate payment and honor.\n\nIn the modern era, Crockagor competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Crockagor remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Crockagor. Mandalorian-era postings on Nevarro and Mos Espa show gamorrean bounty hunter specialists remain essential to galactic order—and chaos.\n\nCrockagor operated in war zones where capture alive paid more than kill, and both paid more than failure. Crockagor guarded Hutt palaces by day and hunted escapees by night, making Gamorrean hunters visible in kajidic enforcement. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of gamorrean bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Crockagor's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Crockagor as a gamorrean bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Gamorrean vibro-axe work, palace intimidation, debtor capture, and Hutt court standby enforcement. Guild instructors use redacted mission logs from Crockagor's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Crockagor often know smuggler routes better than naval patrols.\n\nAmong peers, Crockagor earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Crockagor as a gamorrean bounty hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Crockagor that may be half true and fully instructive. Whether Crockagor followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Crockagor exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Crockagor's captures and eliminations shifted local power wherever Gamorr expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Crockagor, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Crockagor when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Gamorr clan war veteran",
+    "Hutt court enforcer recruitment",
+    "Debtor capture contracts",
+    "Palace and pursuit dual role"
+  ],
+  "affiliations": [
+    "Gamorr clans",
+    "Hutt Cartel courts",
+    "Bounty Hunters' Guild",
+    "Tatooine kajidic enforcement"
+  ],
+  "timeline": [
+    {
+      "era": "Gamorr",
+      "event": "Clan wars"
+    },
+    {
+      "era": "Hutt Courts",
+      "event": "Enforcer recruitment"
+    },
+    {
+      "era": "Capture Work",
+      "event": "Debtor hunts"
+    },
+    {
+      "era": "Legacy",
+      "event": "Gamorrean hunter icon"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/crockagor.svg",
+      "caption": "Emblem — Crockagor"
+    },
+    {
+      "path": "/images/bounty-hunters/crockagor-scene.svg",
+      "caption": "Scene illustration — Crockagor"
+    }
+  ]
+}

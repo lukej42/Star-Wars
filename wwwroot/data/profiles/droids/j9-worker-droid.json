@@ -1,0 +1,47 @@
+{
+  "overview": "J9 Worker Droid is a worker droid built by Publictechnic, documented across Prequel Trilogy · Clone Wars. Worker droids with boxy frames used in Coruscant underlevels, Separatist factories, and Rim maintenance crews.",
+  "history": "J9 Worker Droid belongs to the worker droid class manufactured by Publictechnic, one of the most recognizable automaton designs documented across galactic history. J9 worker droids perform maintenance in Coruscant underlevels and factory complexes. Publictechnic factory schematics document the worker droid platform lineage that produced J9 Worker Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat J9 Worker Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced J9 Worker Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered worker droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Publictechnic subsystems, spreading design language across millennia before J9 Worker Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Publictechnic subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and worker droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, J9 Worker Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. J9 Worker Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Publictechnic frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Publictechnic frames. Historians studying the Sequel Era treat surviving J9 Worker Droid memory cores as primary sources on earlier conflicts.\n\nJ9 Worker Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, J9 Worker Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of worker droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Publictechnic automata.",
+  "significance": "Engineering analysis of J9 Worker Droid highlights why worker droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise J9 Worker Droid's modular worker droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Publictechnic documentation; slicers praise its predictable security flaws—both keep J9 Worker Droid relevant in scrap yards centuries later. New Republic certification boards still debate which worker droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite J9 Worker Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite J9 Worker Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every worker droid rights petition involving Publictechnic personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as J9 Worker Droid's service record. Whether J9 Worker Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of J9 Worker Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like J9 Worker Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like J9 Worker Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Publictechnic chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Maintains Coruscant underlevel infrastructure",
+    "Separatist factory maintenance crews",
+    "Boxy frame designed for cramped spaces",
+    "Publictechnic urban worker platform",
+    "Standard Rim world maintenance droid"
+  ],
+  "affiliations": [
+    "Publictechnic",
+    "Galactic Republic",
+    "Confederacy of Independent Systems",
+    "Coruscant underlevels",
+    "Outer Rim colonies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "J9 worker enters urban maintenance market"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Used in both Republic and CIS facilities"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Coruscant underlevel maintenance"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Rim colony standard worker"
+    },
+    {
+      "era": "Modern Era",
+      "event": "Still produced for frontier worlds"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/j9-worker-droid-scene.png",
+      "caption": "Cinematic illustration — J9 Worker Droid"
+    }
+  ]
+}

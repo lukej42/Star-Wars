@@ -1,0 +1,60 @@
+@page "/settlements/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+
+<PageTitle>@(settlement?.Name ?? "Settlement")</PageTitle>
+
+@if (settlement is null)
+{
+    <h1>Settlement not found</h1>
+    <p>Sorry, there are no records for this city or settlement.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading settlement records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@settlement.Name"
+                          HeroImagePath="@settlement.SceneImagePath"
+                          HeroImageAlt="@($"Illustration of {settlement.Name}")"
+                          Subtitle="@($"{settlement.SettlementType} · {settlement.Planet}")"
+                          MetaLine="@($"Sources: {settlement.Sources}")"
+                          OverviewText="@(profile?.Overview ?? settlement.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Culture and strategic importance"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@settlement.Color">
+        <a href="all-cities-settlements">Back to all cities &amp; settlements</a>
+    </DirectoryDetailShell>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private Settlement? settlement;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        settlement = SettlementData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+
+        if (settlement is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("settlements", settlement.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

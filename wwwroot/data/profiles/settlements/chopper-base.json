@@ -1,0 +1,51 @@
+{
+  "overview": "Chopper Base is a rebel hidden base on Atollon, documented across Rebels. Chopper Base on Atollon sheltered Phoenix Squadron until Grand Admiral Thrawn's orbital bombardment forced relocation to Yavin.",
+  "history": "Chopper Base began as a rebel hidden base anchor on Atollon, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Chopper Base grew where Atollon's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a rebel hidden base that outlasted first founders. Early survey maps from the Old Republic era list Chopper Base as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Chopper Base as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Chopper Base include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Chopper Base include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Chopper Base as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Atollon suggest Chopper Base once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Chopper Base expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Chopper Base; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Chopper Base because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Chopper Base as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nChopper Base has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Chopper Base as strategically contested on Atollon. Clone Wars dossiers mark Chopper Base as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Chopper Base meant control of Atollon.",
+  "significance": "The economy of Chopper Base runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Chopper Base's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Chopper Base infrastructure during the late Republic. Post-war reconstruction funds often bypass Chopper Base officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Chopper Base mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Chopper Base blend Atollon native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Chopper Base are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Chopper Base back alleys.\n\nChopper Base influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Chopper Base altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Chopper Base across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Chopper Base when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Chopper Base founded as rebel hidden base on Atollon",
+    "Major battle or siege recorded at Chopper Base",
+    "Imperial occupation transforms Chopper Base governance",
+    "Rebel or Resistance cell operates from Chopper Base",
+    "New Republic era reconstruction begins at Chopper Base"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Chopper Base"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Chopper Base joins sector trade networks on Atollon"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Chopper Base triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Chopper Base"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Chopper Base"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/chopper-base.svg",
+      "caption": "Emblem — Chopper Base"
+    },
+    {
+      "path": "/images/settlements/chopper-base-scene.svg",
+      "caption": "Scene illustration — Chopper Base"
+    }
+  ]
+}

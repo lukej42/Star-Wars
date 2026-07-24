@@ -1,0 +1,34 @@
+@page "/all-droids"
+@using StarWars.Data
+
+<PageTitle>All Droids</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/droids/droids-directory-hero.png" alt="A vast droid factory and hangar bay with assembly lines glowing under teal factory lights" loading="lazy" />
+</figure>
+
+<h1>All Droids</h1>
+<p class="all-planets-intro">
+    @DroidData.Droids.Count droids and automata from all nine saga films, live-action and animated series,
+    <em>Knights of the Old Republic</em>, and the ancient Sith Empire — astromechs, battle droids, assassin units,
+    and protocol frames that shaped galactic history.
+</p>
+
+@foreach (var group in DroidData.Droids.GroupBy(droid => droid.DroidType).OrderBy(group => group.Key))
+{
+    <section class="force-powers-category">
+        <h2>@group.Key</h2>
+        <div class="planet-directory-grid droid-directory-grid">
+            @foreach (var droid in group.OrderBy(droid => droid.Name))
+            {
+                <article class="planet-directory-card droid-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @droid.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@droid.Route">@droid.Name</a>
+                        <p class="planet-region droid-directory-manufacturer">@droid.Manufacturer</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </section>
+}

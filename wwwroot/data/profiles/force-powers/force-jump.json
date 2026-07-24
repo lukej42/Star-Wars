@@ -1,0 +1,48 @@
+{
+  "overview": "Force Jump is a novice-level light side technique classified under Physical. Enhances leg strength to achieve extraordinary leaps, allowing Jedi to reach high platforms, cross gaps, and gain tactical elevation in combat. From Yoda's acrobatic duels to Luke's training on Dagobah, Force jump is among the most visible expressions of a Jedi's power.",
+  "history": "Force scholars trace Force Jump across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in Films · Empire Strikes Back · Attack of the Clones · Clone Wars · Rebels established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Jump into initiates as part of the standard curriculum for physical specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Jump alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Force Jump exemplifies how physical abilities shape Force doctrine on the light side. At novice mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Jump could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Jump remains a benchmark of physical proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Jump in Old Republic conflicts",
+    "Standardised in Physical curricula of the Jedi academies",
+    "Featured prominently in media: Films · Empire Strikes Back · Attack of the Clones · Clone W…",
+    "Requires Novice training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major documented use of Force Jump in Old Republic conflicts"
+    },
+    {
+      "era": "High Republic",
+      "event": "Standardised in Physical curricula of the Jedi academies"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Featured prominently in media: Films · Empire Strikes Back · Attack of the Clones · Clone W…"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Requires Novice training minimum before field deployment"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-jump.svg",
+      "caption": "Emblem — Force Jump"
+    },
+    {
+      "path": "/images/force-powers/force-jump-scene.svg",
+      "caption": "Scene illustration — Force Jump"
+    }
+  ]
+}

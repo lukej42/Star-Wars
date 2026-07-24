@@ -1,0 +1,51 @@
+{
+  "overview": "Bilbousa is a hutt swamp capital on Nal Hutta, documented across Films · Clone Wars · The Book of Boba Fett. Bilbousa sprawls through Nal Hutta's toxic bogs as the Hutt Council's palace district, where kajidics feud under gilded domes and perpetual smog.",
+  "history": "Bilbousa began as a hutt swamp capital anchor on Nal Hutta, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Bilbousa grew when Hutts relocated from Varl, converting swamp into fortified pleasure palaces and slave markets. Early survey maps from the Old Republic era list Bilbousa as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Bilbousa as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Bilbousa include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic pylons beneath Bilbousa suggest Rakatan influence on early Hutt hyperdrive acquisition. High Republic pathfinders logged Bilbousa as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Nal Hutta suggest Bilbousa once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Bilbousa expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Jabba's empire, the Shadow Collective, and Pyke syndicate all negotiated in Bilbousa halls. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Bilbousa because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Bilbousa as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nBilbousa has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Republic raids rarely penetrate; Imperial treaties left Hutts autonomous in exchange for stability. Clone Wars dossiers mark Bilbousa as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Bilbousa meant control of Nal Hutta.",
+  "significance": "The economy of Bilbousa runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Spice, slaves, gambling, and mercenary contracts circulate through Bilbousa's shadow banks. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Bilbousa infrastructure during the late Republic. Post-war reconstruction funds often bypass Bilbousa officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Bilbousa mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Hutt Ruling Council ritual combines gluttony, vengeance, and elaborate extortion codes. Music, food, and festival calendars in Bilbousa are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Bilbousa back alleys.\n\nBilbousa influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Decisions in Bilbousa ripple to Tatooine, Nar Shaddaa, and every Rim shadow port. Scenes set in Bilbousa across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Bilbousa when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Hutt Cartel consolidates on Nal Hutta",
+    "Jabba dominates outer Rim operations from Bilbousa influence",
+    "Shadow Collective under Maul challenges traditional kajidics",
+    "Pyke syndicate negotiates spice routes",
+    "New Republic struggles to prosecute Hutt crime lords"
+  ],
+  "affiliations": [
+    "Hutt Cartel",
+    "Hutt Ruling Council",
+    "Pyke Syndicate",
+    "Black Sun (historical)",
+    "Criminal guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Hutt migration to Nal Hutta"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Bilbousa becomes administrative capital"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Cartel plays Republic and Separatists"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Treaty autonomy preserved"
+    },
+    {
+      "era": "New Republic",
+      "event": "Anti-Hutt prosecutions intensify"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/bilbousa.svg",
+      "caption": "Emblem — Bilbousa"
+    },
+    {
+      "path": "/images/settlements/bilbousa-scene.svg",
+      "caption": "Scene illustration — Bilbousa"
+    }
+  ]
+}

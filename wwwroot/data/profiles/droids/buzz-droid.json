@@ -1,0 +1,47 @@
+{
+  "overview": "Buzz Droid is a sabotage droid built by Colicoid Creation Nest, documented across Revenge of the Sith · Clone Wars. Pistoeka sabotage droids deployed from vulture droid missiles to chew through starfighter hulls—notably crippling Anakin's interceptor during the Battle of Coruscant.",
+  "history": "Buzz Droid belongs to the sabotage droid class manufactured by Colicoid Creation Nest, one of the most recognizable automaton designs documented across galactic history. Buzz droids latch onto hulls with cutting tools, disabling fighters during critical fleet engagements. Colicoid Creation Nest factory schematics document the sabotage droid platform lineage that produced Buzz Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Buzz Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Buzz Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered sabotage droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Colicoid Creation Nest subsystems, spreading design language across millennia before Buzz Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Colicoid Creation Nest subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and sabotage droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Buzz Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Buzz Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Colicoid Creation Nest frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Colicoid Creation Nest frames. Historians studying the Sequel Era treat surviving Buzz Droid memory cores as primary sources on earlier conflicts.\n\nBuzz Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Buzz Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of sabotage droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Colicoid Creation Nest automata.",
+  "significance": "Engineering analysis of Buzz Droid highlights why sabotage droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Buzz Droid's modular sabotage droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Colicoid Creation Nest documentation; slicers praise its predictable security flaws—both keep Buzz Droid relevant in scrap yards centuries later. New Republic certification boards still debate which sabotage droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Buzz Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Buzz Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every sabotage droid rights petition involving Colicoid Creation Nest personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Buzz Droid's service record. Whether Buzz Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Buzz Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Buzz Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Buzz Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Colicoid Creation Nest chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Deployed from vulture droid missiles at Coruscant",
+    "Cripples Anakin's interceptor mid-battle",
+    "R2-D2 fights buzz droids aboard Jedi starfighter",
+    "Used in Separatist anti-starfighter doctrine",
+    "Colicoid design emphasizes asymmetric hull damage"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Colicoid Creation Nest",
+    "Separatist Navy",
+    "Haor Chall Engineering",
+    "General Grievous's fleet"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Pistoeka sabotage droid development"
+    },
+    {
+      "era": "Coruscant Siege",
+      "event": "Missile-deployed buzz droids swarm Jedi fighters"
+    },
+    {
+      "era": "Late War",
+      "event": "Standard Separatist anti-fighter tactic"
+    },
+    {
+      "era": "War's End",
+      "event": "Production ceases with CIS collapse"
+    },
+    {
+      "era": "Legacy",
+      "event": "Design copied by pirate saboteurs"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/buzz-droid-scene.png",
+      "caption": "Cinematic illustration — Buzz Droid"
+    }
+  ]
+}

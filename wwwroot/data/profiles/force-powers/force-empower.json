@@ -1,0 +1,49 @@
+{
+  "overview": "Force Empower is a adept-level light side technique classified under Support. Temporarily amplifies an ally's physical strength, speed, or Force sensitivity through a direct transfer of the wielder's own energy. Masters used empowerment to enable padawans to overcome obstacles that would otherwise exceed their training.",
+  "history": "Force scholars trace Force Empower across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR · Clone Wars · High Republic · The Old Republic established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Empower into initiates as part of the standard curriculum for support specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Empower alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe Jedi teach that this ability must serve life, consent, and the greater good — never domination or fear.",
+  "significance": "Force Empower exemplifies how support abilities shape Force doctrine on the light side. At adept mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Empower could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Empower remains a benchmark of support proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Empower in Sequel Era conflicts",
+    "Standardised in Support curricula of the Jedi academies",
+    "Featured prominently in media: KOTOR · Clone Wars · High Republic · The Old Republic",
+    "Requires Adept training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Force-sensitive traditions",
+    "Old Republic Force-users"
+  ],
+  "timeline": [
+    {
+      "era": "Sequel Era",
+      "event": "First major documented use of Force Empower in Sequel Era conflicts"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Standardised in Support curricula of the Jedi academies"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Featured prominently in media: KOTOR · Clone Wars · High Republic · The Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Requires Adept training minimum before field deployment"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-empower.svg",
+      "caption": "Emblem — Force Empower"
+    },
+    {
+      "path": "/images/force-powers/force-empower-scene.svg",
+      "caption": "Scene illustration — Force Empower"
+    }
+  ]
+}

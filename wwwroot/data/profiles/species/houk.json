@@ -1,0 +1,49 @@
+{
+  "overview": "Houk (Humanoid mammal) is native to L'huguen'ok and ranks among the most consequential species in galactic history. Houk are bulky, wrinkled mercenaries from L'huguen'ok prized as enforcers in Hutt courts and Rim guild wars since the Old Republic era.",
+  "history": "The Houk (humanoid mammal) trace their deepest roots to L'huguen'ok, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on L'huguen'ok and Jedi Archaeological surveys confirm Houk civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Houk populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Houk history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Houk societies on L'huguen'ok established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Houk polities traded with Core Founders and Sith Empire emissaries; ruins on L'huguen'ok still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Houk identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Houk delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Houk diaspora communities appeared on every major trade lane and war front. Modern Houk appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Houk mercenary bands remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Houk networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Houk migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nHouk fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Houk fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by L'huguen'ok's terrain and humanoid mammal biology. KOTOR and KOTOR II document Houk involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Houk leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Houk display traits typical of humanoid mammal life adapted to L'huguen'ok's gravity, atmosphere, and seasonal extremes. thick hide and pain tolerance. Republic medics and Imperial biometrics both document Houk resilience under occupation, exile, and frontline trauma. Medics note that Houk physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Houk resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nHouk culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. guild-hall fortress worlds. Houk diaspora communities preserve homeworld ritual even when L'huguen'ok itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Houk spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Houk communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Houk exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Houk merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Houk innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Houk choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Houk enforcers guard Hutt kajidic palaces",
+    "Guild wars on Nar Shaddaa employ Houk muscle",
+    "Republic bounty lists target Houk warlords"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "L'huguen'ok governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Houk consolidate early civilization on L'huguen'ok"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Houk join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Houk factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Houk identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Houk political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/houk.svg",
+      "caption": "Emblem — Houk"
+    },
+    {
+      "path": "/images/species/houk-scene.svg",
+      "caption": "Scene illustration — Houk"
+    }
+  ]
+}

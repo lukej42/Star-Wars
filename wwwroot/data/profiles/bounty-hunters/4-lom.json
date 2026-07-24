@@ -1,0 +1,52 @@
+{
+  "overview": "4-LOM is a protocol droid bounty hunter from Lom (modified Nar Shaddaa), documented across Empire Strikes Back · comics. Glitching protocol droid rewired for hunting; partnered with Zuckuss on the Mist Hunter.",
+  "history": "4-LOM rose from Lom (modified Nar Shaddaa) to become a protocol droid bounty hunter whose name appears on guild boards from the Core to the Outer Rim. A protocol droid logic glitch on Nar Shaddaa led thieves to rewire 4-LOM into a hunter-killer abandoning translation for tracking algorithms aboard the Mist Hunter. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document 4-LOM as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before 4-LOM's career, Lom (modified Nar Shaddaa) produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Nar Shaddaa droid modification shops turned service units into hunters for centuries; KOTOR Exchange records document protocol droids repurposed as assassins. Old Republic bounty charters and Sith Empire mercenary rolls show how protocol droid bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like 4-LOM negotiate payment and honor.\n\nIn the modern era, 4-LOM competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. 4-LOM and Zuckuss remained the Empire's reliable droid-organic pair through the Falcon hunt; guild archives list them beside Boba Fett contracts. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to 4-LOM. Mandalorian-era postings on Nevarro and Mos Espa show protocol droid bounty hunter specialists remain essential to galactic order—and chaos.\n\n4-LOM operated in war zones where capture alive paid more than kill, and both paid more than failure. 4-LOM served on Vader's Executor, hunted the Falcon to Bespin, and operated in Hutt space where droid hunters faced fewer Core-world restrictions. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of protocol droid bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear 4-LOM's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify 4-LOM as a protocol droid bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Infrared sensors, concussion rifle mods, and paired operations with Zuckuss's findsman intuition—4-LOM compensates lacking instinct with data analysis. Guild instructors use redacted mission logs from 4-LOM's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like 4-LOM often know smuggler routes better than naval patrols.\n\nAmong peers, 4-LOM earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Mocked until Vader's roster inclusion; the 4-LOM/Zuckuss partnership became guild curriculum for unlikely hunter pairings. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about 4-LOM that may be half true and fully instructive. Whether 4-LOM followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of 4-LOM exceeds credit totals: key captures, assassinations, and rescues altered the timeline. 4-LOM proved rewired service droids compete with elite organic hunters—a precedent influencing IG-11 and Q9-0 contracts. Without contractors like 4-LOM, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite 4-LOM when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Logic glitch leads to Nar Shaddaa rewiring",
+    "Partners with Zuckuss on Mist Hunter",
+    "Joins Vader's Executor roster",
+    "Tracks Falcon to Bespin",
+    "Droid-organic team model survives"
+  ],
+  "affiliations": [
+    "Zuckuss partnership",
+    "Mist Hunter crew",
+    "Darth Vader's hunter roster",
+    "Bounty Hunters' Guild",
+    "Nar Shaddaa droid modifiers",
+    "Hutt Cartel (contracted)"
+  ],
+  "timeline": [
+    {
+      "era": "Nar Shaddaa",
+      "event": "Rewired for hunting"
+    },
+    {
+      "era": "Partnership",
+      "event": "Teams with Zuckuss"
+    },
+    {
+      "era": "Executor",
+      "event": "Falcon hunt"
+    },
+    {
+      "era": "Bespin",
+      "event": "Cloud City pursuit"
+    },
+    {
+      "era": "Legacy",
+      "event": "Droid pair archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/4-lom.svg",
+      "caption": "Emblem — 4-LOM"
+    },
+    {
+      "path": "/images/bounty-hunters/4-lom-scene.svg",
+      "caption": "Scene illustration — 4-LOM"
+    }
+  ]
+}

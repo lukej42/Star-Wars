@@ -1,0 +1,47 @@
+{
+  "overview": "Hailfire Droid is a artillery droid built by Haor Chall Engineering, documented across Attack of the Clones · Clone Wars. Twin-wheel missile platforms that devastated Naboo resistance and Clone Wars armor columns with long-range rocket barrages before close-in defense became their weakness.",
+  "history": "Hailfire Droid belongs to the artillery droid class manufactured by Haor Chall Engineering, one of the most recognizable automaton designs documented across galactic history. Hailfire droids carry dozens of missiles on twin wheel chassis for mobile artillery bombardment. Haor Chall Engineering factory schematics document the artillery droid platform lineage that produced Hailfire Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Hailfire Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Hailfire Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered artillery droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Haor Chall Engineering subsystems, spreading design language across millennia before Hailfire Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Haor Chall Engineering subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and artillery droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Hailfire Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Hailfire Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Haor Chall Engineering frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Haor Chall Engineering frames. Historians studying the Sequel Era treat surviving Hailfire Droid memory cores as primary sources on earlier conflicts.\n\nHailfire Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Hailfire Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of artillery droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Haor Chall Engineering automata.",
+  "significance": "Engineering analysis of Hailfire Droid highlights why artillery droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Hailfire Droid's modular artillery droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Haor Chall Engineering documentation; slicers praise its predictable security flaws—both keep Hailfire Droid relevant in scrap yards centuries later. New Republic certification boards still debate which artillery droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Hailfire Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Hailfire Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every artillery droid rights petition involving Haor Chall Engineering personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Hailfire Droid's service record. Whether Hailfire Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Hailfire Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Hailfire Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Hailfire Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Haor Chall Engineering chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Devastates Naboo resistance during Trade Federation era",
+    "Long-range missile barrages on Clone Wars fronts",
+    "Vulnerable once missile racks are depleted",
+    "Deployed on Geonosis and Ryloth campaigns",
+    "Haor Chall engineering prioritizes firepower over armor"
+  ],
+  "affiliations": [
+    "Trade Federation",
+    "Confederacy of Independent Systems",
+    "Haor Chall Engineering",
+    "Separatist ground forces",
+    "Naboo invasion force"
+  ],
+  "timeline": [
+    {
+      "era": "Naboo Era",
+      "event": "Hailfire droids support invasion force"
+    },
+    {
+      "era": "Geonosis",
+      "event": "Artillery support for droid army"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Mobile missile platforms across Rim"
+    },
+    {
+      "era": "Late War",
+      "event": "Less common as tactics evolve"
+    },
+    {
+      "era": "Post-War",
+      "event": "Units scrapped or museum pieces"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/hailfire-droid-scene.png",
+      "caption": "Cinematic illustration — Hailfire Droid"
+    }
+  ]
+}

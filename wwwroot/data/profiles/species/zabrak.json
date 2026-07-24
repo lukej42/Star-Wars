@@ -1,0 +1,51 @@
+{
+  "overview": "Zabrak (Humanoid mammal) is native to Iridonia and ranks among the most consequential species in galactic history. Zabrak are near-humans known for cranial horns, facial tattoos, and fierce cultural pride forged on Iridonia's rugged continents. Dathomirian Zabrak subgroups produced Sith acolytes and Nightbrother warriors whose reputations echo across Sith history.",
+  "history": "The Zabrak (humanoid mammal) trace their deepest roots to Iridonia, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Zabrak evolutionary history on Iridonia intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Zabrak populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Zabrak history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Zabrak societies on Iridonia established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Zabrak polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Iridonia ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Zabrak identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Zabrak delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Zabrak diaspora communities appeared on every major trade lane and war front. Modern Zabrak diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Zabrak networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Zabrak migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nZabrak fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Zabrak veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Iridonia's geography. KOTOR and KOTOR II document Zabrak involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Zabrak leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Zabrak display traits typical of humanoid mammal life adapted to Iridonia's gravity, atmosphere, and seasonal extremes. Zabrak physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Zabrak physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Zabrak resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nZabrak culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Zabrak rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Iridonia accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Zabrak spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Zabrak communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Zabrak exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Zabrak merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Zabrak innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Zabrak choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Zabrak homeworld first mapped by Republic surveyors",
+    "Notable Zabrak leaders emerge during Clone Wars",
+    "Zabrak communities resist Imperial occupation policies",
+    "KOTOR-era Zabrak figures influence Jedi Civil War",
+    "New Republic restores Zabrak representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Iridonia governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Zabrak civilization consolidates on Iridonia"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Zabrak join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Zabrak factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Zabrak identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Zabrak"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/zabrak.svg",
+      "caption": "Emblem — Zabrak"
+    },
+    {
+      "path": "/images/species/zabrak-scene.svg",
+      "caption": "Scene illustration — Zabrak"
+    }
+  ]
+}

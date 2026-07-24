@@ -1,0 +1,51 @@
+{
+  "overview": "Lothal Capital City is a planetary capital on Lothal, documented across Rebels · Ahsoka. Capital City on Lothal housed Imperial occupation headquarters until the Spectre cell liberated the world in a coordinated ground and space assault.",
+  "history": "Lothal Capital City began as a planetary capital anchor on Lothal, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Lothal Capital City grew where Lothal's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a planetary capital that outlasted first founders. Early survey maps from the Old Republic era list Lothal Capital City as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Lothal Capital City as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Lothal Capital City include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Lothal Capital City include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Lothal Capital City as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Lothal suggest Lothal Capital City once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Lothal Capital City expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Lothal Capital City; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Lothal Capital City because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Lothal Capital City as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nLothal Capital City has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Lothal Capital City as strategically contested on Lothal. Clone Wars dossiers mark Lothal Capital City as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Lothal Capital City meant control of Lothal.",
+  "significance": "The economy of Lothal Capital City runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Lothal Capital City's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Lothal Capital City infrastructure during the late Republic. Post-war reconstruction funds often bypass Lothal Capital City officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Lothal Capital City mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Lothal Capital City blend Lothal native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Lothal Capital City are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Lothal Capital City back alleys.\n\nLothal Capital City influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Lothal Capital City altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Lothal Capital City across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Lothal Capital City when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Lothal Capital City founded as planetary capital on Lothal",
+    "Major battle or siege recorded at Lothal Capital City",
+    "Imperial occupation transforms Lothal Capital City governance",
+    "Rebel or Resistance cell operates from Lothal Capital City",
+    "New Republic era reconstruction begins at Lothal Capital City"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Lothal Capital City"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Lothal Capital City joins sector trade networks on Lothal"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Lothal Capital City triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Lothal Capital City"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Lothal Capital City"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/lothal-capital-city.svg",
+      "caption": "Emblem — Lothal Capital City"
+    },
+    {
+      "path": "/images/settlements/lothal-capital-city-scene.svg",
+      "caption": "Scene illustration — Lothal Capital City"
+    }
+  ]
+}

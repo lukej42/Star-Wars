@@ -1,0 +1,51 @@
+{
+  "overview": "Force Corruption is a master-level dark side technique classified under Ritual. Taints places, objects, and living beings with concentrated dark-side energy over time, transforming verdant worlds into lifeless wastelands and holocrons into vessels of malevolence. Korriban, Malachor, and Exegol all bear the scars of centuries of Force corruption.",
+  "history": "Force scholars trace Force Corruption across eras recorded in holocrons, Jedi Archives data-tapes, and Sith tombs on Korriban and Dromund Kaas. Practitioners documented in KOTOR II · The Old Republic · Sith Empire · Films · Rise of Skywalker established the modern understanding of how this ability manifests in combat, meditation, and ritual.\n\nDuring the Old Republic and Sith Empire conflicts, masters drilled Force Corruption into initiates as part of the standard curriculum for ritual specialisation. Surviving battle logs from the Clone Wars and Galactic Civil War show the technique adapted to blaster-era warfare, starfighter engagements, and close-quarters lightsaber duels.\n\nIn the sequel era, surviving texts and oral traditions kept knowledge of Force Corruption alive even as the Jedi Temple fell and the Sith assumed new forms. Each generation reinterpreted the power through its own doctrine while the underlying Force mechanism — channelled midi-chlorian symbiosis and focused will — remained constant.\n\nThe dark side amplifies this power through passion, anger, and the will to dominate — at the cost of corruption and suffering.",
+  "significance": "Force Corruption exemplifies how ritual abilities shape Force doctrine on the dark side. At master mastery, users balance raw potential against discipline, emotional control, and the moral weight of their choices.\n\nHistorians note that armies and orders rose or fell partly on how widely and wisely this technique was taught. A single master of Force Corruption could turn a skirmish, break a siege, or unravel an enemy's will before blades crossed.\n\nFor students today — in academies, hidden enclaves, or alone with ancient texts — Force Corruption remains a benchmark of ritual proficiency across the Star Wars saga.",
+  "notableEvents": [
+    "First major documented use of Force Corruption in Ancient Era conflicts",
+    "Standardised in Ritual curricula of the Sith academies",
+    "Featured prominently in media: KOTOR II · The Old Republic · Sith Empire · Films · Rise of …",
+    "Requires Master training minimum before field deployment",
+    "Countermeasures developed by rival Force traditions and ysalamiri research",
+    "Grand Master–level demonstrations of Force Corruption altered galactic history"
+  ],
+  "affiliations": [
+    "Ancient Sith",
+    "Sith Emperor Vitiate",
+    "Sith alchemists",
+    "Nightsisters"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "First major documented use of Force Corruption in Ancient Era conflicts"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Standardised in Ritual curricula of the Sith academies"
+    },
+    {
+      "era": "High Republic",
+      "event": "Featured prominently in media: KOTOR II · The Old Republic · Sith Empire · Films · Rise of …"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Requires Master training minimum before field deployment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Countermeasures developed by rival Force traditions and ysalamiri research"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/force-powers/force-corruption.svg",
+      "caption": "Emblem — Force Corruption"
+    },
+    {
+      "path": "/images/force-powers/force-corruption-scene.svg",
+      "caption": "Scene illustration — Force Corruption"
+    }
+  ]
+}

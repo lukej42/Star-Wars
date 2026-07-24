@@ -1,0 +1,52 @@
+{
+  "overview": "Aurra Sing is a jedi-hunter assassin from Nar Shaddaa, documented across Phantom Menace · Clone Wars. Pale sniper with antenna rig who mentored young Boba Fett and sold Jedi kills during the Clone Wars.",
+  "history": "Aurra Sing rose from Nar Shaddaa to become a jedi-hunter assassin whose name appears on guild boards from the Core to the Outer Rim. Abducted from Nar Shaddaa as a child and subjected to Jedi experiments leaving her pale and antenna-equipped, Aurra Sing built a career selling Jedi deaths to Separatist paymasters. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Aurra Sing as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Aurra Sing's career, Nar Shaddaa produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Nar Shaddaa's Force-sensitive orphan trade predates Aurra; Sith Empire Dromund Kaas rolls document abduction-to-assassin pipelines producing Jedi-hunting specialists. Old Republic bounty charters and Sith Empire mercenary rolls show how jedi-hunter assassin contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Aurra Sing negotiate payment and honor.\n\nIn the modern era, Aurra Sing competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Aurra mentored teenage Boba, assembled a Clone Wars crew with Bossk and Castas, and vanished after eliminating weak links—her ruthlessness shaped Boba's early tactics. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Aurra Sing. Mandalorian-era postings on Nevarro and Mos Espa show jedi-hunter assassin specialists remain essential to galactic order—and chaos.\n\nAurra Sing operated in war zones where capture alive paid more than kill, and both paid more than failure. Aurra sniped Jedi during the Clone Wars, trained Boba in ambush tactics, attempted revenge against Mace Windu, and killed Castas when he compromised a mission. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of jedi-hunter assassin hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Aurra Sing's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Aurra Sing as a jedi-hunter assassin relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Long-barrel sniper rifle, antenna-enhanced targeting, and starship interception of Jedi transports—Aurra kills Force-users from beyond lightsaber range. Guild instructors use redacted mission logs from Aurra Sing's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Aurra Sing often know smuggler routes better than naval patrols.\n\nAmong peers, Aurra Sing earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Separatists paid premium Jedi-kill rates; Jedi Council bulletins flagged her antenna signature as priority sniper threat across three sectors. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Aurra Sing that may be half true and fully instructive. Whether Aurra Sing followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Aurra Sing exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Aurra's mentorship shaped Boba Fett's Clone Wars tactics; her contracts forced the Order to treat hunters as combat threats equal to battle droids. Without contractors like Aurra Sing, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Aurra Sing when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Abducted and experimented on as child",
+    "Snipes Jedi during Clone Wars",
+    "Mentors teenage Boba Fett",
+    "Leads crew with Bossk and Castas",
+    "Eliminates Castas for mission compromise"
+  ],
+  "affiliations": [
+    "Young Boba Fett crew",
+    "Count Dooku / CIS (contracted)",
+    "Separatist assassin rolls",
+    "Nar Shaddaa underworld",
+    "Jedi-hunting specialist market",
+    "Bossk partnership"
+  ],
+  "timeline": [
+    {
+      "era": "Nar Shaddaa",
+      "event": "Abduction and conditioning"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Jedi sniper contracts"
+    },
+    {
+      "era": "Mentorship",
+      "event": "Trains Boba Fett"
+    },
+    {
+      "era": "Crew Leader",
+      "event": "Bossk and Castas team"
+    },
+    {
+      "era": "Disappearance",
+      "event": "Vanishes after purges"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/aurra-sing.svg",
+      "caption": "Emblem — Aurra Sing"
+    },
+    {
+      "path": "/images/bounty-hunters/aurra-sing-scene.svg",
+      "caption": "Scene illustration — Aurra Sing"
+    }
+  ]
+}

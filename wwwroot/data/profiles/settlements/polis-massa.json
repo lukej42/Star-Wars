@@ -1,0 +1,51 @@
+{
+  "overview": "Polis Massa is a asteroid medical base on Polis Massa, documented across Films · Revenge of the Sith. Polis Massa's asteroid facility attempted to save Padmé Amidala and hide surviving twins from Imperial detection.",
+  "history": "Polis Massa began as a asteroid medical base anchor on Polis Massa, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Polis Massa grew where Polis Massa's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a asteroid medical base that outlasted first founders. Early survey maps from the Old Republic era list Polis Massa as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Polis Massa as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Polis Massa include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Polis Massa include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Polis Massa as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Polis Massa suggest Polis Massa once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Polis Massa expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Polis Massa; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Polis Massa because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Polis Massa as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nPolis Massa has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Polis Massa as strategically contested on Polis Massa. Clone Wars dossiers mark Polis Massa as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Polis Massa meant control of Polis Massa.",
+  "significance": "The economy of Polis Massa runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Polis Massa's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Polis Massa infrastructure during the late Republic. Post-war reconstruction funds often bypass Polis Massa officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Polis Massa mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Polis Massa blend Polis Massa native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Polis Massa are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Polis Massa back alleys.\n\nPolis Massa influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Polis Massa altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Polis Massa across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Polis Massa when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Polis Massa founded as asteroid medical base on Polis Massa",
+    "Major battle or siege recorded at Polis Massa",
+    "Imperial occupation transforms Polis Massa governance",
+    "Rebel or Resistance cell operates from Polis Massa",
+    "New Republic era reconstruction begins at Polis Massa"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Polis Massa"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Polis Massa joins sector trade networks on Polis Massa"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Polis Massa triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Polis Massa"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Polis Massa"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/polis-massa.svg",
+      "caption": "Emblem — Polis Massa"
+    },
+    {
+      "path": "/images/settlements/polis-massa-scene.svg",
+      "caption": "Scene illustration — Polis Massa"
+    }
+  ]
+}

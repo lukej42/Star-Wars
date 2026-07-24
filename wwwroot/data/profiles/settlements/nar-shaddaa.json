@@ -1,0 +1,51 @@
+{
+  "overview": "Nar Shaddaa is a smuggler moon city on Nal Hutta moon, documented across Films · Clone Wars · KOTOR · TOR. Nar Shaddaa's vertical slums and neon haze form the Smuggler's Moon, lawless counterpart to Coruscant above Hutt space.",
+  "history": "Nar Shaddaa began as a smuggler moon city anchor on Nal Hutta moon, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Nar Shaddaa grew where Nal Hutta moon's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a smuggler moon city that outlasted first founders. Early survey maps from the Old Republic era list Nar Shaddaa as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Nar Shaddaa as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Nar Shaddaa include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Nar Shaddaa include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Nar Shaddaa as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Nal Hutta moon suggest Nar Shaddaa once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Nar Shaddaa expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Nar Shaddaa; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Nar Shaddaa because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Nar Shaddaa as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nNar Shaddaa has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Nar Shaddaa as strategically contested on Nal Hutta moon. Clone Wars dossiers mark Nar Shaddaa as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Nar Shaddaa meant control of Nal Hutta moon.",
+  "significance": "The economy of Nar Shaddaa runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Nar Shaddaa's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Nar Shaddaa infrastructure during the late Republic. Post-war reconstruction funds often bypass Nar Shaddaa officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Nar Shaddaa mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Nar Shaddaa blend Nal Hutta moon native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Nar Shaddaa are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Nar Shaddaa back alleys.\n\nNar Shaddaa influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Nar Shaddaa altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Nar Shaddaa across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Nar Shaddaa when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Nar Shaddaa founded as smuggler moon city on Nal Hutta moon",
+    "Major battle or siege recorded at Nar Shaddaa",
+    "Imperial occupation transforms Nar Shaddaa governance",
+    "Rebel or Resistance cell operates from Nar Shaddaa",
+    "New Republic era reconstruction begins at Nar Shaddaa"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Nar Shaddaa"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Nar Shaddaa joins sector trade networks on Nal Hutta moon"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Nar Shaddaa triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Nar Shaddaa"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Nar Shaddaa"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/nar-shaddaa.svg",
+      "caption": "Emblem — Nar Shaddaa"
+    },
+    {
+      "path": "/images/settlements/nar-shaddaa-scene.svg",
+      "caption": "Scene illustration — Nar Shaddaa"
+    }
+  ]
+}

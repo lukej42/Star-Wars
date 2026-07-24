@@ -1,0 +1,52 @@
+{
+  "overview": "Cad Bane is a duros bounty hunter from Duro, documented across Clone Wars · Bad Batch · comics. Blue-skinned Duros gunslinger who dominated Clone Wars postings from holocron heists to Senate hostage crises.",
+  "history": "Cad Bane rose from Duro to become a duros bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Cad Bane rose on Duro's industrial spires where Hutt shadow brokers and Separatist paymasters competed for audacious contracts no other hunter would accept. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Cad Bane as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Cad Bane's career, Duro produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Duros navigator guilds pioneered hyperspace bounty routing centuries before Cad; KOTOR Exchange archives on Nar Shaddaa document Duros mercenaries running Jedi extraction jobs under similar legal ambiguity. Old Republic bounty charters and Sith Empire mercenary rolls show how duros bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Cad Bane negotiate payment and honor.\n\nIn the modern era, Cad Bane competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Cad Bane survived into the Imperial Era to confront Boba Fett on Tatooine—a duel ending the Clone Wars' most infamous gunslinger's career. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Cad Bane. Mandalorian-era postings on Nevarro and Mos Espa show duros bounty hunter specialists remain essential to galactic order—and chaos.\n\nCad Bane operated in war zones where capture alive paid more than kill, and both paid more than failure. Cad stole a Jedi Temple holocron, held the Galactic Senate hostage with Robonino, fought Obi-Wan and Quinlan Vos, and forced the Republic to treat hunters as strategic threats. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of duros bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Cad Bane's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Cad Bane as a duros bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Twin LL-30 blaster pistols, wide-brim hat with breathing tubes, rocket boots, and electroshock bolas let Cad Bane breach Coruscant's most secure facilities. Guild instructors use redacted mission logs from Cad Bane's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Cad Bane often know smuggler routes better than naval patrols.\n\nAmong peers, Cad Bane earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Count Dooku paid premium rates; Jedi Council briefings flagged him threat-level alpha; peers considered him the benchmark for audacity from Rim to Senate dome. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Cad Bane that may be half true and fully instructive. Whether Cad Bane followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Cad Bane exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Cad Bane's Senate hostage crisis hardened Coruscant security; his holocron heist proved hunters could strike the Jedi Order at its heart. Without contractors like Cad Bane, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Cad Bane when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Steals holocron from Jedi Temple vault",
+    "Holds Galactic Senate hostage with his gang",
+    "Fights Boba Fett on Tatooine in Imperial Era",
+    "Works with Moralo Eval on Serenno box",
+    "Appears in Bad Batch Imperial transition"
+  ],
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Count Dooku / CIS (contracted)",
+    "Cad Bane gang",
+    "Hutt Cartel shadow brokers",
+    "Separatist contractor rolls",
+    "Nar Shaddaa arms dealers"
+  ],
+  "timeline": [
+    {
+      "era": "Early Clone Wars",
+      "event": "Builds reputation on Duro"
+    },
+    {
+      "era": "Temple Heist",
+      "event": "Steals Jedi holocron"
+    },
+    {
+      "era": "Senate Crisis",
+      "event": "Holds senators hostage"
+    },
+    {
+      "era": "Serenno Box",
+      "event": "Eval tournament competitor"
+    },
+    {
+      "era": "Tatooine Duel",
+      "event": "Final fight with Boba Fett"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/cad-bane.svg",
+      "caption": "Emblem — Cad Bane"
+    },
+    {
+      "path": "/images/bounty-hunters/cad-bane-scene.svg",
+      "caption": "Scene illustration — Cad Bane"
+    }
+  ]
+}

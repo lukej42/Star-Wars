@@ -1,0 +1,47 @@
+{
+  "overview": "EV-9D9 is a administrator droid built by MerenData, documented across Return of the Jedi. Jabba's palace droid overseer who tortured fellow droids for amusement while managing the Hutt's droid pool on Tatooine.",
+  "history": "EV-9D9 belongs to the administrator droid class manufactured by MerenData, one of the most recognizable automaton designs documented across galactic history. EV-9D9 managed Jabba's droid pool with sadistic administrative protocols on Tatooine. MerenData factory schematics document the administrator droid platform lineage that produced EV-9D9, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat EV-9D9 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced EV-9D9. Excavations on Taris, Dxun, and Dromund Kaas recovered administrator droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied MerenData subsystems, spreading design language across millennia before EV-9D9 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied MerenData subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and administrator droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, EV-9D9 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. EV-9D9 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with MerenData frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with MerenData frames. Historians studying the Sequel Era treat surviving EV-9D9 memory cores as primary sources on earlier conflicts.\n\nEV-9D9 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, EV-9D9 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of administrator droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming MerenData automata.",
+  "significance": "Engineering analysis of EV-9D9 highlights why administrator droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise EV-9D9's modular administrator droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise MerenData documentation; slicers praise its predictable security flaws—both keep EV-9D9 relevant in scrap yards centuries later. New Republic certification boards still debate which administrator droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite EV-9D9 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite EV-9D9 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every administrator droid rights petition involving MerenData personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as EV-9D9's service record. Whether EV-9D9 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of EV-9D9 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like EV-9D9; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like EV-9D9, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display MerenData chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Oversees Jabba's palace droid torture chamber",
+    "Tortures droids for entertainment with 8D8",
+    "Manages droid pool for Hutt operations",
+    "MerenData administrative chassis repurposed for cruelty",
+    "Embodies Hutt indifference to droid suffering"
+  ],
+  "affiliations": [
+    "Jabba's criminal empire",
+    "Hutt Cartel",
+    "MerenData (origin)",
+    "Tatooine palace staff",
+    "Boba Fett (contemporary)"
+  ],
+  "timeline": [
+    {
+      "era": "Hutt Era",
+      "event": "EV-9D9 installed in Jabba's palace"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Manages palace droid operations"
+    },
+    {
+      "era": "Rescue Mission",
+      "event": "Present during Solo rescue attempt"
+    },
+    {
+      "era": "Jabba's Death",
+      "event": "Palace droid pool disrupted"
+    },
+    {
+      "era": "Post-Jabba",
+      "event": "Unit fate unknown"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/ev-9d9-scene.png",
+      "caption": "Cinematic illustration — EV-9D9"
+    }
+  ]
+}

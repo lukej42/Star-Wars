@@ -1,0 +1,51 @@
+{
+  "overview": "Toydaria Royal Settlement is a swamp palace city on Toydaria, documented across Clone Wars. Toydaria's palaces negotiated neutrality in the Clone Wars while secretly aiding refugee convoys to Ryloth.",
+  "history": "Toydaria Royal Settlement began as a swamp palace city anchor on Toydaria, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Toydaria Royal Settlement began as a strategic anchor on Toydaria, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Toydaria Royal Settlement as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Toydaria Royal Settlement as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Toydaria Royal Settlement include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Toydaria Royal Settlement include ward-stones and battle markers from Sith and Jedi campaigns on Toydaria. High Republic pathfinders logged Toydaria Royal Settlement as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Toydaria suggest Toydaria Royal Settlement once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Toydaria Royal Settlement expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Toydaria Royal Settlement appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Toydaria Royal Settlement because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Toydaria Royal Settlement as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nToydaria Royal Settlement has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Toydaria Royal Settlement as contested territory on Toydaria. Clone Wars dossiers mark Toydaria Royal Settlement as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Toydaria Royal Settlement meant control of Toydaria.",
+  "significance": "The economy of Toydaria Royal Settlement runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Toydaria Royal Settlement runs on local industry, trade tariffs, and black-market mediation typical of Toydaria. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Toydaria Royal Settlement infrastructure during the late Republic. Post-war reconstruction funds often bypass Toydaria Royal Settlement officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Toydaria Royal Settlement mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Toydaria Royal Settlement preserve Toydaria rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Toydaria Royal Settlement are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Toydaria Royal Settlement back alleys.\n\nToydaria Royal Settlement influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Toydaria Royal Settlement when tracing how Toydaria influenced sector-wide treaties and fleet movements. Scenes set in Toydaria Royal Settlement across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Toydaria Royal Settlement when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Toydaria Royal Settlement founded on Toydaria",
+    "Recorded siege or battle at Toydaria Royal Settlement",
+    "Occupation forces restructure Toydaria Royal Settlement",
+    "Underground resistance operates from Toydaria Royal Settlement",
+    "Post-war memorialization of Toydaria Royal Settlement"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Toydaria governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Toydaria Royal Settlement"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Toydaria Royal Settlement"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Toydaria Royal Settlement"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Toydaria Royal Settlement"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Toydaria Royal Settlement"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/toydaria-royal-settlement.svg",
+      "caption": "Emblem — Toydaria Royal Settlement"
+    },
+    {
+      "path": "/images/settlements/toydaria-royal-settlement-scene.svg",
+      "caption": "Scene illustration — Toydaria Royal Settlement"
+    }
+  ]
+}

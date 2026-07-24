@@ -1,0 +1,51 @@
+{
+  "overview": "Bith (Humanoid mammal) is native to Clak'dor VII and ranks among the most consequential species in galactic history. Bith from Clak'dor VII are large-brained musicians and technicians; the cantina band on Tatooine showcased their sensory-focused culture.",
+  "history": "The Bith (humanoid mammal) trace their deepest roots to Clak'dor VII, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Bith evolutionary history on Clak'dor VII intertwines with humanoid mammal adaptation, local predator cycles, and early hyperspace contact logs preserved in both Jedi and Sith archives. Galactic surveyors first catalogued Bith populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Bith history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Bith societies on Clak'dor VII established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Bith polities negotiated with Rakatan remnants, Sith emissaries, and Core Founders; archaeological teams still uncover Clak'dor VII ruins that rewrite pre-Republic timelines. Archaeologists still debate how much of modern Bith identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Bith delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Bith diaspora communities appeared on every major trade lane and war front. Modern Bith diaspora appear in Clone Wars battlefronts, Rebels cells, Mandalorian guild halls, and Ahsoka-era investigations—often as the decisive local expert outsiders underestimated. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Bith networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Bith migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nBith fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Bith veterans fought in the Jedi Civil War (KOTOR), Sith Empire returns (TOR), Clone Wars sector campaigns, and the Galactic Civil War with tactics shaped by Clak'dor VII's geography. KOTOR and KOTOR II document Bith involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Bith leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Bith display traits typical of humanoid mammal life adapted to Clak'dor VII's gravity, atmosphere, and seasonal extremes. Bith physiology—documented in Republic medical droids and Imperial biometrics—explains survival rates under occupation, labor extraction, and frontline service across eras. Medics note that Bith physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Bith resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nBith culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. Bith rituals, language dialects, and art forms survived offworld commodification; cultural revival movements on Clak'dor VII accelerated after the Empire's collapse. Both Jedi and Sith sources acknowledge Bith spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Bith communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Bith exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians cite Bith merchants, soldiers, Force users, and criminals as pivot points in treaties, fleet battles, and underworld realignments from the Old Republic to the Sequel Era. Historians credit Bith innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Bith choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Bith homeworld first mapped by Republic surveyors",
+    "Notable Bith leaders emerge during Clone Wars",
+    "Bith communities resist Imperial occupation policies",
+    "KOTOR-era Bith figures influence Jedi Civil War",
+    "New Republic restores Bith representation in Senate"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Clak'dor VII governance",
+    "Rebel Alliance",
+    "Local clan networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early Bith civilization consolidates on Clak'dor VII"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Bith join wider Republic trade and defense pacts"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Bith factions choose Republic or Separatist alignment"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Bith identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery and political voice restored for Bith"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/bith.svg",
+      "caption": "Emblem — Bith"
+    },
+    {
+      "path": "/images/species/bith-scene.svg",
+      "caption": "Scene illustration — Bith"
+    }
+  ]
+}

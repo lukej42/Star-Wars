@@ -1,0 +1,51 @@
+{
+  "overview": "Ord Mantell City is a frontier hub on Ord Mantell, documented across Films · Mandalorian · TOR. Ord Mantell's city lanes host bounty hunters and refugees made famous by Han Solo's offhand mention of trouble in the cantina.",
+  "history": "Ord Mantell City began as a frontier hub anchor on Ord Mantell, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Ord Mantell City grew where Ord Mantell's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a frontier hub that outlasted first founders. Early survey maps from the Old Republic era list Ord Mantell City as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Ord Mantell City as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Ord Mantell City include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Ord Mantell City include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Ord Mantell City as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Ord Mantell suggest Ord Mantell City once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Ord Mantell City expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Ord Mantell City; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Ord Mantell City because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Ord Mantell City as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nOrd Mantell City has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Ord Mantell City as strategically contested on Ord Mantell. Clone Wars dossiers mark Ord Mantell City as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Ord Mantell City meant control of Ord Mantell.",
+  "significance": "The economy of Ord Mantell City runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Ord Mantell City's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Ord Mantell City infrastructure during the late Republic. Post-war reconstruction funds often bypass Ord Mantell City officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Ord Mantell City mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Ord Mantell City blend Ord Mantell native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Ord Mantell City are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Ord Mantell City back alleys.\n\nOrd Mantell City influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Ord Mantell City altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Ord Mantell City across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Ord Mantell City when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Ord Mantell City founded as frontier hub on Ord Mantell",
+    "Major battle or siege recorded at Ord Mantell City",
+    "Imperial occupation transforms Ord Mantell City governance",
+    "Rebel or Resistance cell operates from Ord Mantell City",
+    "New Republic era reconstruction begins at Ord Mantell City"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Ord Mantell City"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Ord Mantell City joins sector trade networks on Ord Mantell"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Ord Mantell City triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Ord Mantell City"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Ord Mantell City"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/ord-mantell-city.svg",
+      "caption": "Emblem — Ord Mantell City"
+    },
+    {
+      "path": "/images/settlements/ord-mantell-city-scene.svg",
+      "caption": "Scene illustration — Ord Mantell City"
+    }
+  ]
+}

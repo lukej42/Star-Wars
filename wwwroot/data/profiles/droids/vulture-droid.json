@@ -1,0 +1,47 @@
+{
+  "overview": "Vulture Droid is a droid starfighter built by Haor Chall Engineering, documented across Prequel Trilogy · Clone Wars. Variable-geometry droid starfighters that shift from walking mode to attack craft, swarming Republic fleets from Geonosis through the Outer Rim Sieges.",
+  "history": "Vulture Droid belongs to the droid starfighter class manufactured by Haor Chall Engineering, one of the most recognizable automaton designs documented across galactic history. Vulture droids walk on legs aboard carriers then transform into deadly starfighter swarms. Haor Chall Engineering factory schematics document the droid starfighter platform lineage that produced Vulture Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Vulture Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Vulture Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered droid starfighter chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Haor Chall Engineering subsystems, spreading design language across millennia before Vulture Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Haor Chall Engineering subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and droid starfighter behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Vulture Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Vulture Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Haor Chall Engineering frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Haor Chall Engineering frames. Historians studying the Sequel Era treat surviving Vulture Droid memory cores as primary sources on earlier conflicts.\n\nVulture Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Vulture Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of droid starfighter units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Haor Chall Engineering automata.",
+  "significance": "Engineering analysis of Vulture Droid highlights why droid starfighter designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Vulture Droid's modular droid starfighter subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Haor Chall Engineering documentation; slicers praise its predictable security flaws—both keep Vulture Droid relevant in scrap yards centuries later. New Republic certification boards still debate which droid starfighter subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Vulture Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Vulture Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every droid starfighter rights petition involving Haor Chall Engineering personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Vulture Droid's service record. Whether Vulture Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Vulture Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Vulture Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Vulture Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Haor Chall Engineering chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Swarms Trade Federation blockade over Naboo",
+    "Dominates Geonosis orbital battle",
+    "Deploys buzz droid payloads at Coruscant",
+    "Outer Rim Sieges consume millions of units",
+    "Carrier-dependent design limits post-war use"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Trade Federation",
+    "Haor Chall Engineering",
+    "Separatist Navy",
+    "General Grievous's fleet"
+  ],
+  "timeline": [
+    {
+      "era": "Naboo Blockade",
+      "event": "Vulture droids first major deployment"
+    },
+    {
+      "era": "Geonosis",
+      "event": "Swarm Republic gunships"
+    },
+    {
+      "era": "Mid-War",
+      "event": "Standard Separatist starfighter"
+    },
+    {
+      "era": "Coruscant Siege",
+      "event": "Carries buzz droid missiles"
+    },
+    {
+      "era": "War's End",
+      "event": "Deactivated with droid army shutdown"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/vulture-droid-scene.png",
+      "caption": "Cinematic illustration — Vulture Droid"
+    }
+  ]
+}

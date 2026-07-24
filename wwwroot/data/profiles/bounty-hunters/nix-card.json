@@ -1,0 +1,45 @@
+{
+  "overview": "Nix Card is a bounty hunter broker from Unknown, documented across Clone Wars · Comics. Information broker who arranged high-value hunter contracts during the Clone Wars for clients requiring total operational secrecy.",
+  "history": "Nix Card rose from Unknown to become a bounty hunter broker whose name appears on guild boards from the Core to the Outer Rim. Nix Card operated as broker between anonymous Separatist and Republic clients, posting hunter contracts without guild paperwork that would trigger ISB review. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Nix Card as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Nix Card's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Unknown supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Nix Card posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how bounty hunter broker contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Nix Card negotiate payment and honor.\n\nIn the modern era, Nix Card competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Nix Card remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Nix Card. Mandalorian-era postings on Nevarro and Mos Espa show bounty hunter broker specialists remain essential to galactic order—and chaos.\n\nNix Card operated in war zones where capture alive paid more than kill, and both paid more than failure. Card arranged Cad Bane-adjacent operations and independent hunter teams for holocron-class targets when public pucks were politically impossible. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of bounty hunter broker hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Nix Card's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Nix Card as a bounty hunter broker relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Anonymous contract routing, encrypted puck delivery, hunter team assembly, and Clone Wars deniable operations. Guild instructors use redacted mission logs from Nix Card's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Nix Card often know smuggler routes better than naval patrols.\n\nAmong peers, Nix Card earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Nix Card as a bounty hunter broker whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Nix Card that may be half true and fully instructive. Whether Nix Card followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Nix Card exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Nix Card's captures and eliminations shifted local power wherever Unknown expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Nix Card, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Nix Card when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Rise as anonymous hunter broker",
+    "Clone Wars deniable contract routing",
+    "High-value target team assembly",
+    "Encrypted puck network expansion"
+  ],
+  "affiliations": [
+    "Shadow broker networks",
+    "Bounty Hunters' Guild (unofficial)",
+    "Separatist clients (deniable)",
+    "Republic black budgets (deniable)"
+  ],
+  "timeline": [
+    {
+      "era": "Broker Rise",
+      "event": "Anonymous contract routing"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Deniable operations"
+    },
+    {
+      "era": "High Value",
+      "event": "Holocron-class targets"
+    },
+    {
+      "era": "Legacy",
+      "event": "Shadow broker archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/nix-card.svg",
+      "caption": "Emblem — Nix Card"
+    },
+    {
+      "path": "/images/bounty-hunters/nix-card-scene.svg",
+      "caption": "Scene illustration — Nix Card"
+    }
+  ]
+}

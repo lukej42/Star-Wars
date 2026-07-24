@@ -1,0 +1,33 @@
+@page "/all-cities-settlements"
+@using StarWars.Data
+
+<PageTitle>All Cities &amp; Settlements</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/settlements/cities-settlements-directory-hero.png" alt="Panoramic twilight skyline of iconic galactic cities and settlements" loading="lazy" />
+</figure>
+
+<h1>All Cities &amp; Settlements</h1>
+<p class="all-planets-intro">
+    @SettlementData.Settlements.Count cities, towns, spaceports, and settlements from all nine saga films, live-action and animated series,
+    <em>Knights of the Old Republic</em>, and the Sith Empire — from Coruscant's skylines to Taris's Undercity.
+</p>
+
+@foreach (var group in SettlementData.Settlements.GroupBy(settlement => settlement.Planet).OrderBy(group => group.Key))
+{
+    <section class="force-powers-category">
+        <h2>@group.Key</h2>
+        <div class="planet-directory-grid">
+            @foreach (var settlement in group.OrderBy(settlement => settlement.Name))
+            {
+                <article class="planet-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @settlement.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@settlement.Route">@settlement.Name</a>
+                        <p class="planet-region">@settlement.SettlementType</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </section>
+}

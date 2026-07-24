@@ -1,0 +1,51 @@
+{
+  "overview": "Betu City is a jungle capital on Rodia, documented across Clone Wars. Betu City is Rodia's humid capital where Senator Onaconda Farr balanced Republic loyalty against Separatist pressure.",
+  "history": "Betu City began as a jungle capital anchor on Rodia, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Betu City began as a strategic anchor on Rodia, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Betu City as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Betu City as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Betu City include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Betu City include ward-stones and battle markers from Sith and Jedi campaigns on Rodia. High Republic pathfinders logged Betu City as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Rodia suggest Betu City once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Betu City expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Betu City appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Betu City because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Betu City as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nBetu City has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Betu City as contested territory on Rodia. Clone Wars dossiers mark Betu City as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Betu City meant control of Rodia.",
+  "significance": "The economy of Betu City runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Betu City runs on local industry, trade tariffs, and black-market mediation typical of Rodia. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Betu City infrastructure during the late Republic. Post-war reconstruction funds often bypass Betu City officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Betu City mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Betu City preserve Rodia rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Betu City are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Betu City back alleys.\n\nBetu City influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Betu City when tracing how Rodia influenced sector-wide treaties and fleet movements. Scenes set in Betu City across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Betu City when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Betu City founded on Rodia",
+    "Recorded siege or battle at Betu City",
+    "Occupation forces restructure Betu City",
+    "Underground resistance operates from Betu City",
+    "Post-war memorialization of Betu City"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Rodia governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Betu City"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Betu City"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Betu City"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Betu City"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Betu City"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/betu-city.svg",
+      "caption": "Emblem — Betu City"
+    },
+    {
+      "path": "/images/settlements/betu-city-scene.svg",
+      "caption": "Scene illustration — Betu City"
+    }
+  ]
+}

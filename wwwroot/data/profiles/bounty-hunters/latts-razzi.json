@@ -1,0 +1,51 @@
+{
+  "overview": "Latts Razzi is a theelin bounty hunter from Unknown, documented across Clone Wars. Theelin hunter in young Boba Fett's Clone Wars crew alongside Bossk and Aurra Sing.",
+  "history": "Latts Razzi rose from Unknown to become a theelin bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Latts Razzi, a Theelin hunter, joined young Boba Fett's Clone Wars crew bringing starship piloting and underworld connections alongside Bossk's strength and Aurra Sing's sniper work. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Latts Razzi as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Latts Razzi's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Theelin diaspora on Nar Shaddaa produced pilot-hunter hybrids; Latts represents crew specialists who handle transport while lead hunters pursue targets. Old Republic bounty charters and Sith Empire mercenary rolls show how theelin bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Latts Razzi negotiate payment and honor.\n\nIn the modern era, Latts Razzi competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Latts survived Aurra Sing's crew purges longer than Castas, demonstrating Theelin adaptability in volatile young Boba operations. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Latts Razzi. Mandalorian-era postings on Nevarro and Mos Espa show theelin bounty hunter specialists remain essential to galactic order—and chaos.\n\nLatts Razzi operated in war zones where capture alive paid more than kill, and both paid more than failure. Latts flew Boba's crew missions during revenge operations against Jedi, navigated Separatist-adjacent space, and survived internal crew violence when Aurra eliminated weak links. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of theelin bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Latts Razzi's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Latts Razzi as a theelin bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Starship piloting, crew logistics, blaster backup, and underworld negotiation—Latts keeps the crew moving while Bossk and Aurra handle violence. Guild instructors use redacted mission logs from Latts Razzi's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Latts Razzi often know smuggler routes better than naval patrols.\n\nAmong peers, Latts Razzi earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Young Boba depended on Latts for transport; Bossk respected her pilot skills; guild cadets study Boba's crew as cautionary team dynamics lesson. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Latts Razzi that may be half true and fully instructive. Whether Latts Razzi followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Latts Razzi exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Latts Razzi's crew role showed hunter operations require pilots and logistics specialists—not every guild member needs to be front-line killer. Without contractors like Latts Razzi, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Latts Razzi when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Joins young Boba Fett's crew",
+    "Pilots missions against Jedi targets",
+    "Survives Aurra Sing's crew purges",
+    "Works alongside Bossk and Castas",
+    "Theelin crew specialist model"
+  ],
+  "affiliations": [
+    "Young Boba Fett crew",
+    "Bossk partnership",
+    "Aurra Sing crew (former)",
+    "Bounty Hunters' Guild",
+    "Theelin pilot networks"
+  ],
+  "timeline": [
+    {
+      "era": "Crew Join",
+      "event": "Young Boba's team"
+    },
+    {
+      "era": "Pilot Ops",
+      "event": "Revenge mission transport"
+    },
+    {
+      "era": "Internal Conflict",
+      "event": "Aurra's purges"
+    },
+    {
+      "era": "Survival",
+      "event": "Outlasts Castas"
+    },
+    {
+      "era": "Legacy",
+      "event": "Crew pilot archetype"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/latts-razzi.svg",
+      "caption": "Emblem — Latts Razzi"
+    },
+    {
+      "path": "/images/bounty-hunters/latts-razzi-scene.svg",
+      "caption": "Scene illustration — Latts Razzi"
+    }
+  ]
+}

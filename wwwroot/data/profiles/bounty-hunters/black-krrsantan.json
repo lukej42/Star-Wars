@@ -1,0 +1,52 @@
+{
+  "overview": "Black Krrsantan is a wookiee bounty hunter from Kashyyyk, documented across Comics · Doctor Aphra. Exiled scarred Wookiee gladiator who served Vader and Doctor Aphra with brutal close-quarters violence.",
+  "history": "Black Krrsantan rose from Kashyyyk to become a wookiee bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Black Krrsantan was exiled from Kashyyyk with ritual scarring, sold into gladiatorial circuits before Vader recruited him as a Wookiee hunter who could match his own people's strength. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Black Krrsantan as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Black Krrsantan's career, Kashyyyk produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Wookiee exile traditions and gladiator markets on Nar Shaddaa predate Krrsantan; KOTOR Exchange records document scarred Wookiee enforcers hunting their own kin for credits. Old Republic bounty charters and Sith Empire mercenary rolls show how wookiee bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Black Krrsantan negotiate payment and honor.\n\nIn the modern era, Black Krrsantan competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Krrsantan's partnership with Doctor Aphra on artifact heists made him a marquee comics-era hunter; his gladiator past and Vader contract defined brutal close-quarters reputation. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Black Krrsantan. Mandalorian-era postings on Nevarro and Mos Espa show wookiee bounty hunter specialists remain essential to galactic order—and chaos.\n\nBlack Krrsantan operated in war zones where capture alive paid more than kill, and both paid more than failure. Krrsantan served Darth Vader hunting Chewbacca, fought Doctor Aphra's enemies across archaeological war zones, and battled in underworld arenas from Nar Shaddaa to Coruscant. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of wookiee bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Black Krrsantan's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Black Krrsantan as a wookiee bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Wookiee strength amplified by gladiator training, bowcaster and bare-hand violence, intimidation through scarred appearance—Krrsantan breaks targets rather than capturing alive. Guild instructors use redacted mission logs from Black Krrsantan's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Black Krrsantan often know smuggler routes better than naval patrols.\n\nAmong peers, Black Krrsantan earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Vader valued him against Rebel Wookiees; Aphra kept him on retainer; Kashyyyk exiles consider him traitor while guild brokers consider him premium muscle. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Black Krrsantan that may be half true and fully instructive. Whether Black Krrsantan followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Black Krrsantan exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Black Krrsantan proved exiled Wookiees could become the Empire's anti-Wookiee weapon; his Aphra partnership expanded hunter roles into archaeological mercenary work. Without contractors like Black Krrsantan, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Black Krrsantan when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Exiled and scarred from Kashyyyk",
+    "Gladiator circuit on Nar Shaddaa",
+    "Recruited by Darth Vader for Wookiee hunts",
+    "Partners with Doctor Aphra on heists",
+    "Battles Chewbacca and Rebel allies"
+  ],
+  "affiliations": [
+    "Doctor Aphra's crew",
+    "Darth Vader (contracted)",
+    "Nar Shaddaa gladiator circuits",
+    "Kashyyyk exile networks",
+    "Hutt Cartel (contracted)",
+    "Archaeological black market"
+  ],
+  "timeline": [
+    {
+      "era": "Kashyyyk",
+      "event": "Exile and scarring"
+    },
+    {
+      "era": "Gladiator Era",
+      "event": "Nar Shaddaa circuits"
+    },
+    {
+      "era": "Vader Contract",
+      "event": "Anti-Wookiee missions"
+    },
+    {
+      "era": "Aphra Partnership",
+      "event": "Artifact heists"
+    },
+    {
+      "era": "War of the Bounty Hunters",
+      "event": "Han Solo carbonite chase"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/black-krrsantan.svg",
+      "caption": "Emblem — Black Krrsantan"
+    },
+    {
+      "path": "/images/bounty-hunters/black-krrsantan-scene.svg",
+      "caption": "Scene illustration — Black Krrsantan"
+    }
+  ]
+}

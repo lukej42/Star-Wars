@@ -1,0 +1,51 @@
+{
+  "overview": "Braden is a mandalorian bounty hunter mentor from Mandalore, documented across SWTOR. Veteran hunter who trained SWTOR protagonists in Great Hunt prelude on Dromund Kaas.",
+  "history": "Braden rose from Mandalore to become a mandalorian bounty hunter mentor whose name appears on guild boards from the Core to the Outer Rim. Braden, veteran Mandalorian hunter, mentored SWTOR player character during Great Hunt prelude on Dromund Kaas before his murder launched the competition's central revenge arc. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Braden as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Braden's career, Mandalore produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Mandalorian hunter mentorship traditions require veterans to train Great Hunt entrants; Braden represents honorable predecessor to Tarro Blood's corruption. Old Republic bounty charters and Sith Empire mercenary rolls show how mandalorian bounty hunter mentor contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Braden negotiate payment and honor.\n\nIn the modern era, Braden competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Braden's death in SWTOR opening hours motivated player hunter's Great Hunt victory—mentor martyrdom driving SWTOR bounty hunter class narrative. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Braden. Mandalorian-era postings on Nevarro and Mos Espa show mandalorian bounty hunter mentor specialists remain essential to galactic order—and chaos.\n\nBraden operated in war zones where capture alive paid more than kill, and both paid more than failure. Braden trained player on Dromund Kaas, held off attackers during ambush, and died protecting protégé—triggering Great Hunt revenge storyline. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of mandalorian bounty hunter mentor hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Braden's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Braden as a mandalorian bounty hunter mentor relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Veteran Mandalorian tactics, mentorship pedagogy, blaster defense, and strategic planning—Braden teaches before fighting. Guild instructors use redacted mission logs from Braden's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Braden often know smuggler routes better than naval patrols.\n\nAmong peers, Braden earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Mandalorian Hunt officials respected Braden; his protégé avenged him; SWTOR community remembers him as tragic mentor figure. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Braden that may be half true and fully instructive. Whether Braden followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Braden exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Braden's death catalyzed SWTOR Great Hunt narrative—establishing emotional stakes for player bounty hunter class origin story. Without contractors like Braden, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Braden when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Mentors SWTOR player on Dromund Kaas",
+    "Trains Great Hunt prelude skills",
+    "Ambushed during training mission",
+    "Dies protecting protégé",
+    "Death motivates Great Hunt revenge arc"
+  ],
+  "affiliations": [
+    "SWTOR Great Hunt",
+    "Mandalorian mentor tradition",
+    "Dromund Kaas hunter training",
+    "Player hunter protégé",
+    "Mandalore hunter culture"
+  ],
+  "timeline": [
+    {
+      "era": "Veteran Era",
+      "event": "Established hunter reputation"
+    },
+    {
+      "era": "Mentorship",
+      "event": "Trains SWTOR protagonist"
+    },
+    {
+      "era": "Ambush",
+      "event": "Dromund Kaas attack"
+    },
+    {
+      "era": "Death",
+      "event": "Martyrdom protecting protégé"
+    },
+    {
+      "era": "Legacy",
+      "event": "Great Hunt motivation"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/braden.svg",
+      "caption": "Emblem — Braden"
+    },
+    {
+      "path": "/images/bounty-hunters/braden-scene.svg",
+      "caption": "Scene illustration — Braden"
+    }
+  ]
+}

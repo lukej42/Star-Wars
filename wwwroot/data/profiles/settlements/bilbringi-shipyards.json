@@ -1,0 +1,51 @@
+{
+  "overview": "Bilbringi Shipyards is a orbital shipyard complex on Bilbringi, documented across Legends · Thrawn Trilogy. Bilbringi's yards were the site of Thrawn's final trap and the New Republic's capture of Star Destroyer repair facilities.",
+  "history": "Bilbringi Shipyards began as a orbital shipyard complex anchor on Bilbringi, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Bilbringi Shipyards began as a strategic anchor on Bilbringi, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Bilbringi Shipyards as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Bilbringi Shipyards as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Bilbringi Shipyards include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Bilbringi Shipyards include ward-stones and battle markers from Sith and Jedi campaigns on Bilbringi. High Republic pathfinders logged Bilbringi Shipyards as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Bilbringi suggest Bilbringi Shipyards once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Bilbringi Shipyards expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Bilbringi Shipyards appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Bilbringi Shipyards because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Bilbringi Shipyards as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nBilbringi Shipyards has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Bilbringi Shipyards as contested territory on Bilbringi. Clone Wars dossiers mark Bilbringi Shipyards as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Bilbringi Shipyards meant control of Bilbringi.",
+  "significance": "The economy of Bilbringi Shipyards runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Bilbringi Shipyards runs on local industry, trade tariffs, and black-market mediation typical of Bilbringi. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Bilbringi Shipyards infrastructure during the late Republic. Post-war reconstruction funds often bypass Bilbringi Shipyards officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Bilbringi Shipyards mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Bilbringi Shipyards preserve Bilbringi rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Bilbringi Shipyards are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Bilbringi Shipyards back alleys.\n\nBilbringi Shipyards influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Bilbringi Shipyards when tracing how Bilbringi influenced sector-wide treaties and fleet movements. Scenes set in Bilbringi Shipyards across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Bilbringi Shipyards when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Bilbringi Shipyards founded on Bilbringi",
+    "Recorded siege or battle at Bilbringi Shipyards",
+    "Occupation forces restructure Bilbringi Shipyards",
+    "Underground resistance operates from Bilbringi Shipyards",
+    "Post-war memorialization of Bilbringi Shipyards"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Bilbringi governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Bilbringi Shipyards"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Bilbringi Shipyards"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Bilbringi Shipyards"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Bilbringi Shipyards"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Bilbringi Shipyards"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/bilbringi-shipyards.svg",
+      "caption": "Emblem — Bilbringi Shipyards"
+    },
+    {
+      "path": "/images/settlements/bilbringi-shipyards-scene.svg",
+      "caption": "Scene illustration — Bilbringi Shipyards"
+    }
+  ]
+}

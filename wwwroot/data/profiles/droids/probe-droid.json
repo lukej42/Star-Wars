@@ -1,0 +1,47 @@
+{
+  "overview": "Probe Droid is a probe droid built by Arakyd Industries, documented across Empire Strikes Back · Clone Wars · Rebels. Viper probe droids with self-destruct protocols that discovered the Rebel base on Hoth—iconic Imperial reconnaissance tools across the Galactic Civil War.",
+  "history": "Probe Droid belongs to the probe droid class manufactured by Arakyd Industries, one of the most recognizable automaton designs documented across galactic history. Arakyd Viper probe droids sacrifice themselves after transmitting intelligence to Imperial command. Arakyd Industries factory schematics document the probe droid platform lineage that produced Probe Droid, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat Probe Droid as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced Probe Droid. Excavations on Taris, Dxun, and Dromund Kaas recovered probe droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Arakyd Industries subsystems, spreading design language across millennia before Probe Droid rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Arakyd Industries subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and probe droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, Probe Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. Probe Droid units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Arakyd Industries frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Arakyd Industries frames. Historians studying the Sequel Era treat surviving Probe Droid memory cores as primary sources on earlier conflicts.\n\nProbe Droid and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, Probe Droid and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of probe droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Arakyd Industries automata.",
+  "significance": "Engineering analysis of Probe Droid highlights why probe droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise Probe Droid's modular probe droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Arakyd Industries documentation; slicers praise its predictable security flaws—both keep Probe Droid relevant in scrap yards centuries later. New Republic certification boards still debate which probe droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite Probe Droid when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite Probe Droid when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every probe droid rights petition involving Arakyd Industries personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as Probe Droid's service record. Whether Probe Droid is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of Probe Droid exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like Probe Droid; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like Probe Droid, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Arakyd Industries chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Discovers Rebel base on Hoth before self-destructing",
+    "Deployed by Empire across Galactic Civil War",
+    "Used by Thrawn for Lothal reconnaissance",
+    "Clone Wars-era predecessors scout battlefields",
+    "Self-destruct prevents capture by enemy forces"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Imperial Navy",
+    "Grand Admiral Thrawn",
+    "Arakyd Industries",
+    "Imperial Intelligence"
+  ],
+  "timeline": [
+    {
+      "era": "Clone Wars",
+      "event": "Early probe droid variants scouted battlefields"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Viper model standardizes reconnaissance"
+    },
+    {
+      "era": "Hoth Campaign",
+      "event": "Probe droid discovers Echo Base"
+    },
+    {
+      "era": "Lothal Occupation",
+      "event": "Seeker variants hunt rebels"
+    },
+    {
+      "era": "Legacy",
+      "event": "Design copied by First Order scouts"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/probe-droid-scene.png",
+      "caption": "Cinematic illustration — Probe Droid"
+    }
+  ]
+}

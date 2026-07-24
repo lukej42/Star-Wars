@@ -1,0 +1,51 @@
+{
+  "overview": "Onca is a selkath bounty hunter from Manaan, documented across Clone Wars. Selkath hunter paired with Derrown in Moralo Eval's box tournament.",
+  "history": "Onca rose from Manaan to become a selkath bounty hunter whose name appears on guild boards from the Core to the Outer Rim. Onca, Selkath hunter from Manaan, competed in Moralo Eval's box tournament alongside Derrown—pairing aquatic species hunter traditions in Separatist assassin recruitment trials. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Onca as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Onca's career, Manaan produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Manaan's Selkath warriors occasionally leave kolto homeworld for mercenary markets; Onca represents amphibious hunters in Core gladiator competitions. Old Republic bounty charters and Sith Empire mercenary rolls show how selkath bounty hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Onca negotiate payment and honor.\n\nIn the modern era, Onca competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Onca's box tournament pairing with Derrown showcased Selkath-Parwan hunter team dynamics in Clone Wars' deadliest assassin screening event. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Onca. Mandalorian-era postings on Nevarro and Mos Espa show selkath bounty hunter specialists remain essential to galactic order—and chaos.\n\nOnca operated in war zones where capture alive paid more than kill, and both paid more than failure. Onca survived early box trial stages using Selkath combat training before Eval's lethal platform mechanisms eliminated competitors. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of selkath bounty hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Onca's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Onca as a selkath bounty hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Selkath aquatic combat adapted to arena, paired operations with Derrown's gas attacks, and Manaan warrior discipline in gladiator environment. Guild instructors use redacted mission logs from Onca's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Onca often know smuggler routes better than naval patrols.\n\nAmong peers, Onca earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Eval's organizers paired Onca with Derrown deliberately; box competitors noted Selkath resilience; Manaan mercenary diaspora cites tournament representation. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Onca that may be half true and fully instructive. Whether Onca followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Onca exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Onca validated Selkath hunter participation in Core tournaments—amphibious species competing alongside Duros and Mandalorian legends. Without contractors like Onca, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Onca when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Leaves Manaan for bounty markets",
+    "Enters Moralo Eval's box tournament",
+    "Pairs with Derrown in trials",
+    "Selkath combat in arena stages",
+    "Clone Wars assassin pipeline candidate"
+  ],
+  "affiliations": [
+    "Moralo Eval's box roster",
+    "Derrown partnership",
+    "Manaan Selkath warriors",
+    "Separatist assassin recruitment",
+    "Bounty Hunters' Guild"
+  ],
+  "timeline": [
+    {
+      "era": "Manaan",
+      "event": "Selkath warrior training"
+    },
+    {
+      "era": "Box Entry",
+      "event": "Eval tournament"
+    },
+    {
+      "era": "Partnership",
+      "event": "Derrown team trials"
+    },
+    {
+      "era": "Arena",
+      "event": "Survival stages"
+    },
+    {
+      "era": "Legacy",
+      "event": "Selkath hunter representation"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/onca.svg",
+      "caption": "Emblem — Onca"
+    },
+    {
+      "path": "/images/bounty-hunters/onca-scene.svg",
+      "caption": "Scene illustration — Onca"
+    }
+  ]
+}

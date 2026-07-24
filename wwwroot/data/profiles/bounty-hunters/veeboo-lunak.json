@@ -1,0 +1,45 @@
+{
+  "overview": "Veeboo Lunak is a rodian great hunt hunter from Rodia, documented across Star Wars: The Old Republic. Rodian tournament hunter whose Great Hunt career showcased Rodian marksmanship in SWTOR's deadliest public competition.",
+  "history": "Veeboo Lunak rose from Rodia to become a rodian great hunt hunter whose name appears on guild boards from the Core to the Outer Rim. Veeboo Lunak translated Rodian clan sniper training into Great Hunt bracket survival, posting kills that Republic media could not censor fast enough. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Veeboo Lunak as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Veeboo Lunak's career, Rodia produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Rodia supplied mercenary hunters to Old Republic charter markets and Sith Empire shadow rolls long before Veeboo Lunak posted the contracts that made them infamous. Old Republic bounty charters and Sith Empire mercenary rolls show how rodian great hunt hunter contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Veeboo Lunak negotiate payment and honor.\n\nIn the modern era, Veeboo Lunak competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Veeboo Lunak remained active through Imperial guild consolidation, Rebellion-era shadow postings, and New Republic amnesty debates—pucks archived on Nar Shaddaa, Ord Mantell, and Nevarro alike. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Veeboo Lunak. Mandalorian-era postings on Nevarro and Mos Espa show rodian great hunt hunter specialists remain essential to galactic order—and chaos.\n\nVeeboo Lunak operated in war zones where capture alive paid more than kill, and both paid more than failure. Lunak hunted competitors and sanctioned targets across Dromund Kaas under Great Hunt rules, where capture and kill both advanced tournament standing. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of rodian great hunt hunter hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Veeboo Lunak's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Veeboo Lunak as a rodian great hunt hunter relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Rodian sniper rifles, clan targeting rituals, tournament point optimization, and Dromund Kaas urban overwatch. Guild instructors use redacted mission logs from Veeboo Lunak's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Veeboo Lunak often know smuggler routes better than naval patrols.\n\nAmong peers, Veeboo Lunak earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Guild brokers classify Veeboo Lunak as a rodian great hunt hunter whose name alone changes negotiation posture—feared on the Rim, cited in ISB redacted annexes. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Veeboo Lunak that may be half true and fully instructive. Whether Veeboo Lunak followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Veeboo Lunak exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Veeboo Lunak's captures and eliminations shifted local power wherever Rodia expatriates compete for Hutt, Imperial, and syndicate contracts. Without contractors like Veeboo Lunak, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Veeboo Lunak when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Rodian clan sniper training",
+    "Great Hunt bracket entry",
+    "High-profile tournament eliminations",
+    "SWTOR media-notorious hunter"
+  ],
+  "affiliations": [
+    "Rodia hunter clans",
+    "Great Hunt tournament",
+    "Bounty Hunters' Guild",
+    "Dromund Kaas broker boards"
+  ],
+  "timeline": [
+    {
+      "era": "Rodia",
+      "event": "Sniper training"
+    },
+    {
+      "era": "Great Hunt",
+      "event": "Bracket entry"
+    },
+    {
+      "era": "Tournament",
+      "event": "Public eliminations"
+    },
+    {
+      "era": "Legacy",
+      "event": "Rodian SWTOR legend"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/veeboo-lunak.svg",
+      "caption": "Emblem — Veeboo Lunak"
+    },
+    {
+      "path": "/images/bounty-hunters/veeboo-lunak-scene.svg",
+      "caption": "Scene illustration — Veeboo Lunak"
+    }
+  ]
+}

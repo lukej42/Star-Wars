@@ -1,0 +1,51 @@
+{
+  "overview": "Doctor Aphra is a archaeologist thief (hunter adjacent) from Unknown, documented across Comics · Doctor Aphra. Rogue archaeologist who hires hunters and operates with Black Krrsantan on artifact heists.",
+  "history": "Doctor Aphra rose from Unknown to become a archaeologist thief (hunter adjacent) whose name appears on guild boards from the Core to the Outer Rim. Chelli Lona Aphra, rogue archaeologist, operates adjacent to bounty hunting—employing Black Krrsantan and running heists that require hunter muscle, Imperial evasion, and tomb raiding in equal measure. Bounty puck archives, Imperial warrant logs, and Hutt contract registries all document Doctor Aphra as a contractor who shaped wars without wearing a uniform. Coverage spans all nine saga films, Clone Wars, Rebels, Mandalorian, Book of Boba Fett, Andor, KOTOR, KOTOR II, SWTOR, and Sith Empire-era mercenary markets.\n\nEven before Doctor Aphra's career, Unknown produced hunters, soldiers, and syndicate enforcers whose traditions fed the modern guild system. Old Republic archaeologist-thief guilds on Nar Shaddaa blurred lines between hunter and looter; Aphra revives that tradition with doctoral credentials and zero ethics. Old Republic bounty charters and Sith Empire mercenary rolls show how archaeologist thief (hunter adjacent) contractors were hired to bypass political treaties. Mandalorian foundling laws and Hutt kajidic codes both influenced how hunters like Doctor Aphra negotiate payment and honor.\n\nIn the modern era, Doctor Aphra competed on postings issued by the Empire, the Rebellion, the Hutt Cartel, and independent monarchs alike. Doctor Aphra's comics series made her central to post-Endor artifact black markets where hunters like Krrsantan provide violence Aphra's intellect cannot. Post-Endor guild restructuring and New Republic amnesty debates still reference contracts linked to Doctor Aphra. Mandalorian-era postings on Nevarro and Mos Espa show archaeologist thief (hunter adjacent) specialists remain essential to galactic order—and chaos.\n\nDoctor Aphra operated in war zones where capture alive paid more than kill, and both paid more than failure. Aphra stole Sith artifacts, evaded Darth Vader's personal pursuit, partnered Krrsantan against Triple-Zero and BT-1, and navigated Imperial and Rebel hunter-adjacent chaos. KOTOR-era Nar Shaddaa boards and TOR-era Great Galactic War contracts show earlier generations of archaeologist thief (hunter adjacent) hunters in the same blood-stained market. Jedi, Sith, and clone troopers alike learned to respect or fear Doctor Aphra's approach to pursuit and extraction.",
+  "significance": "Operational profiles classify Doctor Aphra as a archaeologist thief (hunter adjacent) relying on specific tactics—tracking, intimidation, sniper overwatch, or starship interception. Archaeological expertise, social manipulation, droid specialists, and Krrsantan's brute force—Aphra hires hunters rather than holding puck herself. Guild instructors use redacted mission logs from Doctor Aphra's career to teach negotiation, trap-setting, and when to walk away from a bounty. Imperial Security Bureau analysts note that hunters like Doctor Aphra often know smuggler routes better than naval patrols.\n\nAmong peers, Doctor Aphra earned a reputation that outlived individual contracts—feared, respected, or mocked, but rarely ignored. Imperial Intelligence flagged Aphra as priority; Krrsantan stayed for credits and chaos; hunters guild brokers treat her jobs as high-risk high-reward. Hunter cantinas on Nar Shaddaa, Ord Mantell, and Tatooine still tell stories about Doctor Aphra that may be half true and fully instructive. Whether Doctor Aphra followed the Bounty Hunter Code or broke it defines how guild historians judge their legacy.\n\nThe galactic impact of Doctor Aphra exceeds credit totals: key captures, assassinations, and rescues altered the timeline. Doctor Aphra expanded hunter-adjacent work into archaeological mercenary space—proving puck economy extends to artifact extraction and tomb raiding. Without contractors like Doctor Aphra, governments would need armies ten times larger to enforce law across the Rim. New Republic reformers cite Doctor Aphra when arguing for guild regulation versus outright prohibition of bounty hunting.",
+  "notableEvents": [
+    "Steals Sith artifacts from Vader's reach",
+    "Partners Black Krrsantan on heists",
+    "Evades Darth Vader personal pursuit",
+    "Leads Doctor Aphra comics series",
+    "Operates artifact black markets"
+  ],
+  "affiliations": [
+    "Black Krrsantan crew",
+    "Archaeological black market",
+    "Triple-Zero and BT-1 (former)",
+    "Imperial Intelligence (fugitive)",
+    "Sith artifact networks"
+  ],
+  "timeline": [
+    {
+      "era": "Academic Fall",
+      "event": "Ethics abandonment"
+    },
+    {
+      "era": "Vader Era",
+      "event": "Artifact theft spree"
+    },
+    {
+      "era": "Krrsantan",
+      "event": "Hunter partnership"
+    },
+    {
+      "era": "Comics Lead",
+      "event": "Doctor Aphra series"
+    },
+    {
+      "era": "Black Market",
+      "event": "Artifact mercenary queen"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/bounty-hunters/doctor-aphra.svg",
+      "caption": "Emblem — Doctor Aphra"
+    },
+    {
+      "path": "/images/bounty-hunters/doctor-aphra-scene.svg",
+      "caption": "Scene illustration — Doctor Aphra"
+    }
+  ]
+}

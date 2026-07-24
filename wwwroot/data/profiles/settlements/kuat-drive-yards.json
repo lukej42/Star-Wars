@@ -1,0 +1,51 @@
+{
+  "overview": "Kuat Drive Yards is a orbital ring shipyard on Kuat, documented across Films · Rebels · Andor. The Kuat Drive Yards ring builds Star Destroyers and symbolizes Imperial industrial might visible from space.",
+  "history": "Kuat Drive Yards began as a orbital ring shipyard anchor on Kuat, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Kuat Drive Yards began as a strategic anchor on Kuat, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Kuat Drive Yards as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Kuat Drive Yards as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Kuat Drive Yards include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Kuat Drive Yards include ward-stones and battle markers from Sith and Jedi campaigns on Kuat. High Republic pathfinders logged Kuat Drive Yards as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Kuat suggest Kuat Drive Yards once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Kuat Drive Yards expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Kuat Drive Yards appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Kuat Drive Yards because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Kuat Drive Yards as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nKuat Drive Yards has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Kuat Drive Yards as contested territory on Kuat. Clone Wars dossiers mark Kuat Drive Yards as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Kuat Drive Yards meant control of Kuat.",
+  "significance": "The economy of Kuat Drive Yards runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Kuat Drive Yards runs on local industry, trade tariffs, and black-market mediation typical of Kuat. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Kuat Drive Yards infrastructure during the late Republic. Post-war reconstruction funds often bypass Kuat Drive Yards officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Kuat Drive Yards mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Kuat Drive Yards preserve Kuat rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Kuat Drive Yards are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Kuat Drive Yards back alleys.\n\nKuat Drive Yards influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Kuat Drive Yards when tracing how Kuat influenced sector-wide treaties and fleet movements. Scenes set in Kuat Drive Yards across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Kuat Drive Yards when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Kuat Drive Yards founded on Kuat",
+    "Recorded siege or battle at Kuat Drive Yards",
+    "Occupation forces restructure Kuat Drive Yards",
+    "Underground resistance operates from Kuat Drive Yards",
+    "Post-war memorialization of Kuat Drive Yards"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Kuat governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Kuat Drive Yards"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Kuat Drive Yards"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Kuat Drive Yards"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Kuat Drive Yards"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Kuat Drive Yards"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/kuat-drive-yards.svg",
+      "caption": "Emblem — Kuat Drive Yards"
+    },
+    {
+      "path": "/images/settlements/kuat-drive-yards-scene.svg",
+      "caption": "Scene illustration — Kuat Drive Yards"
+    }
+  ]
+}

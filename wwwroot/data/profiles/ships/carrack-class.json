@@ -1,0 +1,58 @@
+{
+  "overview": "The Carrack-class Light Cruiser is a light cruiser whose design philosophy reflects the industrial and strategic priorities of Imperial Era (19 BBY–4 ABY). Carrack-class cruisers filled gaps between corvettes and Star Destroyers in Imperial picket fleets. Production estimates place the class at ~750 units, though wartime losses, capture, and black-market duplication make precise fleet registries unreliable.",
+  "history": "Engineering teams first finalized the Carrack-class Light Cruiser blueprints during the political climate of Imperial Era (19 BBY–4 ABY). The light cruiser was intended to solve specific fleet gaps—whether planetary assault, convoy escort, starfighter superiority, or terror bombardment—and shipwrights iterated hull plates, reactor output, and crew compartments accordingly.\n\nOnce deployed, the Carrack-class Light Cruiser appeared in fleet actions that defined its reputation. Carrack-class cruisers filled gaps between corvettes and Star Destroyers in Imperial picket fleets. Combat logs show crews exploiting the class's strengths while improvising fixes for known weaknesses under fire, a pattern repeated across every major galactic conflict.\n\nAs doctrine evolved, rival factions studied captured Carrack-class Light Cruiser hulls. Refit yards duplicated weapons mounts and sensor suites; some variants never appeared in official manifests. Estimated production of ~750 units therefore understates how many similar silhouettes operated under alternate insignia.\n\nSurviving Carrack-class Light Cruiser vessels now sit in museum orbits, mercenary fleets, and scrap worlds. Historians treat the class as a measure of how galactic wars industrialize violence—each hull a factory product that outlived the politicians who ordered it.",
+  "significance": "The Carrack-class Light Cruiser demonstrates how light cruiser design shapes campaign outcomes. Its layout influenced successor programs and remains a case study in naval academies.\n\nWith roughly ~750 units hulls associated with Imperial Era (19 BBY–4 ABY), the class became a visual symbol of its faction's reach—recognizable in holonet footage and feared in convoy manifests.\n\nEngineers still debate whether the Carrack-class Light Cruiser prioritized firepower over crew survival; that trade-off defines its legacy in both propaganda and honest after-action reports.",
+  "notableEvents": [
+    "Prototype Carrack-class Light Cruiser accepted into fleet trials during Imperial Era",
+    "Mass production reaches approximately ~750 units",
+    "First major fleet battle featuring multiple Carrack-class Light Cruiser hulls",
+    "Captured or scuttled Carrack-class Light Cruiser studied by rival shipwrights",
+    "Notable commander achieves victory aboard a Carrack-class Light Cruiser",
+    "Refit program extends service life beyond original specifications",
+    "Class featured in faction propaganda broadcasts",
+    "Remaining hulls retired, preserved, or converted to civilian use"
+  ],
+  "affiliations": [
+    "Galactic Empire",
+    "Light Cruiser operational wings",
+    "Naval shipwright guilds",
+    "Fleet maintenance corps",
+    "Combat flight schools"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Carrack-class Light Cruiser design approved and prototype tested"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Production scales toward ~750 units"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Carrack-class Light Cruiser enters decisive fleet engagements"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Attrition and refits reshape active Carrack-class Light Cruiser registries"
+    },
+    {
+      "era": "New Republic",
+      "event": "Surviving Carrack-class Light Cruiser hulls decommissioned or sold"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/ships/carrack-class.svg",
+      "caption": "Profile view of the Carrack-class Light Cruiser"
+    },
+    {
+      "path": "/images/ships/carrack-class-scene.svg",
+      "caption": "Combat deployment — Carrack-class Light Cruiser"
+    },
+    {
+      "path": "/images/ships/carrack-class-blueprint.svg",
+      "caption": "Technical schematic — Carrack-class Light Cruiser"
+    }
+  ]
+}

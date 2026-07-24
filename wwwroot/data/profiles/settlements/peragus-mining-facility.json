@@ -1,0 +1,51 @@
+{
+  "overview": "Peragus Mining Facility is a asteroid mining station on Peragus, documented across KOTOR II. Peragus II's fuel refinery asteroids exploded in a chain reaction during the Jedi Exile's escape from Sith hunters.",
+  "history": "Peragus Mining Facility began as a asteroid mining station anchor on Peragus, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Peragus Mining Facility began as a strategic anchor on Peragus, where geography and trade lanes forced travelers to settle. Early survey maps from the Old Republic era list Peragus Mining Facility as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Peragus Mining Facility as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Peragus Mining Facility include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic ruins near Peragus Mining Facility include ward-stones and battle markers from Sith and Jedi campaigns on Peragus. High Republic pathfinders logged Peragus Mining Facility as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Peragus suggest Peragus Mining Facility once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Peragus Mining Facility expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. In the modern era, Peragus Mining Facility appears in Clone Wars dossiers, Imperial occupation records, and Sequel-era intelligence briefings. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Peragus Mining Facility because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Peragus Mining Facility as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nPeragus Mining Facility has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from multiple eras mark Peragus Mining Facility as contested territory on Peragus. Clone Wars dossiers mark Peragus Mining Facility as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Peragus Mining Facility meant control of Peragus.",
+  "significance": "The economy of Peragus Mining Facility runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Peragus Mining Facility runs on local industry, trade tariffs, and black-market mediation typical of Peragus. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Peragus Mining Facility infrastructure during the late Republic. Post-war reconstruction funds often bypass Peragus Mining Facility officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Peragus Mining Facility mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Residents of Peragus Mining Facility preserve Peragus rituals while adapting to galactic war and occupation. Music, food, and festival calendars in Peragus Mining Facility are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Peragus Mining Facility back alleys.\n\nPeragus Mining Facility influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Historians cite Peragus Mining Facility when tracing how Peragus influenced sector-wide treaties and fleet movements. Scenes set in Peragus Mining Facility across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Peragus Mining Facility when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Peragus Mining Facility founded on Peragus",
+    "Recorded siege or battle at Peragus Mining Facility",
+    "Occupation forces restructure Peragus Mining Facility",
+    "Underground resistance operates from Peragus Mining Facility",
+    "Post-war memorialization of Peragus Mining Facility"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Peragus governance",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Local militias"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Founding structures at Peragus Mining Facility"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Trade integration of Peragus Mining Facility"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic strikes on Peragus Mining Facility"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Peak exploitation at Peragus Mining Facility"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery at Peragus Mining Facility"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/peragus-mining-facility.svg",
+      "caption": "Emblem — Peragus Mining Facility"
+    },
+    {
+      "path": "/images/settlements/peragus-mining-facility-scene.svg",
+      "caption": "Scene illustration — Peragus Mining Facility"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+@page "/all-light-side-powers"
+@using StarWars.Data
+
+<PageTitle>All Light Side Powers</PageTitle>
+
+<figure class="directory-hero">
+    <img src="/images/force-powers/force-powers-light-side-hero.png" alt="Serene light side Force energy radiating through the cosmos" loading="lazy" />
+</figure>
+
+<h1>All Light Side Powers</h1>
+<p class="all-planets-intro">
+    @ForcePowerData.LightSidePowers.Count light-side techniques used by the Jedi Order, the High Republic,
+    Ashla mystics, and Force-sensitives who serve life, clarity, and balance — from Padawan fundamentals
+    to Grand Master battle meditation and Force spirit transcendence.
+</p>
+
+@foreach (var group in ForcePowerData.LightSidePowers.GroupBy(power => power.Category).OrderBy(group => group.Key))
+{
+    <section class="force-powers-category">
+        <h2>@group.Key</h2>
+        <div class="planet-directory-grid">
+            @foreach (var power in group.OrderBy(power => power.Name))
+            {
+                <article class="planet-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @power.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@power.Route">@power.Name</a>
+                        <p class="planet-region">@power.Difficulty · @power.Sources</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </section>
+}
+
+<p class="force-powers-crosslink"><a href="all-force-powers">View all Force powers</a> · <a href="all-dark-side-powers">Dark Side powers</a></p>

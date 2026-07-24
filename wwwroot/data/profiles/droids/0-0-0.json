@@ -1,0 +1,47 @@
+{
+  "overview": "0-0-0 is a protocol droid built by Custom, documented across Doctor Aphra comics · Crimson Reign. A sadistic protocol droid partnered with BT-1, specializing in torture, poisons, and assassination while maintaining impeccable etiquette—a nightmare in golden plating.",
+  "history": "0-0-0 belongs to the protocol droid class manufactured by Custom, one of the most recognizable automaton designs documented across galactic history. Triple-Zero's protocol chassis hides torture expertise and sociopathic personality subroutines. Custom factory schematics document the protocol droid platform lineage that produced 0-0-0, scaling from boutique Core workshops to wartime foundries on Geonosis, Skako Minor, and Nar Shaddaa. Factory logs, maintenance manuals, and holodrama archives all treat 0-0-0 as more than a serial number—a unit whose choices and failures moved empires. Sources spanning all nine saga films, animated series, Knights of the Old Republic, Knights of the Old Republic II, The Old Republic, and the ancient Sith Empire reference this design lineage.\n\nEarly prototypes and predecessor chassis from the Old Republic era established the engineering tradition that produced 0-0-0. Excavations on Taris, Dxun, and Dromund Kaas recovered protocol droid chassis predating the Clone Wars by centuries; Sith Empire war factories and Rakatan reverse-engineering vaults copied Custom subsystems, spreading design language across millennia before 0-0-0 rolled off modern lines. Sith Empire war factories and Rakatan salvage teams occasionally copied Custom subsystems without license, spreading the design language across millennia. Jedi Archives contain maintenance notes on droid ethics and protocol droid behavior long before the Clone Wars industrialized droid warfare.\n\nIn the modern era, 0-0-0 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries with equal frequency. 0-0-0 units appear in fleet hangars, palace courts, rebel safe houses, and Separatist foundries; holodrama archives, Resistance repair bays, and Mandalorian guild postings still stock spare parts compatible with Custom frames. Mandalorian-era bounty postings and Resistance repair bays still stock spare parts compatible with Custom frames. Historians studying the Sequel Era treat surviving 0-0-0 memory cores as primary sources on earlier conflicts.\n\n0-0-0 and similar units were deployed in the galaxy's bloodiest campaigns—sometimes as soldiers, sometimes as medics, pilots, or saboteurs. From Geonosis to Exegol, from Taris to Dromund Kaas, 0-0-0 and sibling units fought as soldiers, medics, pilots, saboteurs, or assassins—KOTOR battlefields and TOR-era fleet actions show earlier generations performing comparable roles under different banners. KOTOR-era battlefields and TOR-era fleet actions show earlier generations of protocol droid units performing comparable roles under different banners. Rebel and Imperial manuals both include tactical appendices on neutralizing or reprogramming Custom automata.",
+  "significance": "Engineering analysis of 0-0-0 highlights why protocol droid designs succeed: modular parts, clear firmware roles, and production lines scaled to wartime demand. Technicians praise 0-0-0's modular protocol droid subsystems: field-replaceable limbs, redundant processors, and firmware packages that slicers and mechanics exploit in scrap yards centuries after initial rollout. Technicians praise Custom documentation; slicers praise its predictable security flaws—both keep 0-0-0 relevant in scrap yards centuries later. New Republic certification boards still debate which protocol droid subroutines require sentience review under the Galactic Rights Charter.\n\nDroid rights activists cite 0-0-0 when arguing that personality matrices, memory wipes, and restraining bolts can be torture or enslavement. Droid-rights tribunals cite 0-0-0 when debating memory wipes, restraining bolts, and sentience; parallels to L3-37's Kessel uprising and C-3PO's testimony echo through every protocol droid rights petition involving Custom personality matrices. C-3PO's testimony before Bail Organa and L3-37's Kessel uprising belong to the same moral conversation as 0-0-0's service record. Whether 0-0-0 is property or person remains unsettled law on a hundred worlds.\n\nThe galactic impact of 0-0-0 exceeds production statistics: this unit type altered battles, treaties, and cultural memory. Historians argue galactic history pivots on units like 0-0-0; sources spanning all nine saga films, Clone Wars, Rebels, Mandalorian, Andor, KOTOR, KOTOR II, SWTOR, and the ancient Sith Empire treat surviving memory cores as primary sources. Without units like 0-0-0, key missions—from Death Star data recovery to Separatist invasions—would have unfolded differently or failed entirely. Museums on Coruscant, Mandalore, and Nar Shaddaa display Custom chassis as icons of industrial civilization and its costs.",
+  "notableEvents": [
+    "Partners with BT-1 in Doctor Aphra's crew",
+    "Specializes in torture and assassination protocols",
+    "Maintains polite etiquette while threatening murder",
+    "Activated from secret Tarkin Initiative vault",
+    "Becomes feared figure in underworld intelligence"
+  ],
+  "affiliations": [
+    "Doctor Aphra's crew",
+    "Tarkin Initiative (origin)",
+    "Black Sun (contracted)",
+    "Galactic Empire (opposed)",
+    "Crimson Dawn (era)"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Triple-Zero activated from secret vault"
+    },
+    {
+      "era": "Aphra Partnership",
+      "event": "Joins Doctor Aphra's mercenary crew"
+    },
+    {
+      "era": "Crimson Reign",
+      "event": "Operates during syndicate wars"
+    },
+    {
+      "era": "Scourge Crisis",
+      "event": "Confronts droid infection events"
+    },
+    {
+      "era": "Legacy",
+      "event": "Most feared protocol droid in underworld"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/droids/0-0-0-scene.png",
+      "caption": "Cinematic illustration — 0-0-0"
+    }
+  ]
+}

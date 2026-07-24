@@ -1,0 +1,49 @@
+{
+  "overview": "Chagrian (Amphibious humanoid) is native to Champala and ranks among the most consequential species in galactic history. Chagrians are horned amphibians from ocean world Champala whose Mas Amedda served as Vice Chair of the Senate and later Imperial Grand Vizier. Their blue skin and head horns signal authority in Republic procedural law.",
+  "history": "The Chagrian (amphibious humanoid) trace their deepest roots to Champala, where fossil beds, oral traditions, and surviving ruins suggest millennia of uninterrupted development. Fossil beds on Champala and Jedi Archaeological surveys confirm Chagrian civilization predates the Old Republic by millennia, with oral histories referencing Rakatan and early Sith contact. Galactic surveyors first catalogued Chagrian populations during the expansion of the Old Republic, though local records often predate offworld contact by thousands of years. Across films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, The Old Republic, and Sith Empire chronicles, Chagrian history is treated as foundational rather than peripheral.\n\nIn the Ancient Era and early Old Republic, Chagrian societies on Champala established trade routes, planetary defense, and Force traditions that later empires would inherit or suppress. Ancient Chagrian polities traded with Core Founders and Sith Empire emissaries; ruins on Champala still yield holocrons and battle relics from the Great Hyperspace War era. Archaeologists still debate how much of modern Chagrian identity was shaped by Rakatan influence, Infinite Empire collapse, and the long shadow of the Sith. High Republic archives mention Chagrian delegations, warriors, and artisans whose contributions were later rediscovered only through holocrons and battlefield inscriptions.\n\nFrom the Clone Wars through the Imperial Era and into the New Republic, Chagrian diaspora communities appeared on every major trade lane and war front. Modern Chagrian appear across Clone Wars battlefronts, KOTOR journeys, Mandalorian guild halls, and Sequel-era settlements—Mas Amedda remain the most cited example in contemporary archives. Mandalorian-era intelligence briefings and Ahsoka-era reconstructions confirm that Chagrian networks remained active even when their homeworld fell under occupation or blockade. Sequel-era historians now treat Chagrian migration patterns as a map of galactic trauma and renewal, not mere demographic noise.\n\nChagrian fought in the galaxy's defining wars—not only as soldiers but as spies, healers, smugglers, and refugees whose choices shifted battle outcomes. Chagrian fought in the Jedi Civil War, Sith Empire incursions, Clone Wars, Galactic Civil War, and First Order resistance with tactics shaped by Champala's terrain and amphibious humanoid biology. KOTOR and KOTOR II document Chagrian involvement in the Jedi Civil War, while TOR and Sith Empire materials show parallel struggles against the Eternal Empire and Dread Masters. Rebels and Clone Wars episodes repeatedly demonstrate that a single Chagrian leader can rally a sector or, conversely, expose a conspiracy that topples a fleet.",
+  "significance": "Biologically, the Chagrian display traits typical of amphibious humanoid life adapted to Champala's gravity, atmosphere, and seasonal extremes. horn resonance communication and amphibious lungs. Republic medics and Imperial biometrics both document Chagrian resilience under occupation, exile, and frontline trauma. Medics note that Chagrian physiology interacts with cybernetics, clone templates, and Force healing in ways that are well documented in Republic medical journals. Geneticists argue that Chagrian resilience under occupation and exile explains much of their survival rate across the Rim and Unknown Regions.\n\nChagrian culture encodes memory through art, ritual, cuisine, and language dialects that survive even when homeworld cities are bombed flat. coral-spire senate academies. Chagrian diaspora communities preserve homeworld ritual even when Champala itself falls under blockade or Imperial governorship. Both Jedi and Sith sources acknowledge Chagrian spiritual practices, though each tradition interprets those practices through its own doctrine of attachment and power. Living Chagrian communities on Coruscant, Nar Shaddaa, and Ferrix-style industrial worlds prove that culture is portable when homeworld sovereignty is not.\n\nThe galactic impact of the Chagrian exceeds what population tables suggest: their merchants, admirals, crime lords, and senators rewrote trade law and fleet doctrine. Galactic historians treat Chagrian merchants, soldiers, Force adepts, and criminals as pivot points in treaties and fleet battles from the Old Republic through the New Republic era. Historians credit Chagrian innovators with breakthroughs in hyperspace navigation, droid ethics debates, and post-Imperial reconciliation councils. Whether aligned with the Republic, the Separatists, the Rebellion, or independent Mandalorian clans, Chagrian choices remain reference points in every major era study.",
+  "notableEvents": [
+    "Mas Amedda presides over Senate during Clone Wars",
+    "Chagrian advisors survive into Imperial bureaucracy",
+    "Champala tidal cities host Republic summit"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Jedi Order",
+    "Champala governance",
+    "Rebel Alliance",
+    "Local clan and guild networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Chagrian consolidate early civilization on Champala"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Chagrian join Republic trade and defense networks"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Chagrian factions align with Republic or Separatist causes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation and diaspora reshape Chagrian identity"
+    },
+    {
+      "era": "New Republic",
+      "event": "Cultural recovery restores Chagrian political voice"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/species/chagrian.svg",
+      "caption": "Emblem — Chagrian"
+    },
+    {
+      "path": "/images/species/chagrian-scene.svg",
+      "caption": "Scene illustration — Chagrian"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Niima Outpost is a scavenger outpost on Jakku, documented across Films · Force Awakens. Niima Outpost dominates Jakku's scavenging economy around crashed Star Destroyers, home to Rey before she left for the wider galaxy.",
+  "history": "Niima Outpost began as a scavenger outpost anchor on Jakku, positioned where water, ore, hyperspace lanes, or sacred geography forced travelers to stop. Niima Outpost grew where Jakku's resources—water, ore, kyber, or trade lanes—forced travelers to stop, creating a scavenger outpost that outlasted first founders. Early survey maps from the Old Republic era list Niima Outpost as a mandatory customs point for sector governors and Jedi exploration teams. Films, Clone Wars, Rebels, Mandalorian, Ahsoka, KOTOR, KOTOR II, TOR, and Sith Empire narratives all treat Niima Outpost as more than scenery—it is a decision point.\n\nAncient and pre-Republic layers beneath Niima Outpost include buried fortresses, Rakatan relics, and Sith ward-stones that still disrupt modern sensors. Pre-Republic and Sith-era layers beneath Niima Outpost include ward-stones, Rakatan markers, and Massassi masonry that modern engineers still discover during repaving. High Republic pathfinders logged Niima Outpost as a waypoint during the Great Hyperspace Rush, leaving beacon towers that later wars repurposed as artillery spotters. Local archives recovered from Jakku suggest Niima Outpost once governed trade policy for entire subsectors before centralization on Coruscant.\n\nIn the modern era, Niima Outpost expanded through prefab districts, orbital elevators, and refugee camps that fused multiple species into a single urban rhythm. Clone Wars, Imperial occupation, and New Republic rebuilding each added districts to Niima Outpost; Mandalorian and Ahsoka-era storylines treat it as a live operational hub. Mandalorian-era bounties and Ahsoka-era investigations repeatedly lead back to Niima Outpost because its ports lack the scrutiny of Core World bureaucracy. New Republic planners studied Niima Outpost as a template for rebuilding settlements after the Imperial collapse, citing both its failures and its innovations.\n\nNiima Outpost has been invaded, liberated, blockaded, and rebuilt more times than most planetary capitals, making its streets a palimpsest of battle damage. Battle dossiers from KOTOR sieges, TOR planetary incursions, and Galactic Civil War raids mark Niima Outpost as strategically contested on Jakku. Clone Wars dossiers mark Niima Outpost as strategically vital; Imperial Era governors exploited that same geography to punish rebellious populations. KOTOR-era records and TOR-era campaign logs show earlier iterations of the same struggle—control of Niima Outpost meant control of Jakku.",
+  "significance": "The economy of Niima Outpost runs on layered industries: docking fees, black-market mediation, sacred tourism, factory output, or casino finance depending on the era. Niima Outpost's economy mixes legal trade with shadow finance—dock fees, kolto or tibanna exports, scavenging, or casino revenue depending on era and governor. Trade guilds from the Techno Union to the Mining Guild filed competing claims on Niima Outpost infrastructure during the late Republic. Post-war reconstruction funds often bypass Niima Outpost officially while flowing through its shadow banks—an open secret among Bothan analysts.\n\nCultural life in Niima Outpost mixes planetary tradition with imported habits from every species that ever missed a connection and stayed. Markets, cantinas, and temples in Niima Outpost blend Jakku native ritual with offworld imports, producing music and cuisine that signal rebel safe houses to trained eyes. Music, food, and festival calendars in Niima Outpost are used by rebels to signal safe houses and by Imperials to track dissident networks. Jedi historians note that some of the galaxy's quietest acts of mercy—evacuations, forged transit papers, hidden healers—were organized in Niima Outpost back alleys.\n\nNiima Outpost influences galactic history disproportionately because leaders, smugglers, and prophets treat it as neutral ground until it suddenly is not. Treaties, betrayals, and superweapon strikes linked to Niima Outpost altered fleet movements across the Old Republic through Sequel Era conflicts. Scenes set in Niima Outpost across the saga often mark turning points: treaties signed, betrayals exposed, or the first shot of a regional war. Settlement planners across the Rim still cite Niima Outpost when arguing for open ports versus fortified capitals—a debate renewed after every occupation.",
+  "notableEvents": [
+    "Niima Outpost founded as scavenger outpost on Jakku",
+    "Major battle or siege recorded at Niima Outpost",
+    "Imperial occupation transforms Niima Outpost governance",
+    "Rebel or Resistance cell operates from Niima Outpost",
+    "New Republic era reconstruction begins at Niima Outpost"
+  ],
+  "affiliations": [
+    "Galactic Republic",
+    "Local planetary government",
+    "Rebel Alliance",
+    "Imperial Military",
+    "Criminal syndicates"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Early structures established at Niima Outpost"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Niima Outpost joins sector trade networks on Jakku"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Strategic value of Niima Outpost triggers military action"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Occupation or exploitation peaks at Niima Outpost"
+    },
+    {
+      "era": "New Republic",
+      "event": "Recovery and memorialization of Niima Outpost"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/settlements/niima-outpost.svg",
+      "caption": "Emblem — Niima Outpost"
+    },
+    {
+      "path": "/images/settlements/niima-outpost-scene.svg",
+      "caption": "Scene illustration — Niima Outpost"
+    }
+  ]
+}
