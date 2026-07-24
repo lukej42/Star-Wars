@@ -1,0 +1,28 @@
+@page "/military-units/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+
+<PageTitle>@(faction?.Name ?? "Military Units")</PageTitle>
+
+@if (faction is null)
+{
+    <h1>Military unit not found</h1>
+    <p>Sorry, there are no records for this faction.</p>
+}
+else
+{
+    <h1>@faction.Name</h1>
+    <p class="all-planets-intro">Military unit listings for @faction.Name are coming soon.</p>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private MilitaryUnitFaction? faction;
+
+    protected override void OnParametersSet()
+    {
+        faction = MilitaryUnitData.GetBySlug(Slug);
+    }
+}

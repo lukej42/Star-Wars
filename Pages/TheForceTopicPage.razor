@@ -1,0 +1,28 @@
+@page "/the-force/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+
+<PageTitle>@(topic?.Name ?? "The Force")</PageTitle>
+
+@if (topic is null)
+{
+    <h1>Topic not found</h1>
+    <p>Sorry, there are no records for this Force topic.</p>
+}
+else
+{
+    <h1>@topic.Name</h1>
+    <p class="all-planets-intro">Detailed content for @topic.Name is coming soon.</p>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private TheForceTopic? topic;
+
+    protected override void OnParametersSet()
+    {
+        topic = TheForceTopicData.GetBySlug(Slug);
+    }
+}

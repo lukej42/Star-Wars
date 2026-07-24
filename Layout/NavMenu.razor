@@ -154,6 +154,27 @@
             </div>
             <div class="nav-item px-3 nav-flyout"
                  @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileMilitaryUnits">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsMilitaryUnitsRoute ? "active" : null)"
+                        @onclick="ToggleMobileMilitaryUnits">
+                    <span class="bi bi-military-units-nav-menu" aria-hidden="true"></span> Military Units
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileMilitaryUnitsOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-military-units">
+                        @foreach (var faction in MilitaryUnitData.Factions.OrderBy(faction => faction.Name))
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@faction.Route" @onclick="CloseMobileNav">
+                                <span class="nav-military-unit-dot" style="background-color: @faction.Color" aria-hidden="true"></span>
+                                @faction.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
                  @onmouseleave="CloseMobilePlanets">
                 <button type="button"
                         class="nav-link nav-flyout-trigger @(IsPlanetDirectoryRoute ? "active" : null)"
@@ -392,6 +413,14 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var topic in TheForceTopicData.Topics)
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-the-force-link" href="@topic.Route" @onclick="CloseMobileNav">
+                                <span class="nav-the-force-dot" style="background-color: @topic.Color" aria-hidden="true"></span>
+                                @topic.Name
+                            </NavLink>
+                        }
                     </div>
                 </div>
             </div>
@@ -406,6 +435,7 @@
     private bool mobileCharactersOpen;
     private bool mobileJediOpen;
     private bool mobileSithOpen;
+    private bool mobileMilitaryUnitsOpen;
     private bool mobilePlanetsOpen;
     private bool mobileShipsOpen;
     private bool mobileSpeciesOpen;
@@ -474,6 +504,18 @@
             return SithData.Members.Any(sith =>
                 uri.Equals(sith.Route, StringComparison.OrdinalIgnoreCase) ||
                 uri.StartsWith($"{sith.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private bool IsMilitaryUnitsRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            return MilitaryUnitData.Factions.Any(faction =>
+                uri.Equals(faction.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{faction.Route}/", StringComparison.OrdinalIgnoreCase));
         }
     }
 
@@ -579,7 +621,19 @@
         }
     }
 
-    private bool IsTheForceRoute => IsForcePowersSubRoute;
+    private bool IsTheForceRoute => IsForcePowersSubRoute || IsTheForceTopicRoute;
+
+    private bool IsTheForceTopicRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            return TheForceTopicData.Topics.Any(topic =>
+                uri.Equals(topic.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{topic.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
 
     private bool IsForcePowersSubRoute
     {
@@ -681,6 +735,15 @@
         if (mobileSithOpen)
         {
             CloseOtherFlyouts(nameof(mobileSithOpen));
+        }
+    }
+
+    private void ToggleMobileMilitaryUnits()
+    {
+        mobileMilitaryUnitsOpen = !mobileMilitaryUnitsOpen;
+        if (mobileMilitaryUnitsOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileMilitaryUnitsOpen));
         }
     }
 
@@ -808,6 +871,11 @@
             mobileSithOpen = false;
         }
 
+        if (except != nameof(mobileMilitaryUnitsOpen))
+        {
+            mobileMilitaryUnitsOpen = false;
+        }
+
         if (except != nameof(mobilePlanetsOpen))
         {
             mobilePlanetsOpen = false;
@@ -872,6 +940,11 @@
     private void CloseMobileSith()
     {
         mobileSithOpen = false;
+    }
+
+    private void CloseMobileMilitaryUnits()
+    {
+        mobileMilitaryUnitsOpen = false;
     }
 
     private void CloseMobilePlanets()
@@ -942,6 +1015,7 @@
         mobileCharactersOpen = false;
         mobileJediOpen = false;
         mobileSithOpen = false;
+        mobileMilitaryUnitsOpen = false;
         mobilePlanetsOpen = false;
         mobileShipsOpen = false;
         mobileSpeciesOpen = false;

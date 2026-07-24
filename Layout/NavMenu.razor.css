@@ -88,6 +88,10 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23dc2626' d='M8 1.5 9.8 6h4.7l-3.8 2.8 1.5 4.7L8 10.9l-4.2 2.6 1.5-4.7-3.8-2.8h4.7z'/%3E%3C/svg%3E");
 }
 
+.bi-military-units-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M3 12 L8 4 L13 12 Z'/%3E%3Crect fill='%2394a3b8' x='6.5' y='8' width='3' height='4'/%3E%3Ccircle fill='%23e11d48' cx='5' cy='12.5' r='0.9'/%3E%3Ccircle fill='%2364748b' cx='8' cy='12.5' r='0.9'/%3E%3Ccircle fill='%233b82f6' cx='11' cy='12.5' r='0.9'/%3E%3C/svg%3E");
+}
+
 .bi-all-sith-nav-menu {
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6.5' r='1' fill='%23991b1b'/%3E%3Ccircle cx='8' cy='6.5' r='1' fill='%23dc2626'/%3E%3Ccircle cx='10.5' cy='6.5' r='1' fill='%23450a0a'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%23b91c1c'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23ea580c'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%237f1d1d'/%3E%3C/svg%3E");
 }
@@ -356,7 +360,9 @@
 .nav-flyout-panel ::deep .nav-character-link,
 .nav-flyout-panel ::deep .nav-jedi-link,
 .nav-flyout-panel ::deep .nav-sith-link,
+.nav-flyout-panel ::deep .nav-military-unit-link,
 .nav-flyout-panel ::deep .nav-ship-link,
+.nav-flyout-panel ::deep .nav-the-force-link,
 .nav-flyout-panel ::deep .nav-force-power-link,
 .nav-flyout-panel ::deep .nav-species-link,
 .nav-flyout-panel ::deep .nav-settlement-link,
@@ -372,7 +378,9 @@
 .nav-flyout-panel ::deep .nav-character-dot,
 .nav-flyout-panel ::deep .nav-jedi-dot,
 .nav-flyout-panel ::deep .nav-sith-dot,
+.nav-flyout-panel ::deep .nav-military-unit-dot,
 .nav-flyout-panel ::deep .nav-ship-dot,
+.nav-flyout-panel ::deep .nav-the-force-dot,
 .nav-flyout-panel ::deep .nav-force-power-dot,
 .nav-flyout-panel ::deep .nav-species-dot,
 .nav-flyout-panel ::deep .nav-settlement-dot,
@@ -394,7 +402,9 @@
 .nav-flyout-panel ::deep .nav-character-link:hover .nav-character-dot,
 .nav-flyout-panel ::deep .nav-jedi-link:hover .nav-jedi-dot,
 .nav-flyout-panel ::deep .nav-sith-link:hover .nav-sith-dot,
+.nav-flyout-panel ::deep .nav-military-unit-link:hover .nav-military-unit-dot,
 .nav-flyout-panel ::deep .nav-ship-link:hover .nav-ship-dot,
+.nav-flyout-panel ::deep .nav-the-force-link:hover .nav-the-force-dot,
 .nav-flyout-panel ::deep .nav-force-power-link:hover .nav-force-power-dot,
 .nav-flyout-panel ::deep .nav-species-link:hover .nav-species-dot,
 .nav-flyout-panel ::deep .nav-settlement-link:hover .nav-settlement-dot,
@@ -418,6 +428,32 @@
     min-height: 2.5rem;
     line-height: 1.25 !important;
     white-space: nowrap;
+}
+
+.nav-flyout-panel-military-units {
+    min-width: 26.5rem;
+    width: max-content;
+    max-width: min(92vw, 28rem);
+    overflow-x: auto;
+}
+
+.nav-flyout-panel-military-units .nav-flyout-link {
+    height: 2.5rem !important;
+    min-height: 2.5rem;
+    line-height: 2.5rem !important;
+    white-space: nowrap;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    align-items: center !important;
+}
+
+.nav-flyout-panel-military-units ::deep .nav-military-unit-link {
+    gap: 0.65rem;
+}
+
+.nav-flyout-panel-military-units ::deep .nav-military-unit-dot {
+    margin-top: 0;
+    flex-shrink: 0;
 }
 
 .nav-flyout-panel-ships {
