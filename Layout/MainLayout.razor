@@ -1,16 +1,26 @@
 ﻿@inherits LayoutComponentBase
+@inject NavigationManager Navigation
+
 <div class="page">
     <div class="sidebar">
         <NavMenu />
     </div>
 
-    <main>
-        <div class="top-row px-4">
-            <span class="top-row-title">Star Wars Worlds</span>
-        </div>
+    <main class="@(IsHomePage ? "main-home" : null)">
+        @if (!IsHomePage)
+        {
+            <div class="top-row px-4">
+                <span class="top-row-title">Star Wars Worlds</span>
+            </div>
+        }
 
-        <article class="content px-4">
+        <article class="content px-4 @(IsHomePage ? "content-home" : null)">
             @Body
         </article>
     </main>
 </div>
+
+@code {
+    private bool IsHomePage =>
+        Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Length == 0;
+}

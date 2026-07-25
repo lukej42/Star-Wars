@@ -1,7 +1,141 @@
 ﻿@page "/"
+@using StarWars.Data
+@using StarWars.Models
+@inject NavigationManager Navigation
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Jedi Archives</PageTitle>
 
-<h1>Welcome to the Galaxy</h1>
+<div class="home-page">
+    <div class="home-page-bg" aria-hidden="true"></div>
+    <div class="home-page-overlay" aria-hidden="true"></div>
 
-<p>Select a world from the navigation to explore.</p>
+    <div class="home-page-inner">
+        <header class="home-hero">
+            <h1>Welcome to the full Jedi Archives</h1>
+            <p class="home-intro">
+                You are exploring the full and complete Jedi Archives. If you are unable to find details about an item you are searching for amongst our records, it does not exist.
+            </p>
+        </header>
+
+        <section class="home-search" @onkeydown="OnSearchKeyDown">
+            <label class="home-search-label" for="home-search-input">Search the Archives</label>
+            <input id="home-search-input"
+                   class="home-search-input"
+                   type="search"
+                   placeholder="Search characters, planets, ships, Force powers..."
+                   @bind="searchQuery"
+                   @bind:event="oninput"
+                   @bind:after="OnSearchInput"
+                   @onfocus="ShowSuggestions"
+                   autocomplete="off"
+                   aria-autocomplete="list"
+                   aria-controls="home-search-list"
+                   aria-expanded="@showSuggestions" />
+            @if (showSuggestions && SearchSuggestions.Count > 0)
+            {
+                <ul id="home-search-list" class="home-search-suggestions" role="listbox">
+                    @foreach (var result in SearchSuggestions)
+                    {
+                        <li role="option">
+                            <button type="button"
+                                    class="home-search-option"
+                                    @onclick="() => NavigateTo(result)">
+                                <span class="home-search-category">@result.Category</span>
+                                <span class="home-search-name">@result.Name</span>
+                            </button>
+                        </li>
+                    }
+                </ul>
+            }
+            @if (showSuggestions && !string.IsNullOrWhiteSpace(searchQuery) && SearchSuggestions.Count == 0)
+            {
+                <div class="home-search-empty">No records match "@searchQuery".</div>
+            }
+        </section>
+
+        <section class="home-popular">
+            <h2>Popular characters in the Star Wars saga</h2>
+            <div class="home-character-row">
+                @foreach (var character in PopularCharacters)
+                {
+                    <a class="home-character-card" href="@character.Route">
+                        <img src="@character.ImagePath" alt="@character.Name cinematic portrait" loading="lazy" />
+                        <span>@character.Name</span>
+                    </a>
+                }
+            </div>
+        </section>
+
+        <section class="home-force-balance">
+            <p class="home-force-banner">Find out more about the balance between Light &amp; Dark sides!</p>
+            <div class="home-force-row">
+                @foreach (var power in FeaturedForcePowers)
+                {
+                    <a class="home-force-card" href="@power.Route">
+                        <img src="@power.ImagePath" alt="@power.Name cinematic illustration" loading="lazy" />
+                        <span>@power.Name</span>
+                    </a>
+                }
+            </div>
+        </section>
+    </div>
+</div>
+
+@code {
+    private string searchQuery = string.Empty;
+    private bool showSuggestions;
+
+    private IReadOnlyList<SiteSearchEntry> SearchSuggestions =>
+        SiteSearchData.Search(searchQuery);
+
+    private static IReadOnlyList<HomeFeaturedItem> PopularCharacters { get; } =
+    [
+        new("Yoda", "jedi/yoda", "/images/jedi/yoda-scene.webp"),
+        new("Leia", "characters/leia-organa", "/images/characters/leia-organa-scene.webp"),
+        new("Darth Vader", "sith/darth-vader", "/images/sith/darth-vader-scene.webp"),
+        new("Luke Skywalker", "jedi/luke-skywalker", "/images/jedi/luke-skywalker-scene.webp"),
+        new("Darth Sidious", "sith/darth-sidious", "/images/sith/darth-sidious-scene.webp")
+    ];
+
+    private static IReadOnlyList<HomeFeaturedItem> FeaturedForcePowers { get; } =
+    [
+        new("Force Lightning", "force-powers/force-lightning", "/images/force-powers/force-lightning-scene.webp"),
+        new("Force Heal", "force-powers/force-heal", "/images/force-powers/force-heal-scene.webp")
+    ];
+
+    private void OnSearchInput()
+    {
+        showSuggestions = !string.IsNullOrWhiteSpace(searchQuery);
+    }
+
+    private void ShowSuggestions()
+    {
+        if (!string.IsNullOrWhiteSpace(searchQuery))
+        {
+            showSuggestions = true;
+        }
+    }
+
+    private void OnSearchKeyDown(KeyboardEventArgs e)
+    {
+        if (e.Key == "Escape")
+        {
+            showSuggestions = false;
+            return;
+        }
+
+        if (e.Key == "Enter" && SearchSuggestions.Count > 0)
+        {
+            NavigateTo(SearchSuggestions[0]);
+        }
+    }
+
+    private void NavigateTo(SiteSearchEntry entry)
+    {
+        showSuggestions = false;
+        searchQuery = string.Empty;
+        Navigation.NavigateTo(entry.Route);
+    }
+
+    private sealed record HomeFeaturedItem(string Name, string Route, string ImagePath);
+}
