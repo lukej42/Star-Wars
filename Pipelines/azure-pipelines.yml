@@ -8,7 +8,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  publishDir: '$(Build.ArtifactStagingDirectory)/publish'
+  publishDir: '$(Agent.TempDirectory)/blazor-publish'
 
 steps:
 - checkout: self
@@ -31,30 +31,46 @@ steps:
   displayName: 'Restore NuGet packages'
   inputs:
     command: 'restore'
-    projects: 'Star-Wars.csproj'
+    projects: '$(Build.SourcesDirectory)/Star-Wars.csproj'
+    workingDirectory: '$(Build.SourcesDirectory)'
 
 - task: DotNetCoreCLI@2
   displayName: 'Publish'
   inputs:
     command: 'publish'
-    projects: 'Star-Wars.csproj'
+    projects: '$(Build.SourcesDirectory)/Star-Wars.csproj'
     arguments: '--configuration $(buildConfiguration) --output $(publishDir)'
+    workingDirectory: '$(Build.SourcesDirectory)'
     zipAfterPublish: false
 
-- task: ArchiveFiles@2
-  displayName: 'Package Blazor wwwroot for deployment'
-  inputs:
-    rootFolderOrFile: '$(publishDir)/wwwroot'
-    includeRootFolder: false
-    archiveType: 'zip'
-    archiveFile: '$(Build.ArtifactStagingDirectory)/site.zip'
-    replaceExistingArchive: true
-
 - script: |
-    rm -rf "$(publishDir)" "$(Build.SourcesDirectory)"
+    set -euo pipefail
+
+    echo "Publish output:"
+    ls -la "$(publishDir)" || true
+
+    webroot="$(publishDir)/wwwroot"
+    if [ ! -f "$webroot/index.html" ]; then
+      found="$(find "$(Build.SourcesDirectory)" "$(Agent.TempDirectory)" -path '*/wwwroot/index.html' -print -quit 2>/dev/null || true)"
+      if [ -n "$found" ]; then
+        webroot="$(dirname "$found")"
+      fi
+    fi
+
+    if [ ! -f "$webroot/index.html" ]; then
+      echo "##vso[task.logissue type=error]Published index.html was not found."
+      echo "Searched publishDir and build output folders."
+      find "$(Build.SourcesDirectory)" "$(Agent.TempDirectory)" -name 'index.html' 2>/dev/null | head -20 || true
+      exit 1
+    fi
+
+    echo "Packaging $webroot"
+    cd "$webroot"
+    zip -r "$(Build.ArtifactStagingDirectory)/site.zip" .
+    ls -lh "$(Build.ArtifactStagingDirectory)/site.zip"
+    rm -rf "$(publishDir)" "$(Build.SourcesDirectory)/bin" "$(Build.SourcesDirectory)/obj"
     df -h /
-  displayName: 'Remove source and publish folders before deploy'
-  condition: succeeded()
+  displayName: 'Package Blazor site for deployment'
 
 - task: AzureWebApp@1
   displayName: 'Deploy to Azure App Service'
