@@ -8,10 +8,19 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
+  publishDir: '$(Build.ArtifactStagingDirectory)/publish'
 
 steps:
 - checkout: self
   fetchDepth: 1
+
+- script: |
+    sudo rm -rf /usr/share/dotnet/sdk-doc
+    sudo rm -rf /usr/local/lib/android
+    sudo rm -rf /opt/hostedtoolcache/CodeQL
+    sudo rm -rf "$AGENT_TOOLSDIRECTORY/Ruby" "$AGENT_TOOLSDIRECTORY/PyPy" "$AGENT_TOOLSDIRECTORY/go"
+    df -h /
+  displayName: 'Free agent disk space'
 
 - task: UseDotNet@2
   inputs:
@@ -22,28 +31,30 @@ steps:
   displayName: 'Restore NuGet packages'
   inputs:
     command: 'restore'
-    projects: '**/*.csproj'
-
-- task: DotNetCoreCLI@2
-  displayName: 'Build'
-  inputs:
-    command: 'build'
-    projects: '**/*.csproj'
-    arguments: '--configuration $(buildConfiguration)'
+    projects: 'Star-Wars.csproj'
 
 - task: DotNetCoreCLI@2
   displayName: 'Publish'
   inputs:
     command: 'publish'
-    projects: 'Star-Wars/Star-Wars.csproj'
-    arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
-    zipAfterPublish: true
+    projects: 'Star-Wars.csproj'
+    arguments: '--configuration $(buildConfiguration) --output $(publishDir)'
+    zipAfterPublish: false
 
-- task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact'
+- task: ArchiveFiles@2
+  displayName: 'Package Blazor wwwroot for deployment'
   inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'drop'
+    rootFolderOrFile: '$(publishDir)/wwwroot'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/site.zip'
+    replaceExistingArchive: true
+
+- script: |
+    rm -rf "$(publishDir)" "$(Build.SourcesDirectory)"
+    df -h /
+  displayName: 'Remove source and publish folders before deploy'
+  condition: succeeded()
 
 - task: AzureWebApp@1
   displayName: 'Deploy to Azure App Service'
@@ -51,5 +62,4 @@ steps:
     azureSubscription: 'Azure subscription 1(2)(525c7c1f-f5e9-4bf4-8d7a-5b7a06889a12)'
     appType: 'webAppLinux'
     appName: 'Star-wars'
-    package: '$(Build.ArtifactStagingDirectory)/**/*.zip'
-
+    package: '$(Build.ArtifactStagingDirectory)/site.zip'
