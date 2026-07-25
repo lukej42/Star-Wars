@@ -8,7 +8,6 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  publishDir: '$(Agent.TempDirectory)/blazor-publish'
 
 steps:
 - checkout: self
@@ -27,44 +26,49 @@ steps:
     packageType: 'sdk'
     version: '9.0.x'
 
-- task: DotNetCoreCLI@2
-  displayName: 'Restore NuGet packages'
-  inputs:
-    command: 'restore'
-    projects: '$(Build.SourcesDirectory)/Server/Star-Wars.Server.csproj'
-    workingDirectory: '$(Build.SourcesDirectory)'
-
-- task: DotNetCoreCLI@2
-  displayName: 'Publish server + Blazor WASM client'
-  inputs:
-    command: 'publish'
-    projects: '$(Build.SourcesDirectory)/Server/Star-Wars.Server.csproj'
-    arguments: '--configuration $(buildConfiguration) --output $(publishDir)'
-    workingDirectory: '$(Build.SourcesDirectory)'
-    zipAfterPublish: false
-
 - script: |
     set -euo pipefail
 
-    echo "Publish output:"
-    ls -la "$(publishDir)"
+    publishDir="$(Pipeline.Workspace)/publish-output"
+    rm -rf "$publishDir"
+    mkdir -p "$publishDir"
 
-    if [ ! -f "$(publishDir)/Star-Wars.Server.dll" ]; then
-      echo "##vso[task.logissue type=error]Star-Wars.Server.dll was not found in publish output."
-      exit 1
+    dotnet restore "$(Build.SourcesDirectory)/Server/Star-Wars.Server.csproj"
+    dotnet publish "$(Build.SourcesDirectory)/Server/Star-Wars.Server.csproj" \
+      --configuration Release \
+      --no-restore \
+      --output "$publishDir"
+
+    echo "Publish output at $publishDir:"
+    ls -la "$publishDir"
+
+    if [ ! -f "$publishDir/Star-Wars.Server.dll" ]; then
+      echo "Star-Wars.Server.dll not at expected path; searching..."
+      found="$(find "$(Build.SourcesDirectory)" "$(Pipeline.Workspace)" -name 'Star-Wars.Server.dll' -print -quit || true)"
+      if [ -z "$found" ]; then
+        echo "##vso[task.logissue type=error]Star-Wars.Server.dll was not found after publish."
+        exit 1
+      fi
+      publishDir="$(dirname "$found")"
+      echo "Using publish directory: $publishDir"
     fi
 
-    if [ ! -f "$(publishDir)/wwwroot/index.html" ]; then
+    if [ ! -f "$publishDir/wwwroot/index.html" ]; then
       echo "##vso[task.logissue type=error]wwwroot/index.html was not found in publish output."
       exit 1
     fi
 
-    cd "$(publishDir)"
+    cd "$publishDir"
     zip -r "$(Build.ArtifactStagingDirectory)/site.zip" .
     ls -lh "$(Build.ArtifactStagingDirectory)/site.zip"
-    rm -rf "$(publishDir)" "$(Build.SourcesDirectory)/bin" "$(Build.SourcesDirectory)/obj" "$(Build.SourcesDirectory)/Server/bin" "$(Build.SourcesDirectory)/Server/obj"
+
+    rm -rf "$publishDir" \
+      "$(Build.SourcesDirectory)/bin" \
+      "$(Build.SourcesDirectory)/obj" \
+      "$(Build.SourcesDirectory)/Server/bin" \
+      "$(Build.SourcesDirectory)/Server/obj"
     df -h /
-  displayName: 'Package ASP.NET Core host for deployment'
+  displayName: 'Publish and package ASP.NET Core host'
 
 - task: AzureWebApp@1
   displayName: 'Deploy to Azure App Service'
