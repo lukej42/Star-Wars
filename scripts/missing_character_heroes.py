@@ -25,7 +25,7 @@ def main() -> None:
     args = parser.parse_args()
     missing_entries = []
     for entry in load_characters():
-        if not (IMAGES / f"{entry['slug']}-scene.png").is_file():
+        if not (IMAGES / f"{entry['slug']}-scene.webp").is_file():
             missing_entries.append(entry)
     if args.json:
         out = [

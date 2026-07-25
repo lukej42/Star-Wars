@@ -162,7 +162,7 @@ def build_droid_profile(entry: dict) -> dict:
         "affiliations": lore["affiliations"],
         "timeline": lore["timeline"],
         "gallery": [
-            {"path": f"/images/droids/{entry['slug']}-scene.png", "caption": f"Cinematic illustration — {entry['name']}"},
+            {"path": f"/images/droids/{entry['slug']}-scene.webp", "caption": f"Cinematic illustration — {entry['name']}"},
         ],
     }
 

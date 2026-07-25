@@ -392,7 +392,7 @@ def build_species_profile(entry: dict) -> dict:
         "affiliations": lore["affiliations"],
         "timeline": lore["timeline"],
         "gallery": [
-            {"path": f"/images/species/{entry['slug']}-scene.png", "caption": f"Cinematic illustration — {entry['name']}"},
+            {"path": f"/images/species/{entry['slug']}-scene.webp", "caption": f"Cinematic illustration — {entry['name']}"},
         ],
     }
 
@@ -413,7 +413,7 @@ def build_settlement_profile(entry: dict) -> dict:
         "affiliations": lore["affiliations"],
         "timeline": lore["timeline"],
         "gallery": [
-            {"path": f"/images/settlements/{entry['slug']}-scene.png", "caption": f"Cinematic illustration — {entry['name']}"},
+            {"path": f"/images/settlements/{entry['slug']}-scene.webp", "caption": f"Cinematic illustration — {entry['name']}"},
         ],
     }
 

@@ -28,7 +28,7 @@ def main() -> None:
     missing = []
     for entry in entries:
         slug = entry["slug"]
-        scene = IMAGES / args.category / f"{slug}-scene.png"
+        scene = IMAGES / args.category / f"{slug}-scene.webp"
         if not scene.is_file():
             missing.append(entry)
 

@@ -1,0 +1,28 @@
+@page "/wars-conflicts/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+
+<PageTitle>@(conflict?.Name ?? "Wars & Conflicts")</PageTitle>
+
+@if (conflict is null)
+{
+    <h1>Conflict not found</h1>
+    <p>Sorry, there are no records for this war or conflict.</p>
+}
+else
+{
+    <h1>@conflict.Name</h1>
+    <p class="all-planets-intro">Detailed content for @conflict.Name is coming soon.</p>
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private WarConflict? conflict;
+
+    protected override void OnParametersSet()
+    {
+        conflict = WarConflictData.GetBySlug(Slug);
+    }
+}

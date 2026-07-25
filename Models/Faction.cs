@@ -14,5 +14,5 @@ public sealed class Faction
 
     public string ImagePath => $"/images/factions/{Slug}.svg";
 
-    public string SceneImagePath => $"/images/factions/{Slug}-scene.png";
+    public string SceneImagePath => $"/images/factions/{Slug}-scene.webp";
 }

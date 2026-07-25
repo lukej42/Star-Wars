@@ -24,7 +24,7 @@ def main() -> None:
         missing = []
         for entry in items:
             slug = entry["slug"]
-            scene = IMAGES / category / f"{slug}-scene.png"
+            scene = IMAGES / category / f"{slug}-scene.webp"
             if not scene.is_file():
                 missing.append(slug)
         total += len(items)

@@ -73,7 +73,7 @@ public static class GalaxyData
             X = 2720,
             Y = 1580,
             Color = "#e8c88a",
-            ImagePath = "/images/bespin-space.png"
+            ImagePath = "/images/bespin-space.webp"
         },
         new()
         {
@@ -140,7 +140,7 @@ public static class GalaxyData
             X = 4000,
             Y = 2500,
             Color = "#f4c542",
-            ImagePath = "/images/coruscant-space.png"
+            ImagePath = "/images/coruscant-space.webp"
         },
         new()
         {
@@ -196,7 +196,7 @@ public static class GalaxyData
             X = 5360,
             Y = 3000,
             Color = "#4a8c5c",
-            ImagePath = "/images/dantooine-space.png"
+            ImagePath = "/images/dantooine-space.webp"
         },
         new()
         {
@@ -296,7 +296,7 @@ public static class GalaxyData
             X = 1680,
             Y = 1750,
             Color = "#b8d4e8",
-            ImagePath = "/images/hoth-space.png"
+            ImagePath = "/images/hoth-space.webp"
         },
         new()
         {
@@ -407,7 +407,7 @@ public static class GalaxyData
             X = 6640,
             Y = 2170,
             Color = "#8b1a1a",
-            ImagePath = "/images/korriban-space.png"
+            ImagePath = "/images/korriban-space.webp"
         },
         new()
         {
@@ -485,7 +485,7 @@ public static class GalaxyData
             X = 4720,
             Y = 3750,
             Color = "#c44a1a",
-            ImagePath = "/images/mustafar-space.png"
+            ImagePath = "/images/mustafar-space.webp"
         },
         new()
         {
@@ -508,7 +508,7 @@ public static class GalaxyData
             X = 3440,
             Y = 2250,
             Color = "#5a9e8f",
-            ImagePath = "/images/naboo-space.png"
+            ImagePath = "/images/naboo-space.webp"
         },
         new()
         {
@@ -674,7 +674,7 @@ public static class GalaxyData
             X = 6380,
             Y = 3680,
             Color = "#c9a86c",
-            ImagePath = "/images/tatooine-space.png"
+            ImagePath = "/images/tatooine-space.webp"
         },
         new()
         {

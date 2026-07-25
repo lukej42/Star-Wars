@@ -327,7 +327,7 @@ def build_profile(entry: dict) -> dict:
         "affiliations": practitioners,
         "timeline": timeline,
         "gallery": [
-            {"path": f"/images/force-powers/{entry['slug']}-scene.png", "caption": f"Cinematic illustration — {entry['name']}"},
+            {"path": f"/images/force-powers/{entry['slug']}-scene.webp", "caption": f"Cinematic illustration — {entry['name']}"},
         ],
     }
 

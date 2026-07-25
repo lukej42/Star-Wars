@@ -49,15 +49,15 @@ Detail pages and directory index pages use **1536×1024 (16:9) cinematic PNG mat
 
 | Directory | Entry hero | Index hero |
 |-----------|------------|------------|
-| Characters | `/images/characters/{slug}-scene.png` | `/images/characters/characters-directory-hero.png` |
-| Factions | `/images/factions/{slug}-scene.png` | `/images/factions/factions-directory-hero.png` |
-| Timelines | `/images/timelines/{slug}-scene.png` | `/images/timelines/timelines-directory-hero.png` |
-| Jedi | `/images/jedi/{slug}-scene.png` | `/images/jedi/jedi-directory-hero.png` |
-| Sith | `/images/sith/{slug}-scene.png` | `/images/sith/sith-directory-hero.png` |
-| Planets | `/images/planets/{slug}-hero.png` | `/images/planets/planets-directory-hero.png` |
-| Ships, Species, Bounty Hunters, Settlements, Force Powers, Droids | `/images/{category}/{slug}-scene.png` | `/images/{category}/{category}-directory-hero.png` |
+| Characters | `/images/characters/{slug}-scene.webp` | `/images/characters/characters-directory-hero.webp` |
+| Factions | `/images/factions/{slug}-scene.webp` | `/images/factions/factions-directory-hero.webp` |
+| Timelines | `/images/timelines/{slug}-scene.webp` | `/images/timelines/timelines-directory-hero.webp` |
+| Jedi | `/images/jedi/{slug}-scene.webp` | `/images/jedi/jedi-directory-hero.webp` |
+| Sith | `/images/sith/{slug}-scene.webp` | `/images/sith/sith-directory-hero.webp` |
+| Planets | `/images/planets/{slug}-hero.webp` | `/images/planets/planets-directory-hero.webp` |
+| Ships, Species, Bounty Hunters, Settlements, Force Powers, Droids | `/images/{category}/{slug}-scene.webp` | `/images/{category}/{category}-directory-hero.webp` |
 
-Planet detail pages keep their full-page **space background** (`{slug}-space.png`) behind the content; the hero banner replaces only the small top portrait. Legacy SVG portraits and blueprints remain in `wwwroot/images/` for reference and gallery entries, but the live UI prefers the cinematic PNG heroes.
+Planet detail pages keep their full-page **space background** (`{slug}-space.webp`) behind the content; the hero banner replaces only the small top portrait. Legacy SVG portraits and blueprints remain in `wwwroot/images/` for reference and gallery entries, but the live UI prefers the cinematic PNG heroes.
 
 ### Galaxy Map
 
@@ -257,7 +257,7 @@ To add a new entry manually (e.g. a character):
 
 1. Add a record to the appropriate `Data/*.cs` file with `Name`, `Slug`, `Route`, `Description`, and `Color`.
 2. Create a matching JSON profile at `wwwroot/data/profiles/{category}/{slug}.json`.
-3. Add a cinematic hero PNG under `wwwroot/images/{category}/{slug}-scene.png` (or `{slug}-hero.png` for planets).
+3. Add a cinematic hero PNG under `wwwroot/images/{category}/{slug}-scene.webp` (or `{slug}-hero.webp` for planets).
 4. The sidebar and index pages update automatically from the catalogue data — no route registration is needed beyond the existing `{Slug}` page templates.
 
 For bulk additions, prefer the generator scripts:
@@ -266,7 +266,7 @@ For bulk additions, prefer the generator scripts:
 - **Factions** — add to `FactionData.cs`, enrich via `faction_profile_enrichments.py`, then run `generate_faction_profiles.py`
 - **Timelines** — add to `TimelineData.cs` (including `ChartStart` / `ChartEnd` for the time chart), enrich via `timeline_profile_enrichments.py`, then run `generate_timeline_profiles.py`
 
-For planets, also set `X` and `Y` coordinates in `GalaxyData.cs` so the world appears on the galaxy map (see `GalaxyMapSettings.cs` for the coordinate bounds). Generate or copy `{slug}-space.png` for the full-page background and `{slug}-hero.png` for the detail banner.
+For planets, also set `X` and `Y` coordinates in `GalaxyData.cs` so the world appears on the galaxy map (see `GalaxyMapSettings.cs` for the coordinate bounds). Generate or copy `{slug}-space.webp` for the full-page background and `{slug}-hero.webp` for the detail banner.
 
 ## Disclaimer
 

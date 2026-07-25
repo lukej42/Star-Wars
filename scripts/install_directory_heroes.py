@@ -19,12 +19,12 @@ DEFAULT_ASSETS = Path.home() / ".cursor/projects/Users-luke-gumbleton-Documents-
 
 
 def install_slug(image_dir: Path, slug: str, source_dir: Path) -> bool:
-    src = source_dir / f"{slug}.png"
+    src = source_dir / f"{slug}.webp"
     if not src.is_file():
         return False
     image_dir.mkdir(parents=True, exist_ok=True)
-    portrait = image_dir / f"{slug}.png"
-    scene = image_dir / f"{slug}-scene.png"
+    portrait = image_dir / f"{slug}.webp"
+    scene = image_dir / f"{slug}-scene.webp"
     shutil.copy2(src, portrait)
     shutil.copy2(src, scene)
     return True

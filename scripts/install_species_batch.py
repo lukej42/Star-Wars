@@ -18,12 +18,12 @@ def install_slugs(slugs: list[str], source: Path) -> tuple[int, list[str]]:
     installed = 0
     missing: list[str] = []
     for slug in slugs:
-        src = source / f"{slug}.png"
+        src = source / f"{slug}.webp"
         if not src.is_file():
             missing.append(slug)
             continue
-        shutil.copy2(src, dest / f"{slug}.png")
-        shutil.copy2(src, dest / f"{slug}-scene.png")
+        shutil.copy2(src, dest / f"{slug}.webp")
+        shutil.copy2(src, dest / f"{slug}-scene.webp")
         installed += 1
     return installed, missing
 

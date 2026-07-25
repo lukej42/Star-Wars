@@ -424,6 +424,27 @@
                     </div>
                 </div>
             </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileWarsConflicts">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsWarsConflictsRoute ? "active" : null)"
+                        @onclick="ToggleMobileWarsConflicts">
+                    <span class="bi bi-wars-conflicts-nav-menu" aria-hidden="true"></span> Wars &amp; Conflicts
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileWarsConflictsOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel">
+                        @foreach (var conflict in WarConflictData.Conflicts)
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-war-conflict-link" href="@conflict.Route" @onclick="CloseMobileNav">
+                                <span class="nav-war-conflict-dot" style="background-color: @conflict.Color" aria-hidden="true"></span>
+                                @conflict.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
         </div>
     </nav>
 </div>
@@ -432,6 +453,7 @@
     private bool collapseNavMenu = true;
     private bool mobileTimelinesOpen;
     private bool mobileFactionsOpen;
+    private bool mobileWarsConflictsOpen;
     private bool mobileCharactersOpen;
     private bool mobileJediOpen;
     private bool mobileSithOpen;
@@ -455,6 +477,18 @@
     private bool IsFactionRoute =>
         Navigation.Uri.Contains("/factions/", StringComparison.OrdinalIgnoreCase) ||
         Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Equals("all-factions", StringComparison.OrdinalIgnoreCase);
+
+    private bool IsWarsConflictsRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            return WarConflictData.Conflicts.Any(conflict =>
+                uri.Equals(conflict.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{conflict.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
 
     private bool IsCharacterDirectoryRoute
     {
@@ -711,6 +745,15 @@
         }
     }
 
+    private void ToggleMobileWarsConflicts()
+    {
+        mobileWarsConflictsOpen = !mobileWarsConflictsOpen;
+        if (mobileWarsConflictsOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileWarsConflictsOpen));
+        }
+    }
+
     private void ToggleMobileCharacters()
     {
         mobileCharactersOpen = !mobileCharactersOpen;
@@ -856,6 +899,11 @@
             mobileFactionsOpen = false;
         }
 
+        if (except != nameof(mobileWarsConflictsOpen))
+        {
+            mobileWarsConflictsOpen = false;
+        }
+
         if (except != nameof(mobileCharactersOpen))
         {
             mobileCharactersOpen = false;
@@ -925,6 +973,11 @@
     private void CloseMobileFactions()
     {
         mobileFactionsOpen = false;
+    }
+
+    private void CloseMobileWarsConflicts()
+    {
+        mobileWarsConflictsOpen = false;
     }
 
     private void CloseMobileCharacters()
@@ -1012,6 +1065,7 @@
         collapseNavMenu = true;
         mobileTimelinesOpen = false;
         mobileFactionsOpen = false;
+        mobileWarsConflictsOpen = false;
         mobileCharactersOpen = false;
         mobileJediOpen = false;
         mobileSithOpen = false;

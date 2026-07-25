@@ -11,6 +11,6 @@ public sealed class BountyHunter
     public required string Color { get; init; }
     public required string Sources { get; init; }
 
-    public string ImagePath => $"/images/bounty-hunters/{Slug}.png";
-    public string SceneImagePath => $"/images/bounty-hunters/{Slug}-scene.png";
+    public string ImagePath => $"/images/bounty-hunters/{Slug}.webp";
+    public string SceneImagePath => $"/images/bounty-hunters/{Slug}-scene.webp";
 }

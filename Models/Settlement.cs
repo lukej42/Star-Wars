@@ -11,6 +11,6 @@ public sealed class Settlement
     public required string Color { get; init; }
     public required string Sources { get; init; }
 
-    public string ImagePath => $"/images/settlements/{Slug}.png";
-    public string SceneImagePath => $"/images/settlements/{Slug}-scene.png";
+    public string ImagePath => $"/images/settlements/{Slug}.webp";
+    public string SceneImagePath => $"/images/settlements/{Slug}-scene.webp";
 }

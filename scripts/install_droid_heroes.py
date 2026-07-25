@@ -19,12 +19,12 @@ from droid_catalog_data import DROIDS
 
 
 def install_slug(slug: str, source_dir: Path) -> bool:
-    src = source_dir / f"{slug}.png"
+    src = source_dir / f"{slug}.webp"
     if not src.is_file():
         return False
     DROID_IMAGES.mkdir(parents=True, exist_ok=True)
-    portrait = DROID_IMAGES / f"{slug}.png"
-    scene = DROID_IMAGES / f"{slug}-scene.png"
+    portrait = DROID_IMAGES / f"{slug}.webp"
+    scene = DROID_IMAGES / f"{slug}-scene.webp"
     shutil.copy2(src, portrait)
     shutil.copy2(src, scene)
     return True

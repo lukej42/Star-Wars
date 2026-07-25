@@ -21,7 +21,7 @@ OUT = ROOT / "wwwroot" / "data" / "profiles" / "timelines"
 def gallery_for(slug: str) -> list[dict[str, str]]:
     return [
         {
-            "path": f"/images/timelines/{slug}-scene.png",
+            "path": f"/images/timelines/{slug}-scene.webp",
             "caption": f"Cinematic illustration — {slug.replace('-', ' ').title()}",
         }
     ]

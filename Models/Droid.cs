@@ -11,6 +11,6 @@ public sealed class Droid
     public required string Color { get; init; }
     public required string Sources { get; init; }
 
-    public string ImagePath => $"/images/droids/{Slug}.png";
-    public string SceneImagePath => $"/images/droids/{Slug}-scene.png";
+    public string ImagePath => $"/images/droids/{Slug}.webp";
+    public string SceneImagePath => $"/images/droids/{Slug}-scene.webp";
 }

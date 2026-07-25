@@ -18,5 +18,5 @@ public sealed class TimelineEra
 
     public bool ShowOnChart { get; init; } = true;
 
-    public string SceneImagePath => $"/images/timelines/{Slug}-scene.png";
+    public string SceneImagePath => $"/images/timelines/{Slug}-scene.webp";
 }

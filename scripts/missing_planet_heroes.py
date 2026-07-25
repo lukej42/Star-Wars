@@ -26,7 +26,7 @@ def main() -> None:
     missing_entries = []
     for entry in load_planets():
         slug = entry["slug"]
-        if not (IMAGES / f"{slug}-hero.png").is_file():
+        if not (IMAGES / f"{slug}-hero.webp").is_file():
             missing_entries.append(entry)
     if args.json:
         out = [
@@ -35,7 +35,7 @@ def main() -> None:
                 "slug": e["slug"],
                 "name": e.get("name", e["slug"]),
                 "prompt": planet_prompt(e),
-                "output": f"wwwroot/images/planets/{e['slug']}-hero.png",
+                "output": f"wwwroot/images/planets/{e['slug']}-hero.webp",
             }
             for e in missing_entries
         ]

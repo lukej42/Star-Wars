@@ -1277,7 +1277,7 @@ def parse_planets(path: Path) -> list[dict]:
                     "desc": desc.group(1) if desc else "",
                     "color": color.group(1) if color else "#7eb8ff",
                     "image_path": image_path,
-                    "has_png": bool(image_path and image_path.lower().endswith(".png")),
+                    "has_png": bool(image_path and image_path.lower().endswith(".webp")),
                 }
             )
     return entries
@@ -1525,7 +1525,7 @@ def portrait_path(category: str, entry: dict) -> str:
         if entry.get("has_png"):
             return entry["image_path"]
         return f"/images/planets/{entry['slug']}.svg"
-    return f"/images/{category}/{entry['slug']}.png"
+    return f"/images/{category}/{entry['slug']}.webp"
 
 
 def gallery_for(entry: dict, category: str) -> list[dict]:
@@ -1534,23 +1534,23 @@ def gallery_for(entry: dict, category: str) -> list[dict]:
     portrait = portrait_path(category, entry)
     if category == "jedi":
         return [
-            {"path": f"/images/jedi/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
+            {"path": f"/images/jedi/{slug}-scene.webp", "caption": f"Cinematic illustration — {name}"},
         ]
     if category == "sith":
         return [
-            {"path": f"/images/sith/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
+            {"path": f"/images/sith/{slug}-scene.webp", "caption": f"Cinematic illustration — {name}"},
         ]
     if category == "characters":
         return [
-            {"path": f"/images/characters/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
+            {"path": f"/images/characters/{slug}-scene.webp", "caption": f"Cinematic illustration — {name}"},
         ]
     if category == "ships":
         return [
-            {"path": f"/images/ships/{slug}-scene.png", "caption": f"Cinematic illustration — {name}"},
+            {"path": f"/images/ships/{slug}-scene.webp", "caption": f"Cinematic illustration — {name}"},
         ]
     if category == "planets":
         return [
-            {"path": f"/images/planets/{slug}-hero.png", "caption": f"Cinematic view of {name}"},
+            {"path": f"/images/planets/{slug}-hero.webp", "caption": f"Cinematic view of {name}"},
         ]
     return []
 

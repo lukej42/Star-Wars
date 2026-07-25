@@ -29,7 +29,7 @@ def parse_planets(path: Path) -> list[dict]:
                     "slug": slug.group(1),
                     "desc": desc.group(1) if desc else "",
                     "color": color.group(1) if color else "#7eb8ff",
-                    "has_png": bool(image and image.group(1).lower().endswith(".png")),
+                    "has_png": bool(image and image.group(1).lower().endswith(".webp")),
                 }
             )
     return entries

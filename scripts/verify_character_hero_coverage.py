@@ -18,7 +18,7 @@ IMAGES = ROOT / "wwwroot" / "images" / "characters"
 
 def main() -> None:
     entries = load_characters()
-    missing = [e["slug"] for e in entries if not (IMAGES / f"{e['slug']}-scene.png").is_file()]
+    missing = [e["slug"] for e in entries if not (IMAGES / f"{e['slug']}-scene.webp").is_file()]
     print(f"characters: {len(entries) - len(missing)}/{len(entries)} OK")
     if missing:
         print(f"Missing ({len(missing)}): {', '.join(missing[:8])}{'…' if len(missing) > 8 else ''}")

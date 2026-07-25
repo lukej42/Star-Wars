@@ -21,7 +21,7 @@ def main() -> None:
     missing = []
     for entry in entries:
         slug = entry["slug"]
-        scene = IMAGES / f"{slug}-scene.png"
+        scene = IMAGES / f"{slug}-scene.webp"
         if not scene.is_file():
             missing.append(slug)
     ok = len(entries) - len(missing)

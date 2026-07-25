@@ -53,7 +53,7 @@ def merge_profile(entry: dict) -> dict:
             base[key] = value
     base["gallery"] = [
         {
-            "path": f"/images/characters/{entry['slug']}-scene.png",
+            "path": f"/images/characters/{entry['slug']}-scene.webp",
             "caption": f"Cinematic illustration — {entry['name']}",
         },
     ]

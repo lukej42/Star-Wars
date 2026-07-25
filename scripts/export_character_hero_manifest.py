@@ -29,7 +29,7 @@ def main() -> None:
                 "slug": slug,
                 "name": entry.get("name", slug),
                 "prompt": prompts[slug],
-                "output": f"wwwroot/images/characters/{slug}-scene.png",
+                "output": f"wwwroot/images/characters/{slug}-scene.webp",
             }
         )
     MANIFEST.write_text(json.dumps(manifest, indent=2), encoding="utf-8")

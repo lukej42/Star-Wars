@@ -31,7 +31,7 @@ def main() -> None:
                     "slug": slug,
                     "name": entry.get("name", slug),
                     "prompt": prompts[category][slug],
-                    "output": f"wwwroot/images/{category}/{slug}.png",
+                    "output": f"wwwroot/images/{category}/{slug}.webp",
                 }
             )
     MANIFEST.write_text(json.dumps(manifest, indent=2), encoding="utf-8")

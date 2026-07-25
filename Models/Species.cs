@@ -11,6 +11,6 @@ public sealed class Species
     public required string Color { get; init; }
     public required string Sources { get; init; }
 
-    public string ImagePath => $"/images/species/{Slug}.png";
-    public string SceneImagePath => $"/images/species/{Slug}-scene.png";
+    public string ImagePath => $"/images/species/{Slug}.webp";
+    public string SceneImagePath => $"/images/species/{Slug}-scene.webp";
 }

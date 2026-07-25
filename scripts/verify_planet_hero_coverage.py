@@ -21,7 +21,7 @@ def main() -> None:
     missing = []
     for entry in entries:
         slug = entry["slug"]
-        hero = IMAGES / f"{slug}-hero.png"
+        hero = IMAGES / f"{slug}-hero.webp"
         if not hero.is_file():
             missing.append(slug)
     print(f"planets: {len(entries) - len(missing)}/{len(entries)} OK")

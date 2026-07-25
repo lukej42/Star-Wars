@@ -20,11 +20,11 @@ DEFAULT_ASSETS = Path.home() / ".cursor/projects/Users-luke-gumbleton-Documents-
 
 
 def install_slug(slug: str, source_dir: Path) -> bool:
-    src = source_dir / f"{slug}.png"
+    src = source_dir / f"{slug}.webp"
     if not src.is_file():
         return False
     PLANET_IMAGES.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(src, PLANET_IMAGES / f"{slug}-hero.png")
+    shutil.copy2(src, PLANET_IMAGES / f"{slug}-hero.webp")
     return True
 
 
