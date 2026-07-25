@@ -78,6 +78,15 @@
                 }
             </div>
         </section>
+
+        <section class="home-light-dark-conflict">
+            <a class="home-conflict-feature" href="@LightDarkConflictRoute">
+                <img src="/images/the-force/light-dark-conflict-scene.webp"
+                     alt="Cinematic battle between the Light Side and Dark Side of the Force"
+                     loading="lazy" />
+                <span>Learn more about the longstanding battle between the Light &amp; Dark side!</span>
+            </a>
+        </section>
     </div>
 </div>
 
@@ -102,6 +111,8 @@
         new("Force Lightning", "force-powers/force-lightning", "/images/force-powers/force-lightning-scene.webp"),
         new("Force Heal", "force-powers/force-heal", "/images/force-powers/force-heal-scene.webp")
     ];
+
+    private static string LightDarkConflictRoute => TheForceTopicData.ConflictBetweenLightAndDark.Route;
 
     private void OnSearchInput()
     {

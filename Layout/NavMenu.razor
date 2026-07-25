@@ -339,7 +339,7 @@
                     <span class="nav-flyout-chevron" aria-hidden="true"></span>
                 </button>
                 <div class="nav-flyout-menu @(mobileTheForceOpen ? "is-open" : null)">
-                    <div class="nav-flyout-panel">
+                    <div class="nav-flyout-panel nav-flyout-panel-the-force">
                         <div class="nav-subflyout"
                              @onclick:stopPropagation="true"
                              @onmouseleave="CloseMobileForcePowersSub">
@@ -413,6 +413,10 @@
                                 </div>
                             </div>
                         </div>
+                        <NavLink class="nav-link nav-flyout-link nav-the-force-link nav-light-dark-conflict-link" href="@TheForceTopicData.ConflictBetweenLightAndDark.Route" @onclick="CloseMobileNav">
+                            <span class="nav-the-force-dot" style="background-color: @TheForceTopicData.ConflictBetweenLightAndDark.Color" aria-hidden="true"></span>
+                            @TheForceTopicData.ConflictBetweenLightAndDark.Name
+                        </NavLink>
                         <div class="nav-flyout-divider" aria-hidden="true"></div>
                         @foreach (var topic in TheForceTopicData.Topics)
                         {
@@ -662,6 +666,13 @@
         get
         {
             var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+            var conflict = TheForceTopicData.ConflictBetweenLightAndDark.Route;
+
+            if (uri.Equals(conflict, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{conflict}/", StringComparison.OrdinalIgnoreCase))
+            {
+                return true;
+            }
 
             return TheForceTopicData.Topics.Any(topic =>
                 uri.Equals(topic.Route, StringComparison.OrdinalIgnoreCase) ||

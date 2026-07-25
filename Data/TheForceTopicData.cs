@@ -4,6 +4,14 @@ namespace StarWars.Data;
 
 public static class TheForceTopicData
 {
+    public static TheForceTopic ConflictBetweenLightAndDark { get; } = new()
+    {
+        Name = "Conflict between Light & Dark side",
+        Slug = "conflict-between-light-and-dark-side",
+        Route = "the-force/conflict-between-light-and-dark-side",
+        Color = "#a855f7"
+    };
+
     public static IReadOnlyList<TheForceTopic> Topics { get; } =
     [
         new()
@@ -58,5 +66,7 @@ public static class TheForceTopicData
     ];
 
     public static TheForceTopic? GetBySlug(string slug) =>
-        Topics.FirstOrDefault(topic => topic.Slug.Equals(slug, StringComparison.OrdinalIgnoreCase));
+        ConflictBetweenLightAndDark.Slug.Equals(slug, StringComparison.OrdinalIgnoreCase)
+            ? ConflictBetweenLightAndDark
+            : Topics.FirstOrDefault(topic => topic.Slug.Equals(slug, StringComparison.OrdinalIgnoreCase));
 }

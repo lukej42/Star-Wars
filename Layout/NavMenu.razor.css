@@ -463,6 +463,17 @@
     flex-shrink: 0;
 }
 
+.nav-flyout-panel-the-force {
+    min-width: 24rem;
+    width: max-content;
+    max-width: min(92vw, 26rem);
+}
+
+.nav-flyout-panel-the-force .nav-flyout-link,
+.nav-flyout-panel-the-force ::deep .nav-light-dark-conflict-link {
+    white-space: nowrap;
+}
+
 .nav-flyout-panel-ships {
     min-width: 18rem;
     max-width: 22rem;
