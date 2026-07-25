@@ -4,6 +4,7 @@
 @using StarWars.Services
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(droid?.Name ?? "Droid")</PageTitle>
 
@@ -35,6 +36,7 @@ else
                           AccentColor="@droid.Color">
         <a href="all-droids">Back to all droids</a>
     </DirectoryDetailShell>
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -44,16 +46,19 @@ else
     private Droid? droid;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
     {
         droid = DroidData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        crossLinks = [];
 
         if (droid is not null)
         {
             profile = await ProfileService.GetProfileAsync("droids", droid.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("droids", droid.Slug);
         }
 
         profileLoaded = true;

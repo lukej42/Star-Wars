@@ -3,31 +3,50 @@
 
 <PageTitle>All Species</PageTitle>
 
-<figure class="directory-hero">
-    <img src="/images/species/species-directory-hero.webp" alt="Diverse alien species silhouettes united beneath a luminous starfield" loading="lazy" />
-</figure>
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/species/species-directory-hero.webp" alt="Diverse alien species silhouettes united beneath a luminous starfield" loading="lazy" />
+    </figure>
 
-<h1>All Species</h1>
-<p class="all-planets-intro">
-    @SpeciesData.SpeciesList.Count sentient and notable species from all nine saga films, live-action and animated series,
-    <em>Knights of the Old Republic</em>, and the ancient Sith Empire — biology, homeworlds, and galactic history.
-</p>
+    <h1>All Species</h1>
+    <p class="all-planets-intro">
+        @SpeciesData.SpeciesList.Count sentient and notable species from all nine saga films, live-action and animated series,
+        <em>Knights of the Old Republic</em>, and the ancient Sith Empire.
+    </p>
 
-@foreach (var group in SpeciesData.SpeciesList.GroupBy(species => species.Classification).OrderBy(group => group.Key))
-{
-    <section class="force-powers-category">
-        <h2>@group.Key</h2>
-        <div class="planet-directory-grid">
-            @foreach (var species in group.OrderBy(species => species.Name))
-            {
-                <article class="planet-directory-card">
-                    <span class="planet-directory-swatch" style="background-color: @species.Color" aria-hidden="true"></span>
-                    <div class="planet-directory-details">
-                        <a href="@species.Route">@species.Name</a>
-                        <p class="planet-region">@species.Homeworld</p>
-                    </div>
-                </article>
-            }
-        </div>
-    </section>
+    <DirectoryListSearch Placeholder="Search species by name, homeworld, or classification…"
+                         ItemLabel="species"
+                         TotalCount="@SpeciesData.SpeciesList.Count"
+                         FilteredCount="@FilteredSpecies.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    @foreach (var group in FilteredSpecies.GroupBy(species => species.Classification).OrderBy(group => group.Key))
+    {
+        <section class="force-powers-category">
+            <h2>@group.Key</h2>
+            <div class="planet-directory-grid">
+                @foreach (var species in group.OrderBy(species => species.Name))
+                {
+                    <article class="planet-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @species.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@species.Route">@species.Name</a>
+                            <p class="planet-region">@species.Homeworld</p>
+                        </div>
+                    </article>
+                }
+            </div>
+        </section>
+    }
+</div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<Species> FilteredSpecies =>
+        SpeciesData.SpeciesList.Where(species =>
+            DirectoryFilter.Matches(searchQuery, species.Name, species.Homeworld, species.Classification, species.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
 }

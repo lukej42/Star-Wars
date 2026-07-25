@@ -1,24 +1,43 @@
 @page "/all-planets"
 @using StarWars.Data
+@using StarWars.Components
 
 <PageTitle>All Planets</PageTitle>
 
-<figure class="directory-hero">
-    <img src="/images/planets/planets-directory-hero.webp" alt="Diverse alien worlds connected by luminous hyperspace lanes across the galaxy" loading="lazy" />
-</figure>
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/planets/planets-directory-hero.webp" alt="Diverse alien worlds connected by luminous hyperspace lanes across the galaxy" loading="lazy" />
+    </figure>
 
-<h1>All Planets</h1>
-<p class="all-planets-intro">@GalaxyData.Planets.Count known worlds from the nine saga films, series, Knights of the Old Republic, and the Old Sith Empire.</p>
+    <h1>All Planets</h1>
+    <p class="all-planets-intro">@GalaxyData.Planets.Count known worlds from the nine saga films, series, Knights of the Old Republic, and the Old Sith Empire.</p>
 
-<div class="planet-directory-grid">
-    @foreach (var planet in GalaxyData.Planets.OrderBy(planet => planet.Name))
-    {
-        <article class="planet-directory-card">
-            <span class="planet-directory-swatch" style="background-color: @planet.Color" aria-hidden="true"></span>
-            <div class="planet-directory-details">
-                <a href="@planet.Route">@planet.Name</a>
-                <p class="planet-region">@planet.Region</p>
-            </div>
-        </article>
-    }
+    <DirectoryListSearch Placeholder="Search planets by name or region…"
+                         ItemLabel="planets"
+                         TotalCount="@GalaxyData.Planets.Count"
+                         FilteredCount="@FilteredPlanets.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    <div class="planet-directory-grid">
+        @foreach (var planet in FilteredPlanets.OrderBy(planet => planet.Name))
+        {
+            <article class="planet-directory-card">
+                <span class="planet-directory-swatch" style="background-color: @planet.Color" aria-hidden="true"></span>
+                <div class="planet-directory-details">
+                    <a href="@planet.Route">@planet.Name</a>
+                    <p class="planet-region">@planet.Region</p>
+                </div>
+            </article>
+        }
+    </div>
 </div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<GalaxyPlanet> FilteredPlanets =>
+        GalaxyData.Planets.Where(planet => DirectoryFilter.Matches(searchQuery, planet.Name, planet.Region)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

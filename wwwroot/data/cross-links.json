@@ -1,0 +1,2341 @@
+[
+  {
+    "category": "characters",
+    "slug": "admiral-ackbar",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "agent-kallus",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "amilyn-holdo",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "atton-rand",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "bail-organa",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "bastila-shan",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "baze-malbus",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "bb-8",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "beru-lars",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "bib-fortuna",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Hutt syndicates",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "bo-katan-kryze",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Mandalorian Leader",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "boba-fett",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "boss-nass",
+    "links": [
+      {
+        "label": "Species",
+        "value": "Human",
+        "route": "species/human"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "c-3po",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "cad-bane",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "canderous-ordo",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Mandalorian Warrior",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "captain-panaka",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "captain-phasma",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "captain-rex",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "cara-dune",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "carth-onasi",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "cassian-andor",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "cham-syndulla",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "chewbacca",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "chirrut-imwe",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "cliegg-lars",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "commander-cody",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "crosshair",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "dedra-meero",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "dexter-jettster",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kamino",
+        "route": "planet/kamino"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "din-djarin",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Mandalorian Bounty Hunter",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "director-krennic",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "dorme",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "dr-pershing",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kamino",
+        "route": "planet/kamino"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "dryden-vos",
+    "links": [
+      {
+        "label": "Species",
+        "value": "Human",
+        "route": "species/human"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "echo",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "enfys-nest",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "fennec-shand",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "finn",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "fives",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "gar-saxon",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "general-grievous",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Separatist General",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "general-hux",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "general-pryde",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "governor-pryce",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "grand-moff-tarkin",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "greef-karga",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "han-solo",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "New Republic",
+        "route": "factions/new-republic"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "hera-syndulla",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "hk-47",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "hondo-ohnaka",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "hunter",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "ig-11",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "jabba-the-hutt",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Hutt syndicates",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "jango-fett",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "jar-jar-binks",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "jolee-bindo",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kashyyyk",
+        "route": "planet/kashyyyk"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "jyn-erso",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "k-2so",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "kuiil",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "lando-calrissian",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "leia-organa",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "New Republic",
+        "route": "factions/new-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "lor-san-tekka",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "luthen-rael",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "maz-kanata",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "mission-vao",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "moff-gideon",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "mon-mothma",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "morgan-elsbeth",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "nute-gunray",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "omega",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "onaconda-farr",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "owen-lars",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "padme-amidala",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "poe-dameron",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "qira",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "r2-d2",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "rey",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "ric-olie",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "rio-durant",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "rose-tico",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "rush-clovis",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "sabine-wren",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Mandalorian Artist",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "satine-kryze",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "saw-gerrera",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "sebulba",
+    "links": [
+      {
+        "label": "Species",
+        "value": "Human",
+        "route": "species/human"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "shmi-skywalker",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "snap-wexley",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "sy-snootles",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "t3-m4",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "tech",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "temmin-wexley",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "the-armorer",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Mandalorian Smith",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "characters",
+    "slug": "thrawn",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "tobias-beckett",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "unkar-plutt",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "val",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "watto",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "wedge-antilles",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "wrecker",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "zaalbar",
+    "links": []
+  },
+  {
+    "category": "characters",
+    "slug": "ziro-the-hutt",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Hutt syndicates",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "aayla-secura",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "adi-gallia",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "agen-kolar",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "ahsoka-tano",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic (Fulcrum)",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "New Republic",
+        "route": "factions/new-republic"
+      },
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "anakin-skywalker",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "barriss-offee",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "bolla-ropal",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "cin-drallig",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "coleman-kcaj",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "coleman-trebor",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "depa-billaba",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "eeth-koth",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "even-piell",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "ezra-bridger",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "grogu",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "gungi",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "ima-gun-di",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "jocasta-nu",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "kanan-jarrus",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "katooni",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "kelleran-beq",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "ki-adi-mundi",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "kit-fisto",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "luke-skywalker",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "New Republic",
+        "route": "factions/new-republic"
+      },
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Planet",
+        "value": "Dagobah",
+        "route": "planet/dagobah"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "luminara-unduli",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "mace-windu",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "nahdar-vebb",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "obi-wan-kenobi",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      },
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "oppo-rancisis",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Allies of Oppo Rancisis",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "petro",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "plo-koon",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "qui-gon-jinn",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "quinlan-vos",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "saesee-tiin",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "shaak-ti",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kamino",
+        "route": "planet/kamino"
+      }
+    ]
+  },
+  {
+    "category": "jedi",
+    "slug": "sifo-dyas",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "stass-allie",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "tera-sinube",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "tiplar",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "tiplee",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "yaddle",
+    "links": []
+  },
+  {
+    "category": "jedi",
+    "slug": "yoda",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Planet",
+        "value": "Dagobah",
+        "route": "planet/dagobah"
+      },
+      {
+        "label": "Force power",
+        "value": "Force Lightning (reflected)",
+        "route": "force-powers/force-lightning"
+      },
+      {
+        "label": "Lightsaber form",
+        "value": "Form IV (Ataru)",
+        "route": "the-force/lightsaber-forms/ataru"
+      }
+    ]
+  },
+  {
+    "category": "sith",
+    "slug": "ajunta-pall",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "asajj-ventress",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "barriss-offee",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-bandon",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-bane",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-malak",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-malgus",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-maul",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-nihilus",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-plagueis",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-revan",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "sith",
+    "slug": "darth-sidious",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Sith Order",
+        "route": "all-sith"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "sith",
+    "slug": "darth-sion",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-traya",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-tyranus",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-vader",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Ship",
+        "value": "Executor",
+        "route": "ships/executor-class"
+      },
+      {
+        "label": "Force power",
+        "value": "Force Choke",
+        "route": "force-powers/force-choke"
+      },
+      {
+        "label": "Force power",
+        "value": "Force Throw",
+        "route": "force-powers/force-throw"
+      },
+      {
+        "label": "Lightsaber form",
+        "value": "Form V (Shien/Djem So)",
+        "route": "the-force/lightsaber-forms/shien-djem-so"
+      },
+      {
+        "label": "Species",
+        "value": "Human",
+        "route": "species/human"
+      }
+    ]
+  },
+  {
+    "category": "sith",
+    "slug": "darth-vitiate",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "darth-zannah",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "eighth-brother",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "exar-kun",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "fifth-brother",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "freedon-nadd",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "grand-inquisitor",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "ludo-kressh",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "marka-ragnos",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "naga-sadow",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "ninth-sister",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "pong-krell",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "savage-opress",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "second-sister",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "seventh-sister",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "sixth-brother",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "tulak-hord",
+    "links": []
+  },
+  {
+    "category": "sith",
+    "slug": "ulic-qel-droma",
+    "links": []
+  },
+  {
+    "category": "droids",
+    "slug": "0-0-0",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "2-1b",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "4-lom",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Hutt Cartel (contracted)",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "8d8",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Hutt Cartel",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "ap-5",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "aqua-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "asn-courier-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "asp-7-labor-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Hutt Cartel",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "b-4d4",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "b1-battle-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "b2-super-battle-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "b3-ultra-battle-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "bb-8",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "New Republic",
+        "route": "factions/new-republic"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "bd-1",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "bt-1",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "buzz-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "bx-commando-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "c-21-highsinger",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "CIS (contracted occasionally)",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "c-3po",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "New Republic",
+        "route": "factions/new-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "chopper",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "cl-4d-4",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Bespin",
+        "route": "bespin"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "crab-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "d-o",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "dark-trooper",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "droideka",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "dwarf-spider-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "ev-9d9",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Hutt Cartel",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "fa-4-pilot-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "firefighter-b1",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "fx-7",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "g0-t0",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "gnk-power-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "hailfire-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "hk-47",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorian Neo-Crusaders (targets)",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "hk-50",
+    "links": []
+  },
+  {
+    "category": "droids",
+    "slug": "hk-51",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Hutt Cartel",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "id-9-seeker-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "ig-11",
+    "links": []
+  },
+  {
+    "category": "droids",
+    "slug": "ig-88",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "it-o",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "j9-worker-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "k-2so",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "kx-security-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "l3-37",
+    "links": []
+  },
+  {
+    "category": "droids",
+    "slug": "lothal-astromech",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "lr-57-combat-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "magnaguard",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "mark-vii-inquisitor-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "mse-14",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "mse-6-mouse-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "octuptarra-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "oom-9",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "oom-command-battle-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "pit-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "pk-worker-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Separatist factories (captured)",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "probe-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "proxy",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "r1-g4",
+    "links": []
+  },
+  {
+    "category": "droids",
+    "slug": "r2-d2",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "New Republic",
+        "route": "factions/new-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "r2-kt",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "r2-q5",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "r3-s6",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "r4-p17",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "r5-d4",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "ra-7",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "ric-920",
+    "links": []
+  },
+  {
+    "category": "droids",
+    "slug": "rocket-battle-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "s-0d",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Hutt Cartel (negotiations)",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "scorpenek-annihilator",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "super-tactical-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "t3-m4",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "t7-o1",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "tactical-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "tc-14",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "tt-8l-gatekeeper",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Hutt facilities",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "u9-c4",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "vulture-droid",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "war-droid-mark-iv",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorian Neo-Crusaders (opposed)",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Faction",
+        "value": "Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "droids",
+    "slug": "wed-treadwell",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Alliance to Restore the Republic",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  }
+]

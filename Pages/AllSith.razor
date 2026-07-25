@@ -3,22 +3,40 @@
 
 <PageTitle>All Sith</PageTitle>
 
-<figure class="directory-hero">
-    <img src="/images/sith/sith-directory-hero.webp" alt="Crimson dark-side energy swirling around a shadowed Sith figure among ruined temple spires" loading="lazy" />
-</figure>
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/sith/sith-directory-hero.webp" alt="Dark side energy swirling around hooded Sith figures beneath a crimson sky" loading="lazy" />
+    </figure>
 
-<h1>All Sith</h1>
-<p class="all-planets-intro">Sith Lords, dark Jedi, and dark-side champions from films, series, KOTOR, and the Old Sith Empire.</p>
+    <h1>All Sith</h1>
+    <p class="all-planets-intro">Sith Lords, apprentices, and dark-side warriors from the saga films, series, Knights of the Old Republic, and the Old Sith Empire.</p>
 
-<div class="planet-directory-grid">
-    @foreach (var sith in SithData.Members.OrderBy(sith => sith.Name))
-    {
-        <article class="planet-directory-card">
-            <span class="planet-directory-swatch" style="background-color: @sith.Color" aria-hidden="true"></span>
-            <div class="planet-directory-details">
-                <a href="@sith.Route">@sith.Name</a>
-                <p class="planet-region">@sith.Title</p>
-            </div>
-        </article>
-    }
+    <DirectoryListSearch Placeholder="Search Sith by name or rank…"
+                         ItemLabel="Sith"
+                         TotalCount="@SithData.Members.Count"
+                         FilteredCount="@FilteredSith.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    <div class="planet-directory-grid">
+        @foreach (var sith in FilteredSith.OrderBy(sith => sith.Name))
+        {
+            <article class="planet-directory-card">
+                <span class="planet-directory-swatch" style="background-color: @sith.Color" aria-hidden="true"></span>
+                <div class="planet-directory-details">
+                    <a href="@sith.Route">@sith.Name</a>
+                    <p class="planet-region">@sith.Title</p>
+                </div>
+            </article>
+        }
+    </div>
 </div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<SithMember> FilteredSith =>
+        SithData.Members.Where(sith => DirectoryFilter.Matches(searchQuery, sith.Name, sith.Title, sith.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

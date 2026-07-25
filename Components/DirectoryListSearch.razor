@@ -1,0 +1,51 @@
+<section class="directory-list-search" aria-label="Filter directory entries">
+    <label class="directory-list-search-label" for="@InputId">@Label</label>
+    <input id="@InputId"
+           class="directory-list-search-input"
+           type="search"
+           placeholder="@Placeholder"
+           value="@Query"
+           @oninput="OnInput"
+           autocomplete="off"
+           aria-controls="@ResultsId" />
+    @if (!string.IsNullOrWhiteSpace(Query))
+    {
+        <p class="directory-list-search-meta" id="@ResultsId">
+            Showing @FilteredCount of @TotalCount @ItemLabel
+        </p>
+    }
+</section>
+
+@code {
+    private static int _inputCounter;
+
+    [Parameter]
+    public string Label { get; set; } = "Search this directory";
+
+    [Parameter]
+    public string Placeholder { get; set; } = "Type to filter…";
+
+    [Parameter]
+    public string ItemLabel { get; set; } = "entries";
+
+    [Parameter]
+    public int TotalCount { get; set; }
+
+    [Parameter]
+    public int FilteredCount { get; set; }
+
+    [Parameter]
+    public string Query { get; set; } = string.Empty;
+
+    [Parameter]
+    public EventCallback<string> QueryChanged { get; set; }
+
+    private readonly string InputId = $"directory-search-{Interlocked.Increment(ref _inputCounter)}";
+    private string ResultsId => $"{InputId}-meta";
+
+    private async Task OnInput(ChangeEventArgs args)
+    {
+        Query = args.Value?.ToString() ?? string.Empty;
+        await QueryChanged.InvokeAsync(Query);
+    }
+}

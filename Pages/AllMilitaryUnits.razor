@@ -1,0 +1,63 @@
+@page "/all-military-units"
+@using StarWars.Data
+
+<PageTitle>All Military Unit Factions</PageTitle>
+
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/military-units/military-units-directory-hero.webp" alt="Armies and fleets of the galaxy arrayed beneath battle-worn banners" loading="lazy" />
+    </figure>
+
+    <h1>All Factions</h1>
+    <p class="all-planets-intro">
+        @MilitaryUnitData.Factions.Count military factions and their units from the saga films, series,
+        <em>Knights of the Old Republic</em>, and the Old Sith Empire.
+    </p>
+
+    <DirectoryListSearch Placeholder="Search factions or military units…"
+                         ItemLabel="factions"
+                         TotalCount="@MilitaryUnitData.Factions.Count"
+                         FilteredCount="@FilteredFactions.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    @foreach (var faction in FilteredFactions.OrderBy(faction => faction.Name))
+    {
+        var units = MilitaryUnitData.GetUnitsForFaction(faction.Slug);
+        <section class="force-powers-category">
+            <h2><a href="@faction.Route">@faction.Name</a></h2>
+            <p class="all-planets-intro">@units.Count military units · <a href="@faction.Route">View all @faction.Name units</a></p>
+            <div class="planet-directory-grid">
+                @foreach (var unit in units.Take(6))
+                {
+                    <article class="planet-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @unit.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@unit.Route">@unit.Name</a>
+                            <p class="planet-region">@unit.UnitType</p>
+                        </div>
+                    </article>
+                }
+            </div>
+        </section>
+    }
+</div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<MilitaryUnitFaction> FilteredFactions =>
+        MilitaryUnitData.Factions.Where(faction =>
+        {
+            if (string.IsNullOrWhiteSpace(searchQuery))
+            {
+                return true;
+            }
+
+            var units = MilitaryUnitData.GetUnitsForFaction(faction.Slug);
+            return DirectoryFilter.Matches(searchQuery, faction.Name)
+                || units.Any(unit => DirectoryFilter.Matches(searchQuery, unit.Name, unit.UnitType, unit.Description));
+        }).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

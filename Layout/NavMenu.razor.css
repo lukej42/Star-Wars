@@ -441,6 +441,10 @@
     min-width: 26.5rem;
     width: max-content;
     max-width: min(92vw, 28rem);
+    overflow: visible;
+}
+
+.nav-flyout-panel-military-units.nav-flyout-panel-scroll {
     overflow-x: auto;
 }
 
@@ -633,8 +637,6 @@
     }
 
     .nav-scrollable .nav {
-        flex: 1;
-        min-height: 0;
         display: flex;
         flex-direction: column;
     }
@@ -718,5 +720,17 @@
     .nav-subflyout-trigger .nav-flyout-chevron {
         display: inline-block;
         margin-left: auto;
+    }
+
+    /* Bottom sidebar flyouts: anchor upward; leaf panels sized via JS */
+    .nav-flyout-bottom > .nav-flyout-menu {
+        top: auto;
+        bottom: 0;
+    }
+
+    .nav-flyout-bottom .nav-subflyout-menu,
+    .nav-flyout-bottom .nav-subflyout-menu.nav-subflyout-menu-up {
+        top: auto;
+        bottom: 0;
     }
 }

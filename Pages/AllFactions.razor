@@ -3,22 +3,40 @@
 
 <PageTitle>All Factions</PageTitle>
 
-<figure class="directory-hero">
-    <img src="/images/factions/factions-directory-hero.webp" alt="Panoramic view of galactic political powers — senate spires, fleets, and banners across the stars" loading="lazy" />
-</figure>
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/factions/factions-directory-hero.webp" alt="Panoramic view of galactic political powers — senate spires, fleets, and banners across the stars" loading="lazy" />
+    </figure>
 
-<h1>All Factions</h1>
-<p class="all-planets-intro">Major galactic powers, alliances, and syndicates from the Old Republic through the First Order era.</p>
+    <h1>All Factions</h1>
+    <p class="all-planets-intro">Major galactic powers, alliances, and syndicates from the Old Republic through the First Order era.</p>
 
-<div class="planet-directory-grid">
-    @foreach (var faction in FactionData.Factions.OrderBy(faction => faction.Name))
-    {
-        <article class="planet-directory-card">
-            <span class="planet-directory-swatch" style="background-color: @faction.Color" aria-hidden="true"></span>
-            <div class="planet-directory-details">
-                <a href="@faction.Route">@faction.Name</a>
-                <p class="planet-region">@faction.Era</p>
-            </div>
-        </article>
-    }
+    <DirectoryListSearch Placeholder="Search factions by name or era…"
+                         ItemLabel="factions"
+                         TotalCount="@FactionData.Factions.Count"
+                         FilteredCount="@FilteredFactions.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    <div class="planet-directory-grid">
+        @foreach (var faction in FilteredFactions.OrderBy(faction => faction.Name))
+        {
+            <article class="planet-directory-card">
+                <span class="planet-directory-swatch" style="background-color: @faction.Color" aria-hidden="true"></span>
+                <div class="planet-directory-details">
+                    <a href="@faction.Route">@faction.Name</a>
+                    <p class="planet-region">@faction.Era</p>
+                </div>
+            </article>
+        }
+    </div>
 </div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<Faction> FilteredFactions =>
+        FactionData.Factions.Where(faction => DirectoryFilter.Matches(searchQuery, faction.Name, faction.Era, faction.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

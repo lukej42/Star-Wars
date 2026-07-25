@@ -1,6 +1,5 @@
 @page "/wars-conflicts/{Slug}"
 @using StarWars.Data
-@using StarWars.Models
 
 <PageTitle>@(conflict?.Name ?? "Wars & Conflicts")</PageTitle>
 
@@ -11,8 +10,36 @@
 }
 else
 {
-    <h1>@conflict.Name</h1>
-    <p class="all-planets-intro">Detailed content for @conflict.Name is coming soon.</p>
+    <div class="directory-page">
+        <figure class="directory-hero">
+            <img src="/images/wars-conflicts/wars-conflicts-directory-hero.webp" alt="@($"Cinematic depiction of the {conflict.Name}")" loading="lazy" />
+        </figure>
+
+        <h1>@conflict.Name</h1>
+        <p class="all-planets-intro">@WarDescription</p>
+
+        <section class="force-powers-category">
+            <h2>Famous Battles</h2>
+            <DirectoryListSearch Placeholder="Search battles…"
+                                 ItemLabel="battles"
+                                 TotalCount="@Battles.Count"
+                                 FilteredCount="@FilteredBattles.Count"
+                                 Query="@searchQuery"
+                                 QueryChanged="OnSearchChanged" />
+            <div class="planet-directory-grid">
+                @foreach (var battle in FilteredBattles.OrderBy(battle => battle.Name))
+                {
+                    <article class="planet-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @battle.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@battle.Route">@battle.Name</a>
+                            <p class="planet-region">@battle.Era</p>
+                        </div>
+                    </article>
+                }
+            </div>
+        </section>
+    </div>
 }
 
 @code {
@@ -20,9 +47,32 @@ else
     public string Slug { get; set; } = string.Empty;
 
     private WarConflict? conflict;
+    private string searchQuery = string.Empty;
+    private IReadOnlyList<FamousBattle> Battles = [];
+    private IReadOnlyList<FamousBattle> FilteredBattles => Battles.Where(battle =>
+        DirectoryFilter.Matches(searchQuery, battle.Name, battle.Era)).ToList();
+
+    private string WarDescription => conflict?.Slug switch
+    {
+        "clone-wars" => "The galaxy-wide conflict between the Galactic Republic and Confederacy of Independent Systems, spanning the prequel trilogy and The Clone Wars series.",
+        "galactic-civil-war" => "The Rebellion's struggle against the Galactic Empire, chronicled in the original trilogy and Rogue One.",
+        "mandalorian-wars" => "The Republic's brutal war against Mandalorian invaders, central to Knights of the Old Republic lore.",
+        "great-sith-war" => "Exar Kun and Ulic Qel-Droma's Sith crusade against the Republic and Jedi Order.",
+        "great-galactic-war" => "The Sith Empire's assault on the Republic culminating in the Sacking of Coruscant.",
+        "stark-hyperspace-war" => "Trade Federation proxy war that tested the Republic's resolve before the Clone Wars.",
+        "hundred-year-darkness" => "The original Jedi schism that birthed the Sith and the Old Sith Empire.",
+        "new-sith-wars" => "Millennia of conflict ending with Darth Bane's Rule of Two.",
+        "cold-war" => "The simmering conflict between the Resistance and First Order in the sequel trilogy.",
+        "great-war" => "The renewed war between Republic and Sith Empire in the Old Republic era.",
+        _ => $"A major galactic conflict documented across the nine saga films, series, Knights of the Old Republic, and the Old Sith Empire."
+    };
 
     protected override void OnParametersSet()
     {
         conflict = WarConflictData.GetBySlug(Slug);
+        Battles = conflict is null ? [] : BattleData.GetByWar(conflict.Slug);
+        searchQuery = string.Empty;
     }
+
+    private void OnSearchChanged(string query) => searchQuery = query;
 }

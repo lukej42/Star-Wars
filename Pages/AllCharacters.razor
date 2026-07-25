@@ -1,24 +1,43 @@
 @page "/all-characters"
 @using StarWars.Data
+@using StarWars.Components
 
 <PageTitle>All Characters</PageTitle>
 
-<figure class="directory-hero">
-    <img src="/images/characters/characters-directory-hero.webp" alt="Diverse galactic figures gathered beneath a luminous starport skyline at twilight" loading="lazy" />
-</figure>
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/characters/characters-directory-hero.webp" alt="Diverse galactic figures gathered beneath a luminous starport skyline at twilight" loading="lazy" />
+    </figure>
 
-<h1>All Characters</h1>
-<p class="all-planets-intro">@CharacterData.Characters.Count figures from the saga films, series, and KOTOR — smugglers, soldiers, leaders, and more. Jedi and Sith are listed in their own directories.</p>
+    <h1>All Characters</h1>
+    <p class="all-planets-intro">@CharacterData.Characters.Count figures from the saga films, series, and KOTOR — smugglers, soldiers, leaders, and more. Jedi and Sith are listed in their own directories.</p>
 
-<div class="planet-directory-grid">
-    @foreach (var character in CharacterData.Characters.OrderBy(character => character.Name))
-    {
-        <article class="planet-directory-card">
-            <span class="planet-directory-swatch" style="background-color: @character.Color" aria-hidden="true"></span>
-            <div class="planet-directory-details">
-                <a href="@character.Route">@character.Name</a>
-                <p class="planet-region">@character.Role</p>
-            </div>
-        </article>
-    }
+    <DirectoryListSearch Placeholder="Search characters by name or role…"
+                         ItemLabel="characters"
+                         TotalCount="@CharacterData.Characters.Count"
+                         FilteredCount="@FilteredCharacters.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    <div class="planet-directory-grid">
+        @foreach (var character in FilteredCharacters.OrderBy(character => character.Name))
+        {
+            <article class="planet-directory-card">
+                <span class="planet-directory-swatch" style="background-color: @character.Color" aria-hidden="true"></span>
+                <div class="planet-directory-details">
+                    <a href="@character.Route">@character.Name</a>
+                    <p class="planet-region">@character.Role</p>
+                </div>
+            </article>
+        }
+    </div>
 </div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<Character> FilteredCharacters =>
+        CharacterData.Characters.Where(character => DirectoryFilter.Matches(searchQuery, character.Name, character.Role, character.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

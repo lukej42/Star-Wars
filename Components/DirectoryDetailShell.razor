@@ -25,6 +25,10 @@
             {
                 <p class="directory-detail-meta-line">@MetaLine</p>
             }
+            @if (!string.IsNullOrWhiteSpace(Quote))
+            {
+                <blockquote class="directory-detail-quote">"@Quote"</blockquote>
+            }
             <p class="directory-detail-overview">@OverviewText</p>
         </div>
     </header>
@@ -132,6 +136,9 @@
 
     [Parameter]
     public string MetaLine { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Quote { get; set; } = string.Empty;
 
     [Parameter, EditorRequired]
     public string OverviewText { get; set; } = string.Empty;

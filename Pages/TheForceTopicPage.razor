@@ -1,6 +1,6 @@
 @page "/the-force/{Slug}"
 @using StarWars.Data
-@using StarWars.Models
+@using StarWars.Components
 
 <PageTitle>@(topic?.Name ?? "The Force")</PageTitle>
 
@@ -9,10 +9,25 @@
     <h1>Topic not found</h1>
     <p>Sorry, there are no records for this Force topic.</p>
 }
-else
+else if (content is null)
 {
     <h1>@topic.Name</h1>
     <p class="all-planets-intro">Detailed content for @topic.Name is coming soon.</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@topic.Name"
+                          HeroImagePath="@HeroImagePath"
+                          HeroImageAlt="@($"Cinematic illustration for {topic.Name}")"
+                          ShowPortraitHero="false"
+                          Quote="@(content.Quote ?? string.Empty)"
+                          OverviewText="@content.Overview"
+                          HistoryText="@content.History"
+                          SignificanceText="@content.Significance"
+                          SignificanceHeading="Significance across galactic history"
+                          NotableEvents="@content.NotableEvents"
+                          Affiliations="@content.References"
+                          AccentColor="@topic.Color" />
 }
 
 @code {
@@ -20,9 +35,13 @@ else
     public string Slug { get; set; } = string.Empty;
 
     private TheForceTopic? topic;
+    private ForceTopicContent? content;
+
+    private string HeroImagePath => $"/images/the-force/{Slug}-hero.webp";
 
     protected override void OnParametersSet()
     {
         topic = TheForceTopicData.GetBySlug(Slug);
+        content = TheForceContentData.GetBySlug(Slug);
     }
 }

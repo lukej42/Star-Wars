@@ -3,32 +3,50 @@
 
 <PageTitle>All Bounty Hunters</PageTitle>
 
-<figure class="directory-hero">
-    <img src="/images/bounty-hunters/bounty-hunters-directory-hero.webp" alt="Guild contractors silhouetted before a starlit viewport in a spaceport hall" loading="lazy" />
-</figure>
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/bounty-hunters/bounty-hunters-directory-hero.webp" alt="Guild contractors silhouetted before a starlit viewport in a spaceport hall" loading="lazy" />
+    </figure>
 
-<h1>All Bounty Hunters</h1>
-<p class="all-planets-intro">
-    @BountyHunterData.BountyHunters.Count bounty hunters, assassins, and guild contractors from all nine saga films,
-    live-action and animated series, <em>Knights of the Old Republic</em>, and the ancient Sith Empire — contracts,
-    codes, and legends written in credits and blaster fire.
-</p>
+    <h1>All Bounty Hunters</h1>
+    <p class="all-planets-intro">
+        @BountyHunterData.BountyHunters.Count bounty hunters, assassins, and guild contractors from all nine saga films,
+        live-action and animated series, <em>Knights of the Old Republic</em>, and the ancient Sith Empire.
+    </p>
 
-@foreach (var group in BountyHunterData.BountyHunters.GroupBy(hunter => hunter.Specialty).OrderBy(group => group.Key))
-{
-    <section class="force-powers-category">
-        <h2>@group.Key</h2>
-        <div class="planet-directory-grid bounty-hunter-directory-grid">
-            @foreach (var hunter in group.OrderBy(hunter => hunter.Name))
-            {
-                <article class="planet-directory-card bounty-hunter-directory-card">
-                    <span class="planet-directory-swatch" style="background-color: @hunter.Color" aria-hidden="true"></span>
-                    <div class="planet-directory-details">
-                        <a href="@hunter.Route">@hunter.Name</a>
-                        <p class="planet-region bounty-hunter-directory-homeworld">@hunter.Homeworld</p>
-                    </div>
-                </article>
-            }
-        </div>
-    </section>
+    <DirectoryListSearch Placeholder="Search bounty hunters by name, specialty, or homeworld…"
+                         ItemLabel="bounty hunters"
+                         TotalCount="@BountyHunterData.BountyHunters.Count"
+                         FilteredCount="@FilteredHunters.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    @foreach (var group in FilteredHunters.GroupBy(hunter => hunter.Specialty).OrderBy(group => group.Key))
+    {
+        <section class="force-powers-category">
+            <h2>@group.Key</h2>
+            <div class="planet-directory-grid bounty-hunter-directory-grid">
+                @foreach (var hunter in group.OrderBy(hunter => hunter.Name))
+                {
+                    <article class="planet-directory-card bounty-hunter-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @hunter.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@hunter.Route">@hunter.Name</a>
+                            <p class="planet-region bounty-hunter-directory-homeworld">@hunter.Homeworld</p>
+                        </div>
+                    </article>
+                }
+            </div>
+        </section>
+    }
+</div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<BountyHunter> FilteredHunters =>
+        BountyHunterData.BountyHunters.Where(hunter =>
+            DirectoryFilter.Matches(searchQuery, hunter.Name, hunter.Specialty, hunter.Homeworld, hunter.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
 }

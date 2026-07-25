@@ -1,0 +1,20 @@
+@if (Links.Count > 0)
+{
+    <section class="directory-detail-section entity-cross-links">
+        <h2>Interconnected records</h2>
+        <div class="entity-cross-links-grid">
+            @foreach (var link in Links)
+            {
+                <div class="entity-cross-link-row">
+                    <span class="entity-cross-link-label">@link.Label</span>
+                    <a href="@link.Route">@link.Value</a>
+                </div>
+            }
+        </div>
+    </section>
+}
+
+@code {
+    [Parameter]
+    public IReadOnlyList<EntityCrossLink> Links { get; set; } = Array.Empty<EntityCrossLink>();
+}

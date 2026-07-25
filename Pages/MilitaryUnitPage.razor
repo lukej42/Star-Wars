@@ -1,28 +1,101 @@
-@page "/military-units/{Slug}"
+@page "/military-units/{FactionSlug}"
+@page "/military-units/{FactionSlug}/{UnitSlug}"
 @using StarWars.Data
-@using StarWars.Models
+@using StarWars.Components
 
-<PageTitle>@(faction?.Name ?? "Military Units")</PageTitle>
+<PageTitle>@(unit?.Name ?? faction?.Name ?? "Military Units")</PageTitle>
 
 @if (faction is null)
 {
     <h1>Military unit not found</h1>
     <p>Sorry, there are no records for this faction.</p>
 }
+else if (unit is not null)
+{
+    <DirectoryDetailShell Name="@unit.Name"
+                          HeroImagePath="@HeroImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {unit.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@($"{faction.Name} · {unit.UnitType}")"
+                          OverviewText="@unit.Description"
+                          HistoryText="@UnitHistory"
+                          SignificanceText="@UnitSignificance"
+                          SignificanceHeading="Role in galactic conflicts"
+                          NotableEvents="@UnitEvents"
+                          Affiliations="@(new[] { faction.Name })"
+                          AccentColor="@unit.Color" />
+}
 else
 {
-    <h1>@faction.Name</h1>
-    <p class="all-planets-intro">Military unit listings for @faction.Name are coming soon.</p>
+    <div class="directory-page">
+        <figure class="directory-hero">
+            <img src="@HeroImagePath" alt="@($"Military units of {faction.Name}")" loading="lazy" />
+        </figure>
+
+        <h1>@faction.Name Military Units</h1>
+        <p class="all-planets-intro">All military units fielded by @faction.Name across the saga films, series, KOTOR, and the Old Sith Empire.</p>
+
+        <DirectoryListSearch Placeholder="Search units by name or type…"
+                             ItemLabel="units"
+                             TotalCount="@AllUnits.Count"
+                             FilteredCount="@FilteredUnits.Count"
+                             Query="@searchQuery"
+                             QueryChanged="OnSearchChanged" />
+
+        <div class="planet-directory-grid">
+            @foreach (var entry in FilteredUnits)
+            {
+                <article class="planet-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @entry.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@entry.Route">@entry.Name</a>
+                        <p class="planet-region">@entry.UnitType</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </div>
 }
 
 @code {
     [Parameter]
-    public string Slug { get; set; } = string.Empty;
+    public string FactionSlug { get; set; } = string.Empty;
+
+    [Parameter]
+    public string? UnitSlug { get; set; }
 
     private MilitaryUnitFaction? faction;
+    private MilitaryUnit? unit;
+    private string searchQuery = string.Empty;
+    private IReadOnlyList<MilitaryUnit> AllUnits = [];
+    private IReadOnlyList<MilitaryUnit> FilteredUnits => AllUnits.Where(entry =>
+        DirectoryFilter.Matches(searchQuery, entry.Name, entry.UnitType, entry.Description)).ToList();
+
+    private string HeroImagePath => unit?.HeroImagePath ?? "/images/military-units/military-units-directory-hero.webp";
+
+    private string UnitHistory =>
+        unit is null ? string.Empty :
+        $"{unit.Name} served as a core element of {faction!.Name} forces throughout major galactic conflicts referenced in the nine saga films, live-action and animated series, Knights of the Old Republic, and records of the Old Sith Empire.\n\nFrom siege lines and fleet actions to occupation garrisons and special operations, {unit.Name} shaped how {faction.Name} projected power—and how their enemies learned to fear or counter them.";
+
+    private string UnitSignificance =>
+        unit is null ? string.Empty :
+        $"As {unit.UnitType.ToLowerInvariant()} assets, {unit.Name} influenced campaign planning, morale, and the outcome of pivotal battles. Their tactics and equipment appear in holorecords spanning Coruscant senate chambers to Outer Rim war zones.";
+
+    private IReadOnlyList<string> UnitEvents =>
+        unit is null ? [] :
+        [
+            $"Deployed by {faction!.Name} in major theater operations",
+            "Referenced in Clone Wars and Imperial-era campaigns",
+            "Documented in KOTOR-era and Old Sith Empire military archives"
+        ];
 
     protected override void OnParametersSet()
     {
-        faction = MilitaryUnitData.GetBySlug(Slug);
+        faction = MilitaryUnitData.GetFactionBySlug(FactionSlug);
+        unit = string.IsNullOrWhiteSpace(UnitSlug) ? null : MilitaryUnitData.GetUnitBySlug(FactionSlug, UnitSlug!);
+        AllUnits = faction is null ? [] : MilitaryUnitData.GetUnitsForFaction(faction.Slug);
+        searchQuery = string.Empty;
     }
+
+    private void OnSearchChanged(string query) => searchQuery = query;
 }

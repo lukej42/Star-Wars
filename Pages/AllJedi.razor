@@ -3,22 +3,40 @@
 
 <PageTitle>All Jedi</PageTitle>
 
-<figure class="directory-hero">
-    <img src="/images/jedi/jedi-directory-hero.webp" alt="Serene light-side energy radiating from a meditating Jedi figure on an ancient temple terrace" loading="lazy" />
-</figure>
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="/images/jedi/jedi-directory-hero.webp" alt="Serene light-side energy radiating from a meditating Jedi figure on an ancient temple terrace" loading="lazy" />
+    </figure>
 
-<h1>All Jedi</h1>
-<p class="all-planets-intro">Jedi from the six films, Clone Wars, Rebels, Tales of the Jedi, Ahsoka, and related series.</p>
+    <h1>All Jedi</h1>
+    <p class="all-planets-intro">Jedi from the six films, Clone Wars, Rebels, Tales of the Jedi, Ahsoka, and related series.</p>
 
-<div class="planet-directory-grid">
-    @foreach (var jedi in JediData.Members.OrderBy(jedi => jedi.Name))
-    {
-        <article class="planet-directory-card">
-            <span class="planet-directory-swatch" style="background-color: @jedi.Color" aria-hidden="true"></span>
-            <div class="planet-directory-details">
-                <a href="@jedi.Route">@jedi.Name</a>
-                <p class="planet-region">@jedi.Rank</p>
-            </div>
-        </article>
-    }
+    <DirectoryListSearch Placeholder="Search Jedi by name or rank…"
+                         ItemLabel="Jedi"
+                         TotalCount="@JediData.Members.Count"
+                         FilteredCount="@FilteredJedi.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    <div class="planet-directory-grid">
+        @foreach (var jedi in FilteredJedi.OrderBy(jedi => jedi.Name))
+        {
+            <article class="planet-directory-card">
+                <span class="planet-directory-swatch" style="background-color: @jedi.Color" aria-hidden="true"></span>
+                <div class="planet-directory-details">
+                    <a href="@jedi.Route">@jedi.Name</a>
+                    <p class="planet-region">@jedi.Rank</p>
+                </div>
+            </article>
+        }
+    </div>
 </div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<JediMember> FilteredJedi =>
+        JediData.Members.Where(jedi => DirectoryFilter.Matches(searchQuery, jedi.Name, jedi.Rank, jedi.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

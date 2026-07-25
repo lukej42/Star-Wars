@@ -1,0 +1,68 @@
+@page "/wars-conflicts/battles/{Slug}"
+@using StarWars.Data
+@using StarWars.Components
+
+<PageTitle>@(battle?.Name ?? "Battle")</PageTitle>
+
+@if (battle is null)
+{
+    <h1>Battle not found</h1>
+    <p>Sorry, there are no records for this battle.</p>
+}
+else
+{
+    var war = WarConflictData.GetBySlug(battle.WarSlug);
+    <DirectoryDetailShell Name="@battle.Name"
+                          HeroImagePath="/images/wars-conflicts/wars-conflicts-directory-hero.webp"
+                          HeroImageAlt="@($"Cinematic depiction of the {battle.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@($"{war?.Name ?? battle.WarSlug} · {battle.Era}")"
+                          OverviewText="@BattleOverview"
+                          HistoryText="@BattleHistory"
+                          SignificanceText="@BattleSignificance"
+                          SignificanceHeading="Legacy"
+                          NotableEvents="@BattleEvents"
+                          Affiliations="@BattleReferences"
+                          AccentColor="@battle.Color" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private FamousBattle? battle;
+
+    private string BattleOverview =>
+        battle is null ? string.Empty :
+        $"The {battle.Name} was a pivotal engagement during the {battle.Era}, shaping the outcome of its parent conflict and echoing through records from the nine saga films, series, Knights of the Old Republic, and the Old Sith Empire.";
+
+    private string BattleHistory =>
+        battle is null ? string.Empty :
+        $"Forces clashed at {battle.Name} with strategic objectives that shifted the balance of power in the galaxy. Commanders on both sides committed fleets, armies, and Force-sensitive warriors to secure victory.\n\nHolorecords, veteran testimony, and archaeological surveys preserve the battle's timeline—from opening maneuvers through the decisive moment that ended the fighting.";
+
+    private string BattleSignificance =>
+        battle is null ? string.Empty :
+        $"{battle.Name} remains studied in academies and remembered in memorials. Its tactics influenced later campaigns, and its survivors went on to shape the next era of galactic history.";
+
+    private IReadOnlyList<string> BattleEvents =>
+        battle is null ? [] :
+        [
+            $"Fought during the {battle.Era}",
+            "Referenced in saga films and animated series",
+            "Documented in KOTOR-era and Old Sith Empire archives"
+        ];
+
+    private IReadOnlyList<string> BattleReferences =>
+        battle is null ? [] :
+        [
+            "Nine saga films",
+            "Live-action and animated series",
+            "Knights of the Old Republic",
+            "Old Sith Empire records"
+        ];
+
+    protected override void OnParametersSet()
+    {
+        battle = BattleData.GetBySlug(Slug);
+    }
+}

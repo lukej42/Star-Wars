@@ -1,0 +1,40 @@
+@page "/the-force/lightsaber-forms/{Slug}"
+@using StarWars.Data
+@using StarWars.Components
+
+<PageTitle>@(form?.Name ?? "Lightsaber Form")</PageTitle>
+
+@if (form is null || content is null)
+{
+    <h1>Form not found</h1>
+    <p>Sorry, there are no records for this lightsaber form.</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@form.Name"
+                          HeroImagePath="/images/the-force/lightsaber-forms-hero.webp"
+                          HeroImageAlt="@($"Cinematic illustration of {form.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@form.Style"
+                          OverviewText="@content.Overview"
+                          HistoryText="@content.History"
+                          SignificanceText="@content.Significance"
+                          SignificanceHeading="Combat philosophy"
+                          NotableEvents="@content.Practitioners"
+                          Affiliations="@content.References"
+                          AccentColor="@form.Color" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private LightsaberForm? form;
+    private LightsaberFormContent? content;
+
+    protected override void OnParametersSet()
+    {
+        form = LightsaberFormData.GetBySlug(Slug);
+        content = LightsaberFormContentData.GetBySlug(Slug);
+    }
+}
