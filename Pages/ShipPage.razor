@@ -4,6 +4,7 @@
 @using StarWars.Services
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(ship?.Name ?? "Ship")</PageTitle>
 
@@ -33,6 +34,7 @@ else
                           Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
                           Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
                           AccentColor="@ship.Color" />
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -42,16 +44,19 @@ else
     private Ship? ship;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
     {
         ship = ShipData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        crossLinks = [];
 
         if (ship is not null)
         {
             profile = await ProfileService.GetProfileAsync("ships", ship.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("ships", ship.Slug);
         }
 
         profileLoaded = true;

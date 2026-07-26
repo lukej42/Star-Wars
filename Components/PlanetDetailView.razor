@@ -3,6 +3,7 @@
 @using StarWars.Services
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
 
 @if (planet is null)
 {
@@ -19,6 +20,7 @@ else
     <PlanetPageShell ImagePath="@planet.BackgroundImagePath">
         @DetailContent
     </PlanetPageShell>
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -28,6 +30,7 @@ else
     private GalaxyPlanet? planet;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     private RenderFragment DetailContent => builder =>
     {
@@ -64,10 +67,12 @@ else
         planet = GalaxyData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        crossLinks = [];
 
         if (planet is not null)
         {
             profile = await ProfileService.GetProfileAsync("planets", planet.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("planets", planet.Slug);
         }
 
         profileLoaded = true;

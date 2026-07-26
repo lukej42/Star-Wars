@@ -1,0 +1,166 @@
+[
+  {
+    "category": "war",
+    "slug": "clone-wars",
+    "name": "Clone Wars",
+    "filename": "clone-wars-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/clone-wars-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Panoramic Clone Wars battlefield on Geonosis red rock spires with white clone troopers advancing against silver battle droid legions, LAAT gunships streaking overhead and Separatist core ships on the horizon. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "war",
+    "slug": "great-galactic-war",
+    "name": "Great Galactic War",
+    "filename": "great-galactic-war-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/great-galactic-war-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Sith Empire Harrower battlecruisers bombarding Coruscant's senate district with Republic troop transports burning in orbit and invasion dropships descending. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "war",
+    "slug": "cold-war",
+    "name": "Cold War (First Order)",
+    "filename": "cold-war-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/cold-war-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Resistance T-70 X-wings skimming red salt flats on Crait while First Order AT-M6 walkers and Resurgent-class Star Destroyers advance under a blood-red sky. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-utapau",
+    "name": "Battle of Utapau",
+    "war_slug": "clone-wars",
+    "era": "19 BBY",
+    "filename": "battle-of-utapau-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-utapau-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Utapau sinkhole city: 212th clone troopers on varactyl mounts pursuing battle droids across tiered Pau'an platforms with UT-AT walkers descending the chasms. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-yavin",
+    "name": "Battle of Yavin",
+    "war_slug": "galactic-civil-war",
+    "era": "0 BBY",
+    "filename": "battle-of-yavin-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-yavin-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Yavin trench run: Rebel X-wings diving through the Death Star meridian trench pursued by TIE fighters with Yavin 4's green moon looming in the background. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-jakku",
+    "name": "Battle of Jakku",
+    "war_slug": "galactic-civil-war",
+    "era": "5 ABY",
+    "filename": "battle-of-jakku-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-jakku-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Jakku desert wreckage field: New Republic Star Destroyers crashing into sands while X-wings and TIE remnants dogfight above fallen Imperial walkers. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "devastation-of-cathar",
+    "name": "Devastation of Cathar",
+    "war_slug": "mandalorian-wars",
+    "era": "3973 BBY",
+    "filename": "devastation-of-cathar-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/devastation-of-cathar-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Devastation of Cathar: Mandalorian Basilisk war droids strafing feline Cathar refugees on coastal cliffs with burning settlements and blood-red sunset skies. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-ossus",
+    "name": "Battle of Ossus",
+    "war_slug": "great-sith-war",
+    "era": "3996 BBY",
+    "filename": "battle-of-ossus-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-ossus-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Ossus Great Library: Jedi evacuating holocrons as Sith warships bombard mountain archives and Naga Sadow's forces storm terraced temple campuses. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "duel-on-ossus",
+    "name": "Duel on Ossus",
+    "war_slug": "great-sith-war",
+    "era": "3996 BBY",
+    "filename": "duel-on-ossus-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/duel-on-ossus-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Duel on Ossus between Jedi Master Ood Bnar rooted as a tree and Sith Lord Qordis amid falling library towers and emerald Force energy on a crumbling cliff. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "recapture-of-korriban",
+    "name": "Recapture of Korriban",
+    "war_slug": "great-galactic-war",
+    "era": "3681 BBY",
+    "filename": "recapture-of-korriban-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/recapture-of-korriban-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Recapture of Korriban: Republic assault shuttles descending on red desert Valley of the Dark Lords as Sith acolytes defend ancient tombs beneath storm clouds. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-troiken",
+    "name": "Battle of Troiken",
+    "war_slug": "stark-hyperspace-war",
+    "era": "44 BBY",
+    "filename": "battle-of-troiken-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-troiken-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Troiken ice caves: Ithorian and Stark Combine soldiers sheltering in frozen caverns while Trade Federation droid army probes the blizzard outside. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "coruscant-financial-crisis",
+    "name": "Coruscant Financial Crisis",
+    "war_slug": "stark-hyperspace-war",
+    "era": "44 BBY",
+    "filename": "coruscant-financial-crisis-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/coruscant-financial-crisis-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Coruscant financial crisis riots: senate district crowds and corporate lobbyists clashing with Republic security droids beneath towering banking spires after Stark fallout. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-tython",
+    "name": "Battle of Tython",
+    "war_slug": "hundred-year-darkness",
+    "era": "6950 BBY",
+    "filename": "battle-of-tython-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-tython-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Tython ancient cradle: early Je'daii masters channeling Force storms on mountain mesas while dark-side schismatics assault the first temple city. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "thought-bomb-detonation",
+    "name": "Thought Bomb Detonation",
+    "war_slug": "new-sith-wars",
+    "era": "1000 BBY",
+    "filename": "thought-bomb-detonation-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/thought-bomb-detonation-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Thought bomb detonation cavern: blinding violet Force energy sphere consuming Sith and Jedi spirits in Ruusan underground chasm with collapsing rock faces. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "destruction-of-hosnian-prime",
+    "name": "Destruction of Hosnian Prime",
+    "war_slug": "cold-war",
+    "era": "34 ABY",
+    "filename": "destruction-of-hosnian-prime-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/destruction-of-hosnian-prime-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Destruction of Hosnian Prime: Starkiller Base superlaser beam splitting across Hosnian system worlds with New Republic fleet disintegrating in silent orbital fireballs. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-takodana",
+    "name": "Battle of Takodana",
+    "war_slug": "cold-war",
+    "era": "34 ABY",
+    "filename": "battle-of-takodana-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-takodana-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Takodana castle ruins: First Order TIE fighters strafing Maz Kanata's lakeside fortress while Resistance reinforcements land in misty forest clearings. No text, no logos, no watermarks, no readable lettering."
+  },
+  {
+    "category": "battle",
+    "slug": "battle-of-ilum-great-war",
+    "name": "Battle of Ilum (Great War)",
+    "war_slug": "great-war",
+    "era": "3640 BBY",
+    "filename": "battle-of-ilum-great-war-hero.webp",
+    "output": "wwwroot/images/wars-conflicts/battles/battle-of-ilum-great-war-hero.webp",
+    "prompt": "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. Hyper-realistic practical effects quality matching all nine saga films, Clone Wars, Rebels, The Mandalorian, Knights of the Old Republic, and Old Sith Empire visuals. Film grain, dramatic rim lighting, IMAX composition. Battle of Ilum Great War ice plains: Republic and Imperial forces clashing near exposed kyber crystal pillars on windswept frozen tundra under aurora skies. No text, no logos, no watermarks, no readable lettering."
+  }
+]

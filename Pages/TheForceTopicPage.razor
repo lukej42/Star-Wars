@@ -37,7 +37,7 @@ else
     private TheForceTopic? topic;
     private ForceTopicContent? content;
 
-    private string HeroImagePath => $"/images/the-force/{Slug}-hero.webp";
+    private string HeroImagePath => topic?.HeroImagePath ?? string.Empty;
 
     protected override void OnParametersSet()
     {

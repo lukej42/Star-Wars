@@ -4,6 +4,7 @@
 @using StarWars.Services
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(power?.Name ?? "Force Power")</PageTitle>
 
@@ -44,6 +45,7 @@ else
         ·
         <a href="all-force-powers">All Force powers</a>
     </DirectoryDetailShell>
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -53,6 +55,7 @@ else
     private ForcePower? power;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     private string SideLabel => power?.Side == ForceSide.Light ? "Light Side" : "Dark Side";
 
@@ -61,10 +64,12 @@ else
         power = ForcePowerData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        crossLinks = [];
 
         if (power is not null)
         {
             profile = await ProfileService.GetProfileAsync("force-powers", power.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("force-powers", power.Slug);
         }
 
         profileLoaded = true;

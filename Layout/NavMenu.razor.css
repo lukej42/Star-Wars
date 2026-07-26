@@ -559,6 +559,17 @@
     background: rgba(255, 255, 255, 0.12);
 }
 
+.nav-flyout-divider-label {
+    height: auto;
+    margin: 0.45rem 0.65rem 0.2rem;
+    background: none;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.42);
+}
+
 .nav-full-timeline-link ::deep .bi,
 .nav-all-factions-link ::deep .bi,
 .nav-all-planets-link ::deep .bi,

@@ -6,7 +6,7 @@
 <PageTitle>Galaxy Map</PageTitle>
 
 <h1>Galaxy Map</h1>
-<p class="galaxy-map-intro">Search for a world, scroll to zoom, drag to pan, and click a marker for details. All @GalaxyData.Planets.Count worlds from the saga are marked on the map.</p>
+<p class="galaxy-map-intro">Search for a world, drag to pan, and click a marker for details. All @GalaxyData.Planets.Count worlds from the saga are marked on the map.</p>
 
 <div class="galaxy-map-shell">
     <div class="galaxy-map-controls">
@@ -50,13 +50,6 @@
                 <div class="galaxy-search-empty">No worlds match "@searchQuery".</div>
             }
         </div>
-
-        <div class="galaxy-map-toolbar">
-            <button type="button" class="galaxy-map-btn" @onclick="ZoomIn" aria-label="Zoom in">+</button>
-            <button type="button" class="galaxy-map-btn" @onclick="ZoomOut" aria-label="Zoom out">−</button>
-            <button type="button" class="galaxy-map-btn galaxy-map-btn-wide" @onclick="ResetView">Reset</button>
-            <span class="galaxy-map-zoom-label">@($"{Math.Round(zoom * 100)}%")</span>
-        </div>
     </div>
 
     <div class="galaxy-tooltip" aria-live="polite">
@@ -65,8 +58,6 @@
 
     <div class="galaxy-viewport"
          @ref="viewportRef"
-         @onwheel="OnWheel"
-         @onwheel:preventDefault="true"
          @onmousedown="StartPan"
          @onmousemove="OnPan"
          @onmouseup="EndPan"
@@ -337,13 +328,11 @@
 
     private void CenterOnPlanet(GalaxyPlanet planet)
     {
-        zoom = Math.Clamp(2.4, GalaxyMapSettings.MinZoom, GalaxyMapSettings.MaxZoom);
-
         var offsetX = (planet.X - GalaxyMapSettings.CenterX) / (GalaxyMapSettings.Width / 2);
         var offsetY = (planet.Y - GalaxyMapSettings.CenterY) / (GalaxyMapSettings.Height / 2);
 
-        panX = -offsetX * 320 * zoom;
-        panY = -offsetY * 220 * zoom;
+        panX = -offsetX * 320;
+        panY = -offsetY * 220;
     }
 
     private async Task OpenPlanetPanel(GalaxyPlanet planet, MouseEventArgs e)
@@ -376,7 +365,6 @@
         focusedPlanet = null;
         searchQuery = string.Empty;
         showSuggestions = false;
-        zoom = GalaxyMapSettings.DefaultZoom;
         panX = 0;
         panY = 0;
     }
@@ -420,27 +408,8 @@
         selectedPlanet = null;
         searchQuery = string.Empty;
         showSuggestions = false;
-    }
-
-    private void ZoomIn() => zoom = Math.Min(zoom + 0.25, GalaxyMapSettings.MaxZoom);
-
-    private void ZoomOut() => zoom = Math.Max(zoom - 0.25, GalaxyMapSettings.MinZoom);
-
-    private void ResetView()
-    {
-        zoom = GalaxyMapSettings.DefaultZoom;
         panX = 0;
         panY = 0;
-        focusedPlanet = null;
-        selectedPlanet = null;
-        searchQuery = string.Empty;
-        showSuggestions = false;
-    }
-
-    private void OnWheel(WheelEventArgs e)
-    {
-        var delta = e.DeltaY > 0 ? -0.15 : 0.15;
-        zoom = Math.Clamp(zoom + delta, GalaxyMapSettings.MinZoom, GalaxyMapSettings.MaxZoom);
     }
 
     private void StartPan(MouseEventArgs e)

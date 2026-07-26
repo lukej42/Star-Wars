@@ -10,7 +10,7 @@ public static class GalaxyMapSettings
     public const double PlanetBodyRadius = 34;
     public const double PlanetHaloRadius = 72;
 
-    public const double MinZoom = 0.2;
-    public const double MaxZoom = 6;
-    public const double DefaultZoom = 0.85;
+    public const double MinZoom = 1;
+    public const double MaxZoom = 1;
+    public const double DefaultZoom = 1;
 }

@@ -1,6 +1,9 @@
 @page "/the-force/lightsaber-forms/{Slug}"
 @using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
 @using StarWars.Components
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(form?.Name ?? "Lightsaber Form")</PageTitle>
 
@@ -12,7 +15,7 @@
 else
 {
     <DirectoryDetailShell Name="@form.Name"
-                          HeroImagePath="/images/the-force/lightsaber-forms-hero.webp"
+                          HeroImagePath="@form.HeroImagePath"
                           HeroImageAlt="@($"Cinematic illustration of {form.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@form.Style"
@@ -23,6 +26,7 @@ else
                           NotableEvents="@content.Practitioners"
                           Affiliations="@content.References"
                           AccentColor="@form.Color" />
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -31,10 +35,14 @@ else
 
     private LightsaberForm? form;
     private LightsaberFormContent? content;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
-    protected override void OnParametersSet()
+    protected override async Task OnParametersSetAsync()
     {
         form = LightsaberFormData.GetBySlug(Slug);
         content = LightsaberFormContentData.GetBySlug(Slug);
+        crossLinks = form is null
+            ? []
+            : await CrossLinkService.GetLinksAsync("lightsaber-forms", form.Slug);
     }
 }

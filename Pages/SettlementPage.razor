@@ -4,6 +4,7 @@
 @using StarWars.Services
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(settlement?.Name ?? "Settlement")</PageTitle>
 
@@ -35,6 +36,7 @@ else
                           AccentColor="@settlement.Color">
         <a href="all-cities-settlements">Back to all cities &amp; settlements</a>
     </DirectoryDetailShell>
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -44,16 +46,19 @@ else
     private Settlement? settlement;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
     {
         settlement = SettlementData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        crossLinks = [];
 
         if (settlement is not null)
         {
             profile = await ProfileService.GetProfileAsync("settlements", settlement.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("settlements", settlement.Slug);
         }
 
         profileLoaded = true;

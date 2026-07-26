@@ -15,7 +15,7 @@ SCRIPTS = Path(__file__).resolve().parent
 if str(SCRIPTS) not in sys.path:
     sys.path.insert(0, str(SCRIPTS))
 
-from military_unit_hero_prompts import hero_filename, load_military_units
+from military_unit_catalog_loader import MilitaryUnitEntry, branch_listing_entries, load_military_units
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "wwwroot" / "images" / "military-units"
@@ -143,17 +143,13 @@ def scene_template(unit_type: str, slug: str) -> str:
     return "troops"
 
 
-def render_unit(entry: dict[str, str], force: bool = False) -> Path:
-    filename = hero_filename(entry)
-    output_path = OUTPUT / filename
-    if output_path.exists() and not force:
-        return output_path
-
-    accent = hex_to_rgb(entry["color"])
+def render_unit(entry: MilitaryUnitEntry) -> Path:
+    output_path = entry.output_path
+    accent = hex_to_rgb(entry.color)
     dark = tuple(max(0, int(channel * 0.18)) for channel in accent)
     mid = tuple(max(0, int(channel * 0.45)) for channel in accent)
     glow = tuple(min(255, int(channel * 1.15)) for channel in accent)
-    slug_key = f"{entry['factionSlug']}-{entry['slug']}"
+    slug_key = f"{entry.faction_slug}-{entry.branch.lower()}-{entry.slug}"
     rng = rng_for_slug(slug_key)
 
     base = gradient_layer(WIDTH, HEIGHT, (max(dark[0], 8), max(dark[1], 10), max(dark[2], 18)), (mid[0], mid[1], mid[2]))
@@ -167,7 +163,9 @@ def render_unit(entry: dict[str, str], force: bool = False) -> Path:
     scene = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
     draw = ImageDraw.Draw(scene)
     silhouette = tuple(max(0, c - 80) for c in dark)
-    template = scene_template(entry["unitType"], entry["slug"])
+    template = scene_template(entry.unit_type, entry.slug)
+    if entry.branch.lower() == "navy":
+        template = "fleet"
     if template == "fleet":
         draw_fleet(draw, WIDTH, HEIGHT, silhouette)
     elif template == "walkers":
@@ -194,9 +192,26 @@ def render_unit(entry: dict[str, str], force: bool = False) -> Path:
     final.paste(composed.convert("RGB"), mask=Image.eval(vign, lambda px: 255 - px))
     final = Image.blend(composed.convert("RGB"), final, 0.35)
 
-    OUTPUT.mkdir(parents=True, exist_ok=True)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     final.save(output_path, format="WEBP", quality=88, method=6)
     return output_path
+
+
+def render_branch_listing(faction_slug: str, branch: str, output_path: Path) -> None:
+    rng = rng_for_slug(f"{faction_slug}-{branch}-listing")
+    accent = (74, 144, 217) if branch == "army" else (2, 132, 199)
+    dark = tuple(max(0, int(channel * 0.18)) for channel in accent)
+    mid = tuple(max(0, int(channel * 0.45)) for channel in accent)
+    glow = tuple(min(255, int(channel * 1.15)) for channel in accent)
+    base = gradient_layer(WIDTH, HEIGHT, (max(dark[0], 8), max(dark[1], 10), max(dark[2], 18)), mid)
+    composed = Image.alpha_composite(base.convert("RGBA"), star_layer(WIDTH, HEIGHT, rng, count=240))
+    draw = ImageDraw.Draw(composed)
+    if branch == "army":
+        draw_troop_line(draw, int(HEIGHT * 0.72), 12, tuple(max(0, c - 80) for c in dark), WIDTH)
+    else:
+        draw_fleet(draw, WIDTH, HEIGHT, tuple(max(0, c - 80) for c in dark))
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    composed.convert("RGB").save(output_path, format="WEBP", quality=88, method=6)
 
 
 def copy_cursor_assets() -> int:
@@ -216,22 +231,43 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Generate military unit hero WEBP banners")
     parser.add_argument("--force", action="store_true", help="Regenerate even if file exists")
     parser.add_argument("--skip-ai-copy", action="store_true", help="Do not copy Cursor-generated assets first")
+    parser.add_argument(
+        "--procedural-fallback",
+        action="store_true",
+        help="Allow procedural placeholders (default: only fill missing heroes)",
+    )
     args = parser.parse_args()
 
     if not args.skip_ai_copy:
         copied = copy_cursor_assets()
         print(f"Copied {copied} Cursor-generated hero assets")
 
+    if not args.procedural_fallback:
+        total = len(load_military_units()) + len(branch_listing_entries())
+        present = sum(1 for entry in load_military_units() if entry.output_path.is_file())
+        present += sum(1 for _, _, path in branch_listing_entries() if path.is_file())
+        missing = total - present
+        print(f"AI/copied heroes: {present}/{total} present ({missing} missing)")
+        if missing:
+            print("Run scripts/regenerate_military_unit_heroes.py and scripts/install_military_army_heroes.py for AI heroes.")
+        return
+
     generated = 0
     for entry in load_military_units():
-        path = OUTPUT / hero_filename(entry)
-        if path.exists() and not args.force:
+        if entry.output_path.exists() and not args.force:
             continue
-        render_unit(entry, force=True)
+        render_unit(entry)
         generated += 1
 
-    total = len(load_military_units())
-    present = sum(1 for entry in load_military_units() if (OUTPUT / hero_filename(entry)).is_file())
+    for faction_slug, branch, output_path in branch_listing_entries():
+        if output_path.exists() and not args.force:
+            continue
+        render_branch_listing(faction_slug, branch, output_path)
+        generated += 1
+
+    total = len(load_military_units()) + len(branch_listing_entries())
+    present = sum(1 for entry in load_military_units() if entry.output_path.is_file())
+    present += sum(1 for _, _, path in branch_listing_entries() if path.is_file())
     print(f"Generated {generated} procedural heroes ({present}/{total} total present)")
 
 

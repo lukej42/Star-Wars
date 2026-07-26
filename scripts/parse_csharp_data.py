@@ -48,6 +48,7 @@ def all_directory_entries() -> dict[str, list[dict[str, str]]]:
         "bounty-hunters": [normalize(e) for e in load_category("BountyHunterData.cs")],
         "settlements": [normalize(e) for e in load_category("SettlementData.cs")],
         "force-powers": [normalize(e) for e in load_category("ForcePowerData.cs")],
+        "droids": [normalize(e) for e in load_category("DroidData.cs")],
     }
 
 

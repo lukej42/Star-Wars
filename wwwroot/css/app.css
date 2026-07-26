@@ -10,22 +10,24 @@ body::before {
     content: '';
     position: fixed;
     inset: 0;
-    z-index: -1;
+    z-index: -2;
     pointer-events: none;
-    background-color: #000;
+    background-color: #02040c;
     background-image:
         radial-gradient(1px 1px at 25px 5px, #fff, transparent),
-        radial-gradient(1px 1px at 50px 25px, rgba(255, 255, 255, 0.8), transparent),
+        radial-gradient(1px 1px at 50px 25px, rgba(255, 255, 255, 0.85), transparent),
         radial-gradient(1px 1px at 125px 20px, #fff, transparent),
-        radial-gradient(1.5px 1.5px at 50px 75px, rgba(255, 255, 255, 0.9), transparent),
-        radial-gradient(1px 1px at 150px 115px, rgba(255, 255, 255, 0.7), transparent),
+        radial-gradient(1.5px 1.5px at 50px 75px, rgba(255, 255, 255, 0.95), transparent),
+        radial-gradient(1px 1px at 150px 115px, rgba(255, 255, 255, 0.75), transparent),
         radial-gradient(1px 1px at 180px 45px, #fff, transparent),
-        radial-gradient(1.5px 1.5px at 90px 145px, rgba(255, 255, 255, 0.6), transparent),
-        radial-gradient(1px 1px at 200px 90px, rgba(255, 255, 255, 0.85), transparent),
-        radial-gradient(2px 2px at 15px 120px, rgba(255, 255, 255, 0.5), transparent),
-        radial-gradient(1px 1px at 110px 60px, #fff, transparent);
+        radial-gradient(1.5px 1.5px at 90px 145px, rgba(255, 255, 255, 0.65), transparent),
+        radial-gradient(1px 1px at 200px 90px, rgba(255, 255, 255, 0.9), transparent),
+        radial-gradient(2px 2px at 15px 120px, rgba(255, 255, 255, 0.55), transparent),
+        radial-gradient(1px 1px at 110px 60px, #fff, transparent),
+        radial-gradient(1px 1px at 35px 180px, rgba(200, 220, 255, 0.8), transparent),
+        radial-gradient(1.5px 1.5px at 165px 195px, rgba(255, 255, 255, 0.7), transparent);
     background-repeat: repeat;
-    background-size: 220px 220px;
+    background-size: 200px 200px;
 }
 
 body::after {
@@ -35,14 +37,50 @@ body::after {
     z-index: -1;
     pointer-events: none;
     background-image:
-        radial-gradient(1px 1px at 70px 10px, rgba(255, 255, 255, 0.4), transparent),
-        radial-gradient(1.5px 1.5px at 130px 95px, rgba(255, 255, 255, 0.55), transparent),
-        radial-gradient(1px 1px at 30px 160px, rgba(255, 255, 255, 0.35), transparent),
-        radial-gradient(1px 1px at 170px 170px, rgba(255, 255, 255, 0.45), transparent),
-        radial-gradient(2px 2px at 100px 30px, rgba(255, 255, 255, 0.3), transparent);
+        radial-gradient(ellipse 120% 80% at 15% 20%, rgba(56, 88, 180, 0.14), transparent 55%),
+        radial-gradient(ellipse 90% 70% at 85% 75%, rgba(120, 60, 160, 0.1), transparent 50%),
+        radial-gradient(1px 1px at 70px 10px, rgba(255, 255, 255, 0.45), transparent),
+        radial-gradient(1.5px 1.5px at 130px 95px, rgba(255, 255, 255, 0.6), transparent),
+        radial-gradient(1px 1px at 30px 160px, rgba(255, 255, 255, 0.4), transparent),
+        radial-gradient(1px 1px at 170px 170px, rgba(255, 255, 255, 0.5), transparent),
+        radial-gradient(2px 2px at 100px 30px, rgba(255, 255, 255, 0.35), transparent),
+        radial-gradient(1px 1px at 210px 140px, rgba(255, 255, 255, 0.55), transparent);
     background-repeat: repeat;
-    background-size: 280px 280px;
-    opacity: 0.8;
+    background-size: 260px 260px;
+    opacity: 0.95;
+}
+
+.content-galaxy {
+    position: relative;
+    background: transparent;
+}
+
+.content-galaxy::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    left: 0;
+    z-index: -1;
+    pointer-events: none;
+    background:
+        radial-gradient(ellipse 70% 45% at 50% 0%, rgba(80, 120, 220, 0.08), transparent 70%),
+        radial-gradient(circle at 80% 60%, rgba(255, 255, 255, 0.03) 0, transparent 45%);
+}
+
+@media (min-width: 641px) {
+    .content-galaxy::before {
+        left: 280px;
+    }
+}
+
+.content-planet {
+    background: transparent;
+}
+
+.directory-detail-section,
+.directory-detail-hero,
+.entity-cross-links {
+    backdrop-filter: blur(2px);
 }
 
 h1:focus {

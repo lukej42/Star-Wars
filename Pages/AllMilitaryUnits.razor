@@ -23,18 +23,34 @@
 
     @foreach (var faction in FilteredFactions.OrderBy(faction => faction.Name))
     {
-        var units = MilitaryUnitData.GetUnitsForFaction(faction.Slug);
+        var armyUnits = MilitaryUnitData.GetArmyUnits(faction.Slug);
+        var navyUnits = MilitaryUnitData.GetNavyUnits(faction.Slug);
         <section class="force-powers-category">
             <h2><a href="@faction.Route">@faction.Name</a></h2>
-            <p class="all-planets-intro">@units.Count military units · <a href="@faction.Route">View all @faction.Name units</a></p>
+            <p class="all-planets-intro">
+                @armyUnits.Count army · @navyUnits.Count navy ·
+                <a href="@faction.Route">All units</a> ·
+                <a href="@faction.ArmyRoute">Army</a> ·
+                <a href="@faction.NavyRoute">Navy</a>
+            </p>
             <div class="planet-directory-grid">
-                @foreach (var unit in units.Take(6))
+                @foreach (var unit in armyUnits.Take(3))
                 {
                     <article class="planet-directory-card">
                         <span class="planet-directory-swatch" style="background-color: @unit.Color" aria-hidden="true"></span>
                         <div class="planet-directory-details">
                             <a href="@unit.Route">@unit.Name</a>
-                            <p class="planet-region">@unit.UnitType</p>
+                            <p class="planet-region">Army · @unit.UnitType</p>
+                        </div>
+                    </article>
+                }
+                @foreach (var unit in navyUnits.Take(3))
+                {
+                    <article class="planet-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @unit.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@unit.Route">@unit.Name</a>
+                            <p class="planet-region">Navy · @(unit.NavyClass ?? unit.UnitType)</p>
                         </div>
                     </article>
                 }

@@ -6,4 +6,6 @@ public sealed class TheForceTopic
     public required string Slug { get; init; }
     public required string Route { get; init; }
     public required string Color { get; init; }
+
+    public string HeroImagePath => $"/images/the-force/{Slug}-hero.webp";
 }

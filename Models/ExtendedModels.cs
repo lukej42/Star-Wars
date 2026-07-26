@@ -7,6 +7,8 @@ public sealed class LightsaberForm
     public required string Route { get; init; }
     public required string Style { get; init; }
     public required string Color { get; init; }
+
+    public string HeroImagePath => $"/images/the-force/lightsaber-forms/{Slug}-hero.webp";
 }
 
 public sealed class FamousBattle
@@ -17,6 +19,8 @@ public sealed class FamousBattle
     public required string Route { get; init; }
     public required string Era { get; init; }
     public required string Color { get; init; }
+
+    public string HeroImagePath => $"/images/wars-conflicts/battles/{Slug}-hero.webp";
 }
 
 public sealed class EntityCrossLink

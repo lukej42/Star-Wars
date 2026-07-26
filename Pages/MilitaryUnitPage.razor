@@ -1,9 +1,16 @@
 @page "/military-units/{FactionSlug}"
-@page "/military-units/{FactionSlug}/{UnitSlug}"
+@page "/military-units/{FactionSlug}/army"
+@page "/military-units/{FactionSlug}/navy"
+@page "/military-units/{FactionSlug}/army/{UnitSlug}"
+@page "/military-units/{FactionSlug}/navy/{UnitSlug}"
 @using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
 @using StarWars.Components
+@inject NavigationManager Navigation
+@inject EntityCrossLinkService CrossLinkService
 
-<PageTitle>@(unit?.Name ?? faction?.Name ?? "Military Units")</PageTitle>
+<PageTitle>@(pageTitle)</PageTitle>
 
 @if (faction is null)
 {
@@ -13,10 +20,10 @@
 else if (unit is not null)
 {
     <DirectoryDetailShell Name="@unit.Name"
-                          HeroImagePath="@HeroImagePath"
+                          HeroImagePath="@unit.HeroImagePath"
                           HeroImageAlt="@($"Cinematic illustration of {unit.Name}")"
                           ShowPortraitHero="false"
-                          Subtitle="@($"{faction.Name} · {unit.UnitType}")"
+                          Subtitle="@UnitSubtitle"
                           OverviewText="@unit.Description"
                           HistoryText="@UnitHistory"
                           SignificanceText="@UnitSignificance"
@@ -24,36 +31,75 @@ else if (unit is not null)
                           NotableEvents="@UnitEvents"
                           Affiliations="@(new[] { faction.Name })"
                           AccentColor="@unit.Color" />
+    <EntityCrossLinks Links="@crossLinks" />
 }
 else
 {
     <div class="directory-page">
         <figure class="directory-hero">
-            <img src="@HeroImagePath" alt="@($"Military units of {faction.Name}")" loading="lazy" />
+            <img src="@ListHeroPath" alt="@listHeroAlt" loading="lazy" />
         </figure>
 
-        <h1>@faction.Name Military Units</h1>
-        <p class="all-planets-intro">All military units fielded by @faction.Name across the saga films, series, KOTOR, and the Old Sith Empire.</p>
+        <h1>@ListHeading</h1>
+        <p class="all-planets-intro">@ListIntro</p>
 
-        <DirectoryListSearch Placeholder="Search units by name or type…"
-                             ItemLabel="units"
-                             TotalCount="@AllUnits.Count"
-                             FilteredCount="@FilteredUnits.Count"
-                             Query="@searchQuery"
-                             QueryChanged="OnSearchChanged" />
+        @if (branch is null)
+        {
+            <section class="force-powers-category">
+                <h2>Army</h2>
+                <p class="all-planets-intro"><a href="@faction.ArmyRoute">View all @ArmyUnits.Count army units</a></p>
+                <div class="planet-directory-grid">
+                    @foreach (var entry in ArmyUnits.Take(6))
+                    {
+                        @RenderUnitCard(entry)
+                    }
+                </div>
+            </section>
+            <section class="force-powers-category">
+                <h2>Navy</h2>
+                <p class="all-planets-intro"><a href="@faction.NavyRoute">View all @NavyUnits.Count navy units</a></p>
+                <div class="planet-directory-grid">
+                    @foreach (var entry in NavyUnits.Take(6))
+                    {
+                        @RenderUnitCard(entry)
+                    }
+                </div>
+            </section>
+        }
+        else
+        {
+            <DirectoryListSearch Placeholder="@SearchPlaceholder"
+                                 ItemLabel="units"
+                                 TotalCount="@DisplayedUnits.Count"
+                                 FilteredCount="@FilteredUnits.Count"
+                                 Query="@searchQuery"
+                                 QueryChanged="OnSearchChanged" />
 
-        <div class="planet-directory-grid">
-            @foreach (var entry in FilteredUnits)
+            @if (branch == MilitaryUnitBranch.Navy)
             {
-                <article class="planet-directory-card">
-                    <span class="planet-directory-swatch" style="background-color: @entry.Color" aria-hidden="true"></span>
-                    <div class="planet-directory-details">
-                        <a href="@entry.Route">@entry.Name</a>
-                        <p class="planet-region">@entry.UnitType</p>
-                    </div>
-                </article>
+                @foreach (var group in NavyGroups)
+                {
+                    <section class="force-powers-category">
+                        <h2>@group.Key</h2>
+                        <div class="planet-directory-grid">
+                            @foreach (var entry in group.Where(u => FilteredUnits.Contains(u)))
+                            {
+                                @RenderUnitCard(entry)
+                            }
+                        </div>
+                    </section>
+                }
             }
-        </div>
+            else
+            {
+                <div class="planet-directory-grid">
+                    @foreach (var entry in FilteredUnits)
+                    {
+                        @RenderUnitCard(entry)
+                    }
+                </div>
+            }
+        }
     </div>
 }
 
@@ -66,36 +112,141 @@ else
 
     private MilitaryUnitFaction? faction;
     private MilitaryUnit? unit;
+    private MilitaryUnitBranch? branch;
     private string searchQuery = string.Empty;
-    private IReadOnlyList<MilitaryUnit> AllUnits = [];
-    private IReadOnlyList<MilitaryUnit> FilteredUnits => AllUnits.Where(entry =>
-        DirectoryFilter.Matches(searchQuery, entry.Name, entry.UnitType, entry.Description)).ToList();
+    private IReadOnlyList<MilitaryUnit> ArmyUnits = [];
+    private IReadOnlyList<MilitaryUnit> NavyUnits = [];
+    private IReadOnlyList<MilitaryUnit> DisplayedUnits = [];
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
-    private string HeroImagePath => unit?.HeroImagePath ?? "/images/military-units/military-units-directory-hero.webp";
+    private IReadOnlyList<MilitaryUnit> FilteredUnits => DisplayedUnits.Where(entry =>
+        DirectoryFilter.Matches(searchQuery, entry.Name, entry.UnitType, entry.NavyClass, entry.Description)).ToList();
+
+    private IEnumerable<IGrouping<string, MilitaryUnit>> NavyGroups =>
+        FilteredUnits
+            .GroupBy(entry => entry.NavyClass ?? entry.UnitType)
+            .OrderBy(group => group.Key, StringComparer.OrdinalIgnoreCase);
+
+    private string pageTitle => unit?.Name ?? ListHeading;
+
+    private string ListHeading => branch switch
+    {
+        MilitaryUnitBranch.Army => $"{faction!.Name} Army",
+        MilitaryUnitBranch.Navy => $"{faction!.Name} Navy",
+        _ => $"{faction!.Name} Military Units"
+    };
+
+    private string ListIntro => branch switch
+    {
+        MilitaryUnitBranch.Army => $"Ground forces, legions, battalions, and specialist formations fielded by {faction!.Name}.",
+        MilitaryUnitBranch.Navy => $"Fleet elements, capital ships, escorts, and starfighter wings of {faction!.Name}.",
+        _ => $"All army and navy units fielded by {faction!.Name} across the saga films, series, KOTOR, and the Old Sith Empire."
+    };
+
+    private string ListHeroPath => branch switch
+    {
+        MilitaryUnitBranch.Army => faction!.ArmyHeroPath,
+        MilitaryUnitBranch.Navy => faction!.NavyHeroPath,
+        _ => "/images/military-units/military-units-directory-hero.webp"
+    };
+
+    private string listHeroAlt => branch switch
+    {
+        MilitaryUnitBranch.Army => $"Army forces of {faction!.Name}",
+        MilitaryUnitBranch.Navy => $"Naval forces of {faction!.Name}",
+        _ => $"Military units of {faction!.Name}"
+    };
+
+    private string SearchPlaceholder => branch == MilitaryUnitBranch.Navy
+        ? "Search navy units by name, class, or type…"
+        : "Search army units by name or type…";
+
+    private string UnitSubtitle => unit!.Branch == MilitaryUnitBranch.Navy && !string.IsNullOrWhiteSpace(unit.NavyClass)
+        ? $"{faction!.Name} · {unit.NavyClass} · {unit.UnitType}"
+        : $"{faction!.Name} · {unit.UnitType}";
 
     private string UnitHistory =>
         unit is null ? string.Empty :
-        $"{unit.Name} served as a core element of {faction!.Name} forces throughout major galactic conflicts referenced in the nine saga films, live-action and animated series, Knights of the Old Republic, and records of the Old Sith Empire.\n\nFrom siege lines and fleet actions to occupation garrisons and special operations, {unit.Name} shaped how {faction.Name} projected power—and how their enemies learned to fear or counter them.";
+        $"{unit.Name} served as a core element of {faction!.Name} {(unit.Branch == MilitaryUnitBranch.Army ? "ground" : "naval")} forces throughout major galactic conflicts referenced in the nine saga films, live-action and animated series, Knights of the Old Republic, and records of the Old Sith Empire.\n\n{unit.Description}";
 
     private string UnitSignificance =>
         unit is null ? string.Empty :
-        $"As {unit.UnitType.ToLowerInvariant()} assets, {unit.Name} influenced campaign planning, morale, and the outcome of pivotal battles. Their tactics and equipment appear in holorecords spanning Coruscant senate chambers to Outer Rim war zones.";
+        $"As {unit.UnitType.ToLowerInvariant()} assets within the {faction!.Name} {(unit.Branch == MilitaryUnitBranch.Army ? "army" : "navy")}, {unit.Name} influenced campaign planning, logistics, and the outcome of pivotal battles across the galaxy.";
 
     private IReadOnlyList<string> UnitEvents =>
         unit is null ? [] :
         [
             $"Deployed by {faction!.Name} in major theater operations",
-            "Referenced in Clone Wars and Imperial-era campaigns",
+            unit.Branch == MilitaryUnitBranch.Navy ? "Referenced in fleet actions and orbital campaigns" : "Referenced in ground sieges and planetary invasions",
             "Documented in KOTOR-era and Old Sith Empire military archives"
         ];
 
-    protected override void OnParametersSet()
+    protected override async Task OnParametersSetAsync()
     {
         faction = MilitaryUnitData.GetFactionBySlug(FactionSlug);
-        unit = string.IsNullOrWhiteSpace(UnitSlug) ? null : MilitaryUnitData.GetUnitBySlug(FactionSlug, UnitSlug!);
-        AllUnits = faction is null ? [] : MilitaryUnitData.GetUnitsForFaction(faction.Slug);
+        branch = ResolveBranch();
+        ArmyUnits = faction is null ? [] : MilitaryUnitData.GetArmyUnits(faction.Slug);
+        NavyUnits = faction is null ? [] : MilitaryUnitData.GetNavyUnits(faction.Slug);
+        DisplayedUnits = branch switch
+        {
+            MilitaryUnitBranch.Army => ArmyUnits,
+            MilitaryUnitBranch.Navy => NavyUnits,
+            _ => MilitaryUnitData.GetUnitsForFaction(FactionSlug)
+        };
+
+        unit = branch is null || string.IsNullOrWhiteSpace(UnitSlug)
+            ? null
+            : MilitaryUnitData.GetUnitBySlug(FactionSlug, branch.Value, UnitSlug!);
+
+        crossLinks = unit is null || faction is null
+            ? []
+            : await CrossLinkService.GetLinksAsync("military-units", $"{FactionSlug}/{UnitSlug}");
         searchQuery = string.Empty;
     }
 
+    private MilitaryUnitBranch? ResolveBranch()
+    {
+        var segments = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Split('/', StringSplitOptions.RemoveEmptyEntries);
+        if (segments.Length >= 3 && segments[0].Equals("military-units", StringComparison.OrdinalIgnoreCase))
+        {
+            if (segments[2].Equals("army", StringComparison.OrdinalIgnoreCase))
+            {
+                return MilitaryUnitBranch.Army;
+            }
+
+            if (segments[2].Equals("navy", StringComparison.OrdinalIgnoreCase))
+            {
+                return MilitaryUnitBranch.Navy;
+            }
+        }
+
+        return null;
+    }
+
     private void OnSearchChanged(string query) => searchQuery = query;
+
+    private RenderFragment RenderUnitCard(MilitaryUnit entry) => builder =>
+    {
+        builder.OpenElement(0, "article");
+        builder.AddAttribute(1, "class", "planet-directory-card");
+        builder.OpenElement(2, "span");
+        builder.AddAttribute(3, "class", "planet-directory-swatch");
+        builder.AddAttribute(4, "style", $"background-color: {entry.Color}");
+        builder.AddAttribute(5, "aria-hidden", "true");
+        builder.CloseElement();
+        builder.OpenElement(6, "div");
+        builder.AddAttribute(7, "class", "planet-directory-details");
+        builder.OpenElement(8, "a");
+        builder.AddAttribute(9, "href", entry.Route);
+        builder.AddContent(10, entry.Name);
+        builder.CloseElement();
+        builder.OpenElement(11, "p");
+        builder.AddAttribute(12, "class", "planet-region");
+        builder.AddContent(13, entry.Branch == MilitaryUnitBranch.Navy && !string.IsNullOrWhiteSpace(entry.NavyClass)
+            ? $"{entry.NavyClass} · {entry.UnitType}"
+            : entry.UnitType);
+        builder.CloseElement();
+        builder.CloseElement();
+        builder.CloseElement();
+    };
 }

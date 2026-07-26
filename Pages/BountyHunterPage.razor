@@ -4,6 +4,7 @@
 @using StarWars.Services
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(hunter?.Name ?? "Bounty Hunter")</PageTitle>
 
@@ -35,6 +36,7 @@ else
                           AccentColor="@hunter.Color">
         <a href="all-bounty-hunters">Back to all bounty hunters</a>
     </DirectoryDetailShell>
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -44,16 +46,19 @@ else
     private BountyHunter? hunter;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
     {
         hunter = BountyHunterData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        crossLinks = [];
 
         if (hunter is not null)
         {
             profile = await ProfileService.GetProfileAsync("bounty-hunters", hunter.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("bounty-hunters", hunter.Slug);
         }
 
         profileLoaded = true;

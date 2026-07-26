@@ -1,6 +1,9 @@
 @page "/wars-conflicts/battles/{Slug}"
 @using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
 @using StarWars.Components
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(battle?.Name ?? "Battle")</PageTitle>
 
@@ -13,7 +16,7 @@ else
 {
     var war = WarConflictData.GetBySlug(battle.WarSlug);
     <DirectoryDetailShell Name="@battle.Name"
-                          HeroImagePath="/images/wars-conflicts/wars-conflicts-directory-hero.webp"
+                          HeroImagePath="@battle.HeroImagePath"
                           HeroImageAlt="@($"Cinematic depiction of the {battle.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@($"{war?.Name ?? battle.WarSlug} · {battle.Era}")"
@@ -24,6 +27,7 @@ else
                           NotableEvents="@BattleEvents"
                           Affiliations="@BattleReferences"
                           AccentColor="@battle.Color" />
+    <EntityCrossLinks Links="@crossLinks" />
 }
 
 @code {
@@ -31,6 +35,7 @@ else
     public string Slug { get; set; } = string.Empty;
 
     private FamousBattle? battle;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     private string BattleOverview =>
         battle is null ? string.Empty :
@@ -61,8 +66,11 @@ else
             "Old Sith Empire records"
         ];
 
-    protected override void OnParametersSet()
+    protected override async Task OnParametersSetAsync()
     {
         battle = BattleData.GetBySlug(Slug);
+        crossLinks = battle is null
+            ? []
+            : await CrossLinkService.GetLinksAsync("battles", battle.Slug);
     }
 }
