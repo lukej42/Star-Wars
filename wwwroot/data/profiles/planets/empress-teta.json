@@ -1,0 +1,38 @@
+{
+  "overview": "A Deep Core industrial world and capital of the Tetan monarchy, central to the Great Sith War.",
+  "history": "Empress Teta appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Empress Teta shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Empress Teta remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Deep Core",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Deep Core"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Empress Teta"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Empress Teta increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Empress Teta"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Empress Teta status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/empress-teta-hero.webp",
+      "caption": "Cinematic view of Empress Teta"
+    }
+  ]
+}

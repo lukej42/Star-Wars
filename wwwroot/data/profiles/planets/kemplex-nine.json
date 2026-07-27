@@ -1,0 +1,38 @@
+{
+  "overview": "A Deep Core astronomical anomaly destroyed when ancient Sith superweapons detonated during the Great Sith War.",
+  "history": "Kemplex IX appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Kemplex IX shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Kemplex IX remains a reference point in Sith Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Sith Space",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Sith Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Kemplex IX"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Kemplex IX increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Kemplex IX"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Kemplex IX status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kemplex-nine-hero.webp",
+      "caption": "Cinematic view of Kemplex IX"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "overview": "A desert world in the Cularin system housing a Jedi academy built over an ancient Sith fortress.",
+  "history": "Almas appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Almas shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Almas remains a reference point in Cularin System surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Cularin System",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Cularin System"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Almas"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Almas increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Almas"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Almas status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/almas-hero.webp",
+      "caption": "Cinematic view of Almas"
+    }
+  ]
+}

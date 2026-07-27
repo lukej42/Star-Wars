@@ -1,0 +1,38 @@
+{
+  "overview": "The official capital world of the Confederacy of Independent Systems during the Clone Wars.",
+  "history": "Raxus Secundus appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Raxus Secundus shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Raxus Secundus remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Outer Rim Territories",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Raxus Secundus"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Raxus Secundus increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Raxus Secundus"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Raxus Secundus status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/raxus-secundus-hero.webp",
+      "caption": "Cinematic view of Raxus Secundus"
+    }
+  ]
+}

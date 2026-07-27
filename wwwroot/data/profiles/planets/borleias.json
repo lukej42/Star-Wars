@@ -1,0 +1,38 @@
+{
+  "overview": "A Colonies world with a vital planetary shield generator, contested in the New Republic era.",
+  "history": "Borleias appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Borleias shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Borleias remains a reference point in Colonies surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Colonies",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Colonies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Borleias"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Borleias increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Borleias"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Borleias status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/borleias-hero.webp",
+      "caption": "Cinematic view of Borleias"
+    }
+  ]
+}

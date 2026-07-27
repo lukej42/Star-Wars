@@ -1,0 +1,38 @@
+{
+  "overview": "A Mandalorian colony world of Journeyman Protectors and beskar traditions.",
+  "history": "Concord Dawn appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Concord Dawn shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Concord Dawn remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Outer Rim Territories",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Concord Dawn"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Concord Dawn increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Concord Dawn"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Concord Dawn status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/concord-dawn-hero.webp",
+      "caption": "Cinematic view of Concord Dawn"
+    }
+  ]
+}

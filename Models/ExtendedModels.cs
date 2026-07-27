@@ -28,6 +28,7 @@ public sealed class EntityCrossLink
     public required string Label { get; init; }
     public required string Value { get; init; }
     public required string Route { get; init; }
+    public string? Image { get; init; }
 }
 
 public sealed class ProfileCrossLinkEntry

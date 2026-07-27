@@ -1,0 +1,38 @@
+{
+  "overview": "Byss is a deep core world documented across the nine saga films, live-action and animated series, Knights of the Old Republic, and Old Sith Empire records.",
+  "history": "Byss appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Byss shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Byss remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Deep Core",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Deep Core"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Byss"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Byss increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Byss"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Byss status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/byss-hero.webp",
+      "caption": "Cinematic view of Byss"
+    }
+  ]
+}

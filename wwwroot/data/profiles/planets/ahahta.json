@@ -1,0 +1,38 @@
+{
+  "overview": "Ahto City on Manaan, the floating kolto harvesting capital of the Selkath.",
+  "history": "Manaan Kolto City appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Manaan Kolto City shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Manaan Kolto City remains a reference point in Inner Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Inner Rim Territories",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Inner Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Manaan Kolto City"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Manaan Kolto City increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Manaan Kolto City"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Manaan Kolto City status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ahahta-hero.webp",
+      "caption": "Cinematic view of Manaan Kolto City"
+    }
+  ]
+}

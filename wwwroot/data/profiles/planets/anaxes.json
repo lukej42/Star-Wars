@@ -1,0 +1,38 @@
+{
+  "overview": "A Core fortress world of the Republic Navy, reduced to an asteroid field during the Clone Wars.",
+  "history": "Anaxes appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Anaxes shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Anaxes remains a reference point in Core Worlds surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Core Worlds",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Anaxes"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Anaxes increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Anaxes"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Anaxes status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/anaxes-hero.webp",
+      "caption": "Cinematic view of Anaxes"
+    }
+  ]
+}

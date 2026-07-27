@@ -1,0 +1,38 @@
+{
+  "overview": "An ice world where the Stark Commercial Combine made its last stand against Republic forces.",
+  "history": "Troiken appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Troiken shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Troiken remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Outer Rim Territories",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Troiken"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Troiken increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Troiken"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Troiken status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/troiken-hero.webp",
+      "caption": "Cinematic view of Troiken"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "overview": "A dark side world of the Gorog assassin cult within the Killik hive mind expansions.",
+  "history": "Gorog appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Gorog shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Gorog remains a reference point in Unknown Regions surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Unknown Regions",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Unknown Regions"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Gorog"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Gorog increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Gorog"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Gorog status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/gorog-hero.webp",
+      "caption": "Cinematic view of Gorog"
+    }
+  ]
+}

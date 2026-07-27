@@ -1,0 +1,38 @@
+{
+  "overview": "A fortress world of the Imperial Inquisitorius and ancient Sith catacombs beneath its citadels.",
+  "history": "Prakith appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Prakith shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Prakith remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Deep Core",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Deep Core"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Prakith"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Prakith increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Prakith"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Prakith status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/prakith-hero.webp",
+      "caption": "Cinematic view of Prakith"
+    }
+  ]
+}

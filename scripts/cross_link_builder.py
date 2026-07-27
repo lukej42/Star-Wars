@@ -17,7 +17,7 @@ from parse_csharp_data import (
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "Data"
 PROFILES = ROOT / "wwwroot" / "data" / "profiles"
-MAX_LINKS = 14
+MAX_LINKS = 24
 
 ROUTE_PATTERN = re.compile(r'Route\s*=\s*"([^"]+)"')
 BATTLE_CALL = re.compile(r'Battle\("([^"]+)", "([^"]+)", "([^"]+)", "([^"]+)", "([^"]+)"\)')
@@ -170,6 +170,143 @@ CAPITAL_OVERRIDES: dict[str, str] = {
     "sith-empire": "Dromund Kaas",
 }
 
+PLANET_ALIASES: dict[str, str] = {
+    "raxus secundus": "raxus",
+    "neimoidia": "neimoidia",
+    "cato neimoidia": "cato-neimoidia",
+    "trade federation homeworld": "neimoidia",
+    "starkiller base": "starkiller-base",
+    "telos iv": "telos",
+    "nal hutta moon": "nal-hutta",
+    "imperial center": "coruscant",
+    "galactic city": "coruscant",
+    "yavin prime": "yavin-4",
+    "mon cala dac": "mon-cala",
+    "d qar": "d-qar",
+    "dqar": "d-qar",
+    "hosnian prime capital": "hosnian-prime",
+    "hosnian system": "hosnian-prime",
+    "moraband korriban": "moraband",
+    "sith homeworld": "moraband",
+    "unknown world": "lehon",
+    "rakata prime": "rakata-prime",
+    "lehon unknown world": "lehon",
+    "ord mantell": "ord-mantell",
+    "concord dawn": "concord-dawn",
+    "plazir 17": "plazir-17",
+    "narkina 5": "narkina-5",
+    "stygeon prime": "stygeon-prime",
+    "kemplex 9": "kemplex-nine",
+    "kemplex ix": "kemplex-nine",
+    "primus goluud": "primus-goluud",
+    "barab i": "barab-i",
+    "clakdor vii": "clakdor-vii",
+    "colla iv": "colla-iv",
+    "glee anselm": "glee-anselm",
+    "l huguenok": "lhuguenok",
+    "lah mu": "lahmu",
+    "oba diah": "oba-diah",
+    "orto plutonia": "orto-plutonia",
+    "rhen var": "rhen-var",
+    "telos iv restoration": "telos",
+    "yag dhul": "yagdhul",
+    "yar togna": "yar-togna",
+    "cadomai prime": "cadomai-prime",
+    "uvena prime": "uvena-prime",
+    "maridun": "maridun",
+}
+
+FACTION_PLANETS: dict[str, list[tuple[str, str]]] = {
+    "republic": [
+        ("Capital", "Coruscant"),
+        ("World", "Alderaan"),
+        ("World", "Naboo"),
+        ("World", "Corellia"),
+        ("World", "Kuat"),
+    ],
+    "confederacy": [
+        ("Capital", "Raxus Secundus"),
+        ("World", "Geonosis"),
+        ("World", "Raxus"),
+        ("World", "Cato Neimoidia"),
+        ("World", "Neimoidia"),
+        ("World", "Mustafar"),
+        ("World", "Serenno"),
+    ],
+    "empire": [
+        ("Capital", "Coruscant"),
+        ("World", "Mustafar"),
+        ("World", "Scarif"),
+        ("World", "Kuat"),
+        ("World", "Fondor"),
+        ("World", "Eadu"),
+        ("World", "Wobani"),
+    ],
+    "rebel-alliance": [
+        ("Base", "Dantooine"),
+        ("Base", "Yavin 4"),
+        ("Base", "Hoth"),
+        ("World", "Scarif"),
+        ("World", "Chandrila"),
+        ("World", "Alderaan"),
+        ("World", "Endor"),
+        ("World", "Atollon"),
+        ("World", "Lothal"),
+    ],
+    "new-republic": [
+        ("Capital", "Chandrila"),
+        ("Capital", "Hosnian Prime"),
+        ("World", "Coruscant"),
+        ("World", "Chandrila"),
+        ("World", "Hosnian Prime"),
+        ("World", "Bilbringi"),
+        ("World", "Mon Cala"),
+        ("World", "Naboo"),
+    ],
+    "hutts": [
+        ("Capital", "Nal Hutta"),
+        ("World", "Nal Hutta"),
+        ("World", "Tatooine"),
+        ("World", "Nar Shaddaa"),
+        ("World", "Klatooine"),
+    ],
+    "trade-federation": [
+        ("Capital", "Neimoidia"),
+        ("World", "Neimoidia"),
+        ("World", "Cato Neimoidia"),
+    ],
+    "first-order": [
+        ("Capital", "Starkiller Base"),
+        ("World", "Starkiller Base"),
+        ("World", "Ilum"),
+        ("World", "Jakku"),
+        ("World", "Exegol"),
+    ],
+    "resistance": [
+        ("Base", "D'Qar"),
+        ("Base", "Crait"),
+        ("Base", "Ajan Kloss"),
+        ("World", "Takodana"),
+        ("World", "D'Qar"),
+        ("World", "Crait"),
+    ],
+    "mandalorians": [
+        ("Capital", "Mandalore"),
+        ("World", "Mandalore"),
+        ("World", "Concord Dawn"),
+        ("World", "Kalevala"),
+        ("World", "Krownest"),
+    ],
+    "sith-empire": [
+        ("Capital", "Dromund Kaas"),
+        ("World", "Dromund Kaas"),
+        ("World", "Korriban"),
+        ("World", "Ziost"),
+        ("World", "Moraband"),
+        ("World", "Nathema"),
+    ],
+}
+
 
 class CrossLinkIndexes:
     def __init__(self) -> None:
@@ -198,6 +335,8 @@ class CrossLinkIndexes:
         self.species_members: dict[str, list[tuple[str, dict[str, str]]]] = {}
         self.power_users: dict[str, list[tuple[str, dict[str, str]]]] = {}
         self.form_users: dict[str, list[tuple[str, dict[str, str]]]] = {}
+        self.people_by_homeworld: dict[str, list[tuple[str, dict[str, str]]]] = {}
+        self.factions_by_planet: dict[str, list[dict[str, str]]] = {}
 
     def load(self) -> None:
         self.valid_routes = self._load_valid_routes()
@@ -223,6 +362,11 @@ class CrossLinkIndexes:
         for planet in self.planets:
             self.planet_by_norm[self._norm(planet["name"])] = planet
             self.planet_by_norm[self._norm(planet["slug"].replace("-", " "))] = planet
+
+        for alias, slug in PLANET_ALIASES.items():
+            planet = next((p for p in self.planets if p["slug"] == slug), None)
+            if planet:
+                self.planet_by_norm[self._norm(alias)] = planet
 
         for sp in self.species:
             self.species_by_norm[self._norm(sp["name"])] = sp
@@ -259,14 +403,17 @@ class CrossLinkIndexes:
                 self._index_person(entry, category)
 
         for settlement in self.settlements:
-            planet_norm = self._norm(settlement.get("planet", ""))
-            self.settlements_by_planet.setdefault(planet_norm, []).append(settlement)
+            planet = self._planet_for_name(settlement.get("planet", ""))
+            if planet:
+                self.settlements_by_planet.setdefault(planet["slug"], []).append(settlement)
 
         for battle in self.battles:
             self.battles_by_war.setdefault(battle["warSlug"], []).append(battle)
             planet_name = BATTLE_PLANETS.get(battle["slug"])
             if planet_name:
-                self.battles_by_planet.setdefault(self._norm(planet_name), []).append(battle)
+                planet = self._planet_for_name(planet_name)
+                if planet:
+                    self.battles_by_planet.setdefault(planet["slug"], []).append(battle)
 
         self._build_reverse_indexes()
 
@@ -400,12 +547,27 @@ class CrossLinkIndexes:
                 self.power_users.setdefault(power["slug"], []).append((category, entry))
             for form in self._match_forms(text):
                 self.form_users.setdefault(form["slug"], []).append((category, entry))
+            homeworld = entry.get("homeworld", "")
+            for part in re.split(r"[;/,]", homeworld):
+                planet = self._planet_for_name(part.strip())
+                if planet:
+                    self.people_by_homeworld.setdefault(planet["slug"], []).append((category, entry))
+            for planet in self._match_planets(text):
+                self.people_by_homeworld.setdefault(planet["slug"], []).append((category, entry))
 
         for form_slug, practitioners in self.form_practitioners.items():
             for practitioner in practitioners:
                 person = self._match_practitioner(practitioner)
                 if person:
                     self.form_users.setdefault(form_slug, []).append(person)
+
+        for faction_slug, planet_names in FACTION_PLANETS.items():
+            for _label, planet_name in planet_names:
+                planet = self._planet_for_name(planet_name)
+                if planet:
+                    faction = next((f for f in self.factions if f["slug"] == faction_slug), None)
+                    if faction:
+                        self.factions_by_planet.setdefault(planet["slug"], []).append(faction)
 
     def _profile_text(self, profile: dict, entry: dict[str, str] | None = None) -> str:
         chunks = [
@@ -532,7 +694,20 @@ class CrossLinkIndexes:
         return None
 
     def _planet_for_name(self, name: str) -> dict[str, str] | None:
-        return self.planet_by_norm.get(self._norm(name))
+        if not name:
+            return None
+        norm = self._norm(name)
+        planet = self.planet_by_norm.get(norm)
+        if planet:
+            return planet
+        alias_slug = PLANET_ALIASES.get(norm)
+        if alias_slug:
+            return next((p for p in self.planets if p["slug"] == alias_slug), None)
+        for planet in sorted(self.planets, key=lambda p: len(p["name"]), reverse=True):
+            pnorm = self._norm(planet["name"])
+            if pnorm and (pnorm in norm or norm in pnorm):
+                return planet
+        return None
 
     def add_link(
         self,
@@ -581,6 +756,12 @@ class CrossLinkIndexes:
                 planet = self._planet_for_name(part.strip())
                 if planet:
                     self.add_link(links, seen, "Homeworld", planet["name"], planet["route"])
+
+        for faction in self.factions:
+            fname = self._norm(faction["name"])
+            fslug = self._norm(faction["slug"])
+            if fname in text or fslug in text:
+                self.add_link(links, seen, "Faction", faction["name"], faction["route"])
 
         if extra_planet:
             planet = self._planet_for_name(extra_planet)
@@ -665,7 +846,7 @@ class CrossLinkIndexes:
             planet = self._planet_for_name(sp.get("homeworld", ""))
             if planet:
                 self.add_link(links, seen, "Homeworld", planet["name"], planet["route"])
-            for category, person in self.species_members.get(sp["slug"], [])[:8]:
+            for category, person in self.species_members.get(sp["slug"], [])[:12]:
                 label = category.rstrip("s").replace("-", " ").title()
                 self.add_link(links, seen, label, person["name"], person["route"])
             entries.append({"category": "species", "slug": sp["slug"], "links": links[:MAX_LINKS]})
@@ -674,32 +855,54 @@ class CrossLinkIndexes:
             profile = self.profiles.get("planets", {}).get(planet["slug"], {})
             links: list[dict[str, str]] = []
             seen: set[str] = set()
-            for settlement in self.settlements_by_planet.get(self._norm(planet["name"]), [])[:6]:
+            for settlement in self.settlements_by_planet.get(planet["slug"], [])[:8]:
                 self.add_link(links, seen, "Settlement", settlement["name"], settlement["route"])
-            for battle in self.battles_by_planet.get(self._norm(planet["name"]), []):
+            for battle in self.battles_by_planet.get(planet["slug"], []):
                 self.add_link(links, seen, "Battle", battle["name"], battle["route"])
             for sp in self.species:
-                if self._norm(sp.get("homeworld", "")) == self._norm(planet["name"]):
+                hw = sp.get("homeworld", "")
+                if self._planet_for_name(hw) and self._planet_for_name(hw)["slug"] == planet["slug"]:
                     self.add_link(links, seen, "Species", sp["name"], sp["route"])
+            for category, person in self.people_by_homeworld.get(planet["slug"], [])[:10]:
+                label = category.rstrip("s").replace("-", " ").title()
+                self.add_link(links, seen, label, person["name"], person["route"])
+            for faction in self.factions_by_planet.get(planet["slug"], []):
+                self.add_link(links, seen, "Faction", faction["name"], faction["route"])
             text = self._profile_text(profile, planet)
             for category, person in self.people:
-                if self._norm(planet["name"]) in self._profile_text(
+                person_text = self._profile_text(
                     self.profiles.get(category, {}).get(person["slug"], {}), person
-                ):
+                )
+                if self._norm(planet["name"]) in person_text or self._norm(planet["slug"]) in person_text:
                     label = category.rstrip("s").replace("-", " ").title()
                     self.add_link(links, seen, label, person["name"], person["route"])
+            self.add_affiliations(links, seen, profile)
             entries.append({"category": "planets", "slug": planet["slug"], "links": links[:MAX_LINKS]})
 
         for faction in self.factions:
             profile = self.profiles.get("factions", {}).get(faction["slug"], {})
             links: list[dict[str, str]] = []
             seen: set[str] = set()
-            capital_name = CAPITAL_OVERRIDES.get(faction["slug"]) or faction.get("capital", "")
-            capital_name = capital_name.split("(")[0].split("/")[0].strip()
-            planet = self._planet_for_name(capital_name)
-            if planet:
-                self.add_link(links, seen, "Capital", planet["name"], planet["route"])
+            for label, planet_name in FACTION_PLANETS.get(faction["slug"], []):
+                planet = self._planet_for_name(planet_name)
+                if planet:
+                    self.add_link(links, seen, label, planet["name"], planet["route"])
+            capital_raw = CAPITAL_OVERRIDES.get(faction["slug"]) or faction.get("capital", "")
+            for part in re.split(r"[,;/]| and | then ", capital_raw):
+                cleaned = part.strip().split("(")[0].strip()
+                if not cleaned or cleaned.lower() in {"mobile", "corporate fleet"}:
+                    continue
+                planet = self._planet_for_name(cleaned)
+                if planet:
+                    self.add_link(links, seen, "Capital", planet["name"], planet["route"])
             self.add_affiliations(links, seen, profile)
+            for category, person in self.people:
+                person_text = self._profile_text(
+                    self.profiles.get(category, {}).get(person["slug"], {}), person
+                )
+                if self._norm(faction["name"]) in person_text or self._norm(faction["slug"]) in person_text:
+                    label = category.rstrip("s").replace("-", " ").title()
+                    self.add_link(links, seen, label, person["name"], person["route"])
             entries.append({"category": "factions", "slug": faction["slug"], "links": links[:MAX_LINKS]})
 
         for power in self.powers:

@@ -1,0 +1,38 @@
+{
+  "overview": "An asteroid fortress in the Deep Core used by the New Republic against Yuuzhan Vong incursions.",
+  "history": "Ebaq 9 appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Ebaq 9 shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Ebaq 9 remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Deep Core",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Deep Core"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Ebaq 9"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Ebaq 9 increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Ebaq 9"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Ebaq 9 status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ebaq-9-hero.webp",
+      "caption": "Cinematic view of Ebaq 9"
+    }
+  ]
+}

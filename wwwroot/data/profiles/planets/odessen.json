@@ -1,0 +1,38 @@
+{
+  "overview": "A remote sanctuary world that became the Eternal Alliance base in the Old Republic era.",
+  "history": "Odessen appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Odessen shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Odessen remains a reference point in Wild Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Wild Space",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Wild Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Odessen"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Odessen increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Odessen"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Odessen status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/odessen-hero.webp",
+      "caption": "Cinematic view of Odessen"
+    }
+  ]
+}

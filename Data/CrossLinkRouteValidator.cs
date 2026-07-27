@@ -65,7 +65,8 @@ public static class CrossLinkRouteValidator
             {
                 Label = link.Label,
                 Value = link.Value,
-                Route = route
+                Route = route,
+                Image = CrossLinkImageResolver.Resolve(route) ?? link.Image
             });
         }
 

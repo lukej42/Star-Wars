@@ -1,0 +1,38 @@
+{
+  "overview": "A humid jungle hunter world homeworld of the Rodian species and Grand Hunt traditions.",
+  "history": "Rodia appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Rodia shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Rodia remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Outer Rim Territories",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Rodia"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Rodia increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Rodia"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Rodia status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/rodia-hero.webp",
+      "caption": "Cinematic view of Rodia"
+    }
+  ]
+}

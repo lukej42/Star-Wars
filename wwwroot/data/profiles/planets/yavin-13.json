@@ -1,0 +1,38 @@
+{
+  "overview": "A remote moon in the Yavin system tied to Sithspawn experiments and exile colonies.",
+  "history": "Yavin 13 appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Yavin 13 shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Yavin 13 remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Outer Rim Territories",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Yavin 13"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Yavin 13 increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Yavin 13"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Yavin 13 status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/yavin-13-hero.webp",
+      "caption": "Cinematic view of Yavin 13"
+    }
+  ]
+}

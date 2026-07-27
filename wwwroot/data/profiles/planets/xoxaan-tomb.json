@@ -1,0 +1,38 @@
+{
+  "overview": "A forgotten Sith mausoleum world tied to one of the first Sith Lords after the Hundred-Year Darkness.",
+  "history": "XoXaan's Tomb World appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on XoXaan's Tomb World shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "XoXaan's Tomb World remains a reference point in Sith Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Sith Space",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Sith Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on XoXaan's Tomb World"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in XoXaan's Tomb World increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records XoXaan's Tomb World"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update XoXaan's Tomb World status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/xoxaan-tomb-hero.webp",
+      "caption": "Cinematic view of XoXaan's Tomb World"
+    }
+  ]
+}

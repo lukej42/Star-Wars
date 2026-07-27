@@ -460,5 +460,1566 @@
     "name": "Ziost",
     "prompt": "Frozen Sith world with ice-covered city ruins and pale aurora over glaciers. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
     "output": "wwwroot/images/planets/ziost-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "abednedo",
+    "name": "Abednedo",
+    "prompt": "Abednedo is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/abednedo-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "aldhani",
+    "name": "Aldhani",
+    "prompt": "Alpine rebel heist ridges with Imperial payroll convoy in misty valley. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/aldhani-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "aleena",
+    "name": "Aleena",
+    "prompt": "Aleena is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/aleena-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "alpheridies",
+    "name": "Alpheridies",
+    "prompt": "Alpheridies is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/alpheridies-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "althir",
+    "name": "Althir",
+    "prompt": "An Outer Rim world contested during the Mandalorian Wars between Neo-Crusaders and Republic.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/althir-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ando",
+    "name": "Ando",
+    "prompt": "Ando is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ando-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "anzat",
+    "name": "Anzat",
+    "prompt": "Anzat is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/anzat-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "atzerri",
+    "name": "Atzerri",
+    "prompt": "A trade world of sprawling markets and black-market technology stalls.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/atzerri-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "bakura",
+    "name": "Bakura",
+    "prompt": "An Outer Rim world invaded by the Ssi-ruuk during the Imperial era.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/bakura-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "balmorra",
+    "name": "Balmorra",
+    "prompt": "Industrial factory world with war forges, smoke stacks and siege trenches. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/balmorra-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "balosar",
+    "name": "Balosar",
+    "prompt": "Balosar is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/balosar-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "barab-i",
+    "name": "Barab I",
+    "prompt": "Barab I is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/barab-i-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "bastion",
+    "name": "Bastion",
+    "prompt": "Bastion is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/bastion-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "batuu",
+    "name": "Batuu",
+    "prompt": "Black Spire Outpost market with petrified trees and distant Wild Space horizon. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/batuu-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "bestoon",
+    "name": "Bestoon",
+    "prompt": "Bestoon is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/bestoon-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "bilbringi",
+    "name": "Bilbringi",
+    "prompt": "Shipyard orbital platforms with Bothan defense fleet in background. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/bilbringi-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "bothawui",
+    "name": "Bothawui",
+    "prompt": "Rocky intelligence hub with spy satellite dishes and Bothan city terraces. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/bothawui-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "byss",
+    "name": "Byss",
+    "prompt": "Byss is a deep core world documented across the nine saga films, live-action and animated series, Knights of the Old\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/byss-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "cadomai",
+    "name": "Cadomai",
+    "prompt": "Cadomai is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/cadomai-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "cadomai-prime",
+    "name": "Cadomai Prime",
+    "prompt": "Cadomai Prime is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/cadomai-prime-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "castell",
+    "name": "Castell",
+    "prompt": "A urban colony world of the Colicoid species and droid manufacturing.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/castell-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "cathar",
+    "name": "Cathar",
+    "prompt": "Savanna world with Mandalorian bombardment scars and Cathar settlement mesas. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/cathar-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "cerea",
+    "name": "Cerea",
+    "prompt": "Cerea is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/cerea-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "chaasadai",
+    "name": "Chaasadai",
+    "prompt": "Chaasadai is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/chaasadai-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "chalacta",
+    "name": "Chalacta",
+    "prompt": "Chalacta is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/chalacta-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "champala",
+    "name": "Champala",
+    "prompt": "Champala is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/champala-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "chandrila",
+    "name": "Chandrila",
+    "prompt": "Green Core world rolling hills with coastal Senate districts and peaceful silver-roofed cities. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/chandrila-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "chorin",
+    "name": "Chorin",
+    "prompt": "Chorin is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/chorin-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "clakdor-vii",
+    "name": "Clak'dor VII",
+    "prompt": "Clak'dor VII is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/clakdor-vii-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "colla-iv",
+    "name": "Colla IV",
+    "prompt": "Colla IV is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/colla-iv-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "cona",
+    "name": "Cona",
+    "prompt": "Cona is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/cona-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "concord-dawn",
+    "name": "Concord Dawn",
+    "prompt": "Mandalorian colony mesas with Protector outposts and orange dawn sky. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/concord-dawn-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "corbos",
+    "name": "Corbos",
+    "prompt": "A mining colony world where lost Jedi children were discovered in ancient ruins.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/corbos-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "corellia",
+    "name": "Corellia",
+    "prompt": "Urban shipyard skyline with orbital drydocks and Corellian freighters launching at sunset. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/corellia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "csilla",
+    "name": "Csilla",
+    "prompt": "Frozen Chiss hive cities in blue ice caverns with aurora sky. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/csilla-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "devaron",
+    "name": "Devaron",
+    "prompt": "Devaron is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/devaron-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "dorin",
+    "name": "Dorin",
+    "prompt": "Dorin is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/dorin-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "duro",
+    "name": "Duro",
+    "prompt": "Duro is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/duro-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "dxun",
+    "name": "Dxun",
+    "prompt": "Jungle moon with mandalorian camp fires and beast-rider cliffs at twilight. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/dxun-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "eadu",
+    "name": "Eadu",
+    "prompt": "Storm-lashed kyber research citadel on black cliff with lightning storms. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/eadu-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "elom",
+    "name": "Elom",
+    "prompt": "Elom is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/elom-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "eshan",
+    "name": "Eshan",
+    "prompt": "Eshan is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/eshan-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "falleen",
+    "name": "Falleen",
+    "prompt": "Falleen is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/falleen-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "fondor",
+    "name": "Fondor",
+    "prompt": "Massive orbital supercarrier docks above industrial cloud layers. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/fondor-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "gamorr",
+    "name": "Gamorr",
+    "prompt": "Gamorr is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/gamorr-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "gand",
+    "name": "Gand",
+    "prompt": "Gand is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/gand-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "garel",
+    "name": "Garel",
+    "prompt": "Rocky moon city with Rebel supply docks and multi-moon night sky. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/garel-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "gentes",
+    "name": "Gentes",
+    "prompt": "Gentes is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/gentes-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "glee-anselm",
+    "name": "Glee Anselm",
+    "prompt": "Glee Anselm is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/glee-anselm-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "honoghr",
+    "name": "Honoghr",
+    "prompt": "A devastated homeworld of the Noghri, poisoned by Imperial chemical warfare.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/honoghr-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "hosnian-prime",
+    "name": "Hosnian Prime",
+    "prompt": "Core world cityscape with Senate dome towers under blue skies before superweapon destruction. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/hosnian-prime-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "iktotch",
+    "name": "Iktotch",
+    "prompt": "Iktotch is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/iktotch-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "iridonia",
+    "name": "Iridonia",
+    "prompt": "Iridonia is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/iridonia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ithor",
+    "name": "Ithor",
+    "prompt": "Ithor is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ithor-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kafrene",
+    "name": "Kafrene",
+    "prompt": "A mining colony in the Ring of Kafrene where Bodhi Rook met Galen Erso's messenger.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kafrene-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kalee",
+    "name": "Kalee",
+    "prompt": "Kalee is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kalee-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kalevala",
+    "name": "Kalevala",
+    "prompt": "Ocean moon with Kryze royal estates and Mandalorian shipyard domes. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kalevala-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kamino-clone-origin",
+    "name": "Kamino (clone origin)",
+    "prompt": "Kamino (clone origin) is a outer rim territories world documented across the nine saga films, live-action and animated\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kamino-clone-origin-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kaon",
+    "name": "Kaon",
+    "prompt": "Sith weapons factory world with red-lit assembly lines and orbital bombardment scars. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kaon-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kemplex-nine",
+    "name": "Kemplex IX",
+    "prompt": "A Deep Core astronomical anomaly destroyed when ancient Sith superweapons detonated during the Great Sith War.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kemplex-nine-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kessel",
+    "name": "Kessel",
+    "prompt": "Spice mine trenches and glimmering maelstrom sky over harsh desert canyons. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kessel-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kiffex",
+    "name": "Kiffex",
+    "prompt": "Kiffex is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kiffex-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kintan",
+    "name": "Kintan",
+    "prompt": "Kintan is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kintan-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kinyen",
+    "name": "Kinyen",
+    "prompt": "Kinyen is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kinyen-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "klatooine",
+    "name": "Klatooine",
+    "prompt": "Klatooine is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/klatooine-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "krownest",
+    "name": "Krownest",
+    "prompt": "A snowy Mandalorian world of Clan Wren fortresses and beskar mines.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/krownest-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kuat",
+    "name": "Kuat",
+    "prompt": "Orbital shipyard rings around blue-green world with Star Destroyer construction. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kuat-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kubindi",
+    "name": "Kubindi",
+    "prompt": "Kubindi is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kubindi-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lahmu",
+    "name": "Lah'mu",
+    "prompt": "Remote ocean-edged farm ridges with Erso family homestead at sunset. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lahmu-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lannik",
+    "name": "Lannik",
+    "prompt": "Lannik is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lannik-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lehon",
+    "name": "Lehon",
+    "prompt": "Rakata temple ruins over tropical ocean with ancient star maps carved in stone. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lehon-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lhuguenok",
+    "name": "L'huguen'ok",
+    "prompt": "L'huguen'ok is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lhuguenok-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lianna",
+    "name": "Lianna",
+    "prompt": "Lianna is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lianna-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lira-san",
+    "name": "Lira San",
+    "prompt": "Lira San is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lira-san-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lorrd",
+    "name": "Lorrd",
+    "prompt": "Lorrd is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lorrd-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lowick",
+    "name": "Lowick",
+    "prompt": "Lowick is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lowick-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "makeb",
+    "name": "Makeb",
+    "prompt": "Resort mesas on colossal repulsorlift pylons above golden cloud sea. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/makeb-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "malastare",
+    "name": "Malastare",
+    "prompt": "Podracing plains with fuel refineries and Dug excavation sites. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/malastare-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "maridun",
+    "name": "Maridun",
+    "prompt": "A grassland world where Lurmen colonies faced Separatist superweapon tests.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/maridun-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "mimban",
+    "name": "Mimban",
+    "prompt": "Muddy misty swamp battlefield with Imperial trenches and native ruins. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/mimban-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "mirial",
+    "name": "Mirial",
+    "prompt": "Mirial is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/mirial-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "moraband",
+    "name": "Moraband",
+    "prompt": "Sith homeworld barren red wastes with monolith tombs and lightning-charged sky. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/moraband-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "muunilinst",
+    "name": "Muunilinst",
+    "prompt": "Muun banking spires and vault towers above urban canyon streets. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/muunilinst-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "mygeeto-colony",
+    "name": "Mygeeto colony",
+    "prompt": "Mygeeto colony is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/mygeeto-colony-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "nal-hutta",
+    "name": "Nal Hutta",
+    "prompt": "Swamp homeworld with polluted green fog, Hutt palace spires and orbiting smuggler moon. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/nal-hutta-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "narkina-5",
+    "name": "Narkina 5",
+    "prompt": "An Imperial factory moon of assembly lines where Cassian Andor was imprisoned.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/narkina-5-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "neimoidia",
+    "name": "Neimoidia",
+    "prompt": "Fog bridge cities of Trade Federation with golden spires above green mist. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/neimoidia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "oba-diah",
+    "name": "Oba Diah",
+    "prompt": "Volcanic Pyke spice mines with lava rivers and syndicate landing pads. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/oba-diah-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "odessen",
+    "name": "Odessen",
+    "prompt": "Sanctuary valley with Alliance base domes and distant mountain ring. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/odessen-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ojom",
+    "name": "Ojom",
+    "prompt": "Ojom is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ojom-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "olega",
+    "name": "Olega",
+    "prompt": "Olega is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/olega-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ord-mantell",
+    "name": "Ord Mantell",
+    "prompt": "Scrapyard port with orbital salvage rings and bounty hunter cantina district. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ord-mantell-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "orto",
+    "name": "Orto",
+    "prompt": "Orto is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/orto-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "orto-plutonia",
+    "name": "Orto Plutonia",
+    "prompt": "Orto Plutonia is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/orto-plutonia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ossus",
+    "name": "Ossus",
+    "prompt": "Jedi library world with ancient trees and ruined temple archives in golden light. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ossus-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "pantora",
+    "name": "Pantora",
+    "prompt": "Pantora is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/pantora-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "parwan",
+    "name": "Parwan",
+    "prompt": "Parwan is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/parwan-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "patrolia",
+    "name": "Patrolia",
+    "prompt": "Patrolia is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/patrolia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "peragus",
+    "name": "Peragus",
+    "prompt": "Asteroid mining station with fuel refinery tunnels and ion cannon turrets. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/peragus-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "phatrong",
+    "name": "Phatrong",
+    "prompt": "Phatrong is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/phatrong-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "phindar",
+    "name": "Phindar",
+    "prompt": "Phindar is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/phindar-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "plazir-17",
+    "name": "Plazir-17",
+    "prompt": "Domed pleasure world with neon resort strips and luxury speeder lanes. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/plazir-17-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "primus-goluud",
+    "name": "Primus Goluud",
+    "prompt": "A red supergiant system used as a Sith staging point during the Great Hyperspace War.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/primus-goluud-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "qika",
+    "name": "Qika",
+    "prompt": "A contested world in the New Sith Wars where Brotherhood forces clashed with Republic armies.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/qika-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "quarzite",
+    "name": "Quarzite",
+    "prompt": "Quarzite is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/quarzite-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "quermia",
+    "name": "Quermia",
+    "prompt": "Quermia is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/quermia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "rattatak",
+    "name": "Rattatak",
+    "prompt": "Rattatak is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/rattatak-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "rhen-var",
+    "name": "Rhen Var",
+    "prompt": "An ice moon with Jedi sanctuaries and ancient Force monuments.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/rhen-var-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "roche",
+    "name": "Roche",
+    "prompt": "Roche is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/roche-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "rodia",
+    "name": "Rodia",
+    "prompt": "Humid jungle swamps with hunter clan village platforms and green canopy. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/rodia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ruusan",
+    "name": "Ruusan",
+    "prompt": "Barren valley battlefields with thought-bomb crater and scattered Jedi ruins. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ruusan-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "saleucami",
+    "name": "Saleucami",
+    "prompt": "Mosaic grassland with clone medic camp and lavender twilight sky. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/saleucami-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "scarif",
+    "name": "Scarif",
+    "prompt": "Tropical palm coastline with Imperial Citadel tower and turquoise shielded bay. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/scarif-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "selonia",
+    "name": "Selonia",
+    "prompt": "Selonia is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/selonia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sembla",
+    "name": "Sembla",
+    "prompt": "Sembla is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sembla-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "shili",
+    "name": "Shili",
+    "prompt": "Shili is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/shili-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "shukut",
+    "name": "Shukut",
+    "prompt": "Shukut is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/shukut-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "siniteen",
+    "name": "Siniteen",
+    "prompt": "Siniteen is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/siniteen-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "skako",
+    "name": "Skako",
+    "prompt": "Skako is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/skako-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "skustell",
+    "name": "Skustell",
+    "prompt": "Skustell is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/skustell-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sorgan",
+    "name": "Sorgan",
+    "prompt": "A remote forest world where Mandalorian warriors protected a vulnerable village.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sorgan-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sriluur",
+    "name": "Sriluur",
+    "prompt": "Sriluur is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sriluur-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "starkiller-base",
+    "name": "Starkiller Base",
+    "prompt": "Frozen Ilum converted to superweapon trench with dark side energy collectors. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/starkiller-base-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "stygeon-prime",
+    "name": "Stygeon Prime",
+    "prompt": "A mountainous world housing the Spire, a Separatist prison for Jedi captives.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/stygeon-prime-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sullust",
+    "name": "Sullust",
+    "prompt": "Volcanic industrial world with lava vents and factory complexes glowing at night. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sullust-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "thisspias",
+    "name": "Thisspias",
+    "prompt": "Thisspias is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/thisspias-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "tholoth",
+    "name": "Tholoth",
+    "prompt": "Tholoth is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/tholoth-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "tibrin",
+    "name": "Tibrin",
+    "prompt": "Tibrin is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/tibrin-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "toola",
+    "name": "Toola",
+    "prompt": "Toola is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/toola-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "toydaria",
+    "name": "Toydaria",
+    "prompt": "Toydaria is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/toydaria-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "trandosha",
+    "name": "Trandosha",
+    "prompt": "Trandosha is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/trandosha-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "troiken",
+    "name": "Troiken",
+    "prompt": "An ice world where the Stark Commercial Combine made its last stand against Republic forces.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/troiken-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "uba-iv",
+    "name": "Uba IV",
+    "prompt": "Uba IV is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/uba-iv-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "uvena-prime",
+    "name": "Uvena Prime",
+    "prompt": "Uvena Prime is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/uvena-prime-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "vinsoth",
+    "name": "Vinsoth",
+    "prompt": "Vinsoth is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/vinsoth-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "wayland",
+    "name": "Wayland",
+    "prompt": "Wild jungle with Mount Tantiss storehouse spire emerging from canopy. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/wayland-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "wobani",
+    "name": "Wobani",
+    "prompt": "Imperial prison labor camps in dusty canyons under guard towers. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/wobani-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "wroona",
+    "name": "Wroona",
+    "prompt": "Wroona is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/wroona-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "yablari",
+    "name": "Yablari",
+    "prompt": "Yablari is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/yablari-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "yagdhul",
+    "name": "Yag'Dhul",
+    "prompt": "Yag'Dhul is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/yagdhul-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "yar-togna",
+    "name": "Yar Togna",
+    "prompt": "Yar Togna is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/yar-togna-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "zeltros",
+    "name": "Zeltros",
+    "prompt": "Zeltros is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/zeltros-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "zolan",
+    "name": "Zolan",
+    "prompt": "Zolan is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/zolan-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "zygerria",
+    "name": "Zygerria",
+    "prompt": "Zygerria is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/zygerria-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ambria",
+    "name": "Ambria",
+    "prompt": "A desolate wasteland poisoned by Sith alchemy, later home to Master Thon's Jedi enclave.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ambria-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "thule",
+    "name": "Thule",
+    "prompt": "A secret Sith stronghold world used by the Brotherhood of Darkness and later Imperial cultists.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/thule-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "krayiss-ii",
+    "name": "Krayiss II",
+    "prompt": "A dark side nexus world of Sith temples haunted by trapped spirits and ancient holocrons.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/krayiss-ii-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "khar-delba",
+    "name": "Khar Delba",
+    "prompt": "An icy Sith world and fortress moon of Naga Sadow's empire during the Great Hyperspace War.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/khar-delba-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "khar-shian",
+    "name": "Khar Shian",
+    "prompt": "The rocky moon fortress companion to Khar Delba, anchoring Sadow's ancient invasion fleets.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/khar-shian-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "rhelg",
+    "name": "Rhelg",
+    "prompt": "One of the five sacred Sith worlds of the Sith Empire, ruled by the Sith Lord Kalimash Persada.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/rhelg-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ch-hodos",
+    "name": "Ch'hodos",
+    "prompt": "A volcanic Sith world among the five sacred domains of the Old Sith Empire.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ch-hodos-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "jaguada",
+    "name": "Jaguada",
+    "prompt": "A red desert Sith world with temple complexes tied to the Great Hyperspace War era.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/jaguada-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "tund",
+    "name": "Tund",
+    "prompt": "A gas-shrouded world of pureblood Sith sorcerers and strange Force traditions.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/tund-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "vjun",
+    "name": "Vjun",
+    "prompt": "A acid-rain world where Count Dooku built Bast Castle amid ruins of Force-worshipping nobility.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/vjun-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "atthiss",
+    "name": "Athiss",
+    "prompt": "A jungle tomb world of the ancient Sith species, overrun by corrupted beasts and dark side relics.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/atthiss-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "voss",
+    "name": "Voss",
+    "prompt": "A mist-shrouded world of prophetic Voss Mystics contested by Jedi, Sith, and the Eternal Empire.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/voss-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "belsavis",
+    "name": "Belsavis",
+    "prompt": "An ice world hiding a vast Republic prison vault containing ancient Sith superweapons and warlords.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/belsavis-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "quesh",
+    "name": "Quesh",
+    "prompt": "A toxic jungle world rich in 'adrenal' chemicals, fought over by Republic and Empire in the Old Republic era.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/quesh-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "empress-teta",
+    "name": "Empress Teta",
+    "prompt": "A Deep Core industrial world and capital of the Tetan monarchy, central to the Great Sith War.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/empress-teta-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "prakith",
+    "name": "Prakith",
+    "prompt": "A fortress world of the Imperial Inquisitorius and ancient Sith catacombs beneath its citadels.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/prakith-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "koros-major",
+    "name": "Koros Major",
+    "prompt": "The carbonite-rich founding world of the Empress Teta system and early Unification Wars.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/koros-major-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kesh",
+    "name": "Kesh",
+    "prompt": "An isolated continent world where the Lost Tribe of Sith survived for millennia after a crash landing.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kesh-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "almas",
+    "name": "Almas",
+    "prompt": "A desert world in the Cularin system housing a Jedi academy built over an ancient Sith fortress.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/almas-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "cularin",
+    "name": "Cularin",
+    "prompt": "A binary-star system world of dense jungles and Force anomalies tied to Sith experimentation.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/cularin-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "foerost",
+    "name": "Foerost",
+    "prompt": "An ancient shipyard world seized by the Sith during the Great Sith War for dreadnought construction.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/foerost-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "koros",
+    "name": "Koros",
+    "prompt": "A Deep Core system anchor world linked to Empress Teta's unification campaigns and Sith incursions.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/koros-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "myrkr",
+    "name": "Myrkr",
+    "prompt": "A forest world of ysalamir Force-null zones, used as a base by smugglers and later Imperial factions.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/myrkr-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "nirauan",
+    "name": "Nirauan",
+    "prompt": "A remote jungle world with a Chiss hand of Thrawn's hidden fortress and ysalamir groves.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/nirauan-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "hypori",
+    "name": "Hypori",
+    "prompt": "A factory moon of droid foundries where General Grievous was first revealed to the Jedi.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/hypori-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sleheyron",
+    "name": "Sleheyron",
+    "prompt": "A Hutt-linked trade world referenced in KOTOR as a rival hub to Nar Shaddaa's shadow economy.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sleheyron-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "rekkiad",
+    "name": "Rekkiad",
+    "prompt": "An ice world where Sith Emperor Vitiate's mask was hidden among tribal Mandalorian graves.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/rekkiad-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "yavin-8",
+    "name": "Yavin 8",
+    "prompt": "An ocean moon of Yavin Prime with Massassi ruins and Jedi Exile training sites.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/yavin-8-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "yavin-13",
+    "name": "Yavin 13",
+    "prompt": "A remote moon in the Yavin system tied to Sithspawn experiments and exile colonies.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/yavin-13-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "had-abbadon",
+    "name": "Had Abbadon",
+    "prompt": "A legendary Deep Core throne world concept tied to dark side imperial ambitions in early drafts.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/had-abbadon-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "khomm",
+    "name": "Khomm",
+    "prompt": "A Deep Core cloning world of uniform Arkanian Offshoot communities and genetic laboratories.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/khomm-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "columus",
+    "name": "Columus",
+    "prompt": "A low-gravity Core world of floating cities and Columi observers during galactic conflicts.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/columus-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "centares",
+    "name": "Centares",
+    "prompt": "A Mid Rim battleground world where art and war collided under Imperial occupation.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/centares-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kuar",
+    "name": "Kuar",
+    "prompt": "A Sith world used for dark side training and Brotherhood of Darkness trials.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kuar-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sanbra",
+    "name": "Sanbra",
+    "prompt": "A scholarly world and holonet hub near the Outer Rim trade lanes.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sanbra-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ubrikkia",
+    "name": "Ubrikkia",
+    "prompt": "A Mid Rim industrial world known for Ubrikkian Industries repulsorcraft and shipyards.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ubrikkia-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "volik",
+    "name": "Volik",
+    "prompt": "A Unknown Regions world linked to Sith Empire exile routes and hidden fleet movements.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/volik-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "arbra",
+    "name": "Arbra",
+    "prompt": "A jungle world with extensive cave networks used as a Rebel base in Legends continuity.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/arbra-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "daluuj",
+    "name": "Daluuj",
+    "prompt": "An ocean world of island chains and wrecked starships from ancient Sith skirmishes.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/daluuj-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "iego",
+    "name": "Iego",
+    "prompt": "The World of a Thousand Moons, a remote world trapped by a Separatist laser web during the Clone Wars.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/iego-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "susevfi",
+    "name": "Susevfi",
+    "prompt": "A volcanic retreat world of SoroSuub executives and later Jedi refuge sites.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/susevfi-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "tund-minor",
+    "name": "Tund Minor",
+    "prompt": "A companion world to Tund associated with Sith sorcerer enclaves and dark side sects.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/tund-minor-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ziost-ii",
+    "name": "Ziost II",
+    "prompt": "A chart label for secondary Ziost orbit facilities during Old Sith Empire logistics records.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ziost-ii-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "stygium-caldera",
+    "name": "Stygium Caldera",
+    "prompt": "An asteroid caldera rich in stygium crystals used for cloaking devices and Sith artifacts.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/stygium-caldera-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "nicht-ka",
+    "name": "Nicht Ka",
+    "prompt": "A barren Sith world with tomb cities from the era before the Great Hyperspace War.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/nicht-ka-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "xoxaan-tomb",
+    "name": "XoXaan's Tomb World",
+    "prompt": "A forgotten Sith mausoleum world tied to one of the first Sith Lords after the Hundred-Year Darkness.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/xoxaan-tomb-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "bogo-rai",
+    "name": "Bogo Rai",
+    "prompt": "A Unknown Regions world referenced in Sith Empire exile charts and Chiss border surveys.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/bogo-rai-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sorzus-ne",
+    "name": "Sorzus Ne",
+    "prompt": "A Sith world associated with Sorzus Syn's alchemical texts and early Sith pureblood colonies.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sorzus-ne-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "korriban-moon",
+    "name": "Korriban's Moon",
+    "prompt": "An ash-dark moon orbiting Korriban with orbital tombs and Sith academy staging platforms.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/korriban-moon-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "yavin-prime",
+    "name": "Yavin Prime",
+    "prompt": "The gas giant anchoring the Yavin system, orbited by Yavin 4 and other Massassi-touched moons.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/yavin-prime-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "tatoo-i",
+    "name": "Tatoo I",
+    "prompt": "The primary star of the Tatoo system, whose intense heat shaped Tatooine's desert ecology.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/tatoo-i-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "tatoo-ii",
+    "name": "Tatoo II",
+    "prompt": "The twin sun of Tatooine's binary system, defining the iconic double-sunset horizon.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/tatoo-ii-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "subterrel",
+    "name": "Subterrel",
+    "prompt": "A mining world of underground cities and podracing circuits on hostile surface terrain.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/subterrel-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "praesitlyn",
+    "name": "Praesitlyn",
+    "prompt": "A communications hub world fought over during Clone Wars campaigns for its HoloNet relay nodes.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/praesitlyn-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "druckenwell",
+    "name": "Druckenwell",
+    "prompt": "A Mid Rim factory world supplying components to galactic shipwrights across multiple eras.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/druckenwell-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "hapes",
+    "name": "Hapes",
+    "prompt": "The crown world of the Hapes Consortium, isolated by transitory mists and royal matriarchy.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/hapes-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "dathomir-sister-moon",
+    "name": "Dathomir Sister Moon",
+    "prompt": "A companion moon in the Dathomir system tied to Nightsister orbital rituals.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/dathomir-sister-moon-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "gorog",
+    "name": "Gorog",
+    "prompt": "A dark side world of the Gorog assassin cult within the Killik hive mind expansions.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/gorog-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "yoggoy",
+    "name": "Yoggoy",
+    "prompt": "A Killik nest world on the fringes of the Unknown Regions hive collective.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/yoggoy-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ghomrassen",
+    "name": "Tatooine's Sister",
+    "prompt": "Ghomrassen, a rocky Tatooine region moon and mining settlement in Legends surveys.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ghomrassen-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "adumar",
+    "name": "Adumar",
+    "prompt": "A Wild Space world obsessed with starfighter dueling culture, courted by New Republic and Empire.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/adumar-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "borleias",
+    "name": "Borleias",
+    "prompt": "A Colonies world with a vital planetary shield generator, contested in the New Republic era.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/borleias-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ebaq-9",
+    "name": "Ebaq 9",
+    "prompt": "An asteroid fortress in the Deep Core used by the New Republic against Yuuzhan Vong incursions.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ebaq-9-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "mortis",
+    "name": "Mortis",
+    "prompt": "A ethereal Force nexus realm manifesting as a planetoid with the Father, Son, and Daughter.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/mortis-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "abafar",
+    "name": "Abafar",
+    "prompt": "A desert world with a sunken municipal landfill and Clone Wars fuel depot.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/abafar-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "raxus-secundus",
+    "name": "Raxus Secundus",
+    "prompt": "The official capital world of the Confederacy of Independent Systems during the Clone Wars.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/raxus-secundus-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "leesis",
+    "name": "Christophsis Moon",
+    "prompt": "Leesis, a moon in the Christoph system used for forward clone staging areas.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/leesis-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "anaxes",
+    "name": "Anaxes",
+    "prompt": "A Core fortress world of the Republic Navy, reduced to an asteroid field during the Clone Wars.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/anaxes-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ringo-vinda",
+    "name": "Ringo Vinda",
+    "prompt": "A Mid Rim orbital station world blockaded during the Clone Wars biochip crisis.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ringo-vinda-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "scipio",
+    "name": "Scipio",
+    "prompt": "The headquarters world of the InterGalactic Banking Clan on a crystalline alpine plateau.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/scipio-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "lwhekk",
+    "name": "Lwhekk",
+    "prompt": "The Ssi-ruuvi homeworld of humid jungles and entechment weapon factories.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/lwhekk-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "bakura-prime",
+    "name": "Bakura-Prime",
+    "prompt": "The primary inhabited world of the Bakura system invaded during the Ssi-ruuvi incursion.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/bakura-prime-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "dantooine-moon",
+    "name": "Dantooine Moon",
+    "prompt": "A sparsely settled moon used for Rebel listening posts near Dantooine.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/dantooine-moon-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "taris-undercity",
+    "name": "Taris Undercity",
+    "prompt": "The rakghoul-infested foundation levels of Taris before and after planetary bombardment.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/taris-undercity-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "ahahta",
+    "name": "Manaan Kolto City",
+    "prompt": "Ahto City on Manaan, the floating kolto harvesting capital of the Selkath.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/ahahta-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "sernpidal",
+    "name": "Sernpidal",
+    "prompt": "An Outer Rim world destroyed when its moon was pulled into the planet by Yuuzhan Vong dovin basals.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/sernpidal-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "hapes-cluster",
+    "name": "Hapes Cluster",
+    "prompt": "The navigational heart of the Hapes Consortium's ninety-three-world isolationist realm.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/hapes-cluster-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "kamino-prime",
+    "name": "Kamino Prime",
+    "prompt": "The storm planet Kamino, homeworld of clone template production for the Grand Army.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/kamino-prime-hero.webp"
+  },
+  {
+    "category": "planets",
+    "slug": "rishi-moon",
+    "name": "Rishi Moon",
+    "prompt": "The tropical Rishi moon housing a Republic listening post above the Rishi Maze approach.. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/rishi-moon-hero.webp"
   }
 ]

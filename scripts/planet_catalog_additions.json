@@ -1,0 +1,792 @@
+[
+  {
+    "name": "Ambria",
+    "slug": "ambria",
+    "route": "planet/ambria",
+    "region": "Outer Rim Territories",
+    "description": "A desolate wasteland poisoned by Sith alchemy, later home to Master Thon's Jedi enclave.",
+    "x": "2567",
+    "y": "2349",
+    "color": "#6a5040"
+  },
+  {
+    "name": "Thule",
+    "slug": "thule",
+    "route": "planet/thule",
+    "region": "Sith Space",
+    "description": "A secret Sith stronghold world used by the Brotherhood of Darkness and later Imperial cultists.",
+    "x": "6571",
+    "y": "3019",
+    "color": "#4a3030"
+  },
+  {
+    "name": "Krayiss II",
+    "slug": "krayiss-ii",
+    "route": "planet/krayiss-ii",
+    "region": "Sith Space",
+    "description": "A dark side nexus world of Sith temples haunted by trapped spirits and ancient holocrons.",
+    "x": "6464",
+    "y": "3618",
+    "color": "#5a3545"
+  },
+  {
+    "name": "Khar Delba",
+    "slug": "khar-delba",
+    "route": "planet/khar-delba",
+    "region": "Sith Space",
+    "description": "An icy Sith world and fortress moon of Naga Sadow's empire during the Great Hyperspace War.",
+    "x": "6867",
+    "y": "3815",
+    "color": "#7a9ab0"
+  },
+  {
+    "name": "Khar Shian",
+    "slug": "khar-shian",
+    "route": "planet/khar-shian",
+    "region": "Sith Space",
+    "description": "The rocky moon fortress companion to Khar Delba, anchoring Sadow's ancient invasion fleets.",
+    "x": "7069",
+    "y": "3688",
+    "color": "#6a8090"
+  },
+  {
+    "name": "Rhelg",
+    "slug": "rhelg",
+    "route": "planet/rhelg",
+    "region": "Sith Space",
+    "description": "One of the five sacred Sith worlds of the Sith Empire, ruled by the Sith Lord Kalimash Persada.",
+    "x": "6434",
+    "y": "3682",
+    "color": "#8a4040"
+  },
+  {
+    "name": "Ch'hodos",
+    "slug": "ch-hodos",
+    "route": "planet/ch-hodos",
+    "region": "Sith Space",
+    "description": "A volcanic Sith world among the five sacred domains of the Old Sith Empire.",
+    "x": "6456",
+    "y": "3054",
+    "color": "#9a4530"
+  },
+  {
+    "name": "Jaguada",
+    "slug": "jaguada",
+    "route": "planet/jaguada",
+    "region": "Sith Space",
+    "description": "A red desert Sith world with temple complexes tied to the Great Hyperspace War era.",
+    "x": "6850",
+    "y": "3601",
+    "color": "#a05030"
+  },
+  {
+    "name": "Tund",
+    "slug": "tund",
+    "route": "planet/tund",
+    "region": "Outer Rim Territories",
+    "description": "A gas-shrouded world of pureblood Sith sorcerers and strange Force traditions.",
+    "x": "3132",
+    "y": "4075",
+    "color": "#7a6a50"
+  },
+  {
+    "name": "Vjun",
+    "slug": "vjun",
+    "route": "planet/vjun",
+    "region": "Outer Rim Territories",
+    "description": "A acid-rain world where Count Dooku built Bast Castle amid ruins of Force-worshipping nobility.",
+    "x": "2473",
+    "y": "3112",
+    "color": "#6a7a40"
+  },
+  {
+    "name": "Athiss",
+    "slug": "atthiss",
+    "route": "planet/atthiss",
+    "region": "Outer Rim Territories",
+    "description": "A jungle tomb world of the ancient Sith species, overrun by corrupted beasts and dark side relics.",
+    "x": "2715",
+    "y": "4099",
+    "color": "#3a6a3a"
+  },
+  {
+    "name": "Voss",
+    "slug": "voss",
+    "route": "planet/voss",
+    "region": "Unknown Regions",
+    "description": "A mist-shrouded world of prophetic Voss Mystics contested by Jedi, Sith, and the Eternal Empire.",
+    "x": "988",
+    "y": "1365",
+    "color": "#5a8a7a"
+  },
+  {
+    "name": "Belsavis",
+    "slug": "belsavis",
+    "route": "planet/belsavis",
+    "region": "Outer Rim Territories",
+    "description": "An ice world hiding a vast Republic prison vault containing ancient Sith superweapons and warlords.",
+    "x": "1204",
+    "y": "1887",
+    "color": "#8ab0d0"
+  },
+  {
+    "name": "Quesh",
+    "slug": "quesh",
+    "route": "planet/quesh",
+    "region": "Outer Rim Territories",
+    "description": "A toxic jungle world rich in 'adrenal' chemicals, fought over by Republic and Empire in the Old Republic era.",
+    "x": "1012",
+    "y": "2715",
+    "color": "#7a9a30"
+  },
+  {
+    "name": "Empress Teta",
+    "slug": "empress-teta",
+    "route": "planet/empress-teta",
+    "region": "Deep Core",
+    "description": "A Deep Core industrial world and capital of the Tetan monarchy, central to the Great Sith War.",
+    "x": "5118",
+    "y": "2768",
+    "color": "#6a5a8a"
+  },
+  {
+    "name": "Prakith",
+    "slug": "prakith",
+    "route": "planet/prakith",
+    "region": "Deep Core",
+    "description": "A fortress world of the Imperial Inquisitorius and ancient Sith catacombs beneath its citadels.",
+    "x": "5133",
+    "y": "2431",
+    "color": "#5a5a6a"
+  },
+  {
+    "name": "Koros Major",
+    "slug": "koros-major",
+    "route": "planet/koros-major",
+    "region": "Deep Core",
+    "description": "The carbonite-rich founding world of the Empress Teta system and early Unification Wars.",
+    "x": "5314",
+    "y": "2466",
+    "color": "#7a6a9a"
+  },
+  {
+    "name": "Kesh",
+    "slug": "kesh",
+    "route": "planet/kesh",
+    "region": "Wild Space",
+    "description": "An isolated continent world where the Lost Tribe of Sith survived for millennia after a crash landing.",
+    "x": "981",
+    "y": "1235",
+    "color": "#4a7a8a"
+  },
+  {
+    "name": "Almas",
+    "slug": "almas",
+    "route": "planet/almas",
+    "region": "Cularin System",
+    "description": "A desert world in the Cularin system housing a Jedi academy built over an ancient Sith fortress.",
+    "x": "2444",
+    "y": "3006",
+    "color": "#c4a060"
+  },
+  {
+    "name": "Cularin",
+    "slug": "cularin",
+    "route": "planet/cularin",
+    "region": "Cularin System",
+    "description": "A binary-star system world of dense jungles and Force anomalies tied to Sith experimentation.",
+    "x": "2576",
+    "y": "3514",
+    "color": "#3a7a4a"
+  },
+  {
+    "name": "Foerost",
+    "slug": "foerost",
+    "route": "planet/foerost",
+    "region": "Deep Core",
+    "description": "An ancient shipyard world seized by the Sith during the Great Sith War for dreadnought construction.",
+    "x": "5205",
+    "y": "2685",
+    "color": "#6a7080"
+  },
+  {
+    "name": "Koros",
+    "slug": "koros",
+    "route": "planet/koros",
+    "region": "Deep Core",
+    "description": "A Deep Core system anchor world linked to Empress Teta's unification campaigns and Sith incursions.",
+    "x": "5360",
+    "y": "2476",
+    "color": "#706090"
+  },
+  {
+    "name": "Myrkr",
+    "slug": "myrkr",
+    "route": "planet/myrkr",
+    "region": "Wild Space",
+    "description": "A forest world of ysalamir Force-null zones, used as a base by smugglers and later Imperial factions.",
+    "x": "1102",
+    "y": "2417",
+    "color": "#2a6a3a"
+  },
+  {
+    "name": "Nirauan",
+    "slug": "nirauan",
+    "route": "planet/nirauan",
+    "region": "Unknown Regions",
+    "description": "A remote jungle world with a Chiss hand of Thrawn's hidden fortress and ysalamir groves.",
+    "x": "816",
+    "y": "1376",
+    "color": "#3a6a5a"
+  },
+  {
+    "name": "Hypori",
+    "slug": "hypori",
+    "route": "planet/hypori",
+    "region": "Outer Rim Territories",
+    "description": "A factory moon of droid foundries where General Grievous was first revealed to the Jedi.",
+    "x": "3164",
+    "y": "3317",
+    "color": "#7a8070"
+  },
+  {
+    "name": "Sleheyron",
+    "slug": "sleheyron",
+    "route": "planet/sleheyron",
+    "region": "Outer Rim Territories",
+    "description": "A Hutt-linked trade world referenced in KOTOR as a rival hub to Nar Shaddaa's shadow economy.",
+    "x": "1422",
+    "y": "1589",
+    "color": "#8a6840"
+  },
+  {
+    "name": "Rekkiad",
+    "slug": "rekkiad",
+    "route": "planet/rekkiad",
+    "region": "Unknown Regions",
+    "description": "An ice world where Sith Emperor Vitiate's mask was hidden among tribal Mandalorian graves.",
+    "x": "885",
+    "y": "980",
+    "color": "#a0c0d0"
+  },
+  {
+    "name": "Yavin 8",
+    "slug": "yavin-8",
+    "route": "planet/yavin-8",
+    "region": "Outer Rim Territories",
+    "description": "An ocean moon of Yavin Prime with Massassi ruins and Jedi Exile training sites.",
+    "x": "2550",
+    "y": "2982",
+    "color": "#2a5a6a"
+  },
+  {
+    "name": "Yavin 13",
+    "slug": "yavin-13",
+    "route": "planet/yavin-13",
+    "region": "Outer Rim Territories",
+    "description": "A remote moon in the Yavin system tied to Sithspawn experiments and exile colonies.",
+    "x": "1171",
+    "y": "2831",
+    "color": "#3a5a5a"
+  },
+  {
+    "name": "Had Abbadon",
+    "slug": "had-abbadon",
+    "route": "planet/had-abbadon",
+    "region": "Deep Core",
+    "description": "A legendary Deep Core throne world concept tied to dark side imperial ambitions in early drafts.",
+    "x": "5298",
+    "y": "2769",
+    "color": "#5a4060"
+  },
+  {
+    "name": "Khomm",
+    "slug": "khomm",
+    "route": "planet/khomm",
+    "region": "Deep Core",
+    "description": "A Deep Core cloning world of uniform Arkanian Offshoot communities and genetic laboratories.",
+    "x": "5238",
+    "y": "2675",
+    "color": "#8a9aaa"
+  },
+  {
+    "name": "Columus",
+    "slug": "columus",
+    "route": "planet/columus",
+    "region": "Core Worlds",
+    "description": "A low-gravity Core world of floating cities and Columi observers during galactic conflicts.",
+    "x": "4632",
+    "y": "2201",
+    "color": "#7a9a8a"
+  },
+  {
+    "name": "Centares",
+    "slug": "centares",
+    "route": "planet/centares",
+    "region": "Mid Rim Territories",
+    "description": "A Mid Rim battleground world where art and war collided under Imperial occupation.",
+    "x": "3986",
+    "y": "2420",
+    "color": "#8a7060"
+  },
+  {
+    "name": "Kuar",
+    "slug": "kuar",
+    "route": "planet/kuar",
+    "region": "Sith Space",
+    "description": "A Sith world used for dark side training and Brotherhood of Darkness trials.",
+    "x": "6523",
+    "y": "3239",
+    "color": "#704040"
+  },
+  {
+    "name": "Sanbra",
+    "slug": "sanbra",
+    "route": "planet/sanbra",
+    "region": "Outer Rim Territories",
+    "description": "A scholarly world and holonet hub near the Outer Rim trade lanes.",
+    "x": "2737",
+    "y": "3276",
+    "color": "#6a8a9a"
+  },
+  {
+    "name": "Ubrikkia",
+    "slug": "ubrikkia",
+    "route": "planet/ubrikkia",
+    "region": "Mid Rim Territories",
+    "description": "A Mid Rim industrial world known for Ubrikkian Industries repulsorcraft and shipyards.",
+    "x": "2453",
+    "y": "3651",
+    "color": "#708090"
+  },
+  {
+    "name": "Volik",
+    "slug": "volik",
+    "route": "planet/volik",
+    "region": "Unknown Regions",
+    "description": "A Unknown Regions world linked to Sith Empire exile routes and hidden fleet movements.",
+    "x": "1321",
+    "y": "1296",
+    "color": "#506070"
+  },
+  {
+    "name": "Arbra",
+    "slug": "arbra",
+    "route": "planet/arbra",
+    "region": "Wild Space",
+    "description": "A jungle world with extensive cave networks used as a Rebel base in Legends continuity.",
+    "x": "1436",
+    "y": "2580",
+    "color": "#3a7a4a"
+  },
+  {
+    "name": "Daluuj",
+    "slug": "daluuj",
+    "route": "planet/daluuj",
+    "region": "Outer Rim Territories",
+    "description": "An ocean world of island chains and wrecked starships from ancient Sith skirmishes.",
+    "x": "1669",
+    "y": "2313",
+    "color": "#4a8090"
+  },
+  {
+    "name": "Iego",
+    "slug": "iego",
+    "route": "planet/iego",
+    "region": "Outer Rim Territories",
+    "description": "The World of a Thousand Moons, a remote world trapped by a Separatist laser web during the Clone Wars.",
+    "x": "1330",
+    "y": "3509",
+    "color": "#6a5080"
+  },
+  {
+    "name": "Susevfi",
+    "slug": "susevfi",
+    "route": "planet/susevfi",
+    "region": "Outer Rim Territories",
+    "description": "A volcanic retreat world of SoroSuub executives and later Jedi refuge sites.",
+    "x": "1205",
+    "y": "1361",
+    "color": "#9a5030"
+  },
+  {
+    "name": "Tund Minor",
+    "slug": "tund-minor",
+    "route": "planet/tund-minor",
+    "region": "Outer Rim Territories",
+    "description": "A companion world to Tund associated with Sith sorcerer enclaves and dark side sects.",
+    "x": "2682",
+    "y": "2037",
+    "color": "#7a7050"
+  },
+  {
+    "name": "Ziost II",
+    "slug": "ziost-ii",
+    "route": "planet/ziost-ii",
+    "region": "Sith Space",
+    "description": "A chart label for secondary Ziost orbit facilities during Old Sith Empire logistics records.",
+    "x": "6956",
+    "y": "3993",
+    "color": "#6a8090"
+  },
+  {
+    "name": "Stygium Caldera",
+    "slug": "stygium-caldera",
+    "route": "planet/stygium-caldera",
+    "region": "Sith Space",
+    "description": "An asteroid caldera rich in stygium crystals used for cloaking devices and Sith artifacts.",
+    "x": "6968",
+    "y": "3689",
+    "color": "#3a3040"
+  },
+  {
+    "name": "Nicht Ka",
+    "slug": "nicht-ka",
+    "route": "planet/nicht-ka",
+    "region": "Sith Space",
+    "description": "A barren Sith world with tomb cities from the era before the Great Hyperspace War.",
+    "x": "6861",
+    "y": "2810",
+    "color": "#5a3535"
+  },
+  {
+    "name": "XoXaan's Tomb World",
+    "slug": "xoxaan-tomb",
+    "route": "planet/xoxaan-tomb",
+    "region": "Sith Space",
+    "description": "A forgotten Sith mausoleum world tied to one of the first Sith Lords after the Hundred-Year Darkness.",
+    "x": "7011",
+    "y": "2632",
+    "color": "#4a2830"
+  },
+  {
+    "name": "Bogo Rai",
+    "slug": "bogo-rai",
+    "route": "planet/bogo-rai",
+    "region": "Unknown Regions",
+    "description": "A Unknown Regions world referenced in Sith Empire exile charts and Chiss border surveys.",
+    "x": "1226",
+    "y": "1411",
+    "color": "#506858"
+  },
+  {
+    "name": "Sorzus Ne",
+    "slug": "sorzus-ne",
+    "route": "planet/sorzus-ne",
+    "region": "Sith Space",
+    "description": "A Sith world associated with Sorzus Syn's alchemical texts and early Sith pureblood colonies.",
+    "x": "6514",
+    "y": "3425",
+    "color": "#6a3848"
+  },
+  {
+    "name": "Korriban's Moon",
+    "slug": "korriban-moon",
+    "route": "planet/korriban-moon",
+    "region": "Sith Space",
+    "description": "An ash-dark moon orbiting Korriban with orbital tombs and Sith academy staging platforms.",
+    "x": "6919",
+    "y": "3626",
+    "color": "#504038"
+  },
+  {
+    "name": "Yavin Prime",
+    "slug": "yavin-prime",
+    "route": "planet/yavin-prime",
+    "region": "Outer Rim Territories",
+    "description": "The gas giant anchoring the Yavin system, orbited by Yavin 4 and other Massassi-touched moons.",
+    "x": "1919",
+    "y": "1739",
+    "color": "#c87830"
+  },
+  {
+    "name": "Tatoo I",
+    "slug": "tatoo-i",
+    "route": "planet/tatoo-i",
+    "region": "Outer Rim Territories",
+    "description": "The primary star of the Tatoo system, whose intense heat shaped Tatooine's desert ecology.",
+    "x": "3149",
+    "y": "1661",
+    "color": "#e8a030"
+  },
+  {
+    "name": "Tatoo II",
+    "slug": "tatoo-ii",
+    "route": "planet/tatoo-ii",
+    "region": "Outer Rim Territories",
+    "description": "The twin sun of Tatooine's binary system, defining the iconic double-sunset horizon.",
+    "x": "2954",
+    "y": "1410",
+    "color": "#f0b040"
+  },
+  {
+    "name": "Subterrel",
+    "slug": "subterrel",
+    "route": "planet/subterrel",
+    "region": "Outer Rim Territories",
+    "description": "A mining world of underground cities and podracing circuits on hostile surface terrain.",
+    "x": "3113",
+    "y": "3067",
+    "color": "#806850"
+  },
+  {
+    "name": "Praesitlyn",
+    "slug": "praesitlyn",
+    "route": "planet/praesitlyn",
+    "region": "Outer Rim Territories",
+    "description": "A communications hub world fought over during Clone Wars campaigns for its HoloNet relay nodes.",
+    "x": "2271",
+    "y": "3037",
+    "color": "#6a9080"
+  },
+  {
+    "name": "Druckenwell",
+    "slug": "druckenwell",
+    "route": "planet/druckenwell",
+    "region": "Mid Rim Territories",
+    "description": "A Mid Rim factory world supplying components to galactic shipwrights across multiple eras.",
+    "x": "2318",
+    "y": "3735",
+    "color": "#708070"
+  },
+  {
+    "name": "Hapes",
+    "slug": "hapes",
+    "route": "planet/hapes",
+    "region": "Hapes Consortium",
+    "description": "The crown world of the Hapes Consortium, isolated by transitory mists and royal matriarchy.",
+    "x": "3746",
+    "y": "2189",
+    "color": "#9a7ab0"
+  },
+  {
+    "name": "Dathomir Sister Moon",
+    "slug": "dathomir-sister-moon",
+    "route": "planet/dathomir-sister-moon",
+    "region": "Outer Rim Territories",
+    "description": "A companion moon in the Dathomir system tied to Nightsister orbital rituals.",
+    "x": "2768",
+    "y": "1254",
+    "color": "#6a3040"
+  },
+  {
+    "name": "Gorog",
+    "slug": "gorog",
+    "route": "planet/gorog",
+    "region": "Unknown Regions",
+    "description": "A dark side world of the Gorog assassin cult within the Killik hive mind expansions.",
+    "x": "747",
+    "y": "1095",
+    "color": "#404838"
+  },
+  {
+    "name": "Yoggoy",
+    "slug": "yoggoy",
+    "route": "planet/yoggoy",
+    "region": "Unknown Regions",
+    "description": "A Killik nest world on the fringes of the Unknown Regions hive collective.",
+    "x": "1229",
+    "y": "1496",
+    "color": "#5a6840"
+  },
+  {
+    "name": "Tatooine's Sister",
+    "slug": "ghomrassen",
+    "route": "planet/ghomrassen",
+    "region": "Outer Rim Territories",
+    "description": "Ghomrassen, a rocky Tatooine region moon and mining settlement in Legends surveys.",
+    "x": "1975",
+    "y": "3489",
+    "color": "#9a8060"
+  },
+  {
+    "name": "Adumar",
+    "slug": "adumar",
+    "route": "planet/adumar",
+    "region": "Wild Space",
+    "description": "A Wild Space world obsessed with starfighter dueling culture, courted by New Republic and Empire.",
+    "x": "912",
+    "y": "2114",
+    "color": "#5a8ab0"
+  },
+  {
+    "name": "Borleias",
+    "slug": "borleias",
+    "route": "planet/borleias",
+    "region": "Colonies",
+    "description": "A Colonies world with a vital planetary shield generator, contested in the New Republic era.",
+    "x": "4838",
+    "y": "2940",
+    "color": "#6a8090"
+  },
+  {
+    "name": "Ebaq 9",
+    "slug": "ebaq-9",
+    "route": "planet/ebaq-9",
+    "region": "Deep Core",
+    "description": "An asteroid fortress in the Deep Core used by the New Republic against Yuuzhan Vong incursions.",
+    "x": "5057",
+    "y": "2662",
+    "color": "#707880"
+  },
+  {
+    "name": "Mortis",
+    "slug": "mortis",
+    "route": "planet/mortis",
+    "region": "Wild Space",
+    "description": "A ethereal Force nexus realm manifesting as a planetoid with the Father, Son, and Daughter.",
+    "x": "1747",
+    "y": "1358",
+    "color": "#6a5080"
+  },
+  {
+    "name": "Abafar",
+    "slug": "abafar",
+    "route": "planet/abafar",
+    "region": "Outer Rim Territories",
+    "description": "A desert world with a sunken municipal landfill and Clone Wars fuel depot.",
+    "x": "1492",
+    "y": "1519",
+    "color": "#c4a060"
+  },
+  {
+    "name": "Raxus Secundus",
+    "slug": "raxus-secundus",
+    "route": "planet/raxus-secundus",
+    "region": "Outer Rim Territories",
+    "description": "The official capital world of the Confederacy of Independent Systems during the Clone Wars.",
+    "x": "2439",
+    "y": "3632",
+    "color": "#5a9a7a"
+  },
+  {
+    "name": "Christophsis Moon",
+    "slug": "leesis",
+    "route": "planet/leesis",
+    "region": "Outer Rim Territories",
+    "description": "Leesis, a moon in the Christoph system used for forward clone staging areas.",
+    "x": "2390",
+    "y": "2460",
+    "color": "#7a9080"
+  },
+  {
+    "name": "Anaxes",
+    "slug": "anaxes",
+    "route": "planet/anaxes",
+    "region": "Core Worlds",
+    "description": "A Core fortress world of the Republic Navy, reduced to an asteroid field during the Clone Wars.",
+    "x": "4381",
+    "y": "2106",
+    "color": "#8090a0"
+  },
+  {
+    "name": "Ringo Vinda",
+    "slug": "ringo-vinda",
+    "route": "planet/ringo-vinda",
+    "region": "Mid Rim Territories",
+    "description": "A Mid Rim orbital station world blockaded during the Clone Wars biochip crisis.",
+    "x": "3566",
+    "y": "2617",
+    "color": "#8090a8"
+  },
+  {
+    "name": "Scipio",
+    "slug": "scipio",
+    "route": "planet/scipio",
+    "region": "Outer Rim Territories",
+    "description": "The headquarters world of the InterGalactic Banking Clan on a crystalline alpine plateau.",
+    "x": "1429",
+    "y": "2321",
+    "color": "#a0b8d0"
+  },
+  {
+    "name": "Lwhekk",
+    "slug": "lwhekk",
+    "route": "planet/lwhekk",
+    "region": "Unknown Regions",
+    "description": "The Ssi-ruuvi homeworld of humid jungles and entechment weapon factories.",
+    "x": "1345",
+    "y": "1578",
+    "color": "#4a6850"
+  },
+  {
+    "name": "Bakura-Prime",
+    "slug": "bakura-prime",
+    "route": "planet/bakura-prime",
+    "region": "Outer Rim Territories",
+    "description": "The primary inhabited world of the Bakura system invaded during the Ssi-ruuvi incursion.",
+    "x": "1120",
+    "y": "2861",
+    "color": "#6a9080"
+  },
+  {
+    "name": "Dantooine Moon",
+    "slug": "dantooine-moon",
+    "route": "planet/dantooine-moon",
+    "region": "Outer Rim Territories",
+    "description": "A sparsely settled moon used for Rebel listening posts near Dantooine.",
+    "x": "1656",
+    "y": "2234",
+    "color": "#7a9a70"
+  },
+  {
+    "name": "Taris Undercity",
+    "slug": "taris-undercity",
+    "route": "planet/taris-undercity",
+    "region": "Outer Rim Territories",
+    "description": "The rakghoul-infested foundation levels of Taris before and after planetary bombardment.",
+    "x": "2436",
+    "y": "3749",
+    "color": "#505860"
+  },
+  {
+    "name": "Manaan Kolto City",
+    "slug": "ahahta",
+    "route": "planet/ahahta",
+    "region": "Inner Rim Territories",
+    "description": "Ahto City on Manaan, the floating kolto harvesting capital of the Selkath.",
+    "x": "4514",
+    "y": "3111",
+    "color": "#60a0c0"
+  },
+  {
+    "name": "Sernpidal",
+    "slug": "sernpidal",
+    "route": "planet/sernpidal",
+    "region": "Outer Rim Territories",
+    "description": "An Outer Rim world destroyed when its moon was pulled into the planet by Yuuzhan Vong dovin basals.",
+    "x": "2413",
+    "y": "2007",
+    "color": "#8090a0"
+  },
+  {
+    "name": "Hapes Cluster",
+    "slug": "hapes-cluster",
+    "route": "planet/hapes-cluster",
+    "region": "Hapes Consortium",
+    "description": "The navigational heart of the Hapes Consortium's ninety-three-world isolationist realm.",
+    "x": "3801",
+    "y": "1850",
+    "color": "#9070a0"
+  },
+  {
+    "name": "Kamino Prime",
+    "slug": "kamino-prime",
+    "route": "planet/kamino-prime",
+    "region": "Wild Space",
+    "description": "The storm planet Kamino, homeworld of clone template production for the Grand Army.",
+    "x": "941",
+    "y": "2008",
+    "color": "#6090b0"
+  },
+  {
+    "name": "Rishi Moon",
+    "slug": "rishi-moon",
+    "route": "planet/rishi-moon",
+    "region": "Outer Rim Territories",
+    "description": "The tropical Rishi moon housing a Republic listening post above the Rishi Maze approach.",
+    "x": "1761",
+    "y": "3187",
+    "color": "#4a9070"
+  }
+]

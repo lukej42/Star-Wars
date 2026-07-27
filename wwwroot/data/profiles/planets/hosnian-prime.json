@@ -1,0 +1,38 @@
+{
+  "overview": "The Core capital of the New Republic Senate, destroyed by Starkiller Base's superlaser in 34 ABY.",
+  "history": "Hosnian Prime appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Hosnian Prime shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Hosnian Prime remains a reference point in Core Worlds surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Core Worlds",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Hosnian Prime"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Hosnian Prime increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Hosnian Prime"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Hosnian Prime status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/hosnian-prime-hero.webp",
+      "caption": "Cinematic view of Hosnian Prime"
+    }
+  ]
+}

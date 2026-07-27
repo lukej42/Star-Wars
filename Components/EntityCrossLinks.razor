@@ -5,10 +5,23 @@
         <div class="entity-cross-links-grid">
             @foreach (var link in Links)
             {
-                <div class="entity-cross-link-row">
-                    <span class="entity-cross-link-label">@link.Label</span>
-                    <a href="@link.Route">@link.Value</a>
-                </div>
+                <a class="entity-cross-link-card" href="@link.Route">
+                    @if (!string.IsNullOrWhiteSpace(link.Image))
+                    {
+                        <img class="entity-cross-link-thumb"
+                             src="@link.Image"
+                             alt=""
+                             loading="lazy" />
+                    }
+                    else
+                    {
+                        <span class="entity-cross-link-thumb entity-cross-link-thumb-fallback" aria-hidden="true"></span>
+                    }
+                    <span class="entity-cross-link-body">
+                        <span class="entity-cross-link-label">@link.Label</span>
+                        <span class="entity-cross-link-value">@link.Value</span>
+                    </span>
+                </a>
             }
         </div>
     </section>

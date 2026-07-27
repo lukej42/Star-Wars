@@ -1,0 +1,38 @@
+{
+  "overview": "The storm planet Kamino, homeworld of clone template production for the Grand Army.",
+  "history": "Kamino Prime appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Kamino Prime shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Kamino Prime remains a reference point in Wild Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Wild Space",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Wild Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Kamino Prime"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Kamino Prime increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Kamino Prime"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Kamino Prime status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kamino-prime-hero.webp",
+      "caption": "Cinematic view of Kamino Prime"
+    }
+  ]
+}

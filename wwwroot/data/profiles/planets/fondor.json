@@ -1,0 +1,38 @@
+{
+  "overview": "A Core engineering world of massive orbital shipyards and supercarrier construction docks.",
+  "history": "Fondor appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Fondor shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Fondor remains a reference point in Core Worlds surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Core Worlds",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Fondor"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Fondor increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Fondor"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Fondor status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/fondor-hero.webp",
+      "caption": "Cinematic view of Fondor"
+    }
+  ]
+}
