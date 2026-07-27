@@ -327,11 +327,6 @@
         "label": "Faction",
         "value": "New Republic",
         "route": "factions/new-republic"
-      },
-      {
-        "label": "Faction",
-        "value": "Hutts",
-        "route": "factions/hutts"
       }
     ]
   },
@@ -1064,11 +1059,6 @@
         "route": "planet/ando"
       },
       {
-        "label": "Planet",
-        "value": "Voss",
-        "route": "planet/voss"
-      },
-      {
         "label": "Faction",
         "value": "Republic",
         "route": "factions/republic"
@@ -1640,11 +1630,6 @@
         "label": "Faction",
         "value": "New Republic",
         "route": "factions/new-republic"
-      },
-      {
-        "label": "Faction",
-        "value": "Hutts",
-        "route": "factions/hutts"
       },
       {
         "label": "Faction",
@@ -3083,11 +3068,6 @@
         "label": "Faction",
         "value": "New Republic",
         "route": "factions/new-republic"
-      },
-      {
-        "label": "Faction",
-        "value": "Hutts",
-        "route": "factions/hutts"
       }
     ]
   },
@@ -3970,11 +3950,6 @@
         "label": "Species",
         "value": "Kiffar",
         "route": "species/kiffar"
-      },
-      {
-        "label": "Planet",
-        "value": "Voss",
-        "route": "planet/voss"
       },
       {
         "label": "Faction",
@@ -5175,11 +5150,6 @@
         "label": "Faction",
         "value": "New Republic",
         "route": "factions/new-republic"
-      },
-      {
-        "label": "Faction",
-        "value": "Hutts",
-        "route": "factions/hutts"
       },
       {
         "label": "Faction",
@@ -10574,11 +10544,6 @@
         "label": "Faction",
         "value": "New Republic",
         "route": "factions/new-republic"
-      },
-      {
-        "label": "Faction",
-        "value": "Hutts",
-        "route": "factions/hutts"
       },
       {
         "label": "Faction",
@@ -32497,18 +32462,7 @@
   {
     "category": "planets",
     "slug": "voss",
-    "links": [
-      {
-        "label": "Character",
-        "value": "Dryden Vos",
-        "route": "characters/dryden-vos"
-      },
-      {
-        "label": "Jedi",
-        "value": "Quinlan Vos",
-        "route": "jedi/quinlan-vos"
-      }
-    ]
+    "links": []
   },
   {
     "category": "planets",
@@ -33544,46 +33498,6 @@
         "label": "Directory",
         "value": "Bounty Hunters",
         "route": "all-bounty-hunters"
-      },
-      {
-        "label": "Character",
-        "value": "Bib Fortuna",
-        "route": "characters/bib-fortuna"
-      },
-      {
-        "label": "Character",
-        "value": "Jabba the Hutt",
-        "route": "characters/jabba-the-hutt"
-      },
-      {
-        "label": "Character",
-        "value": "Ziro the Hutt",
-        "route": "characters/ziro-the-hutt"
-      },
-      {
-        "label": "Bounty Hunter",
-        "value": "Boba Fett",
-        "route": "bounty-hunters/boba-fett"
-      },
-      {
-        "label": "Bounty Hunter",
-        "value": "Greedo",
-        "route": "bounty-hunters/greedo"
-      },
-      {
-        "label": "Bounty Hunter",
-        "value": "Amanaman",
-        "route": "bounty-hunters/amanaman"
-      },
-      {
-        "label": "Bounty Hunter",
-        "value": "Boushh",
-        "route": "bounty-hunters/boushh"
-      },
-      {
-        "label": "Bounty Hunter",
-        "value": "Kintan Strider",
-        "route": "bounty-hunters/kintan-strider"
       }
     ]
   },
@@ -34065,12 +33979,39 @@
   {
     "category": "force-powers",
     "slug": "force-push",
-    "links": []
+    "links": [
+      {
+        "label": "Character",
+        "value": "General Grievous",
+        "route": "characters/general-grievous"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-pull",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34080,7 +34021,13 @@
   {
     "category": "force-powers",
     "slug": "force-throw",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Yoda",
+        "route": "jedi/yoda"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34100,12 +34047,29 @@
   {
     "category": "force-powers",
     "slug": "tutaminis",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      },
+      {
+        "label": "Jedi",
+        "value": "Yoda",
+        "route": "jedi/yoda"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-deflection",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Kanan Jarrus",
+        "route": "jedi/kanan-jarrus"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34115,12 +34079,29 @@
   {
     "category": "force-powers",
     "slug": "force-heal",
-    "links": []
+    "links": [
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-body",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Plagueis",
+        "route": "sith/darth-plagueis"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34146,7 +34127,13 @@
   {
     "category": "force-powers",
     "slug": "mind-trick",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34161,13 +34148,34 @@
         "label": "Jedi",
         "value": "Luke Skywalker",
         "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
       }
     ]
   },
   {
     "category": "force-powers",
     "slug": "psychometry",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Quinlan Vos",
+        "route": "jedi/quinlan-vos"
+      },
+      {
+        "label": "Character",
+        "value": "Dryden Vos",
+        "route": "characters/dryden-vos"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34177,22 +34185,71 @@
   {
     "category": "force-powers",
     "slug": "force-vision",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "shatterpoint",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Mace Windu",
+        "route": "jedi/mace-windu"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-speed",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Jedi",
+        "value": "Qui-Gon Jinn",
+        "route": "jedi/qui-gon-jinn"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-jump",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Yoda",
+        "route": "jedi/yoda"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34212,7 +34269,18 @@
   {
     "category": "force-powers",
     "slug": "animal-bond",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34222,7 +34290,13 @@
   {
     "category": "force-powers",
     "slug": "force-light",
-    "links": []
+    "links": [
+      {
+        "label": "Bounty Hunter",
+        "value": "Asajj Ventress",
+        "route": "bounty-hunters/asajj-ventress"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34237,12 +34311,49 @@
   {
     "category": "force-powers",
     "slug": "force-bond",
-    "links": []
+    "links": [
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-meld",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Eighth Brother",
+        "route": "sith/eighth-brother"
+      },
+      {
+        "label": "Sith",
+        "value": "Fifth Brother",
+        "route": "sith/fifth-brother"
+      },
+      {
+        "label": "Sith",
+        "value": "Sixth Brother",
+        "route": "sith/sixth-brother"
+      },
+      {
+        "label": "Character",
+        "value": "Bail Organa",
+        "route": "characters/bail-organa"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34257,6 +34368,11 @@
         "label": "Jedi",
         "value": "Yoda",
         "route": "jedi/yoda"
+      },
+      {
+        "label": "Jedi",
+        "value": "Qui-Gon Jinn",
+        "route": "jedi/qui-gon-jinn"
       }
     ]
   },
@@ -34268,7 +34384,13 @@
   {
     "category": "force-powers",
     "slug": "electric-judgment",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Plo Koon",
+        "route": "jedi/plo-koon"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34278,17 +34400,35 @@
   {
     "category": "force-powers",
     "slug": "force-choke",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-grip",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-crush",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34303,7 +34443,28 @@
   {
     "category": "force-powers",
     "slug": "force-lightning",
-    "links": []
+    "links": [
+      {
+        "label": "Bounty Hunter",
+        "value": "Asajj Ventress",
+        "route": "bounty-hunters/asajj-ventress"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34323,7 +34484,13 @@
   {
     "category": "force-powers",
     "slug": "chain-lightning",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Sidious",
+        "route": "sith/darth-sidious"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34333,7 +34500,13 @@
   {
     "category": "force-powers",
     "slug": "force-drain",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Nihilus",
+        "route": "sith/darth-nihilus"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34343,7 +34516,13 @@
   {
     "category": "force-powers",
     "slug": "force-wound",
-    "links": []
+    "links": [
+      {
+        "label": "Bounty Hunter",
+        "value": "Tarro Blood",
+        "route": "bounty-hunters/tarro-blood"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34378,7 +34557,23 @@
   {
     "category": "force-powers",
     "slug": "force-corrupt",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34393,12 +34588,34 @@
   {
     "category": "force-powers",
     "slug": "force-rage",
-    "links": []
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      }
+    ]
   },
   {
     "category": "force-powers",
     "slug": "force-scream",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34428,7 +34645,13 @@
   {
     "category": "force-powers",
     "slug": "sith-alchemy",
-    "links": []
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Naga Sadow",
+        "route": "sith/naga-sadow"
+      }
+    ]
   },
   {
     "category": "force-powers",
@@ -34460,6 +34683,188 @@
     "category": "force-powers",
     "slug": "dark-side-tendrils",
     "links": []
+  },
+  {
+    "category": "force-power-index",
+    "slug": "light-side",
+    "links": [
+      {
+        "label": "Character",
+        "value": "General Grievous",
+        "route": "characters/general-grievous"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Yoda",
+        "route": "jedi/yoda"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      },
+      {
+        "label": "Jedi",
+        "value": "Kanan Jarrus",
+        "route": "jedi/kanan-jarrus"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Plagueis",
+        "route": "sith/darth-plagueis"
+      },
+      {
+        "label": "Character",
+        "value": "Bastila Shan",
+        "route": "characters/bastila-shan"
+      },
+      {
+        "label": "Jedi",
+        "value": "Quinlan Vos",
+        "route": "jedi/quinlan-vos"
+      },
+      {
+        "label": "Character",
+        "value": "Dryden Vos",
+        "route": "characters/dryden-vos"
+      },
+      {
+        "label": "Jedi",
+        "value": "Mace Windu",
+        "route": "jedi/mace-windu"
+      },
+      {
+        "label": "Jedi",
+        "value": "Qui-Gon Jinn",
+        "route": "jedi/qui-gon-jinn"
+      },
+      {
+        "label": "Bounty Hunter",
+        "value": "Asajj Ventress",
+        "route": "bounty-hunters/asajj-ventress"
+      },
+      {
+        "label": "Sith",
+        "value": "Eighth Brother",
+        "route": "sith/eighth-brother"
+      },
+      {
+        "label": "Sith",
+        "value": "Fifth Brother",
+        "route": "sith/fifth-brother"
+      },
+      {
+        "label": "Sith",
+        "value": "Sixth Brother",
+        "route": "sith/sixth-brother"
+      },
+      {
+        "label": "Character",
+        "value": "Bail Organa",
+        "route": "characters/bail-organa"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Jedi",
+        "value": "Plo Koon",
+        "route": "jedi/plo-koon"
+      }
+    ]
+  },
+  {
+    "category": "force-power-index",
+    "slug": "dark-side",
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Bounty Hunter",
+        "value": "Asajj Ventress",
+        "route": "bounty-hunters/asajj-ventress"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Shmi Skywalker",
+        "route": "characters/shmi-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Sidious",
+        "route": "sith/darth-sidious"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Nihilus",
+        "route": "sith/darth-nihilus"
+      },
+      {
+        "label": "Bounty Hunter",
+        "value": "Tarro Blood",
+        "route": "bounty-hunters/tarro-blood"
+      },
+      {
+        "label": "Sith",
+        "value": "Naga Sadow",
+        "route": "sith/naga-sadow"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Zannah",
+        "route": "sith/darth-zannah"
+      }
+    ]
   },
   {
     "category": "lightsaber-forms",

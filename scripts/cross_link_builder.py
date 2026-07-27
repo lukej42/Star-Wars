@@ -452,8 +452,11 @@ class CrossLinkIndexes:
         self._build_reverse_indexes()
 
     def _norm(self, value: str) -> str:
-        value = value.lower().replace("'", "").replace("'", "")
-        value = re.sub(r"[^a-z0-9\s-]", " ", value)
+        value = value.lower()
+        value = re.sub(r"'s\b", "", value)
+        value = value.replace("'", "").replace("'", "")
+        value = value.replace("-", " ")
+        value = re.sub(r"[^a-z0-9\s]", " ", value)
         return re.sub(r"\s+", " ", value).strip()
 
     def _load_valid_routes(self) -> set[str]:
@@ -578,7 +581,7 @@ class CrossLinkIndexes:
             if species:
                 self.species_members.setdefault(species["slug"], []).append((category, entry))
             for power in self._match_force_powers(text):
-                self.power_users.setdefault(power["slug"], []).append((category, entry))
+                self._register_power_user(power["slug"], category, entry)
             for form in self._match_forms(text):
                 self.form_users.setdefault(form["slug"], []).append((category, entry))
             homeworld = entry.get("homeworld", "")
@@ -594,6 +597,11 @@ class CrossLinkIndexes:
                 person = self._match_practitioner(practitioner)
                 if person:
                     self.form_users.setdefault(form_slug, []).append(person)
+
+        for power in self.powers:
+            text = self._norm(power.get("description", ""))
+            for category, person in self._match_people_in_text(text):
+                self._register_power_user(power["slug"], category, person)
 
         for faction_slug, planet_names in FACTION_PLANETS.items():
             for _label, planet_name in planet_names:
@@ -663,6 +671,38 @@ class CrossLinkIndexes:
             if norm in text and ship["route"] not in seen:
                 found.append(ship)
                 seen.add(ship["route"])
+        return found
+
+    def _register_power_user(self, power_slug: str, category: str, person: dict[str, str]) -> None:
+        bucket = self.power_users.setdefault(power_slug, [])
+        if any(existing["route"] == person["route"] for _, existing in bucket):
+            return
+        bucket.append((category, person))
+
+    def _match_people_in_text(self, text: str) -> list[tuple[str, dict[str, str]]]:
+        padded = f" {text} "
+        found: list[tuple[str, dict[str, str]]] = []
+        seen: set[str] = set()
+        for category, person in sorted(self.people, key=lambda item: len(item[1]["name"]), reverse=True):
+            norm_name = self._norm(person["name"])
+            if not norm_name:
+                continue
+            matched = f" {norm_name} " in padded or f" {norm_name} s " in padded
+            if not matched:
+                parts = norm_name.split()
+                if len(parts) >= 2:
+                    matched = (
+                        f" {parts[0]} {parts[1]} " in padded
+                        or f" {' '.join(parts[:2])} " in padded
+                        or f" {' '.join(parts)} " in padded
+                    )
+                elif len(parts) == 1 and len(parts[0]) >= 3:
+                    matched = f" {parts[0]} " in padded
+            if not matched and norm_name.startswith("darth ") and len(norm_name) > 6:
+                matched = f" {norm_name[6:]} " in padded
+            if matched and person["route"] not in seen:
+                found.append((category, person))
+                seen.add(person["route"])
         return found
 
     def _match_force_powers(self, text: str) -> list[dict[str, str]]:
@@ -942,15 +982,41 @@ class CrossLinkIndexes:
         for power in self.powers:
             links: list[dict[str, str]] = []
             seen: set[str] = set()
-            side_label = "Jedi" if power.get("side") == "light" else "Sith"
+            label_map = {
+                "jedi": "Jedi",
+                "sith": "Sith",
+                "characters": "Character",
+                "bounty-hunters": "Bounty Hunter",
+            }
             for category, person in self.power_users.get(power["slug"], []):
-                if category not in ("jedi", "sith"):
-                    continue
-                self.add_link(links, seen, side_label, person["name"], person["route"])
-            for category, person in self.power_users.get(power["slug"], []):
-                if category == "characters":
-                    self.add_link(links, seen, "Character", person["name"], person["route"])
+                label = label_map.get(category)
+                if label:
+                    self.add_link(links, seen, label, person["name"], person["route"])
             entries.append({"category": "force-powers", "slug": power["slug"], "links": links[:MAX_LINKS]})
+
+        for side in ("light", "dark"):
+            links: list[dict[str, str]] = []
+            seen: set[str] = set()
+            label_map = {
+                "jedi": "Jedi",
+                "sith": "Sith",
+                "characters": "Character",
+                "bounty-hunters": "Bounty Hunter",
+            }
+            for power in self.powers:
+                if power.get("side") != side:
+                    continue
+                for category, person in self.power_users.get(power["slug"], []):
+                    label = label_map.get(category)
+                    if label:
+                        self.add_link(links, seen, label, person["name"], person["route"])
+            entries.append(
+                {
+                    "category": "force-power-index",
+                    "slug": f"{side}-side",
+                    "links": links[:MAX_LINKS],
+                }
+            )
 
         for form in self.forms:
             links: list[dict[str, str]] = []

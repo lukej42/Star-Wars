@@ -1,8 +1,11 @@
 @if (Links.Count > 0)
 {
-    <div class="directory-detail entity-cross-links-wrap">
+    <div class="directory-detail entity-cross-links-wrap @(Compact ? "entity-cross-links-wrap-compact" : null)">
         <section class="directory-detail-section entity-cross-links">
-            <h2>Related Archives</h2>
+            @if (!string.IsNullOrWhiteSpace(Heading))
+            {
+                <h2>@Heading</h2>
+            }
             <ul class="entity-cross-links-list">
                 @foreach (var link in Links)
                 {
@@ -39,4 +42,10 @@
 @code {
     [Parameter]
     public IReadOnlyList<EntityCrossLink> Links { get; set; } = Array.Empty<EntityCrossLink>();
+
+    [Parameter]
+    public string Heading { get; set; } = "Related Archives";
+
+    [Parameter]
+    public bool Compact { get; set; }
 }

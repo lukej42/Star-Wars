@@ -1,5 +1,9 @@
 @page "/all-dark-side-powers"
 @using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>All Dark Side Powers</PageTitle>
 
@@ -18,19 +22,41 @@
 {
     <section class="force-powers-category">
         <h2>@group.Key</h2>
-        <div class="planet-directory-grid">
+        <div class="force-power-listing">
             @foreach (var power in group.OrderBy(power => power.Name))
             {
-                <article class="planet-directory-card">
-                    <span class="planet-directory-swatch" style="background-color: @power.Color" aria-hidden="true"></span>
-                    <div class="planet-directory-details">
-                        <a href="@power.Route">@power.Name</a>
-                        <p class="planet-region">@power.Difficulty · @power.Sources</p>
-                    </div>
-                </article>
+                <div class="force-power-listing-item">
+                    <article class="planet-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @power.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@power.Route">@power.Name</a>
+                            <p class="planet-region">@power.Difficulty · @power.Sources</p>
+                        </div>
+                    </article>
+                    @if (powerLinks.TryGetValue(power.Slug, out var links) && links.Count > 0)
+                    {
+                        <EntityCrossLinks Links="@links" Heading="Related Archives" Compact="true" />
+                    }
+                </div>
             }
         </div>
     </section>
 }
 
 <p class="force-powers-crosslink"><a href="all-force-powers">View all Force powers</a> · <a href="all-light-side-powers">Light Side powers</a></p>
+
+@code {
+    private Dictionary<string, IReadOnlyList<EntityCrossLink>> powerLinks = new(StringComparer.OrdinalIgnoreCase);
+
+    protected override async Task OnInitializedAsync()
+    {
+        foreach (var power in ForcePowerData.DarkSidePowers)
+        {
+            var links = await CrossLinkService.GetLinksAsync("force-powers", power.Slug);
+            if (links.Count > 0)
+            {
+                powerLinks[power.Slug] = links;
+            }
+        }
+    }
+}

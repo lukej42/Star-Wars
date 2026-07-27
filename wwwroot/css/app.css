@@ -567,6 +567,32 @@ a, .btn-link {
     color: rgba(255, 255, 255, 0.65);
 }
 
+.force-power-listing {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.force-power-listing-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+}
+
+.entity-cross-links-wrap-compact {
+    margin-top: 0;
+}
+
+.entity-cross-links-wrap-compact .directory-detail-section {
+    margin-bottom: 0;
+    padding: 0.85rem 1rem;
+}
+
+.entity-cross-links-wrap-compact h2 {
+    font-size: 0.82rem;
+    margin-bottom: 0.55rem;
+}
+
 .directory-hero,
 .force-powers-hero {
     margin: 0 0 1.5rem;
