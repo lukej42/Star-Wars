@@ -1,0 +1,38 @@
+{
+  "overview": "An orbital logistics station serving Korriban's academy complexes and tomb excavations.",
+  "history": "Korriban Outpost appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Korriban Outpost shifted with each regime—from Sith occupation to Republic restoration and beyond.",
+  "significance": "Korriban Outpost remains a reference point in Sith Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "notableEvents": [
+    "Surveyed during the Old Republic expansion into Sith Space",
+    "Referenced in Clone Wars and Imperial era records",
+    "Documented in Knights of the Old Republic archives",
+    "Listed in Old Sith Empire star charts"
+  ],
+  "affiliations": [
+    "Sith Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "First major settlement era on Korriban Outpost"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military interest in Korriban Outpost increases"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial administration records Korriban Outpost"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war surveys update Korriban Outpost status"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/korriban-outpost-hero.webp",
+      "caption": "Cinematic view of Korriban Outpost"
+    }
+  ]
+}

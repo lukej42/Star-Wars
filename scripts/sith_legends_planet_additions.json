@@ -1,0 +1,14 @@
+[
+  {"name": "Begeren", "slug": "begeren", "region": "Sith Space", "description": "A Sith industrial world of tomb-cities and ore refineries that supplied the Old Sith Empire's war forges.", "color": "#6a4038"},
+  {"name": "Bosthirda", "slug": "bosthirda", "region": "Sith Space", "description": "A remote Sith Space world of fortress monasteries used during the Golden Age of the Sith.", "color": "#5a3530"},
+  {"name": "Dromund Fels", "slug": "dromund-fels", "region": "Sith Space", "description": "A moon in the Dromund system orbiting Dromund Kaas, used for Sith training trials and dark side rituals.", "color": "#4a5048"},
+  {"name": "Dromund Ixin", "slug": "dromund-ixin", "region": "Sith Space", "description": "A storm-wracked moon of the Dromund Kaas system housing Sith academies and exile colonies.", "color": "#5a5850"},
+  {"name": "Dromund Kalakar", "slug": "dromund-kalakar", "region": "Sith Space", "description": "Kalakar Six — a volcanic moon in the Dromund system where Sith alchemists forged weapons and relics.", "color": "#7a4030"},
+  {"name": "Dromund Tyne", "slug": "dromund-tyne", "region": "Sith Space", "description": "A mist-shrouded moon of Dromund Kaas used as a retreat for Sith sorcerers and assassin initiates.", "color": "#505848"},
+  {"name": "Jaguada's Moon", "slug": "jaguada-moon", "region": "Sith Space", "description": "The ash-gray moon of Jaguada, site of Sith beacon towers and invasion fleet staging yards.", "color": "#6a5040"},
+  {"name": "Kalsunor", "slug": "kalsunor", "region": "Sith Space", "description": "A barren Sith world of obsidian plains where ancient Dark Lords buried war trophies and holocrons.", "color": "#4a3838"},
+  {"name": "Korriz", "slug": "korriz", "region": "Sith Space", "description": "A Korriban sister world of red deserts and satellite tomb complexes tied to the Valley of the Dark Lords.", "color": "#8a5030"},
+  {"name": "Nfolgai", "slug": "nfolgai", "region": "Sith Space", "description": "A forgotten Sith tomb world of crumbling pyramids and sealed mausoleums from the Old Sith Wars.", "color": "#5a4040"},
+  {"name": "Arkania", "slug": "arkania", "region": "Colonies", "description": "An icy Colonies world famed for genetic laboratories and Arkanian Offshoot communities with Sith-era ties.", "color": "#a0c0d8"},
+  {"name": "Korriban Outpost", "slug": "korriban-outpost", "region": "Sith Space", "description": "An orbital logistics station serving Korriban's academy complexes and tomb excavations.", "color": "#605040"}
+]

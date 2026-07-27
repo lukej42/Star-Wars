@@ -161,6 +161,16 @@ a, .btn-link {
     backdrop-filter: blur(6px);
 }
 
+.content-planet .entity-cross-links-wrap {
+    max-width: min(980px, 100%);
+    margin-top: 1rem;
+}
+
+.content-planet .entity-cross-links-wrap .directory-detail-section {
+    background: rgba(8, 12, 24, 0.82);
+    backdrop-filter: blur(6px);
+}
+
 .planet-page-content .directory-detail-footer a {
     text-shadow: 0 1px 8px rgba(0, 0, 0, 0.85);
 }
@@ -254,61 +264,94 @@ a, .btn-link {
 }
 
 .entity-cross-links {
-    margin-top: 1.75rem;
+    margin-top: 0;
+}
+
+.entity-cross-links-wrap {
+    margin-top: 0.5rem;
 }
 
 .entity-cross-links h2 {
-    font-size: 1.15rem;
-    margin-bottom: 0.85rem;
+    font-size: 1.05rem;
+    margin-bottom: 0.75rem;
     color: rgba(255, 255, 255, 0.85);
     letter-spacing: 0.04em;
     text-transform: uppercase;
 }
 
-.entity-cross-links-grid {
+.entity-cross-links-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 0.85rem 1rem;
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+    gap: 0.65rem;
+}
+
+.entity-cross-links-list li {
+    margin: 0;
+    padding: 0;
+    min-width: 0;
 }
 
 .entity-cross-link-card {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 0.75rem;
-    padding: 0.55rem 0.65rem;
-    border-radius: 0.55rem;
-    background: rgba(255, 255, 255, 0.04);
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    text-align: center;
+    gap: 0.45rem;
+    height: 100%;
+    padding: 0.55rem 0.4rem;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.35);
+    border: 1px solid rgba(255, 255, 255, 0.1);
     text-decoration: none;
     transition: background 0.15s ease, border-color 0.15s ease;
 }
 
 .entity-cross-link-card:hover {
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.06);
     border-color: rgba(255, 255, 255, 0.18);
     text-decoration: none;
 }
 
-.entity-cross-link-thumb {
-    width: 72px;
-    height: 48px;
-    object-fit: cover;
-    border-radius: 0.35rem;
+.entity-cross-link-thumb-wrap {
     flex-shrink: 0;
-    background: rgba(0, 0, 0, 0.35);
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+    width: 56px;
+    height: 74px;
+    margin: 0;
+    border-radius: 0.45rem;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(0, 0, 0, 0.45);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+}
+
+.entity-cross-links img.entity-cross-link-thumb {
+    display: block;
+    width: 56px;
+    height: 74px;
+    max-width: 56px;
+    max-height: 74px;
+    min-width: 0;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 0;
+    background: radial-gradient(circle at 50% 30%, rgba(255, 255, 255, 0.08), rgba(0, 0, 0, 0.65));
 }
 
 .entity-cross-link-thumb-fallback {
-    display: inline-block;
+    display: block;
     background: linear-gradient(135deg, rgba(126, 184, 255, 0.25), rgba(20, 30, 50, 0.8));
 }
 
 .entity-cross-link-body {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 0.15rem;
     min-width: 0;
+    width: 100%;
 }
 
 .entity-cross-link-row {
@@ -318,7 +361,7 @@ a, .btn-link {
 }
 
 .entity-cross-link-label {
-    font-size: 0.72rem;
+    font-size: 0.68rem;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.5);
@@ -326,8 +369,10 @@ a, .btn-link {
 
 .entity-cross-link-value {
     font-weight: 600;
+    font-size: 0.82rem;
     color: rgba(255, 255, 255, 0.92);
     line-height: 1.25;
+    word-break: break-word;
 }
 
 .entity-cross-link-row a {
@@ -337,6 +382,18 @@ a, .btn-link {
 
 .entity-cross-link-row a:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 1200px) {
+    .entity-cross-links-list {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .entity-cross-links-list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
 }
 
 .directory-detail-quote {

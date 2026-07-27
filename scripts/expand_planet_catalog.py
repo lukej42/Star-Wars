@@ -424,11 +424,9 @@ def _trim_description(desc: str, max_len: int) -> str:
     return text
 
 
-def load_legends_additions() -> list[dict[str, str]]:
-    path = ROOT / "scripts" / "legends_planet_additions.json"
+def _load_planet_additions_file(path: Path, existing: set[str]) -> list[dict[str, str]]:
     if not path.is_file():
         return []
-    existing = existing_slugs()
     planets: list[dict[str, str]] = []
     for entry in json.loads(path.read_text(encoding="utf-8")):
         slug = entry["slug"]
@@ -448,6 +446,18 @@ def load_legends_additions() -> list[dict[str, str]]:
                 "color": entry.get("color") or color_for(slug),
             }
         )
+        existing.add(slug)
+    return planets
+
+
+def load_legends_additions() -> list[dict[str, str]]:
+    existing = existing_slugs()
+    planets: list[dict[str, str]] = []
+    for filename in (
+        "legends_planet_additions.json",
+        "sith_legends_planet_additions.json",
+    ):
+        planets.extend(_load_planet_additions_file(ROOT / "scripts" / filename, existing))
     return planets
 
 

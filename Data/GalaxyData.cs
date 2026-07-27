@@ -3197,6 +3197,139 @@ public static class GalaxyData
             Y = 3187,
             Color = "#4a9070"
         }
+,
+        new()
+        {
+            Name = "Begeren",
+            Slug = "begeren",
+            Route = "planet/begeren",
+            Region = "Sith Space",
+            Description = "A Sith industrial world of tomb-cities and ore refineries that supplied the Old Sith Empire's war forges.",
+            X = 7004,
+            Y = 3951,
+            Color = "#6a4038"
+        },
+        new()
+        {
+            Name = "Bosthirda",
+            Slug = "bosthirda",
+            Route = "planet/bosthirda",
+            Region = "Sith Space",
+            Description = "A remote Sith Space world of fortress monasteries used during the Golden Age of the Sith.",
+            X = 6745,
+            Y = 3038,
+            Color = "#5a3530"
+        },
+        new()
+        {
+            Name = "Dromund Fels",
+            Slug = "dromund-fels",
+            Route = "planet/dromund-fels",
+            Region = "Sith Space",
+            Description = "A moon in the Dromund system orbiting Dromund Kaas, used for Sith training trials and dark side rituals.",
+            X = 6890,
+            Y = 3093,
+            Color = "#4a5048"
+        },
+        new()
+        {
+            Name = "Dromund Ixin",
+            Slug = "dromund-ixin",
+            Route = "planet/dromund-ixin",
+            Region = "Sith Space",
+            Description = "A storm-wracked moon of the Dromund Kaas system housing Sith academies and exile colonies.",
+            X = 6484,
+            Y = 3155,
+            Color = "#5a5850"
+        },
+        new()
+        {
+            Name = "Dromund Kalakar",
+            Slug = "dromund-kalakar",
+            Route = "planet/dromund-kalakar",
+            Region = "Sith Space",
+            Description = "Kalakar Six — a volcanic moon in the Dromund system where Sith alchemists forged weapons and relics.",
+            X = 6551,
+            Y = 3060,
+            Color = "#7a4030"
+        },
+        new()
+        {
+            Name = "Dromund Tyne",
+            Slug = "dromund-tyne",
+            Route = "planet/dromund-tyne",
+            Region = "Sith Space",
+            Description = "A mist-shrouded moon of Dromund Kaas used as a retreat for Sith sorcerers and assassin initiates.",
+            X = 6874,
+            Y = 2672,
+            Color = "#505848"
+        },
+        new()
+        {
+            Name = "Jaguada's Moon",
+            Slug = "jaguada-moon",
+            Route = "planet/jaguada-moon",
+            Region = "Sith Space",
+            Description = "The ash-gray moon of Jaguada, site of Sith beacon towers and invasion fleet staging yards.",
+            X = 7045,
+            Y = 3102,
+            Color = "#6a5040"
+        },
+        new()
+        {
+            Name = "Kalsunor",
+            Slug = "kalsunor",
+            Route = "planet/kalsunor",
+            Region = "Sith Space",
+            Description = "A barren Sith world of obsidian plains where ancient Dark Lords buried war trophies and holocrons.",
+            X = 6426,
+            Y = 3469,
+            Color = "#4a3838"
+        },
+        new()
+        {
+            Name = "Korriz",
+            Slug = "korriz",
+            Route = "planet/korriz",
+            Region = "Sith Space",
+            Description = "A Korriban sister world of red deserts and satellite tomb complexes tied to the Valley of the Dark Lords.",
+            X = 6596,
+            Y = 3382,
+            Color = "#8a5030"
+        },
+        new()
+        {
+            Name = "Nfolgai",
+            Slug = "nfolgai",
+            Route = "planet/nfolgai",
+            Region = "Sith Space",
+            Description = "A forgotten Sith tomb world of crumbling pyramids and sealed mausoleums from the Old Sith Wars.",
+            X = 6907,
+            Y = 3864,
+            Color = "#5a4040"
+        },
+        new()
+        {
+            Name = "Arkania",
+            Slug = "arkania",
+            Route = "planet/arkania",
+            Region = "Colonies",
+            Description = "An icy Colonies world famed for genetic laboratories and Arkanian Offshoot communities with Sith-era ties.",
+            X = 3974,
+            Y = 2945,
+            Color = "#a0c0d8"
+        },
+        new()
+        {
+            Name = "Korriban Outpost",
+            Slug = "korriban-outpost",
+            Route = "planet/korriban-outpost",
+            Region = "Sith Space",
+            Description = "An orbital logistics station serving Korriban's academy complexes and tomb excavations.",
+            X = 6739,
+            Y = 2864,
+            Color = "#605040"
+        }
     ];
 
     public static GalaxyPlanet? GetBySlug(string slug) =>

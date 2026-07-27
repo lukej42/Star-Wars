@@ -27617,7 +27617,13 @@
   {
     "category": "planets",
     "slug": "ashas-ree",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
@@ -28769,6 +28775,11 @@
         "label": "Bounty Hunter",
         "value": "Hanharr",
         "route": "bounty-hunters/hanharr"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
       }
     ]
   },
@@ -30227,6 +30238,11 @@
         "label": "Bounty Hunter",
         "value": "Gor Koresh",
         "route": "bounty-hunters/gor-koresh"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
       }
     ]
   },
@@ -32383,37 +32399,79 @@
   {
     "category": "planets",
     "slug": "thule",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
     "slug": "krayiss-ii",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
     "slug": "khar-delba",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
     "slug": "khar-shian",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
     "slug": "rhelg",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
     "slug": "ch-hodos",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
     "slug": "jaguada",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
@@ -32428,7 +32486,13 @@
   {
     "category": "planets",
     "slug": "atthiss",
-    "links": []
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
@@ -32796,6 +32860,120 @@
   {
     "category": "planets",
     "slug": "rishi-moon",
+    "links": []
+  },
+  {
+    "category": "planets",
+    "slug": "begeren",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "bosthirda",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "dromund-fels",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "dromund-ixin",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "dromund-kalakar",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "dromund-tyne",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "jaguada-moon",
+    "links": []
+  },
+  {
+    "category": "planets",
+    "slug": "kalsunor",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "korriz",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "nfolgai",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "planets",
+    "slug": "arkania",
+    "links": []
+  },
+  {
+    "category": "planets",
+    "slug": "korriban-outpost",
     "links": []
   },
   {
@@ -33439,99 +33617,99 @@
         "route": "planet/nathema"
       },
       {
-        "label": "Sith",
-        "value": "Darth Revan",
-        "route": "sith/darth-revan"
+        "label": "World",
+        "value": "Rhelg",
+        "route": "planet/rhelg"
       },
       {
-        "label": "Sith",
-        "value": "Darth Malak",
-        "route": "sith/darth-malak"
+        "label": "World",
+        "value": "Ch'hodos",
+        "route": "planet/ch-hodos"
       },
       {
-        "label": "Sith",
-        "value": "Ludo Kressh",
-        "route": "sith/ludo-kressh"
+        "label": "World",
+        "value": "Krayiss II",
+        "route": "planet/krayiss-ii"
       },
       {
-        "label": "Sith",
-        "value": "Darth Vitiate",
-        "route": "sith/darth-vitiate"
+        "label": "World",
+        "value": "Khar Delba",
+        "route": "planet/khar-delba"
       },
       {
-        "label": "Sith",
-        "value": "Ajunta Pall",
-        "route": "sith/ajunta-pall"
+        "label": "World",
+        "value": "Khar Shian",
+        "route": "planet/khar-shian"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Boba Fett",
-        "route": "bounty-hunters/boba-fett"
+        "label": "World",
+        "value": "Jaguada",
+        "route": "planet/jaguada"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Jango Fett",
-        "route": "bounty-hunters/jango-fett"
+        "label": "World",
+        "value": "Ashas Ree",
+        "route": "planet/ashas-ree"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Cad Bane",
-        "route": "bounty-hunters/cad-bane"
+        "label": "World",
+        "value": "Athiss",
+        "route": "planet/atthiss"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Dengar",
-        "route": "bounty-hunters/dengar"
+        "label": "World",
+        "value": "Begeren",
+        "route": "planet/begeren"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Bossk",
-        "route": "bounty-hunters/bossk"
+        "label": "World",
+        "value": "Bosthirda",
+        "route": "planet/bosthirda"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "IG-88",
-        "route": "bounty-hunters/ig-88"
+        "label": "World",
+        "value": "Dromund Fels",
+        "route": "planet/dromund-fels"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "4-LOM",
-        "route": "bounty-hunters/4-lom"
+        "label": "World",
+        "value": "Dromund Ixin",
+        "route": "planet/dromund-ixin"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Zuckuss",
-        "route": "bounty-hunters/zuckuss"
+        "label": "World",
+        "value": "Dromund Kalakar",
+        "route": "planet/dromund-kalakar"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Aurra Sing",
-        "route": "bounty-hunters/aurra-sing"
+        "label": "World",
+        "value": "Dromund Tyne",
+        "route": "planet/dromund-tyne"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Embo",
-        "route": "bounty-hunters/embo"
+        "label": "World",
+        "value": "Kalsunor",
+        "route": "planet/kalsunor"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Sugi",
-        "route": "bounty-hunters/sugi"
+        "label": "World",
+        "value": "Korriz",
+        "route": "planet/korriz"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Greedo",
-        "route": "bounty-hunters/greedo"
+        "label": "World",
+        "value": "Nfolgai",
+        "route": "planet/nfolgai"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Zam Wesell",
-        "route": "bounty-hunters/zam-wesell"
+        "label": "World",
+        "value": "Thule",
+        "route": "planet/thule"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Fennec Shand",
-        "route": "bounty-hunters/fennec-shand"
+        "label": "World",
+        "value": "Byss",
+        "route": "planet/byss"
       }
     ]
   },

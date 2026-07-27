@@ -286,6 +286,18 @@ PLANET_OVERRIDES: dict[str, str] = {
     "hapes-cluster": "The navigational heart of the Hapes Consortium's ninety-three-world isolationist realm.",
     "kamino-prime": "The storm planet Kamino, homeworld of clone template production for the Grand Army.",
     "rishi-moon": "The tropical Rishi moon housing a Republic listening post above the Rishi Maze approach.",
+    "begeren": "A Sith industrial world of tomb-cities and ore refineries that supplied the Old Sith Empire's war forges.",
+    "bosthirda": "A remote Sith Space world of fortress monasteries used during the Golden Age of the Sith.",
+    "dromund-fels": "A moon in the Dromund system orbiting Dromund Kaas, used for Sith training trials and dark side rituals.",
+    "dromund-ixin": "A storm-wracked moon of the Dromund Kaas system housing Sith academies and exile colonies.",
+    "dromund-kalakar": "Kalakar Six — a volcanic moon in the Dromund system where Sith alchemists forged weapons and relics.",
+    "dromund-tyne": "A mist-shrouded moon of Dromund Kaas used as a retreat for Sith sorcerers and assassin initiates.",
+    "jaguada-moon": "The ash-gray moon of Jaguada, site of Sith beacon towers and invasion fleet staging yards.",
+    "kalsunor": "A barren Sith world of obsidian plains where ancient Dark Lords buried war trophies and holocrons.",
+    "korriz": "A Korriban sister world of red deserts and satellite tomb complexes tied to the Valley of the Dark Lords.",
+    "nfolgai": "A forgotten Sith tomb world of crumbling pyramids and sealed mausoleums from the Old Sith Wars.",
+    "arkania": "An icy Colonies world famed for genetic laboratories and Arkanian Offshoot communities with Sith-era ties.",
+    "korriban-outpost": "An orbital logistics station serving Korriban's academy complexes and tomb excavations.",
 }
 
 
