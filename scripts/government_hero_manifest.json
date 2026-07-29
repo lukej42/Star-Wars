@@ -46,5 +46,35 @@
     "name": "Jedi High Council",
     "prompt": "Restored Jedi High Council chamber in a new temple, circular window with golden sunset light, Jedi Masters in robes seated in the council ring, serene yet vigilant atmosphere of the New Jedi Order. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
     "output": "wwwroot/images/governments/jedi-council-scene.webp"
+  },
+  {
+    "slug": "separatist-parliament",
+    "name": "Separatist Parliament",
+    "prompt": "Separatist Parliament chamber on Raxus Secundus, circular assembly hall with alien senators and corporate delegates in repulsorpods, teal and bronze Separatist aesthetic, war debate atmosphere overlooking a stormy sky. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/separatist-parliament-scene.webp"
+  },
+  {
+    "slug": "hutt-grand-council",
+    "name": "Hutt Grand Council",
+    "prompt": "Hutt Grand Council chamber on Nal Hutta, massive Hutt crime lords on ornate daises in a humid palace hall, golden incense smoke, alien guards and slaves, decadent criminal syndicate power. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/hutt-grand-council-scene.webp"
+  },
+  {
+    "slug": "resistance-high-command",
+    "name": "Resistance High Command",
+    "prompt": "Resistance High Command briefing room on D'Qar, Leia Organa and senior officers around a tactical holotable with star maps, orange Resistance insignia lighting, scrappy rebel fleet coordination against the First Order. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/resistance-high-command-scene.webp"
+  },
+  {
+    "slug": "mandalorian-clans",
+    "name": "Mandalorian Clans",
+    "prompt": "Mandalorian clan council on Mandalore, armored warriors from rival clans gathered in a domed throne hall beneath murals of the Mythosaur, Darksaber light casting blue reflections on beskar armor, warrior culture and political tension. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/mandalorian-clans-scene.webp"
+  },
+  {
+    "slug": "trade-federation-directorate",
+    "name": "Trade Federation Directorate",
+    "prompt": "Trade Federation Directorate command bridge aboard a Lucrehulk battleship, Neimoidian viceroys in regal robes on elevated thrones overlooking droid control pits and trade route holomaps, purple and gold corporate militarism. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/trade-federation-directorate-scene.webp"
   }
 ]

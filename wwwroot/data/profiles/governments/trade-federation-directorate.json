@@ -1,0 +1,25 @@
+{
+  "overview": "The Neimoidian corporate directorate that governed Trade Federation commerce, blockades, and private droid armies from Lucrehulk command ships.",
+  "history": "Trade Federation Directorate governed galactic affairs during the Trade Federation. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "Trade Federation Directorate shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "Trade Federation Directorate established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "Trade Federation Directorate",
+    "Trade Federation"
+  ],
+  "timeline": [
+    {
+      "era": "Trade Federation",
+      "event": "Trade Federation Directorate enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/trade-federation-directorate-scene.webp",
+      "caption": "Cinematic illustration — Trade Federation Directorate"
+    }
+  ]
+}

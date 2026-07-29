@@ -11,7 +11,7 @@ SCRIPTS = Path(__file__).resolve().parent
 if str(SCRIPTS) not in sys.path:
     sys.path.insert(0, str(SCRIPTS))
 
-from faction_profile_enrichments import FACTION_PROFILES
+from faction_profile_enrichments import FACTION_GOVERNANCE, FACTION_PROFILES
 from parse_csharp_data import load_factions
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -34,7 +34,8 @@ def gallery_for(slug: str) -> list[dict[str, str]]:
 def build_profile(entry: dict[str, str]) -> dict:
     slug = entry["slug"]
     enriched = FACTION_PROFILES.get(slug, {})
-    return {
+    governance = FACTION_GOVERNANCE.get(slug, {})
+    profile = {
         "overview": enriched.get("overview", entry.get("description", "")),
         "history": enriched.get("history", ""),
         "significance": enriched.get("significance", ""),
@@ -43,6 +44,11 @@ def build_profile(entry: dict[str, str]) -> dict:
         "timeline": enriched.get("timeline", []),
         "gallery": gallery_for(slug),
     }
+    if "headOfGovernment" in governance:
+        profile["headOfGovernment"] = governance["headOfGovernment"]
+    if "headOfState" in governance:
+        profile["headOfState"] = governance["headOfState"]
+    return profile
 
 
 def main() -> None:

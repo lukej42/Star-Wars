@@ -53,5 +53,13 @@
       "path": "/images/factions/republic.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Galactic Senate",
+    "route": "governments/galactic-senate"
+  },
+  "headOfState": {
+    "value": "Supreme Chancellor",
+    "route": "governments/galactic-senate"
+  }
 }

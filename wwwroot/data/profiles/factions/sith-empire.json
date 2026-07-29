@@ -49,5 +49,15 @@
       "path": "/images/factions/sith-empire.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Dark Council",
+    "route": "governments/dark-council"
+  },
+  "headOfState": {
+    "value": "Sith Emperor",
+    "route": "sith/darth-vitiate",
+    "emphasized": true,
+    "emphasisTone": "sith"
+  }
 }

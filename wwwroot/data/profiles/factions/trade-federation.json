@@ -48,5 +48,13 @@
       "path": "/images/factions/trade-federation.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Trade Federation Directorate",
+    "route": "governments/trade-federation-directorate"
+  },
+  "headOfState": {
+    "value": "Viceroy Nute Gunray",
+    "route": "characters/nute-gunray"
+  }
 }

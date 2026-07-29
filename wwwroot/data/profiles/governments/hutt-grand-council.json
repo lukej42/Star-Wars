@@ -1,0 +1,25 @@
+{
+  "overview": "The council of Hutt kajidic elders that arbitrates clan disputes, trade routes, and syndicate policy across Nal Hutta and the wider Cartel.",
+  "history": "Hutt Grand Council governed galactic affairs during the Hutt Cartel. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "Hutt Grand Council shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "Hutt Grand Council established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "Hutt Grand Council",
+    "Hutt Cartel"
+  ],
+  "timeline": [
+    {
+      "era": "Hutt Cartel",
+      "event": "Hutt Grand Council enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/hutt-grand-council-scene.webp",
+      "caption": "Cinematic illustration — Hutt Grand Council"
+    }
+  ]
+}

@@ -48,5 +48,13 @@
       "path": "/images/factions/hutts.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Hutt Grand Council",
+    "route": "governments/hutt-grand-council"
+  },
+  "headOfState": {
+    "value": "Jabba the Hutt",
+    "route": "characters/jabba-the-hutt"
+  }
 }

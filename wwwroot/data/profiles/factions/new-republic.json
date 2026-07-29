@@ -49,5 +49,13 @@
       "path": "/images/factions/new-republic.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "New Republic Senate",
+    "route": "governments/new-republic-senate"
+  },
+  "headOfState": {
+    "value": "Chancellor of the New Republic",
+    "route": "characters/mon-mothma"
+  }
 }

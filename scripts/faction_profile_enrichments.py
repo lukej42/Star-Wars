@@ -3,6 +3,85 @@
 
 from __future__ import annotations
 
+
+def GL(
+    value: str,
+    route: str = "",
+    *,
+    emphasized: bool = False,
+    emphasis_tone: str = "",
+) -> dict[str, str | bool]:
+    item: dict[str, str | bool] = {"value": value, "route": route}
+    if emphasized:
+        item["emphasized"] = True
+    if emphasis_tone:
+        item["emphasisTone"] = emphasis_tone
+    return item
+
+
+FACTION_GOVERNANCE: dict[str, dict[str, dict[str, str | bool]]] = {
+    "republic": {
+        "headOfGovernment": GL("Galactic Senate", "governments/galactic-senate"),
+        "headOfState": GL("Supreme Chancellor", "governments/galactic-senate"),
+    },
+    "confederacy": {
+        "headOfGovernment": GL("Separatist Parliament", "governments/separatist-parliament"),
+        "headOfState": GL(
+            "Count Dooku",
+            "sith/darth-tyranus",
+            emphasized=True,
+            emphasis_tone="sith",
+        ),
+    },
+    "empire": {
+        "headOfGovernment": GL("Imperial Ruling Council", "governments/imperial-ruling-council"),
+        "headOfState": GL(
+            "Galactic Emperor",
+            "sith/darth-sidious",
+            emphasized=True,
+            emphasis_tone="sith",
+        ),
+    },
+    "rebel-alliance": {
+        "headOfGovernment": GL("Alliance Civil Government", "governments/alliance-civil-government"),
+        "headOfState": GL("Chancellor Mon Mothma", "characters/mon-mothma"),
+    },
+    "new-republic": {
+        "headOfGovernment": GL("New Republic Senate", "governments/new-republic-senate"),
+        "headOfState": GL("Chancellor of the New Republic", "characters/mon-mothma"),
+    },
+    "hutts": {
+        "headOfGovernment": GL("Hutt Grand Council", "governments/hutt-grand-council"),
+        "headOfState": GL("Jabba the Hutt", "characters/jabba-the-hutt"),
+    },
+    "sith-empire": {
+        "headOfGovernment": GL("Dark Council", "governments/dark-council"),
+        "headOfState": GL(
+            "Sith Emperor",
+            "sith/darth-vitiate",
+            emphasized=True,
+            emphasis_tone="sith",
+        ),
+    },
+    "first-order": {
+        "headOfGovernment": GL("First Order Supreme Council", "governments/first-order-supreme-council"),
+        "headOfState": GL("Supreme Leader", "governments/first-order-supreme-council"),
+    },
+    "resistance": {
+        "headOfGovernment": GL("Resistance High Command", "governments/resistance-high-command"),
+        "headOfState": GL("General Leia Organa", "characters/leia-organa"),
+    },
+    "mandalorians": {
+        "headOfGovernment": GL("Mandalorian Clans", "governments/mandalorian-clans"),
+        "headOfState": GL("Mand'alor", "characters/bo-katan-kryze"),
+    },
+    "trade-federation": {
+        "headOfGovernment": GL("Trade Federation Directorate", "governments/trade-federation-directorate"),
+        "headOfState": GL("Viceroy Nute Gunray", "characters/nute-gunray"),
+    },
+}
+
+
 FACTION_PROFILES: dict[str, dict] = {
     "republic": {
         "overview": (

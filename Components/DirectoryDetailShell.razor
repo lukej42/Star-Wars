@@ -25,7 +25,7 @@
             {
                 <p class="directory-detail-meta-line">@MetaLine</p>
             }
-            @if (Government is not null || HeadOfState is not null)
+            @if (Government is not null || HeadOfGovernment is not null || HeadOfState is not null || !string.IsNullOrWhiteSpace(NumberOfSystems))
             {
                 <dl class="directory-detail-governance">
                     @if (Government is not null)
@@ -35,11 +35,25 @@
                             <dd>@RenderGovernanceValue(Government)</dd>
                         </div>
                     }
+                    @if (HeadOfGovernment is not null)
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Head of Government</dt>
+                            <dd>@RenderGovernanceValue(HeadOfGovernment)</dd>
+                        </div>
+                    }
                     @if (HeadOfState is not null)
                     {
                         <div class="directory-detail-governance-row">
                             <dt>Head of State</dt>
                             <dd>@RenderGovernanceValue(HeadOfState)</dd>
+                        </div>
+                    }
+                    @if (!string.IsNullOrWhiteSpace(NumberOfSystems))
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Number of Systems</dt>
+                            <dd>@NumberOfSystems</dd>
                         </div>
                     }
                 </dl>
@@ -306,7 +320,13 @@
     public ProfileLinkItem? Government { get; set; }
 
     [Parameter]
+    public ProfileLinkItem? HeadOfGovernment { get; set; }
+
+    [Parameter]
     public ProfileLinkItem? HeadOfState { get; set; }
+
+    [Parameter]
+    public string NumberOfSystems { get; set; } = string.Empty;
 
     [Parameter]
     public string AccentColor { get; set; } = "#7eb8ff";

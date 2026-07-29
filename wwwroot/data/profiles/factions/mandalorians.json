@@ -50,5 +50,13 @@
       "path": "/images/factions/mandalorians.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Mandalorian Clans",
+    "route": "governments/mandalorian-clans"
+  },
+  "headOfState": {
+    "value": "Mand'alor",
+    "route": "characters/bo-katan-kryze"
+  }
 }

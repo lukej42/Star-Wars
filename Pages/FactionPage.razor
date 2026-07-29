@@ -33,6 +33,9 @@ else
                           Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
                           Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
                           Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          HeadOfGovernment="@profile?.HeadOfGovernment"
+                          HeadOfState="@profile?.HeadOfState"
+                          NumberOfSystems="@faction.NumberOfSystems"
                           AccentColor="@faction.Color" />
     <EntityCrossLinks Links="@crossLinks" />
 }

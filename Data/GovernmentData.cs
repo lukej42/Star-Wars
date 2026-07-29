@@ -78,6 +78,51 @@ public static class GovernmentData
             Color = "#38bdf8",
             Description = "The governing circle of the restored Jedi Order, guiding training and galactic stewardship after the fall of the Sith.",
         },
+        new()
+        {
+            Name = "Separatist Parliament",
+            Slug = "separatist-parliament",
+            Route = "governments/separatist-parliament",
+            Era = "Confederacy of Independent Systems",
+            Color = "#3ecfb2",
+            Description = "The legislative assembly of the Confederacy of Independent Systems, seated on Raxus Secundus and coordinating secessionist worlds and corporate sponsors.",
+        },
+        new()
+        {
+            Name = "Hutt Grand Council",
+            Slug = "hutt-grand-council",
+            Route = "governments/hutt-grand-council",
+            Era = "Hutt Cartel",
+            Color = "#84cc16",
+            Description = "The council of Hutt kajidic elders that arbitrates clan disputes, trade routes, and syndicate policy across Nal Hutta and the wider Cartel.",
+        },
+        new()
+        {
+            Name = "Resistance High Command",
+            Slug = "resistance-high-command",
+            Route = "governments/resistance-high-command",
+            Era = "Resistance",
+            Color = "#f97316",
+            Description = "The military-political leadership of the Resistance, coordinating cells, fleet assets, and intelligence operations against the First Order without Senate backing.",
+        },
+        new()
+        {
+            Name = "Mandalorian Clans",
+            Slug = "mandalorian-clans",
+            Route = "governments/mandalorian-clans",
+            Era = "Mandalorian culture",
+            Color = "#64748b",
+            Description = "The decentralized council of Mandalorian warrior clans united by the Creed, the Darksaber, and the office of Mand'alor.",
+        },
+        new()
+        {
+            Name = "Trade Federation Directorate",
+            Slug = "trade-federation-directorate",
+            Route = "governments/trade-federation-directorate",
+            Era = "Trade Federation",
+            Color = "#7c3aed",
+            Description = "The Neimoidian corporate directorate that governed Trade Federation commerce, blockades, and private droid armies from Lucrehulk command ships.",
+        },
     ];
 
     public static Government? GetBySlug(string slug) =>

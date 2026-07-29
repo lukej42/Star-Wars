@@ -55,5 +55,15 @@
       "path": "/images/factions/empire.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Imperial Ruling Council",
+    "route": "governments/imperial-ruling-council"
+  },
+  "headOfState": {
+    "value": "Galactic Emperor",
+    "route": "sith/darth-sidious",
+    "emphasized": true,
+    "emphasisTone": "sith"
+  }
 }

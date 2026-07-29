@@ -1,0 +1,25 @@
+{
+  "overview": "The legislative assembly of the Confederacy of Independent Systems, seated on Raxus Secundus and coordinating secessionist worlds and corporate sponsors.",
+  "history": "Separatist Parliament governed galactic affairs during the Confederacy of Independent Systems. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "Separatist Parliament shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "Separatist Parliament established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "Separatist Parliament",
+    "Confederacy of Independent Systems"
+  ],
+  "timeline": [
+    {
+      "era": "Confederacy of Independent Systems",
+      "event": "Separatist Parliament enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/separatist-parliament-scene.webp",
+      "caption": "Cinematic illustration — Separatist Parliament"
+    }
+  ]
+}

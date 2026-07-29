@@ -1,0 +1,25 @@
+{
+  "overview": "The decentralized council of Mandalorian warrior clans united by the Creed, the Darksaber, and the office of Mand'alor.",
+  "history": "Mandalorian Clans governed galactic affairs during the Mandalorian culture. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "Mandalorian Clans shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "Mandalorian Clans established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "Mandalorian Clans",
+    "Mandalorian culture"
+  ],
+  "timeline": [
+    {
+      "era": "Mandalorian culture",
+      "event": "Mandalorian Clans enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/mandalorian-clans-scene.webp",
+      "caption": "Cinematic illustration — Mandalorian Clans"
+    }
+  ]
+}

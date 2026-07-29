@@ -51,5 +51,15 @@
       "path": "/images/factions/confederacy.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Separatist Parliament",
+    "route": "governments/separatist-parliament"
+  },
+  "headOfState": {
+    "value": "Count Dooku",
+    "route": "sith/darth-tyranus",
+    "emphasized": true,
+    "emphasisTone": "sith"
+  }
 }

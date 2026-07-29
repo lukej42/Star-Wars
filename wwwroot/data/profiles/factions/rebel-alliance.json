@@ -50,5 +50,13 @@
       "path": "/images/factions/rebel-alliance.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Alliance Civil Government",
+    "route": "governments/alliance-civil-government"
+  },
+  "headOfState": {
+    "value": "Chancellor Mon Mothma",
+    "route": "characters/mon-mothma"
+  }
 }

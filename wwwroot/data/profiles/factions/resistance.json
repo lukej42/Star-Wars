@@ -49,5 +49,13 @@
       "path": "/images/factions/resistance.svg",
       "caption": "Faction emblem"
     }
-  ]
+  ],
+  "headOfGovernment": {
+    "value": "Resistance High Command",
+    "route": "governments/resistance-high-command"
+  },
+  "headOfState": {
+    "value": "General Leia Organa",
+    "route": "characters/leia-organa"
+  }
 }
