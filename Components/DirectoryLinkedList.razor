@@ -2,18 +2,41 @@
 {
     <section class="directory-detail-section">
         <h2>@Heading</h2>
-        <ul class="directory-detail-list directory-detail-linked-list">
-            @foreach (var item in Items)
-            {
-                <li>
-                    <a href="@item.Route">@item.Value</a>
-                    @if (!string.IsNullOrWhiteSpace(item.Label))
-                    {
-                        <span class="directory-detail-link-meta">@item.Label</span>
-                    }
-                </li>
-            }
-        </ul>
+        @if (ItemsPerColumn > 0 && Items.Count > ItemsPerColumn)
+        {
+            <div class="directory-detail-linked-columns">
+                @foreach (var column in Columns)
+                {
+                    <ul class="directory-detail-list directory-detail-linked-list">
+                        @foreach (var item in column)
+                        {
+                            <li>
+                                <a href="@item.Route" class="@LinkClass(item)">@item.Value</a>
+                                @if (!string.IsNullOrWhiteSpace(item.Label))
+                                {
+                                    <span class="directory-detail-link-meta @MetaClass(item)">@item.Label</span>
+                                }
+                            </li>
+                        }
+                    </ul>
+                }
+            </div>
+        }
+        else
+        {
+            <ul class="directory-detail-list directory-detail-linked-list">
+                @foreach (var item in Items)
+                {
+                    <li>
+                        <a href="@item.Route" class="@LinkClass(item)">@item.Value</a>
+                        @if (!string.IsNullOrWhiteSpace(item.Label))
+                        {
+                            <span class="directory-detail-link-meta @MetaClass(item)">@item.Label</span>
+                        }
+                    </li>
+                }
+            </ul>
+        }
     </section>
 }
 
@@ -23,4 +46,34 @@
 
     [Parameter]
     public IReadOnlyList<ProfileLinkItem> Items { get; set; } = Array.Empty<ProfileLinkItem>();
+
+    [Parameter]
+    public int ItemsPerColumn { get; set; }
+
+    private IEnumerable<IReadOnlyList<ProfileLinkItem>> Columns =>
+        Items.Chunk(ItemsPerColumn);
+
+    private static string? LinkClass(ProfileLinkItem item)
+    {
+        if (!item.Emphasized)
+        {
+            return null;
+        }
+
+        return item.EmphasisTone.Equals("jedi", StringComparison.OrdinalIgnoreCase)
+            ? "directory-detail-link-emphasized-jedi"
+            : "directory-detail-link-emphasized";
+    }
+
+    private static string? MetaClass(ProfileLinkItem item)
+    {
+        if (!item.Emphasized)
+        {
+            return null;
+        }
+
+        return item.EmphasisTone.Equals("jedi", StringComparison.OrdinalIgnoreCase)
+            ? "directory-detail-link-meta-emphasized-jedi"
+            : "directory-detail-link-meta-emphasized";
+    }
 }

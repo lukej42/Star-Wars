@@ -41,6 +41,7 @@ ERAS = [
 
 
 from ship_profile_enrichments import SHIP_ENRICHMENTS
+from kotor_directory_enrichments import KOTOR_ENRICHMENTS
 ENRICHMENTS: dict[str, dict] = {
     "obi-wan-kenobi": {
         "overview": (
@@ -1020,6 +1021,8 @@ ENRICHMENTS: dict[str, dict] = {
         ],
     },
 }
+
+ENRICHMENTS.update(KOTOR_ENRICHMENTS)
 
 
 def starfield() -> str:

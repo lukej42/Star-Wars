@@ -1,0 +1,42 @@
+{
+  "overview": "Jolee Bindo was a hermit Jedi who abandoned the Order after tragedy on Kashyyyk, yet returned to the galaxy's wars with sardonic wisdom and unorthodox light-side philosophy. His exile in the Shadowlands made him a living critique of Jedi dogma—and an indispensable ally during Revan's quest.",
+  "history": "Once a conventional Jedi, Jolee left the Order when rigid doctrine failed to prevent personal loss. He settled in Kashyyyk's Shadowlands, studying the Force outside temple politics until Revan's crew required a guide through the ancient forest.\n\nJolee rejoined the fight against Malak's Sith Empire aboard the Ebon Hawk, offering pragmatic counsel on love, attachment, and the gray paths between light and dark. His Mind Trick mastery and battlefield experience proved that exile had sharpened rather than diminished his Jedi skills.\n\nAfter the Star Forge's destruction, Jolee vanished from major chronicles, but his recorded holocrons influenced later masters who questioned the Council's absolutism.",
+  "significance": "Jolee represents Jedi who serve the light without institutional loyalty—a precursor to figures like Ahsoka Tano and Luke Skywalker's later Order.\n\nHis Kashyyyk exile connects the Wookiee homeworld to Old Republic Jedi history beyond the Clone Wars massacres.\n\nKOTOR II's Kreia often echoes debates Jolee began: whether the Jedi Code protects the galaxy or merely comforts the Council.",
+  "notableEvents": [
+    "Left the Jedi Order after personal tragedy on Kashyyyk",
+    "Lived as a hermit in the Kashyyyk Shadowlands for decades",
+    "Joined Revan's crew against Darth Malak's Sith Empire",
+    "Advised the Republic assault on the Star Forge",
+    "Recorded unorthodox teachings on attachment and the Force"
+  ],
+  "affiliations": [
+    "Jedi Order (former)",
+    "Galactic Republic",
+    "Ebon Hawk crew",
+    "Kashyyyk Shadowlands exiles"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Served as a Jedi before leaving the Order"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Exiled himself to Kashyyyk's Shadowlands"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Guided Revan through Kashyyyk during the Jedi Civil War"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Fought in the Battle of Rakata Prime"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/jolee-bindo-scene.webp",
+      "caption": "Cinematic illustration — Jolee Bindo"
+    }
+  ]
+}

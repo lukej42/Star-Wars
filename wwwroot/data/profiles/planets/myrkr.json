@@ -1,32 +1,48 @@
 {
-  "overview": "A forest world of ysalamir Force-null zones, used as a base by smugglers and later Imperial factions.",
-  "history": "Myrkr appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Myrkr shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Myrkr remains a reference point in Wild Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Myrkr is remembered across the galaxy as a wild space whose story intersects with pivotal eras of Star Wars history. A forest world of ysalamir Force-null zones, used as a base by smugglers and later Imperial factions. Scholars of the Wild traditions cite Myrkr when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Myrkr within the broader tapestry of the Wild Space, long before the conflicts that would define modern galactic politics. A forest world of ysalamir Force-null zones, used as a base by smugglers and later Imperial factions. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Myrkr was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Myrkr's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Myrkr serves as a lens for understanding the wild space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Myrkr embodies the ideals and contradictions associated with the wild space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Myrkr alive in holodramas, academy lectures, and pilgrim routes. The accent color #2a6a3a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Myrkr marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Wild Space",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Myrkr within galactic records",
+    "Played a key role during the First Order in Wild Space",
+    "Survived or shaped a major battle linked to Myrkr's reputation",
+    "Formed alliances that reflected the priorities of the wild space",
+    "Confronted rivals who challenged Myrkr's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Myrkr's choices"
   ],
   "affiliations": [
-    "Wild Space"
+    "Wild Space",
+    "Allies of Myrkr",
+    "Galactic historians' archives",
+    "Wild networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "New Republic",
+      "event": "Myrkr enters historical record as wild space"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a forest world of ysalamir force-null zones, used as a base by smugglers and later imperial factions"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Myrkr"
+      "event": "Navigates crisis as institutions around Myrkr fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Myrkr increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Myrkr"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Myrkr status"
+      "event": "Commemorated in archives celebrating Wild Space"
     }
   ],
   "gallery": [

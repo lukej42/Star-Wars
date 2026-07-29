@@ -1,32 +1,48 @@
 {
-  "overview": "A dark side world of the Gorog assassin cult within the Killik hive mind expansions.",
-  "history": "Gorog appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Gorog shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Gorog remains a reference point in Unknown Regions surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Gorog is remembered across the galaxy as a unknown regions whose story intersects with pivotal eras of Star Wars history. A dark side world of the Gorog assassin cult within the Killik hive mind expansions. Scholars of the Unknown traditions cite Gorog when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Gorog within the broader tapestry of the Unknown Regions, long before the conflicts that would define modern galactic politics. A dark side world of the Gorog assassin cult within the Killik hive mind expansions. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Gorog was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Gorog's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Gorog serves as a lens for understanding the unknown regions and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Gorog embodies the ideals and contradictions associated with the unknown regions. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Gorog alive in holodramas, academy lectures, and pilgrim routes. The accent color #404838 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Gorog marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Unknown Regions",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Gorog within galactic records",
+    "Played a key role during the Imperial Era in Unknown Regions",
+    "Survived or shaped a major battle linked to Gorog's reputation",
+    "Formed alliances that reflected the priorities of the unknown regions",
+    "Confronted rivals who challenged Gorog's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Gorog's choices"
   ],
   "affiliations": [
-    "Unknown Regions"
+    "Unknown Regions",
+    "Allies of Gorog",
+    "Galactic historians' archives",
+    "Unknown networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Gorog"
-    },
-    {
       "era": "Clone Wars",
-      "event": "Military interest in Gorog increases"
+      "event": "Gorog enters historical record as unknown regions"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Gorog"
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a dark side world of the gorog assassin cult within the killik hive mind expansions"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Gorog status"
+      "event": "Navigates crisis as institutions around Gorog fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Unknown Regions"
     }
   ],
   "gallery": [

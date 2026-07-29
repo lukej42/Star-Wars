@@ -25,6 +25,25 @@
             {
                 <p class="directory-detail-meta-line">@MetaLine</p>
             }
+            @if (Government is not null || HeadOfState is not null)
+            {
+                <dl class="directory-detail-governance">
+                    @if (Government is not null)
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Government</dt>
+                            <dd>@RenderGovernanceValue(Government)</dd>
+                        </div>
+                    }
+                    @if (HeadOfState is not null)
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Head of State</dt>
+                            <dd>@RenderGovernanceValue(HeadOfState)</dd>
+                        </div>
+                    }
+                </dl>
+            }
             @if (!string.IsNullOrWhiteSpace(Quote))
             {
                 <blockquote class="directory-detail-quote">"@Quote"</blockquote>
@@ -87,12 +106,12 @@
 
     @if (MajorCharacters.Count > 0)
     {
-        <DirectoryLinkedList Heading="Major characters" Items="@MajorCharacters" />
+        <DirectoryLinkedList Heading="Major characters" Items="@MajorCharacters" ItemsPerColumn="4" />
     }
 
     @if (Planets.Count > 0)
     {
-        <DirectoryLinkedList Heading="Planets" Items="@Planets" />
+        <DirectoryLinkedList Heading="Planets" Items="@Planets" ItemsPerColumn="4" />
     }
 
     @if (Films.Count > 0)
@@ -284,6 +303,12 @@
     public IReadOnlyList<ProfileImage> Gallery { get; set; } = Array.Empty<ProfileImage>();
 
     [Parameter]
+    public ProfileLinkItem? Government { get; set; }
+
+    [Parameter]
+    public ProfileLinkItem? HeadOfState { get; set; }
+
+    [Parameter]
     public string AccentColor { get; set; } = "#7eb8ff";
 
     [Parameter]
@@ -291,4 +316,31 @@
 
     [Parameter]
     public RenderFragment? ChildContent { get; set; }
+
+    private RenderFragment RenderGovernanceValue(ProfileLinkItem item) => builder =>
+    {
+        if (!string.IsNullOrWhiteSpace(item.Route))
+        {
+            builder.OpenElement(0, "a");
+            builder.AddAttribute(1, "href", item.Route);
+            builder.AddAttribute(2, "class", GovernanceLinkClass(item));
+            builder.AddContent(3, item.Value);
+            builder.CloseElement();
+            return;
+        }
+
+        builder.AddContent(4, item.Value);
+    };
+
+    private static string? GovernanceLinkClass(ProfileLinkItem item)
+    {
+        if (!item.Emphasized)
+        {
+            return null;
+        }
+
+        return item.EmphasisTone.Equals("jedi", StringComparison.OrdinalIgnoreCase)
+            ? "directory-detail-governance-emphasized-jedi"
+            : "directory-detail-governance-emphasized";
+    }
 }

@@ -1,32 +1,48 @@
 {
-  "overview": "A binary-star system world of dense jungles and Force anomalies tied to Sith experimentation.",
-  "history": "Cularin appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Cularin shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Cularin remains a reference point in Cularin System surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Cularin is remembered across the galaxy as a cularin system whose story intersects with pivotal eras of Star Wars history. A binary-star system world of dense jungles and Force anomalies tied to Sith experimentation. Scholars of the Cularin traditions cite Cularin when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Cularin within the broader tapestry of the Cularin System, long before the conflicts that would define modern galactic politics. A binary-star system world of dense jungles and Force anomalies tied to Sith experimentation. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Cularin was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Cularin's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Cularin serves as a lens for understanding the cularin system and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Cularin embodies the ideals and contradictions associated with the cularin system. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Cularin alive in holodramas, academy lectures, and pilgrim routes. The accent color #3a7a4a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Cularin marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Cularin System",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Cularin within galactic records",
+    "Played a key role during the Old Republic in Cularin System",
+    "Survived or shaped a major battle linked to Cularin's reputation",
+    "Formed alliances that reflected the priorities of the cularin system",
+    "Confronted rivals who challenged Cularin's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Imperial Era",
+    "Inspired later movements that reinterpreted Cularin's choices"
   ],
   "affiliations": [
-    "Cularin System"
+    "Cularin System",
+    "Allies of Cularin",
+    "Galactic historians' archives",
+    "Cularin networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "Ancient Era",
+      "event": "Cularin enters historical record as cularin system"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Cularin"
+      "event": "Participates in a pivotal campaign during the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Becomes widely known for actions tied to a binary-star system world of dense jungles and force anomalies tied to sith experimentation"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Cularin increases"
+      "event": "Navigates crisis as institutions around Cularin fracture"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Cularin"
+      "event": "Legacy debated by scholars of the Imperial Era"
     },
     {
-      "era": "New Republic",
-      "event": "Post-war surveys update Cularin status"
+      "era": "Galactic Civil War",
+      "event": "Commemorated in archives celebrating Cularin System"
     }
   ],
   "gallery": [

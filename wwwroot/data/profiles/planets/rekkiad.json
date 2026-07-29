@@ -1,32 +1,48 @@
 {
-  "overview": "An ice world where Sith Emperor Vitiate's mask was hidden among tribal Mandalorian graves.",
-  "history": "Rekkiad appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Rekkiad shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Rekkiad remains a reference point in Unknown Regions surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Rekkiad is remembered across the galaxy as a unknown regions whose story intersects with pivotal eras of Star Wars history. An ice world where Sith Emperor Vitiate's mask was hidden among tribal Mandalorian graves. Scholars of the Unknown traditions cite Rekkiad when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Rekkiad within the broader tapestry of the Unknown Regions, long before the conflicts that would define modern galactic politics. An ice world where Sith Emperor Vitiate's mask was hidden among tribal Mandalorian graves. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Rekkiad was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Rekkiad's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Rekkiad serves as a lens for understanding the unknown regions and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Rekkiad embodies the ideals and contradictions associated with the unknown regions. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Rekkiad alive in holodramas, academy lectures, and pilgrim routes. The accent color #a0c0d0 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Rekkiad marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Unknown Regions",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Rekkiad within galactic records",
+    "Played a key role during the New Republic in Unknown Regions",
+    "Survived or shaped a major battle linked to Rekkiad's reputation",
+    "Formed alliances that reflected the priorities of the unknown regions",
+    "Confronted rivals who challenged Rekkiad's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Rekkiad's choices"
   ],
   "affiliations": [
-    "Unknown Regions"
+    "Unknown Regions",
+    "Allies of Rekkiad",
+    "Galactic historians' archives",
+    "Unknown networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Rekkiad"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Military interest in Rekkiad increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Rekkiad"
+      "era": "Galactic Civil War",
+      "event": "Rekkiad enters historical record as unknown regions"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Rekkiad status"
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to an ice world where sith emperor vitiate's mask was hidden among tribal mandalorian graves"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Rekkiad fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Unknown Regions"
     }
   ],
   "gallery": [

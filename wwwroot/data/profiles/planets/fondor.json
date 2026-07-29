@@ -1,32 +1,48 @@
 {
-  "overview": "A Core engineering world of massive orbital shipyards and supercarrier construction docks.",
-  "history": "Fondor appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Fondor shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Fondor remains a reference point in Core Worlds surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Fondor is remembered across the galaxy as a core worlds whose story intersects with pivotal eras of Star Wars history. A Core engineering world of massive orbital shipyards and supercarrier construction docks. Scholars of the Core traditions cite Fondor when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Fondor within the broader tapestry of the Core Worlds, long before the conflicts that would define modern galactic politics. A Core engineering world of massive orbital shipyards and supercarrier construction docks. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Fondor was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Fondor's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Fondor serves as a lens for understanding the core worlds and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Fondor embodies the ideals and contradictions associated with the core worlds. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Fondor alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a7a5a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Fondor marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Core Worlds",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Fondor within galactic records",
+    "Played a key role during the Imperial Era in Core Worlds",
+    "Survived or shaped a major battle linked to Fondor's reputation",
+    "Formed alliances that reflected the priorities of the core worlds",
+    "Confronted rivals who challenged Fondor's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Fondor's choices"
   ],
   "affiliations": [
-    "Core Worlds"
+    "Core Worlds",
+    "Allies of Fondor",
+    "Galactic historians' archives",
+    "Core networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Fondor"
-    },
-    {
       "era": "Clone Wars",
-      "event": "Military interest in Fondor increases"
+      "event": "Fondor enters historical record as core worlds"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Fondor"
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a core engineering world of massive orbital shipyards and supercarrier construction docks"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Fondor status"
+      "event": "Navigates crisis as institutions around Fondor fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Core Worlds"
     }
   ],
   "gallery": [

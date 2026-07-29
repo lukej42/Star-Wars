@@ -14,6 +14,7 @@ from chronicle_entity_links import (
     match_chronicle_slugs,
 )
 from entity_associations import factions_for_entity, inference_text, is_generic_profile
+from related_archive_overrides import RELATED_ARCHIVE_OVERRIDES
 from parse_csharp_data import (
     all_directory_entries,
     load_characters,
@@ -25,6 +26,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "Data"
 PROFILES = ROOT / "wwwroot" / "data" / "profiles"
 MAX_LINKS = 24
+CHRONICLE_MAX_LINKS = 32
 
 ROUTE_PATTERN = re.compile(r'Route\s*=\s*"([^"]+)"')
 BATTLE_CALL = re.compile(r'Battle\("([^"]+)", "([^"]+)", "([^"]+)", "([^"]+)", "([^"]+)"\)')
@@ -910,6 +912,9 @@ class CrossLinkIndexes:
             ship_era=ship_era,
         )
 
+        for label, value, route in RELATED_ARCHIVE_OVERRIDES.get((category, slug), []):
+            self.add_link(links, seen, label, value, route)
+
         return finalize_links(links)
 
     def build_all_entries(self) -> list[dict]:
@@ -1126,7 +1131,7 @@ class CrossLinkIndexes:
             seen: set[str] = set()
             for label, value, route in era_links:
                 self.add_link(links, seen, label, value, route)
-            entries.append({"category": "chronicles", "slug": slug, "links": links[:MAX_LINKS]})
+            entries.append({"category": "chronicles", "slug": slug, "links": links[:CHRONICLE_MAX_LINKS]})
 
         return entries
 

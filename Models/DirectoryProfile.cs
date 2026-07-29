@@ -19,6 +19,8 @@ public sealed class DirectoryProfile
     public IReadOnlyList<string> Affiliations { get; init; } = [];
     public IReadOnlyList<ProfileTimelineEntry> Timeline { get; init; } = [];
     public IReadOnlyList<ProfileImage> Gallery { get; init; } = [];
+    public ProfileLinkItem? Government { get; init; }
+    public ProfileLinkItem? HeadOfState { get; init; }
 }
 
 public sealed class ProfileTimelineEntry

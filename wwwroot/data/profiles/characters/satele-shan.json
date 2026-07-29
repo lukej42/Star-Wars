@@ -1,0 +1,43 @@
+{
+  "overview": "Satele Shan was a Jedi Battle Meditation master and eventual Grand Master who led the Galactic Republic against the resurgent Sith Empire during the Great Galactic War. Descended from Bastila Shan and Revan's legacy, she united Jedi and military leaders when Coruscant itself fell to Sith invasion.",
+  "history": "Born into the Shan lineage centuries after the Jedi Civil War, Satele trained on Tython and Coruscant as the Old Republic rebuilt from Darth Bane's long shadow. Her Battle Meditation turned desperate fleet actions into Republic victories during the Great Galactic War against Darth Malgus and the reconstituted Sith Empire.\n\nWhen Sith forces sacked Coruscant and destroyed the Jedi Temple, Satele helped negotiate the uneasy Cold War truce while preparing the Republic for renewed conflict. She mentored generations of Jedi—including her descendant Theron Shan—and held the Order together when public faith in both Jedi and Senate faltered.\n\nAs Grand Master, Satele advocated cooperation with the Republic military rather than the Jedi generals' role Revan and Meetra once embodied, seeking to prevent another Mandalorian Wars catastrophe.",
+  "significance": "Satele links KOTOR-era heroes to The Old Republic MMO era, proving the Shan legacy shaped galactic history across centuries.\n\nHer leadership during the Sacking of Coruscant defines TOR-era Jedi as public defenders rather than hidden monks.\n\nSatele's Battle Meditation continues Bastila's tradition, showing how family lineages carry Force talents through eras of war and reform.",
+  "notableEvents": [
+    "Led Republic forces with Battle Meditation during the Great Galactic War",
+    "Fought Darth Malgus and Sith invasion fleets across the Core",
+    "Survived the Sacking of Coruscant and the Jedi Temple's destruction",
+    "Helped broker the Cold War truce between Republic and Sith Empire",
+    "Ascended to Jedi Grand Master and rebuilt the Order on Tython"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Galactic Republic",
+    "Shan family lineage",
+    "Republic Special Forces allies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Rose as a Battle Meditation prodigy on Tython"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Led Jedi and Republic fleets in the Great Galactic War"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Defended the Republic after the Sacking of Coruscant"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Became Grand Master during the Cold War era"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/satele-shan-scene.webp",
+      "caption": "Cinematic illustration — Satele Shan"
+    }
+  ]
+}

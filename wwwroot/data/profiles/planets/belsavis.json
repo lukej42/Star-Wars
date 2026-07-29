@@ -1,32 +1,48 @@
 {
-  "overview": "An ice world hiding a vast Republic prison vault containing ancient Sith superweapons and warlords.",
-  "history": "Belsavis appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Belsavis shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Belsavis remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Belsavis is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. An ice world hiding a vast Republic prison vault containing ancient Sith superweapons and warlords. Scholars of the Outer traditions cite Belsavis when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Belsavis within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. An ice world hiding a vast Republic prison vault containing ancient Sith superweapons and warlords. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Belsavis was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Belsavis's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Belsavis serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Belsavis embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Belsavis alive in holodramas, academy lectures, and pilgrim routes. The accent color #8ab0d0 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Belsavis marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Belsavis within galactic records",
+    "Played a key role during the Galactic Civil War in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Belsavis's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Belsavis's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Belsavis's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Belsavis",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Belsavis"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Military interest in Belsavis increases"
-    },
-    {
       "era": "Imperial Era",
-      "event": "Imperial administration records Belsavis"
+      "event": "Belsavis enters historical record as outer rim territories"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Belsavis status"
+      "event": "Becomes widely known for actions tied to an ice world hiding a vast republic prison vault containing ancient sith superweapons and warlords"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Belsavis fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

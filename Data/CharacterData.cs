@@ -593,6 +593,15 @@ public static class CharacterData
         },
         new()
         {
+            Name = "Meetra Surik",
+            Slug = "meetra-surik",
+            Route = "characters/meetra-surik",
+            Role = "Jedi Exile",
+            Description = "A Jedi General exiled after the Mandalorian Wars who returned to face the Sith Triumvirate and ended the threat on Malachor V.",
+            Color = "#2563eb",
+        },
+        new()
+        {
             Name = "Mission Vao",
             Slug = "mission-vao",
             Route = "characters/mission-vao",
@@ -752,6 +761,15 @@ public static class CharacterData
             Role = "Mandalorian Artist",
             Description = "A Mandalorian explosives expert and graffiti artist who helped ignite the rebellion on Lothal.",
             Color = "#ec4899",
+        },
+        new()
+        {
+            Name = "Satele Shan",
+            Slug = "satele-shan",
+            Route = "characters/satele-shan",
+            Role = "Jedi Grand Master",
+            Description = "A legendary Jedi Battle Meditation master who led the Republic against the resurgent Sith Empire and later served as Grand Master during the Great Galactic War era.",
+            Color = "#1d4ed8",
         },
         new()
         {

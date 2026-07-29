@@ -1,5 +1,15 @@
 {
   "dateRange": "c. 6,900 BBY – 5,000 BBY",
+  "government": {
+    "value": "Dark Council",
+    "route": "governments/dark-council"
+  },
+  "headOfState": {
+    "value": "Sith Emperor",
+    "route": "sith/darth-vitiate",
+    "emphasized": true,
+    "emphasisTone": "sith"
+  },
   "overview": "The Old Sith Empire was the first galactic dominion built explicitly on the dark side — a theocratic war-state born from exiled Dark Jedi and the native Sith species of Korriban. Its Golden Age saw Sith sorcery, alchemy, and mass-produced war fleets challenge the young Republic across the stars until hubris and internal rivalry shattered Sith unity forever.",
   "history": "After the Hundred-Year Darkness, Ajunta Pall and his followers landed on Korriban and were worshipped by the red-skinned Sith as gods. Over generations the exiles intermarried with the Sith species, creating a hybrid culture that worshipped the dark side as divine will. Korriban became a necropolis of tombs; Ziost, the ancient capital, pulsed with Sithspawn experiments and ritual sacrifice.\n\nMarka Ragnos's reign epitomized the Sith Golden Age — centuries of expansion into the Stygian Caldera while the Republic remained unaware of the threat brewing beyond the Rim. When Ragnos died, Naga Sadow and Ludo Kressh fought a succession war that weakened the empire at the worst possible moment. Sadow's discovery of hyperspace routes to the Republic Core precipitated the Great Hyperspace War — an invasion that reached as far as Coruscant before Republic and Jedi forces rallied.\n\nThe Republic's counterattack devastated Sadow's fleets and bombarded Sith worlds. Sadow fled to Yavin 4, where he placed himself in suspended animation inside a temple complex that would later entomb Exar Kun. The Sith Empire on Korriban collapsed; survivors fled into the Unknown Regions aboard generation ships, seeding the exile culture that would eventually produce Darth Vitiate's Sith Empire in Legends continuity.\n\nCenturies later, Freedon Nadd — a fallen Jedi — recovered Sadow's teachings and conquered Onderon, embedding Sith worship in that world's monarchy. His spirit would corrupt Exar Kun, who raided Ossus's Great Jedi Library, forged a Sith amulet, and launched the Great Sith War alongside the Krath cult and Mandalorian Crusaders. Kun's Brotherhood of the Sith burned across the galaxy until the combined Jedi Order, led by Nomi Sunrider and Odan-Urr, trapped his spirit on Yavin 4.\n\nThe Stark Hyperspace War — a corporate banking crisis manipulated by Sith agents — demonstrated that economic warfare could destabilize the Republic without open fleet battles. Though shorter than the Great Sith War, it revealed how deeply Sith influence could penetrate Core politics.\n\nBy 5,000 BBY the Old Sith Empire as a territorial state was gone, but its cultural DNA persisted: holocrons buried on desert worlds, Sith swords in private collections, and the enduring myth that the dark side could build empires faster than the light could legislate them away.",
   "significance": "The Old Sith Empire established the template for every later dark-side hegemony — from Exar Kun's Brotherhood to Palpatine's Galactic Empire. Its fall taught the Jedi that victory over Sith armies did not extinguish Sith ideology; it merely drove it underground.\n\nNaga Sadow's invasion and Exar Kun's war are the earliest galactic-scale conflicts in the timeline, proving that the Republic was never inherently safe — only temporarily unthreatened. The mass exodus of Sith into the Unknown Regions also foreshadows the First Order's later emergence from Imperial exile.\n\nFor fans of Legends material, this era is the backbone of the *Tales of the Jedi* animated stories, *Knights of the Old Republic* flashback lore, and countless reference works on Sith alchemy and holocron tradition.",
@@ -28,6 +38,13 @@
   "keyFactions": [],
   "majorCharacters": [
     {
+      "label": "Sith Emperor",
+      "value": "Darth Vitiate",
+      "route": "sith/darth-vitiate",
+      "emphasized": true,
+      "emphasisTone": "sith"
+    },
+    {
       "label": "Sith",
       "value": "Naga Sadow",
       "route": "sith/naga-sadow"
@@ -36,9 +53,34 @@
       "label": "Sith",
       "value": "Exar Kun",
       "route": "sith/exar-kun"
+    },
+    {
+      "label": "Sith",
+      "value": "Marka Ragnos",
+      "route": "sith/marka-ragnos"
+    },
+    {
+      "label": "Sith",
+      "value": "Ludo Kressh",
+      "route": "sith/ludo-kressh"
+    },
+    {
+      "label": "Sith",
+      "value": "Freedon Nadd",
+      "route": "sith/freedon-nadd"
+    },
+    {
+      "label": "Sith",
+      "value": "Ajunta Pall",
+      "route": "sith/ajunta-pall"
     }
   ],
   "planets": [
+    {
+      "label": "Planet",
+      "value": "Dromund Kaas",
+      "route": "planet/dromund-kaas"
+    },
     {
       "label": "Planet",
       "value": "Korriban",
@@ -51,6 +93,16 @@
     },
     {
       "label": "Planet",
+      "value": "Moraband",
+      "route": "planet/moraband"
+    },
+    {
+      "label": "Planet",
+      "value": "Nathema",
+      "route": "planet/nathema"
+    },
+    {
+      "label": "Planet",
       "value": "Yavin 4",
       "route": "planet/yavin-4"
     },
@@ -58,6 +110,106 @@
       "label": "Planet",
       "value": "Ossus",
       "route": "planet/ossus"
+    },
+    {
+      "label": "Planet",
+      "value": "Malachor V",
+      "route": "planet/malachor-v"
+    },
+    {
+      "label": "Planet",
+      "value": "Byss",
+      "route": "planet/byss"
+    },
+    {
+      "label": "Planet",
+      "value": "Thule",
+      "route": "planet/thule"
+    },
+    {
+      "label": "Planet",
+      "value": "Rhelg",
+      "route": "planet/rhelg"
+    },
+    {
+      "label": "Planet",
+      "value": "Ch'hodos",
+      "route": "planet/ch-hodos"
+    },
+    {
+      "label": "Planet",
+      "value": "Krayiss II",
+      "route": "planet/krayiss-ii"
+    },
+    {
+      "label": "Planet",
+      "value": "Khar Delba",
+      "route": "planet/khar-delba"
+    },
+    {
+      "label": "Planet",
+      "value": "Khar Shian",
+      "route": "planet/khar-shian"
+    },
+    {
+      "label": "Planet",
+      "value": "Jaguada",
+      "route": "planet/jaguada"
+    },
+    {
+      "label": "Planet",
+      "value": "Ashas Ree",
+      "route": "planet/ashas-ree"
+    },
+    {
+      "label": "Planet",
+      "value": "Athiss",
+      "route": "planet/atthiss"
+    },
+    {
+      "label": "Planet",
+      "value": "Begeren",
+      "route": "planet/begeren"
+    },
+    {
+      "label": "Planet",
+      "value": "Bosthirda",
+      "route": "planet/bosthirda"
+    },
+    {
+      "label": "Planet",
+      "value": "Dromund Fels",
+      "route": "planet/dromund-fels"
+    },
+    {
+      "label": "Planet",
+      "value": "Dromund Ixin",
+      "route": "planet/dromund-ixin"
+    },
+    {
+      "label": "Planet",
+      "value": "Dromund Kalakar",
+      "route": "planet/dromund-kalakar"
+    },
+    {
+      "label": "Planet",
+      "value": "Dromund Tyne",
+      "route": "planet/dromund-tyne"
+    },
+    {
+      "label": "Planet",
+      "value": "Kalsunor",
+      "route": "planet/kalsunor"
+    },
+    {
+      "label": "Planet",
+      "value": "Korriz",
+      "route": "planet/korriz"
+    },
+    {
+      "label": "Planet",
+      "value": "Nfolgai",
+      "route": "planet/nfolgai"
     }
   ],
   "ships": [

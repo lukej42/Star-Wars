@@ -1,48 +1,35 @@
 {
-  "overview": "Darth Malak is remembered across the galaxy as a dark lord of the sith whose story intersects with pivotal eras of Star Wars history. Revan's apprentice who seized control of the Sith Empire and waged war against the Republic with brutal efficiency. Scholars of the Dark traditions cite Darth Malak when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
-  "history": "Early records place Darth Malak within the broader tapestry of the Dark Lord of the Sith, long before the conflicts that would define modern galactic politics. Revan's apprentice who seized control of the Sith Empire and waged war against the Republic with brutal efficiency. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Darth Malak was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Darth Malak's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Darth Malak serves as a lens for understanding the dark lord of the sith and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
-  "significance": "Darth Malak embodies the ideals and contradictions associated with the dark lord of the sith. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Darth Malak alive in holodramas, academy lectures, and pilgrim routes. The accent color #991b1b often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Darth Malak marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
+  "overview": "Darth Malak was Revan's Sith apprentice who usurped the Star Forge empire and waged the Jedi Civil War with brutal efficiency. His disfigured jaw, Force Lightning, and orbital bombardment of Taris made him one of the Old Republic's most feared Dark Lords.",
+  "history": "Once Revan's closest friend and fellow Revanchist, Malak embraced the dark side during the Mandalorian Wars and helped build a Sith fleet around the Star Forge. When he turned on Revan above Malachor and Rakata Prime, Malak seized the empire and hunted the mind-wiped Jedi across Taris, Dantooine, and the Rim.\n\nMalak's cruelty peaked with Taris's destruction and Bastila Shan's torture, yet his reliance on the Star Forge's infinite droid armies masked strategic rigidity. Revan's return culminated in a final duel aboard the factory station where Malak fell, ending the Jedi Civil War.",
+  "significance": "Malak illustrates how apprentice ambition destroys Sith partnerships outside Bane's Rule of Two—yet produces the same betrayal dynamic.\n\nTaris's bombardment remains a benchmark for Sith atrocities before the Death Star era.\n\nMalak's reign bridges Mandalorian Wars veterans to the quieter Ruusan Reformations.",
   "notableEvents": [
-    "First documented emergence of Darth Malak within galactic records",
-    "Played a key role during the Ancient Era in Dark Lord of the Sith",
-    "Survived or shaped a major battle linked to Darth Malak's reputation",
-    "Formed alliances that reflected the priorities of the dark lord of the sith",
-    "Confronted rivals who challenged Darth Malak's vision of order",
-    "Witnessed the transformation of the galaxy's ruling powers",
-    "Left artifacts, teachings, or monuments still cited in the Clone Wars",
-    "Inspired later movements that reinterpreted Darth Malak's choices"
+    "Turned on Darth Revan and seized the Sith Empire",
+    "Ordered the orbital bombardment of Taris",
+    "Captured Bastila Shan and corrupted her toward the dark side",
+    "Commanded the Star Forge against the Republic at Rakata Prime",
+    "Was defeated in a final duel with the redeemed Revan"
   ],
   "affiliations": [
-    "Dark Lord of the Sith",
-    "Allies of Darth Malak",
-    "Galactic historians' archives",
-    "Dark networks",
-    "Local defense militias"
+    "Sith Empire (Old Republic era)",
+    "Star Forge command",
+    "Revanchist veterans (former)"
   ],
   "timeline": [
     {
-      "era": "First Order",
-      "event": "Darth Malak enters historical record as dark lord of the sith"
-    },
-    {
-      "era": "Ancient Era",
-      "event": "Participates in a pivotal campaign during the Ancient Era"
+      "era": "Old Republic",
+      "event": "Fell to the dark side during the Mandalorian Wars"
     },
     {
       "era": "Old Republic",
-      "event": "Becomes widely known for actions tied to revan's apprentice who seized control of the sith empire and waged war against the republic with brutal efficiency"
+      "event": "Betrayed Revan and claimed the Sith throne"
     },
     {
-      "era": "High Republic",
-      "event": "Navigates crisis as institutions around Darth Malak fracture"
+      "era": "Old Republic",
+      "event": "Destroyed Taris and hunted the Republic fleet"
     },
     {
-      "era": "Clone Wars",
-      "event": "Legacy debated by scholars of the Clone Wars"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Commemorated in archives celebrating Dark Lord of the Sith"
+      "era": "Old Republic",
+      "event": "Died aboard the Star Forge against Revan"
     }
   ],
   "gallery": [

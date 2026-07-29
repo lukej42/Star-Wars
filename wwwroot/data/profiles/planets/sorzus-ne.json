@@ -1,32 +1,48 @@
 {
-  "overview": "A Sith world associated with Sorzus Syn's alchemical texts and early Sith pureblood colonies.",
-  "history": "Sorzus Ne appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Sorzus Ne shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Sorzus Ne remains a reference point in Sith Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Sorzus Ne is remembered across the galaxy as a sith space whose story intersects with pivotal eras of Star Wars history. A Sith world associated with Sorzus Syn's alchemical texts and early Sith pureblood colonies. Scholars of the Sith traditions cite Sorzus Ne when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Sorzus Ne within the broader tapestry of the Sith Space, long before the conflicts that would define modern galactic politics. A Sith world associated with Sorzus Syn's alchemical texts and early Sith pureblood colonies. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Sorzus Ne was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Sorzus Ne's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Sorzus Ne serves as a lens for understanding the sith space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Sorzus Ne embodies the ideals and contradictions associated with the sith space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Sorzus Ne alive in holodramas, academy lectures, and pilgrim routes. The accent color #6a3848 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Sorzus Ne marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Sith Space",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Sorzus Ne within galactic records",
+    "Played a key role during the Clone Wars in Sith Space",
+    "Survived or shaped a major battle linked to Sorzus Ne's reputation",
+    "Formed alliances that reflected the priorities of the sith space",
+    "Confronted rivals who challenged Sorzus Ne's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Sorzus Ne's choices"
   ],
   "affiliations": [
-    "Sith Space"
+    "Sith Space",
+    "Allies of Sorzus Ne",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Sorzus Ne"
+      "era": "High Republic",
+      "event": "Sorzus Ne enters historical record as sith space"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Sorzus Ne increases"
+      "event": "Participates in a pivotal campaign during the Clone Wars"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Sorzus Ne"
+      "event": "Becomes widely known for actions tied to a sith world associated with sorzus syn's alchemical texts and early sith pureblood colonies"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Sorzus Ne fracture"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Sorzus Ne status"
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Sith Space"
     }
   ],
   "gallery": [

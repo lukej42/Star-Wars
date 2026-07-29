@@ -1,32 +1,48 @@
 {
-  "overview": "An Imperial factory moon of assembly lines where Cassian Andor was imprisoned.",
-  "history": "Narkina 5 appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Narkina 5 shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Narkina 5 remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Narkina 5 is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. An Imperial factory moon of assembly lines where Cassian Andor was imprisoned. Scholars of the Outer traditions cite Narkina 5 when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Narkina 5 within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. An Imperial factory moon of assembly lines where Cassian Andor was imprisoned. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Narkina 5 was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Narkina 5's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Narkina 5 serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Narkina 5 embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Narkina 5 alive in holodramas, academy lectures, and pilgrim routes. The accent color #6a8a5a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Narkina 5 marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Narkina 5 within galactic records",
+    "Played a key role during the First Order in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Narkina 5's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Narkina 5's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Narkina 5's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Narkina 5",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "New Republic",
+      "event": "Narkina 5 enters historical record as outer rim territories"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to an imperial factory moon of assembly lines where cassian andor was imprisoned"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Narkina 5"
+      "event": "Navigates crisis as institutions around Narkina 5 fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Narkina 5 increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Narkina 5"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Narkina 5 status"
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

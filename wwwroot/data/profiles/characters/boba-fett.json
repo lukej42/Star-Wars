@@ -1,49 +1,38 @@
 {
-  "overview": "Boba Fett stands among the saga's most memorable figures, known throughout the galaxy as a bounty hunter. The legendary Mandalorian-armored hunter who tracked Han Solo for Jabba and later ruled Tatooine's underworld. From backwater cantinas to senate chambers and fleet command centers, Boba Fett's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
-  "history": "Early life records for Boba Fett are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. The legendary Mandalorian-armored hunter who tracked Han Solo for Jabba and later ruled Tatooine's underworld. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Boba Fett was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Boba Fett tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Boba Fett. Some entries flatter, others condemn, but historians agree that ignoring Boba Fett makes any chronicle of the era incomplete.\n\nModern scholars cite Boba Fett when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Boba Fett demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
-  "significance": "As a bounty hunter, Boba Fett connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Boba Fett alive in holodramas, recruitment posters, and cantina songs. The color #65a30d often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Boba Fett marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "overview": "Boba Fett is the silent, armor-clad bounty hunter whose reputation was built on fear, precision, and the legacy of his father Jango Fett. Clone of the Mandalorian template and survivor of the Sarlacc, he evolved from Imperial enforcer to crime lord of Mos Espa.",
+  "history": "Witnessing Jango's death on Geonosis left Boba obsessed with honor, credits, and the Mandalorian armor his father wore. He quickly became the galaxy's most feared hunter, working for Jabba the Hutt and the Empire alike.\n\nTracking Han Solo to Bespin, Boba delivered the frozen smuggler to Jabba and met his apparent end in the Sarlacc pit on Tatooine—though he survived through sheer will and beskar.\n\nDecades later Boba reclaimed his armor from Din Djarin, took over Jabba's former territory, and ruled Mos Espa with Fennec Shand at his side, balancing brutality with pragmatic stability.\n\nHis story ties together clone legacy, Mandalorian heritage, and the underworld economics of the Outer Rim.",
+  "significance": "Boba Fett's minimal screen time in the original trilogy paradoxically made him a fan icon, proving mystique can outweigh dialogue.\n\nHe embodies the mercenary ethic of the galaxy's margins—loyalty sold to the highest bidder until personal honor intervenes.\n\nHis survival and later rule on Tatooine show how Empire-era hunters adapted to New Republic power vacuums.",
   "notableEvents": [
-    "First widely documented appearance of Boba Fett in galactic records",
-    "Rose to prominence as a bounty hunter during the New Republic",
-    "Survived or orchestrated a pivotal encounter tied to Boba Fett's reputation",
-    "Formed alliances that reflected the priorities of their faction and homeworld",
-    "Opposed rivals who threatened Boba Fett's crew, family, or command",
-    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
-    "Contributed to a turning point still debated by historians of the Old Republic",
-    "Inspired later generations who retold Boba Fett's choices in myth and media"
+    "Witnessed Jango Fett's death during the Battle of Geonosis",
+    "Tracked Han Solo and delivered him to Jabba the Hutt",
+    "Survived the Sarlacc pit on Tatooine",
+    "Reclaimed his father's Mandalorian armor",
+    "Became daimyo of Mos Espa and Jabba's former territories",
+    "Allied with Din Djarin against Pyke Syndicate forces"
   ],
   "affiliations": [
-    "Bounty Hunter",
-    "Smuggler rings",
-    "Bounty hunter guilds",
-    "Outer Rim ports",
-    "Shadow brokers",
-    "Freighter captains"
+    "Bounty Hunters' Guild",
+    "Jabba's criminal empire",
+    "Fennec Shand's syndicate",
+    "Mandalorian armor tradition",
+    "Pyke Syndicate ( enemy )"
   ],
   "timeline": [
     {
+      "era": "Clone Wars",
+      "event": "Lost Jango Fett and began his bounty hunting career"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Captured Han Solo for Jabba the Hutt"
+    },
+    {
       "era": "Galactic Civil War",
-      "event": "Boba Fett enters the historical record as a bounty hunter"
+      "event": "Fell into the Sarlacc and was presumed dead"
     },
     {
       "era": "New Republic",
-      "event": "Builds a reputation during the New Republic"
-    },
-    {
-      "era": "First Order",
-      "event": "Acts decisively in events tied to the legendary mandalorian-armored hunter who tracked han solo for jabba and later ruled tatooine's underworld"
-    },
-    {
-      "era": "Ancient Era",
-      "event": "Navigates crisis as galactic institutions fracture"
-    },
-    {
-      "era": "Old Republic",
-      "event": "Plays a role in campaigns associated with the Old Republic"
-    },
-    {
-      "era": "High Republic",
-      "event": "Legacy debated and commemorated across the High Republic"
+      "event": "Reclaimed armor and seized control of Mos Espa"
     }
   ],
   "gallery": [

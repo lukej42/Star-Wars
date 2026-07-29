@@ -1,0 +1,48 @@
+{
+  "overview": "Meetra Surik—the Jedi Exile—was a general of the Mandalorian Wars who cut herself off from the Force after activating the Mass Shadow Generator on Malachor V. Her return to galactic events exposed the Sith Triumvirate and ended Darth Traya's plot to wound the Force itself.",
+  "history": "Meetra followed Revan against the Jedi Council's orders, leading Republic troops until Malachor V's devastation broke her connection to the Force. The Council exiled her, stripping her title while the galaxy forgot the general who ended the Mandalorian threat.\n\nWhen the Sith Lords Nihilus, Sion, and Traya hunted the remaining Jedi, Meetra gathered scattered survivors aboard the Ebon Hawk. On Dantooine, Telos, Dxun, and Malachor V she relearned what it meant to wield the Force through choice rather than instinct.\n\nThe final confrontation on Malachor V destroyed the Triumvirate and sealed the wound Revan's wars had opened—yet Meetra departed for the Unknown Regions to aid Revan against the True Sith, completing the crusade she began years earlier.",
+  "significance": "Meetra embodies consequences the Jedi Council refused to acknowledge after the Mandalorian Wars. Her exile arc questions whether disconnection from the Force can be redemption or another form of denial.\n\nThe Triumvirate crisis proves Sith can metastasize from Jedi hubris even when open empires fall—an lesson Palpatine would exploit millennia later.\n\nKOTOR II uses Meetra to explore whether the galaxy needs Jedi institutions or merely individuals willing to act when the Council will not.",
+  "notableEvents": [
+    "Led Republic forces during the Mandalorian Wars under Revan",
+    "Ordered the Mass Shadow Generator at Malachor V",
+    "Was exiled by the Jedi Council and severed from the Force",
+    "Reassembled a crew to oppose the Sith Triumvirate",
+    "Defeated Darth Traya, Sion, and Nihilus on Malachor V",
+    "Departed to find Revan in the Unknown Regions"
+  ],
+  "affiliations": [
+    "Jedi Order (exiled)",
+    "Galactic Republic",
+    "Ebon Hawk crew",
+    "Mandalorian Wars veterans",
+    "Telos Restoration Project allies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Fought in the Mandalorian Wars as a Jedi General"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Survived Malachor V and was exiled by the Council"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Returned to oppose the Sith Triumvirate"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Destroyed the Triumvirate at Malachor V"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Pursued Revan into the Unknown Regions"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/characters/meetra-surik-scene.webp",
+      "caption": "Cinematic illustration — Meetra Surik"
+    }
+  ]
+}

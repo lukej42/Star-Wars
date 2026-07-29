@@ -1,32 +1,48 @@
 {
-  "overview": "A fortress world of the Imperial Inquisitorius and ancient Sith catacombs beneath its citadels.",
-  "history": "Prakith appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Prakith shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Prakith remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Prakith is remembered across the galaxy as a deep core whose story intersects with pivotal eras of Star Wars history. A fortress world of the Imperial Inquisitorius and ancient Sith catacombs beneath its citadels. Scholars of the Deep traditions cite Prakith when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Prakith within the broader tapestry of the Deep Core, long before the conflicts that would define modern galactic politics. A fortress world of the Imperial Inquisitorius and ancient Sith catacombs beneath its citadels. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Prakith was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Prakith's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Prakith serves as a lens for understanding the deep core and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Prakith embodies the ideals and contradictions associated with the deep core. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Prakith alive in holodramas, academy lectures, and pilgrim routes. The accent color #5a5a6a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Prakith marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Deep Core",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Prakith within galactic records",
+    "Played a key role during the New Republic in Deep Core",
+    "Survived or shaped a major battle linked to Prakith's reputation",
+    "Formed alliances that reflected the priorities of the deep core",
+    "Confronted rivals who challenged Prakith's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Prakith's choices"
   ],
   "affiliations": [
-    "Deep Core"
+    "Deep Core",
+    "Allies of Prakith",
+    "Galactic historians' archives",
+    "Deep networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Prakith"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Military interest in Prakith increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Prakith"
+      "era": "Galactic Civil War",
+      "event": "Prakith enters historical record as deep core"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Prakith status"
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to a fortress world of the imperial inquisitorius and ancient sith catacombs beneath its citadels"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Prakith fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Deep Core"
     }
   ],
   "gallery": [

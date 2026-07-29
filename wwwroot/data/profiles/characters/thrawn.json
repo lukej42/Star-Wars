@@ -1,49 +1,38 @@
 {
-  "overview": "Thrawn stands among the saga's most memorable figures, known throughout the galaxy as a grand admiral. A brilliant Chiss tactician who studied his enemies' art and nearly crushed the Rebellion with methodical precision. From backwater cantinas to senate chambers and fleet command centers, Thrawn's story illustrates how individuals outside the Jedi and Sith orders can still move history.",
-  "history": "Early life records for Thrawn are fragmentary, yet every account agrees that ambition and survival forged their path long before the galactic civil war dominated headlines. A brilliant Chiss tactician who studied his enemies' art and nearly crushed the Rebellion with methodical precision. Allies and rivals alike noted a distinctive presence shaped by skill, culture, and circumstance.\n\nAs the Republic collapsed and the Empire rose, Thrawn was pulled into conflicts that rewarded cunning as much as courage. Intelligence briefings, smuggler networks, and battlefield communiques all reference moments where Thrawn tipped a local struggle toward a wider consequence.\n\nThe Rebellion, the New Republic, and later remnant powers all kept files on Thrawn. Some entries flatter, others condemn, but historians agree that ignoring Thrawn makes any chronicle of the era incomplete.\n\nModern scholars cite Thrawn when teaching how ordinary citizens, soldiers, and scoundrels responded to tyranny. Whether through loyalty, profit, or conscience, Thrawn demonstrates that the galaxy's future is never decided solely in Jedi temples or Sith tombs.",
-  "significance": "As a grand admiral, Thrawn connects grassroots stories to epic campaigns. Their biography helps explain how supply lines, spy rings, and frontier communities sustained the larger factions.\n\nPopular culture keeps Thrawn alive in holodramas, recruitment posters, and cantina songs. The color #0369a1 often appears in fan art and reenactment banners associated with their legacy.\n\nFor researchers mapping the Star Wars saga, Thrawn marks a node where personal loyalty meets institutional change—proof that heroism and villainy alike can wear many faces.",
+  "overview": "Grand Admiral Thrawn is a brilliant Chiss tactician who rose through the Imperial Navy by studying art, culture, and enemy psychology. His blue skin and red eyes marked him as alien in a human-dominated Empire, yet his victories made him one of Palpatine's most dangerous servants.",
+  "history": "Exiled from the Unknown Regions, Thrawn offered his services to the Empire and quickly proved his strategic genius against insurgents and rival officers. He commanded the Seventh Fleet and dismantled Rebel cells with surgical precision.\n\nDuring the Liberation of Lothal he faced Ezra Bridger and the Ghost crew, ultimately disappearing with Ezra into hyperspace aboard a purrgil swarm—a fate that removed him from Imperial politics but not from galactic consequence.\n\nYears later Thrawn returned from exile in the Unknown Regions to aid the Imperial remnants and Morgan Elsbeth, threatening the New Republic's fragile peace.\n\nHis methodical cruelty and respect for worthy opponents made him a unique villain among Imperial leadership.",
+  "significance": "Thrawn expanded Star Wars storytelling into the Unknown Regions and proved the Empire relied on intellect as much as terror.\n\nHis study of art as military intelligence introduced a distinctive tactical philosophy rarely seen in space opera villains.\n\nAs one of the few non-human Imperial grand admirals, he highlights the Empire's hypocrisy and pragmatic exceptions.",
   "notableEvents": [
-    "First widely documented appearance of Thrawn in galactic records",
-    "Rose to prominence as a grand admiral during the High Republic",
-    "Survived or orchestrated a pivotal encounter tied to Thrawn's reputation",
-    "Formed alliances that reflected the priorities of their faction and homeworld",
-    "Opposed rivals who threatened Thrawn's crew, family, or command",
-    "Witnessed the fall of the Republic and the rise of the Empire firsthand",
-    "Contributed to a turning point still debated by historians of the Galactic Civil War",
-    "Inspired later generations who retold Thrawn's choices in myth and media"
+    "Joined the Imperial Navy and rapidly earned command rank",
+    "Led the Seventh Fleet against Lothal and Phoenix Squadron",
+    "Vanished with Ezra Bridger via purrgil during the Liberation of Lothal",
+    "Returned from the Unknown Regions in the New Republic era",
+    "Allied with Morgan Elsbeth and the Nightsister remnant",
+    "Threatened the New Republic from the shadows of Peridea"
   ],
   "affiliations": [
-    "Grand Admiral",
-    "Fleet command",
-    "Ground assault units",
-    "Intelligence corps",
-    "Veterans' networks",
-    "Training academies"
+    "Chiss Ascendancy",
+    "Galactic Empire",
+    "Seventh Fleet",
+    "Imperial Remnant",
+    "Night Troopers"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "Thrawn enters the historical record as a grand admiral"
-    },
-    {
-      "era": "High Republic",
-      "event": "Builds a reputation during the High Republic"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Acts decisively in events tied to a brilliant chiss tactician who studied his enemies' art and nearly crushed the rebellion with methodical precision"
+      "era": "Imperial Era",
+      "event": "Entered Imperial service and rose to Grand Admiral"
     },
     {
       "era": "Imperial Era",
-      "event": "Navigates crisis as galactic institutions fracture"
+      "event": "Commanded the siege of Lothal"
     },
     {
-      "era": "Galactic Civil War",
-      "event": "Plays a role in campaigns associated with the Galactic Civil War"
+      "era": "Imperial Era",
+      "event": "Disappeared with Ezra Bridger in the purrgil jump"
     },
     {
       "era": "New Republic",
-      "event": "Legacy debated and commemorated across the New Republic"
+      "event": "Re-emerged as a leader of Imperial remnants"
     }
   ],
   "gallery": [

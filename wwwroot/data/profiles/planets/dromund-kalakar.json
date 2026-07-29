@@ -1,32 +1,48 @@
 {
-  "overview": "Kalakar Six — a volcanic moon in the Dromund system where Sith alchemists forged weapons and relics.",
-  "history": "Dromund Kalakar appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Dromund Kalakar shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Dromund Kalakar remains a reference point in Sith Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Dromund Kalakar is remembered across the galaxy as a sith space whose story intersects with pivotal eras of Star Wars history. Kalakar Six — a volcanic moon in the Dromund system where Sith alchemists forged weapons and relics. Scholars of the Sith traditions cite Dromund Kalakar when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Dromund Kalakar within the broader tapestry of the Sith Space, long before the conflicts that would define modern galactic politics. Kalakar Six — a volcanic moon in the Dromund system where Sith alchemists forged weapons and relics. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Dromund Kalakar was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Dromund Kalakar's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Dromund Kalakar serves as a lens for understanding the sith space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Dromund Kalakar embodies the ideals and contradictions associated with the sith space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Dromund Kalakar alive in holodramas, academy lectures, and pilgrim routes. The accent color #7a4030 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Dromund Kalakar marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Sith Space",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Dromund Kalakar within galactic records",
+    "Played a key role during the Ancient Era in Sith Space",
+    "Survived or shaped a major battle linked to Dromund Kalakar's reputation",
+    "Formed alliances that reflected the priorities of the sith space",
+    "Confronted rivals who challenged Dromund Kalakar's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Clone Wars",
+    "Inspired later movements that reinterpreted Dromund Kalakar's choices"
   ],
   "affiliations": [
-    "Sith Space"
+    "Sith Space",
+    "Allies of Dromund Kalakar",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "First Order",
+      "event": "Dromund Kalakar enters historical record as sith space"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Participates in a pivotal campaign during the Ancient Era"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Dromund Kalakar"
+      "event": "Becomes widely known for actions tied to kalakar six — a volcanic moon in the dromund system where sith alchemists forged weapons and relics"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as institutions around Dromund Kalakar fracture"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Dromund Kalakar increases"
+      "event": "Legacy debated by scholars of the Clone Wars"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Dromund Kalakar"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Dromund Kalakar status"
+      "event": "Commemorated in archives celebrating Sith Space"
     }
   ],
   "gallery": [

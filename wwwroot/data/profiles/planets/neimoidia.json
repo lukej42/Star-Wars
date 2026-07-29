@@ -1,32 +1,48 @@
 {
-  "overview": "A fog-shrouded Trade Federation homeworld of bridge cities and Neimoidian merchant councils.",
-  "history": "Neimoidia appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Neimoidia shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Neimoidia remains a reference point in Colonies surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Neimoidia is remembered across the galaxy as a colonies whose story intersects with pivotal eras of Star Wars history. A fog-shrouded Trade Federation homeworld of bridge cities and Neimoidian merchant councils. Scholars of the Colonies traditions cite Neimoidia when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Neimoidia within the broader tapestry of the Colonies, long before the conflicts that would define modern galactic politics. A fog-shrouded Trade Federation homeworld of bridge cities and Neimoidian merchant councils. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Neimoidia was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Neimoidia's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Neimoidia serves as a lens for understanding the colonies and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Neimoidia embodies the ideals and contradictions associated with the colonies. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Neimoidia alive in holodramas, academy lectures, and pilgrim routes. The accent color #8a6a4a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Neimoidia marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Colonies",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Neimoidia within galactic records",
+    "Played a key role during the High Republic in Colonies",
+    "Survived or shaped a major battle linked to Neimoidia's reputation",
+    "Formed alliances that reflected the priorities of the colonies",
+    "Confronted rivals who challenged Neimoidia's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Galactic Civil War",
+    "Inspired later movements that reinterpreted Neimoidia's choices"
   ],
   "affiliations": [
-    "Colonies"
+    "Colonies",
+    "Allies of Neimoidia",
+    "Galactic historians' archives",
+    "Colonies networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
       "era": "Old Republic",
-      "event": "First major settlement era on Neimoidia"
+      "event": "Neimoidia enters historical record as colonies"
+    },
+    {
+      "era": "High Republic",
+      "event": "Participates in a pivotal campaign during the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Neimoidia increases"
+      "event": "Becomes widely known for actions tied to a fog-shrouded trade federation homeworld of bridge cities and neimoidian merchant councils"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Neimoidia"
+      "event": "Navigates crisis as institutions around Neimoidia fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated by scholars of the Galactic Civil War"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Neimoidia status"
+      "event": "Commemorated in archives celebrating Colonies"
     }
   ],
   "gallery": [

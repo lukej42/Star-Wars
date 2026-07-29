@@ -1,75 +1,77 @@
-@page "/chronicles/galactic-history/{Slug}"
-@using StarWars.Data
-@using StarWars.Models
-@using StarWars.Services
-@using StarWars.Components
-@inject DirectoryProfileService ProfileService
-@inject EntityCrossLinkService CrossLinkService
-
-<PageTitle>@(entry?.Name ?? "Chronicle")</PageTitle>
-
-@if (entry is null)
-{
-    <h1>Chronicle not found</h1>
-    <p>Sorry, there are no records for this era.</p>
-    <p><a href="chronicles/galactic-history">Back to Galactic History</a></p>
-}
-else if (!profileLoaded)
-{
-    <p class="directory-detail-loading">Loading chronicle records…</p>
-}
-else
-{
-    <DirectoryDetailShell Name="@entry.Name"
-                          HeroImagePath="@entry.SceneImagePath"
-                          HeroImageAlt="@($"Cinematic illustration of {entry.Name}")"
-                          ShowPortraitHero="false"
-                          Subtitle="@entry.EraLabel"
-                          MetaLine="@($"Date range: {profile?.DateRange ?? entry.DateRange}")"
-                          OverviewText="@(profile?.Overview ?? entry.Description)"
-                          HistoryText="@(profile?.History ?? string.Empty)"
-                          SignificanceText="@(profile?.Significance ?? string.Empty)"
-                          SignificanceHeading="Legacy and impact"
-                          MajorEvents="@(profile?.MajorEvents ?? Array.Empty<ProfileLinkedEvent>())"
-                          KeyFactions="@(profile?.KeyFactions ?? Array.Empty<ProfileLinkItem>())"
-                          MajorCharacters="@(profile?.MajorCharacters ?? Array.Empty<ProfileLinkItem>())"
-                          Planets="@(profile?.Planets ?? Array.Empty<ProfileLinkItem>())"
-                          Ships="@(profile?.Ships ?? Array.Empty<ProfileLinkItem>())"
-                          Films="@(profile?.Films ?? Array.Empty<string>())"
-                          Series="@(profile?.Series ?? Array.Empty<string>())"
-                          Games="@(profile?.Games ?? Array.Empty<string>())"
-                          Books="@(profile?.Books ?? Array.Empty<string>())"
-                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
-                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
-                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
-                          AccentColor="@entry.Color">
-        <a href="chronicles/galactic-history">Back to Galactic History</a>
-    </DirectoryDetailShell>
-    <EntityCrossLinks Links="@crossLinks" />
-}
-
-@code {
-    [Parameter]
-    public string Slug { get; set; } = string.Empty;
-
-    private ChronicleEntry? entry;
-    private DirectoryProfile? profile;
-    private bool profileLoaded;
-    private IReadOnlyList<EntityCrossLink> crossLinks = [];
-
-    protected override async Task OnParametersSetAsync()
-    {
-        entry = ChroniclesData.GetBySlug(Slug);
-        profileLoaded = false;
-        profile = null;
-        crossLinks = [];
-
-        if (entry is not null)
-        {
-            profile = await ProfileService.GetProfileAsync("chronicles", entry.Slug);
-            crossLinks = await CrossLinkService.GetLinksAsync("chronicles", entry.Slug);
-        }
-
-        profileLoaded = true;
-    }
-}
+@page "/chronicles/galactic-history/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
+
+<PageTitle>@(entry?.Name ?? "Chronicle")</PageTitle>
+
+@if (entry is null)
+{
+    <h1>Chronicle not found</h1>
+    <p>Sorry, there are no records for this era.</p>
+    <p><a href="chronicles/galactic-history">Back to Galactic History</a></p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading chronicle records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@entry.Name"
+                          HeroImagePath="@entry.SceneImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {entry.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@entry.EraLabel"
+                          MetaLine="@($"Date range: {profile?.DateRange ?? entry.DateRange}")"
+                          OverviewText="@(profile?.Overview ?? entry.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Legacy and impact"
+                          MajorEvents="@(profile?.MajorEvents ?? Array.Empty<ProfileLinkedEvent>())"
+                          KeyFactions="@(profile?.KeyFactions ?? Array.Empty<ProfileLinkItem>())"
+                          MajorCharacters="@(profile?.MajorCharacters ?? Array.Empty<ProfileLinkItem>())"
+                          Planets="@(profile?.Planets ?? Array.Empty<ProfileLinkItem>())"
+                          Ships="@(profile?.Ships ?? Array.Empty<ProfileLinkItem>())"
+                          Films="@(profile?.Films ?? Array.Empty<string>())"
+                          Series="@(profile?.Series ?? Array.Empty<string>())"
+                          Games="@(profile?.Games ?? Array.Empty<string>())"
+                          Books="@(profile?.Books ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          Government="@profile?.Government"
+                          HeadOfState="@profile?.HeadOfState"
+                          AccentColor="@entry.Color">
+        <a href="chronicles/galactic-history">Back to Galactic History</a>
+    </DirectoryDetailShell>
+    <EntityCrossLinks Links="@crossLinks" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private ChronicleEntry? entry;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
+
+    protected override async Task OnParametersSetAsync()
+    {
+        entry = ChroniclesData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+        crossLinks = [];
+
+        if (entry is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("chronicles", entry.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("chronicles", entry.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "Bastila Shan was a Jedi Padawan whose mastery of Battle Meditation made her one of the Republic's most valuable assets during the Jedi Civil War. Captured by Darth Malak and forged into a Force bond with the amnesiac Revan, she became the moral fulcrum of the Star Forge campaign—proof that even prodigies could waver between light and dark.",
+  "history": "Trained on Dantooine under the enclave's masters, Bastila demonstrated rare Battle Meditation that could tilt entire fleet engagements. When Malak turned on Revan above Taris, Bastila escaped aboard the Endar Spire with the mind-wiped former Sith Lord, binding their fates through the Force.\n\nTheir journey across Taris, Dantooine, and the Rakata homeworld tested Bastila's conviction. Malak's torture and Revan's past tempted her toward the dark side, yet redemption on the Star Forge restored her to the light and secured the Republic's survival at Rakata Prime.\n\nBastila later helped rebuild Jedi training traditions and became an ancestor of the Shan bloodline that would produce Grand Master Satele Shan during the Great Galactic War.",
+  "significance": "Bastila embodies the Jedi struggle against pride and attachment in wartime. Her Battle Meditation links personal discipline to galactic strategy—a theme the Old Republic era returns to again and again.\n\nHer bond with Revan remains one of Legends' defining Force connections, cited whenever masters debate whether shared destiny strengthens or corrupts knights.\n\nThe Shan lineage connects the Jedi Civil War to the TOR-era Republic, bridging KOTOR and The Old Republic MMO storytelling.",
+  "notableEvents": [
+    "Demonstrated Battle Meditation during the opening battles of the Jedi Civil War",
+    "Escaped Taris with Revan after the Endar Spire was destroyed",
+    "Was captured and tempted by Darth Malak",
+    "Helped lead the assault on the Star Forge at Rakata Prime",
+    "Survived the fall of Malak and the collapse of Revan's Sith Empire"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Galactic Republic",
+    "Dantooine Jedi Enclave",
+    "Ebon Hawk crew",
+    "Shan family lineage"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Trained as a Battle Meditation prodigy on Dantooine"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Bonded with Revan during the escape from Taris"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Was captured and corrupted by Darth Malak"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Returned to the light at the Battle of Rakata Prime"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Became ancestor of the Shan Jedi bloodline"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/bastila-shan-scene.webp",
+      "caption": "Cinematic illustration — Bastila Shan"
+    }
+  ]
+}

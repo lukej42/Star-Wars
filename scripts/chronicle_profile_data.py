@@ -4,8 +4,51 @@
 from __future__ import annotations
 
 
-def L(label: str, value: str, route: str) -> dict[str, str]:
-    return {"label": label, "value": value, "route": route}
+def L(
+    label: str,
+    value: str,
+    route: str,
+    *,
+    emphasized: bool = False,
+    emphasis_tone: str = "",
+) -> dict[str, str | bool]:
+    item: dict[str, str | bool] = {"label": label, "value": value, "route": route}
+    if emphasized:
+        item["emphasized"] = True
+    if emphasis_tone:
+        item["emphasisTone"] = emphasis_tone
+    return item
+
+
+SITH_EMPIRE_PLANETS: list[tuple[str, str]] = [
+    ("Dromund Kaas", "planet/dromund-kaas"),
+    ("Korriban", "korriban"),
+    ("Ziost", "planet/ziost"),
+    ("Moraband", "planet/moraband"),
+    ("Nathema", "planet/nathema"),
+    ("Yavin 4", "planet/yavin-4"),
+    ("Ossus", "planet/ossus"),
+    ("Malachor V", "planet/malachor-v"),
+    ("Byss", "planet/byss"),
+    ("Thule", "planet/thule"),
+    ("Rhelg", "planet/rhelg"),
+    ("Ch'hodos", "planet/ch-hodos"),
+    ("Krayiss II", "planet/krayiss-ii"),
+    ("Khar Delba", "planet/khar-delba"),
+    ("Khar Shian", "planet/khar-shian"),
+    ("Jaguada", "planet/jaguada"),
+    ("Ashas Ree", "planet/ashas-ree"),
+    ("Athiss", "planet/atthiss"),
+    ("Begeren", "planet/begeren"),
+    ("Bosthirda", "planet/bosthirda"),
+    ("Dromund Fels", "planet/dromund-fels"),
+    ("Dromund Ixin", "planet/dromund-ixin"),
+    ("Dromund Kalakar", "planet/dromund-kalakar"),
+    ("Dromund Tyne", "planet/dromund-tyne"),
+    ("Kalsunor", "planet/kalsunor"),
+    ("Korriz", "planet/korriz"),
+    ("Nfolgai", "planet/nfolgai"),
+]
 
 
 def E(text: str, route: str = "") -> dict[str, str]:
@@ -16,10 +59,27 @@ def G(slug: str, caption: str) -> dict[str, str]:
     return {"path": f"/images/chronicles/{slug}-scene.webp", "caption": caption}
 
 
+def GL(
+    value: str,
+    route: str = "",
+    *,
+    emphasized: bool = False,
+    emphasis_tone: str = "",
+) -> dict[str, str | bool]:
+    item: dict[str, str | bool] = {"value": value, "route": route}
+    if emphasized:
+        item["emphasized"] = True
+    if emphasis_tone:
+        item["emphasisTone"] = emphasis_tone
+    return item
+
+
 def get_chronicle_profiles() -> dict[str, dict]:
     return {
         "dawn-of-the-jedi": {
             "dateRange": "c. 36,453 BBY – c. 25,000 BBY",
+            "government": GL("Je'daii Order", "governments/jedaii-order"),
+            "headOfState": GL("Je'daii Temple Masters", "governments/jedaii-order"),
             "overview": (
                 "The Dawn of the Jedi era marks the deepest recorded stratum of Force tradition in "
                 "galactic history — a time before the Republic, before the Sith Empire, and before "
@@ -131,6 +191,13 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "old-sith-empire": {
             "dateRange": "c. 6,900 BBY – 5,000 BBY",
+            "government": GL("Dark Council", "governments/dark-council"),
+            "headOfState": GL(
+                "Sith Emperor",
+                "sith/darth-vitiate",
+                emphasized=True,
+                emphasis_tone="sith",
+            ),
             "overview": (
                 "The Old Sith Empire was the first galactic dominion built explicitly on the dark "
                 "side — a theocratic war-state born from exiled Dark Jedi and the native Sith "
@@ -210,15 +277,15 @@ def get_chronicle_profiles() -> dict[str, dict]:
             ],
             "keyFactions": [],
             "majorCharacters": [
+                L("Sith Emperor", "Darth Vitiate", "sith/darth-vitiate", emphasized=True, emphasis_tone="sith"),
                 L("Sith", "Naga Sadow", "sith/naga-sadow"),
                 L("Sith", "Exar Kun", "sith/exar-kun"),
+                L("Sith", "Marka Ragnos", "sith/marka-ragnos"),
+                L("Sith", "Ludo Kressh", "sith/ludo-kressh"),
+                L("Sith", "Freedon Nadd", "sith/freedon-nadd"),
+                L("Sith", "Ajunta Pall", "sith/ajunta-pall"),
             ],
-            "planets": [
-                L("Planet", "Korriban", "korriban"),
-                L("Planet", "Ziost", "planet/ziost"),
-                L("Planet", "Yavin 4", "planet/yavin-4"),
-                L("Planet", "Ossus", "planet/ossus"),
-            ],
+            "planets": [L("Planet", name, route) for name, route in SITH_EMPIRE_PLANETS],
             "ships": [
                 L("Ship", "Sith Interceptor", "ships/sith-interceptor"),
             ],
@@ -245,6 +312,8 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "old-republic": {
             "dateRange": "c. 25,000 BBY – c. 1,000 BBY",
+            "government": GL("Galactic Senate", "governments/galactic-senate"),
+            "headOfState": GL("Supreme Chancellor", "governments/galactic-senate"),
             "overview": (
                 "The Old Republic era spans more than twenty-four millennia of democratic "
                 "experiment — from the unification of the Core Worlds through countless Jedi–Sith "
@@ -330,10 +399,23 @@ def get_chronicle_profiles() -> dict[str, dict]:
                 L("Faction", "Galactic Republic", "factions/republic"),
             ],
             "majorCharacters": [
+                L("Jedi", "Yoda", "jedi/yoda", emphasized=True, emphasis_tone="jedi"),
+                L("Jedi", "Bastila Shan", "jedi/bastila-shan"),
+                L("Jedi", "Jolee Bindo", "jedi/jolee-bindo"),
+                L("Jedi", "Meetra Surik", "jedi/meetra-surik"),
+                L("Jedi", "Satele Shan", "jedi/satele-shan"),
+                L("Jedi", "Revan", "jedi/revan"),
+                L("Republic", "Carth Onasi", "characters/carth-onasi"),
                 L("Sith", "Darth Revan", "sith/darth-revan"),
                 L("Sith", "Darth Malak", "sith/darth-malak"),
+                L("Sith", "Sith Emperor", "sith/darth-vitiate"),
+                L("Sith", "Darth Malgus", "sith/darth-malgus"),
+                L("Sith", "Darth Nihilus", "sith/darth-nihilus"),
+                L("Sith", "Darth Sion", "sith/darth-sion"),
+                L("Sith", "Darth Traya", "sith/darth-traya"),
+                L("Sith", "Ulic Qel-Droma", "sith/ulic-qel-droma"),
                 L("Sith", "Darth Bane", "sith/darth-bane"),
-                L("Jedi", "Yoda", "jedi/yoda"),
+                L("Sith", "Darth Zannah", "sith/darth-zannah"),
             ],
             "planets": [
                 L("Planet", "Coruscant", "coruscant"),
@@ -370,6 +452,8 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "high-republic": {
             "dateRange": "c. 500 BBY – c. 100 BBY",
+            "government": GL("Galactic Senate", "governments/galactic-senate"),
+            "headOfState": GL("Supreme Chancellor Lina Soh", "governments/galactic-senate"),
             "overview": (
                 "The High Republic was a zenith of Jedi idealism and Republic expansion — an age "
                 "when the Order served openly as heroes of the frontier, Starlight Beacons guided "
@@ -486,6 +570,13 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "fall-of-the-republic": {
             "dateRange": "32 BBY – 19 BBY",
+            "government": GL("Galactic Senate", "governments/galactic-senate"),
+            "headOfState": GL(
+                "Supreme Chancellor Palpatine",
+                "sith/darth-sidious",
+                emphasized=True,
+                emphasis_tone="sith",
+            ),
             "overview": (
                 "The Fall of the Republic covers the final thirteen years of democratic rule — "
                 "from the Naboo crisis through the Clone Wars to Order 66 and the Great Jedi "
@@ -622,6 +713,13 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "reign-of-the-empire": {
             "dateRange": "19 BBY – 4 BBY",
+            "government": GL("Imperial Ruling Council", "governments/imperial-ruling-council"),
+            "headOfState": GL(
+                "Galactic Emperor",
+                "sith/darth-sidious",
+                emphasized=True,
+                emphasis_tone="sith",
+            ),
             "overview": (
                 "The Reign of the Empire — often called the Dark Times — spans two decades of "
                 "authoritarian rule under Emperor Palpatine and Darth Vader. The Imperial "
@@ -750,6 +848,8 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "age-of-rebellion": {
             "dateRange": "4 BBY – 4 ABY",
+            "government": GL("Alliance Civil Government", "governments/alliance-civil-government"),
+            "headOfState": GL("Chancellor Mon Mothma", "characters/mon-mothma"),
             "overview": (
                 "The Age of Rebellion covers the Galactic Civil War — from the first formal "
                 "strikes against the Empire to the decisive victory at Endor. The Rebel Alliance "
@@ -871,6 +971,8 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "new-republic": {
             "dateRange": "4 ABY – 34 ABY",
+            "government": GL("New Republic Senate", "governments/new-republic-senate"),
+            "headOfState": GL("Chancellor of the New Republic", "characters/mon-mothma"),
             "overview": (
                 "The New Republic era spans three decades of restored democracy after Endor — "
                 "a fragile peace built on demilitarization, war-crimes tribunals, and Senate "
@@ -992,6 +1094,8 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "rise-of-the-first-order": {
             "dateRange": "34 ABY – 35 ABY",
+            "government": GL("First Order Supreme Council", "governments/first-order-supreme-council"),
+            "headOfState": GL("Supreme Leader", "governments/first-order-supreme-council"),
             "overview": (
                 "The Rise of the First Order covers the Sequel Trilogy's central conflict — "
                 "a compressed but galaxy-shaking war in which the First Order emerged from "
@@ -1117,6 +1221,13 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "new-jedi-order": {
             "dateRange": "4 ABY – onward",
+            "government": GL("Jedi High Council", "governments/jedi-council"),
+            "headOfState": GL(
+                "Jedi Master Luke Skywalker",
+                "jedi/luke-skywalker",
+                emphasized=True,
+                emphasis_tone="jedi",
+            ),
             "overview": (
                 "The New Jedi Order era encompasses the galaxy's long effort to rebuild "
                 "Jedi tradition after the Purge — from Luke Skywalker's first academy to "

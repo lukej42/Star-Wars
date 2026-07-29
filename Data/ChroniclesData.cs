@@ -20,7 +20,7 @@ public static class ChroniclesData
         },
         new()
         {
-            Name = "Old Sith Empire",
+            Name = "Sith Empire",
             Slug = "old-sith-empire",
             Route = "chronicles/galactic-history/old-sith-empire",
             EraLabel = "Sith Golden Age · Great Hyperspace War",

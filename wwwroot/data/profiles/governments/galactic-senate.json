@@ -1,0 +1,25 @@
+{
+  "overview": "The democratic legislature of the Galactic Republic, seated on Coruscant and led by the elected Supreme Chancellor.",
+  "history": "Galactic Senate governed galactic affairs during the Galactic Republic. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "Galactic Senate shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "Galactic Senate established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "Galactic Senate",
+    "Galactic Republic"
+  ],
+  "timeline": [
+    {
+      "era": "Galactic Republic",
+      "event": "Galactic Senate enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/galactic-senate-scene.webp",
+      "caption": "Cinematic illustration — Galactic Senate"
+    }
+  ]
+}

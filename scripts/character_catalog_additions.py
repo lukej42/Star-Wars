@@ -366,4 +366,24 @@ ADDITIONAL_CHARACTERS: list[dict[str, str]] = [
         ),
         "color": "#15803d",
     },
+    {
+        "name": "Meetra Surik",
+        "slug": "meetra-surik",
+        "role": "Jedi Exile",
+        "description": (
+            "A Jedi General exiled after the Mandalorian Wars who returned to face the Sith "
+            "Triumvirate and ended the threat on Malachor V."
+        ),
+        "color": "#2563eb",
+    },
+    {
+        "name": "Satele Shan",
+        "slug": "satele-shan",
+        "role": "Jedi Grand Master",
+        "description": (
+            "A legendary Jedi Battle Meditation master who led the Republic against the "
+            "resurgent Sith Empire and later served as Grand Master during the Great Galactic War era."
+        ),
+        "color": "#1d4ed8",
+    },
 ]

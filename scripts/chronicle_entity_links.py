@@ -14,7 +14,7 @@ CHRONICLES: dict[str, dict[str, str]] = {
         "route": "chronicles/galactic-history/dawn-of-the-jedi",
     },
     "old-sith-empire": {
-        "name": "Old Sith Empire",
+        "name": "Sith Empire",
         "route": "chronicles/galactic-history/old-sith-empire",
     },
     "old-republic": {
@@ -86,7 +86,6 @@ SITH_ERA: dict[str, list[str]] = {
         "darth-bane",
         "darth-zannah",
         "ulic-qel-droma",
-        "darth-vitiate",
         "darth-malgus",
         "darth-bandon",
     ],
@@ -116,6 +115,11 @@ JEDI_ERA: dict[str, list[str]] = {
     "dawn-of-the-jedi": [],
     "old-republic": [
         "yoda",
+        "bastila-shan",
+        "jolee-bindo",
+        "meetra-surik",
+        "revan",
+        "satele-shan",
     ],
     "high-republic": [
         "yaddle",
@@ -198,7 +202,12 @@ ENTITY_OVERRIDES: dict[tuple[str, str], list[str]] = {
     ("sith", "darth-vader"): ["fall-of-the-republic", "reign-of-the-empire", "age-of-rebellion"],
     ("sith", "darth-revan"): ["old-republic"],
     ("sith", "darth-malgus"): ["old-republic"],
-    ("sith", "darth-vitiate"): ["old-sith-empire", "old-republic"],
+    ("sith", "darth-vitiate"): ["old-sith-empire"],
+    ("jedi", "bastila-shan"): ["old-republic"],
+    ("jedi", "jolee-bindo"): ["old-republic"],
+    ("jedi", "meetra-surik"): ["old-republic"],
+    ("jedi", "revan"): ["old-republic"],
+    ("jedi", "satele-shan"): ["old-republic"],
     ("characters", "palpatine"): ["fall-of-the-republic", "reign-of-the-empire", "rise-of-the-first-order"],
     ("characters", "grand-moff-tarkin"): ["reign-of-the-empire", "age-of-rebellion"],
     ("characters", "mon-mothma"): ["fall-of-the-republic", "age-of-rebellion", "new-republic"],

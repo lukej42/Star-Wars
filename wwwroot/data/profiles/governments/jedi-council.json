@@ -1,0 +1,25 @@
+{
+  "overview": "The governing circle of the restored Jedi Order, guiding training and galactic stewardship after the fall of the Sith.",
+  "history": "Jedi High Council governed galactic affairs during the New Jedi Order. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "Jedi High Council shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "Jedi High Council established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "Jedi High Council",
+    "New Jedi Order"
+  ],
+  "timeline": [
+    {
+      "era": "New Jedi Order",
+      "event": "Jedi High Council enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/jedi-council-scene.webp",
+      "caption": "Cinematic illustration — Jedi High Council"
+    }
+  ]
+}

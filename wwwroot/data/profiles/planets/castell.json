@@ -1,32 +1,48 @@
 {
-  "overview": "A urban colony world of the Colicoid species and droid manufacturing.",
-  "history": "Castell appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Castell shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Castell remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Castell is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A urban colony world of the Colicoid species and droid manufacturing. Scholars of the Outer traditions cite Castell when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Castell within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A urban colony world of the Colicoid species and droid manufacturing. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Castell was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Castell's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Castell serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Castell embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Castell alive in holodramas, academy lectures, and pilgrim routes. The accent color #9a6a4a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Castell marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Castell within galactic records",
+    "Played a key role during the Galactic Civil War in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Castell's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Castell's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Castell's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Castell",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Castell"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Military interest in Castell increases"
-    },
-    {
       "era": "Imperial Era",
-      "event": "Imperial administration records Castell"
+      "event": "Castell enters historical record as outer rim territories"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Castell status"
+      "event": "Becomes widely known for actions tied to a urban colony world of the colicoid species and droid manufacturing"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Castell fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

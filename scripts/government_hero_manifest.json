@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "dark-council",
+    "name": "Dark Council",
+    "prompt": "Vast Sith Dark Council chamber on Dromund Kaas, towering obsidian thrones in a wide semicircle rising into shadow, hooded Sith Lords in black robes seated on the tall seats, crimson ambient lighting, gothic Sith architecture, lightning flashes through high windows, ominous dark side atmosphere. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/dark-council-scene.webp"
+  },
+  {
+    "slug": "jedaii-order",
+    "name": "Je'daii Order",
+    "prompt": "Ancient Je'daii Temple complex on Tython at dawn, massive stone pyramids and meditation rings beneath twin moons Ashla and Bogan, misty mountain valleys, balanced light and dark Force energy in the sky. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/jedaii-order-scene.webp"
+  },
+  {
+    "slug": "galactic-senate",
+    "name": "Galactic Senate",
+    "prompt": "Galactic Senate rotunda on Coruscant, thousands of repulsorpods in the vast circular chamber, central Chancellor's podium, golden skylight streaming down, democratic grandeur and political scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/galactic-senate-scene.webp"
+  },
+  {
+    "slug": "imperial-ruling-council",
+    "name": "Imperial Ruling Council",
+    "prompt": "Imperial Ruling Council chamber on Coruscant, black-uniformed advisors and senior officers around a holographic galactic map table, red and grey Imperial aesthetic, towering windows overlooking cityscape, authoritarian bureaucracy. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/imperial-ruling-council-scene.webp"
+  },
+  {
+    "slug": "alliance-civil-government",
+    "name": "Alliance Civil Government",
+    "prompt": "Rebel Alliance civil government war room on Yavin 4, diverse rebel leaders and officers around a tactical holotable with star maps and fleet markers, warm amber lighting inside a stone command bunker, hope and resistance. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/alliance-civil-government-scene.webp"
+  },
+  {
+    "slug": "new-republic-senate",
+    "name": "New Republic Senate",
+    "prompt": "New Republic Senate chamber on Chandrila, restored democratic rotunda with warm golden light, senators in repulsorpods, hopeful post-Empire atmosphere, banners of peace. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/new-republic-senate-scene.webp"
+  },
+  {
+    "slug": "first-order-supreme-council",
+    "name": "First Order Supreme Council",
+    "prompt": "First Order Supreme Council war room aboard a Resurgent-class Star Destroyer, stark black and chrome command tier with senior officers in black uniforms, cold blue holographic displays, militaristic Unknown Regions aesthetic. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/first-order-supreme-council-scene.webp"
+  },
+  {
+    "slug": "jedi-council",
+    "name": "Jedi High Council",
+    "prompt": "Restored Jedi High Council chamber in a new temple, circular window with golden sunset light, Jedi Masters in robes seated in the council ring, serene yet vigilant atmosphere of the New Jedi Order. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/governments/jedi-council-scene.webp"
+  }
+]

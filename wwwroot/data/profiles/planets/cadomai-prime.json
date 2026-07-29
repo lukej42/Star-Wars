@@ -1,32 +1,48 @@
 {
-  "overview": "Cadomai Prime is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights of the Old Republic, and Old Sith Empire records.",
-  "history": "Cadomai Prime appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Cadomai Prime shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Cadomai Prime remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Cadomai Prime is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. Cadomai Prime is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights of the Old Republic, and Old Sith Empire records. Scholars of the Outer traditions cite Cadomai Prime when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Cadomai Prime within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. Cadomai Prime is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights of the Old Republic, and Old Sith Empire records. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Cadomai Prime was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Cadomai Prime's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Cadomai Prime serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Cadomai Prime embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Cadomai Prime alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a7a5a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Cadomai Prime marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Cadomai Prime within galactic records",
+    "Played a key role during the Ancient Era in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Cadomai Prime's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Cadomai Prime's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Clone Wars",
+    "Inspired later movements that reinterpreted Cadomai Prime's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Cadomai Prime",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "First Order",
+      "event": "Cadomai Prime enters historical record as outer rim territories"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Participates in a pivotal campaign during the Ancient Era"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Cadomai Prime"
+      "event": "Becomes widely known for actions tied to cadomai prime is a outer rim territories world documented across the nine saga films, live-action and animated series, knights of the old republic, and old sith empire records"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as institutions around Cadomai Prime fracture"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Cadomai Prime increases"
+      "event": "Legacy debated by scholars of the Clone Wars"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Cadomai Prime"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Cadomai Prime status"
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

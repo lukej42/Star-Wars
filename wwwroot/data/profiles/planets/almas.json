@@ -1,32 +1,48 @@
 {
-  "overview": "A desert world in the Cularin system housing a Jedi academy built over an ancient Sith fortress.",
-  "history": "Almas appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Almas shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Almas remains a reference point in Cularin System surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Almas is remembered across the galaxy as a cularin system whose story intersects with pivotal eras of Star Wars history. A desert world in the Cularin system housing a Jedi academy built over an ancient Sith fortress. Scholars of the Cularin traditions cite Almas when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Almas within the broader tapestry of the Cularin System, long before the conflicts that would define modern galactic politics. A desert world in the Cularin system housing a Jedi academy built over an ancient Sith fortress. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Almas was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Almas's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Almas serves as a lens for understanding the cularin system and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Almas embodies the ideals and contradictions associated with the cularin system. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Almas alive in holodramas, academy lectures, and pilgrim routes. The accent color #c4a060 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Almas marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Cularin System",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Almas within galactic records",
+    "Played a key role during the Galactic Civil War in Cularin System",
+    "Survived or shaped a major battle linked to Almas's reputation",
+    "Formed alliances that reflected the priorities of the cularin system",
+    "Confronted rivals who challenged Almas's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Ancient Era",
+    "Inspired later movements that reinterpreted Almas's choices"
   ],
   "affiliations": [
-    "Cularin System"
+    "Cularin System",
+    "Allies of Almas",
+    "Galactic historians' archives",
+    "Cularin networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Almas"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Military interest in Almas increases"
-    },
-    {
       "era": "Imperial Era",
-      "event": "Imperial administration records Almas"
+      "event": "Almas enters historical record as cularin system"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Participates in a pivotal campaign during the Galactic Civil War"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Almas status"
+      "event": "Becomes widely known for actions tied to a desert world in the cularin system housing a jedi academy built over an ancient sith fortress"
+    },
+    {
+      "era": "First Order",
+      "event": "Navigates crisis as institutions around Almas fracture"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Legacy debated by scholars of the Ancient Era"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Commemorated in archives celebrating Cularin System"
     }
   ],
   "gallery": [

@@ -1,32 +1,48 @@
 {
-  "overview": "A Unknown Regions world linked to Sith Empire exile routes and hidden fleet movements.",
-  "history": "Volik appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Volik shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Volik remains a reference point in Unknown Regions surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Volik is remembered across the galaxy as a unknown regions whose story intersects with pivotal eras of Star Wars history. A Unknown Regions world linked to Sith Empire exile routes and hidden fleet movements. Scholars of the Unknown traditions cite Volik when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Volik within the broader tapestry of the Unknown Regions, long before the conflicts that would define modern galactic politics. A Unknown Regions world linked to Sith Empire exile routes and hidden fleet movements. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Volik was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Volik's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Volik serves as a lens for understanding the unknown regions and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Volik embodies the ideals and contradictions associated with the unknown regions. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Volik alive in holodramas, academy lectures, and pilgrim routes. The accent color #506070 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Volik marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Unknown Regions",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Volik within galactic records",
+    "Played a key role during the High Republic in Unknown Regions",
+    "Survived or shaped a major battle linked to Volik's reputation",
+    "Formed alliances that reflected the priorities of the unknown regions",
+    "Confronted rivals who challenged Volik's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Galactic Civil War",
+    "Inspired later movements that reinterpreted Volik's choices"
   ],
   "affiliations": [
-    "Unknown Regions"
+    "Unknown Regions",
+    "Allies of Volik",
+    "Galactic historians' archives",
+    "Unknown networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
       "era": "Old Republic",
-      "event": "First major settlement era on Volik"
+      "event": "Volik enters historical record as unknown regions"
+    },
+    {
+      "era": "High Republic",
+      "event": "Participates in a pivotal campaign during the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Volik increases"
+      "event": "Becomes widely known for actions tied to a unknown regions world linked to sith empire exile routes and hidden fleet movements"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Volik"
+      "event": "Navigates crisis as institutions around Volik fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated by scholars of the Galactic Civil War"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Volik status"
+      "event": "Commemorated in archives celebrating Unknown Regions"
     }
   ],
   "gallery": [

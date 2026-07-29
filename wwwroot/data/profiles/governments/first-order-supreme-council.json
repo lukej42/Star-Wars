@@ -1,0 +1,25 @@
+{
+  "overview": "The senior command structure of the First Order, directing military expansion from the Unknown Regions under the Supreme Leader.",
+  "history": "First Order Supreme Council governed galactic affairs during the First Order. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "First Order Supreme Council shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "First Order Supreme Council established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "First Order Supreme Council",
+    "First Order"
+  ],
+  "timeline": [
+    {
+      "era": "First Order",
+      "event": "First Order Supreme Council enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/first-order-supreme-council-scene.webp",
+      "caption": "Cinematic illustration — First Order Supreme Council"
+    }
+  ]
+}

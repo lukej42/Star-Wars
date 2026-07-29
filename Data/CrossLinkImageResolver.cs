@@ -76,6 +76,8 @@ public static class CrossLinkImageResolver
             "military-units" => ResolveMilitaryUnitImage(segments),
             "chronicles" when segments is ["chronicles", "galactic-history", var chronicleSlug] =>
                 $"/images/chronicles/{chronicleSlug}-scene.webp",
+            "governments" when segments.Length >= 2 =>
+                $"/images/governments/{segments[1]}-scene.webp",
             _ => null
         };
     }
@@ -84,7 +86,18 @@ public static class CrossLinkImageResolver
     {
         if (segments.Length == 2)
         {
-            return $"/images/military-units/{segments[1]}-hero.webp";
+            return MilitaryUnitData.GetFactionBySlug(segments[1])?.ArmyHeroPath;
+        }
+
+        if (segments.Length == 3 && segments[2] is "army" or "navy")
+        {
+            var faction = MilitaryUnitData.GetFactionBySlug(segments[1]);
+            if (faction is null)
+            {
+                return null;
+            }
+
+            return segments[2] == "navy" ? faction.NavyHeroPath : faction.ArmyHeroPath;
         }
 
         if (segments.Length >= 4)

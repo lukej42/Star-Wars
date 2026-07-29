@@ -1,32 +1,48 @@
 {
-  "overview": "The ancient Sith homeworld of barren red wastes, tomb valleys, and dark side sanctuaries predating Korriban records.",
-  "history": "Moraband appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Moraband shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Moraband remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Moraband is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. The ancient Sith homeworld of barren red wastes, tomb valleys, and dark side sanctuaries predating Korriban records. Scholars of the Outer traditions cite Moraband when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Moraband within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. The ancient Sith homeworld of barren red wastes, tomb valleys, and dark side sanctuaries predating Korriban records. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Moraband was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Moraband's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Moraband serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Moraband embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Moraband alive in holodramas, academy lectures, and pilgrim routes. The accent color #8a3030 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Moraband marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Moraband within galactic records",
+    "Played a key role during the Clone Wars in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Moraband's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Moraband's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Moraband's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Moraband",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Moraband"
+      "era": "High Republic",
+      "event": "Moraband enters historical record as outer rim territories"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Moraband increases"
+      "event": "Participates in a pivotal campaign during the Clone Wars"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Moraband"
+      "event": "Becomes widely known for actions tied to the ancient sith homeworld of barren red wastes, tomb valleys, and dark side sanctuaries predating korriban records"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Moraband fracture"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Moraband status"
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

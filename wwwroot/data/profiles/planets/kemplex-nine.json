@@ -1,32 +1,48 @@
 {
-  "overview": "A Deep Core astronomical anomaly destroyed when ancient Sith superweapons detonated during the Great Sith War.",
-  "history": "Kemplex IX appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Kemplex IX shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Kemplex IX remains a reference point in Sith Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Kemplex IX is remembered across the galaxy as a sith space whose story intersects with pivotal eras of Star Wars history. A Deep Core astronomical anomaly destroyed when ancient Sith superweapons detonated during the Great Sith War. Scholars of the Sith traditions cite Kemplex IX when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Kemplex IX within the broader tapestry of the Sith Space, long before the conflicts that would define modern galactic politics. A Deep Core astronomical anomaly destroyed when ancient Sith superweapons detonated during the Great Sith War. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Kemplex IX was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Kemplex IX's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Kemplex IX serves as a lens for understanding the sith space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Kemplex IX embodies the ideals and contradictions associated with the sith space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Kemplex IX alive in holodramas, academy lectures, and pilgrim routes. The accent color #5a8a9a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Kemplex IX marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Sith Space",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Kemplex IX within galactic records",
+    "Played a key role during the First Order in Sith Space",
+    "Survived or shaped a major battle linked to Kemplex IX's reputation",
+    "Formed alliances that reflected the priorities of the sith space",
+    "Confronted rivals who challenged Kemplex IX's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Kemplex IX's choices"
   ],
   "affiliations": [
-    "Sith Space"
+    "Sith Space",
+    "Allies of Kemplex IX",
+    "Galactic historians' archives",
+    "Sith networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "New Republic",
+      "event": "Kemplex IX enters historical record as sith space"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a deep core astronomical anomaly destroyed when ancient sith superweapons detonated during the great sith war"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Kemplex IX"
+      "event": "Navigates crisis as institutions around Kemplex IX fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Kemplex IX increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Kemplex IX"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Kemplex IX status"
+      "event": "Commemorated in archives celebrating Sith Space"
     }
   ],
   "gallery": [

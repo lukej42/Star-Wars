@@ -1,32 +1,48 @@
 {
-  "overview": "An Imperial prison world of harsh work camps where Jyn Erso was held before liberation.",
-  "history": "Wobani appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Wobani shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Wobani remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Wobani is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. An Imperial prison world of harsh work camps where Jyn Erso was held before liberation. Scholars of the Outer traditions cite Wobani when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Wobani within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. An Imperial prison world of harsh work camps where Jyn Erso was held before liberation. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Wobani was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Wobani's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Wobani serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Wobani embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Wobani alive in holodramas, academy lectures, and pilgrim routes. The accent color #8a6a4a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Wobani marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Wobani within galactic records",
+    "Played a key role during the New Republic in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Wobani's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Wobani's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Wobani's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Wobani",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Wobani"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Military interest in Wobani increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Wobani"
+      "era": "Galactic Civil War",
+      "event": "Wobani enters historical record as outer rim territories"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Wobani status"
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to an imperial prison world of harsh work camps where jyn erso was held before liberation"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Wobani fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

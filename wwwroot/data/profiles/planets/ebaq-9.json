@@ -1,32 +1,48 @@
 {
-  "overview": "An asteroid fortress in the Deep Core used by the New Republic against Yuuzhan Vong incursions.",
-  "history": "Ebaq 9 appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Ebaq 9 shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Ebaq 9 remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Ebaq 9 is remembered across the galaxy as a deep core whose story intersects with pivotal eras of Star Wars history. An asteroid fortress in the Deep Core used by the New Republic against Yuuzhan Vong incursions. Scholars of the Deep traditions cite Ebaq 9 when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Ebaq 9 within the broader tapestry of the Deep Core, long before the conflicts that would define modern galactic politics. An asteroid fortress in the Deep Core used by the New Republic against Yuuzhan Vong incursions. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Ebaq 9 was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Ebaq 9's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Ebaq 9 serves as a lens for understanding the deep core and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Ebaq 9 embodies the ideals and contradictions associated with the deep core. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Ebaq 9 alive in holodramas, academy lectures, and pilgrim routes. The accent color #707880 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Ebaq 9 marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Deep Core",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Ebaq 9 within galactic records",
+    "Played a key role during the High Republic in Deep Core",
+    "Survived or shaped a major battle linked to Ebaq 9's reputation",
+    "Formed alliances that reflected the priorities of the deep core",
+    "Confronted rivals who challenged Ebaq 9's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Galactic Civil War",
+    "Inspired later movements that reinterpreted Ebaq 9's choices"
   ],
   "affiliations": [
-    "Deep Core"
+    "Deep Core",
+    "Allies of Ebaq 9",
+    "Galactic historians' archives",
+    "Deep networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
       "era": "Old Republic",
-      "event": "First major settlement era on Ebaq 9"
+      "event": "Ebaq 9 enters historical record as deep core"
+    },
+    {
+      "era": "High Republic",
+      "event": "Participates in a pivotal campaign during the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Ebaq 9 increases"
+      "event": "Becomes widely known for actions tied to an asteroid fortress in the deep core used by the new republic against yuuzhan vong incursions"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Ebaq 9"
+      "event": "Navigates crisis as institutions around Ebaq 9 fracture"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Legacy debated by scholars of the Galactic Civil War"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Ebaq 9 status"
+      "event": "Commemorated in archives celebrating Deep Core"
     }
   ],
   "gallery": [

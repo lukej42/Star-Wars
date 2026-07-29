@@ -1,0 +1,65 @@
+@page "/governments/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject DirectoryProfileService ProfileService
+@inject EntityCrossLinkService CrossLinkService
+
+<PageTitle>@(government?.Name ?? "Government")</PageTitle>
+
+@if (government is null)
+{
+    <h1>Government not found</h1>
+    <p>Sorry, there are no records for this governing body.</p>
+}
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading government records…</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@government.Name"
+                          HeroImagePath="@government.SceneImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {government.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@government.Era"
+                          OverviewText="@(profile?.Overview ?? government.Description)"
+                          HistoryText="@(profile?.History ?? string.Empty)"
+                          SignificanceText="@(profile?.Significance ?? string.Empty)"
+                          SignificanceHeading="Legacy and impact"
+                          NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          AccentColor="@government.Color">
+        <a href="chronicles/galactic-history">Back to Galactic History</a>
+    </DirectoryDetailShell>
+    <EntityCrossLinks Links="@crossLinks" />
+}
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private Government? government;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
+
+    protected override async Task OnParametersSetAsync()
+    {
+        government = GovernmentData.GetBySlug(Slug);
+        profileLoaded = false;
+        profile = null;
+        crossLinks = [];
+
+        if (government is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("governments", government.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("governments", government.Slug);
+        }
+
+        profileLoaded = true;
+    }
+}

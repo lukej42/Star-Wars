@@ -1,32 +1,48 @@
 {
-  "overview": "A domed pleasure world governed by the Duchess of Plazir-15 in the New Republic era.",
-  "history": "Plazir-17 appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Plazir-17 shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Plazir-17 remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Plazir-17 is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A domed pleasure world governed by the Duchess of Plazir-15 in the New Republic era. Scholars of the Outer traditions cite Plazir-17 when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Plazir-17 within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A domed pleasure world governed by the Duchess of Plazir-15 in the New Republic era. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Plazir-17 was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Plazir-17's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Plazir-17 serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Plazir-17 embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Plazir-17 alive in holodramas, academy lectures, and pilgrim routes. The accent color #4a7a5a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Plazir-17 marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Plazir-17 within galactic records",
+    "Played a key role during the Ancient Era in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Plazir-17's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Plazir-17's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Clone Wars",
+    "Inspired later movements that reinterpreted Plazir-17's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Plazir-17",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "First Order",
+      "event": "Plazir-17 enters historical record as outer rim territories"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Participates in a pivotal campaign during the Ancient Era"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Plazir-17"
+      "event": "Becomes widely known for actions tied to a domed pleasure world governed by the duchess of plazir-15 in the new republic era"
+    },
+    {
+      "era": "High Republic",
+      "event": "Navigates crisis as institutions around Plazir-17 fracture"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Plazir-17 increases"
+      "event": "Legacy debated by scholars of the Clone Wars"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Plazir-17"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Plazir-17 status"
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

@@ -62,6 +62,15 @@ public static class JediData
         },
         new()
         {
+            Name = "Bastila Shan",
+            Slug = "bastila-shan",
+            Route = "jedi/bastila-shan",
+            Rank = "Jedi Padawan",
+            Description = "A Battle Meditation prodigy whose Force bond with Revan decided the fate of the Jedi Civil War and the Star Forge.",
+            Color = "#3b82f6"
+        },
+        new()
+        {
             Name = "Bolla Ropal",
             Slug = "bolla-ropal",
             Route = "jedi/bolla-ropal",
@@ -161,6 +170,15 @@ public static class JediData
         },
         new()
         {
+            Name = "Jolee Bindo",
+            Slug = "jolee-bindo",
+            Route = "jedi/jolee-bindo",
+            Rank = "Hermit Jedi",
+            Description = "A cynical former Jedi who exiled himself on Kashyyyk before aiding Revan against Darth Malak with unorthodox light-side wisdom.",
+            Color = "#15803d"
+        },
+        new()
+        {
             Name = "Jocasta Nu",
             Slug = "jocasta-nu",
             Route = "jedi/jocasta-nu",
@@ -230,6 +248,15 @@ public static class JediData
             Rank = "Jedi Master",
             Description = "The son of Anakin Skywalker who destroyed the Death Star and restored balance to the Force.",
             Color = "#22c55e"
+        },
+        new()
+        {
+            Name = "Meetra Surik",
+            Slug = "meetra-surik",
+            Route = "jedi/meetra-surik",
+            Rank = "Jedi Exile",
+            Description = "A Mandalorian Wars general exiled by the Council who returned to destroy the Sith Triumvirate on Malachor V.",
+            Color = "#2563eb"
         },
         new()
         {
@@ -305,12 +332,30 @@ public static class JediData
         },
         new()
         {
+            Name = "Revan",
+            Slug = "revan",
+            Route = "jedi/revan",
+            Rank = "Jedi Knight",
+            Description = "A Revanchist hero redeemed after falling to the dark side, who destroyed the Star Forge and saved the Republic from Darth Malak.",
+            Color = "#6366f1"
+        },
+        new()
+        {
             Name = "Saesee Tiin",
             Slug = "saesee-tiin",
             Route = "jedi/saesee-tiin",
             Rank = "Jedi Master",
             Description = "An Iktotchi Jedi Council member and ace starfighter pilot who served throughout the Clone Wars.",
             Color = "#22c55e"
+        },
+        new()
+        {
+            Name = "Satele Shan",
+            Slug = "satele-shan",
+            Route = "jedi/satele-shan",
+            Rank = "Jedi Grand Master",
+            Description = "A Battle Meditation master who led the Republic against the resurgent Sith Empire during the Great Galactic War.",
+            Color = "#1d4ed8"
         },
         new()
         {

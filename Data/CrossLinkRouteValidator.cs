@@ -180,6 +180,11 @@ public static class CrossLinkRouteValidator
             routes.Add(chronicle.Route);
         }
 
+        foreach (var government in GovernmentData.Governments)
+        {
+            routes.Add(government.Route);
+        }
+
         return routes;
     }
 }

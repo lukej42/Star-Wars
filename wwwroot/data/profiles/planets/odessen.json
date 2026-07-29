@@ -1,32 +1,48 @@
 {
-  "overview": "A remote sanctuary world that became the Eternal Alliance base in the Old Republic era.",
-  "history": "Odessen appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Odessen shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Odessen remains a reference point in Wild Space surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Odessen is remembered across the galaxy as a wild space whose story intersects with pivotal eras of Star Wars history. A remote sanctuary world that became the Eternal Alliance base in the Old Republic era. Scholars of the Wild traditions cite Odessen when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Odessen within the broader tapestry of the Wild Space, long before the conflicts that would define modern galactic politics. A remote sanctuary world that became the Eternal Alliance base in the Old Republic era. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Odessen was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Odessen's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Odessen serves as a lens for understanding the wild space and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Odessen embodies the ideals and contradictions associated with the wild space. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Odessen alive in holodramas, academy lectures, and pilgrim routes. The accent color #9a6a4a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Odessen marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Wild Space",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Odessen within galactic records",
+    "Played a key role during the Imperial Era in Wild Space",
+    "Survived or shaped a major battle linked to Odessen's reputation",
+    "Formed alliances that reflected the priorities of the wild space",
+    "Confronted rivals who challenged Odessen's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the First Order",
+    "Inspired later movements that reinterpreted Odessen's choices"
   ],
   "affiliations": [
-    "Wild Space"
+    "Wild Space",
+    "Allies of Odessen",
+    "Galactic historians' archives",
+    "Wild networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Odessen"
-    },
-    {
       "era": "Clone Wars",
-      "event": "Military interest in Odessen increases"
+      "event": "Odessen enters historical record as wild space"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Odessen"
+      "event": "Participates in a pivotal campaign during the Imperial Era"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Becomes widely known for actions tied to a remote sanctuary world that became the eternal alliance base in the old republic era"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Odessen status"
+      "event": "Navigates crisis as institutions around Odessen fracture"
+    },
+    {
+      "era": "First Order",
+      "event": "Legacy debated by scholars of the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Commemorated in archives celebrating Wild Space"
     }
   ],
   "gallery": [

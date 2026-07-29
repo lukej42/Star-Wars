@@ -66,9 +66,13 @@ OLD_REPUBLIC_SITH_SLUGS = {
     "darth-bane",
     "darth-zannah",
     "ulic-qel-droma",
-    "darth-vitiate",
     "darth-malgus",
     "darth-bandon",
+}
+
+OLD_SITH_EMPIRE_EXTENDED_SLUGS = OLD_SITH_EMPIRE_SLUGS | {
+    "darth-vitiate",
+    "ulic-qel-droma",
 }
 
 FALL_REPUBLIC_SITH_FACTIONS: dict[str, list[str]] = {
@@ -244,7 +248,7 @@ def _sith_faction_slugs(slug: str) -> list[str]:
         return ["empire"]
     if slug in FALL_REPUBLIC_SITH_FACTIONS:
         return FALL_REPUBLIC_SITH_FACTIONS[slug]
-    if slug in OLD_SITH_EMPIRE_SLUGS or slug in OLD_REPUBLIC_SITH_SLUGS:
+    if slug in OLD_SITH_EMPIRE_EXTENDED_SLUGS or slug in OLD_REPUBLIC_SITH_SLUGS:
         return ["sith-empire"]
     return []
 

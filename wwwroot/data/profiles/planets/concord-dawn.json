@@ -1,32 +1,48 @@
 {
-  "overview": "A Mandalorian colony world of Journeyman Protectors and beskar traditions.",
-  "history": "Concord Dawn appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Concord Dawn shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Concord Dawn remains a reference point in Outer Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Concord Dawn is remembered across the galaxy as a outer rim territories whose story intersects with pivotal eras of Star Wars history. A Mandalorian colony world of Journeyman Protectors and beskar traditions. Scholars of the Outer traditions cite Concord Dawn when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Concord Dawn within the broader tapestry of the Outer Rim Territories, long before the conflicts that would define modern galactic politics. A Mandalorian colony world of Journeyman Protectors and beskar traditions. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Concord Dawn was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Concord Dawn's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Concord Dawn serves as a lens for understanding the outer rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Concord Dawn embodies the ideals and contradictions associated with the outer rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Concord Dawn alive in holodramas, academy lectures, and pilgrim routes. The accent color #7a5a8a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Concord Dawn marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Outer Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Concord Dawn within galactic records",
+    "Played a key role during the New Republic in Outer Rim Territories",
+    "Survived or shaped a major battle linked to Concord Dawn's reputation",
+    "Formed alliances that reflected the priorities of the outer rim territories",
+    "Confronted rivals who challenged Concord Dawn's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the Old Republic",
+    "Inspired later movements that reinterpreted Concord Dawn's choices"
   ],
   "affiliations": [
-    "Outer Rim Territories"
+    "Outer Rim Territories",
+    "Allies of Concord Dawn",
+    "Galactic historians' archives",
+    "Outer networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Concord Dawn"
-    },
-    {
-      "era": "Clone Wars",
-      "event": "Military interest in Concord Dawn increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Concord Dawn"
+      "era": "Galactic Civil War",
+      "event": "Concord Dawn enters historical record as outer rim territories"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Concord Dawn status"
+      "event": "Participates in a pivotal campaign during the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Becomes widely known for actions tied to a mandalorian colony world of journeyman protectors and beskar traditions"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Navigates crisis as institutions around Concord Dawn fracture"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Legacy debated by scholars of the Old Republic"
+    },
+    {
+      "era": "High Republic",
+      "event": "Commemorated in archives celebrating Outer Rim Territories"
     }
   ],
   "gallery": [

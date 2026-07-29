@@ -1,0 +1,43 @@
+{
+  "overview": "Revan was a Jedi Knight whose charisma and tactical genius ended the Mandalorian Wars—and whose fall created a new Sith Empire. Redeemed after the Jedi Council wiped his memory, Revan destroyed the Star Forge, defeated Darth Malak, and vanished pursuing threats in the Unknown Regions, leaving both Orders debating his true legacy.",
+  "history": "When the Mandalorian Neo-Crusaders threatened the Republic, Revan defied the Jedi Council and led Revanchist knights to victory on Dxun, Malachor V, and countless Rim battlefields. Exposure to Sith artifacts in the Unknown Regions corrupted the crusaders; Revan and Malak returned as Sith Lords wielding the Star Forge.\n\nMalak's betrayal left Revan captured. The Council reprogrammed him as a loyal agent who rediscovered his past aboard the Ebon Hawk with Bastila Shan, Carth Onasi, and companions across Taris and Dantooine. Choosing the light, Revan struck down Malak at Rakata Prime and dismantled the Sith fleet.\n\nRevan then disappeared searching for the True Sith, was imprisoned by the Sith Emperor Vitiate on Yavin 4, and became a myth cited by both Jedi reformers and Sith cultists for millennia.",
+  "significance": "Revan's redemption arc defines the Old Republic era's moral complexity—hero and tyrant in one lifetime.\n\nThe Revanchist movement foreshadows Anakin Skywalker's preemptive wars and the Jedi Council's paralysis when the galaxy demands action.\n\nRevan's mask, lightsaber forms, and Ebon Hawk crew remain touchstones linking KOTOR games to broader galactic chronology.",
+  "notableEvents": [
+    "Defied the Council to fight the Mandalorian Wars",
+    "Fell to the dark side and ruled as Darth Revan",
+    "Was mind-wiped and rebuilt as a Jedi agent",
+    "Redeemed and destroyed the Star Forge at Rakata Prime",
+    "Vanished pursuing the True Sith in the Unknown Regions"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Revanchist movement",
+    "Galactic Republic",
+    "Ebon Hawk crew",
+    "Dantooine Jedi Enclave (after redemption)"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Led the Revanchist crusade against the Mandalorians"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Ruled as Darth Revan before Malak's betrayal"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Was redeemed and defeated Malak at Rakata Prime"
+    },
+    {
+      "era": "Old Republic",
+      "event": "Disappeared into the Unknown Regions"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/jedi/revan-scene.webp",
+      "caption": "Cinematic illustration — Revan"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "overview": "The restored democratic senate of the New Republic, rebuilding galactic governance after the Empire's defeat at Endor.",
+  "history": "New Republic Senate governed galactic affairs during the New Republic. Detailed chronicles, succession rules, and institutional structure will be expanded in a future update.",
+  "significance": "New Republic Senate shaped the political identity of its era and remains a reference point when historians compare later governments across the Star Wars timeline.",
+  "notableEvents": [
+    "New Republic Senate established as a governing authority in galactic records",
+    "Institutional powers and succession rules documented across chronicle eras"
+  ],
+  "affiliations": [
+    "New Republic Senate",
+    "New Republic"
+  ],
+  "timeline": [
+    {
+      "era": "New Republic",
+      "event": "New Republic Senate enters the historical record"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/governments/new-republic-senate-scene.webp",
+      "caption": "Cinematic illustration — New Republic Senate"
+    }
+  ]
+}

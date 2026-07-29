@@ -1,32 +1,48 @@
 {
-  "overview": "A Mid Rim battleground world where art and war collided under Imperial occupation.",
-  "history": "Centares appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Centares shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Centares remains a reference point in Mid Rim Territories surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Centares is remembered across the galaxy as a mid rim territories whose story intersects with pivotal eras of Star Wars history. A Mid Rim battleground world where art and war collided under Imperial occupation. Scholars of the Mid traditions cite Centares when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Centares within the broader tapestry of the Mid Rim Territories, long before the conflicts that would define modern galactic politics. A Mid Rim battleground world where art and war collided under Imperial occupation. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Centares was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Centares's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Centares serves as a lens for understanding the mid rim territories and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Centares embodies the ideals and contradictions associated with the mid rim territories. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Centares alive in holodramas, academy lectures, and pilgrim routes. The accent color #8a7060 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Centares marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Mid Rim Territories",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Centares within galactic records",
+    "Played a key role during the Clone Wars in Mid Rim Territories",
+    "Survived or shaped a major battle linked to Centares's reputation",
+    "Formed alliances that reflected the priorities of the mid rim territories",
+    "Confronted rivals who challenged Centares's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Centares's choices"
   ],
   "affiliations": [
-    "Mid Rim Territories"
+    "Mid Rim Territories",
+    "Allies of Centares",
+    "Galactic historians' archives",
+    "Mid networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Centares"
+      "era": "High Republic",
+      "event": "Centares enters historical record as mid rim territories"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Centares increases"
+      "event": "Participates in a pivotal campaign during the Clone Wars"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Centares"
+      "event": "Becomes widely known for actions tied to a mid rim battleground world where art and war collided under imperial occupation"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Centares fracture"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Centares status"
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Mid Rim Territories"
     }
   ],
   "gallery": [

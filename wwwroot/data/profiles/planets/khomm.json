@@ -1,32 +1,48 @@
 {
-  "overview": "A Deep Core cloning world of uniform Arkanian Offshoot communities and genetic laboratories.",
-  "history": "Khomm appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Khomm shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Khomm remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Khomm is remembered across the galaxy as a deep core whose story intersects with pivotal eras of Star Wars history. A Deep Core cloning world of uniform Arkanian Offshoot communities and genetic laboratories. Scholars of the Deep traditions cite Khomm when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Khomm within the broader tapestry of the Deep Core, long before the conflicts that would define modern galactic politics. A Deep Core cloning world of uniform Arkanian Offshoot communities and genetic laboratories. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Khomm was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Khomm's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Khomm serves as a lens for understanding the deep core and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Khomm embodies the ideals and contradictions associated with the deep core. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Khomm alive in holodramas, academy lectures, and pilgrim routes. The accent color #8a9aaa often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Khomm marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Deep Core",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Khomm within galactic records",
+    "Played a key role during the First Order in Deep Core",
+    "Survived or shaped a major battle linked to Khomm's reputation",
+    "Formed alliances that reflected the priorities of the deep core",
+    "Confronted rivals who challenged Khomm's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Khomm's choices"
   ],
   "affiliations": [
-    "Deep Core"
+    "Deep Core",
+    "Allies of Khomm",
+    "Galactic historians' archives",
+    "Deep networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "New Republic",
+      "event": "Khomm enters historical record as deep core"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a deep core cloning world of uniform arkanian offshoot communities and genetic laboratories"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Khomm"
+      "event": "Navigates crisis as institutions around Khomm fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Khomm increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Khomm"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Khomm status"
+      "event": "Commemorated in archives celebrating Deep Core"
     }
   ],
   "gallery": [

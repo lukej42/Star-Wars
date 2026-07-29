@@ -1,5 +1,13 @@
 {
   "dateRange": "c. 25,000 BBY – c. 1,000 BBY",
+  "government": {
+    "value": "Galactic Senate",
+    "route": "governments/galactic-senate"
+  },
+  "headOfState": {
+    "value": "Supreme Chancellor",
+    "route": "governments/galactic-senate"
+  },
   "overview": "The Old Republic era spans more than twenty-four millennia of democratic experiment — from the unification of the Core Worlds through countless Jedi–Sith conflicts, Mandalorian crusades, and the final New Sith Wars that ended with Darth Bane's Rule of Two and the Ruusan Reformations. For most of this period the Republic was the default condition of civilized space, guarded by a Jedi Order that evolved from frontier knights into galactic peacekeepers.",
   "history": "The founding of the Galactic Republic united disparate Core systems under a single Senate and judiciary, with the Jedi Order serving as voluntary mediators rather than rulers. Early expansion along newly charted hyperspace lanes brought member worlds from the Colonies into the Mid Rim, but the process was never bloodless — corporate exploitation, slavery in the Outer Rim, and periodic Sith resurgences tested the Republic's ideals from the beginning.\n\nThe Mandalorian Wars of 3,964–3,960 BBY exposed a fatal flaw in Jedi doctrine. When the warrior clans of Mandalore the Ultimate swept through the Outer Rim, the Jedi Council refused to intervene — but Revan and Malak defied the Order, leading rogue knights to victory at terrible moral cost. Revan's fall to the dark side, Malak's destruction of Taris, and the Star Forge crisis on Lehon became cautionary tales cited for centuries whenever Jedi debated preemptive war.\n\nThe Great Galactic War (3,681–3,653 BBY) and subsequent Cold War pitted a restored Sith Empire — hidden since the Hyperspace War — against a Republic already scarred by Mandalorian and Jedi civil conflicts. Battles on Coruscant itself, the sacking of the Jedi Temple, and the treachery of Sith politics defined the *Star Wars: The Old Republic* era. The [Sith Code](the-force/sith-code) and [Jedi Code](the-force/jedi-code) were not abstract texts here; they were marching orders for armies numbering in the billions.\n\nBetween these galactic wars, the Republic endured brushfire conflicts, corporate privatization of security forces, and the slow drift of Rim worlds toward separatist sentiment. The Jedi rebuilt temples, trained padawans on Coruscant, and maintained the Great Library on Ossus until its destruction during Exar Kun's campaign — later replaced by archives on Telos and the Jedi Temple itself.\n\nThe New Sith Wars (c. 2,000–1,000 BBY) — also called the Sith Wars or Brotherhood of Darkness era — reduced vast regions of the galaxy to battlefields. Sith Lords multiplied under Kaan's Brotherhood, abandoning Bane's eventual philosophy of secrecy for open warfare. The final campaign on Ruusan consumed both armies in a thought bomb's annihilation, leaving Darth Bane the sole surviving Sith Lord. His Rule of Two — master and apprentice, hidden until the moment of galactic conquest — reshaped Sith strategy for the next thousand years.\n\nThe Ruusan Reformations (~1,000 BBY) demilitarized the Republic, reorganized the Jedi as peacekeepers rather than generals, and began the millennium of relative stability that Palpatine would exploit. Yoda, already centuries old, trained generations of Jedi in this new era — an unbroken chain leading directly to the prequel trilogy's tragedy.",
   "significance": "The Old Republic is the galaxy's longest experiment in democratic governance at interstellar scale. Its successes — trade, diplomacy, cultural exchange — and failures — inequality, militarization, Sith infiltration — explain every political argument in the Skywalker saga.\n\nRevan, Malak, Bane, and the Ruusan Reformations are hinge points that connect Legends games and novels to film canon. Without Bane's Rule of Two, Palpatine and Vader's dyad makes no sense; without the Mandalorian Wars, Revan's mask and the Jedi Council's caution in the Clone Wars lose their historical weight.\n\nThe era also grounds the Jedi Order's identity: guardians who learned, again and again, that refusing to fight could be as catastrophic as fighting without restraint.",
@@ -34,6 +42,43 @@
   ],
   "majorCharacters": [
     {
+      "label": "Jedi",
+      "value": "Yoda",
+      "route": "jedi/yoda",
+      "emphasized": true,
+      "emphasisTone": "jedi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Bastila Shan",
+      "route": "jedi/bastila-shan"
+    },
+    {
+      "label": "Jedi",
+      "value": "Jolee Bindo",
+      "route": "jedi/jolee-bindo"
+    },
+    {
+      "label": "Jedi",
+      "value": "Meetra Surik",
+      "route": "jedi/meetra-surik"
+    },
+    {
+      "label": "Jedi",
+      "value": "Satele Shan",
+      "route": "jedi/satele-shan"
+    },
+    {
+      "label": "Jedi",
+      "value": "Revan",
+      "route": "jedi/revan"
+    },
+    {
+      "label": "Republic",
+      "value": "Carth Onasi",
+      "route": "characters/carth-onasi"
+    },
+    {
       "label": "Sith",
       "value": "Darth Revan",
       "route": "sith/darth-revan"
@@ -45,13 +90,43 @@
     },
     {
       "label": "Sith",
+      "value": "Sith Emperor",
+      "route": "sith/darth-vitiate"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Malgus",
+      "route": "sith/darth-malgus"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Nihilus",
+      "route": "sith/darth-nihilus"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Sion",
+      "route": "sith/darth-sion"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Traya",
+      "route": "sith/darth-traya"
+    },
+    {
+      "label": "Sith",
+      "value": "Ulic Qel-Droma",
+      "route": "sith/ulic-qel-droma"
+    },
+    {
+      "label": "Sith",
       "value": "Darth Bane",
       "route": "sith/darth-bane"
     },
     {
-      "label": "Jedi",
-      "value": "Yoda",
-      "route": "jedi/yoda"
+      "label": "Sith",
+      "value": "Darth Zannah",
+      "route": "sith/darth-zannah"
     }
   ],
   "planets": [

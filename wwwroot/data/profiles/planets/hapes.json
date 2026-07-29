@@ -1,32 +1,48 @@
 {
-  "overview": "The crown world of the Hapes Consortium, isolated by transitory mists and royal matriarchy.",
-  "history": "Hapes appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Hapes shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Hapes remains a reference point in Hapes Consortium surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Hapes is remembered across the galaxy as a hapes consortium whose story intersects with pivotal eras of Star Wars history. The crown world of the Hapes Consortium, isolated by transitory mists and royal matriarchy. Scholars of the Hapes traditions cite Hapes when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Hapes within the broader tapestry of the Hapes Consortium, long before the conflicts that would define modern galactic politics. The crown world of the Hapes Consortium, isolated by transitory mists and royal matriarchy. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Hapes was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Hapes's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Hapes serves as a lens for understanding the hapes consortium and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Hapes embodies the ideals and contradictions associated with the hapes consortium. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Hapes alive in holodramas, academy lectures, and pilgrim routes. The accent color #9a7ab0 often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Hapes marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Hapes Consortium",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Hapes within galactic records",
+    "Played a key role during the Clone Wars in Hapes Consortium",
+    "Survived or shaped a major battle linked to Hapes's reputation",
+    "Formed alliances that reflected the priorities of the hapes consortium",
+    "Confronted rivals who challenged Hapes's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the New Republic",
+    "Inspired later movements that reinterpreted Hapes's choices"
   ],
   "affiliations": [
-    "Hapes Consortium"
+    "Hapes Consortium",
+    "Allies of Hapes",
+    "Galactic historians' archives",
+    "Hapes networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
-      "era": "Old Republic",
-      "event": "First major settlement era on Hapes"
+      "era": "High Republic",
+      "event": "Hapes enters historical record as hapes consortium"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Hapes increases"
+      "event": "Participates in a pivotal campaign during the Clone Wars"
     },
     {
       "era": "Imperial Era",
-      "event": "Imperial administration records Hapes"
+      "event": "Becomes widely known for actions tied to the crown world of the hapes consortium, isolated by transitory mists and royal matriarchy"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Navigates crisis as institutions around Hapes fracture"
     },
     {
       "era": "New Republic",
-      "event": "Post-war surveys update Hapes status"
+      "event": "Legacy debated by scholars of the New Republic"
+    },
+    {
+      "era": "First Order",
+      "event": "Commemorated in archives celebrating Hapes Consortium"
     }
   ],
   "gallery": [

@@ -1,32 +1,48 @@
 {
-  "overview": "A Deep Core industrial world and capital of the Tetan monarchy, central to the Great Sith War.",
-  "history": "Empress Teta appears in records spanning the Old Republic, Clone Wars, Imperial era, Galactic Civil War, and Legacy periods. Archaeological surveys, holocrons, and veteran testimony preserve its place in galactic history.\n\nStrategic value, cultural identity, and Force-sensitive traditions on Empress Teta shifted with each regime—from Sith occupation to Republic restoration and beyond.",
-  "significance": "Empress Teta remains a reference point in Deep Core surveys, trade lane charts, and military campaign planning across the nine saga films, series, KOTOR, and the Old Sith Empire.",
+  "overview": "Empress Teta is remembered across the galaxy as a deep core whose story intersects with pivotal eras of Star Wars history. A Deep Core industrial world and capital of the Tetan monarchy, central to the Great Sith War. Scholars of the Deep traditions cite Empress Teta when explaining how individual choices ripple through wars, councils, and frontier worlds alike.",
+  "history": "Early records place Empress Teta within the broader tapestry of the Deep Core, long before the conflicts that would define modern galactic politics. A Deep Core industrial world and capital of the Tetan monarchy, central to the Great Sith War. Allies and rivals alike noted a distinctive presence shaped by training, culture, and the constant pull of the Force.\n\nAs tensions escalated between major factions, Empress Teta was drawn into campaigns that tested conviction as much as skill. Field reports describe decisive moments where strategy, diplomacy, or raw power shifted the balance—often at personal cost.\n\nThe fall of old institutions did not erase Empress Teta's influence. Survivors, historians, and later movements retold their deeds, sometimes mythologizing details yet preserving the core truth that one figure can anchor hope or fear across decades.\n\nIn contemporary chronicles, Empress Teta serves as a lens for understanding the deep core and its legacy. Whether celebrated or condemned, their story invites new generations to question what duty demands when the galaxy burns.",
+  "significance": "Empress Teta embodies the ideals and contradictions associated with the deep core. Their biography helps explain how local choices on distant worlds connect to senate halls and temple councils.\n\nCultural memory keeps Empress Teta alive in holodramas, academy lectures, and pilgrim routes. The accent color #6a5a8a often appears in fan art and ceremonial banners tied to their legacy.\n\nFor researchers mapping galactic history, Empress Teta marks a node where personal narrative meets institutional change—proof that individuals can steer eras even when structures claim inevitability.",
   "notableEvents": [
-    "Surveyed during the Old Republic expansion into Deep Core",
-    "Referenced in Clone Wars and Imperial era records",
-    "Documented in Knights of the Old Republic archives",
-    "Listed in Old Sith Empire star charts"
+    "First documented emergence of Empress Teta within galactic records",
+    "Played a key role during the First Order in Deep Core",
+    "Survived or shaped a major battle linked to Empress Teta's reputation",
+    "Formed alliances that reflected the priorities of the deep core",
+    "Confronted rivals who challenged Empress Teta's vision of order",
+    "Witnessed the transformation of the galaxy's ruling powers",
+    "Left artifacts, teachings, or monuments still cited in the High Republic",
+    "Inspired later movements that reinterpreted Empress Teta's choices"
   ],
   "affiliations": [
-    "Deep Core"
+    "Deep Core",
+    "Allies of Empress Teta",
+    "Galactic historians' archives",
+    "Deep networks",
+    "Local defense militias"
   ],
   "timeline": [
     {
+      "era": "New Republic",
+      "event": "Empress Teta enters historical record as deep core"
+    },
+    {
+      "era": "First Order",
+      "event": "Participates in a pivotal campaign during the First Order"
+    },
+    {
+      "era": "Ancient Era",
+      "event": "Becomes widely known for actions tied to a deep core industrial world and capital of the tetan monarchy, central to the great sith war"
+    },
+    {
       "era": "Old Republic",
-      "event": "First major settlement era on Empress Teta"
+      "event": "Navigates crisis as institutions around Empress Teta fracture"
+    },
+    {
+      "era": "High Republic",
+      "event": "Legacy debated by scholars of the High Republic"
     },
     {
       "era": "Clone Wars",
-      "event": "Military interest in Empress Teta increases"
-    },
-    {
-      "era": "Imperial Era",
-      "event": "Imperial administration records Empress Teta"
-    },
-    {
-      "era": "New Republic",
-      "event": "Post-war surveys update Empress Teta status"
+      "event": "Commemorated in archives celebrating Deep Core"
     }
   ],
   "gallery": [
