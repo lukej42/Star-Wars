@@ -1,17 +1,11 @@
 @using StarWars.Models
 
-@if (ArchiveLinks.Count > 0)
+@if (Links.Count > 0)
 {
-    <EntityCrossLinks Links="@ArchiveLinks" Heading="@ArchiveHeading" Compact="@Compact" />
-}
-@if (ChronicleLinks.Count > 0)
-{
-    <EntityCrossLinks Links="@ChronicleLinks" Heading="Galactic History" Compact="@Compact" />
+    <EntityCrossLinks Links="@Links" Heading="@ArchiveHeading" Compact="@Compact" />
 }
 
 @code {
-    private const string ChronicleLabel = "Chronicle";
-
     [Parameter]
     public IReadOnlyList<EntityCrossLink> Links { get; set; } = Array.Empty<EntityCrossLink>();
 
@@ -20,14 +14,4 @@
 
     [Parameter]
     public bool Compact { get; set; }
-
-    private IReadOnlyList<EntityCrossLink> ArchiveLinks =>
-        Links.Where(link => !IsChronicle(link)).ToList();
-
-    private IReadOnlyList<EntityCrossLink> ChronicleLinks =>
-        Links.Where(IsChronicle).ToList();
-
-    private static bool IsChronicle(EntityCrossLink link) =>
-        link.Label.Equals(ChronicleLabel, StringComparison.OrdinalIgnoreCase)
-        || link.Route.StartsWith("chronicles/", StringComparison.OrdinalIgnoreCase);
 }
