@@ -1,0 +1,33 @@
+{
+  "overview": "Copero is a star system in the Wild Space, within the Zuma Sector, at galactic grid F-9, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Copero appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Wild Space.\n\nTrade lanes, sector politics, and regional conflicts shaped Copero's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Copero is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Wild Space chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Wild Space sector records"
+  ],
+  "affiliations": [
+    "Wild Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Copero enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Copero records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Copero coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/copero-hero.webp",
+      "caption": "Cinematic view of Copero"
+    }
+  ]
+}

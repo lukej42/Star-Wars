@@ -1,0 +1,33 @@
+{
+  "overview": "Giju is a star system in the Colonies, within the Herglic Space, at galactic grid L-13, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Giju appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Colonies.\n\nTrade lanes, sector politics, and regional conflicts shaped Giju's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Giju is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Colonies chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Colonies sector records"
+  ],
+  "affiliations": [
+    "Colonies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Giju enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Giju records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Giju coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/giju-hero.webp",
+      "caption": "Cinematic view of Giju"
+    }
+  ]
+}

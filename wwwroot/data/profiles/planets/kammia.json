@@ -1,0 +1,33 @@
+{
+  "overview": "Kammia is a star system in the Wild Space, within the Shiritoku Spur, at galactic grid G-16, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Kammia appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Wild Space.\n\nTrade lanes, sector politics, and regional conflicts shaped Kammia's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Kammia is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Wild Space chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Wild Space sector records"
+  ],
+  "affiliations": [
+    "Wild Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Kammia enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Kammia records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Kammia coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kammia-hero.webp",
+      "caption": "Cinematic view of Kammia"
+    }
+  ]
+}

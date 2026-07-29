@@ -1,0 +1,33 @@
+{
+  "overview": "Yibikkoror is a star system in the Expansion Region, within the Immalia Sector, at galactic grid L-8, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Yibikkoror appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Expansion Region.\n\nTrade lanes, sector politics, and regional conflicts shaped Yibikkoror's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Yibikkoror is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Expansion Region chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Expansion Region sector records"
+  ],
+  "affiliations": [
+    "Expansion Region"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Yibikkoror enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Yibikkoror records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Yibikkoror coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/yibikkoror-hero.webp",
+      "caption": "Cinematic view of Yibikkoror"
+    }
+  ]
+}

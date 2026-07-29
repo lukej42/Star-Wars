@@ -1,0 +1,33 @@
+{
+  "overview": "Nexus Ortai is a star system in the Mid Rim Territories, within the Hertae Sector, at galactic grid Q-14, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Nexus Ortai appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Nexus Ortai's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Nexus Ortai is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Nexus Ortai enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Nexus Ortai records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Nexus Ortai coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/nexus-ortai-hero.webp",
+      "caption": "Cinematic view of Nexus Ortai"
+    }
+  ]
+}

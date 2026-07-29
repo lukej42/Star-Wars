@@ -1,0 +1,33 @@
+{
+  "overview": "Arah asteroid belt is a star system in the Mid Rim Territories, within the Zuma Sector, at galactic grid J-6, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Arah asteroid belt appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Arah asteroid belt's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Arah asteroid belt is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Arah asteroid belt enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Arah asteroid belt records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Arah asteroid belt coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/arah-asteroid-belt-hero.webp",
+      "caption": "Cinematic view of Arah asteroid belt"
+    }
+  ]
+}

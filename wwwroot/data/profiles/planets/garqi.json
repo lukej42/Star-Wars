@@ -1,0 +1,33 @@
+{
+  "overview": "Garqi is a star system in the Outer Rim Territories, within the Cassander Sector, at galactic grid K-5, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Garqi appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Garqi's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Garqi is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Garqi enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Garqi records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Garqi coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/garqi-hero.webp",
+      "caption": "Cinematic view of Garqi"
+    }
+  ]
+}

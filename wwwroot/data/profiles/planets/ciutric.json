@@ -1,0 +1,33 @@
+{
+  "overview": "Ciutric is a star system in the Outer Rim Territories, within the Ciutric Sector, at galactic grid N-5, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Ciutric appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Ciutric's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Ciutric is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Ciutric enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Ciutric records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Ciutric coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ciutric-hero.webp",
+      "caption": "Cinematic view of Ciutric"
+    }
+  ]
+}

@@ -16,7 +16,7 @@ An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse 
 | **Characters** | 104 | Heroes, villains, leaders, and supporting figures from across the saga (excluding dedicated Jedi/Sith directories). |
 | **Jedi Directory** | 47 | Jedi Masters, Knights, and Padawans with rank, history, and legacy — including *KOTOR* / *TOR* figures such as Revan, Bastila Shan, Satele Shan, and Meetra Surik. |
 | **Sith Directory** | 34 | Sith Lords and dark-side figures from the Rule of Two through the Old Republic era. |
-| **Planets** | 100+ | Worlds with region, coordinates, environment, culture, and timeline. |
+| **Planets** | 1,489 | Worlds with region, atlas coordinates, environment, culture, and timeline. |
 | **Ships** | 126 | Starships and vehicles with class, era, production counts, and scene illustrations. |
 | **Droids** | 79 | Astromechs, protocol units, battle droids, and iconic mechanical characters. |
 | **Species** | 103 | Sentient and notable species with homeworlds, traits, and saga appearances. |
@@ -312,7 +312,7 @@ Content is split into two layers:
 
 | Category | Profiles |
 |----------|----------:|
-| Planets | 301 |
+| Planets | 1,489 |
 | Bounty Hunters | 116 |
 | Settlements | 115 |
 | Characters | 104 |

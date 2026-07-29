@@ -1,0 +1,33 @@
+{
+  "overview": "Talasea is a star system in the Colonies, within the Morobe Sector, at galactic grid N-11, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Talasea appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Colonies.\n\nTrade lanes, sector politics, and regional conflicts shaped Talasea's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Talasea is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Colonies chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Colonies sector records"
+  ],
+  "affiliations": [
+    "Colonies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Talasea enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Talasea records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Talasea coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/talasea-hero.webp",
+      "caption": "Cinematic view of Talasea"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "overview": "Seoul 5 is a star system in the Wild Space, within the Varada Sector, at galactic grid H-20, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Seoul 5 appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Wild Space.\n\nTrade lanes, sector politics, and regional conflicts shaped Seoul 5's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Seoul 5 is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Wild Space chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Wild Space sector records"
+  ],
+  "affiliations": [
+    "Wild Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Seoul 5 enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Seoul 5 records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Seoul 5 coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/seoul-5-hero.webp",
+      "caption": "Cinematic view of Seoul 5"
+    }
+  ]
+}

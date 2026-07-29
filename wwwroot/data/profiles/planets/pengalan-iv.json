@@ -1,0 +1,33 @@
+{
+  "overview": "Pengalan IV is a star system in the Inner Rim Territories, within the The Veil, at galactic grid O-8, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Pengalan IV appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Inner Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Pengalan IV's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Pengalan IV is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Inner Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Inner Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Inner Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Pengalan IV enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Pengalan IV records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Pengalan IV coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/pengalan-iv-hero.webp",
+      "caption": "Cinematic view of Pengalan IV"
+    }
+  ]
+}

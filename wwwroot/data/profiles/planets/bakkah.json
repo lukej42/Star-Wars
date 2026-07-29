@@ -1,0 +1,33 @@
+{
+  "overview": "Bakkah is a star system in the Outer Rim Territories, within the Thrasybule Sector, at galactic grid P-6, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Bakkah appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Bakkah's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Bakkah is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Bakkah enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Bakkah records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Bakkah coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/bakkah-hero.webp",
+      "caption": "Cinematic view of Bakkah"
+    }
+  ]
+}

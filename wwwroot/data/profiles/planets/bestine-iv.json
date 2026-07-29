@@ -1,0 +1,33 @@
+{
+  "overview": "Bestine IV is a star system in the Colonies, within the Zuma Sector, at galactic grid M-14, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Bestine IV appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Colonies.\n\nTrade lanes, sector politics, and regional conflicts shaped Bestine IV's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Bestine IV is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Colonies chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Colonies sector records"
+  ],
+  "affiliations": [
+    "Colonies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Bestine IV enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Bestine IV records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Bestine IV coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/bestine-iv-hero.webp",
+      "caption": "Cinematic view of Bestine IV"
+    }
+  ]
+}

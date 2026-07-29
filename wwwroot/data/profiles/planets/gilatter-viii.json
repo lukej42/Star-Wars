@@ -1,0 +1,33 @@
+{
+  "overview": "Gilatter VIII is a star system in the Mid Rim Territories, within the Zuma Sector, at galactic grid I-7, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Gilatter VIII appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Gilatter VIII's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Gilatter VIII is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Gilatter VIII enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Gilatter VIII records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Gilatter VIII coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/gilatter-viii-hero.webp",
+      "caption": "Cinematic view of Gilatter VIII"
+    }
+  ]
+}

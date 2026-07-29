@@ -1,0 +1,33 @@
+{
+  "overview": "Dractu is a star system in the Mid Rim Territories, within the Lannik Space, at galactic grid Q-13, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Dractu appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Dractu's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Dractu is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Dractu enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Dractu records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Dractu coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/dractu-hero.webp",
+      "caption": "Cinematic view of Dractu"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "overview": "Shola is a star system in the Outer Rim Territories, within the Tammuz Sector, at galactic grid U-14, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Shola appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Shola's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Shola is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Shola enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Shola records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Shola coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/shola-hero.webp",
+      "caption": "Cinematic view of Shola"
+    }
+  ]
+}

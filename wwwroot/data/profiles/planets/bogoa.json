@@ -1,0 +1,33 @@
+{
+  "overview": "Bogoa is a star system in the Expansion Region, within the Immerian Outback, at galactic grid N-14, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Bogoa appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Expansion Region.\n\nTrade lanes, sector politics, and regional conflicts shaped Bogoa's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Bogoa is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Expansion Region chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Expansion Region sector records"
+  ],
+  "affiliations": [
+    "Expansion Region"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Bogoa enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Bogoa records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Bogoa coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/bogoa-hero.webp",
+      "caption": "Cinematic view of Bogoa"
+    }
+  ]
+}

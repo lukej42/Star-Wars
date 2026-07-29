@@ -1,0 +1,33 @@
+{
+  "overview": "Old Barag is a star system in the Expansion Region, within the Epsi Collective, at galactic grid M-15, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Old Barag appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Expansion Region.\n\nTrade lanes, sector politics, and regional conflicts shaped Old Barag's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Old Barag is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Expansion Region chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Expansion Region sector records"
+  ],
+  "affiliations": [
+    "Expansion Region"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Old Barag enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Old Barag records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Old Barag coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/old-barag-hero.webp",
+      "caption": "Cinematic view of Old Barag"
+    }
+  ]
+}

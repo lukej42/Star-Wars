@@ -1,0 +1,33 @@
+{
+  "overview": "Otunia is a star system in the Outer Rim Territories, within the Bosph Sector, at galactic grid Q-3, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Otunia appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Otunia's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Otunia is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Otunia enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Otunia records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Otunia coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/otunia-hero.webp",
+      "caption": "Cinematic view of Otunia"
+    }
+  ]
+}

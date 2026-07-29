@@ -1,0 +1,33 @@
+{
+  "overview": "Thustra is a star system in the Expansion Region, within the Sumitra Sector, at galactic grid O-7, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Thustra appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Expansion Region.\n\nTrade lanes, sector politics, and regional conflicts shaped Thustra's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Thustra is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Expansion Region chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Expansion Region sector records"
+  ],
+  "affiliations": [
+    "Expansion Region"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Thustra enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Thustra records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Thustra coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/thustra-hero.webp",
+      "caption": "Cinematic view of Thustra"
+    }
+  ]
+}

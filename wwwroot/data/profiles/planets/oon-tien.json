@@ -1,0 +1,33 @@
+{
+  "overview": "Oon Tien is a star system in the Outer Rim Territories, within the Kathol Sector, at galactic grid M-21, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Oon Tien appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Oon Tien's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Oon Tien is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Oon Tien enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Oon Tien records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Oon Tien coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/oon-tien-hero.webp",
+      "caption": "Cinematic view of Oon Tien"
+    }
+  ]
+}

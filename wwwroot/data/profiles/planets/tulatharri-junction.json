@@ -1,0 +1,33 @@
+{
+  "overview": "Tulatharri Junction is a star system in the Outer Rim Territories, within the Zuma Sector, at galactic grid K-3, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Tulatharri Junction appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Tulatharri Junction's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Tulatharri Junction is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Tulatharri Junction enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Tulatharri Junction records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Tulatharri Junction coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/tulatharri-junction-hero.webp",
+      "caption": "Cinematic view of Tulatharri Junction"
+    }
+  ]
+}

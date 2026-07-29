@@ -1,0 +1,33 @@
+{
+  "overview": "Ktath'atn is a star system in the Expansion Region, within the Zuma Sector, at galactic grid M-11, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Ktath'atn appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Expansion Region.\n\nTrade lanes, sector politics, and regional conflicts shaped Ktath'atn's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Ktath'atn is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Expansion Region chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Expansion Region sector records"
+  ],
+  "affiliations": [
+    "Expansion Region"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Ktath'atn enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Ktath'atn records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Ktath'atn coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/ktathatn-hero.webp",
+      "caption": "Cinematic view of Ktath'atn"
+    }
+  ]
+}

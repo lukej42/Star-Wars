@@ -190,7 +190,7 @@ def render_space(entry: dict[str, str], force: bool = False) -> tuple[Path, str]
     cy = int(height * 0.78)
     radius = int(min(width, height) * 0.36)
     hero_path = OUT / f"{slug}-hero.webp"
-    if hero_path.is_file() and hero_path.stat().st_size >= 50_000:
+    if hero_path.is_file() and hero_path.stat().st_size >= 8_000:
         hero = Image.open(hero_path)
         sphere = sample_hero_on_sphere(hero, width, height, cx, cy, radius)
     else:

@@ -1,0 +1,33 @@
+{
+  "overview": "Taspir III is a star system in the Wild Space, within the Zuma Sector, at galactic grid J-4, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Taspir III appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Wild Space.\n\nTrade lanes, sector politics, and regional conflicts shaped Taspir III's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Taspir III is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Wild Space chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Wild Space sector records"
+  ],
+  "affiliations": [
+    "Wild Space"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Taspir III enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Taspir III records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Taspir III coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/taspir-iii-hero.webp",
+      "caption": "Cinematic view of Taspir III"
+    }
+  ]
+}

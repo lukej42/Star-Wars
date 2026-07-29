@@ -1,0 +1,33 @@
+{
+  "overview": "Aleen is a star system in the Mid Rim Territories, within the Bright Jewel, at galactic grid L-7, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Aleen appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Aleen's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Aleen is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Aleen enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Aleen records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Aleen coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/aleen-hero.webp",
+      "caption": "Cinematic view of Aleen"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "overview": "Polith Belt is a star system in the Inner Rim Territories, within the Zuma Sector, at galactic grid L-14, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Polith Belt appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Inner Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Polith Belt's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Polith Belt is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Inner Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Inner Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Inner Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Polith Belt enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Polith Belt records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Polith Belt coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/polith-belt-hero.webp",
+      "caption": "Cinematic view of Polith Belt"
+    }
+  ]
+}

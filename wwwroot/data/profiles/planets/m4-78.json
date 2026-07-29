@@ -1,0 +1,33 @@
+{
+  "overview": "M4-78 is a star system in the Inner Rim Territories, within the Zuma Sector, at galactic grid O-9, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "M4-78 appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Inner Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped M4-78's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "M4-78 is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Inner Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Inner Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Inner Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "M4-78 enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update M4-78 records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms M4-78 coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/m4-78-hero.webp",
+      "caption": "Cinematic view of M4-78"
+    }
+  ]
+}

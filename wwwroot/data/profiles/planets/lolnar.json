@@ -1,0 +1,33 @@
+{
+  "overview": "Lolnar is a star system in the Colonies, within the Zuma Sector, at galactic grid M-11, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Lolnar appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Colonies.\n\nTrade lanes, sector politics, and regional conflicts shaped Lolnar's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Lolnar is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Colonies chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Colonies sector records"
+  ],
+  "affiliations": [
+    "Colonies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Lolnar enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Lolnar records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Lolnar coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/lolnar-hero.webp",
+      "caption": "Cinematic view of Lolnar"
+    }
+  ]
+}

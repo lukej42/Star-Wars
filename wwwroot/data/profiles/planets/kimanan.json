@@ -1,0 +1,33 @@
+{
+  "overview": "Kimanan is a star system in the Inner Rim Territories, within the Orus Sector, at galactic grid M-8, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Kimanan appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Inner Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Kimanan's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Kimanan is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Inner Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Inner Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Inner Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Kimanan enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Kimanan records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Kimanan coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kimanan-hero.webp",
+      "caption": "Cinematic view of Kimanan"
+    }
+  ]
+}

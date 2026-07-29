@@ -1,0 +1,33 @@
+{
+  "overview": "Planet of the Red Nebula is a star system in the Outer Rim Territories, within the Zuma Sector, at galactic grid G-21, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Planet of the Red Nebula appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Planet of the Red Nebula's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Planet of the Red Nebula is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Planet of the Red Nebula enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Planet of the Red Nebula records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Planet of the Red Nebula coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/planet-of-the-red-nebula-hero.webp",
+      "caption": "Cinematic view of Planet of the Red Nebula"
+    }
+  ]
+}

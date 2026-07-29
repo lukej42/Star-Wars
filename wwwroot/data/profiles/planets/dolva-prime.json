@@ -1,0 +1,33 @@
+{
+  "overview": "Dolva Prime is a star system in the Mid Rim Territories, within the Zuma Sector, at galactic grid I-16, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Dolva Prime appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Dolva Prime's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Dolva Prime is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Dolva Prime enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Dolva Prime records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Dolva Prime coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/dolva-prime-hero.webp",
+      "caption": "Cinematic view of Dolva Prime"
+    }
+  ]
+}

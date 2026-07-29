@@ -1,0 +1,33 @@
+{
+  "overview": "Pollillus is a star system in the Core Worlds, within the Vannell Sector, at galactic grid J-10, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Pollillus appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Core Worlds.\n\nTrade lanes, sector politics, and regional conflicts shaped Pollillus's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Pollillus is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Core Worlds chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Core Worlds sector records"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Pollillus enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Pollillus records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Pollillus coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/pollillus-hero.webp",
+      "caption": "Cinematic view of Pollillus"
+    }
+  ]
+}

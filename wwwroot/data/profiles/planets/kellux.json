@@ -1,0 +1,33 @@
+{
+  "overview": "Kellux is a star system in the Expansion Region, within the Zuma Sector, at galactic grid G-9, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Kellux appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Expansion Region.\n\nTrade lanes, sector politics, and regional conflicts shaped Kellux's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Kellux is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Expansion Region chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Expansion Region sector records"
+  ],
+  "affiliations": [
+    "Expansion Region"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Kellux enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Kellux records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Kellux coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kellux-hero.webp",
+      "caption": "Cinematic view of Kellux"
+    }
+  ]
+}

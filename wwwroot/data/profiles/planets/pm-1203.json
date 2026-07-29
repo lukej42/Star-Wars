@@ -1,0 +1,33 @@
+{
+  "overview": "PM-1203 is a star system in the Core Worlds, within the Zuma Sector, at galactic grid L-9, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "PM-1203 appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Core Worlds.\n\nTrade lanes, sector politics, and regional conflicts shaped PM-1203's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "PM-1203 is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Core Worlds chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Core Worlds sector records"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "PM-1203 enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update PM-1203 records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms PM-1203 coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/pm-1203-hero.webp",
+      "caption": "Cinematic view of PM-1203"
+    }
+  ]
+}

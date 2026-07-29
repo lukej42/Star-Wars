@@ -1,0 +1,33 @@
+{
+  "overview": "Voktunma is a star system in the Core Worlds, within the Zuma Sector, at galactic grid M-11, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Voktunma appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Core Worlds.\n\nTrade lanes, sector politics, and regional conflicts shaped Voktunma's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Voktunma is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Core Worlds chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Core Worlds sector records"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Voktunma enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Voktunma records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Voktunma coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/voktunma-hero.webp",
+      "caption": "Cinematic view of Voktunma"
+    }
+  ]
+}

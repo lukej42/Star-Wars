@@ -1,0 +1,33 @@
+{
+  "overview": "Xoman Three is a star system in the Mid Rim Territories, within the Halla Sector, at galactic grid S-9, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Xoman Three appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Xoman Three's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Xoman Three is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Xoman Three enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Xoman Three records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Xoman Three coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/xoman-three-hero.webp",
+      "caption": "Cinematic view of Xoman Three"
+    }
+  ]
+}

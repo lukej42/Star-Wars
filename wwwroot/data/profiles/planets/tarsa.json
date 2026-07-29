@@ -1,0 +1,33 @@
+{
+  "overview": "Tarsa is a star system in the Mid Rim Territories, within the D'aelgoth Sector, at galactic grid L-17, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Tarsa appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Mid Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Tarsa's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Tarsa is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Mid Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Mid Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Mid Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Tarsa enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Tarsa records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Tarsa coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/tarsa-hero.webp",
+      "caption": "Cinematic view of Tarsa"
+    }
+  ]
+}

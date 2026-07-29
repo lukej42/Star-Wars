@@ -1,0 +1,33 @@
+{
+  "overview": "Demophon is a star system in the Core Worlds, within the Demophon Sector, at galactic grid M-10, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Demophon appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Core Worlds.\n\nTrade lanes, sector politics, and regional conflicts shaped Demophon's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Demophon is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Core Worlds chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Core Worlds sector records"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Demophon enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Demophon records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Demophon coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/demophon-hero.webp",
+      "caption": "Cinematic view of Demophon"
+    }
+  ]
+}

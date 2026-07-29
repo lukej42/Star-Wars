@@ -1,0 +1,33 @@
+{
+  "overview": "Javaal is a star system in the Core Worlds, within the Bormea Sector, at galactic grid L-9, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Javaal appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Core Worlds.\n\nTrade lanes, sector politics, and regional conflicts shaped Javaal's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Javaal is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Core Worlds chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Core Worlds sector records"
+  ],
+  "affiliations": [
+    "Core Worlds"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Javaal enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Javaal records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Javaal coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/javaal-hero.webp",
+      "caption": "Cinematic view of Javaal"
+    }
+  ]
+}

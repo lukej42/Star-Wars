@@ -1,0 +1,33 @@
+{
+  "overview": "Kalist VI is a star system in the Deep Core, within the Deep Core Security Zone, at galactic grid K-12, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Kalist VI appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Deep Core.\n\nTrade lanes, sector politics, and regional conflicts shaped Kalist VI's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Kalist VI is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Deep Core chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Deep Core sector records"
+  ],
+  "affiliations": [
+    "Deep Core"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Kalist VI enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Kalist VI records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Kalist VI coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/kalist-vi-hero.webp",
+      "caption": "Cinematic view of Kalist VI"
+    }
+  ]
+}

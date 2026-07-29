@@ -1,0 +1,33 @@
+{
+  "overview": "RZ7-6113-23 is a star system in the Outer Rim Territories, within the Zuma Sector, at galactic grid L-4, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "RZ7-6113-23 appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped RZ7-6113-23's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "RZ7-6113-23 is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "RZ7-6113-23 enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update RZ7-6113-23 records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms RZ7-6113-23 coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/rz7-6113-23-hero.webp",
+      "caption": "Cinematic view of RZ7-6113-23"
+    }
+  ]
+}

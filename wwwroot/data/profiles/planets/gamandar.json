@@ -1,0 +1,33 @@
+{
+  "overview": "Gamandar is a star system in the Outer Rim Territories, within the Iskalon System, at galactic grid R-16, Documented in the Essential Atlas and StarWars.com galaxy map appendix..",
+  "history": "Gamandar appears in galactic surveys spanning the Old Republic, Imperial era, and New Republic periods. Essential Atlas records place the system in Outer Rim Territories.\n\nTrade lanes, sector politics, and regional conflicts shaped Gamandar's role across the nine saga films, live-action series, and expanded lore.",
+  "significance": "Gamandar is catalogued on the official StarWars.com galaxy map and Essential Atlas appendix as part of the broader Outer Rim Territories chart.",
+  "notableEvents": [
+    "Charted in the Essential Atlas appendix",
+    "Listed on the StarWars.com galaxy map",
+    "Surveyed as part of Outer Rim Territories sector records"
+  ],
+  "affiliations": [
+    "Outer Rim Territories"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Gamandar enters Republic star charts"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial surveys update Gamandar records"
+    },
+    {
+      "era": "New Republic",
+      "event": "Post-war cartography confirms Gamandar coordinates"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/planets/gamandar-hero.webp",
+      "caption": "Cinematic view of Gamandar"
+    }
+  ]
+}
