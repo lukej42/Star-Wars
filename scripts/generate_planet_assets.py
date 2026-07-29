@@ -149,6 +149,9 @@ def main() -> None:
         if not space_path.exists() or space_path.stat().st_size < 5000:
             space_image(entry).save(space_path, "WEBP", quality=90, method=6)
             created_space += 1
+        elif space_path.stat().st_size < 500_000:
+            # Leave sub-threshold placeholders for cinematic regeneration scripts.
+            pass
         if not hero_path.exists() or hero_path.stat().st_size < 5000:
             hero_image(entry).save(hero_path, "WEBP", quality=90, method=6)
             created_hero += 1

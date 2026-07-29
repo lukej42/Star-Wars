@@ -450,6 +450,31 @@
     width: max-content;
 }
 
+.nav-flyout-panel-planets {
+    min-width: 18.75rem;
+    width: max-content;
+    max-width: min(92vw, 22rem);
+}
+
+.nav-flyout-panel-planets .nav-flyout-link {
+    height: auto !important;
+    min-height: 2.5rem;
+    line-height: 1.35 !important;
+    white-space: normal;
+    word-break: break-word;
+    padding-top: 0.4rem !important;
+    padding-bottom: 0.4rem !important;
+    align-items: flex-start !important;
+}
+
+.nav-flyout-panel-planets ::deep .nav-planet-link {
+    gap: 0.65rem;
+}
+
+.nav-flyout-panel-planets ::deep .nav-planet-dot {
+    margin-top: 0.35rem;
+}
+
 .nav-flyout-panel-wide .nav-flyout-link {
     height: auto !important;
     min-height: 2.5rem;

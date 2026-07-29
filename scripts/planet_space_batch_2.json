@@ -1,0 +1,284 @@
+[
+  {
+    "slug": "gentes",
+    "name": "Gentes",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gentes is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/gentes-space.webp"
+  },
+  {
+    "slug": "glee-anselm",
+    "name": "Glee Anselm",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Glee Anselm is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/glee-anselm-space.webp"
+  },
+  {
+    "slug": "honoghr",
+    "name": "Honoghr",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A devastated homeworld of the Noghri, poisoned by Imperial chemical warfare..",
+    "output": "wwwroot/images/planets/honoghr-space.webp"
+  },
+  {
+    "slug": "hosnian-prime",
+    "name": "Hosnian Prime",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Core world cityscape with Senate dome towers under blue skies before superweapon destruction.",
+    "output": "wwwroot/images/planets/hosnian-prime-space.webp"
+  },
+  {
+    "slug": "iktotch",
+    "name": "Iktotch",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Iktotch is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/iktotch-space.webp"
+  },
+  {
+    "slug": "iridonia",
+    "name": "Iridonia",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Iridonia is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/iridonia-space.webp"
+  },
+  {
+    "slug": "ithor",
+    "name": "Ithor",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ithor is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/ithor-space.webp"
+  },
+  {
+    "slug": "kafrene",
+    "name": "Kafrene",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A mining colony in the Ring of Kafrene where Bodhi Rook met Galen Erso's messenger..",
+    "output": "wwwroot/images/planets/kafrene-space.webp"
+  },
+  {
+    "slug": "kalee",
+    "name": "Kalee",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Kalee is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/kalee-space.webp"
+  },
+  {
+    "slug": "kalevala",
+    "name": "Kalevala",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ocean moon with Kryze royal estates and Mandalorian shipyard domes.",
+    "output": "wwwroot/images/planets/kalevala-space.webp"
+  },
+  {
+    "slug": "kamino-clone-origin",
+    "name": "Kamino (clone origin)",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Kamino (clone origin) is a outer rim territories world documented across the nine saga films, live-action and animated\u2026.",
+    "output": "wwwroot/images/planets/kamino-clone-origin-space.webp"
+  },
+  {
+    "slug": "kaon",
+    "name": "Kaon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Sith weapons factory world with red-lit assembly lines and orbital bombardment scars.",
+    "output": "wwwroot/images/planets/kaon-space.webp"
+  },
+  {
+    "slug": "kemplex-nine",
+    "name": "Kemplex IX",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Deep Core astronomical anomaly destroyed when ancient Sith superweapons detonated during the Great Sith War..",
+    "output": "wwwroot/images/planets/kemplex-nine-space.webp"
+  },
+  {
+    "slug": "kessel",
+    "name": "Kessel",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Spice mine trenches and glimmering maelstrom sky over harsh desert canyons.",
+    "output": "wwwroot/images/planets/kessel-space.webp"
+  },
+  {
+    "slug": "kiffex",
+    "name": "Kiffex",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Kiffex is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/kiffex-space.webp"
+  },
+  {
+    "slug": "kintan",
+    "name": "Kintan",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Kintan is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/kintan-space.webp"
+  },
+  {
+    "slug": "kinyen",
+    "name": "Kinyen",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Kinyen is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/kinyen-space.webp"
+  },
+  {
+    "slug": "klatooine",
+    "name": "Klatooine",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Klatooine is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/klatooine-space.webp"
+  },
+  {
+    "slug": "krownest",
+    "name": "Krownest",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A snowy Mandalorian world of Clan Wren fortresses and beskar mines..",
+    "output": "wwwroot/images/planets/krownest-space.webp"
+  },
+  {
+    "slug": "kuat",
+    "name": "Kuat",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Orbital shipyard rings around blue-green world with Star Destroyer construction.",
+    "output": "wwwroot/images/planets/kuat-space.webp"
+  },
+  {
+    "slug": "kubindi",
+    "name": "Kubindi",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Kubindi is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/kubindi-space.webp"
+  },
+  {
+    "slug": "lahmu",
+    "name": "Lah'mu",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Remote ocean-edged farm ridges with Erso family homestead at sunset.",
+    "output": "wwwroot/images/planets/lahmu-space.webp"
+  },
+  {
+    "slug": "lannik",
+    "name": "Lannik",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Lannik is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/lannik-space.webp"
+  },
+  {
+    "slug": "lehon",
+    "name": "Lehon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Rakata temple ruins over tropical ocean with ancient star maps carved in stone.",
+    "output": "wwwroot/images/planets/lehon-space.webp"
+  },
+  {
+    "slug": "lhuguenok",
+    "name": "L'huguen'ok",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. L'huguen'ok is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/lhuguenok-space.webp"
+  },
+  {
+    "slug": "lianna",
+    "name": "Lianna",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Lianna is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/lianna-space.webp"
+  },
+  {
+    "slug": "lira-san",
+    "name": "Lira San",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Lira San is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/lira-san-space.webp"
+  },
+  {
+    "slug": "lorrd",
+    "name": "Lorrd",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Lorrd is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/lorrd-space.webp"
+  },
+  {
+    "slug": "lowick",
+    "name": "Lowick",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Lowick is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/lowick-space.webp"
+  },
+  {
+    "slug": "makeb",
+    "name": "Makeb",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Resort mesas on colossal repulsorlift pylons above golden cloud sea.",
+    "output": "wwwroot/images/planets/makeb-space.webp"
+  },
+  {
+    "slug": "malastare",
+    "name": "Malastare",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Podracing plains with fuel refineries and Dug excavation sites.",
+    "output": "wwwroot/images/planets/malastare-space.webp"
+  },
+  {
+    "slug": "maridun",
+    "name": "Maridun",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A grassland world where Lurmen colonies faced Separatist superweapon tests..",
+    "output": "wwwroot/images/planets/maridun-space.webp"
+  },
+  {
+    "slug": "mimban",
+    "name": "Mimban",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Muddy misty swamp battlefield with Imperial trenches and native ruins.",
+    "output": "wwwroot/images/planets/mimban-space.webp"
+  },
+  {
+    "slug": "mirial",
+    "name": "Mirial",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Mirial is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/mirial-space.webp"
+  },
+  {
+    "slug": "moraband",
+    "name": "Moraband",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Sith homeworld barren red wastes with monolith tombs and lightning-charged sky.",
+    "output": "wwwroot/images/planets/moraband-space.webp"
+  },
+  {
+    "slug": "muunilinst",
+    "name": "Muunilinst",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Muun banking spires and vault towers above urban canyon streets.",
+    "output": "wwwroot/images/planets/muunilinst-space.webp"
+  },
+  {
+    "slug": "mygeeto-colony",
+    "name": "Mygeeto colony",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Mygeeto colony is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/mygeeto-colony-space.webp"
+  },
+  {
+    "slug": "nal-hutta",
+    "name": "Nal Hutta",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Swamp homeworld with polluted green fog, Hutt palace spires and orbiting smuggler moon.",
+    "output": "wwwroot/images/planets/nal-hutta-space.webp"
+  },
+  {
+    "slug": "narkina-5",
+    "name": "Narkina 5",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. An Imperial factory moon of assembly lines where Cassian Andor was imprisoned..",
+    "output": "wwwroot/images/planets/narkina-5-space.webp"
+  },
+  {
+    "slug": "neimoidia",
+    "name": "Neimoidia",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Fog bridge cities of Trade Federation with golden spires above green mist.",
+    "output": "wwwroot/images/planets/neimoidia-space.webp"
+  },
+  {
+    "slug": "oba-diah",
+    "name": "Oba Diah",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Volcanic Pyke spice mines with lava rivers and syndicate landing pads.",
+    "output": "wwwroot/images/planets/oba-diah-space.webp"
+  },
+  {
+    "slug": "odessen",
+    "name": "Odessen",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Sanctuary valley with Alliance base domes and distant mountain ring.",
+    "output": "wwwroot/images/planets/odessen-space.webp"
+  },
+  {
+    "slug": "ojom",
+    "name": "Ojom",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ojom is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/ojom-space.webp"
+  },
+  {
+    "slug": "olega",
+    "name": "Olega",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Olega is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/olega-space.webp"
+  },
+  {
+    "slug": "ord-mantell",
+    "name": "Ord Mantell",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Scrapyard port with orbital salvage rings and bounty hunter cantina district.",
+    "output": "wwwroot/images/planets/ord-mantell-space.webp"
+  },
+  {
+    "slug": "orto",
+    "name": "Orto",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Orto is a outer rim territories world documented across the nine saga films, live-action and animated series, Knights\u2026.",
+    "output": "wwwroot/images/planets/orto-space.webp"
+  },
+  {
+    "slug": "orto-plutonia",
+    "name": "Orto Plutonia",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Orto Plutonia is a outer rim territories world documented across the nine saga films, live-action and animated series,\u2026.",
+    "output": "wwwroot/images/planets/orto-plutonia-space.webp"
+  }
+]

@@ -2,7 +2,9 @@
   "dateRange": "c. 6,900 BBY – 5,000 BBY",
   "government": {
     "value": "Dark Council",
-    "route": "governments/dark-council"
+    "route": "governments/dark-council",
+    "emphasized": true,
+    "emphasisTone": "sith"
   },
   "headOfState": {
     "value": "Sith Emperor",

@@ -191,7 +191,12 @@ def get_chronicle_profiles() -> dict[str, dict]:
         },
         "old-sith-empire": {
             "dateRange": "c. 6,900 BBY – 5,000 BBY",
-            "government": GL("Dark Council", "governments/dark-council"),
+            "government": GL(
+                "Dark Council",
+                "governments/dark-council",
+                emphasized=True,
+                emphasis_tone="sith",
+            ),
             "headOfState": GL(
                 "Sith Emperor",
                 "sith/darth-vitiate",

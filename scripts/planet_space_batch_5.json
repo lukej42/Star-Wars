@@ -1,0 +1,284 @@
+[
+  {
+    "slug": "nicht-ka",
+    "name": "Nicht Ka",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A barren Sith world with tomb cities from the era before the Great Hyperspace War..",
+    "output": "wwwroot/images/planets/nicht-ka-space.webp"
+  },
+  {
+    "slug": "xoxaan-tomb",
+    "name": "XoXaan's Tomb World",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A forgotten Sith mausoleum world tied to one of the first Sith Lords after the Hundred-Year Darkness..",
+    "output": "wwwroot/images/planets/xoxaan-tomb-space.webp"
+  },
+  {
+    "slug": "bogo-rai",
+    "name": "Bogo Rai",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Unknown Regions world referenced in Sith Empire exile charts and Chiss border surveys..",
+    "output": "wwwroot/images/planets/bogo-rai-space.webp"
+  },
+  {
+    "slug": "sorzus-ne",
+    "name": "Sorzus Ne",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Sith world associated with Sorzus Syn's alchemical texts and early Sith pureblood colonies..",
+    "output": "wwwroot/images/planets/sorzus-ne-space.webp"
+  },
+  {
+    "slug": "korriban-moon",
+    "name": "Korriban's Moon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. An ash-dark moon orbiting Korriban with orbital tombs and Sith academy staging platforms..",
+    "output": "wwwroot/images/planets/korriban-moon-space.webp"
+  },
+  {
+    "slug": "yavin-prime",
+    "name": "Yavin Prime",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The gas giant anchoring the Yavin system, orbited by Yavin 4 and other Massassi-touched moons..",
+    "output": "wwwroot/images/planets/yavin-prime-space.webp"
+  },
+  {
+    "slug": "tatoo-i",
+    "name": "Tatoo I",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The primary star of the Tatoo system, whose intense heat shaped Tatooine's desert ecology..",
+    "output": "wwwroot/images/planets/tatoo-i-space.webp"
+  },
+  {
+    "slug": "tatoo-ii",
+    "name": "Tatoo II",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The twin sun of Tatooine's binary system, defining the iconic double-sunset horizon..",
+    "output": "wwwroot/images/planets/tatoo-ii-space.webp"
+  },
+  {
+    "slug": "subterrel",
+    "name": "Subterrel",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A mining world of underground cities and podracing circuits on hostile surface terrain..",
+    "output": "wwwroot/images/planets/subterrel-space.webp"
+  },
+  {
+    "slug": "praesitlyn",
+    "name": "Praesitlyn",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A communications hub world fought over during Clone Wars campaigns for its HoloNet relay nodes..",
+    "output": "wwwroot/images/planets/praesitlyn-space.webp"
+  },
+  {
+    "slug": "druckenwell",
+    "name": "Druckenwell",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Mid Rim factory world supplying components to galactic shipwrights across multiple eras..",
+    "output": "wwwroot/images/planets/druckenwell-space.webp"
+  },
+  {
+    "slug": "hapes",
+    "name": "Hapes",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The crown world of the Hapes Consortium, isolated by transitory mists and royal matriarchy..",
+    "output": "wwwroot/images/planets/hapes-space.webp"
+  },
+  {
+    "slug": "dathomir-sister-moon",
+    "name": "Dathomir Sister Moon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A companion moon in the Dathomir system tied to Nightsister orbital rituals..",
+    "output": "wwwroot/images/planets/dathomir-sister-moon-space.webp"
+  },
+  {
+    "slug": "gorog",
+    "name": "Gorog",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A dark side world of the Gorog assassin cult within the Killik hive mind expansions..",
+    "output": "wwwroot/images/planets/gorog-space.webp"
+  },
+  {
+    "slug": "yoggoy",
+    "name": "Yoggoy",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Killik nest world on the fringes of the Unknown Regions hive collective..",
+    "output": "wwwroot/images/planets/yoggoy-space.webp"
+  },
+  {
+    "slug": "ghomrassen",
+    "name": "Tatooine's Sister",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ghomrassen, a rocky Tatooine region moon and mining settlement in Legends surveys..",
+    "output": "wwwroot/images/planets/ghomrassen-space.webp"
+  },
+  {
+    "slug": "adumar",
+    "name": "Adumar",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Wild Space world obsessed with starfighter dueling culture, courted by New Republic and Empire..",
+    "output": "wwwroot/images/planets/adumar-space.webp"
+  },
+  {
+    "slug": "borleias",
+    "name": "Borleias",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Colonies world with a vital planetary shield generator, contested in the New Republic era..",
+    "output": "wwwroot/images/planets/borleias-space.webp"
+  },
+  {
+    "slug": "ebaq-9",
+    "name": "Ebaq 9",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. An asteroid fortress in the Deep Core used by the New Republic against Yuuzhan Vong incursions..",
+    "output": "wwwroot/images/planets/ebaq-9-space.webp"
+  },
+  {
+    "slug": "mortis",
+    "name": "Mortis",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A ethereal Force nexus realm manifesting as a planetoid with the Father, Son, and Daughter..",
+    "output": "wwwroot/images/planets/mortis-space.webp"
+  },
+  {
+    "slug": "abafar",
+    "name": "Abafar",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A desert world with a sunken municipal landfill and Clone Wars fuel depot..",
+    "output": "wwwroot/images/planets/abafar-space.webp"
+  },
+  {
+    "slug": "raxus-secundus",
+    "name": "Raxus Secundus",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The official capital world of the Confederacy of Independent Systems during the Clone Wars..",
+    "output": "wwwroot/images/planets/raxus-secundus-space.webp"
+  },
+  {
+    "slug": "leesis",
+    "name": "Christophsis Moon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Leesis, a moon in the Christoph system used for forward clone staging areas..",
+    "output": "wwwroot/images/planets/leesis-space.webp"
+  },
+  {
+    "slug": "anaxes",
+    "name": "Anaxes",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Core fortress world of the Republic Navy, reduced to an asteroid field during the Clone Wars..",
+    "output": "wwwroot/images/planets/anaxes-space.webp"
+  },
+  {
+    "slug": "ringo-vinda",
+    "name": "Ringo Vinda",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Mid Rim orbital station world blockaded during the Clone Wars biochip crisis..",
+    "output": "wwwroot/images/planets/ringo-vinda-space.webp"
+  },
+  {
+    "slug": "scipio",
+    "name": "Scipio",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The headquarters world of the InterGalactic Banking Clan on a crystalline alpine plateau..",
+    "output": "wwwroot/images/planets/scipio-space.webp"
+  },
+  {
+    "slug": "lwhekk",
+    "name": "Lwhekk",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The Ssi-ruuvi homeworld of humid jungles and entechment weapon factories..",
+    "output": "wwwroot/images/planets/lwhekk-space.webp"
+  },
+  {
+    "slug": "bakura-prime",
+    "name": "Bakura-Prime",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The primary inhabited world of the Bakura system invaded during the Ssi-ruuvi incursion..",
+    "output": "wwwroot/images/planets/bakura-prime-space.webp"
+  },
+  {
+    "slug": "dantooine-moon",
+    "name": "Dantooine Moon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A sparsely settled moon used for Rebel listening posts near Dantooine..",
+    "output": "wwwroot/images/planets/dantooine-moon-space.webp"
+  },
+  {
+    "slug": "taris-undercity",
+    "name": "Taris Undercity",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The rakghoul-infested foundation levels of Taris before and after planetary bombardment..",
+    "output": "wwwroot/images/planets/taris-undercity-space.webp"
+  },
+  {
+    "slug": "ahahta",
+    "name": "Manaan Kolto City",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ahto City on Manaan, the floating kolto harvesting capital of the Selkath..",
+    "output": "wwwroot/images/planets/ahahta-space.webp"
+  },
+  {
+    "slug": "sernpidal",
+    "name": "Sernpidal",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. An Outer Rim world destroyed when its moon was pulled into the planet by Yuuzhan Vong dovin basals..",
+    "output": "wwwroot/images/planets/sernpidal-space.webp"
+  },
+  {
+    "slug": "hapes-cluster",
+    "name": "Hapes Cluster",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The navigational heart of the Hapes Consortium's ninety-three-world isolationist realm..",
+    "output": "wwwroot/images/planets/hapes-cluster-space.webp"
+  },
+  {
+    "slug": "kamino-prime",
+    "name": "Kamino Prime",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The storm planet Kamino, homeworld of clone template production for the Grand Army..",
+    "output": "wwwroot/images/planets/kamino-prime-space.webp"
+  },
+  {
+    "slug": "rishi-moon",
+    "name": "Rishi Moon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The tropical Rishi moon housing a Republic listening post above the Rishi Maze approach..",
+    "output": "wwwroot/images/planets/rishi-moon-space.webp"
+  },
+  {
+    "slug": "begeren",
+    "name": "Begeren",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Sith industrial world of tomb-cities and ore refineries that supplied the Old Sith Empire's war forges..",
+    "output": "wwwroot/images/planets/begeren-space.webp"
+  },
+  {
+    "slug": "bosthirda",
+    "name": "Bosthirda",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A remote Sith Space world of fortress monasteries used during the Golden Age of the Sith..",
+    "output": "wwwroot/images/planets/bosthirda-space.webp"
+  },
+  {
+    "slug": "dromund-fels",
+    "name": "Dromund Fels",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A moon in the Dromund system orbiting Dromund Kaas, used for Sith training trials and dark side rituals..",
+    "output": "wwwroot/images/planets/dromund-fels-space.webp"
+  },
+  {
+    "slug": "dromund-ixin",
+    "name": "Dromund Ixin",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A storm-wracked moon of the Dromund Kaas system housing Sith academies and exile colonies..",
+    "output": "wwwroot/images/planets/dromund-ixin-space.webp"
+  },
+  {
+    "slug": "dromund-kalakar",
+    "name": "Dromund Kalakar",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Kalakar Six \u2014 a volcanic moon in the Dromund system where Sith alchemists forged weapons and relics..",
+    "output": "wwwroot/images/planets/dromund-kalakar-space.webp"
+  },
+  {
+    "slug": "dromund-tyne",
+    "name": "Dromund Tyne",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A mist-shrouded moon of Dromund Kaas used as a retreat for Sith sorcerers and assassin initiates..",
+    "output": "wwwroot/images/planets/dromund-tyne-space.webp"
+  },
+  {
+    "slug": "jaguada-moon",
+    "name": "Jaguada's Moon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. The ash-gray moon of Jaguada, site of Sith beacon towers and invasion fleet staging yards..",
+    "output": "wwwroot/images/planets/jaguada-moon-space.webp"
+  },
+  {
+    "slug": "kalsunor",
+    "name": "Kalsunor",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A barren Sith world of obsidian plains where ancient Dark Lords buried war trophies and holocrons..",
+    "output": "wwwroot/images/planets/kalsunor-space.webp"
+  },
+  {
+    "slug": "korriz",
+    "name": "Korriz",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A Korriban sister world of red deserts and satellite tomb complexes tied to the Valley of the Dark Lords..",
+    "output": "wwwroot/images/planets/korriz-space.webp"
+  },
+  {
+    "slug": "nfolgai",
+    "name": "Nfolgai",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. A forgotten Sith tomb world of crumbling pyramids and sealed mausoleums from the Old Sith Wars..",
+    "output": "wwwroot/images/planets/nfolgai-space.webp"
+  },
+  {
+    "slug": "arkania",
+    "name": "Arkania",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. An icy Colonies world famed for genetic laboratories and Arkanian Offshoot communities with Sith-era ties..",
+    "output": "wwwroot/images/planets/arkania-space.webp"
+  },
+  {
+    "slug": "korriban-outpost",
+    "name": "Korriban Outpost",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. An orbital logistics station serving Korriban's academy complexes and tomb excavations..",
+    "output": "wwwroot/images/planets/korriban-outpost-space.webp"
+  }
+]
