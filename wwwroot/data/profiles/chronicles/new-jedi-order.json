@@ -1,0 +1,143 @@
+{
+  "dateRange": "4 ABY – onward",
+  "overview": "The New Jedi Order era encompasses the galaxy's long effort to rebuild Jedi tradition after the Purge — from Luke Skywalker's first academy to its destruction, his exile on Ahch-To, and Rey's journey to carry the light forward. It is an ongoing chronicle of restoration, failure, and renewed hope that the Force's guardians can exist without repeating the Old Order's fatal compromises.",
+  "history": "When the Empire fell at Endor, the Jedi were a memory — two survivors in hiding and a handful of texts scattered across the galaxy. Luke Skywalker, the farmboy who redeemed Darth Vader, shouldered the burden of rebuilding. He recovered holocrons, searched ruins on Ossus and Devaron, and eventually trained a new generation of Force users including his nephew Ben Solo and students like those who would die when the Knights of Ren attacked.\n\nThe [Jedi Code](the-force/jedi-code) guided Luke's curriculum — discipline, compassion, and non-attachment — but the shadow of the Clone Wars lingered. Luke feared Ben's darkness and briefly contemplated striking him down; that moment of hesitation helped push Ben toward Snoke and the dark side. The temple burning (~28 ABY) broke Luke's faith; he exiled himself to Ahch-To, site of the first Jedi temple, intending to die with the Order.\n\nRey's emergence from Jakku reopened the path. Guided by Leia, Han, and the legacy voices of Obi-Wan and Yoda, she found Luke and demanded training. On Ahch-To, Luke taught her the Force's breadth — including its painful history — before sacrificing himself at Crait so the Resistance could survive. Rey carried his sabers, faced Palpatine on Exegol, and took the name Skywalker as honorific, not bloodline.\n\nParallel threads enrich this era: Grogu trained under Luke at Ossus before returning to Din Djarin; Ahsoka Tano searched for Ezra Bridger in the Unknown Regions; Cal Kestis gathered survivors in *Jedi: Survivor*. Each story asks the same question — can the Jedi exist without the Republic's bureaucracy, without armies, without the hubris that doomed the prequel Order?\n\nThe [Sith Code](the-force/sith-code) appeared defeated when Vader killed Palpatine at Endor, yet Sidious's clone body on Exegol proved the dark side's persistence. Rey's victory — supported by a chorus of past Jedi — suggested a new model: not a massive temple on Coruscant, but adaptable guardians embedded in the galaxy's fabric.\n\nAs an open-ended era, the New Jedi Order continues in series, games, and future films — a promise that the Force's light side can be relearned after every catastrophe, and that the name 'Jedi' remains a choice rather than a birthright.",
+  "significance": "The New Jedi Order is Star Wars's epilogue and prologue simultaneously — the bridge from Original Trilogy hope to Sequel Trilogy renewal and whatever comes next. Luke's failure with Ben is as important as his success with Rey: the Order must evolve or repeat history.\n\nRey's yellow saber and Skywalker name signal intentional reinvention rather than restoration of old structures. Grogu, Ezra, and Cal represent distributed Jedi futures outside centralized temples.\n\nFor fans, this era collects the franchise's meditation on legacy — what parents owe children, what teachers owe students, and whether the galaxy still needs Jedi when the Sith are gone.",
+  "majorEvents": [
+    {
+      "text": "Luke Skywalker founds the new Jedi academy after the Galactic Civil War",
+      "route": "wars-conflicts/galactic-civil-war"
+    },
+    {
+      "text": "Destruction of Luke's temple; Ben Solo falls to the dark side",
+      "route": ""
+    },
+    {
+      "text": "Rey trains with Luke on Ahch-To; Jedi texts preserved",
+      "route": ""
+    },
+    {
+      "text": "Rey defeats Palpatine at Exegol with the strength of past Jedi",
+      "route": ""
+    },
+    {
+      "text": "Rey adopts the Skywalker name; new Jedi path begins",
+      "route": ""
+    }
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Luke Skywalker",
+      "route": "jedi/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Rey",
+      "route": "characters/rey"
+    },
+    {
+      "label": "Jedi",
+      "value": "Grogu",
+      "route": "jedi/grogu"
+    },
+    {
+      "label": "Jedi",
+      "value": "Kanan Jarrus",
+      "route": "jedi/kanan-jarrus"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Vader",
+      "route": "sith/darth-vader"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Sidious",
+      "route": "sith/darth-sidious"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ahch-To",
+      "route": "planet/ahch-to"
+    },
+    {
+      "label": "Planet",
+      "value": "Exegol",
+      "route": "planet/exegol"
+    },
+    {
+      "label": "Planet",
+      "value": "Tatooine",
+      "route": "tatooine"
+    },
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    }
+  ],
+  "ships": [
+    {
+      "label": "Ship",
+      "value": "Millennium Falcon",
+      "route": "ships/millennium-falcon"
+    },
+    {
+      "label": "Ship",
+      "value": "X-wing Starfighter",
+      "route": "ships/x-wing"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode VI — Return of the Jedi",
+    "Star Wars: Episode VII — The Force Awakens",
+    "Star Wars: Episode VIII — The Last Jedi",
+    "Star Wars: Episode IX — The Rise of Skywalker"
+  ],
+  "series": [
+    "The Mandalorian",
+    "The Book of Boba Fett",
+    "Ahsoka"
+  ],
+  "games": [
+    "Star Wars Jedi: Fallen Order",
+    "Star Wars Jedi: Survivor"
+  ],
+  "books": [
+    "The Legends of Luke Skywalker (Ken Liu)",
+    "Shadow of the Sith (Adam Christopher)",
+    "Star Wars: The Rise of Skywalker — Expanded Edition"
+  ],
+  "timeline": [
+    {
+      "era": "4 ABY",
+      "event": "Luke begins searching for Jedi knowledge after Endor"
+    },
+    {
+      "era": "c. 15 ABY",
+      "event": "Luke establishes training academy"
+    },
+    {
+      "era": "28 ABY",
+      "event": "Temple destroyed; Luke exiles to Ahch-To"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Rey finds Luke; Jedi texts recovered"
+    },
+    {
+      "era": "35 ABY",
+      "event": "Rey defeats Palpatine; adopts Skywalker name"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/chronicles/new-jedi-order-scene.webp",
+      "caption": "Rey lifts Luke's X-wing from Ahch-To's stormy seas"
+    }
+  ]
+}

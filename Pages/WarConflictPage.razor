@@ -1,5 +1,8 @@
 @page "/wars-conflicts/{Slug}"
 @using StarWars.Data
+@using StarWars.Services
+@using StarWars.Components
+@inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(conflict?.Name ?? "Wars & Conflicts")</PageTitle>
 
@@ -7,6 +10,10 @@
 {
     <h1>Conflict not found</h1>
     <p>Sorry, there are no records for this war or conflict.</p>
+}
+else if (!linksLoaded)
+{
+    <p class="directory-detail-loading">Loading conflict records…</p>
 }
 else
 {
@@ -40,6 +47,7 @@ else
             </div>
         </section>
     </div>
+    <RelatedArchives Links="@crossLinks" />
 }
 
 @code {
@@ -48,6 +56,8 @@ else
 
     private WarConflict? conflict;
     private string searchQuery = string.Empty;
+    private bool linksLoaded;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
     private IReadOnlyList<FamousBattle> Battles = [];
     private IReadOnlyList<FamousBattle> FilteredBattles => Battles.Where(battle =>
         DirectoryFilter.Matches(searchQuery, battle.Name, battle.Era)).ToList();
@@ -67,11 +77,20 @@ else
         _ => $"A major galactic conflict documented across the nine saga films, series, Knights of the Old Republic, and the Old Sith Empire."
     };
 
-    protected override void OnParametersSet()
+    protected override async Task OnParametersSetAsync()
     {
         conflict = WarConflictData.GetBySlug(Slug);
         Battles = conflict is null ? [] : BattleData.GetByWar(conflict.Slug);
         searchQuery = string.Empty;
+        linksLoaded = false;
+        crossLinks = [];
+
+        if (conflict is not null)
+        {
+            crossLinks = await CrossLinkService.GetLinksAsync("wars-conflicts", conflict.Slug);
+        }
+
+        linksLoaded = true;
     }
 
     private void OnSearchChanged(string query) => searchQuery = query;

@@ -129,6 +129,30 @@ NAVY_SHIP_MAP: dict[str, str] = {
     "nightsister-swarm-squadron": "ginivex-class",
     "dathomirian-orbital-shaman-guard": "nightbrother",
     "shadow-collective-combined-fleet": "komrk-class",
+    "harrower-class-dreadnought": "harrower-class",
+    "terminus-class-destroyer": "harrower-class",
+    "sith-interceptor-wing": "sith-interceptor",
+    "sith-bomber-wing": "sith-interceptor",
+    "mark-vi-supremacy-class": "harrower-class",
+    "sith-fleet-command": "harrower-class",
+    "korriban-defense-fleet": "harrower-class",
+    "dromund-kaas-home-fleet": "harrower-class",
+    "sith-blockade-group": "harrower-class",
+    "sith-transport-convoy": "harrower-class",
+    "sith-hypergate-strike-group": "harrower-class",
+    "sith-ambassador-escort-squadron": "harrower-class",
+    "hammerhead-class-cruiser-group": "endar-spire",
+    "endar-spire-assault-group": "endar-spire",
+    "republic-aurek-fighter-wing": "x-wing",
+    "republic-bomber-wing": "y-wing",
+    "thranta-class-corvette-squadron": "consular-class",
+    "valor-class-cruiser-group": "endar-spire",
+    "open-circle-old-republic-fleet": "endar-spire",
+    "coruscant-home-defense-squadron": "endar-spire",
+    "republic-blockade-interdiction-group": "hammerhead-corvette",
+    "republic-transport-command": "gr-75-transport",
+    "pelta-class-support-group": "pelta-class",
+    "republic-carrier-battle-group": "venator-class",
 }
 
 # Representative ship scene for each faction's navy branch listing hero
@@ -142,6 +166,8 @@ FACTION_NAVY_BRANCH_SHIP: dict[str, str] = {
     "other": "lucrehulk-class",
     "rebel-alliance": "mc80-cruiser",
     "resistance": "mc85-cruiser",
+    "sith-empire": "harrower-class",
+    "old-republic": "endar-spire",
 }
 
 STYLE_PREFIX = (

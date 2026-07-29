@@ -1,0 +1,28 @@
+@using System.Net
+@using System.Text.RegularExpressions
+
+@foreach (var paragraph in Paragraphs)
+{
+    <p>@((MarkupString)RenderParagraph(paragraph))</p>
+}
+
+@code {
+    [Parameter, EditorRequired]
+    public string Text { get; set; } = string.Empty;
+
+    private IEnumerable<string> Paragraphs =>
+        Text.Split("\n\n", StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
+
+    private static readonly Regex LinkPattern = new(@"\[([^\]]+)\]\(([^)]+)\)", RegexOptions.Compiled);
+
+    private static string RenderParagraph(string paragraph)
+    {
+        var encoded = WebUtility.HtmlEncode(paragraph);
+        return LinkPattern.Replace(encoded, match =>
+        {
+            var label = match.Groups[1].Value;
+            var route = match.Groups[2].Value.Trim().TrimStart('/');
+            return $"""<a href="{route}">{label}</a>""";
+        });
+    }
+}

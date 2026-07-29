@@ -32,7 +32,7 @@ else
                           Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
                           Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
                           AccentColor="@character.Color" />
-    <EntityCrossLinks Links="@crossLinks" />
+    <RelatedArchives Links="@crossLinks" />
 }
 
 @code {

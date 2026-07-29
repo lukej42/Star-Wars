@@ -2,10 +2,20 @@ namespace StarWars.Models;
 
 public sealed class DirectoryProfile
 {
+    public string DateRange { get; init; } = string.Empty;
     public string Overview { get; init; } = string.Empty;
     public string History { get; init; } = string.Empty;
     public string Significance { get; init; } = string.Empty;
     public IReadOnlyList<string> NotableEvents { get; init; } = [];
+    public IReadOnlyList<ProfileLinkedEvent> MajorEvents { get; init; } = [];
+    public IReadOnlyList<ProfileLinkItem> KeyFactions { get; init; } = [];
+    public IReadOnlyList<ProfileLinkItem> MajorCharacters { get; init; } = [];
+    public IReadOnlyList<ProfileLinkItem> Planets { get; init; } = [];
+    public IReadOnlyList<ProfileLinkItem> Ships { get; init; } = [];
+    public IReadOnlyList<string> Films { get; init; } = [];
+    public IReadOnlyList<string> Series { get; init; } = [];
+    public IReadOnlyList<string> Games { get; init; } = [];
+    public IReadOnlyList<string> Books { get; init; } = [];
     public IReadOnlyList<string> Affiliations { get; init; } = [];
     public IReadOnlyList<ProfileTimelineEntry> Timeline { get; init; } = [];
     public IReadOnlyList<ProfileImage> Gallery { get; init; } = [];

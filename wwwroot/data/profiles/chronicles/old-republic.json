@@ -1,0 +1,131 @@
+{
+  "dateRange": "c. 25,000 BBY – c. 1,000 BBY",
+  "overview": "The Old Republic era spans more than twenty-four millennia of democratic experiment — from the unification of the Core Worlds through countless Jedi–Sith conflicts, Mandalorian crusades, and the final New Sith Wars that ended with Darth Bane's Rule of Two and the Ruusan Reformations. For most of this period the Republic was the default condition of civilized space, guarded by a Jedi Order that evolved from frontier knights into galactic peacekeepers.",
+  "history": "The founding of the Galactic Republic united disparate Core systems under a single Senate and judiciary, with the Jedi Order serving as voluntary mediators rather than rulers. Early expansion along newly charted hyperspace lanes brought member worlds from the Colonies into the Mid Rim, but the process was never bloodless — corporate exploitation, slavery in the Outer Rim, and periodic Sith resurgences tested the Republic's ideals from the beginning.\n\nThe Mandalorian Wars of 3,964–3,960 BBY exposed a fatal flaw in Jedi doctrine. When the warrior clans of Mandalore the Ultimate swept through the Outer Rim, the Jedi Council refused to intervene — but Revan and Malak defied the Order, leading rogue knights to victory at terrible moral cost. Revan's fall to the dark side, Malak's destruction of Taris, and the Star Forge crisis on Lehon became cautionary tales cited for centuries whenever Jedi debated preemptive war.\n\nThe Great Galactic War (3,681–3,653 BBY) and subsequent Cold War pitted a restored Sith Empire — hidden since the Hyperspace War — against a Republic already scarred by Mandalorian and Jedi civil conflicts. Battles on Coruscant itself, the sacking of the Jedi Temple, and the treachery of Sith politics defined the *Star Wars: The Old Republic* era. The [Sith Code](the-force/sith-code) and [Jedi Code](the-force/jedi-code) were not abstract texts here; they were marching orders for armies numbering in the billions.\n\nBetween these galactic wars, the Republic endured brushfire conflicts, corporate privatization of security forces, and the slow drift of Rim worlds toward separatist sentiment. The Jedi rebuilt temples, trained padawans on Coruscant, and maintained the Great Library on Ossus until its destruction during Exar Kun's campaign — later replaced by archives on Telos and the Jedi Temple itself.\n\nThe New Sith Wars (c. 2,000–1,000 BBY) — also called the Sith Wars or Brotherhood of Darkness era — reduced vast regions of the galaxy to battlefields. Sith Lords multiplied under Kaan's Brotherhood, abandoning Bane's eventual philosophy of secrecy for open warfare. The final campaign on Ruusan consumed both armies in a thought bomb's annihilation, leaving Darth Bane the sole surviving Sith Lord. His Rule of Two — master and apprentice, hidden until the moment of galactic conquest — reshaped Sith strategy for the next thousand years.\n\nThe Ruusan Reformations (~1,000 BBY) demilitarized the Republic, reorganized the Jedi as peacekeepers rather than generals, and began the millennium of relative stability that Palpatine would exploit. Yoda, already centuries old, trained generations of Jedi in this new era — an unbroken chain leading directly to the prequel trilogy's tragedy.",
+  "significance": "The Old Republic is the galaxy's longest experiment in democratic governance at interstellar scale. Its successes — trade, diplomacy, cultural exchange — and failures — inequality, militarization, Sith infiltration — explain every political argument in the Skywalker saga.\n\nRevan, Malak, Bane, and the Ruusan Reformations are hinge points that connect Legends games and novels to film canon. Without Bane's Rule of Two, Palpatine and Vader's dyad makes no sense; without the Mandalorian Wars, Revan's mask and the Jedi Council's caution in the Clone Wars lose their historical weight.\n\nThe era also grounds the Jedi Order's identity: guardians who learned, again and again, that refusing to fight could be as catastrophic as fighting without restraint.",
+  "majorEvents": [
+    {
+      "text": "Galactic Republic founded; Core Worlds unified under the Senate",
+      "route": ""
+    },
+    {
+      "text": "Mandalorian Wars — Revan and Malak defy the Jedi Council",
+      "route": "wars-conflicts/mandalorian-wars"
+    },
+    {
+      "text": "Great Galactic War — restored Sith Empire invades the Republic",
+      "route": "wars-conflicts/great-galactic-war"
+    },
+    {
+      "text": "New Sith Wars — Brotherhood of Darkness ravages the galaxy",
+      "route": "wars-conflicts/new-sith-wars"
+    },
+    {
+      "text": "Ruusan Reformations — Darth Bane's Rule of Two begins; Jedi reformed",
+      "route": ""
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Darth Revan",
+      "route": "sith/darth-revan"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Malak",
+      "route": "sith/darth-malak"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Bane",
+      "route": "sith/darth-bane"
+    },
+    {
+      "label": "Jedi",
+      "value": "Yoda",
+      "route": "jedi/yoda"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    },
+    {
+      "label": "Planet",
+      "value": "Ruusan",
+      "route": "planet/ruusan"
+    },
+    {
+      "label": "Planet",
+      "value": "Dxun",
+      "route": "planet/dxun"
+    },
+    {
+      "label": "Planet",
+      "value": "Malachor V",
+      "route": "planet/malachor-v"
+    },
+    {
+      "label": "Planet",
+      "value": "Telos",
+      "route": "planet/telos"
+    }
+  ],
+  "ships": [
+    {
+      "label": "Ship",
+      "value": "Hammerhead Corvette",
+      "route": "ships/hammerhead-corvette"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: Knights of the Old Republic",
+    "Star Wars: Knights of the Old Republic II — The Sith Lords",
+    "Star Wars: The Old Republic"
+  ],
+  "books": [
+    "Darth Bane: Path of Destruction (Legends novel)",
+    "The Old Republic novel series",
+    "Revan (Legends novel)"
+  ],
+  "timeline": [
+    {
+      "era": "c. 25,000 BBY",
+      "event": "Galactic Republic founded"
+    },
+    {
+      "era": "3,964 BBY",
+      "event": "Mandalorian Wars begin in the Outer Rim"
+    },
+    {
+      "era": "3,681 BBY",
+      "event": "Great Galactic War opens with Sith invasion"
+    },
+    {
+      "era": "c. 2,000 BBY",
+      "event": "New Sith Wars erupt across multiple sectors"
+    },
+    {
+      "era": "~1,000 BBY",
+      "event": "Ruusan cataclysm; Bane establishes Rule of Two"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/chronicles/old-republic-scene.webp",
+      "caption": "Hammerhead corvettes and Jedi starfighters over Ruusan"
+    }
+  ]
+}

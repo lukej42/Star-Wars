@@ -1,0 +1,158 @@
+{
+  "dateRange": "4 BBY – 4 ABY",
+  "overview": "The Age of Rebellion covers the Galactic Civil War — from the first formal strikes against the Empire to the decisive victory at Endor. The Rebel Alliance transformed scattered cells into a coalition capable of destroying Death Stars, while Luke Skywalker's journey restored the Jedi legacy and revealed that even Darth Vader could be redeemed.",
+  "history": "The Rebel Alliance coalesced around Mon Mothma, Bail Organa, and Saw Gerrera's networks — a multi-species coalition united by the memory of the Republic and horror at Imperial atrocities. Early victories on Lothal and Atollon were costly; the Empire responded with blockades, ISB infiltration, and the Death Star — a weapon that made conventional rebellion seem suicidal.\n\nThe theft of the Death Star plans on Scarif (0 BBY) and their transmission to Leia Organa's Tantive IV set the Original Trilogy in motion. Luke Skywalker, raised on Tatooine, joined Obi-Wan Kenobi and learned the basics of the Force before the mentor fell to Darth Vader aboard the Death Star. The Battle of Yavin — where Luke fired the proton torpedoes that destroyed the battle station — became year zero for galactic dating and proof that hope could defeat terror.\n\nThe [Jedi Code](the-force/jedi-code) lived again in Luke's training on Dagobah under Yoda, while the [Sith Code](the-force/sith-code) bound Vader to Palpatine through pain and duty. Han Solo, Leia, Chewbacca, and the droids R2-D2 and C-3PO formed the Alliance's irregular heart — smugglers and diplomats who could strike where formal fleets could not.\n\nThe Empire struck back at Hoth, scattering the Alliance and forcing Luke to confront Vader at Cloud City on Bespin. The revelation — 'I am your father' — fractured the rebellion's greatest hope even as Lando Calrissian and Chewbacca raced to rescue Han from Jabba the Hutt. The second Death Star, under construction over Endor, became Palpatine's trap.\n\nThe Galactic Civil War reached its climax in 4 ABY. The Battle of Endor combined a ground assault on the shield generator, a fleet action against the Executor-class Super Star Destroyer, and Luke's refusal to kill his father — a choice that allowed Anakin Skywalker to destroy the Emperor and fulfill the prophecy. The Empire's leadership was decapitated; celebrations erupted from Coruscant to Naboo even as Imperial holdouts prepared for guerrilla war.\n\nThis era is the mythic core of Star Wars — farmboys and princesses against armored tyranny, the Force as spiritual counterweight to superweapons, and the proof that rebellion is not terrorism when the state itself is the crime.",
+  "significance": "The Age of Rebellion is the franchise's founding narrative — the template for every subsequent story about resistance, redemption, and the cost of freedom. The galactic calendar itself dates from the Battle of Yavin.\n\nLuke and Leia's discovery of their heritage connects the prequel tragedy to Original Trilogy hope, while Han's arc from cynic to believer models the civilian's role in political struggle.\n\nEndor's victory did not end war — Jakku and Imperial remnants would follow — but it proved that Sith dominion could be broken, setting the stage for the New Republic and the eventual rise of the First Order.",
+  "majorEvents": [
+    {
+      "text": "Rebel Alliance steals Death Star plans at Scarif",
+      "route": ""
+    },
+    {
+      "text": "Battle of Yavin destroys the first Death Star",
+      "route": "wars-conflicts/galactic-civil-war"
+    },
+    {
+      "text": "Battle of Hoth; Alliance scatters from Echo Base",
+      "route": "wars-conflicts/galactic-civil-war"
+    },
+    {
+      "text": "Battle of Endor — Emperor Palpatine killed; second Death Star destroyed",
+      "route": "wars-conflicts/galactic-civil-war"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Rebel Alliance",
+      "route": "factions/rebel-alliance"
+    },
+    {
+      "label": "Faction",
+      "value": "Galactic Empire",
+      "route": "factions/empire"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Luke Skywalker",
+      "route": "jedi/luke-skywalker"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Yoda",
+      "route": "jedi/yoda"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    },
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Vader",
+      "route": "sith/darth-vader"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Yavin 4",
+      "route": "planet/yavin-4"
+    },
+    {
+      "label": "Planet",
+      "value": "Hoth",
+      "route": "hoth"
+    },
+    {
+      "label": "Planet",
+      "value": "Endor",
+      "route": "planet/endor"
+    },
+    {
+      "label": "Planet",
+      "value": "Bespin",
+      "route": "bespin"
+    },
+    {
+      "label": "Planet",
+      "value": "Scarif",
+      "route": "planet/scarif"
+    },
+    {
+      "label": "Planet",
+      "value": "Dagobah",
+      "route": "planet/dagobah"
+    }
+  ],
+  "ships": [
+    {
+      "label": "Ship",
+      "value": "Millennium Falcon",
+      "route": "ships/millennium-falcon"
+    },
+    {
+      "label": "Ship",
+      "value": "X-wing Starfighter",
+      "route": "ships/x-wing"
+    },
+    {
+      "label": "Ship",
+      "value": "Executor-class Star Dreadnought",
+      "route": "ships/executor-class"
+    }
+  ],
+  "films": [
+    "Rogue One: A Star Wars Story",
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode V — The Empire Strikes Back",
+    "Star Wars: Episode VI — Return of the Jedi"
+  ],
+  "series": [
+    "Star Wars Rebels (closing arcs)"
+  ],
+  "games": [
+    "Star Wars: Battlefront (2015)",
+    "Star Wars: Squadrons"
+  ],
+  "books": [
+    "Lost Stars (Claudia Gray)",
+    "Battlefront: Twilight Company (Alexander Freed)"
+  ],
+  "timeline": [
+    {
+      "era": "0 BBY",
+      "event": "Death Star plans stolen; Battle of Yavin"
+    },
+    {
+      "era": "3 ABY",
+      "event": "Battle of Hoth; duel on Cloud City"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Rescue of Han Solo from Jabba's palace"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Battle of Endor; Emperor and Vader die"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/chronicles/age-of-rebellion-scene.webp",
+      "caption": "Rebel starfighters attack the Death Star over Yavin"
+    }
+  ]
+}

@@ -54,6 +54,32 @@
             </div>
             <div class="nav-item px-3 nav-flyout"
                  @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileChronicles">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsChroniclesRoute ? "active" : null)"
+                        @onclick="ToggleMobileChronicles">
+                    <span class="bi bi-chronicles-nav-menu" aria-hidden="true"></span> Chronicles
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileChroniclesOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-chronicles">
+                        <NavLink class="nav-link nav-flyout-link nav-chronicles-link nav-galactic-history-link" href="@ChroniclesData.GalacticHistoryRoute" @onclick="CloseMobileNav">
+                            <span class="bi bi-galactic-history-nav-menu" aria-hidden="true"></span>
+                            Galactic History
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var entry in ChroniclesData.Entries)
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-chronicles-link" href="@entry.Route" @onclick="CloseMobileNav">
+                                <span class="nav-chronicles-dot" style="background-color: @entry.Color" aria-hidden="true"></span>
+                                @entry.Name
+                            </NavLink>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
                  @onmouseleave="CloseMobileFactions">
                 <button type="button"
                         class="nav-link nav-flyout-trigger @(IsFactionRoute ? "active" : null)"
@@ -587,6 +613,7 @@
 @code {
     private bool collapseNavMenu = true;
     private bool mobileTimelinesOpen;
+    private bool mobileChroniclesOpen;
     private bool mobileFactionsOpen;
     private bool mobileWarsConflictsOpen;
     private bool mobileCharactersOpen;
@@ -632,6 +659,25 @@
 
     private bool IsTimelineRoute =>
         Navigation.Uri.Contains("/timelines", StringComparison.OrdinalIgnoreCase);
+
+    private bool IsChroniclesRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri.Equals(ChroniclesData.GalacticHistoryRoute, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith("chronicles/galactic-history/", StringComparison.OrdinalIgnoreCase))
+            {
+                return true;
+            }
+
+            return uri.Equals("chronicles", StringComparison.OrdinalIgnoreCase) ||
+                ChroniclesData.Entries.Any(entry =>
+                uri.Equals(entry.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{entry.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
 
     private bool IsFactionRoute =>
         Navigation.Uri.Contains("/factions/", StringComparison.OrdinalIgnoreCase) ||
@@ -957,6 +1003,15 @@
         }
     }
 
+    private void ToggleMobileChronicles()
+    {
+        mobileChroniclesOpen = !mobileChroniclesOpen;
+        if (mobileChroniclesOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileChroniclesOpen));
+        }
+    }
+
     private void ToggleMobileFactions()
     {
         mobileFactionsOpen = !mobileFactionsOpen;
@@ -1183,6 +1238,11 @@
             mobileTimelinesOpen = false;
         }
 
+        if (except != nameof(mobileChroniclesOpen))
+        {
+            mobileChroniclesOpen = false;
+        }
+
         if (except != nameof(mobileFactionsOpen))
         {
             mobileFactionsOpen = false;
@@ -1257,6 +1317,11 @@
     private void CloseMobileTimelines()
     {
         mobileTimelinesOpen = false;
+    }
+
+    private void CloseMobileChronicles()
+    {
+        mobileChroniclesOpen = false;
     }
 
     private void CloseMobileFactions()
@@ -1356,6 +1421,7 @@
     {
         collapseNavMenu = true;
         mobileTimelinesOpen = false;
+        mobileChroniclesOpen = false;
         mobileFactionsOpen = false;
         mobileWarsConflictsOpen = false;
         mobileCharactersOpen = false;

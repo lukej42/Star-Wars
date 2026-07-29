@@ -1,0 +1,26 @@
+@if (Items.Count > 0)
+{
+    <section class="directory-detail-section">
+        <h2>@Heading</h2>
+        <ul class="directory-detail-list directory-detail-linked-list">
+            @foreach (var item in Items)
+            {
+                <li>
+                    <a href="@item.Route">@item.Value</a>
+                    @if (!string.IsNullOrWhiteSpace(item.Label))
+                    {
+                        <span class="directory-detail-link-meta">@item.Label</span>
+                    }
+                </li>
+            }
+        </ul>
+    </section>
+}
+
+@code {
+    [Parameter, EditorRequired]
+    public string Heading { get; set; } = string.Empty;
+
+    [Parameter]
+    public IReadOnlyList<ProfileLinkItem> Items { get; set; } = Array.Empty<ProfileLinkItem>();
+}

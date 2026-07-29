@@ -14,7 +14,9 @@ public static partial class MilitaryUnitData
         new() { Name = "New Republic", Slug = "new-republic", Route = "military-units/new-republic", Color = "#ffd166" },
         new() { Name = "Other", Slug = "other", Route = "military-units/other", Color = "#84cc16" },
         new() { Name = "Rebel Alliance", Slug = "rebel-alliance", Route = "military-units/rebel-alliance", Color = "#e85d04" },
-        new() { Name = "Resistance", Slug = "resistance", Route = "military-units/resistance", Color = "#f97316" }
+        new() { Name = "Resistance", Slug = "resistance", Route = "military-units/resistance", Color = "#f97316" },
+        new() { Name = "Sith Empire", Slug = "sith-empire", Route = "military-units/sith-empire", Color = "#991b1b" },
+        new() { Name = "Old Republic", Slug = "old-republic", Route = "military-units/old-republic", Color = "#2563eb" }
     ];
 
     public static MilitaryUnitFaction? GetFactionBySlug(string slug) =>

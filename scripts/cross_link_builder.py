@@ -7,6 +7,13 @@ import json
 import re
 from pathlib import Path
 
+from chronicle_entity_links import (
+    add_chronicle_links,
+    chronicle_links_for_war,
+    finalize_links,
+    match_chronicle_slugs,
+)
+from entity_associations import factions_for_entity, inference_text, is_generic_profile
 from parse_csharp_data import (
     all_directory_entries,
     load_characters,
@@ -371,6 +378,7 @@ class CrossLinkIndexes:
         self.form_users: dict[str, list[tuple[str, dict[str, str]]]] = {}
         self.people_by_homeworld: dict[str, list[tuple[str, dict[str, str]]]] = {}
         self.factions_by_planet: dict[str, list[dict[str, str]]] = {}
+        self.people_by_faction: dict[str, list[tuple[str, dict[str, str]]]] = {}
 
     def load(self) -> None:
         self.valid_routes = self._load_valid_routes()
@@ -612,6 +620,8 @@ class CrossLinkIndexes:
                         self.factions_by_planet.setdefault(planet["slug"], []).append(faction)
 
     def _profile_text(self, profile: dict, entry: dict[str, str] | None = None) -> str:
+        if entry and is_generic_profile(profile):
+            return inference_text(profile, entry)
         chunks = [
             profile.get("overview", ""),
             profile.get("history", ""),
@@ -635,11 +645,16 @@ class CrossLinkIndexes:
 
     def _detect_species(self, text: str, entry: dict[str, str]) -> dict[str, str] | None:
         desc = entry.get("description", "")
+        padded = f" {text} "
+        desc_padded = f" {self._norm(desc)} "
         for sp in sorted(self.species, key=lambda s: len(s["name"]), reverse=True):
             name_norm = self._norm(sp["name"])
-            if name_norm in text or name_norm in self._norm(desc):
+            if not name_norm:
+                continue
+            needle = f" {name_norm} "
+            if needle in padded or needle in desc_padded:
                 return sp
-        if "human" in text or " human " in f" {text} ":
+        if " human " in padded or " human " in desc_padded:
             return self.species_by_norm.get("human")
         return None
 
@@ -797,8 +812,12 @@ class CrossLinkIndexes:
         seen.add(route)
 
     def add_affiliations(self, links: list[dict[str, str]], seen: set[str], profile: dict) -> None:
+        if is_generic_profile(profile):
+            return
         text = self._norm(" ".join(profile.get("affiliations", [])))
         for needle, (label, value, route) in AFFILIATION_ROUTES.items():
+            if label == "Faction":
+                continue
             if needle in text:
                 self.add_link(links, seen, label, value, route)
 
@@ -810,6 +829,8 @@ class CrossLinkIndexes:
         *,
         homeworld: str = "",
         extra_planet: str = "",
+        war_slugs: list[str] | None = None,
+        ship_era: str = "",
     ) -> list[dict[str, str]]:
         profile = self.profiles.get(category, {}).get(slug, {})
         text = self._profile_text(profile, entry)
@@ -831,11 +852,27 @@ class CrossLinkIndexes:
                 if planet:
                     self.add_link(links, seen, "Homeworld", planet["name"], planet["route"])
 
-        for faction in self.factions:
-            fname = self._norm(faction["name"])
-            fslug = self._norm(faction["slug"])
-            if fname in text or fslug in text:
-                self.add_link(links, seen, "Faction", faction["name"], faction["route"])
+        chronicle_eras = match_chronicle_slugs(
+            category,
+            slug,
+            entry,
+            profile,
+            war_slugs=war_slugs,
+            ship_era=ship_era,
+        )
+        for label, value, route in factions_for_entity(
+            category,
+            slug,
+            entry,
+            profile,
+            chronicle_eras=chronicle_eras,
+        ):
+            self.add_link(links, seen, label, value, route)
+            if label == "Faction" and route.startswith("factions/"):
+                faction_slug = route.split("/", 1)[1]
+                members = self.people_by_faction.setdefault(faction_slug, [])
+                if not any(m[1]["slug"] == slug and m[0] == category for m in members):
+                    members.append((category, entry))
 
         if extra_planet:
             planet = self._planet_for_name(extra_planet)
@@ -861,7 +898,19 @@ class CrossLinkIndexes:
         elif category == "bounty-hunters":
             self.add_link(links, seen, "Directory", "Bounty Hunters", "all-bounty-hunters")
 
-        return links[:MAX_LINKS]
+        add_chronicle_links(
+            self,
+            links,
+            seen,
+            category,
+            slug,
+            entry,
+            profile,
+            war_slugs=war_slugs,
+            ship_era=ship_era,
+        )
+
+        return finalize_links(links)
 
     def build_all_entries(self) -> list[dict]:
         entries: list[dict] = []
@@ -951,7 +1000,21 @@ class CrossLinkIndexes:
                     label = category.rstrip("s").replace("-", " ").title()
                     self.add_link(links, seen, label, person["name"], person["route"])
             self.add_affiliations(links, seen, profile)
-            entries.append({"category": "planets", "slug": planet["slug"], "links": links[:MAX_LINKS]})
+            war_slugs = [
+                battle["warSlug"]
+                for battle in self.battles_by_planet.get(planet["slug"], [])
+            ]
+            add_chronicle_links(
+                self,
+                links,
+                seen,
+                "planets",
+                planet["slug"],
+                planet,
+                profile,
+                war_slugs=war_slugs,
+            )
+            entries.append({"category": "planets", "slug": planet["slug"], "links": finalize_links(links)})
 
         for faction in self.factions:
             profile = self.profiles.get("factions", {}).get(faction["slug"], {})
@@ -970,13 +1033,9 @@ class CrossLinkIndexes:
                 if planet:
                     self.add_link(links, seen, "Capital", planet["name"], planet["route"])
             self.add_affiliations(links, seen, profile)
-            for category, person in self.people:
-                person_text = self._profile_text(
-                    self.profiles.get(category, {}).get(person["slug"], {}), person
-                )
-                if self._norm(faction["name"]) in person_text or self._norm(faction["slug"]) in person_text:
-                    label = category.rstrip("s").replace("-", " ").title()
-                    self.add_link(links, seen, label, person["name"], person["route"])
+            for category, person in self.people_by_faction.get(faction["slug"], [])[:16]:
+                label = category.rstrip("s").replace("-", " ").title()
+                self.add_link(links, seen, label, person["name"], person["route"])
             entries.append({"category": "factions", "slug": faction["slug"], "links": links[:MAX_LINKS]})
 
         for power in self.powers:
@@ -1051,10 +1110,62 @@ class CrossLinkIndexes:
                 self.add_link(links, seen, "Branch", label, branch_route)
             entries.append({"category": "military-units", "slug": f"{unit['factionSlug']}/{unit['slug']}", "links": links[:MAX_LINKS]})
 
+        for war in self.wars:
+            links: list[dict[str, str]] = []
+            seen: set[str] = set()
+            for label, value, route in chronicle_links_for_war(war["slug"]):
+                self.add_link(links, seen, label, value, route)
+            for battle in self.battles_by_war.get(war["slug"], [])[:8]:
+                self.add_link(links, seen, "Battle", battle["name"], battle["route"])
+            entries.append({"category": "wars-conflicts", "slug": war["slug"], "links": finalize_links(links)})
+
+        from chronicle_era_links import CHRONICLE_ERA_LINKS
+
+        for slug, era_links in CHRONICLE_ERA_LINKS.items():
+            links: list[dict[str, str]] = []
+            seen: set[str] = set()
+            for label, value, route in era_links:
+                self.add_link(links, seen, label, value, route)
+            entries.append({"category": "chronicles", "slug": slug, "links": links[:MAX_LINKS]})
+
         return entries
+
+
+def inherit_chronicle_links(entries: list[dict]) -> None:
+    """Copy Galactic History and faction links from sibling directory entries that share a slug."""
+    by_key = {(entry["category"], entry["slug"]): entry for entry in entries}
+    character_slugs = {entry["slug"] for entry in entries if entry["category"] == "characters"}
+    source_categories = ["jedi", "sith", "bounty-hunters", "droids"]
+
+    for slug in character_slugs:
+        target = by_key.get(("characters", slug))
+        if not target:
+            continue
+
+        if not any(link["label"] == "Chronicle" for link in target["links"]):
+            for source_category in source_categories:
+                source = by_key.get((source_category, slug))
+                if not source:
+                    continue
+                chronicles = [link for link in source["links"] if link["label"] == "Chronicle"]
+                if chronicles:
+                    target["links"] = finalize_links(target["links"] + chronicles)
+                    break
+
+        if not any(link["label"] == "Faction" for link in target["links"]):
+            for source_category in source_categories:
+                source = by_key.get((source_category, slug))
+                if not source:
+                    continue
+                factions = [link for link in source["links"] if link["label"] == "Faction"]
+                if factions:
+                    target["links"] = finalize_links(target["links"] + factions)
+                    break
 
 
 def build_cross_link_entries() -> list[dict]:
     indexes = CrossLinkIndexes()
     indexes.load()
-    return indexes.build_all_entries()
+    entries = indexes.build_all_entries()
+    inherit_chronicle_links(entries)
+    return entries

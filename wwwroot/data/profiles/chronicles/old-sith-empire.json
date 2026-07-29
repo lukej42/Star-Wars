@@ -1,0 +1,110 @@
+{
+  "dateRange": "c. 6,900 BBY – 5,000 BBY",
+  "overview": "The Old Sith Empire was the first galactic dominion built explicitly on the dark side — a theocratic war-state born from exiled Dark Jedi and the native Sith species of Korriban. Its Golden Age saw Sith sorcery, alchemy, and mass-produced war fleets challenge the young Republic across the stars until hubris and internal rivalry shattered Sith unity forever.",
+  "history": "After the Hundred-Year Darkness, Ajunta Pall and his followers landed on Korriban and were worshipped by the red-skinned Sith as gods. Over generations the exiles intermarried with the Sith species, creating a hybrid culture that worshipped the dark side as divine will. Korriban became a necropolis of tombs; Ziost, the ancient capital, pulsed with Sithspawn experiments and ritual sacrifice.\n\nMarka Ragnos's reign epitomized the Sith Golden Age — centuries of expansion into the Stygian Caldera while the Republic remained unaware of the threat brewing beyond the Rim. When Ragnos died, Naga Sadow and Ludo Kressh fought a succession war that weakened the empire at the worst possible moment. Sadow's discovery of hyperspace routes to the Republic Core precipitated the Great Hyperspace War — an invasion that reached as far as Coruscant before Republic and Jedi forces rallied.\n\nThe Republic's counterattack devastated Sadow's fleets and bombarded Sith worlds. Sadow fled to Yavin 4, where he placed himself in suspended animation inside a temple complex that would later entomb Exar Kun. The Sith Empire on Korriban collapsed; survivors fled into the Unknown Regions aboard generation ships, seeding the exile culture that would eventually produce Darth Vitiate's Sith Empire in Legends continuity.\n\nCenturies later, Freedon Nadd — a fallen Jedi — recovered Sadow's teachings and conquered Onderon, embedding Sith worship in that world's monarchy. His spirit would corrupt Exar Kun, who raided Ossus's Great Jedi Library, forged a Sith amulet, and launched the Great Sith War alongside the Krath cult and Mandalorian Crusaders. Kun's Brotherhood of the Sith burned across the galaxy until the combined Jedi Order, led by Nomi Sunrider and Odan-Urr, trapped his spirit on Yavin 4.\n\nThe Stark Hyperspace War — a corporate banking crisis manipulated by Sith agents — demonstrated that economic warfare could destabilize the Republic without open fleet battles. Though shorter than the Great Sith War, it revealed how deeply Sith influence could penetrate Core politics.\n\nBy 5,000 BBY the Old Sith Empire as a territorial state was gone, but its cultural DNA persisted: holocrons buried on desert worlds, Sith swords in private collections, and the enduring myth that the dark side could build empires faster than the light could legislate them away.",
+  "significance": "The Old Sith Empire established the template for every later dark-side hegemony — from Exar Kun's Brotherhood to Palpatine's Galactic Empire. Its fall taught the Jedi that victory over Sith armies did not extinguish Sith ideology; it merely drove it underground.\n\nNaga Sadow's invasion and Exar Kun's war are the earliest galactic-scale conflicts in the timeline, proving that the Republic was never inherently safe — only temporarily unthreatened. The mass exodus of Sith into the Unknown Regions also foreshadows the First Order's later emergence from Imperial exile.\n\nFor fans of Legends material, this era is the backbone of the *Tales of the Jedi* animated stories, *Knights of the Old Republic* flashback lore, and countless reference works on Sith alchemy and holocron tradition.",
+  "majorEvents": [
+    {
+      "text": "Marka Ragnos's Golden Age consolidates Sith dominion in the Outer Rim",
+      "route": ""
+    },
+    {
+      "text": "Great Hyperspace War — Naga Sadow invades the Republic Core",
+      "route": "wars-conflicts/great-sith-war"
+    },
+    {
+      "text": "Republic counterattack shatters the Sith Empire; survivors flee to the Unknown Regions",
+      "route": ""
+    },
+    {
+      "text": "Great Sith War — Exar Kun and Ulic Qel-Droma devastate the Republic",
+      "route": "wars-conflicts/great-sith-war"
+    },
+    {
+      "text": "Stark Hyperspace War — Sith-manipulated financial crisis strikes the Core",
+      "route": "wars-conflicts/stark-hyperspace-war"
+    }
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Naga Sadow",
+      "route": "sith/naga-sadow"
+    },
+    {
+      "label": "Sith",
+      "value": "Exar Kun",
+      "route": "sith/exar-kun"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Korriban",
+      "route": "korriban"
+    },
+    {
+      "label": "Planet",
+      "value": "Ziost",
+      "route": "planet/ziost"
+    },
+    {
+      "label": "Planet",
+      "value": "Yavin 4",
+      "route": "planet/yavin-4"
+    },
+    {
+      "label": "Planet",
+      "value": "Ossus",
+      "route": "planet/ossus"
+    }
+  ],
+  "ships": [
+    {
+      "label": "Ship",
+      "value": "Sith Interceptor",
+      "route": "ships/sith-interceptor"
+    }
+  ],
+  "films": [],
+  "series": [
+    "Star Wars: Tales of the Jedi (Legends / reference)"
+  ],
+  "games": [
+    "Star Wars: Knights of the Old Republic",
+    "Star Wars: Knights of the Old Republic II — The Sith Lords"
+  ],
+  "books": [
+    "Tales of the Jedi comic series (Legends)",
+    "The Sith War (Legends comic arc)"
+  ],
+  "timeline": [
+    {
+      "era": "c. 6,900 BBY",
+      "event": "Sith Golden Age under Marka Ragnos"
+    },
+    {
+      "era": "5,000 BBY",
+      "event": "Great Hyperspace War devastates Sith space"
+    },
+    {
+      "era": "3,996 BBY",
+      "event": "Exar Kun declares himself Dark Lord of the Sith"
+    },
+    {
+      "era": "3,996–3,994 BBY",
+      "event": "Great Sith War ravages the Republic"
+    },
+    {
+      "era": "c. 44 BBY",
+      "event": "Stark Hyperspace War (Legends dating)"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/chronicles/old-sith-empire-scene.webp",
+      "caption": "Sith war fleets mass above Korriban during the Golden Age"
+    }
+  ]
+}

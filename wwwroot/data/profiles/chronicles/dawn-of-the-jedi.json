@@ -1,0 +1,93 @@
+{
+  "dateRange": "c. 36,453 BBY – c. 25,000 BBY",
+  "overview": "The Dawn of the Jedi era marks the deepest recorded stratum of Force tradition in galactic history — a time before the Republic, before the Sith Empire, and before the words 'Jedi' and 'Sith' had hardened into opposing orders. On [Tython](planet/tython), Force-sensitive settlers discovered that the energy binding all life could be studied, balanced, and channeled through discipline rather than superstition.",
+  "history": "Galactic civilization in this epoch was shaped less by unified government than by the Tho Yor — mysterious pyramidal vessels that gathered Force-sensitive beings from across the galaxy and deposited them on Tython. There, amid nine distinct Temples aligned to the planet's moons and Force nexuses, the Je'daii Order arose. They named the light side Ashla and the dark side Bogan, teaching that imbalance between the two invited catastrophe — a philosophy that would echo in the later [Jedi Code](the-force/jedi-code) and its shadow counterpart, the [Sith Code](the-force/sith-code).\n\nJe'daii society was itinerant and rigorous. Adepts traveled between Temples — Mahra Kesh for alchemy, Anil Kesh for science, Kaleth for philosophy — and were exiled to Tython's moon Ashla or Bogan when they fell too far toward one pole of the Force. This institutional balance was not pacifism; Je'daii masters wielded swords, staves, and early forms of what would become lightsaber combat when metal-forging and Adegan crystal lore matured on worlds like Ilum.\n\nThe Rakata Infinite Empire cast a long shadow across pre-Republic space. Using Force-powered hyperdrive technology and enslaving countless species, the Rakata built Star Forge-scale monuments and seeded worlds with their architecture. Their empire's collapse — brought on by a plague that severed their Force sensitivity — left hyperspace routes fractured and worlds like Lehon (Rakata Prime) abandoned, but their legacy of dark-side superweapons haunted later ages.\n\nThe schism that ended the Je'daii golden age began when a faction led by Ajunta Pall and other Dark Jedi rejected exile and embraced Bogan as a path to power rather than a warning. Cast out after the Hundred-Year Darkness, these exiles conquered the Sith species on Korriban and interbred with them, forging the first Sith Lords. Their departure from Tython did not destroy Je'daii culture overnight, but it permanently split the galaxy's Force traditions into competing bloodlines of light and darkness.\n\nBy roughly 25,000 BBY, the Je'daii had evolved into the Jedi Order as historians later understood it — monastic, temple-centered, and increasingly aligned with the emerging Galactic Republic's democratic ideals. Ossus became a great library world; Tython itself would be abandoned and revisited across millennia whenever the Order sought its forgotten roots.\n\nLegends sources such as *Star Wars: Dawn of the Jedi* and the *Je'daii* comic series flesh out characters like Xesh, Daegen Lok, and Shae Koda, while modern canon references in *The Acolyte* and High Republic materials treat Tython and the balance philosophy as living precedents for every later debate about attachment, prophecy, and the danger of suppressing the dark side rather than understanding it.",
+  "significance": "Every subsequent Force tradition in Star Wars is, in some sense, a footnote to decisions made on Tython. The Je'daii's insistence on balance explains why later Jedi feared emotional attachment, why Sith define freedom through passion, and why the galaxy keeps rediscovering the same lesson: unchecked power — light or dark — reshapes civilization at catastrophic scale.\n\nThe era also anchors the franchise's deepest timeline, connecting Rakatan hyperdrive lore, Sith species mythology, and the Republic founding narrative into a single archaeological layer fans and in-universe scholars mine for precedent whenever a new crisis threatens galactic order.\n\nFor roleplaying games and reference works, the Dawn of the Jedi provides a sandbox unburdened by film continuity — a place to explore what the Force might have been before lightsabers, before the Rule of Two, and before Palpatine proved how fragile democracy could be.",
+  "majorEvents": [
+    {
+      "text": "Tho Yor gather Force-sensitives on Tython; Je'daii Order founded",
+      "route": ""
+    },
+    {
+      "text": "Rakata Infinite Empire dominates known space before plague-induced collapse",
+      "route": ""
+    },
+    {
+      "text": "Hundred-Year Darkness — Dark Jedi schism and exile from Tython",
+      "route": "wars-conflicts/hundred-year-darkness"
+    },
+    {
+      "text": "Exiled Dark Jedi conquer Korriban and become the first Sith Lords",
+      "route": ""
+    },
+    {
+      "text": "Je'daii transition toward the early Jedi Order; Republic founding era begins",
+      "route": ""
+    }
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Ajunta Pall",
+      "route": "sith/ajunta-pall"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Tython",
+      "route": "planet/tython"
+    },
+    {
+      "label": "Planet",
+      "value": "Korriban",
+      "route": "korriban"
+    },
+    {
+      "label": "Planet",
+      "value": "Ossus",
+      "route": "planet/ossus"
+    }
+  ],
+  "ships": [],
+  "films": [],
+  "series": [
+    "Star Wars: The Acolyte (references to ancient Force traditions)"
+  ],
+  "games": [
+    "Star Wars: The Old Republic (ancient history codex entries)"
+  ],
+  "books": [
+    "Star Wars: Dawn of the Jedi — Into the Void (Legends novel)",
+    "Star Wars: Dawn of the Jedi — Force Storm (Legends comic series)"
+  ],
+  "timeline": [
+    {
+      "era": "c. 36,453 BBY",
+      "event": "Tho Yor arrive on Tython; Je'daii Order established"
+    },
+    {
+      "era": "c. 30,000 BBY",
+      "event": "Rakata Infinite Empire reaches its zenith"
+    },
+    {
+      "era": "c. 25,793 BBY",
+      "event": "Hundred-Year Darkness begins"
+    },
+    {
+      "era": "c. 25,000 BBY",
+      "event": "Exiles found Sith culture on Korriban"
+    },
+    {
+      "era": "c. 25,000 BBY",
+      "event": "Galactic Republic founding era opens"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/chronicles/dawn-of-the-jedi-scene.webp",
+      "caption": "Je'daii Temples on Tython beneath the planet's twin moons"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+@page "/chronicles/galactic-history"
+@using StarWars.Data
+
+<PageTitle>Galactic History</PageTitle>
+
+<div class="directory-page directory-page-with-hero">
+    <figure class="directory-hero">
+        <img src="/images/chronicles/galactic-history-directory-hero.webp"
+             alt="Cinematic illustration of galactic history across the ages"
+             loading="lazy" />
+    </figure>
+    <h1>Galactic History</h1>
+    <p class="all-planets-intro">
+        Chronicle the galaxy from the Je'daii on Tython through the Old Sith Empire, the Republic's long age,
+        the Empire's rise, rebellion, and the eras that followed — narrative histories of every major epoch
+        in the Star Wars saga, from Legends and canon alike.
+    </p>
+
+    <div class="planet-directory-grid">
+        @foreach (var entry in ChroniclesData.Entries)
+        {
+            <article class="planet-directory-card">
+                <span class="planet-directory-swatch" style="background-color: @entry.Color" aria-hidden="true"></span>
+                <div class="planet-directory-details">
+                    <a href="@entry.Route">@entry.Name</a>
+                    @if (!string.IsNullOrWhiteSpace(entry.EraLabel))
+                    {
+                        <p class="planet-region">@entry.EraLabel</p>
+                    }
+                </div>
+            </article>
+        }
+    </div>
+</div>

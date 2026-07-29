@@ -175,6 +175,11 @@ public static class CrossLinkRouteValidator
             routes.Add(era.Route);
         }
 
+        foreach (var chronicle in ChroniclesData.Entries)
+        {
+            routes.Add(chronicle.Route);
+        }
+
         return routes;
     }
 }

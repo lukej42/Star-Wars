@@ -23,6 +23,7 @@ public static class CrossLinkImageResolver
         ["galaxy-map"] = "/images/planets/planets-directory-hero.webp",
         ["timelines"] = "/images/timelines/timelines-directory-hero.webp",
         ["wars-conflicts"] = "/images/wars-conflicts/wars-conflicts-directory-hero.webp",
+        ["chronicles/galactic-history"] = "/images/chronicles/galactic-history-directory-hero.webp",
         ["the-force"] = "/images/the-force/light-dark-conflict-scene.webp",
     };
 
@@ -73,6 +74,8 @@ public static class CrossLinkImageResolver
             "wars-conflicts" when segments is ["wars-conflicts", "battles", var battleSlug] => $"/images/wars-conflicts/battles/{battleSlug}-hero.webp",
             "the-force" when segments is ["the-force", "lightsaber-forms", var formSlug] => $"/images/the-force/lightsaber-forms/{formSlug}-hero.webp",
             "military-units" => ResolveMilitaryUnitImage(segments),
+            "chronicles" when segments is ["chronicles", "galactic-history", var chronicleSlug] =>
+                $"/images/chronicles/{chronicleSlug}-scene.webp",
             _ => null
         };
     }

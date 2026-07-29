@@ -1,0 +1,162 @@
+{
+  "dateRange": "32 BBY – 19 BBY",
+  "overview": "The Fall of the Republic covers the final thirteen years of democratic rule — from the Naboo crisis through the Clone Wars to Order 66 and the Great Jedi Purge. It is the era when Darth Sidious, hidden in plain sight as Supreme Chancellor Palpatine, engineered the very war that would give him absolute power and destroy the Jedi Order in a single night.",
+  "history": "The Trade Federation's blockade of Naboo in 32 BBY exposed the Republic Senate as gridlocked and corrupt. Queen Amidala's plea for intervention failed until Chancellor Valorum fell and Senator Palpatine of Naboo ascended to the chancellorship — the first move in a Sith grand strategy a millennium in the making. Qui-Gon Jinn's discovery of Anakin Skywalker on Tatooine and Darth Maul's emergence revealed that the Sith had returned, but the Jedi Council's skepticism toward Anakin would prove as fateful as Palpatine's smile.\n\nA decade of separatist agitation followed. Count Dooku — secretly Darth Tyranus — formed the Confederacy of Independent Systems, backed by the Trade Federation, Banking Clan, Techno Union, and Corporate Alliance. Corporate droid armies massed on Geonosis while the Senate debated. The [Jedi Code](the-force/jedi-code) forbade attachment, yet the Order became entangled in politics as never before, leading armies and serving as generals in a conflict Darth Sidious controlled from both sides.\n\nThe Clone Wars (22–19 BBY) scarred every sector. Battles on Christophsis, Ryloth, Umbara, and Mandalore killed billions. Anakin Skywalker, Obi-Wan Kenobi, and Ahsoka Tano became symbols of Republic heroism even as war crimes accumulated on both sides. General Grievous led Separatist droid fleets; Asajj Ventress and Savage Opress tested the Sith apprenticeship under Tyranus. The [Sith Code](the-force/sith-code) demanded betrayal — and Sidious eventually ordered Tyranus's death to advance Anakin's fall.\n\nPalpatine accumulated emergency powers with each crisis: the kidnapping on Coruscant, the Zillo Beast incident, and the bombing of the Jedi Temple hangar. The Jedi Council's distrust of the Chancellor — and Anakin's fear of losing Padmé — created the emotional wedge Sidious needed. When Mace Windu confronted Palpatine in his office, Anakin chose betrayal, and the duel left the Chancellor scarred but victorious.\n\nOrder 66 (19 BBY) activated inhibitor chips in every clone trooper. Jedi across the galaxy were murdered by the soldiers they had trusted — on Felucia, Kashyyyk, Mygeeto, and Utapau where Obi-Wan killed Grievous even as the directive executed. Anakin, now Darth Vader, slaughtered younglings in the Temple; Yoda and Obi-Wan alone survived to flee into exile. The Senate applauded as Palpatine declared the Galactic Empire.\n\nIn thirteen years the Republic died not from external conquest but from engineered crisis, militarization, and the Jedi Order's inability to see that their role as generals had already compromised the ideals they swore to defend.",
+  "significance": "The Fall of the Republic is the moral engine of the entire Skywalker saga — the moment democracy chooses security over liberty and pays for it across generations. Every prequel story arc converges here: Anakin's prophecy, Padmé's faith in reform, Dooku's aristocratic rebellion, and Palpatine's patience.\n\nThe Clone Wars redefine the Jedi from monks to soldiers, explaining the cynicism of the Original Trilogy's survivors and the New Republic's later reluctance to maintain standing armies. Order 66 remains the franchise's most haunting set piece — a reminder that institutional trust can be weaponized in an instant.\n\nFor chronology enthusiasts, this era anchors the galactic calendar's modern dating system and connects film, *The Clone Wars*, *Bad Batch*, and countless novels into a single tragic arc.",
+  "majorEvents": [
+    {
+      "text": "Trade Federation blockades Naboo; Palpatine elected Supreme Chancellor",
+      "route": ""
+    },
+    {
+      "text": "First Battle of Geonosis opens the Clone Wars",
+      "route": "wars-conflicts/clone-wars"
+    },
+    {
+      "text": "Clone Wars ravage the galaxy; Jedi serve as generals",
+      "route": "wars-conflicts/clone-wars"
+    },
+    {
+      "text": "Order 66 — clone troopers execute Jedi across the galaxy",
+      "route": ""
+    },
+    {
+      "text": "Palpatine declares the Galactic Empire; Jedi Purge begins",
+      "route": ""
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    },
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Anakin Skywalker",
+      "route": "jedi/anakin-skywalker"
+    },
+    {
+      "label": "Jedi",
+      "value": "Yoda",
+      "route": "jedi/yoda"
+    },
+    {
+      "label": "Jedi",
+      "value": "Ahsoka Tano",
+      "route": "jedi/ahsoka-tano"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Sidious",
+      "route": "sith/darth-sidious"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Maul",
+      "route": "sith/darth-maul"
+    },
+    {
+      "label": "Character",
+      "value": "General Grievous",
+      "route": "characters/general-grievous"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    },
+    {
+      "label": "Planet",
+      "value": "Geonosis",
+      "route": "planet/geonosis"
+    },
+    {
+      "label": "Planet",
+      "value": "Utapau",
+      "route": "planet/utapau"
+    },
+    {
+      "label": "Planet",
+      "value": "Mustafar",
+      "route": "mustafar"
+    },
+    {
+      "label": "Planet",
+      "value": "Kashyyyk",
+      "route": "planet/kashyyyk"
+    }
+  ],
+  "ships": [
+    {
+      "label": "Ship",
+      "value": "Venator-class Star Destroyer",
+      "route": "ships/venator-class"
+    },
+    {
+      "label": "Ship",
+      "value": "X-wing (prototype lineage)",
+      "route": "ships/x-wing"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode I — The Phantom Menace",
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: Tales of the Jedi"
+  ],
+  "games": [
+    "Star Wars: Battlefront II (2005)",
+    "Star Wars Jedi: Fallen Order (flashback sequences)"
+  ],
+  "books": [
+    "Master & Apprentice (Claudia Gray)",
+    "Dark Disciple (Christie Golden)",
+    "Revenge of the Sith novelization (Matthew Stover)"
+  ],
+  "timeline": [
+    {
+      "era": "32 BBY",
+      "event": "Naboo crisis; Palpatine becomes Chancellor"
+    },
+    {
+      "era": "22 BBY",
+      "event": "First Battle of Geonosis; Clone Wars begin"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Battle of Coruscant; Dooku killed"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Order 66 executed; Jedi Temple falls"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Empire proclaimed in the Senate chamber"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/chronicles/fall-of-the-republic-scene.webp",
+      "caption": "Clone troopers and Jedi generals during the Battle of Geonosis"
+    }
+  ]
+}

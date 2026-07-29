@@ -1,0 +1,116 @@
+{
+  "dateRange": "c. 500 BBY – c. 100 BBY",
+  "overview": "The High Republic was a zenith of Jedi idealism and Republic expansion — an age when the Order served openly as heroes of the frontier, Starlight Beacons guided hyperspace lanes, and Chancellor Lina Soh's Great Hyperspace Rush promised prosperity from the Core to the Rim. It ended not in one decisive battle but in the slow revelation that optimism without vigilance could breed horrors like the Nihil, the Drengir, and the Nameless.",
+  "history": "Centuries before the Trade Federation blockaded Naboo, the Republic entered what modern historians call the High Republic — a period of confident expansion unmatched in later eras. The Jedi were public figures: marshals, diplomats, and symbols of justice who worked alongside the Senate rather than hiding in a Coruscant temple. Chancellor Soh championed the Starlight Beacon program — massive space stations that served as navigational lighthouses, trade hubs, and diplomatic embassies in the Outer Rim.\n\nJedi Masters like Avar Kriss, Stellan Gios, and Elzar Mann embodied the era's spirit. Kriss's Force network — a choral binding of Jedi wills — demonstrated cooperative light-side technique at galactic scale. The [Jedi Code](the-force/jedi-code) was lived openly: protect, serve, and trust in the Force without the paranoia that would later define the prequel Council. Padawans traveled Rim worlds as celebrated helpers, not secretive monks.\n\nThe Great Hyperspace Rush opened new routes and settlements, but it also outpaced governance. Colonists on worlds like Elphrona and Sedri Minor faced pirates, slavers, and environmental catastrophe without adequate Republic defense. The Jedi stretched thin — a strategic vulnerability the Nihil marauders exploited with cruel precision.\n\nMarchion Ro, heir to an ancient Force-hating tradition, united the Nihil under stormlike raids that weaponized hyperspace anomalies. The destruction of Starlight Beacon and the Legacy Run disaster — a passenger liner torn apart in hyperspace — shattered the era's complacency. Parallel threats emerged: the Drengir, plant-like dark-side entities awakened from imprisonment, and the Nameless — creatures that consumed Force users and could not be sensed through the Force at all.\n\nBy the time Yoda ascended to the Jedi Council's senior ranks (~100 BBY), the High Republic's open idealism had already faded. The Order retreated into caution, attachment restrictions hardened, and frontier expansion slowed. The seeds of the Clone Wars — centralized emergency powers, corporate military influence, and Jedi politicization — were planted in the backlash to High Republic hubris.\n\nCanon novels, comics, and the *Young Jedi Adventures* series document this era in detail, while Legends material offers no direct counterpart — making the High Republic Lucasfilm's primary sandbox for exploring Jedi history between the Old Republic wars and the prequel trilogy.",
+  "significance": "The High Republic reframes the Jedi as beloved rather than suspicious — a necessary context for understanding why the galaxy mourned their fall during Order 66 and why Luke Skywalker's restoration carried such symbolic weight.\n\nIt connects ancient threats (Nameless, Drengir) to modern storytelling, suggesting that the dark side evolves in forms lightsabers alone cannot solve. The era's failure modes — overextension, celebrity culture among Jedi, and Rim neglect — mirror the late Republic's flaws in miniature.\n\nFor readers and viewers, the High Republic proves that Star Wars history is not a straight decline from golden age to Empire; it is a cycle of hope, catastrophe, and cautious rebuilding that repeats across millennia.",
+  "majorEvents": [
+    {
+      "text": "Chancellor Lina Soh launches the Great Hyperspace Rush and Starlight Beacon program",
+      "route": ""
+    },
+    {
+      "text": "Legacy Run disaster exposes hyperspace routing vulnerabilities in the Outer Rim",
+      "route": ""
+    },
+    {
+      "text": "Nihil marauders destroy Starlight Beacon; Marchion Ro's campaign begins",
+      "route": ""
+    },
+    {
+      "text": "Drengir and Nameless crises force Jedi to confront limits of conventional Force doctrine",
+      "route": ""
+    },
+    {
+      "text": "High Republic era closes as Jedi adopt increasingly cautious, insular policies",
+      "route": ""
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Yoda",
+      "route": "jedi/yoda"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    },
+    {
+      "label": "Planet",
+      "value": "Naboo",
+      "route": "naboo"
+    },
+    {
+      "label": "Planet",
+      "value": "Dathomir",
+      "route": "planet/dathomir"
+    },
+    {
+      "label": "Planet",
+      "value": "Carida",
+      "route": "planet/carida"
+    }
+  ],
+  "ships": [
+    {
+      "label": "Ship",
+      "value": "Consular-class Cruiser",
+      "route": "ships/consular-class"
+    },
+    {
+      "label": "Ship",
+      "value": "Venator-class Star Destroyer",
+      "route": "ships/venator-class"
+    }
+  ],
+  "films": [],
+  "series": [
+    "Star Wars: Young Jedi Adventures",
+    "Star Wars: The Acolyte"
+  ],
+  "games": [],
+  "books": [
+    "Light of the Jedi (Charles Soule)",
+    "The Rising Storm (Cavan Scott)",
+    "The Fallen Star (Claudia Gray)",
+    "Star Wars: The High Republic comic series"
+  ],
+  "timeline": [
+    {
+      "era": "c. 500 BBY",
+      "event": "High Republic expansion era begins"
+    },
+    {
+      "era": "c. 232 BBY",
+      "event": "Starlight Beacon operational in Eiram system"
+    },
+    {
+      "era": "232 BBY",
+      "event": "Legacy Run catastrophe in Hetzal system"
+    },
+    {
+      "era": "231 BBY",
+      "event": "Starlight Beacon destroyed by the Nihil"
+    },
+    {
+      "era": "c. 100 BBY",
+      "event": "Era winds down; Jedi Council grows more cautious"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/chronicles/high-republic-scene.webp",
+      "caption": "Starlight Beacon illuminates a frontier sector of the Outer Rim"
+    }
+  ]
+}

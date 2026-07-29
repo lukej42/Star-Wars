@@ -814,6 +814,22 @@ a, .btn-link {
     margin-top: 0.55rem;
 }
 
+.directory-detail-linked-list a {
+    color: #7eb8ff;
+    text-decoration: none;
+}
+
+.directory-detail-linked-list a:hover {
+    text-decoration: underline;
+}
+
+.directory-detail-link-meta {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 0.82rem;
+    color: rgba(255, 255, 255, 0.55);
+}
+
 .directory-detail-tags {
     display: flex;
     flex-wrap: wrap;
