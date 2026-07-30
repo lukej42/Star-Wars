@@ -298,11 +298,20 @@ PLANET_OVERRIDES: dict[str, str] = {
     "nfolgai": "A forgotten Sith tomb world of crumbling pyramids and sealed mausoleums from the Old Sith Wars.",
     "arkania": "An icy Colonies world famed for genetic laboratories and Arkanian Offshoot communities with Sith-era ties.",
     "korriban-outpost": "An orbital logistics station serving Korriban's academy complexes and tomb excavations.",
+    "agamar": "Misty grassland battlefields with wrecked Separatist droid carriers and clone trooper outposts",
+    "denova": "Lush jungle mountains with rocky cliffs, wild beasts, and mercenary fortress settlements",
+    "bardotta": "Sacred temple spires on a fog-shrouded Colonies world of mystic Bahk-tov Council halls",
+    "denon": "Urban Inner Rim metropolis with layered city districts and busy orbital traffic lanes",
+    "kiros": "White marble Togruta artisan colonies with domed galleries on a temperate green world",
+    "lotho-minor": "Toxic industrial scrap planet with acid rain, junk processing towers, and slag wasteland",
+    "ringo-vinda": "Mid Rim orbital ring station world with massive circular habitat structures in space",
 }
 
 
 def _trim_description(desc: str, max_len: int = 180) -> str:
     text = desc.strip()
+    if "Essential Atlas" in text or "StarWars.com galaxy map" in text:
+        return ""
     if len(text) > max_len:
         text = text[:max_len].rsplit(" ", 1)[0] + "…"
     return text
@@ -316,10 +325,16 @@ def planet_prompt(entry: dict[str, str]) -> str:
         name = entry.get("name", "alien world")
         region = entry.get("region", "the galaxy")
         desc = _trim_description(entry.get("description", ""))
-        scene = (
-            f"Cinematic planetary landscape of {name} in the {region}, {desc}. "
-            f"Dramatic surface vista with distinctive terrain, atmosphere, and sci-fi scale"
-        )
+        if desc:
+            scene = (
+                f"Cinematic planetary landscape of {name} in the {region}, {desc}. "
+                f"Dramatic surface vista with distinctive terrain, atmosphere, and sci-fi scale"
+            )
+        else:
+            scene = (
+                f"Cinematic planetary landscape of {name}, a distinctive {region} world with "
+                f"dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale"
+            )
     return f"{scene}. {STYLE_SUFFIX}"
 
 

@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "vvaw",
+    "name": "Vvaw",
+    "prompt": "Cinematic planetary landscape of Vvaw, a distinctive Outer Rim Territories world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/vvaw-hero.webp"
+  },
+  {
+    "slug": "vyndal",
+    "name": "Vyndal",
+    "prompt": "Cinematic planetary landscape of Vyndal, a distinctive Wild Space world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/vyndal-hero.webp"
+  },
+  {
+    "slug": "wakeelmui",
+    "name": "Wakeelmui",
+    "prompt": "Cinematic planetary landscape of Wakeelmui, a distinctive Core Worlds world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/wakeelmui-hero.webp"
+  },
+  {
+    "slug": "wall-of-dantooine",
+    "name": "Wall of Dantooine",
+    "prompt": "Cinematic planetary landscape of Wall of Dantooine, a distinctive Outer Rim Territories world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/wall-of-dantooine-hero.webp"
+  },
+  {
+    "slug": "waskiro",
+    "name": "Waskiro",
+    "prompt": "Cinematic planetary landscape of Waskiro, a distinctive Outer Rim Territories world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/waskiro-hero.webp"
+  },
+  {
+    "slug": "zaadja",
+    "name": "Zaadja",
+    "prompt": "Cinematic planetary landscape of Zaadja, a distinctive Outer Rim Territories world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/zaadja-hero.webp"
+  },
+  {
+    "slug": "zaddja",
+    "name": "Zaddja",
+    "prompt": "Cinematic planetary landscape of Zaddja, a distinctive Outer Rim Territories world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/zaddja-hero.webp"
+  },
+  {
+    "slug": "zakuul",
+    "name": "Zakuul",
+    "prompt": "Cinematic planetary landscape of Zakuul, a distinctive Core Worlds world with dramatic alien terrain, rich atmosphere, and epic Star Wars sci-fi scale. Cinematic Star Wars digital illustration hero banner, 1536x1024, 16:9. Hyper-detailed sci-fi matte painting, dramatic rim lighting, rich atmospheric depth, premium encyclopedia header art quality. No text, no logos, no watermarks.",
+    "output": "wwwroot/images/planets/zakuul-hero.webp"
+  }
+]

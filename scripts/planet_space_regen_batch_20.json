@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "osadia",
+    "name": "Osadia",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Osadia, a distinctive Core Worlds world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/osadia-space.webp"
+  },
+  {
+    "slug": "osarian",
+    "name": "Osarian",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Osarian, a distinctive Inner Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/osarian-space.webp"
+  },
+  {
+    "slug": "oseon",
+    "name": "Oseon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Oseon, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/oseon-space.webp"
+  },
+  {
+    "slug": "ostor",
+    "name": "Ostor",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ostor, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/ostor-space.webp"
+  },
+  {
+    "slug": "ota",
+    "name": "Ota",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ota, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/ota-space.webp"
+  },
+  {
+    "slug": "otavon-xii",
+    "name": "Otavon XII",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Otavon XII, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/otavon-xii-space.webp"
+  },
+  {
+    "slug": "otherworld",
+    "name": "Otherworld",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Otherworld, a distinctive Wild Space world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/otherworld-space.webp"
+  },
+  {
+    "slug": "ottethan",
+    "name": "Ottethan",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ottethan, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/ottethan-space.webp"
+  },
+  {
+    "slug": "otunia",
+    "name": "Otunia",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Otunia, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/otunia-space.webp"
+  },
+  {
+    "slug": "outpost",
+    "name": "Outpost",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Outpost, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/outpost-space.webp"
+  },
+  {
+    "slug": "ova",
+    "name": "Ova",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ova, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/ova-space.webp"
+  },
+  {
+    "slug": "ovanis",
+    "name": "Ovanis",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ovanis, a distinctive Wild Space world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/ovanis-space.webp"
+  },
+  {
+    "slug": "oznek",
+    "name": "Oznek",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Oznek, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/oznek-space.webp"
+  },
+  {
+    "slug": "paarin-minor",
+    "name": "Paarin Minor",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Paarin Minor, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/paarin-minor-space.webp"
+  },
+  {
+    "slug": "paklan",
+    "name": "Paklan",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Paklan, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/paklan-space.webp"
+  },
+  {
+    "slug": "pakuuni",
+    "name": "Pakuuni",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pakuuni, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pakuuni-space.webp"
+  },
+  {
+    "slug": "palanhi",
+    "name": "Palanhi",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Palanhi, a distinctive Colonies world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/palanhi-space.webp"
+  },
+  {
+    "slug": "pallaxides",
+    "name": "Pallaxides",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pallaxides, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pallaxides-space.webp"
+  },
+  {
+    "slug": "panna",
+    "name": "Panna",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Panna, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/panna-space.webp"
+  },
+  {
+    "slug": "pantolomin",
+    "name": "Pantolomin",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pantolomin, a distinctive Core Worlds world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pantolomin-space.webp"
+  },
+  {
+    "slug": "paqualis-iii",
+    "name": "Paqualis III",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Paqualis III, a distinctive Inner Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/paqualis-iii-space.webp"
+  },
+  {
+    "slug": "parcellus-minor",
+    "name": "Parcellus Minor",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Parcellus Minor, a distinctive Expansion Region world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/parcellus-minor-space.webp"
+  },
+  {
+    "slug": "parnassos",
+    "name": "Parnassos",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Parnassos, a distinctive Expansion Region world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/parnassos-space.webp"
+  },
+  {
+    "slug": "pashvi",
+    "name": "Pashvi",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pashvi, a distinctive Wild Space world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pashvi-space.webp"
+  },
+  {
+    "slug": "pastil",
+    "name": "Pastil",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pastil, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pastil-space.webp"
+  },
+  {
+    "slug": "patch-4",
+    "name": "Patch-4",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Patch-4, a distinctive Wild Space world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/patch-4-space.webp"
+  },
+  {
+    "slug": "patitite-pattuna",
+    "name": "Patitite Pattuna",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Patitite Pattuna, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/patitite-pattuna-space.webp"
+  },
+  {
+    "slug": "peirs",
+    "name": "Peirs",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Peirs, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/peirs-space.webp"
+  },
+  {
+    "slug": "pelagon",
+    "name": "Pelagon",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pelagon, a distinctive Colonies world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pelagon-space.webp"
+  },
+  {
+    "slug": "pembric-ii",
+    "name": "Pembric II",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pembric II, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pembric-ii-space.webp"
+  },
+  {
+    "slug": "pengalan-iv",
+    "name": "Pengalan IV",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Pengalan IV, a distinctive Inner Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/pengalan-iv-space.webp"
+  },
+  {
+    "slug": "per-lupelo",
+    "name": "Per Lupelo",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Per Lupelo, a distinctive Colonies world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/per-lupelo-space.webp"
+  },
+  {
+    "slug": "peragus-asteroid-field",
+    "name": "Peragus asteroid field",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Peragus asteroid field, a distinctive Expansion Region world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/peragus-asteroid-field-space.webp"
+  },
+  {
+    "slug": "peragus-ii",
+    "name": "Peragus II",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Peragus II, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/peragus-ii-space.webp"
+  },
+  {
+    "slug": "perma",
+    "name": "Perma",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Perma, a distinctive Core Worlds world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/perma-space.webp"
+  },
+  {
+    "slug": "phaeda",
+    "name": "Phaeda",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Phaeda, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/phaeda-space.webp"
+  },
+  {
+    "slug": "phaseera",
+    "name": "Phaseera",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Phaseera, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/phaseera-space.webp"
+  },
+  {
+    "slug": "phaylenn",
+    "name": "Phaylenn",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Phaylenn, a distinctive Core Worlds world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/phaylenn-space.webp"
+  },
+  {
+    "slug": "phelarion",
+    "name": "Phelarion",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Phelarion, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/phelarion-space.webp"
+  },
+  {
+    "slug": "phemis",
+    "name": "Phemis",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Phemis, a distinctive Core Worlds world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/phemis-space.webp"
+  }
+]

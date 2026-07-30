@@ -87,6 +87,13 @@ VISUALS: dict[str, str] = {
     "utapau": "tan sinkhole world with wind-carved desert cities in craters",
     "yavin-4": "jungle moon with dense green canopy orbiting a red gas giant in background",
     "ziost": "frozen pale blue Sith world covered in ice and snow",
+    "agamar": "green-brown temperate world with cloud bands and scattered surface settlements",
+    "denova": "lush blue-green jungle world with white cloud swirls and mountainous terrain",
+    "bardotta": "purple-grey Colonies world with temple districts visible through thin clouds",
+    "denon": "urbanized Inner Rim world glowing with city lights on the nightside",
+    "kiros": "pale marble-white world with elegant domed cities and green continental patches",
+    "lotho-minor": "sickly yellow-brown toxic industrial world with smog and acid haze",
+    "ringo-vinda": "large orbital ring habitat structure against starfield with planet below",
 }
 
 
@@ -99,7 +106,9 @@ def space_features(entry: dict[str, str]) -> str:
     name = entry.get("name", slug)
     region = entry.get("region", "the galaxy")
     desc = _trim_description(entry.get("description", ""), 200)
-    return f"{name} in the {region}, {desc}"
+    if desc:
+        return f"{name} in the {region}, {desc}"
+    return f"{name}, a distinctive {region} world with unique coloration and terrain visible from orbit"
 
 
 def space_prompt(entry: dict[str, str]) -> str:

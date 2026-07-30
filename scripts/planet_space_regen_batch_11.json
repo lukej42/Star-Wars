@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "golm",
+    "name": "Golm",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Golm, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/golm-space.webp"
+  },
+  {
+    "slug": "golm-asteroid-belt",
+    "name": "Golm asteroid belt",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Golm asteroid belt, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/golm-asteroid-belt-space.webp"
+  },
+  {
+    "slug": "golrath",
+    "name": "Golrath",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Golrath, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/golrath-space.webp"
+  },
+  {
+    "slug": "goroth-prime",
+    "name": "Goroth Prime",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Goroth Prime, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/goroth-prime-space.webp"
+  },
+  {
+    "slug": "gorse",
+    "name": "Gorse",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gorse, a distinctive Expansion Region world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gorse-space.webp"
+  },
+  {
+    "slug": "gorsh",
+    "name": "Gorsh",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gorsh, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gorsh-space.webp"
+  },
+  {
+    "slug": "graf-world",
+    "name": "Graf-World",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Graf-World, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/graf-world-space.webp"
+  },
+  {
+    "slug": "graveyard-of-lost-ships",
+    "name": "Graveyard of Lost Ships",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Graveyard of Lost Ships, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/graveyard-of-lost-ships-space.webp"
+  },
+  {
+    "slug": "gravlex-med",
+    "name": "Gravlex Med",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gravlex Med, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gravlex-med-space.webp"
+  },
+  {
+    "slug": "greater-marianas",
+    "name": "Greater Marianas",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Greater Marianas, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/greater-marianas-space.webp"
+  },
+  {
+    "slug": "gree",
+    "name": "Gree",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gree, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gree-space.webp"
+  },
+  {
+    "slug": "gromas-belt",
+    "name": "Gromas Belt",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gromas Belt, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gromas-belt-space.webp"
+  },
+  {
+    "slug": "guhl-jo387o",
+    "name": "GUHL-JO387O",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. GUHL-JO387O, a distinctive Expansion Region world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/guhl-jo387o-space.webp"
+  },
+  {
+    "slug": "gulma",
+    "name": "Gulma",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gulma, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gulma-space.webp"
+  },
+  {
+    "slug": "gwori",
+    "name": "Gwori",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gwori, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gwori-space.webp"
+  },
+  {
+    "slug": "gymelo",
+    "name": "Gymelo",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Gymelo, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/gymelo-space.webp"
+  },
+  {
+    "slug": "hnemthe",
+    "name": "H'nemthe",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. H'nemthe, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hnemthe-space.webp"
+  },
+  {
+    "slug": "haashimut",
+    "name": "Haashimut",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Haashimut, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/haashimut-space.webp"
+  },
+  {
+    "slug": "hakara",
+    "name": "Hakara",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hakara, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hakara-space.webp"
+  },
+  {
+    "slug": "halm",
+    "name": "Halm",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Halm, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/halm-space.webp"
+  },
+  {
+    "slug": "halmad",
+    "name": "Halmad",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Halmad, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/halmad-space.webp"
+  },
+  {
+    "slug": "halowan",
+    "name": "Halowan",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Halowan, a distinctive Colonies world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/halowan-space.webp"
+  },
+  {
+    "slug": "halthor",
+    "name": "Halthor",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Halthor, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/halthor-space.webp"
+  },
+  {
+    "slug": "handooine",
+    "name": "Handooine",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Handooine, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/handooine-space.webp"
+  },
+  {
+    "slug": "harix",
+    "name": "Harix",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Harix, a distinctive Core Worlds world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/harix-space.webp"
+  },
+  {
+    "slug": "haruun-kal",
+    "name": "Haruun Kal",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Haruun Kal, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/haruun-kal-space.webp"
+  },
+  {
+    "slug": "hefi",
+    "name": "Hefi",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hefi, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hefi-space.webp"
+  },
+  {
+    "slug": "helska-iv",
+    "name": "Helska IV",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Helska IV, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/helska-iv-space.webp"
+  },
+  {
+    "slug": "heptooine",
+    "name": "Heptooine",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Heptooine, a distinctive Wild Space world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/heptooine-space.webp"
+  },
+  {
+    "slug": "herdessa",
+    "name": "Herdessa",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Herdessa, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/herdessa-space.webp"
+  },
+  {
+    "slug": "high-chunah",
+    "name": "High Chunah",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. High Chunah, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/high-chunah-space.webp"
+  },
+  {
+    "slug": "hijarna",
+    "name": "Hijarna",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hijarna, a distinctive Inner Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hijarna-space.webp"
+  },
+  {
+    "slug": "hishyim",
+    "name": "Hishyim",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hishyim, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hishyim-space.webp"
+  },
+  {
+    "slug": "hissrich",
+    "name": "Hissrich",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hissrich, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hissrich-space.webp"
+  },
+  {
+    "slug": "hitaka",
+    "name": "Hitaka",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hitaka, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hitaka-space.webp"
+  },
+  {
+    "slug": "hockaleg",
+    "name": "Hockaleg",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hockaleg, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hockaleg-space.webp"
+  },
+  {
+    "slug": "hollastin",
+    "name": "Hollastin",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hollastin, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hollastin-space.webp"
+  },
+  {
+    "slug": "horn-station",
+    "name": "Horn Station",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Horn Station, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/horn-station-space.webp"
+  },
+  {
+    "slug": "horob",
+    "name": "Horob",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Horob, a distinctive Expansion Region world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/horob-space.webp"
+  },
+  {
+    "slug": "hosra",
+    "name": "Hosra",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Hosra, a distinctive Core Worlds world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/hosra-space.webp"
+  }
+]

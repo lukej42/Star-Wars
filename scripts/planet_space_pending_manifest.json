@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "imynusoph",
+    "name": "Imynusoph",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Imynusoph, a distinctive Wild Space world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/imynusoph-space.webp"
+  },
+  {
+    "slug": "indoumodo",
+    "name": "Indoumodo",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Indoumodo, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/indoumodo-space.webp"
+  },
+  {
+    "slug": "ingo",
+    "name": "Ingo",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Ingo, a distinctive Mid Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/ingo-space.webp"
+  },
+  {
+    "slug": "intuci",
+    "name": "Intuci",
+    "prompt": "Cinematic photorealistic planet viewed from space, wide orbital perspective, curved planetary horizon filling the lower third of the frame, thin glowing atmospheric rim light, deep black starfield with scattered white stars, highly detailed Star Wars sci-fi space art, dramatic rim lighting, IMAX quality. No text, no labels, no watermarks. Intuci, a distinctive Outer Rim Territories world with unique coloration and terrain visible from orbit.",
+    "output": "wwwroot/images/planets/intuci-space.webp"
+  }
+]
