@@ -57,3 +57,6 @@ secrets.json
 
 # Cursor / local tooling
 .cursor/
+
+# Image assets (served from Azure Blob Storage; scripts write here before upload)
+wwwroot/images/

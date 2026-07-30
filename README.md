@@ -175,6 +175,7 @@ Verify your installation:
 
 ```bash
 dotnet --version
+dotnet workload install wasm-tools   # required for Blazor WebAssembly builds
 ```
 
 ## Getting started

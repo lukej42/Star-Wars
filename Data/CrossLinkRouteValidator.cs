@@ -1,4 +1,5 @@
 using StarWars.Models;
+using StarWars.Services;
 
 namespace StarWars.Data;
 
@@ -66,7 +67,7 @@ public static class CrossLinkRouteValidator
                 Label = link.Label,
                 Value = link.Value,
                 Route = route,
-                Image = CrossLinkImageResolver.Resolve(route) ?? link.Image
+                Image = ImageUrls.Resolve(CrossLinkImageResolver.Resolve(route) ?? link.Image)
             });
         }
 

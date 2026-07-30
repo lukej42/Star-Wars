@@ -4,7 +4,7 @@
         {
             <figure class="character-page-portrait-wrap directory-detail-portrait">
                 <img class="character-page-portrait"
-                     src="@HeroImagePath"
+                     src="@ImageUrls.Resolve(HeroImagePath)"
                      alt="@HeroImageAlt"
                      loading="lazy" />
             </figure>
@@ -12,7 +12,7 @@
         else if (!string.IsNullOrWhiteSpace(HeroImagePath))
         {
             <figure class="directory-hero directory-detail-banner">
-                <img src="@HeroImagePath" alt="@HeroImageAlt" loading="lazy" />
+                <img src="@ImageUrls.Resolve(HeroImagePath)" alt="@HeroImageAlt" loading="lazy" />
             </figure>
         }
         <div class="directory-detail-intro @(ShowPortraitHero ? null : "directory-detail-intro-full")">
@@ -230,7 +230,7 @@
                 @foreach (var image in Gallery)
                 {
                     <figure class="directory-detail-gallery-item">
-                        <img src="@image.Path" alt="@image.Caption" loading="lazy" />
+                        <img src="@ImageUrls.Resolve(image.Path)" alt="@image.Caption" loading="lazy" />
                         <figcaption>@image.Caption</figcaption>
                     </figure>
                 }

@@ -8,7 +8,6 @@
 .home-page-bg {
     position: absolute;
     inset: 0;
-    background-image: url('/images/home/jedi-archives-home-hero.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

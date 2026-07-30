@@ -6,7 +6,7 @@
 <PageTitle>Jedi Archives</PageTitle>
 
 <div class="home-page">
-    <div class="home-page-bg" aria-hidden="true"></div>
+    <div class="home-page-bg" style="background-image: url('@ImageUrls.Resolve("/images/home/jedi-archives-home-hero.webp")')" aria-hidden="true"></div>
     <div class="home-page-overlay" aria-hidden="true"></div>
 
     <div class="home-page-inner">
@@ -59,7 +59,7 @@
                 @foreach (var character in PopularCharacters)
                 {
                     <a class="home-character-card" href="@character.Route">
-                        <img src="@character.ImagePath" alt="@character.Name cinematic portrait" loading="lazy" />
+                        <img src="@ImageUrls.Resolve(character.ImagePath)" alt="@character.Name cinematic portrait" loading="lazy" />
                         <span>@character.Name</span>
                     </a>
                 }
@@ -72,7 +72,7 @@
                 @foreach (var power in FeaturedForcePowers)
                 {
                     <a class="home-force-card" href="@power.Route">
-                        <img src="@power.ImagePath" alt="@power.Name cinematic illustration" loading="lazy" />
+                        <img src="@ImageUrls.Resolve(power.ImagePath)" alt="@power.Name cinematic illustration" loading="lazy" />
                         <span>@power.Name</span>
                     </a>
                 }
@@ -81,7 +81,7 @@
 
         <section class="home-light-dark-conflict">
             <a class="home-conflict-feature" href="@LightDarkConflictRoute">
-                <img src="/images/the-force/light-dark-conflict-scene.webp"
+                <img src="@ImageUrls.Resolve("/images/the-force/light-dark-conflict-scene.webp")"
                      alt="Cinematic battle between the Light Side and Dark Side of the Force"
                      loading="lazy" />
                 <span>Learn more about the longstanding battle between the Light &amp; Dark side!</span>
