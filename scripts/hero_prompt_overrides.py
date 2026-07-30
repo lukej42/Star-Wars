@@ -26,6 +26,7 @@ JEDI: dict[str, str] = {
     "plo-koon": "Kel Dor masked Jedi Master in flight suit with yellow lightsaber above Cato Neimoidia bridge battle",
     "qui-gon-jinn": "Long-haired maverick Jedi with green lightsaber in Naboo plasma mining facility with glowing red core",
     "shaak-ti": "Togruta Jedi Council member meditating in Kamino cloning facility observation deck with rain streaks",
+    "satele-shan": "Human female Jedi Grand Master with brown hair in white and blue Old Republic battle robes, ignited blue lightsaber, Battle Meditation aura over ruined Coruscant Jedi Temple and invasion smoke during the Great Galactic War",
     "stass-allie": "Tholothian Jedi in Clone Wars urban ruins with blue lightsaber and smoke-filled skyline",
     "yaddle": "Small green Jedi Council member in temple garden with soft golden light and ancient statues",
     "yoda": "Small green ancient Jedi Grand Master in swamp hut clearing with mist and fireflies, cane and serene power",

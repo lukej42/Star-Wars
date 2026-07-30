@@ -22,6 +22,7 @@ CHARACTER_OVERRIDES: dict[str, str] = {
     "jar-jar-binks": "Tall amphibious alien in regal Gungan attire on Naboo plaza with waterfalls and golden domes",
     "padme-amidala": "Elegant senator in ornate Naboo royal gown in Theed palace garden with soft light",
     "rey": "Jakku scavenger with staff and desert wraps amid starship wreckage under harsh sun",
+    "satele-shan": "Human female Jedi Grand Master with brown hair in white and blue Old Republic battle robes, blue lightsaber, Battle Meditation energy over ruined Coruscant Jedi Temple during Sith invasion",
     "finn": "Former stormtrooper without helmet in Resistance jacket on tropical base runway",
     "cassian-andor": "Undercover rebel intelligence officer in worn field jacket on rainy industrial world",
     "thrawn": "Blue-skinned Chiss admiral studying art holograms on Star Destroyer bridge",
