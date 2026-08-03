@@ -1,0 +1,1942 @@
+{
+  "jedi/aayla-secura": {
+    "planetName": "Ryloth",
+    "route": "planet/ryloth"
+  },
+  "jedi/adi-gallia": {
+    "planetName": "Chalacta",
+    "route": "planet/chalacta"
+  },
+  "jedi/agen-kolar": {
+    "planetName": "Iridonia",
+    "route": "planet/iridonia"
+  },
+  "jedi/ahsoka-tano": {
+    "planetName": "Shili",
+    "route": "planet/shili"
+  },
+  "jedi/anakin-skywalker": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "jedi/barriss-offee": {
+    "planetName": "Mirial",
+    "route": "planet/mirial"
+  },
+  "jedi/bastila-shan": {
+    "planetName": "Rakata Prime",
+    "route": "planet/rakata-prime"
+  },
+  "jedi/bolla-ropal": {
+    "planetName": "Dorin",
+    "route": "planet/dorin"
+  },
+  "jedi/cin-drallig": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/coleman-kcaj": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/coleman-trebor": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/depa-billaba": {
+    "planetName": "Haruun Kal",
+    "route": "planet/haruun-kal"
+  },
+  "jedi/eeth-koth": {
+    "planetName": "Iridonia",
+    "route": "planet/iridonia"
+  },
+  "jedi/even-piell": {
+    "planetName": "Lannik",
+    "route": "planet/lannik"
+  },
+  "jedi/ezra-bridger": {
+    "planetName": "Lothal",
+    "route": "planet/lothal"
+  },
+  "jedi/grogu": {
+    "planetName": "Council",
+    "route": "planet/council"
+  },
+  "jedi/gungi": {
+    "planetName": "Kashyyyk",
+    "route": "planet/kashyyyk"
+  },
+  "jedi/ima-gun-di": {
+    "planetName": "Council",
+    "route": "planet/council"
+  },
+  "jedi/jolee-bindo": {
+    "planetName": "Kashyyyk",
+    "route": "planet/kashyyyk"
+  },
+  "jedi/jocasta-nu": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/kanan-jarrus": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/katooni": {
+    "planetName": "Dathomir",
+    "route": "planet/dathomir"
+  },
+  "jedi/kelleran-beq": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/ki-adi-mundi": {
+    "planetName": "Cerea",
+    "route": "planet/cerea"
+  },
+  "jedi/kit-fisto": {
+    "planetName": "Glee Anselm",
+    "route": "planet/glee-anselm"
+  },
+  "jedi/luminara-unduli": {
+    "planetName": "Mirial",
+    "route": "planet/mirial"
+  },
+  "jedi/luke-skywalker": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "jedi/meetra-surik": {
+    "planetName": "Dantooine",
+    "route": "dantooine"
+  },
+  "jedi/mace-windu": {
+    "planetName": "Haruun Kal",
+    "route": "planet/haruun-kal"
+  },
+  "jedi/nahdar-vebb": {
+    "planetName": "Glee Anselm",
+    "route": "planet/glee-anselm"
+  },
+  "jedi/obi-wan-kenobi": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "jedi/oppo-rancisis": {
+    "planetName": "Thisspias",
+    "route": "planet/thisspias"
+  },
+  "jedi/petro": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/plo-koon": {
+    "planetName": "Dorin",
+    "route": "planet/dorin"
+  },
+  "jedi/quinlan-vos": {
+    "planetName": "Kiffu",
+    "route": "planet/kiffu"
+  },
+  "jedi/qui-gon-jinn": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/revan": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  },
+  "jedi/saesee-tiin": {
+    "planetName": "Ithor",
+    "route": "planet/ithor"
+  },
+  "jedi/satele-shan": {
+    "planetName": "Tython",
+    "route": "planet/tython"
+  },
+  "jedi/shaak-ti": {
+    "planetName": "Shili",
+    "route": "planet/shili"
+  },
+  "jedi/sifo-dyas": {
+    "planetName": "Council",
+    "route": "planet/council"
+  },
+  "jedi/stass-allie": {
+    "planetName": "Tholoth",
+    "route": "planet/tholoth"
+  },
+  "jedi/tera-sinube": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/tiplee": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/tiplar": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/yaddle": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "jedi/yoda": {
+    "planetName": "Dagobah",
+    "route": "planet/dagobah"
+  },
+  "sith/darth-sidious": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "sith/darth-maul": {
+    "planetName": "Dathomir",
+    "route": "planet/dathomir"
+  },
+  "sith/darth-tyranus": {
+    "planetName": "Serenno",
+    "route": "planet/serenno"
+  },
+  "sith/darth-vader": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "sith/darth-plagueis": {
+    "planetName": "Mygeeto",
+    "route": "planet/mygeeto"
+  },
+  "sith/savage-opress": {
+    "planetName": "Dathomir",
+    "route": "planet/dathomir"
+  },
+  "sith/asajj-ventress": {
+    "planetName": "Dathomir",
+    "route": "planet/dathomir"
+  },
+  "sith/grand-inquisitor": {
+    "planetName": "Utapau",
+    "route": "planet/utapau"
+  },
+  "sith/second-sister": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "sith/fifth-brother": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "sith/seventh-sister": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "sith/eighth-brother": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "sith/ninth-sister": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "sith/sixth-brother": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "sith/barriss-offee": {
+    "planetName": "Mirial",
+    "route": "planet/mirial"
+  },
+  "sith/pong-krell": {
+    "planetName": "Kiffu",
+    "route": "planet/kiffu"
+  },
+  "sith/darth-revan": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  },
+  "sith/darth-malak": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  },
+  "sith/darth-bandon": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  },
+  "sith/darth-traya": {
+    "planetName": "Malachor V",
+    "route": "planet/malachor-v"
+  },
+  "sith/darth-sion": {
+    "planetName": "Malachor V",
+    "route": "planet/malachor-v"
+  },
+  "sith/darth-nihilus": {
+    "planetName": "Katarr",
+    "route": "planet/katarr"
+  },
+  "sith/marka-ragnos": {
+    "planetName": "Korriban",
+    "route": "korriban"
+  },
+  "sith/naga-sadow": {
+    "planetName": "Korriban",
+    "route": "korriban"
+  },
+  "sith/ludo-kressh": {
+    "planetName": "Korriban",
+    "route": "korriban"
+  },
+  "sith/tulak-hord": {
+    "planetName": "Korriban",
+    "route": "korriban"
+  },
+  "sith/exar-kun": {
+    "planetName": "Yavin 4",
+    "route": "planet/yavin-4"
+  },
+  "sith/ulic-qel-droma": {
+    "planetName": "Alderaan",
+    "route": "planet/alderaan"
+  },
+  "sith/darth-vitiate": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  },
+  "sith/darth-malgus": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  },
+  "sith/darth-bane": {
+    "planetName": "Moraband",
+    "route": "planet/moraband"
+  },
+  "sith/darth-zannah": {
+    "planetName": "Ambria",
+    "route": "planet/ambria"
+  },
+  "sith/ajunta-pall": {
+    "planetName": "Korriban",
+    "route": "korriban"
+  },
+  "sith/freedon-nadd": {
+    "planetName": "Korriban",
+    "route": "korriban"
+  },
+  "characters/admiral-ackbar": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "characters/agent-kallus": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/general-pryde": {
+    "planetName": "Exegol",
+    "route": "planet/exegol"
+  },
+  "characters/amilyn-holdo": {
+    "planetName": "Crait",
+    "route": "planet/crait"
+  },
+  "characters/atton-rand": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/bail-organa": {
+    "planetName": "Alderaan",
+    "route": "planet/alderaan"
+  },
+  "characters/bastila-shan": {
+    "planetName": "Rakata Prime",
+    "route": "planet/rakata-prime"
+  },
+  "characters/baze-malbus": {
+    "planetName": "Jedha",
+    "route": "planet/jedha"
+  },
+  "characters/bb-8": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/beru-lars": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/bib-fortuna": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/bo-katan-kryze": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "characters/boba-fett": {
+    "planetName": "Kamino",
+    "route": "planet/kamino"
+  },
+  "characters/boss-nass": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "characters/c-3po": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/cad-bane": {
+    "planetName": "Duro",
+    "route": "planet/duro"
+  },
+  "characters/canderous-ordo": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "characters/captain-panaka": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "characters/captain-phasma": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/captain-rex": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/cara-dune": {
+    "planetName": "Nevarro",
+    "route": "planet/nevarro"
+  },
+  "characters/carth-onasi": {
+    "planetName": "Telos",
+    "route": "planet/telos"
+  },
+  "characters/cassian-andor": {
+    "planetName": "Fest",
+    "route": "planet/fest"
+  },
+  "characters/cham-syndulla": {
+    "planetName": "Ryloth",
+    "route": "planet/ryloth"
+  },
+  "characters/chewbacca": {
+    "planetName": "Kashyyyk",
+    "route": "planet/kashyyyk"
+  },
+  "characters/chirrut-imwe": {
+    "planetName": "Jedha",
+    "route": "planet/jedha"
+  },
+  "characters/cliegg-lars": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/commander-cody": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/crosshair": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/dedra-meero": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/dexter-jettster": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "characters/din-djarin": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "characters/director-krennic": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/dorme": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/dr-pershing": {
+    "planetName": "Kamino",
+    "route": "planet/kamino"
+  },
+  "characters/dryden-vos": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/echo": {
+    "planetName": "Lola Sayu",
+    "route": "planet/lola-sayu"
+  },
+  "characters/enfys-nest": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/fennec-shand": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/finn": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/fives": {
+    "planetName": "Spira",
+    "route": "planet/spira"
+  },
+  "characters/gar-saxon": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "characters/general-grievous": {
+    "planetName": "Kalee",
+    "route": "planet/kalee"
+  },
+  "characters/general-hux": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "characters/governor-pryce": {
+    "planetName": "Lothal",
+    "route": "planet/lothal"
+  },
+  "characters/grand-moff-tarkin": {
+    "planetName": "Alderaan",
+    "route": "planet/alderaan"
+  },
+  "characters/greef-karga": {
+    "planetName": "Nevarro",
+    "route": "planet/nevarro"
+  },
+  "characters/han-solo": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "characters/hera-syndulla": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/hk-47": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/hondo-ohnaka": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/hunter": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/ig-11": {
+    "planetName": "Nevarro",
+    "route": "planet/nevarro"
+  },
+  "characters/jabba-the-hutt": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "characters/jango-fett": {
+    "planetName": "Concord Dawn",
+    "route": "planet/concord-dawn"
+  },
+  "characters/jar-jar-binks": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "characters/jolee-bindo": {
+    "planetName": "Kashyyyk",
+    "route": "planet/kashyyyk"
+  },
+  "characters/jyn-erso": {
+    "planetName": "Vallt",
+    "route": "planet/vallt"
+  },
+  "characters/k-2so": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/kuiil": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/lando-calrissian": {
+    "planetName": "Socorro",
+    "route": "planet/socorro"
+  },
+  "characters/leia-organa": {
+    "planetName": "Alderaan",
+    "route": "planet/alderaan"
+  },
+  "characters/lor-san-tekka": {
+    "planetName": "Jakku",
+    "route": "planet/jakku"
+  },
+  "characters/luthen-rael": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/maz-kanata": {
+    "planetName": "Takodana",
+    "route": "planet/takodana"
+  },
+  "characters/meetra-surik": {
+    "planetName": "Dantooine",
+    "route": "dantooine"
+  },
+  "characters/mission-vao": {
+    "planetName": "Taris",
+    "route": "planet/taris"
+  },
+  "characters/moff-gideon": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "characters/mon-mothma": {
+    "planetName": "Chandrila",
+    "route": "planet/chandrila"
+  },
+  "characters/morgan-elsbeth": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/nute-gunray": {
+    "planetName": "Cato Neimoidia",
+    "route": "planet/cato-neimoidia"
+  },
+  "characters/omega": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/onaconda-farr": {
+    "planetName": "Rodia",
+    "route": "planet/rodia"
+  },
+  "characters/owen-lars": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/padme-amidala": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "characters/poe-dameron": {
+    "planetName": "Yavin 4",
+    "route": "planet/yavin-4"
+  },
+  "characters/qira": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/r2-d2": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/rey": {
+    "planetName": "Jakku",
+    "route": "planet/jakku"
+  },
+  "characters/ric-olie": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "characters/rio-durant": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/rose-tico": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/rush-clovis": {
+    "planetName": "Charis",
+    "route": "planet/charis"
+  },
+  "characters/sabine-wren": {
+    "planetName": "Krownest",
+    "route": "planet/krownest"
+  },
+  "characters/satele-shan": {
+    "planetName": "Tython",
+    "route": "planet/tython"
+  },
+  "characters/satine-kryze": {
+    "planetName": "Kalevala",
+    "route": "planet/kalevala"
+  },
+  "characters/saw-gerrera": {
+    "planetName": "Onderon",
+    "route": "planet/onderon"
+  },
+  "characters/sebulba": {
+    "planetName": "Malastare",
+    "route": "planet/malastare"
+  },
+  "characters/shmi-skywalker": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/snap-wexley": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "characters/sy-snootles": {
+    "planetName": "Lowick",
+    "route": "planet/lowick"
+  },
+  "characters/t3-m4": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/tech": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/temmin-wexley": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/the-armorer": {
+    "planetName": "Nevarro",
+    "route": "planet/nevarro"
+  },
+  "characters/thrawn": {
+    "planetName": "Csilla",
+    "route": "planet/csilla"
+  },
+  "characters/tobias-beckett": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "characters/unkar-plutt": {
+    "planetName": "Jakku",
+    "route": "planet/jakku"
+  },
+  "characters/val": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/watto": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "characters/wedge-antilles": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "characters/wrecker": {
+    "planetName": "Ando",
+    "route": "planet/ando"
+  },
+  "characters/zaalbar": {
+    "planetName": "Kashyyyk",
+    "route": "planet/kashyyyk"
+  },
+  "characters/ziro-the-hutt": {
+    "planetName": "Chol",
+    "route": "planet/chol"
+  },
+  "ships/acclamator-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/arc-170": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/arquitens-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/b-wing": {
+    "planetName": "Endor",
+    "route": "planet/endor"
+  },
+  "ships/cr90-corvette": {
+    "planetName": "Alderaan",
+    "route": "planet/alderaan"
+  },
+  "ships/death-star-i": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/death-star-ii": {
+    "planetName": "Endor",
+    "route": "planet/endor"
+  },
+  "ships/delta-7": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/droid-control-ship": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "ships/ebon-hawk": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/endar-spire": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/eta-2": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/executor-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/first-order-transporter": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/fury-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/ghost": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "ships/gozanti-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/gr-75-transport": {
+    "planetName": "Endor",
+    "route": "planet/endor"
+  },
+  "ships/hammerhead-corvette": {
+    "planetName": "Rendili",
+    "route": "planet/rendili"
+  },
+  "ships/harrower-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/hyena-class": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/imperial-i-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/imperial-ii-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/interdictor-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/invisible-hand": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/j-type-327": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "ships/komrk-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/lambda-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/laat-i": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/leviathan": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/lucrehulk-class": {
+    "planetName": "Neimoidia",
+    "route": "planet/neimoidia"
+  },
+  "ships/mc80-cruiser": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "ships/mg-100-bomber": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/millennium-falcon": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "ships/munificent-class": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/n-1-starfighter": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "ships/naboo-royal-yacht": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "ships/nebulon-b": {
+    "planetName": "Kuat",
+    "route": "planet/kuat"
+  },
+  "ships/quasar-fire-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/raider-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/razor-crest": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/recusant-class": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/resurgent-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/sith-interceptor": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/slave-i": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/snowspeeder": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/tie-bomber": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/tie-fighter": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/tie-fo": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/tie-sf": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/u-wing": {
+    "planetName": "Scarif",
+    "route": "planet/scarif"
+  },
+  "ships/venator-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/vulture-droid": {
+    "planetName": "Neimoidia",
+    "route": "planet/neimoidia"
+  },
+  "ships/v-wing": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/x-wing": {
+    "planetName": "Yavin 4",
+    "route": "planet/yavin-4"
+  },
+  "ships/yt-2400": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "ships/providence-class": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/pelta-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/consular-class": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "ships/victory-i-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/victory-ii-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/gladiator-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/onager-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/mandator-iv-class": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/supremacy": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/xyston-class": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/mc75-cruiser": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "ships/mc85-cruiser": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "ships/starhawk-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/nebulon-c": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/carrack-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/dreadnaught-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/z-95-headhunter": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/e-wing": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/t-70-x-wing": {
+    "planetName": "D'Qar",
+    "route": "planet/d-qar"
+  },
+  "ships/rz-2-a-wing": {
+    "planetName": "D'Qar",
+    "route": "planet/d-qar"
+  },
+  "ships/tie-defender": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/tie-reaper": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/tie-hunter": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/komrk-class-fighter": {
+    "planetName": "Manda",
+    "route": "planet/manda"
+  },
+  "ships/gauntlet-fighter": {
+    "planetName": "Manda",
+    "route": "planet/manda"
+  },
+  "ships/fang-class": {
+    "planetName": "Concord Dawn",
+    "route": "planet/concord-dawn"
+  },
+  "ships/sheathipede-class": {
+    "planetName": "Neimoidia",
+    "route": "planet/neimoidia"
+  },
+  "ships/theta-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/nu-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/sentinel-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/c-9979": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "ships/droid-tri-fighter": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/geonosian-solar-sailer": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/action-vi": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/imperial-landing-craft": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/brahatak-class": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "ships/mc30c-frigate": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "ships/bulwark-class": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/first-order-dreadnought": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/trident-class": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "ships/c-roc-gozanti": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/bantha-ii-skiff": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "ships/star-commuter-2000": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/aa-9-freighter": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/praetorian-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/secutor-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/lancer-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/banking-clan-frigate": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/nantex-class": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "ships/cloakshape-fighter": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/k-wing": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "ships/h-60-tempest": {
+    "planetName": "Starkiller Base",
+    "route": "planet/starkiller-base"
+  },
+  "ships/yv-666": {
+    "planetName": "Manda",
+    "route": "planet/manda"
+  },
+  "ships/nightbrother": {
+    "planetName": "D'ian",
+    "route": "planet/dian"
+  },
+  "ships/eclipse-class": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/r2-d2": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/c-3po": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "droids/bb-8": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/k-2so": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/chopper": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/hk-47": {
+    "planetName": "Iol",
+    "route": "planet/iol"
+  },
+  "droids/hk-51": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/ig-88": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/ig-11": {
+    "planetName": "Nevarro",
+    "route": "planet/nevarro"
+  },
+  "droids/t3-m4": {
+    "planetName": "Dantooine",
+    "route": "dantooine"
+  },
+  "droids/bd-1": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/t7-o1": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/g0-t0": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "droids/b1-battle-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/b2-super-battle-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/droideka": {
+    "planetName": "Colla IV",
+    "route": "planet/colla-iv"
+  },
+  "droids/bx-commando-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/tactical-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/super-tactical-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/vulture-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/buzz-droid": {
+    "planetName": "Colla IV",
+    "route": "planet/colla-iv"
+  },
+  "droids/hailfire-droid": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "droids/dwarf-spider-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/octuptarra-droid": {
+    "planetName": "Christophsis",
+    "route": "planet/christophsis"
+  },
+  "droids/probe-droid": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/it-o": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/2-1b": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/gnk-power-droid": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/pit-droid": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "droids/dark-trooper": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/0-0-0": {
+    "planetName": "Ison",
+    "route": "planet/ison"
+  },
+  "droids/l3-37": {
+    "planetName": "Kessel",
+    "route": "planet/kessel"
+  },
+  "droids/d-o": {
+    "planetName": "Exegol",
+    "route": "planet/exegol"
+  },
+  "droids/r5-d4": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/4-lom": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/ev-9d9": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "droids/8d8": {
+    "planetName": "Roche",
+    "route": "planet/roche"
+  },
+  "droids/aqua-droid": {
+    "planetName": "Mon Cala",
+    "route": "planet/mon-cala"
+  },
+  "droids/lr-57-combat-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/oom-command-battle-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/fa-4-pilot-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/ap-5": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "droids/war-droid-mark-iv": {
+    "planetName": "Taris",
+    "route": "planet/taris"
+  },
+  "droids/mark-vii-inquisitor-droid": {
+    "planetName": "Ison",
+    "route": "planet/ison"
+  },
+  "droids/s-0d": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/b-4d4": {
+    "planetName": "Taris",
+    "route": "planet/taris"
+  },
+  "droids/asp-7-labor-droid": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/wed-treadwell": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "droids/tt-8l-gatekeeper": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/asn-courier-droid": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/ric-920": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/pk-worker-droid": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/crab-droid": {
+    "planetName": "Utapau",
+    "route": "planet/utapau"
+  },
+  "droids/firefighter-b1": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/rocket-battle-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/b3-ultra-battle-droid": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/scorpenek-annihilator": {
+    "planetName": "Colla IV",
+    "route": "planet/colla-iv"
+  },
+  "droids/kx-security-droid": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/ra-7": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/cl-4d-4": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "droids/j9-worker-droid": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/r2-q5": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/r4-p17": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/r3-s6": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/r2-kt": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/fx-7": {
+    "planetName": "Hoth",
+    "route": "hoth"
+  },
+  "droids/tc-14": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "droids/oom-9": {
+    "planetName": "Geonosis",
+    "route": "planet/geonosis"
+  },
+  "droids/u9-c4": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/r1-g4": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "droids/id-9-seeker-droid": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/mse-14": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "droids/lothal-astromech": {
+    "planetName": "Nal Hutta",
+    "route": "planet/nal-hutta"
+  },
+  "bounty-hunters/boba-fett": {
+    "planetName": "Kamino (clone origin)",
+    "route": "planet/kamino-clone-origin"
+  },
+  "bounty-hunters/jango-fett": {
+    "planetName": "Concord Dawn",
+    "route": "planet/concord-dawn"
+  },
+  "bounty-hunters/cad-bane": {
+    "planetName": "Duro",
+    "route": "planet/duro"
+  },
+  "bounty-hunters/dengar": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "bounty-hunters/bossk": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/ig-88": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/4-lom": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/zuckuss": {
+    "planetName": "Gand",
+    "route": "planet/gand"
+  },
+  "bounty-hunters/aurra-sing": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/embo": {
+    "planetName": "Phatrong",
+    "route": "planet/phatrong"
+  },
+  "bounty-hunters/sugi": {
+    "planetName": "Iridonia",
+    "route": "planet/iridonia"
+  },
+  "bounty-hunters/greedo": {
+    "planetName": "Rodia",
+    "route": "planet/rodia"
+  },
+  "bounty-hunters/zam-wesell": {
+    "planetName": "Zolan",
+    "route": "planet/zolan"
+  },
+  "bounty-hunters/fennec-shand": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/din-djarin": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/toro-calican": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/migs-mayfeld": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/black-krrsantan": {
+    "planetName": "Kashyyyk",
+    "route": "planet/kashyyyk"
+  },
+  "bounty-hunters/asajj-ventress": {
+    "planetName": "Dathomir",
+    "route": "planet/dathomir"
+  },
+  "bounty-hunters/beilert-valance": {
+    "planetName": "Chorin",
+    "route": "planet/chorin"
+  },
+  "bounty-hunters/calo-nord": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/mira": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/hanharr": {
+    "planetName": "Kashyyyk",
+    "route": "planet/kashyyyk"
+  },
+  "bounty-hunters/durge": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/montross": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "bounty-hunters/robonino": {
+    "planetName": "Patrolia",
+    "route": "planet/patrolia"
+  },
+  "bounty-hunters/c-21-highsinger": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/latts-razzi": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/castas": {
+    "planetName": "Klatooine",
+    "route": "planet/klatooine"
+  },
+  "bounty-hunters/rumi-paramita": {
+    "planetName": "Lowick",
+    "route": "planet/lowick"
+  },
+  "bounty-hunters/jas-emari": {
+    "planetName": "Iridonia",
+    "route": "planet/iridonia"
+  },
+  "bounty-hunters/nakano-lash": {
+    "planetName": "Glee Anselm",
+    "route": "planet/glee-anselm"
+  },
+  "bounty-hunters/tonga": {
+    "planetName": "Mimban",
+    "route": "planet/mimban"
+  },
+  "bounty-hunters/doctor-aphra": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/ochi-of-bestoon": {
+    "planetName": "Bestoon",
+    "route": "planet/bestoon"
+  },
+  "bounty-hunters/bazine-netal": {
+    "planetName": "Chaasadai",
+    "route": "planet/chaasadai"
+  },
+  "bounty-hunters/mercurial-swift": {
+    "planetName": "Coruscant",
+    "route": "coruscant"
+  },
+  "bounty-hunters/skadge": {
+    "planetName": "Barab I",
+    "route": "planet/barab-i"
+  },
+  "bounty-hunters/gault-rennow": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/tarro-blood": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "bounty-hunters/braden": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "bounty-hunters/shae-vizla": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "bounty-hunters/greef-karga": {
+    "planetName": "Nevarro",
+    "route": "planet/nevarro"
+  },
+  "bounty-hunters/rako-hardeen": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/moralo-eval": {
+    "planetName": "Phindar",
+    "route": "planet/phindar"
+  },
+  "bounty-hunters/chata-hylo": {
+    "planetName": "Pantora",
+    "route": "planet/pantora"
+  },
+  "bounty-hunters/synara-san": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/ketsu-onyo": {
+    "planetName": "Shukut",
+    "route": "planet/shukut"
+  },
+  "bounty-hunters/sabine-wren": {
+    "planetName": "Krownest",
+    "route": "planet/krownest"
+  },
+  "bounty-hunters/cato-parasitti": {
+    "planetName": "Zolan",
+    "route": "planet/zolan"
+  },
+  "bounty-hunters/derrown": {
+    "planetName": "Parwan",
+    "route": "planet/parwan"
+  },
+  "bounty-hunters/ig-11": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/jodo-kast": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/cradossk": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/mako": {
+    "planetName": "Rodia",
+    "route": "planet/rodia"
+  },
+  "bounty-hunters/blizz": {
+    "planetName": "Tatooine",
+    "route": "tatooine"
+  },
+  "bounty-hunters/gor-koresh": {
+    "planetName": "Byss",
+    "route": "planet/byss"
+  },
+  "bounty-hunters/xian": {
+    "planetName": "Ryloth",
+    "route": "planet/ryloth"
+  },
+  "bounty-hunters/q9-0": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/hondo-ohnaka": {
+    "planetName": "Sriluur",
+    "route": "planet/sriluur"
+  },
+  "bounty-hunters/onca": {
+    "planetName": "Manaan",
+    "route": "planet/manaan"
+  },
+  "bounty-hunters/sinrich": {
+    "planetName": "Rattatak",
+    "route": "planet/rattatak"
+  },
+  "bounty-hunters/twazzi": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/mantu": {
+    "planetName": "Manaan",
+    "route": "planet/manaan"
+  },
+  "bounty-hunters/sixtat": {
+    "planetName": "Iridonia",
+    "route": "planet/iridonia"
+  },
+  "bounty-hunters/jakoli": {
+    "planetName": "Rodia",
+    "route": "planet/rodia"
+  },
+  "bounty-hunters/amanaman": {
+    "planetName": "Cadomai Prime",
+    "route": "planet/cadomai-prime"
+  },
+  "bounty-hunters/kaba-baiz": {
+    "planetName": "Klatooine",
+    "route": "planet/klatooine"
+  },
+  "bounty-hunters/kul-teska": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/boushh": {
+    "planetName": "Uba IV",
+    "route": "planet/uba-iv"
+  },
+  "bounty-hunters/skorr": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/bric": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/todo-360": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/ranzar-malk": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/burg": {
+    "planetName": "Devaron",
+    "route": "planet/devaron"
+  },
+  "bounty-hunters/bendix-fust": {
+    "planetName": "Rodia",
+    "route": "planet/rodia"
+  },
+  "bounty-hunters/komad-fortuna": {
+    "planetName": "Ryloth",
+    "route": "planet/ryloth"
+  },
+  "bounty-hunters/jicoln-cadera": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "bounty-hunters/hedarr": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/veeboo-lunak": {
+    "planetName": "Rodia",
+    "route": "planet/rodia"
+  },
+  "bounty-hunters/gold-fury": {
+    "planetName": "Iridonia",
+    "route": "planet/iridonia"
+  },
+  "bounty-hunters/murmur": {
+    "planetName": "Yablari",
+    "route": "planet/yablari"
+  },
+  "bounty-hunters/thelonia-redrish": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  },
+  "bounty-hunters/gorm-the-dissolver": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/noval-garaint": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "bounty-hunters/dharhan": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/tongor": {
+    "planetName": "Ryloth",
+    "route": "planet/ryloth"
+  },
+  "bounty-hunters/tlar": {
+    "planetName": "Ryloth",
+    "route": "planet/ryloth"
+  },
+  "bounty-hunters/riley": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/vukorah": {
+    "planetName": "Devaron",
+    "route": "planet/devaron"
+  },
+  "bounty-hunters/beebox": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/snoova": {
+    "planetName": "Uvena Prime",
+    "route": "planet/uvena-prime"
+  },
+  "bounty-hunters/chanath-cha": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/ig-72": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/deathstick": {
+    "planetName": "Ryloth",
+    "route": "planet/ryloth"
+  },
+  "bounty-hunters/danzigorro-potts": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "bounty-hunters/crockagor": {
+    "planetName": "Gamorr",
+    "route": "planet/gamorr"
+  },
+  "bounty-hunters/breacher": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/traxus": {
+    "planetName": "Corellia",
+    "route": "planet/corellia"
+  },
+  "bounty-hunters/nix-card": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/gha-nachkt": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/akku-seii": {
+    "planetName": "Anzat",
+    "route": "planet/anzat"
+  },
+  "bounty-hunters/khamus": {
+    "planetName": "Oba Diah",
+    "route": "planet/oba-diah"
+  },
+  "bounty-hunters/fenn-rau": {
+    "planetName": "Concord Dawn",
+    "route": "planet/concord-dawn"
+  },
+  "bounty-hunters/lyn": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/skreek": {
+    "planetName": "Trandosha",
+    "route": "planet/trandosha"
+  },
+  "bounty-hunters/rook-kast": {
+    "planetName": "Mandalore",
+    "route": "planet/mandalore"
+  },
+  "bounty-hunters/seripas": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/dane-tizzin": {
+    "planetName": "Naboo",
+    "route": "naboo"
+  },
+  "bounty-hunters/kintan-strider": {
+    "planetName": "Kintan",
+    "route": "planet/kintan"
+  },
+  "bounty-hunters/sardu-sallowe": {
+    "planetName": "Uba IV",
+    "route": "planet/uba-iv"
+  },
+  "bounty-hunters/villos-oran": {
+    "planetName": "Csilla",
+    "route": "planet/csilla"
+  },
+  "bounty-hunters/huntress": {
+    "planetName": "Iridonia",
+    "route": "planet/iridonia"
+  },
+  "bounty-hunters/tasu-leech": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/mavra-zane": {
+    "planetName": "Nar Shaddaa",
+    "route": "planet/nar-shaddaa"
+  },
+  "bounty-hunters/anulus-gae": {
+    "planetName": "Dromund Kaas",
+    "route": "planet/dromund-kaas"
+  }
+}

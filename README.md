@@ -1,6 +1,6 @@
 # Star Wars Worlds
 
-An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse galactic history, chronicles, governments, factions, characters, Jedi, Sith, planets, starships, droids, species, bounty hunters, settlements, military units, wars and conflicts, and Force powers across the saga — from the films and series to *Knights of the Old Republic* and *The Old Republic* — with rich detail pages, cinematic hero banners, related-archive cross-links, an explorable galaxy map, a multi-row timeline chart, and responsive sidebar navigation.
+An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse galactic history, chronicles, governments, factions, characters, Jedi, Sith, planets, starships, droids, species, bounty hunters, settlements, military units, wars and conflicts, and Force powers across the saga — from the films and series to *Knights of the Old Republic* and *The Old Republic* — with rich detail pages, cinematic hero banners (hosted on Azure Blob Storage), linked homeworlds and battle locations, Jedi/Sith lightsaber glow accents, related-archive cross-links, an explorable galaxy map, a multi-row timeline chart, and responsive sidebar navigation.
 
 ## Features
 
@@ -27,6 +27,8 @@ An interactive Star Wars encyclopedia built with **Blazor WebAssembly**. Browse 
 
 Each directory entry includes a summary card in the index view and a full detail page with overview, history, significance, notable events, affiliations, timeline, and image gallery where profile data is available. Many detail pages also include a **Related Archives** section — thumbnail cross-links to factions, characters, planets, ships, chronicles, governments, and other connected entries.
 
+**Home planet** and **Location** linked fields appear in the hero intro on directory detail pages (same styling as Chronicle **Government** links): Jedi, Sith, Characters, Ships, Droids, and Bounty Hunters show **Home planet**; Cities & Settlements and Battles show **Location**; Wars & Conflicts list pages show **Location** per battle card. **Jedi** and **Sith** detail pages also display a small animated **lightsaber glow** beneath the hero banner, coloured per character.
+
 ### Galactic History (Chronicles)
 
 The **Chronicles** section (`/chronicles`) provides a narrative history of the galaxy across ten major epochs:
@@ -46,6 +48,7 @@ The **Galactic History** index (`/chronicles/galactic-history`) links to each er
 
 - A cinematic hero banner and date-range meta line
 - **Government** and **Head of State** linked fields in the hero intro (e.g. Galactic Senate / Supreme Chancellor; Dark Council / Sith Emperor)
+- The same governance-link styling used elsewhere for **Home planet** and **Location** on directory pages
 - Rich markdown overview, history, and significance sections
 - **Major events** with optional route links
 - **Key factions**, **Major characters** (four per column), **Planets**, and **Ships** linked lists
@@ -111,7 +114,7 @@ Routes follow `/military-units/{faction-slug}`, `/military-units/{faction-slug}/
 
 ### Wars & Conflicts
 
-The **Wars & Conflicts** section covers **10 major wars** (Clone Wars, Galactic Civil War, Mandalorian Wars, Great Galactic War, and others) with **59 famous battle** detail pages under `/wars-conflicts/battles/{slug}`. War and battle pages include cinematic hero banners and Related Archives cross-links.
+The **Wars & Conflicts** section covers **10 major wars** (Clone Wars, Galactic Civil War, Mandalorian Wars, Great Galactic War, and others) with **59 famous battle** detail pages under `/wars-conflicts/battles/{slug}`. War list pages show **Location** links for each battle; battle detail pages show **Location** in the hero intro. War and battle pages include cinematic hero banners and Related Archives cross-links.
 
 ### Related Archives (cross-links)
 
@@ -120,6 +123,19 @@ A site-wide **cross-link graph** connects related entries across directories. `E
 Cross-links appear as **Related Archives** thumbnail cards on detail pages for chronicles, factions, governments, ships, species, settlements, military units, Force powers, lightsaber forms, wars, and battles. `CrossLinkImageResolver` and `CrossLinkRouteValidator` ensure routes and hero thumbnails resolve correctly across all categories.
 
 Curated overrides for complex relationships (e.g. *KOTOR* Jedi/Sith cross-links) live in `scripts/related_archive_overrides.py` and `scripts/chronicle_entity_links.py`.
+
+### Planet & location links
+
+Directory detail pages resolve homeworld and battle locations to linked planet pages via:
+
+| Component | Role |
+|-----------|------|
+| `PlanetLinks` | Resolves planet names and slugs to `ProfileLinkItem` routes |
+| `EntityLocationService` | Loads homeworld data from `wwwroot/data/entity-locations.json` |
+| `BattlePlanetData` | Maps battle slugs to planet names for Wars & Conflicts |
+| `LightsaberColorData` | Maps Jedi/Sith slugs to lightsaber colour and glow asset path |
+
+Homeworld data is generated by `scripts/export_entity_locations.py` (with curated overrides in `scripts/entity_homeworld_overrides.py`) and cached at runtime by `EntityLocationService`. Bounty hunters use their catalogue `Homeworld` field; settlements use their `Planet` field directly.
 
 ### Cinematic hero banners
 
@@ -140,7 +156,31 @@ Detail pages and directory index pages use **1536×1024 (16:9) cinematic `.webp`
 | Planets | `/images/planets/{slug}-hero.webp` | `/images/planets/planets-directory-hero.webp` |
 | Ships, Species, Bounty Hunters, Settlements, Force Powers, Droids | `/images/{category}/{slug}-scene.webp` | `/images/{category}/{category}-directory-hero.webp` |
 
-Planet detail pages keep their full-page **space background** (`{slug}-space.webp`) behind the content; the hero banner replaces only the small top portrait. Legacy SVG portraits and blueprints remain in `wwwroot/images/` for reference and gallery entries, but the live UI prefers the cinematic `.webp` heroes.
+Planet detail pages keep their full-page **space background** (`{slug}-space.webp`) behind the content; the hero banner replaces only the small top portrait.
+
+### Image hosting (Azure Blob Storage)
+
+Cinematic heroes, planet space art, lightsaber glow GIFs, and other binary assets are served from **Azure Blob Storage** rather than bundled in the repo. The app resolves `/images/...` paths at runtime via `ImageUrls.Resolve()` when `ImageBaseUrl` is set in `wwwroot/appsettings.json`:
+
+```json
+{
+  "ImageBaseUrl": "https://ststarwars.blob.core.windows.net/images"
+}
+```
+
+Local `wwwroot/images/` is gitignored (~10 GB of assets live in the `images` container on storage account `ststarwars`). To upload or refresh assets:
+
+| Task | Script |
+|------|--------|
+| Bulk-upload all local images | `upload_images_to_azure.py` |
+| Upload a single regenerated hero | `upload_hero_blobs.py {slug} --category jedi` |
+| Regenerate lightsaber glow GIFs | `upload_lightsaber_glows.py` (generates in memory, uploads directly — nothing stored locally) |
+
+Hand-crafted hero prompts for iconic entries (including species-accurate regens) live in `scripts/hero_prompt_overrides.py`.
+
+### Jedi & Sith lightsaber glow
+
+Jedi and Sith detail pages show a compact vertical animated lightsaber beneath the hero banner. Colour is determined by `LightsaberColorData` (blue, green, purple, red, yellow, or white); assets are served from `lightsaber-glow/{color}.gif` on blob storage.
 
 ### Galaxy Map
 
@@ -161,6 +201,8 @@ The sidebar uses collapsible flyout menus for each directory, with colour-coded 
 - [Bootstrap 5](https://getbootstrap.com/) for layout and responsive styling
 - Static JSON profiles served from `wwwroot/data/profiles/`
 - Pre-built cross-link graph at `wwwroot/data/cross-links.json`
+- Pre-built entity homeworld data at `wwwroot/data/entity-locations.json`
+- Cinematic images served from Azure Blob Storage via `ImageUrls` (configured in `appsettings.json`)
 - Client-side routing with scoped CSS per component
 - Python helper scripts under `scripts/` for catalogue generation, profile enrichment, cross-link building, and hero asset workflows
 
@@ -201,27 +243,29 @@ Then open the URL shown in the terminal (typically `https://localhost:5001` or `
 dotnet publish -c Release
 ```
 
-Published output is written to `bin/Release/net9.0/publish/wwwroot/` and can be deployed to any static host (Azure Static Web Apps, GitHub Pages, Netlify, etc.).
+Published output is written to `bin/Release/net9.0/publish/wwwroot/` and can be deployed to any static host or Azure App Service. Set `ImageBaseUrl` on the host (or in `wwwroot/appsettings.json`) so hero banners and other images resolve to blob storage in production.
 
 ## Project structure
 
 ```
 Star-Wars/
-├── Components/          # DirectoryDetailShell, EntityCrossLinks, GalacticTimelineChart, …
-├── Data/                # Static catalogues (ChroniclesData, GovernmentData, FactionData, …)
+├── Components/          # DirectoryDetailShell (governance, homeworld, lightsaber glow), EntityCrossLinks, GalacticTimelineChart, …
+├── Data/                # Static catalogues, BattlePlanetData, LightsaberColorData, …
 ├── Layout/              # MainLayout and NavMenu
 ├── Models/              # C# record types for entries, profiles, and cross-links
 ├── Pages/               # Routable Blazor pages (GalacticHistory, GovernmentPage, …)
 ├── scripts/             # Python generators, cross-link builder, hero installers
-├── Services/            # DirectoryProfileService, EntityCrossLinkService
+├── Services/            # DirectoryProfileService, EntityCrossLinkService, EntityLocationService, ImageUrls, PlanetLinks
 ├── wwwroot/
-│   ├── css/             # Global styles (timeline chart, governance links, cross-links)
+│   ├── appsettings.json # ImageBaseUrl → Azure Blob Storage
+│   ├── css/             # Global styles (timeline chart, governance links, lightsaber glow, cross-links)
 │   ├── data/
 │   │   ├── profiles/    # Extended JSON content per entry
-│   │   └── cross-links.json
-│   └── images/          # Cinematic .webp heroes, planet space art, legacy SVG assets
+│   │   ├── cross-links.json
+│   │   └── entity-locations.json  # Homeworld / location links for directory entries
+│   └── images/          # Gitignored locally — assets served from Azure Blob Storage in production
 ├── App.razor            # Router and 404 handling
-├── Program.cs           # DI and host configuration
+├── Program.cs           # DI (DirectoryProfileService, EntityCrossLinkService, EntityLocationService) and ImageUrls config
 └── Star-Wars.csproj
 ```
 
@@ -309,6 +353,8 @@ Content is split into two layers:
 
 3. **Cross-links** (`wwwroot/data/cross-links.json`) — pre-built Related Archives links per entity, generated from catalogue relationships and hand-authored overrides. Loaded by `EntityCrossLinkService`.
 
+4. **Entity locations** (`wwwroot/data/entity-locations.json`) — homeworld planet name and route for **485** directory slugs (Jedi, Sith, Characters, Ships, Droids). Generated by `scripts/export_entity_locations.py`. Loaded by `EntityLocationService`. Battles use `BattlePlanetData`; bounty hunters and settlements resolve from catalogue fields via `PlanetLinks`.
+
 ### Profile coverage
 
 | Category | Profiles |
@@ -353,6 +399,10 @@ The `scripts/` folder contains Python utilities for maintaining catalogues, prof
 | Install military unit hero banners | `install_military_unit_heroes.py`, `install_military_army_heroes.py` |
 | Install wars & conflicts hero banners | `install_wars_conflicts_heroes.py` |
 | Install directory hero images into `wwwroot` | `install_directory_heroes.py` |
+| Upload heroes directly to Azure Blob Storage | `upload_hero_blobs.py` |
+| Bulk-upload local images to Azure | `upload_images_to_azure.py` |
+| Generate & upload lightsaber glow GIFs | `upload_lightsaber_glows.py` |
+| Export entity homeworld JSON | `export_entity_locations.py` |
 | Install planet hero banners | `install_planet_heroes.py` |
 | Install character hero banners | `install_character_heroes.py` |
 | Install droid hero banners | `install_droid_heroes.py` |
@@ -368,6 +418,8 @@ Hand-authored enrichments live in `*_profile_enrichments.py`, `*_catalog_additio
 | `chronicle_entity_links.py` | Entity-specific chronicle cross-link rules |
 | `faction_profile_enrichments.py` | Faction profiles and `FACTION_GOVERNANCE` mappings |
 | `kotor_directory_enrichments.py` | *KOTOR* / *TOR* Jedi and Sith profile content |
+| `entity_homeworld_overrides.py` | Curated homeworld slugs for entity location export |
+| `hero_prompt_overrides.py` | Hand-crafted cinematic prompts for iconic directory heroes |
 | `related_archive_overrides.py` | Curated cross-link overrides across directories |
 
 Hero prompt manifests live alongside the installers (`hero_manifest.json`, `planet_hero_manifest.json`, `character_hero_manifest.json`, `government_hero_manifest.json`, `military_army_hero_manifest.json`, `wars_conflicts_hero_manifest.json`) for batch image generation.
@@ -389,6 +441,7 @@ python3 scripts/generate_chronicle_profiles.py
 python3 scripts/generate_government_profiles.py
 python3 scripts/generate_faction_profiles.py
 python3 scripts/generate_cross_links.py
+python3 scripts/export_entity_locations.py
 python3 scripts/install_government_heroes.py
 python3 scripts/install_chronicle_heroes.py
 ```
@@ -399,9 +452,10 @@ To add a new entry manually (e.g. a character):
 
 1. Add a record to the appropriate `Data/*.cs` file with `Name`, `Slug`, `Route`, `Description`, and `Color`.
 2. Create a matching JSON profile at `wwwroot/data/profiles/{category}/{slug}.json`.
-3. Add a cinematic hero `.webp` under `wwwroot/images/{category}/{slug}-scene.webp` (or `{slug}-hero.webp` for planets and military units).
-4. Regenerate cross-links if the entry should appear in Related Archives: `python3 scripts/generate_cross_links.py`
-5. The sidebar and index pages update automatically from the catalogue data — no route registration is needed beyond the existing `{Slug}` page templates.
+3. Add a cinematic hero `.webp` to Azure Blob Storage at `{category}/{slug}-scene.webp` (or `{slug}-hero.webp` for planets and military units) — use `upload_hero_blobs.py` or `upload_images_to_azure.py`, or install locally then bulk-upload.
+4. For Jedi/Sith/Characters/Ships/Droids, ensure homeworld data is exported: update `scripts/entity_homeworld_overrides.py` if needed, then run `python3 scripts/export_entity_locations.py`.
+5. Regenerate cross-links if the entry should appear in Related Archives: `python3 scripts/generate_cross_links.py`
+6. The sidebar and index pages update automatically from the catalogue data — no route registration is needed beyond the existing `{Slug}` page templates.
 
 For bulk additions, prefer the generator scripts:
 
@@ -412,7 +466,7 @@ For bulk additions, prefer the generator scripts:
 - **Timelines** — add to `TimelineData.cs` (including `ChartStart` / `ChartEnd` for the time chart), enrich via `timeline_profile_enrichments.py`, then run `generate_timeline_profiles.py`
 - **Jedi / Sith** — add to `JediData.cs` or `SithData.cs`, enrich via `kotor_directory_enrichments.py` or related modules, regenerate directory profiles and cross-links
 
-For planets, also set `X` and `Y` coordinates in `GalaxyData.cs` so the world appears on the galaxy map (see `GalaxyMapSettings.cs` for the coordinate bounds). Generate or copy `{slug}-space.webp` for the full-page background and `{slug}-hero.webp` for the detail banner.
+For planets, also set `X` and `Y` coordinates in `GalaxyData.cs` so the world appears on the galaxy map (see `GalaxyMapSettings.cs` for the coordinate bounds). Generate or copy `{slug}-space.webp` and `{slug}-hero.webp`, then upload to blob storage under `planets/`.
 
 ## Disclaimer
 

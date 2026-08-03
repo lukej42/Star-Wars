@@ -5,6 +5,7 @@
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
+@inject EntityLocationService LocationService
 
 <PageTitle>@(sith?.Name ?? "Sith")</PageTitle>
 
@@ -24,6 +25,8 @@ else
                           HeroImageAlt="@($"Cinematic illustration of {sith.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@sith.Title"
+                          HomePlanet="@homePlanet"
+                          LightsaberGlowPath="@LightsaberColorData.GetGlowPath("sith", sith.Slug)"
                           OverviewText="@(profile?.Overview ?? sith.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
@@ -43,6 +46,7 @@ else
     private SithMember? sith;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
@@ -50,12 +54,14 @@ else
         sith = SithData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        homePlanet = null;
         crossLinks = [];
 
         if (sith is not null)
         {
             profile = await ProfileService.GetProfileAsync("sith", sith.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("sith", sith.Slug);
+            homePlanet = await LocationService.GetHomePlanetAsync("sith", sith.Slug);
         }
 
         profileLoaded = true;

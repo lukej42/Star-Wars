@@ -20,6 +20,7 @@ else
                           HeroImageAlt="@($"Cinematic depiction of the {battle.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@($"{war?.Name ?? battle.WarSlug} · {battle.Era}")"
+                          Location="@BattlePlanetData.GetLink(battle.Slug)"
                           OverviewText="@BattleOverview"
                           HistoryText="@BattleHistory"
                           SignificanceText="@BattleSignificance"

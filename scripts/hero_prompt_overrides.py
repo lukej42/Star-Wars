@@ -28,8 +28,24 @@ JEDI: dict[str, str] = {
     "shaak-ti": "Togruta Jedi Council member meditating in Kamino cloning facility observation deck with rain streaks",
     "satele-shan": "Human female Jedi Grand Master with brown hair in white and blue Old Republic battle robes, ignited blue lightsaber, Battle Meditation aura over ruined Coruscant Jedi Temple and invasion smoke during the Great Galactic War",
     "stass-allie": "Tholothian Jedi in Clone Wars urban ruins with blue lightsaber and smoke-filled skyline",
-    "yaddle": "Small green Jedi Council member in temple garden with soft golden light and ancient statues",
-    "yoda": "Small green ancient Jedi Grand Master in swamp hut clearing with mist and fireflies, cane and serene power",
+    "yaddle": (
+        "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. "
+        "Hyper-realistic practical effects quality matching The Phantom Menace Jedi Council scenes. "
+        "Yaddle, female member of Yoda's species: small green wrinkled skin, large pointed ears, "
+        "gentle wise eyes, brown Jedi robes, distinctive brown cloth head wrap with topknot. "
+        "Seated in the Coruscant Jedi High Council chamber with warm golden window light, "
+        "marble pillars, and serene Jedi Master composure. Film grain, dramatic rim lighting, IMAX composition. "
+        "No text, no logos, no watermarks, no readable lettering."
+    ),
+    "yoda": (
+        "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. "
+        "Hyper-realistic practical effects quality matching Revenge of the Sith and The Empire Strikes Back. "
+        "Master Yoda: small green wrinkled alien Jedi Grand Master with large pointed ears, "
+        "wise ancient face, sparse white hair, traditional brown Jedi robes, ignited green lightsaber. "
+        "Dynamic Form IV Ataru combat pose with acrobatic Force energy in a Jedi Temple duelling chamber "
+        "or Senate rotunda backdrop with dramatic rim lighting. Film grain, IMAX composition. "
+        "No text, no logos, no watermarks, no readable lettering."
+    ),
 }
 
 SITH: dict[str, str] = {

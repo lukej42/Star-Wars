@@ -5,6 +5,7 @@
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
+@inject EntityLocationService LocationService
 
 <PageTitle>@(settlement?.Name ?? "Settlement")</PageTitle>
 
@@ -23,8 +24,9 @@ else
                           HeroImagePath="@settlement.SceneImagePath"
                           HeroImageAlt="@($"Cinematic illustration of {settlement.Name}")"
                           ShowPortraitHero="false"
-                          Subtitle="@($"{settlement.SettlementType} · {settlement.Planet}")"
+                          Subtitle="@settlement.SettlementType"
                           MetaLine="@($"Sources: {settlement.Sources}")"
+                          Location="@location"
                           OverviewText="@(profile?.Overview ?? settlement.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
@@ -46,6 +48,7 @@ else
     private Settlement? settlement;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private ProfileLinkItem? location;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
@@ -53,12 +56,14 @@ else
         settlement = SettlementData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        location = null;
         crossLinks = [];
 
         if (settlement is not null)
         {
             profile = await ProfileService.GetProfileAsync("settlements", settlement.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("settlements", settlement.Slug);
+            location = LocationService.GetLocationFromPlanetName(settlement.Planet);
         }
 
         profileLoaded = true;

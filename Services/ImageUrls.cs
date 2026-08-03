@@ -9,8 +9,13 @@ public static class ImageUrls
 
     public static string BaseUrl { get; private set; } = string.Empty;
 
-    public static void Configure(string? baseUrl) =>
+    public static string CacheVersion { get; private set; } = string.Empty;
+
+    public static void Configure(string? baseUrl, string? cacheVersion = null)
+    {
         BaseUrl = baseUrl?.Trim().TrimEnd('/') ?? string.Empty;
+        CacheVersion = cacheVersion?.Trim() ?? string.Empty;
+    }
 
     public static string Resolve(string? path)
     {
@@ -22,7 +27,7 @@ public static class ImageUrls
         if (path.StartsWith("http://", StringComparison.OrdinalIgnoreCase)
             || path.StartsWith("https://", StringComparison.OrdinalIgnoreCase))
         {
-            return path;
+            return AppendCacheVersion(path);
         }
 
         if (string.IsNullOrEmpty(BaseUrl))
@@ -30,16 +35,30 @@ public static class ImageUrls
             return path.StartsWith('/') ? path : $"/{path}";
         }
 
+        string resolved;
         if (path.StartsWith(ImagesPrefix, StringComparison.OrdinalIgnoreCase))
         {
-            return $"{BaseUrl}/{path[ImagesPrefix.Length..].TrimStart('/')}";
+            resolved = $"{BaseUrl}/{path[ImagesPrefix.Length..].TrimStart('/')}";
         }
-
-        if (path.StartsWith("images/", StringComparison.OrdinalIgnoreCase))
+        else if (path.StartsWith("images/", StringComparison.OrdinalIgnoreCase))
         {
-            return $"{BaseUrl}/{path["images/".Length..]}";
+            resolved = $"{BaseUrl}/{path["images/".Length..]}";
+        }
+        else
+        {
+            resolved = path.StartsWith('/') ? $"{BaseUrl}{path}" : $"{BaseUrl}/{path}";
         }
 
-        return path.StartsWith('/') ? $"{BaseUrl}{path}" : $"{BaseUrl}/{path}";
+        return AppendCacheVersion(resolved);
+    }
+
+    private static string AppendCacheVersion(string url)
+    {
+        if (string.IsNullOrEmpty(CacheVersion) || url.Contains('?', StringComparison.Ordinal))
+        {
+            return url;
+        }
+
+        return $"{url}?v={Uri.EscapeDataString(CacheVersion)}";
     }
 }

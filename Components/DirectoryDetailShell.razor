@@ -11,9 +11,17 @@
         }
         else if (!string.IsNullOrWhiteSpace(HeroImagePath))
         {
-            <figure class="directory-hero directory-detail-banner">
-                <img src="@ImageUrls.Resolve(HeroImagePath)" alt="@HeroImageAlt" loading="lazy" />
-            </figure>
+            <div class="directory-detail-banner-stack">
+                <figure class="directory-hero directory-detail-banner">
+                    <img src="@ImageUrls.Resolve(HeroImagePath)" alt="@HeroImageAlt" loading="lazy" />
+                </figure>
+                @if (!string.IsNullOrWhiteSpace(LightsaberGlowPath))
+                {
+                    <div class="directory-detail-lightsaber" aria-hidden="true">
+                        <img src="@ImageUrls.Resolve(LightsaberGlowPath)" alt="" loading="lazy" />
+                    </div>
+                }
+            </div>
         }
         <div class="directory-detail-intro @(ShowPortraitHero ? null : "directory-detail-intro-full")">
             <h1>@Name</h1>
@@ -25,9 +33,23 @@
             {
                 <p class="directory-detail-meta-line">@MetaLine</p>
             }
-            @if (Government is not null || HeadOfGovernment is not null || HeadOfState is not null || !string.IsNullOrWhiteSpace(NumberOfSystems))
+            @if (Government is not null || HeadOfGovernment is not null || HeadOfState is not null || !string.IsNullOrWhiteSpace(NumberOfSystems) || HomePlanet is not null || Location is not null)
             {
                 <dl class="directory-detail-governance">
+                    @if (HomePlanet is not null)
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Home planet</dt>
+                            <dd>@RenderGovernanceValue(HomePlanet)</dd>
+                        </div>
+                    }
+                    @if (Location is not null)
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Location</dt>
+                            <dd>@RenderGovernanceValue(Location)</dd>
+                        </div>
+                    }
                     @if (Government is not null)
                     {
                         <div class="directory-detail-governance-row">
@@ -315,6 +337,15 @@
 
     [Parameter]
     public IReadOnlyList<ProfileImage> Gallery { get; set; } = Array.Empty<ProfileImage>();
+
+    [Parameter]
+    public ProfileLinkItem? HomePlanet { get; set; }
+
+    [Parameter]
+    public ProfileLinkItem? Location { get; set; }
+
+    [Parameter]
+    public string LightsaberGlowPath { get; set; } = string.Empty;
 
     [Parameter]
     public ProfileLinkItem? Government { get; set; }

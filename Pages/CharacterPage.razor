@@ -1,9 +1,11 @@
 @page "/characters/{Slug}"
 @using StarWars.Data
+@using StarWars.Models
 @using StarWars.Services
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
+@inject EntityLocationService LocationService
 
 <PageTitle>@(character?.Name ?? "Character")</PageTitle>
 
@@ -23,6 +25,7 @@ else
                           HeroImageAlt="@($"Cinematic illustration of {character.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@character.Role"
+                          HomePlanet="@homePlanet"
                           OverviewText="@(profile?.Overview ?? character.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
@@ -42,6 +45,7 @@ else
     private Character? character;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
@@ -49,12 +53,14 @@ else
         character = CharacterData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        homePlanet = null;
         crossLinks = [];
 
         if (character is not null)
         {
             profile = await ProfileService.GetProfileAsync("characters", character.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("characters", character.Slug);
+            homePlanet = await LocationService.GetHomePlanetAsync("characters", character.Slug);
         }
 
         profileLoaded = true;

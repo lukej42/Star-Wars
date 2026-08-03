@@ -5,6 +5,7 @@
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
+@inject EntityLocationService LocationService
 
 <PageTitle>@(hunter?.Name ?? "Bounty Hunter")</PageTitle>
 
@@ -23,8 +24,9 @@ else
                           HeroImagePath="@hunter.SceneImagePath"
                           HeroImageAlt="@($"Cinematic illustration of {hunter.Name}")"
                           ShowPortraitHero="false"
-                          Subtitle="@($"{hunter.Specialty} · {hunter.Homeworld}")"
+                          Subtitle="@hunter.Specialty"
                           MetaLine="@($"Sources: {hunter.Sources}")"
+                          HomePlanet="@homePlanet"
                           OverviewText="@(profile?.Overview ?? hunter.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
@@ -46,6 +48,7 @@ else
     private BountyHunter? hunter;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
@@ -53,12 +56,14 @@ else
         hunter = BountyHunterData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        homePlanet = null;
         crossLinks = [];
 
         if (hunter is not null)
         {
             profile = await ProfileService.GetProfileAsync("bounty-hunters", hunter.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("bounty-hunters", hunter.Slug);
+            homePlanet = LocationService.GetHomePlanetFromName(hunter.Homeworld);
         }
 
         profileLoaded = true;

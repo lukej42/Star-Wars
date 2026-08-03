@@ -5,6 +5,7 @@
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
+@inject EntityLocationService LocationService
 
 <PageTitle>@(jedi?.Name ?? "Jedi")</PageTitle>
 
@@ -24,6 +25,8 @@ else
                           HeroImageAlt="@($"Cinematic illustration of {jedi.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@jedi.Rank"
+                          HomePlanet="@homePlanet"
+                          LightsaberGlowPath="@LightsaberColorData.GetGlowPath("jedi", jedi.Slug)"
                           OverviewText="@(profile?.Overview ?? jedi.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
@@ -43,6 +46,7 @@ else
     private JediMember? jedi;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
@@ -50,12 +54,14 @@ else
         jedi = JediData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        homePlanet = null;
         crossLinks = [];
 
         if (jedi is not null)
         {
             profile = await ProfileService.GetProfileAsync("jedi", jedi.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("jedi", jedi.Slug);
+            homePlanet = await LocationService.GetHomePlanetAsync("jedi", jedi.Slug);
         }
 
         profileLoaded = true;

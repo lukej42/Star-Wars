@@ -36,11 +36,16 @@ else
             <div class="planet-directory-grid">
                 @foreach (var battle in FilteredBattles.OrderBy(battle => battle.Name))
                 {
+                    var battleLocation = BattlePlanetData.GetLink(battle.Slug);
                     <article class="planet-directory-card">
                         <span class="planet-directory-swatch" style="background-color: @battle.Color" aria-hidden="true"></span>
                         <div class="planet-directory-details">
                             <a href="@battle.Route">@battle.Name</a>
                             <p class="planet-region">@battle.Era</p>
+                            @if (battleLocation is not null)
+                            {
+                                <p class="planet-region">Location: <a href="@battleLocation.Route">@battleLocation.Value</a></p>
+                            }
                         </div>
                     </article>
                 }

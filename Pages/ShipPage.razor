@@ -5,6 +5,7 @@
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
+@inject EntityLocationService LocationService
 
 <PageTitle>@(ship?.Name ?? "Ship")</PageTitle>
 
@@ -25,6 +26,7 @@ else
                           ShowPortraitHero="false"
                           Subtitle="@ship.Class"
                           MetaLine="@($"Production: {ship.ProductionCount} · {ship.Era}")"
+                          HomePlanet="@homePlanet"
                           OverviewText="@(profile?.Overview ?? ship.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
@@ -44,6 +46,7 @@ else
     private Ship? ship;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
@@ -51,12 +54,14 @@ else
         ship = ShipData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        homePlanet = null;
         crossLinks = [];
 
         if (ship is not null)
         {
             profile = await ProfileService.GetProfileAsync("ships", ship.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("ships", ship.Slug);
+            homePlanet = await LocationService.GetHomePlanetAsync("ships", ship.Slug);
         }
 
         profileLoaded = true;

@@ -741,6 +741,31 @@ a, .btn-link {
     max-height: 320px;
 }
 
+.directory-detail-banner-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.directory-detail-banner-stack .directory-detail-banner {
+    width: 100%;
+}
+
+.directory-detail-lightsaber {
+    flex-shrink: 0;
+    margin: 0.35rem 0 0.15rem;
+    line-height: 0;
+    pointer-events: none;
+}
+
+.directory-detail-lightsaber img {
+    display: block;
+    width: 14px;
+    height: 72px;
+    object-fit: contain;
+    filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.35));
+}
+
 .directory-detail-intro-full {
     padding: 1.75rem;
 }

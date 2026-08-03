@@ -5,6 +5,7 @@
 @using StarWars.Components
 @inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
+@inject EntityLocationService LocationService
 
 <PageTitle>@(droid?.Name ?? "Droid")</PageTitle>
 
@@ -25,6 +26,7 @@ else
                           ShowPortraitHero="false"
                           Subtitle="@($"{droid.DroidType} · {droid.Manufacturer}")"
                           MetaLine="@($"Sources: {droid.Sources}")"
+                          HomePlanet="@homePlanet"
                           OverviewText="@(profile?.Overview ?? droid.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
@@ -46,6 +48,7 @@ else
     private Droid? droid;
     private DirectoryProfile? profile;
     private bool profileLoaded;
+    private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     protected override async Task OnParametersSetAsync()
@@ -53,12 +56,14 @@ else
         droid = DroidData.GetBySlug(Slug);
         profileLoaded = false;
         profile = null;
+        homePlanet = null;
         crossLinks = [];
 
         if (droid is not null)
         {
             profile = await ProfileService.GetProfileAsync("droids", droid.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("droids", droid.Slug);
+            homePlanet = await LocationService.GetHomePlanetAsync("droids", droid.Slug);
         }
 
         profileLoaded = true;
