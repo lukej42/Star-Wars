@@ -58,6 +58,10 @@ def main() -> int:
     parser.add_argument("--account", default="ststarwars")
     parser.add_argument("--container", default="images")
     parser.add_argument("--source", help="Override source file path")
+    parser.add_argument(
+        "--blob-suffix",
+        help="Upload only {category}/{slug}-{suffix}.webp instead of portrait + scene",
+    )
     args = parser.parse_args()
 
     source = Path(args.source) if args.source else ASSETS / f"{args.slug}.png"
@@ -81,10 +85,14 @@ def main() -> int:
     payload = to_webp_bytes(source)
     blob_service = BlobServiceClient.from_connection_string(get_connection_string(args.account))
 
-    blobs = [
-        f"{args.category}/{args.slug}.webp",
-        f"{args.category}/{args.slug}-scene.webp",
-    ]
+    blobs = (
+        [f"{args.category}/{args.slug}-{args.blob_suffix}.webp"]
+        if args.blob_suffix
+        else [
+            f"{args.category}/{args.slug}.webp",
+            f"{args.category}/{args.slug}-scene.webp",
+        ]
+    )
     for blob_name in blobs:
         upload(blob_service, args.container, blob_name, payload)
         print(f"Uploaded {blob_name} ({len(payload):,} bytes) from {source.name}")

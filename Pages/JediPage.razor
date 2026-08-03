@@ -32,6 +32,8 @@ else
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
                           SignificanceHeading="Legacy and the Force"
                           NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          NotableEventsAsideImagePath="@notableEventsAsideImagePath"
+                          NotableEventsAsideImageAlt="@notableEventsAsideImageAlt"
                           Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
                           Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
                           Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
@@ -48,6 +50,8 @@ else
     private bool profileLoaded;
     private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
+    private string notableEventsAsideImagePath = string.Empty;
+    private string notableEventsAsideImageAlt = string.Empty;
 
     protected override async Task OnParametersSetAsync()
     {
@@ -56,12 +60,20 @@ else
         profile = null;
         homePlanet = null;
         crossLinks = [];
+        notableEventsAsideImagePath = string.Empty;
+        notableEventsAsideImageAlt = string.Empty;
 
         if (jedi is not null)
         {
             profile = await ProfileService.GetProfileAsync("jedi", jedi.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("jedi", jedi.Slug);
             homePlanet = await LocationService.GetHomePlanetAsync("jedi", jedi.Slug);
+
+            if (jedi.Slug.Equals("yoda", StringComparison.OrdinalIgnoreCase))
+            {
+                notableEventsAsideImagePath = "/images/jedi/yoda-aside.webp";
+                notableEventsAsideImageAlt = "Cinematic illustration of Yoda in the Jedi Temple";
+            }
         }
 
         profileLoaded = true;

@@ -124,14 +124,33 @@
     }
     else if (NotableEvents.Count > 0)
     {
-        <section class="directory-detail-section">
+        <section class="directory-detail-section @(string.IsNullOrWhiteSpace(NotableEventsAsideImagePath) ? null : "directory-detail-section-with-aside")">
             <h2>Notable events</h2>
-            <ul class="directory-detail-list">
-                @foreach (var item in NotableEvents)
-                {
-                    <li>@item</li>
-                }
-            </ul>
+            @if (string.IsNullOrWhiteSpace(NotableEventsAsideImagePath))
+            {
+                <ul class="directory-detail-list">
+                    @foreach (var item in NotableEvents)
+                    {
+                        <li>@item</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <div class="directory-detail-section-split">
+                    <ul class="directory-detail-list">
+                        @foreach (var item in NotableEvents)
+                        {
+                            <li>@item</li>
+                        }
+                    </ul>
+                    <figure class="directory-detail-section-aside">
+                        <img src="@ImageUrls.Resolve(NotableEventsAsideImagePath)"
+                             alt="@NotableEventsAsideImageAlt"
+                             loading="lazy" />
+                    </figure>
+                </div>
+            }
         </section>
     }
 
@@ -301,6 +320,12 @@
 
     [Parameter]
     public IReadOnlyList<string> NotableEvents { get; set; } = Array.Empty<string>();
+
+    [Parameter]
+    public string NotableEventsAsideImagePath { get; set; } = string.Empty;
+
+    [Parameter]
+    public string NotableEventsAsideImageAlt { get; set; } = string.Empty;
 
     [Parameter]
     public IReadOnlyList<ProfileLinkedEvent> MajorEvents { get; set; } = Array.Empty<ProfileLinkedEvent>();

@@ -839,6 +839,28 @@ a, .btn-link {
     margin-top: 0.55rem;
 }
 
+.directory-detail-section-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(160px, 240px);
+    gap: 1.25rem;
+    align-items: start;
+}
+
+.directory-detail-section-aside {
+    margin: 0;
+    line-height: 0;
+}
+
+.directory-detail-section-aside img {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
+    object-fit: cover;
+    aspect-ratio: 3 / 2;
+}
+
 .directory-detail-linked-list a {
     color: #7eb8ff;
     text-decoration: none;
@@ -1217,6 +1239,15 @@ a, .btn-link {
     .directory-detail-timeline li {
         grid-template-columns: 1fr;
         gap: 0.25rem;
+    }
+
+    .directory-detail-section-split {
+        grid-template-columns: 1fr;
+    }
+
+    .directory-detail-section-aside {
+        max-width: 280px;
+        margin: 0.5rem auto 0;
     }
 }
 
