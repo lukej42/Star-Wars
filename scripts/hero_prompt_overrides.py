@@ -38,13 +38,10 @@ JEDI: dict[str, str] = {
         "No text, no logos, no watermarks, no readable lettering."
     ),
     "yoda": (
-        "Photorealistic cinematic Star Wars live-action film still hero banner, 1536x1024, 16:9. "
-        "Hyper-realistic practical effects quality matching Revenge of the Sith and The Empire Strikes Back. "
-        "Master Yoda: small green wrinkled alien Jedi Grand Master with large pointed ears, "
-        "wise ancient face, sparse white hair, traditional brown Jedi robes, ignited green lightsaber. "
-        "Dynamic Form IV Ataru combat pose with acrobatic Force energy in a Jedi Temple duelling chamber "
-        "or Senate rotunda backdrop with dramatic rim lighting. Film grain, IMAX composition. "
-        "No text, no logos, no watermarks, no readable lettering."
+        "Edit from Yaddle reference: centuries-older masculine elder of the same green species, "
+        "sparse white hair wisps (no head wrap), seated in small curved Jedi High Council chair, "
+        "brown robes, three-quarter view, golden Coruscant sunset through council chamber windows. "
+        "Same gentle cinematic matte painting style as Yaddle portrait."
     ),
 }
 
