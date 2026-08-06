@@ -462,6 +462,17 @@
     max-height: none;
 }
 
+.nav-flyout-panel-subflyouts > .nav-flyout-panel,
+.nav-flyout-panel-subflyouts.nav-flyout-panel {
+    overflow: visible;
+    max-height: none;
+}
+
+.nav-flyout-panel-subflyouts .nav-subflyout-menu > .nav-flyout-panel:not(.nav-flyout-panel-scroll) {
+    overflow: visible;
+    max-height: none;
+}
+
 .nav-flyout-panel-subflyouts .nav-subflyout-menu > .nav-flyout-panel-scroll {
     max-height: min(65vh, 22rem);
 }

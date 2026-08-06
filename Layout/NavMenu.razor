@@ -257,7 +257,7 @@
                     </div>
                 </div>
             </div>
-            <div class="nav-item px-3 nav-flyout"
+            <div class="nav-item px-3 nav-flyout nav-flyout-bottom"
                  @onclick:stopPropagation="true">
                 <button type="button"
                         class="nav-link nav-flyout-trigger @(IsMilitaryUnitsRoute ? "active" : null)"
@@ -267,10 +267,164 @@
                 </button>
                 <div class="nav-flyout-menu @(mobileMilitaryUnitsOpen ? "is-open" : null)">
                     <div class="nav-flyout-panel nav-flyout-panel-military-units nav-flyout-panel-subflyouts">
-                        <NavLink class="nav-link nav-flyout-link nav-military-unit-link nav-all-military-units-link" href="all-military-units" @onclick="CloseMobileNav">
-                            <span class="bi bi-all-factions-nav-menu" aria-hidden="true"></span>
-                            All Factions
-                        </NavLink>
+                        <div class="nav-subflyout"
+                             @onclick:stopPropagation="true">
+                            <button type="button"
+                                    class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsAllMilitaryUnitsRoute ? "active" : null)"
+                                    @onclick="ToggleAllMilitaryUnitsDirectory">
+                                <span class="bi bi-all-factions-nav-menu" aria-hidden="true"></span>
+                                All Factions
+                                <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                            </button>
+                            <div class="nav-subflyout-menu @(allMilitaryUnitsDirectoryOpen ? "is-open" : null)">
+                                <div class="nav-flyout-panel nav-flyout-panel-military-units">
+                                    <NavLink class="nav-link nav-flyout-link nav-military-unit-link nav-all-military-units-link" href="all-military-units" @onclick="CloseMobileNav">
+                                        All Factions
+                                    </NavLink>
+                                    <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                    <div class="nav-subflyout"
+                                         @onclick:stopPropagation="true">
+                                        <button type="button"
+                                                class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsAllMilitaryDirectoryBranchRoute(MilitaryUnitBranch.Army) ? "active" : null)"
+                                                @onclick="() => ToggleAllMilitaryUnitsDirectoryBranch(AllMilitaryDirectoryArmyKey)">
+                                            Army
+                                            <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="nav-subflyout-menu @(openAllMilitaryUnitsDirectoryBranchKey == AllMilitaryDirectoryArmyKey ? "is-open" : null)">
+                                            <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="all-military-units" @onclick="CloseMobileNav">
+                                                    All Army Units
+                                                </NavLink>
+                                                <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                                @foreach (var faction in MilitaryUnitData.Factions.OrderBy(faction => faction.Name))
+                                                {
+                                                    var armyUnits = MilitaryUnitData.GetArmyUnits(faction.Slug);
+                                                    if (armyUnits.Count == 0)
+                                                    {
+                                                        continue;
+                                                    }
+
+                                                    <div class="nav-flyout-divider nav-flyout-divider-label" aria-hidden="true">@faction.Name</div>
+                                                    @foreach (var unit in armyUnits)
+                                                    {
+                                                        <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@unit.Route" @onclick="CloseMobileNav">
+                                                            <span class="nav-military-unit-dot" style="background-color: @unit.Color" aria-hidden="true"></span>
+                                                            @unit.Name
+                                                        </NavLink>
+                                                    }
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="nav-subflyout"
+                                         @onclick:stopPropagation="true">
+                                        <button type="button"
+                                                class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsAllMilitaryDirectoryBranchRoute(MilitaryUnitBranch.Navy) ? "active" : null)"
+                                                @onclick="() => ToggleAllMilitaryUnitsDirectoryBranch(AllMilitaryDirectoryNavyKey)">
+                                            Navy
+                                            <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="nav-subflyout-menu @(openAllMilitaryUnitsDirectoryBranchKey == AllMilitaryDirectoryNavyKey ? "is-open" : null)">
+                                            <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="all-military-units" @onclick="CloseMobileNav">
+                                                    All Navy Units
+                                                </NavLink>
+                                                <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                                @foreach (var faction in MilitaryUnitData.Factions.OrderBy(faction => faction.Name))
+                                                {
+                                                    var navyUnits = MilitaryUnitData.GetNavyUnits(faction.Slug);
+                                                    if (navyUnits.Count == 0)
+                                                    {
+                                                        continue;
+                                                    }
+
+                                                    <div class="nav-flyout-divider nav-flyout-divider-label" aria-hidden="true">@faction.Name</div>
+                                                    @foreach (var group in navyUnits.GroupBy(unit => unit.NavyClass ?? unit.UnitType).OrderBy(group => group.Key))
+                                                    {
+                                                        <div class="nav-flyout-divider nav-flyout-divider-label" aria-hidden="true">@group.Key</div>
+                                                        @foreach (var unit in group)
+                                                        {
+                                                            <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@unit.Route" @onclick="CloseMobileNav">
+                                                                <span class="nav-military-unit-dot" style="background-color: @unit.Color" aria-hidden="true"></span>
+                                                                @unit.Name
+                                                            </NavLink>
+                                                        }
+                                                    }
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="nav-subflyout"
+                                         @onclick:stopPropagation="true">
+                                        <button type="button"
+                                                class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsAllMilitaryDirectoryVehicleRoute(MilitaryVehicleType.Ground) ? "active" : null)"
+                                                @onclick="() => ToggleAllMilitaryUnitsDirectoryBranch(AllMilitaryDirectoryGroundKey)">
+                                            Ground Craft
+                                            <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="nav-subflyout-menu @(openAllMilitaryUnitsDirectoryBranchKey == AllMilitaryDirectoryGroundKey ? "is-open" : null)">
+                                            <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="all-military-units/ground" @onclick="CloseMobileNav">
+                                                    All Ground Craft
+                                                </NavLink>
+                                                <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                                @foreach (var faction in MilitaryUnitData.Factions.OrderBy(faction => faction.Name))
+                                                {
+                                                    var groundVehicles = VehicleData.GetGround(faction.Slug);
+                                                    if (groundVehicles.Count == 0)
+                                                    {
+                                                        continue;
+                                                    }
+
+                                                    <div class="nav-flyout-divider nav-flyout-divider-label" aria-hidden="true">@faction.Name</div>
+                                                    @foreach (var vehicle in groundVehicles)
+                                                    {
+                                                        <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@vehicle.Route" @onclick="CloseMobileNav">
+                                                            <span class="nav-military-unit-dot" style="background-color: @vehicle.Color" aria-hidden="true"></span>
+                                                            @vehicle.Name
+                                                        </NavLink>
+                                                    }
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="nav-subflyout"
+                                         @onclick:stopPropagation="true">
+                                        <button type="button"
+                                                class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsAllMilitaryDirectoryVehicleRoute(MilitaryVehicleType.Air) ? "active" : null)"
+                                                @onclick="() => ToggleAllMilitaryUnitsDirectoryBranch(AllMilitaryDirectoryAirKey)">
+                                            Air Craft
+                                            <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                        </button>
+                                        <div class="nav-subflyout-menu @(openAllMilitaryUnitsDirectoryBranchKey == AllMilitaryDirectoryAirKey ? "is-open" : null)">
+                                            <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="all-military-units/air" @onclick="CloseMobileNav">
+                                                    All Air Craft
+                                                </NavLink>
+                                                <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                                @foreach (var faction in MilitaryUnitData.Factions.OrderBy(faction => faction.Name))
+                                                {
+                                                    var airVehicles = VehicleData.GetAir(faction.Slug);
+                                                    if (airVehicles.Count == 0)
+                                                    {
+                                                        continue;
+                                                    }
+
+                                                    <div class="nav-flyout-divider nav-flyout-divider-label" aria-hidden="true">@faction.Name</div>
+                                                    @foreach (var vehicle in airVehicles)
+                                                    {
+                                                        <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@vehicle.Route" @onclick="CloseMobileNav">
+                                                            <span class="nav-military-unit-dot" style="background-color: @vehicle.Color" aria-hidden="true"></span>
+                                                            @vehicle.Name
+                                                        </NavLink>
+                                                    }
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="nav-flyout-divider" aria-hidden="true"></div>
                         @foreach (var faction in MilitaryUnitData.Factions.OrderBy(faction => faction.Name))
                         {
@@ -351,6 +505,10 @@
                                             </button>
                                             <div class="nav-subflyout-menu @(openMilitaryVehicleBranchKey == GetMilitaryVehicleBranchKey(faction.Slug, MilitaryVehicleType.Ground) ? "is-open" : null)">
                                                 <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                    <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@faction.GroundRoute" @onclick="CloseMobileNav">
+                                                        All Ground Craft
+                                                    </NavLink>
+                                                    <div class="nav-flyout-divider" aria-hidden="true"></div>
                                                     @foreach (var vehicle in VehicleData.GetGround(faction.Slug))
                                                     {
                                                         <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@vehicle.Route" @onclick="CloseMobileNav">
@@ -371,6 +529,10 @@
                                             </button>
                                             <div class="nav-subflyout-menu @(openMilitaryVehicleBranchKey == GetMilitaryVehicleBranchKey(faction.Slug, MilitaryVehicleType.Air) ? "is-open" : null)">
                                                 <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                    <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@faction.AirRoute" @onclick="CloseMobileNav">
+                                                        All Air Craft
+                                                    </NavLink>
+                                                    <div class="nav-flyout-divider" aria-hidden="true"></div>
                                                     @foreach (var vehicle in VehicleData.GetAir(faction.Slug))
                                                     {
                                                         <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@vehicle.Route" @onclick="CloseMobileNav">
@@ -777,6 +939,12 @@
     private bool mobileJediOpen;
     private bool mobileSithOpen;
     private bool mobileMilitaryUnitsOpen;
+    private bool allMilitaryUnitsDirectoryOpen;
+    private string? openAllMilitaryUnitsDirectoryBranchKey;
+    private const string AllMilitaryDirectoryArmyKey = "all-army";
+    private const string AllMilitaryDirectoryNavyKey = "all-navy";
+    private const string AllMilitaryDirectoryGroundKey = "all-ground";
+    private const string AllMilitaryDirectoryAirKey = "all-air";
     private bool mobilePlanetsOpen;
     private bool mobileShipsOpen;
     private bool mobileSpeciesOpen;
@@ -996,13 +1164,26 @@
         }
     }
 
+    private bool IsAllMilitaryUnitsRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+            return uri.Equals("all-military-units", StringComparison.OrdinalIgnoreCase)
+                || uri.Equals("all-military-units/ground", StringComparison.OrdinalIgnoreCase)
+                || uri.Equals("all-military-units/air", StringComparison.OrdinalIgnoreCase);
+        }
+    }
+
     private bool IsMilitaryUnitsRoute
     {
         get
         {
             var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
 
-            if (uri.Equals("all-military-units", StringComparison.OrdinalIgnoreCase))
+            if (uri.Equals("all-military-units", StringComparison.OrdinalIgnoreCase)
+                || uri.Equals("all-military-units/ground", StringComparison.OrdinalIgnoreCase)
+                || uri.Equals("all-military-units/air", StringComparison.OrdinalIgnoreCase))
             {
                 return true;
             }
@@ -1367,6 +1548,47 @@
         {
             CloseOtherFlyouts(nameof(mobileMilitaryUnitsOpen));
         }
+        else
+        {
+            allMilitaryUnitsDirectoryOpen = false;
+            openAllMilitaryUnitsDirectoryBranchKey = null;
+        }
+    }
+
+    private void ToggleAllMilitaryUnitsDirectory()
+    {
+        allMilitaryUnitsDirectoryOpen = !allMilitaryUnitsDirectoryOpen;
+        if (!allMilitaryUnitsDirectoryOpen)
+        {
+            openAllMilitaryUnitsDirectoryBranchKey = null;
+        }
+    }
+
+    private void ToggleAllMilitaryUnitsDirectoryBranch(string branchKey)
+    {
+        openAllMilitaryUnitsDirectoryBranchKey = openAllMilitaryUnitsDirectoryBranchKey == branchKey ? null : branchKey;
+        openMilitaryBranchKey = null;
+        openMilitaryVehicleBranchKey = null;
+    }
+
+    private bool IsAllMilitaryDirectoryBranchRoute(MilitaryUnitBranch branch) =>
+        MilitaryUnitData.Factions.Any(faction => IsMilitaryBranchRoute(faction.Slug, branch));
+
+    private bool IsAllMilitaryDirectoryVehicleRoute(MilitaryVehicleType type)
+    {
+        var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+        var directoryRoute = type == MilitaryVehicleType.Ground
+            ? "all-military-units/ground"
+            : "all-military-units/air";
+
+        if (uri.Equals(directoryRoute, StringComparison.OrdinalIgnoreCase))
+        {
+            return true;
+        }
+
+        return VehicleData.Vehicles
+            .Where(vehicle => vehicle.Type == type)
+            .Any(vehicle => uri.Equals(vehicle.Route, StringComparison.OrdinalIgnoreCase));
     }
 
     private void ToggleMobilePlanets()
@@ -1465,6 +1687,7 @@
         openMilitaryBranchKey = openMilitaryBranchKey == key ? null : key;
         openMilitaryFactionSlug = factionSlug;
         openMilitaryVehicleBranchKey = null;
+        openAllMilitaryUnitsDirectoryBranchKey = null;
     }
 
     private void ToggleMilitaryVehicleBranch(string factionSlug, MilitaryVehicleType type)
@@ -1473,6 +1696,7 @@
         openMilitaryVehicleBranchKey = openMilitaryVehicleBranchKey == key ? null : key;
         openMilitaryFactionSlug = factionSlug;
         openMilitaryBranchKey = null;
+        openAllMilitaryUnitsDirectoryBranchKey = null;
     }
 
     private void CloseMilitaryVehicleBranch(string factionSlug, MilitaryVehicleType type)
@@ -1620,6 +1844,11 @@
         if (except != nameof(mobileMilitaryUnitsOpen))
         {
             mobileMilitaryUnitsOpen = false;
+            allMilitaryUnitsDirectoryOpen = false;
+            openAllMilitaryUnitsDirectoryBranchKey = null;
+            openMilitaryFactionSlug = null;
+            openMilitaryBranchKey = null;
+            openMilitaryVehicleBranchKey = null;
         }
 
         if (except != nameof(mobilePlanetsOpen))
@@ -1702,6 +1931,8 @@
     private void CloseMobileMilitaryUnits()
     {
         mobileMilitaryUnitsOpen = false;
+        allMilitaryUnitsDirectoryOpen = false;
+        openAllMilitaryUnitsDirectoryBranchKey = null;
         openMilitaryFactionSlug = null;
         openMilitaryBranchKey = null;
         openMilitaryVehicleBranchKey = null;
@@ -1783,6 +2014,11 @@
         mobileJediOpen = false;
         mobileSithOpen = false;
         mobileMilitaryUnitsOpen = false;
+        allMilitaryUnitsDirectoryOpen = false;
+        openAllMilitaryUnitsDirectoryBranchKey = null;
+        openMilitaryFactionSlug = null;
+        openMilitaryBranchKey = null;
+        openMilitaryVehicleBranchKey = null;
         mobilePlanetsOpen = false;
         mobileShipsOpen = false;
         mobileSpeciesOpen = false;

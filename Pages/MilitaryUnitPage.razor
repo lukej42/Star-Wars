@@ -65,6 +65,32 @@ else
                     }
                 </div>
             </section>
+            @if (GroundVehicles.Count > 0)
+            {
+                <section class="force-powers-category">
+                    <h2>Ground Craft</h2>
+                    <p class="all-planets-intro"><a href="@faction.GroundRoute">View all @GroundVehicles.Count ground craft</a></p>
+                    <div class="planet-directory-grid">
+                        @foreach (var vehicle in GroundVehicles.Take(6))
+                        {
+                            @RenderVehicleCard(vehicle)
+                        }
+                    </div>
+                </section>
+            }
+            @if (AirVehicles.Count > 0)
+            {
+                <section class="force-powers-category">
+                    <h2>Air Craft</h2>
+                    <p class="all-planets-intro"><a href="@faction.AirRoute">View all @AirVehicles.Count air craft</a></p>
+                    <div class="planet-directory-grid">
+                        @foreach (var vehicle in AirVehicles.Take(6))
+                        {
+                            @RenderVehicleCard(vehicle)
+                        }
+                    </div>
+                </section>
+            }
         }
         else
         {
@@ -116,6 +142,8 @@ else
     private string searchQuery = string.Empty;
     private IReadOnlyList<MilitaryUnit> ArmyUnits = [];
     private IReadOnlyList<MilitaryUnit> NavyUnits = [];
+    private IReadOnlyList<MilitaryVehicle> GroundVehicles = [];
+    private IReadOnlyList<MilitaryVehicle> AirVehicles = [];
     private IReadOnlyList<MilitaryUnit> DisplayedUnits = [];
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
@@ -187,6 +215,8 @@ else
         branch = ResolveBranch();
         ArmyUnits = faction is null ? [] : MilitaryUnitData.GetArmyUnits(faction.Slug);
         NavyUnits = faction is null ? [] : MilitaryUnitData.GetNavyUnits(faction.Slug);
+        GroundVehicles = faction is null ? [] : VehicleData.GetGround(faction.Slug);
+        AirVehicles = faction is null ? [] : VehicleData.GetAir(faction.Slug);
         DisplayedUnits = branch switch
         {
             MilitaryUnitBranch.Army => ArmyUnits,
@@ -245,6 +275,29 @@ else
         builder.AddContent(13, entry.Branch == MilitaryUnitBranch.Navy && !string.IsNullOrWhiteSpace(entry.NavyClass)
             ? $"{entry.NavyClass} · {entry.UnitType}"
             : entry.UnitType);
+        builder.CloseElement();
+        builder.CloseElement();
+        builder.CloseElement();
+    };
+
+    private RenderFragment RenderVehicleCard(MilitaryVehicle vehicle) => builder =>
+    {
+        builder.OpenElement(0, "article");
+        builder.AddAttribute(1, "class", "planet-directory-card");
+        builder.OpenElement(2, "span");
+        builder.AddAttribute(3, "class", "planet-directory-swatch");
+        builder.AddAttribute(4, "style", $"background-color: {vehicle.Color}");
+        builder.AddAttribute(5, "aria-hidden", "true");
+        builder.CloseElement();
+        builder.OpenElement(6, "div");
+        builder.AddAttribute(7, "class", "planet-directory-details");
+        builder.OpenElement(8, "a");
+        builder.AddAttribute(9, "href", vehicle.Route);
+        builder.AddContent(10, vehicle.Name);
+        builder.CloseElement();
+        builder.OpenElement(11, "p");
+        builder.AddAttribute(12, "class", "planet-region");
+        builder.AddContent(13, vehicle.VehicleClass);
         builder.CloseElement();
         builder.CloseElement();
         builder.CloseElement();

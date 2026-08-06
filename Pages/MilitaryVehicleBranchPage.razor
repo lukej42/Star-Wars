@@ -1,0 +1,115 @@
+@page "/military-units/{FactionSlug}/ground"
+@page "/military-units/{FactionSlug}/air"
+@using StarWars.Data
+@using StarWars.Models
+@inject NavigationManager Navigation
+
+<PageTitle>@ListHeading</PageTitle>
+
+@if (faction is null)
+{
+    <h1>Military vehicle not found</h1>
+    <p>Sorry, there are no records for this faction.</p>
+}
+else
+{
+    <div class="directory-page">
+        <figure class="directory-hero">
+            <img src="@ImageUrls.Resolve(faction.FactionHeroPath)" alt="@listHeroAlt" loading="lazy" />
+        </figure>
+
+        <h1>@ListHeading</h1>
+        <p class="all-planets-intro">@ListIntro</p>
+
+        <DirectoryListSearch Placeholder="@SearchPlaceholder"
+                             ItemLabel="craft"
+                             TotalCount="@Vehicles.Count"
+                             FilteredCount="@FilteredVehicles.Count"
+                             Query="@searchQuery"
+                             QueryChanged="OnSearchChanged" />
+
+        <div class="planet-directory-grid">
+            @foreach (var vehicle in FilteredVehicles)
+            {
+                <article class="planet-directory-card">
+                    <span class="planet-directory-swatch" style="background-color: @vehicle.Color" aria-hidden="true"></span>
+                    <div class="planet-directory-details">
+                        <a href="@vehicle.Route">@vehicle.Name</a>
+                        <p class="planet-region">@vehicle.VehicleClass</p>
+                    </div>
+                </article>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public string FactionSlug { get; set; } = string.Empty;
+
+    private MilitaryUnitFaction? faction;
+    private MilitaryVehicleType? vehicleType;
+    private string searchQuery = string.Empty;
+    private IReadOnlyList<MilitaryVehicle> Vehicles = [];
+
+    private IReadOnlyList<MilitaryVehicle> FilteredVehicles => Vehicles.Where(vehicle =>
+        DirectoryFilter.Matches(searchQuery, vehicle.Name, vehicle.VehicleClass, vehicle.Description)).ToList();
+
+    private string ListHeading => vehicleType switch
+    {
+        MilitaryVehicleType.Ground => $"{faction!.Name} Ground Craft",
+        MilitaryVehicleType.Air => $"{faction!.Name} Air Craft",
+        _ => $"{faction!.Name} Military Vehicles"
+    };
+
+    private string ListIntro => vehicleType switch
+    {
+        MilitaryVehicleType.Ground => $"Ground vehicles, walkers, armor, and transports fielded by {faction!.Name}.",
+        MilitaryVehicleType.Air => $"Starfighters, gunships, bombers, and atmospheric craft of {faction!.Name}.",
+        _ => $"Military vehicles of {faction!.Name}."
+    };
+
+    private string listHeroAlt => vehicleType switch
+    {
+        MilitaryVehicleType.Ground => $"Ground craft of {faction!.Name}",
+        MilitaryVehicleType.Air => $"Air craft of {faction!.Name}",
+        _ => $"Vehicles of {faction!.Name}"
+    };
+
+    private string SearchPlaceholder => vehicleType == MilitaryVehicleType.Air
+        ? "Search air craft by name, class, or type…"
+        : "Search ground craft by name, class, or type…";
+
+    protected override void OnParametersSet()
+    {
+        faction = MilitaryUnitData.GetFactionBySlug(FactionSlug);
+        vehicleType = ResolveVehicleType();
+        Vehicles = faction is null || vehicleType is null
+            ? []
+            : vehicleType == MilitaryVehicleType.Ground
+                ? VehicleData.GetGround(faction.Slug)
+                : VehicleData.GetAir(faction.Slug);
+        searchQuery = string.Empty;
+    }
+
+    private MilitaryVehicleType? ResolveVehicleType()
+    {
+        var segments = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Split('/', StringSplitOptions.RemoveEmptyEntries);
+        if (segments.Length >= 3 && segments[0].Equals("military-units", StringComparison.OrdinalIgnoreCase))
+        {
+            if (segments[2].Equals("ground", StringComparison.OrdinalIgnoreCase))
+            {
+                return MilitaryVehicleType.Ground;
+            }
+
+            if (segments[2].Equals("air", StringComparison.OrdinalIgnoreCase))
+            {
+                return MilitaryVehicleType.Air;
+            }
+        }
+
+        return null;
+    }
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

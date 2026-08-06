@@ -1,23 +1,34 @@
 @page "/all-military-units"
+@page "/all-military-units/ground"
+@page "/all-military-units/air"
 @using StarWars.Data
+@using StarWars.Models
+@inject NavigationManager Navigation
 
-<PageTitle>All Military Unit Factions</PageTitle>
+<PageTitle>@PageHeading</PageTitle>
 
 <div class="directory-page">
     <figure class="directory-hero">
         <img src="@ImageUrls.Resolve("/images/military-units/military-units-directory-hero.webp")" alt="Armies and fleets of the galaxy arrayed beneath battle-worn banners" loading="lazy" />
     </figure>
 
-    <h1>All Factions</h1>
-    <p class="all-planets-intro">
-        @MilitaryUnitData.Factions.Count military factions and their units from the saga films, series,
-        <em>Knights of the Old Republic</em>, and the Old Sith Empire.
-    </p>
+    <h1>@PageHeading</h1>
+    <p class="all-planets-intro">@PageIntro</p>
 
-    <DirectoryListSearch Placeholder="Search factions or military units…"
-                         ItemLabel="factions"
-                         TotalCount="@MilitaryUnitData.Factions.Count"
-                         FilteredCount="@FilteredFactions.Count"
+    @if (vehicleType is null)
+    {
+        <p class="all-planets-intro">
+            Browse all factions or filter by craft type:
+            <a href="all-military-units">All Factions</a> ·
+            <a href="all-military-units/ground">All Ground Craft</a> ·
+            <a href="all-military-units/air">All Air Craft</a>
+        </p>
+    }
+
+    <DirectoryListSearch Placeholder="@SearchPlaceholder"
+                         ItemLabel="@SearchItemLabel"
+                         TotalCount="@SearchTotalCount"
+                         FilteredCount="@SearchFilteredCount"
                          Query="@searchQuery"
                          QueryChanged="OnSearchChanged" />
 
@@ -25,45 +36,136 @@
     {
         var armyUnits = MilitaryUnitData.GetArmyUnits(faction.Slug);
         var navyUnits = MilitaryUnitData.GetNavyUnits(faction.Slug);
-        <section class="force-powers-category">
-            <figure class="directory-hero">
-                <img src="@ImageUrls.Resolve(faction.FactionHeroPath)" alt="@($"Military forces of {faction.Name}")" loading="lazy" />
-            </figure>
-            <h2><a href="@faction.Route">@faction.Name</a></h2>
-            <p class="all-planets-intro">
-                @armyUnits.Count army · @navyUnits.Count navy ·
-                <a href="@faction.Route">All units</a> ·
-                <a href="@faction.ArmyRoute">Army</a> ·
-                <a href="@faction.NavyRoute">Navy</a>
-            </p>
-            <div class="planet-directory-grid">
-                @foreach (var unit in armyUnits.Take(3))
+        var groundVehicles = VehicleData.GetGround(faction.Slug);
+        var airVehicles = VehicleData.GetAir(faction.Slug);
+
+        @if (vehicleType is null)
+        {
+            <section class="force-powers-category">
+                <figure class="directory-hero">
+                    <img src="@ImageUrls.Resolve(faction.FactionHeroPath)" alt="@($"Military forces of {faction.Name}")" loading="lazy" />
+                </figure>
+                <h2><a href="@faction.Route">@faction.Name</a></h2>
+                <p class="all-planets-intro">
+                    @armyUnits.Count army · @navyUnits.Count navy · @groundVehicles.Count ground · @airVehicles.Count air ·
+                    <a href="@faction.Route">All units</a> ·
+                    <a href="@faction.ArmyRoute">All Army Units</a> ·
+                    <a href="@faction.NavyRoute">All Navy Units</a> ·
+                    <a href="@faction.GroundRoute">All Ground Craft</a> ·
+                    <a href="@faction.AirRoute">All Air Craft</a>
+                </p>
+                @if (armyUnits.Count > 0)
                 {
-                    <article class="planet-directory-card">
-                        <span class="planet-directory-swatch" style="background-color: @unit.Color" aria-hidden="true"></span>
-                        <div class="planet-directory-details">
-                            <a href="@unit.Route">@unit.Name</a>
-                            <p class="planet-region">Army · @unit.UnitType</p>
-                        </div>
-                    </article>
+                    <h3 class="all-planets-intro">Army · <a href="@faction.ArmyRoute">View all</a></h3>
+                    <div class="planet-directory-grid">
+                        @foreach (var unit in armyUnits.Take(3))
+                        {
+                            @RenderUnitCard(unit.Name, unit.Route, unit.Color, unit.UnitType)
+                        }
+                    </div>
                 }
-                @foreach (var unit in navyUnits.Take(3))
+                @if (navyUnits.Count > 0)
                 {
-                    <article class="planet-directory-card">
-                        <span class="planet-directory-swatch" style="background-color: @unit.Color" aria-hidden="true"></span>
-                        <div class="planet-directory-details">
-                            <a href="@unit.Route">@unit.Name</a>
-                            <p class="planet-region">Navy · @(unit.NavyClass ?? unit.UnitType)</p>
-                        </div>
-                    </article>
+                    <h3 class="all-planets-intro">Navy · <a href="@faction.NavyRoute">View all</a></h3>
+                    <div class="planet-directory-grid">
+                        @foreach (var unit in navyUnits.Take(3))
+                        {
+                            @RenderUnitCard(unit.Name, unit.Route, unit.Color, unit.NavyClass ?? unit.UnitType)
+                        }
+                    </div>
                 }
-            </div>
-        </section>
+                @if (groundVehicles.Count > 0)
+                {
+                    <h3 class="all-planets-intro">Ground Craft · <a href="@faction.GroundRoute">View all</a></h3>
+                    <div class="planet-directory-grid">
+                        @foreach (var vehicle in groundVehicles.Take(3))
+                        {
+                            @RenderUnitCard(vehicle.Name, vehicle.Route, vehicle.Color, vehicle.VehicleClass)
+                        }
+                    </div>
+                }
+                @if (airVehicles.Count > 0)
+                {
+                    <h3 class="all-planets-intro">Air Craft · <a href="@faction.AirRoute">View all</a></h3>
+                    <div class="planet-directory-grid">
+                        @foreach (var vehicle in airVehicles.Take(3))
+                        {
+                            @RenderUnitCard(vehicle.Name, vehicle.Route, vehicle.Color, vehicle.VehicleClass)
+                        }
+                    </div>
+                }
+            </section>
+        }
+        else
+        {
+            var vehicles = vehicleType == MilitaryVehicleType.Ground ? groundVehicles : airVehicles;
+            var filteredVehicles = vehicles.Where(vehicle =>
+                DirectoryFilter.Matches(searchQuery, vehicle.Name, vehicle.VehicleClass, vehicle.Description)).ToList();
+
+            if (filteredVehicles.Count == 0)
+            {
+                continue;
+            }
+
+            <section class="force-powers-category">
+                <h2><a href="@(vehicleType == MilitaryVehicleType.Ground ? faction.GroundRoute : faction.AirRoute)">@faction.Name</a></h2>
+                <p class="all-planets-intro">
+                    @filteredVehicles.Count @(vehicleType == MilitaryVehicleType.Ground ? "ground craft" : "air craft") ·
+                    <a href="@faction.Route">All units</a> ·
+                    <a href="@faction.ArmyRoute">Army</a> ·
+                    <a href="@faction.NavyRoute">Navy</a> ·
+                    <a href="@faction.GroundRoute">Ground Craft</a> ·
+                    <a href="@faction.AirRoute">Air Craft</a>
+                </p>
+                <div class="planet-directory-grid">
+                    @foreach (var vehicle in filteredVehicles)
+                    {
+                        @RenderUnitCard(vehicle.Name, vehicle.Route, vehicle.Color, vehicle.VehicleClass)
+                    }
+                </div>
+            </section>
+        }
     }
 </div>
 
 @code {
     private string searchQuery = string.Empty;
+    private MilitaryVehicleType? vehicleType;
+
+    private string PageHeading => vehicleType switch
+    {
+        MilitaryVehicleType.Ground => "All Ground Craft",
+        MilitaryVehicleType.Air => "All Air Craft",
+        _ => "All Factions"
+    };
+
+    private string PageIntro => vehicleType switch
+    {
+        MilitaryVehicleType.Ground => "Ground vehicles, walkers, armor, and transports across all military factions.",
+        MilitaryVehicleType.Air => "Starfighters, gunships, bombers, and atmospheric craft across all military factions.",
+        _ => $"{MilitaryUnitData.Factions.Count} military factions and their units from the saga films, series, Knights of the Old Republic, and the Old Sith Empire."
+    };
+
+    private string SearchPlaceholder => vehicleType switch
+    {
+        MilitaryVehicleType.Ground => "Search ground craft by name, faction, or class…",
+        MilitaryVehicleType.Air => "Search air craft by name, faction, or class…",
+        _ => "Search factions or military units…"
+    };
+
+    private string SearchItemLabel => vehicleType is null ? "factions" : "craft";
+
+    private int SearchTotalCount => vehicleType is null
+        ? MilitaryUnitData.Factions.Count
+        : VehicleData.Vehicles.Count(vehicle => vehicle.Type == vehicleType);
+
+    private int SearchFilteredCount => vehicleType is null
+        ? FilteredFactions.Count
+        : FilteredFactions.Sum(faction =>
+            (vehicleType == MilitaryVehicleType.Ground
+                ? VehicleData.GetGround(faction.Slug)
+                : VehicleData.GetAir(faction.Slug))
+            .Count(vehicle => DirectoryFilter.Matches(searchQuery, vehicle.Name, vehicle.VehicleClass, vehicle.Description, faction.Name)));
 
     private IReadOnlyList<MilitaryUnitFaction> FilteredFactions =>
         MilitaryUnitData.Factions.Where(faction =>
@@ -74,9 +176,56 @@
             }
 
             var units = MilitaryUnitData.GetUnitsForFaction(faction.Slug);
+            var vehicles = VehicleData.GetByFaction(faction.Slug);
             return DirectoryFilter.Matches(searchQuery, faction.Name)
-                || units.Any(unit => DirectoryFilter.Matches(searchQuery, unit.Name, unit.UnitType, unit.Description));
+                || units.Any(unit => DirectoryFilter.Matches(searchQuery, unit.Name, unit.UnitType, unit.Description))
+                || vehicles.Any(vehicle => DirectoryFilter.Matches(searchQuery, vehicle.Name, vehicle.VehicleClass, vehicle.Description));
         }).ToList();
 
+    protected override void OnParametersSet()
+    {
+        vehicleType = ResolveVehicleType();
+        searchQuery = string.Empty;
+    }
+
+    private MilitaryVehicleType? ResolveVehicleType()
+    {
+        var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+        if (uri.Equals("all-military-units/ground", StringComparison.OrdinalIgnoreCase))
+        {
+            return MilitaryVehicleType.Ground;
+        }
+
+        if (uri.Equals("all-military-units/air", StringComparison.OrdinalIgnoreCase))
+        {
+            return MilitaryVehicleType.Air;
+        }
+
+        return null;
+    }
+
     private void OnSearchChanged(string query) => searchQuery = query;
+
+    private RenderFragment RenderUnitCard(string name, string route, string color, string subtitle) => builder =>
+    {
+        builder.OpenElement(0, "article");
+        builder.AddAttribute(1, "class", "planet-directory-card");
+        builder.OpenElement(2, "span");
+        builder.AddAttribute(3, "class", "planet-directory-swatch");
+        builder.AddAttribute(4, "style", $"background-color: {color}");
+        builder.AddAttribute(5, "aria-hidden", "true");
+        builder.CloseElement();
+        builder.OpenElement(6, "div");
+        builder.AddAttribute(7, "class", "planet-directory-details");
+        builder.OpenElement(8, "a");
+        builder.AddAttribute(9, "href", route);
+        builder.AddContent(10, name);
+        builder.CloseElement();
+        builder.OpenElement(11, "p");
+        builder.AddAttribute(12, "class", "planet-region");
+        builder.AddContent(13, subtitle);
+        builder.CloseElement();
+        builder.CloseElement();
+        builder.CloseElement();
+    };
 }

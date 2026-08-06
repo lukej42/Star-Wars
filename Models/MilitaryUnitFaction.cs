@@ -11,6 +11,10 @@ public sealed class MilitaryUnitFaction
 
     public string NavyRoute => $"{Route}/navy";
 
+    public string GroundRoute => $"{Route}/ground";
+
+    public string AirRoute => $"{Route}/air";
+
     public string ArmyHeroPath => $"/images/military-units/{Slug}-army-hero.webp";
 
     public string NavyHeroPath => $"/images/military-units/{Slug}-navy-hero.webp";

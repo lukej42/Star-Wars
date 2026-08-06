@@ -65,45 +65,66 @@
             _onMouseLeave: null,
             _onFlyoutOver: null,
             _onFlyoutOut: null,
+            _onFlyoutPosition: null,
             _flyoutCloseDelayMs: 280,
 
             init() {
                 if (!this._initialized) {
-                    this._onMouseEnter = (event) => {
-                        const bottomFlyout = event.target.closest('.nav-flyout-bottom');
-                        if (!bottomFlyout) {
-                            return;
-                        }
+                this._onMouseEnter = (event) => {
+                    const bottomFlyout = event.target.closest('.nav-flyout-bottom');
+                    if (!bottomFlyout) {
+                        return;
+                    }
 
+                    const mainMenu = bottomFlyout.querySelector(':scope > .nav-flyout-menu');
+                    if (mainMenu && (event.target === bottomFlyout || mainMenu.contains(event.target) || bottomFlyout.querySelector('.nav-flyout-trigger')?.contains(event.target))) {
+                        this.adjustBottomFlyout(mainMenu);
+                    }
+
+                    const subflyout = event.target.closest('.nav-flyout-bottom .nav-subflyout');
+                    if (subflyout && bottomFlyout.contains(subflyout)) {
+                        this.adjustSubflyout(subflyout);
+                    }
+
+                    this.repositionBottomFlyouts(event.target);
+                };
+
+                this._onMouseLeave = (event) => {
+                    const subflyout = event.target.closest('.nav-flyout-bottom .nav-subflyout');
+                    if (subflyout && !subflyout.contains(event.relatedTarget)) {
+                        this.resetSubflyout(subflyout);
+                    }
+
+                    const bottomFlyout = event.target.closest('.nav-flyout-bottom');
+                    if (bottomFlyout && !bottomFlyout.contains(event.relatedTarget)) {
                         const mainMenu = bottomFlyout.querySelector(':scope > .nav-flyout-menu');
-                        if (mainMenu && (event.target === bottomFlyout || mainMenu.contains(event.target) || bottomFlyout.querySelector('.nav-flyout-trigger')?.contains(event.target))) {
+                        if (mainMenu) {
+                            this.resetBottomFlyout(mainMenu);
+                        }
+                    }
+                };
+
+                this._onFlyoutPosition = () => {
+                    if (!window.matchMedia('(min-width: 641px)').matches) {
+                        return;
+                    }
+
+                    document.querySelectorAll('.nav-flyout-bottom').forEach((bottomFlyout) => {
+                        const mainMenu = bottomFlyout.querySelector(':scope > .nav-flyout-menu');
+                        if (mainMenu && (bottomFlyout.matches(':hover') || mainMenu.matches(':hover'))) {
                             this.adjustBottomFlyout(mainMenu);
                         }
 
-                        const subflyout = event.target.closest('.nav-flyout-bottom .nav-subflyout');
-                        if (subflyout && bottomFlyout.contains(subflyout)) {
+                        bottomFlyout.querySelectorAll('.nav-subflyout:hover').forEach((subflyout) => {
                             this.adjustSubflyout(subflyout);
-                        }
-                    };
+                        });
+                    });
+                };
 
-                    this._onMouseLeave = (event) => {
-                        const subflyout = event.target.closest('.nav-flyout-bottom .nav-subflyout');
-                        if (subflyout && !subflyout.contains(event.relatedTarget)) {
-                            this.resetSubflyout(subflyout);
-                        }
-
-                        const bottomFlyout = event.target.closest('.nav-flyout-bottom');
-                        if (bottomFlyout && !bottomFlyout.contains(event.relatedTarget)) {
-                            const mainMenu = bottomFlyout.querySelector(':scope > .nav-flyout-menu');
-                            if (mainMenu) {
-                                this.resetBottomFlyout(mainMenu);
-                            }
-                        }
-                    };
-
-                    document.addEventListener('mouseover', this._onMouseEnter);
-                    document.addEventListener('mouseout', this._onMouseLeave);
-                    this._initialized = true;
+                document.addEventListener('mouseover', this._onMouseEnter);
+                document.addEventListener('mouseout', this._onMouseLeave);
+                window.addEventListener('resize', this._onFlyoutPosition);
+                this._initialized = true;
                 }
 
                 this.initDesktopFlyouts();
@@ -295,9 +316,33 @@
 
                 document.removeEventListener('mouseover', this._onMouseEnter);
                 document.removeEventListener('mouseout', this._onMouseLeave);
+                if (this._onFlyoutPosition) {
+                    window.removeEventListener('resize', this._onFlyoutPosition);
+                }
                 this._onMouseEnter = null;
                 this._onMouseLeave = null;
+                this._onFlyoutPosition = null;
                 this._initialized = false;
+            },
+
+            repositionBottomFlyouts(target) {
+                if (!window.matchMedia('(min-width: 641px)').matches) {
+                    return;
+                }
+
+                const bottomFlyout = target?.closest?.('.nav-flyout-bottom');
+                if (!bottomFlyout) {
+                    return;
+                }
+
+                const mainMenu = bottomFlyout.querySelector(':scope > .nav-flyout-menu');
+                if (mainMenu) {
+                    this.adjustBottomFlyout(mainMenu);
+                }
+
+                bottomFlyout.querySelectorAll('.nav-subflyout:hover').forEach((subflyout) => {
+                    this.adjustSubflyout(subflyout);
+                });
             },
 
             adjustBottomFlyout(menuEl) {
@@ -318,11 +363,20 @@
                 panel.style.overflowY = '';
                 panel.scrollTop = 0;
 
-                if (panel.querySelector('.nav-subflyout')) {
+                const flyout = menuEl.closest('.nav-flyout');
+                const trigger = flyout?.querySelector(':scope > .nav-flyout-trigger');
+                const triggerRect = trigger?.getBoundingClientRect();
+                const availableHeight = triggerRect
+                    ? triggerRect.bottom - margin
+                    : window.innerHeight - margin * 2;
+
+                if (panel.classList.contains('nav-flyout-panel-subflyouts') || panel.querySelector('.nav-subflyout')) {
+                    panel.style.maxHeight = '';
+                    panel.style.overflowY = '';
+                    panel.style.overflowX = '';
                     return;
                 }
 
-                const availableHeight = panel.getBoundingClientRect().bottom - margin;
                 panel.style.maxHeight = `${Math.max(240, Math.min(availableHeight, window.innerHeight * 0.7))}px`;
                 panel.style.overflowY = 'auto';
                 panel.scrollTop = 0;
@@ -375,7 +429,10 @@
                     return;
                 }
 
-                if (panel.querySelector('.nav-subflyout')) {
+                if (panel.querySelector('.nav-subflyout') || panel.classList.contains('nav-flyout-panel-subflyouts')) {
+                    panel.style.maxHeight = '';
+                    panel.style.overflowY = '';
+                    panel.style.overflowX = '';
                     return;
                 }
 
