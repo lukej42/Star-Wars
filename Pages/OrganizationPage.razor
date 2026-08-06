@@ -24,16 +24,33 @@ else
                           HeroImageAlt="@($"Cinematic illustration of {organization.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@organization.Group"
+                          MetaLine="@BuildMetaLine()"
                           OverviewText="@(profile?.Overview ?? organization.Description)"
                           HistoryText="@(profile?.History ?? string.Empty)"
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
                           SignificanceHeading="Influence and galactic impact"
                           NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          MajorEvents="@(profile?.MajorEvents ?? Array.Empty<ProfileLinkedEvent>())"
+                          KeyFactions="@(profile?.KeyFactions ?? Array.Empty<ProfileLinkItem>())"
+                          MajorCharacters="@(profile?.MajorCharacters ?? Array.Empty<ProfileLinkItem>())"
+                          JediFallen="@(profile?.JediFallen ?? Array.Empty<ProfileLinkItem>())"
+                          JediSurvived="@(profile?.JediSurvived ?? Array.Empty<ProfileLinkItem>())"
+                          Planets="@(profile?.Planets ?? Array.Empty<ProfileLinkItem>())"
+                          Ships="@(profile?.Ships ?? Array.Empty<ProfileLinkItem>())"
+                          Films="@(profile?.Films ?? Array.Empty<string>())"
+                          Series="@(profile?.Series ?? Array.Empty<string>())"
+                          Games="@(profile?.Games ?? Array.Empty<string>())"
+                          Books="@(profile?.Books ?? Array.Empty<string>())"
                           Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
                           Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
                           Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          HomePlanet="@homePlanet"
+                          HeadOfGovernment="@profile?.HeadOfGovernment"
+                          HeadOfState="@profile?.HeadOfState"
+                          Government="@profile?.Government"
                           MemberOfFaction="@memberOfFaction"
                           ParentOrganization="@parentOrganization"
+                          MemberOrganizations="@memberOrganizations"
                           AccentColor="@organization.Color">
         <a href="all-organizations">Back to all organizations</a>
     </DirectoryDetailShell>
@@ -49,7 +66,9 @@ else
     private bool profileLoaded;
     private ProfileLinkItem? memberOfFaction;
     private ProfileLinkItem? parentOrganization;
+    private ProfileLinkItem? homePlanet;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
+    private IReadOnlyList<ProfileLinkItem> memberOrganizations = [];
 
     protected override async Task OnParametersSetAsync()
     {
@@ -58,7 +77,9 @@ else
         profile = null;
         memberOfFaction = null;
         parentOrganization = null;
+        homePlanet = null;
         crossLinks = [];
+        memberOrganizations = [];
 
         if (organization is not null)
         {
@@ -68,8 +89,27 @@ else
                 organization.ParentFactionSlug,
                 organization.ParentFactionLabel);
             parentOrganization = OrganizationLinks.FromParentOrganization(organization.ParentOrganizationSlug);
+
+            if (organization.IsCategoryHub)
+            {
+                memberOrganizations = OrganizationData.GetChildren(organization.Slug)
+                    .Select(OrganizationLinks.ToLink)
+                    .ToList();
+            }
+
+            homePlanet = profile?.Planets.FirstOrDefault();
         }
 
         profileLoaded = true;
+    }
+
+    private string BuildMetaLine()
+    {
+        if (profile is null || string.IsNullOrWhiteSpace(profile.DateRange))
+        {
+            return organization?.Group ?? string.Empty;
+        }
+
+        return $"Active: {profile.DateRange} · {organization?.Group}";
     }
 }

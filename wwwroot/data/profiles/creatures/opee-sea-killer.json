@@ -1,0 +1,57 @@
+{
+  "overview": "The Opee Sea Killer is a distinctive species of the ocean & aquatic biome, native to Naboo. Chitinous ambush predator with extensible tongue-lure that hunts the Naboo abyssal zones beneath Gungan hydrostatic shields. Across the saga films, live-action series, and animated chronicles, opee sea killer specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify opee sea killer populations across Naboo within the broader ocean & aquatic ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document opee sea killer interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, opee sea killer often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Naboo abyss.** Opee sea killers ambushed underwater craft with extensible tongue-lures in the teal depths beneath Gungan shields.\n\nConservationists debate protection status for opee sea killer on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Opee Sea Killer enriches the ocean & aquatic identity of Naboo within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the opee sea killer remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, opee sea killer entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Naboo in ocean & aquatic surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Chitinous ambush predator with extensible tongue-lure that hunts the Naboo abyssal zones beneath Gungan hydrostatic shie",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Ocean & Aquatic"
+  ],
+  "affiliations": [
+    "Ocean & Aquatic",
+    "Naboo",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued opee sea killer on Naboo"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded opee sea killer encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened opee sea killer habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for opee sea killer populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Naboo",
+      "route": "naboo"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/opee-sea-killer-scene.webp",
+      "caption": "Cinematic habitat portrait — Opee Sea Killer"
+    }
+  ]
+}

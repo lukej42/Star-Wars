@@ -1,0 +1,74 @@
+{
+  "overview": "The Nexu is a distinctive species of the jungle & forest biome, native to Cholganna. Quadruped arena killers with quilled backs and leaping strikes, deployed in Geonosis gladiatorial executions during the Clone Wars. Across the saga films, live-action series, and animated chronicles, nexu specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify nexu populations across Cholganna within the broader jungle & forest ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document nexu interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, nexu often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Geonosis arena.** Nexu were unleashed against Padmé Amidala, Anakin Skywalker, and Obi-Wan Kenobi in the Petranaki arena during the First Battle of Geonosis — their quilled backs and leaping strikes nearly killed the Senator before Jedi intervention.\n\nConservationists debate protection status for nexu on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Nexu enriches the jungle & forest identity of Cholganna within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the nexu remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, nexu entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Cholganna in jungle & forest surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Quadruped arena killers with quilled backs and leaping strikes, deployed in Geonosis gladiatorial executions during the ",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Jungle & Forest"
+  ],
+  "affiliations": [
+    "Jungle & Forest",
+    "Cholganna",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued nexu on Cholganna"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded nexu encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened nexu habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for nexu populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Cholganna",
+      "route": "planet/cholganna"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/nexu-scene.webp",
+      "caption": "Cinematic habitat portrait — Nexu"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Padmé Amidala",
+      "route": "characters/padme-amidala"
+    },
+    {
+      "label": "Character",
+      "value": "Anakin Skywalker",
+      "route": "characters/anakin-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Obi-Wan Kenobi",
+      "route": "characters/obi-wan-kenobi"
+    }
+  ]
+}

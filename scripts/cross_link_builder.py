@@ -15,11 +15,22 @@ from chronicle_entity_links import (
 )
 from entity_associations import factions_for_entity, inference_text, is_generic_profile
 from related_archive_overrides import RELATED_ARCHIVE_OVERRIDES
+from ship_related_archives import (
+    ERA_PLANET_HINTS,
+    SHIP_ALIASES,
+    SHIP_BATTLE_LINKS,
+    SHIP_COLOR_FACTION,
+    SHIP_OVERRIDES,
+    person_label,
+)
+from organization_related_archives import FACTION_LABELS as ORG_FACTION_LABELS, ORG_OVERRIDES
 from parse_csharp_data import (
     all_directory_entries,
+    load_category,
     load_characters,
     load_factions,
     load_planets,
+    normalize,
 )
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -360,6 +371,7 @@ class CrossLinkIndexes:
         self.species_by_norm: dict[str, dict[str, str]] = {}
         self.factions: list[dict[str, str]] = []
         self.ships: list[dict[str, str]] = []
+        self.organizations: list[dict[str, str]] = []
         self.ship_by_norm: dict[str, dict[str, str]] = {}
         self.people: list[tuple[str, dict[str, str]]] = []
         self.people_by_norm: dict[str, tuple[str, dict[str, str]]] = {}
@@ -388,6 +400,7 @@ class CrossLinkIndexes:
         self.species = all_directory_entries()["species"]
         self.factions = load_factions()
         self.ships = all_directory_entries()["ships"]
+        self.organizations = [normalize(entry) for entry in load_category("OrganizationData.cs")]
         self.settlements = all_directory_entries()["settlements"]
         self.powers = all_directory_entries()["force-powers"]
         self.forms = self._load_forms()
@@ -434,6 +447,7 @@ class CrossLinkIndexes:
             "planets",
             "factions",
             "force-powers",
+            "organizations",
         ):
             self.profiles[category] = self._load_profiles(category)
 
@@ -666,6 +680,17 @@ class CrossLinkIndexes:
         for planet in sorted(self.planets, key=lambda p: len(p["name"]), reverse=True):
             norm = self._norm(planet["name"])
             if norm and norm in text and planet["route"] not in seen:
+                found.append(planet)
+                seen.add(planet["route"])
+        return found
+
+    def _match_planets_bounded(self, text: str) -> list[dict[str, str]]:
+        padded = f" {self._norm(text)} "
+        found: list[dict[str, str]] = []
+        seen: set[str] = set()
+        for planet in sorted(self.planets, key=lambda p: len(p["name"]), reverse=True):
+            norm = self._norm(planet["name"])
+            if norm and f" {norm} " in padded and planet["route"] not in seen:
                 found.append(planet)
                 seen.add(planet["route"])
         return found
@@ -917,6 +942,119 @@ class CrossLinkIndexes:
 
         return finalize_links(links)
 
+    def links_for_ship(self, ship: dict[str, str]) -> list[dict[str, str]]:
+        slug = ship["slug"]
+        profile = self.profiles.get("ships", {}).get(slug, {})
+        text = self._profile_text(profile, ship)
+        description = ship.get("description", "")
+        combined = f"{text} {description}".lower()
+        links: list[dict[str, str]] = []
+        seen: set[str] = set()
+
+        for label, value, route in SHIP_OVERRIDES.get(slug, []):
+            self.add_link(links, seen, label, value, route)
+
+        color = ship.get("color", "")
+        if color in SHIP_COLOR_FACTION:
+            label, value, route = SHIP_COLOR_FACTION[color]
+            self.add_link(links, seen, label, value, route)
+
+        battle = SHIP_BATTLE_LINKS.get(slug)
+        if battle:
+            self.add_link(links, seen, *battle)
+
+        for battle in self._match_battles(combined):
+            self.add_link(links, seen, "Battle", battle["name"], battle["route"])
+
+        for _keyword, label, value, route in ERA_PLANET_HINTS:
+            if re.search(rf"\b{re.escape(_keyword)}\b", combined):
+                self.add_link(links, seen, label, value, route)
+
+        for planet in self._match_planets_bounded(combined):
+            self.add_link(links, seen, "Planet", planet["name"], planet["route"])
+
+        search_terms = {
+            self._norm(ship["name"]),
+            self._norm(ship["slug"].replace("-", " ")),
+        }
+        for alias in SHIP_ALIASES.get(slug, []):
+            search_terms.add(self._norm(alias))
+
+        for person_cat, person in self.people:
+            person_text = self._profile_text(
+                self.profiles.get(person_cat, {}).get(person["slug"], {}), person
+            )
+            person_norm = self._norm(person_text)
+            if any(term and len(term) > 3 and term in person_norm for term in search_terms):
+                self.add_link(links, seen, person_label(person_cat), person["name"], person["route"])
+
+        for person_cat, person in self._match_people_in_text(combined):
+            self.add_link(links, seen, person_label(person_cat), person["name"], person["route"])
+
+        self.add_affiliations(links, seen, profile)
+
+        for label, value, route in RELATED_ARCHIVE_OVERRIDES.get(("ships", slug), []):
+            self.add_link(links, seen, label, value, route)
+
+        return finalize_links(links)[:MAX_LINKS]
+
+    def links_for_organization(self, org: dict[str, str]) -> list[dict[str, str]]:
+        slug = org["slug"]
+        profile = self.profiles.get("organizations", {}).get(slug, {})
+        text = self._profile_text(profile, org)
+        description = org.get("description", "")
+        combined = f"{text} {description}".lower()
+        links: list[dict[str, str]] = []
+        seen: set[str] = set()
+
+        for label, value, route in ORG_OVERRIDES.get(slug, []):
+            self.add_link(links, seen, label, value, route)
+
+        parent_faction = org.get("parentFactionSlug")
+        if parent_faction and parent_faction in ORG_FACTION_LABELS:
+            self.add_link(links, seen, *ORG_FACTION_LABELS[parent_faction])
+
+        parent_org = org.get("parentOrganizationSlug")
+        if parent_org:
+            parent = next((item for item in self.organizations if item["slug"] == parent_org), None)
+            if parent:
+                self.add_link(links, seen, "Organization", parent["name"], parent["route"])
+
+        for key, default_label in (
+            ("majorCharacters", "Character"),
+            ("planets", "Planet"),
+            ("keyFactions", "Faction"),
+            ("ships", "Ship"),
+        ):
+            for item in profile.get(key, []):
+                label = item.get("label") or default_label
+                self.add_link(links, seen, label, item["value"], item["route"])
+
+        for key in ("headOfState", "headOfGovernment"):
+            item = profile.get(key)
+            if isinstance(item, dict) and item.get("route"):
+                route = item["route"]
+                label = "Jedi" if route.startswith("jedi/") else (
+                    "Sith" if route.startswith("sith/") else "Character"
+                )
+                self.add_link(links, seen, label, item["value"], route)
+
+        for battle in self._match_battles(combined):
+            self.add_link(links, seen, "Battle", battle["name"], battle["route"])
+
+        for planet in self._match_planets_bounded(combined):
+            self.add_link(links, seen, "Planet", planet["name"], planet["route"])
+
+        for person_cat, person in self._match_people_in_text(combined):
+            self.add_link(links, seen, person_label(person_cat), person["name"], person["route"])
+
+        self.add_affiliations(links, seen, profile)
+
+        for label, value, route in RELATED_ARCHIVE_OVERRIDES.get(("organizations", slug), []):
+            self.add_link(links, seen, label, value, route)
+
+        return finalize_links(links)[:MAX_LINKS]
+
     def build_all_entries(self) -> list[dict]:
         entries: list[dict] = []
 
@@ -933,21 +1071,12 @@ class CrossLinkIndexes:
                 entries.append({"category": category, "slug": entry["slug"], "links": links})
 
         for ship in self.ships:
-            profile = self.profiles.get("ships", {}).get(ship["slug"], {})
-            text = self._profile_text(profile, ship)
-            links: list[dict[str, str]] = []
-            seen: set[str] = set()
-            self.add_affiliations(links, seen, profile)
-            for battle in self._match_battles(text):
-                self.add_link(links, seen, "Battle", battle["name"], battle["route"])
-            for person_cat, person in self.people:
-                person_text = self._profile_text(
-                    self.profiles.get(person_cat, {}).get(person["slug"], {}), person
-                )
-                if self._norm(ship["name"]) in person_text or self._norm(ship["slug"]) in person_text:
-                    label = person_cat.rstrip("s").replace("-", " ").title()
-                    self.add_link(links, seen, label, person["name"], person["route"])
-            entries.append({"category": "ships", "slug": ship["slug"], "links": links[:MAX_LINKS]})
+            links = self.links_for_ship(ship)
+            entries.append({"category": "ships", "slug": ship["slug"], "links": links})
+
+        for org in self.organizations:
+            links = self.links_for_organization(org)
+            entries.append({"category": "organizations", "slug": org["slug"], "links": links})
 
         for settlement in self.settlements:
             profile = self.profiles.get("settlements", {}).get(settlement["slug"], {})

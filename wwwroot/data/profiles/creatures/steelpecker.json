@@ -1,0 +1,57 @@
+{
+  "overview": "The Steelpecker is a distinctive species of the urban & industrial biome, native to Jakku. Metallophagic birds whose razor beaks strip wrecked Star Destroyer hulls on Jakku, nesting in the ribs of downed warships. Across the saga films, live-action series, and animated chronicles, steelpecker specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify steelpecker populations across Jakku within the broader urban & industrial ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document steelpecker interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, steelpecker often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Jakku scavenging.** Steelpeckers stripped Star Destroyer ribs on Jakku, nesting in the graveyard fleet that defined Rey's childhood.\n\nConservationists debate protection status for steelpecker on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Steelpecker enriches the urban & industrial identity of Jakku within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the steelpecker remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, steelpecker entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Jakku in urban & industrial surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Metallophagic birds whose razor beaks strip wrecked Star Destroyer hulls on Jakku, nesting in the ribs of downed warship",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Urban & Industrial"
+  ],
+  "affiliations": [
+    "Urban & Industrial",
+    "Jakku",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued steelpecker on Jakku"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded steelpecker encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened steelpecker habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for steelpecker populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Jakku",
+      "route": "jakku"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/steelpecker-scene.webp",
+      "caption": "Cinematic habitat portrait — Steelpecker"
+    }
+  ]
+}

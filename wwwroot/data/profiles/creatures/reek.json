@@ -1,0 +1,69 @@
+{
+  "overview": "The Reek is a distinctive species of the jungle & forest biome, native to Ylesia. Horned charging beasts drugged for arena combat; one famously gored Jango Fett before Anakin Skywalker rode it in the Geonosis arena. Across the saga films, live-action series, and animated chronicles, reek specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify reek populations across Ylesia within the broader jungle & forest ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document reek interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, reek often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Geonosis arena.** A drugged reek gored Jango Fett during the same execution attempt; Anakin Skywalker later rode the beast against arena predators in one of his first wartime improvisations.\n\nConservationists debate protection status for reek on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Reek enriches the jungle & forest identity of Ylesia within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the reek remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, reek entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Ylesia in jungle & forest surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Horned charging beasts drugged for arena combat",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Jungle & Forest"
+  ],
+  "affiliations": [
+    "Jungle & Forest",
+    "Ylesia",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued reek on Ylesia"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded reek encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened reek habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for reek populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ylesia",
+      "route": "planet/ylesia"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/reek-scene.webp",
+      "caption": "Cinematic habitat portrait — Reek"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Anakin Skywalker",
+      "route": "characters/anakin-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Jango Fett",
+      "route": "bounty-hunters/jango-fett"
+    }
+  ]
+}

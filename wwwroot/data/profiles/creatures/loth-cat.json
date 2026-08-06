@@ -1,0 +1,57 @@
+{
+  "overview": "The Loth-Cat is a distinctive species of the grassland & plains biome, native to Lothal. Small feline hunters of Lothal's grasslands whose twitching ears and striped coats make them beloved—and occasionally Force-attuned—companions. Across the saga films, live-action series, and animated chronicles, loth-cat specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify loth-cat populations across Lothal within the broader grassland & plains ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document loth-cat interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, loth-cat often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Lothal grasslands.** Loth-cats hunted rodents near Lothal settlements; some exhibited Force sensitivity tied to the planet's vergence.\n\nConservationists debate protection status for loth-cat on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Loth-Cat enriches the grassland & plains identity of Lothal within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the loth-cat remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, loth-cat entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Lothal in grassland & plains surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Small feline hunters of Lothal's grasslands whose twitching ears and striped coats make them beloved—and occasionally Fo",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Grassland & Plains"
+  ],
+  "affiliations": [
+    "Grassland & Plains",
+    "Lothal",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued loth-cat on Lothal"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded loth-cat encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened loth-cat habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for loth-cat populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Lothal",
+      "route": "planet/lothal"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/loth-cat-scene.webp",
+      "caption": "Cinematic habitat portrait — Loth-Cat"
+    }
+  ]
+}

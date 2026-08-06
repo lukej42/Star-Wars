@@ -1,0 +1,135 @@
+{
+  "dateRange": "Ancient era – present",
+  "overview": "The Pyke Syndicate is a spice cartel native to Oba Diah whose refineries, assassin cadres, and slave-labor contracts dominated the Kessel Run for centuries. Pyke capos treat glitterstim and raw spice as sovereign currency, negotiating with empires, hutts, and smuggler guilds while enforcing territory through masked enforcers and orbital blockades.\n\nDuring the Clone Wars and Imperial eras the Syndicate became indispensable to shadow economies — supplying cartels like Crimson Dawn, hiring hunters such as [Cad Bane](bounty-hunters/cad-bane), and maintaining refineries that Republic law never successfully shut down.",
+  "history": "Pyke evolution on Oba Diah favored hierarchical capo structures and chemical processing guilds that could refine spice faster than competitors could steal shipments. The Syndicate expanded along the Kessel slave routes, partnering with labor brokers who treated prisoners as disposable refinery crews.\n\nJedi investigations into Sifo-Dyas's missing shuttle eventually led [Obi-Wan Kenobi](jedi/obi-wan-kenobi) and [Anakin Skywalker](jedi/anakin-skywalker) to Oba Diah, exposing Pyke cooperation with [Count Dooku](sith/darth-tyranus) and [Darth Sidious](sith/darth-sidious). The Syndicate's willingness to sell Sith secrets for profit revealed how criminal networks could destabilize the Republic from beneath tariff law.\n\nUnder the Empire, Pyke operations persisted through bribed Moff offices and Hutt buffer zones. [Han Solo](characters/han-solo) and [Chewbacca](characters/chewbacca) famously escaped Kessel aboard the Millennium Falcon — a heist that humiliated Pyke labor contractors and inspired spice-runner guild legends.\n\nThe New Republic era saw Pyke syndicates negotiate with [Maul](sith/darth-maul)-aligned Crimson Dawn splinters and later with Imperial remnants. [Cad Bane](bounty-hunters/cad-bane) often operated on Pyke retainers, extracting debts from clients who defaulted on spice loans.\n\n**Key figures and documented associations.** Archives tie Pyke Syndicate operations to [Cad Bane](bounty-hunters/cad-bane), [Han Solo](characters/han-solo), [Chewbacca](characters/chewbacca), [Obi-Wan Kenobi](jedi/obi-wan-kenobi), [Anakin Skywalker](jedi/anakin-skywalker), [Darth Tyranus](sith/darth-tyranus). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Pyke Syndicate contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Oba Diah, Kessel, Tatooine. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Pyke Syndicate agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "The Pyke Syndicate anchors Star Wars underworld economics — connecting slavery, spice, and political corruption in one supply chain. Oba Diah's refineries demonstrate how Outer Rim crime can influence Core wars when Jedi secrets and clone troopers are on the ledger.\n\nPyke iconography — masked enforcers, obsidian spires — remains synonymous with spice violence across films, series, and games.\n\n**Documented across galactic media.** Pyke Syndicate appears in canonical records tied to Star Wars: Episode IV — A New Hope; Star Wars: Episode II — Attack of the Clones; Star Wars: Episode III — Revenge of the Sith; Solo: A Star Wars Story; Star Wars: The Clone Wars; Star Wars: The Mandalorian. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Pyke capos establish Oba Diah as spice refining capital",
+    "Kessel slave-labor routes chartered under Pyke contracts",
+    "Sifo-Dyas shuttle cover-up implicates Pyke leadership",
+    "Obi-Wan and Anakin raid Oba Diah Syndicate vaults",
+    "Han Solo's Kessel Run undermines Pyke smuggling prestige",
+    "Pyke–Crimson Dawn cooperation during Imperial collapse",
+    "Cad Bane executes Pyke retainer contracts across the Rim",
+    "Senate subpoenas request Pyke Syndicate financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Pyke Syndicate investigations without public findings",
+    "Hunter guild contract boards list standing Pyke Syndicate retainer tiers",
+    "New Republic era audits attempt to map post-war Pyke Syndicate shell companies"
+  ],
+  "affiliations": [
+    "Spice refining cartels",
+    "Kessel labor contractors",
+    "Bounty hunter retainer networks",
+    "Shadow ports of the Outer Rim"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Pyke capo dynasties consolidate Oba Diah"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Syndicate implicated in Sifo-Dyas conspiracy"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Kessel operations expand under Imperial corruption"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Han Solo's Kessel Run disrupts Pyke routes"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Syndicate wars with rival Dawn and Hutt interests"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Pyke Syndicate influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/pyke-syndicate-scene.webp",
+      "caption": "Cinematic illustration — Pyke Syndicate"
+    },
+    {
+      "path": "/images/organizations/pyke-syndicate.webp",
+      "caption": "Organization emblem — Pyke Syndicate"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Hutts",
+      "route": "factions/hutts"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Bounty Hunter",
+      "value": "Cad Bane",
+      "route": "bounty-hunters/cad-bane"
+    },
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Character",
+      "value": "Chewbacca",
+      "route": "characters/chewbacca"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Anakin Skywalker",
+      "route": "jedi/anakin-skywalker"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Tyranus",
+      "route": "sith/darth-tyranus"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Oba Diah",
+      "route": "planet/oba-diah"
+    },
+    {
+      "label": "Planet",
+      "value": "Kessel",
+      "route": "planet/kessel"
+    },
+    {
+      "label": "Planet",
+      "value": "Tatooine",
+      "route": "tatooine"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith",
+    "Solo: A Star Wars Story"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Mandalorian"
+  ],
+  "headOfGovernment": {
+    "value": "Pyke Syndicate Council",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Pyke capo families of Oba Diah",
+    "route": ""
+  }
+}

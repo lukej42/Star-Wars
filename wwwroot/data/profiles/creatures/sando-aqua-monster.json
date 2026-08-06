@@ -1,0 +1,57 @@
+{
+  "overview": "The Sando Aqua Monster is a distinctive species of the ocean & aquatic biome, native to Naboo. Titanic leviathan of Naboo's core lakes whose jaws dwarfed Trade Federation submersibles during the planetary invasion. Across the saga films, live-action series, and animated chronicles, sando aqua monster specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify sando aqua monster populations across Naboo within the broader ocean & aquatic ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document sando aqua monster interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, sando aqua monster often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Naboo depths.** Sando aqua monsters dwarfed Trade Federation submersibles during the planetary invasion — leviathans of the core lakes.\n\nConservationists debate protection status for sando aqua monster on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Sando Aqua Monster enriches the ocean & aquatic identity of Naboo within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the sando aqua monster remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, sando aqua monster entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Naboo in ocean & aquatic surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Titanic leviathan of Naboo's core lakes whose jaws dwarfed Trade Federation submersibles during the planetary invasion.",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Ocean & Aquatic"
+  ],
+  "affiliations": [
+    "Ocean & Aquatic",
+    "Naboo",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued sando aqua monster on Naboo"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded sando aqua monster encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened sando aqua monster habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for sando aqua monster populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Naboo",
+      "route": "naboo"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/sando-aqua-monster-scene.webp",
+      "caption": "Cinematic habitat portrait — Sando Aqua Monster"
+    }
+  ]
+}

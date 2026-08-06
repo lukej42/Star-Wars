@@ -1,0 +1,82 @@
+{
+  "overview": "Tauntauns are reptomammals native to Hoth — warm-blooded enough to survive brief surface exposure but vulnerable to nighttime freezes that can kill them within minutes. Their musk, layered fur, and sure-footed gait on ice made them indispensable mount animals for the Rebel Alliance at Echo Base, where snowspeeders could not reach every patrol route.",
+  "history": "Tauntauns evolved as herd animals on Hoth's equatorial ice shelves, grazing on lichens and subterranean moss exposed by geothermal vents. They communicate through honks and scent marking, forming packs that migrate toward warmth when night temperatures plummet. Domestication proved difficult; only experienced handlers like Rebel beastmasters could keep them calm in base corrals.\n\n**The Rebel Alliance on Hoth.** When the Alliance established Echo Base inside the ice caves of Hoth, tauntauns replaced speeders for short-range patrols in sectors where repulsorlift engines fouled in extreme cold. Riders wrapped themselves in thermal gear and used the creatures' natural homing instinct to return before sunset — because, as Han Solo famously warned, tauntauns \"smell bad on the outside\" but die if left exposed after dusk.\n\nLuke Skywalker rode a tauntaun on the patrol that ended in a wampa attack; the mount was killed and eaten by the predator. Later, when Luke went missing in the blizzard, Han Solo took another tauntaun into the night to search for him — an act of loyalty that pushed the animal past its limits. When the tauntaun collapsed and died from exposure, Han used his lightsaber to open the carcass and placed the delirious Luke inside for warmth until rescue could arrive.\n\nThat sacrifice became one of the saga's most enduring images: a frozen plain, two friends, and a tauntaun whose body saved the Rebellion's greatest hope. Echo Base personnel afterward treated tauntauns with renewed respect, expanding heated stables and rotating patrol schedules to protect the herds that protected them.",
+  "significance": "Tauntauns embody the Rebellion's improvisational spirit — using local fauna when high technology fails.\n\nHan Solo's tauntaun rescue sequence defines his character as fiercely loyal beneath cynical wit.\n\nThe creatures remain synonymous with Hoth in merchandising, theme parks, and fan culture as the galaxy's most beloved — if malodorous — steeds.",
+  "notableEvents": [
+    "Rebel Alliance domesticated tauntauns for Echo Base patrol routes",
+    "Luke Skywalker's tauntaun killed by a wampa during a patrol",
+    "Han Solo rode a tauntaun into a Hoth blizzard to rescue Luke",
+    "Han sheltered Luke inside a tauntaun carcass after the mount died from cold",
+    "Tauntaun herds evacuated or lost during the Battle of Hoth"
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Character",
+      "value": "Luke Skywalker",
+      "route": "characters/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Hoth",
+      "route": "hoth"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Battle of Hoth",
+      "route": "wars-conflicts/battles/battle-of-hoth"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode V — The Empire Strikes Back"
+  ],
+  "series": [
+    "Star Wars Galaxy of Creatures",
+    "Star Wars: Forces of Destiny"
+  ],
+  "affiliations": [
+    "Echo Base patrol corps",
+    "Rebel Alliance logistics",
+    "Hoth native fauna"
+  ],
+  "timeline": [
+    {
+      "era": "3 ABY",
+      "event": "Rebel Alliance begins tauntaun patrol program at Echo Base"
+    },
+    {
+      "era": "3 ABY",
+      "event": "Luke's patrol tauntaun killed by a wampa"
+    },
+    {
+      "era": "3 ABY",
+      "event": "Han Solo's tauntaun dies saving Luke in the blizzard"
+    },
+    {
+      "era": "3 ABY",
+      "event": "Battle of Hoth ends Echo Base operations"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/tauntaun-scene.webp",
+      "caption": "Cinematic habitat portrait — Tauntaun"
+    },
+    {
+      "path": "/images/creatures/tauntaun-han-solo-riding.webp",
+      "caption": "Han Solo rides a tauntaun across the frozen plains of Hoth"
+    }
+  ]
+}

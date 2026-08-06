@@ -1,0 +1,123 @@
+{
+  "dateRange": "c. 25,000 BBY – present (reorganized)",
+  "overview": "The InterGalactic Banking Clan (IGBC) is a Muun-dominated financial institution whose vault networks, currency reserves, and war-bond markets have funded republics, empires, and corporate armies alike. During the Clone Wars the IGBC underwrote Separatist payrolls while maintaining enough Republic-facing legitimacy to keep Muunilinst's skylines glittering with neutral-banker rhetoric.\n\nHego Damask holdings and IGBC subsidiary charters linked the Clan to Sith long-game planning as well as open Separatist finance. When the war ended, the Clan's structures were reorganized under Imperial oversight — yet Muun financiers continued to shape Rim debt markets from shadow boards.",
+  "history": "Muunilinst's banking towers predated the modern Republic, and the IGBC grew by offering hyperspace-clearing services to worlds the Senate could not afford to bail out. The Clan's executives perfected the art of lending to both sides: Separatist droid foundries and Republic reconstruction bonds could both appear on the same quarterly ledger through shell holdings.\n\n[San Hill](characters/nute-gunray) is often cited alongside Muun leadership in Separatist councils, but the IGBC's true influence was structural — without Clan credit, [General Grievous](characters/general-grievous) could not pay fleet crews and [Nute Gunray](characters/nute-gunray)'s Trade Federation blockades could not sustain prolonged sieges. [Rush Clovis](characters/rush-clovis) later infiltrated IGBC circles on Scipio, exposing how deeply banking clans penetrated the Republic's own treasury apparatus.\n\nThe Battle of Muunilinst became a signature Republic victory partly because seizing IGBC vaults struck at Separatist liquidity itself. [Obi-Wan Kenobi](jedi/obi-wan-kenobi) and clone commanders fought through Muun cityscapes where credit terminals outnumbered civilian markets. Mygeeto's crystal trenches — financed by IGBC mining loans — saw heavy Jedi combat late in the war.\n\nImperial consolidation merged IGBC assets into state banks, but Muun financiers persisted as advisors to governors and syndicate treasurers. Crimson Dawn, Pyke spice routes, and Rebel procurement all eventually touched IGBC legacy routing codes.\n\n**Key figures and documented associations.** Archives tie InterGalactic Banking Clan operations to [Nute Gunray](characters/nute-gunray), [Rush Clovis](characters/rush-clovis), [General Grievous](characters/general-grievous), [Obi-Wan Kenobi](jedi/obi-wan-kenobi). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating InterGalactic Banking Clan contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Muunilinst, Mygeeto. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with InterGalactic Banking Clan agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "The IGBC proves that galactic wars are often decided in vaults before they are decided on battlefields. Its Clone Wars duplicity remains a case study in corporate neutrality as operational camouflage.\n\nMuunilinst's survival as a financial capital across eras shows how money outlasts whichever flag flies over the Senate dome.\n\n**Documented across galactic media.** InterGalactic Banking Clan appears in canonical records tied to Star Wars: Episode II — Attack of the Clones; Star Wars: Episode III — Revenge of the Sith; Star Wars: The Clone Wars; Star Wars: The Bad Batch. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "IGBC funds Republic infrastructure and Rim development loans",
+    "San Hill joins Separatist Council while maintaining banking charters",
+    "War bonds underwrite Separatist droid army payrolls",
+    "Rush Clovis exposes IGBC–Senate corruption on Scipio",
+    "Battle of Muunilinst targets Clan vault networks",
+    "Mygeeto crystal operations financed by IGBC mining credit",
+    "Imperial reorganization of IGBC holdings after war's end",
+    "Senate subpoenas request InterGalactic Banking Clan financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes InterGalactic Banking Clan investigations without public findings",
+    "Hunter guild contract boards list standing InterGalactic Banking Clan retainer tiers",
+    "New Republic era audits attempt to map post-war InterGalactic Banking Clan shell companies"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Muun financial houses",
+    "Hego Damask holdings (historical)",
+    "Separatist treasury proxies"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "IGBC becomes dominant galactic clearing house"
+    },
+    {
+      "era": "Separatist Crisis",
+      "event": "Clan executives fund secessionist militias"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Battle of Muunilinst threatens Separatist liquidity"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Scipio scandal exposes dual-faction lending"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "IGBC reorganized under Imperial treasury oversight"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "InterGalactic Banking Clan influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/intergalactic-banking-clan-scene.webp",
+      "caption": "Cinematic illustration — InterGalactic Banking Clan"
+    },
+    {
+      "path": "/images/organizations/intergalactic-banking-clan.webp",
+      "caption": "Organization emblem — InterGalactic Banking Clan"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    },
+    {
+      "label": "Faction",
+      "value": "Trade Federation",
+      "route": "factions/trade-federation"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Nute Gunray",
+      "route": "characters/nute-gunray"
+    },
+    {
+      "label": "Character",
+      "value": "Rush Clovis",
+      "route": "characters/rush-clovis"
+    },
+    {
+      "label": "Character",
+      "value": "General Grievous",
+      "route": "characters/general-grievous"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Muunilinst",
+      "route": "planet/muunilinst"
+    },
+    {
+      "label": "Planet",
+      "value": "Mygeeto",
+      "route": "planet/mygeeto"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "headOfGovernment": {
+    "value": "IGBC Executive Board",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "San Hill",
+    "route": ""
+  }
+}

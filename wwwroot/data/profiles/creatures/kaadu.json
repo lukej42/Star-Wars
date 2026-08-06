@@ -1,0 +1,80 @@
+{
+  "overview": "Kaadu are fast amphibious reptiles native to Naboo's swamps and grasslands — the primary cavalry mounts of the Gungan Grand Army. Their broad feet paddle through wetlands as easily as they gallop across the Great Grass Plains, carrying warriors wielding booma catapults and atlatls into battle.",
+  "history": "Kaadu evolved in Naboo's equatorial marsh basins, developing waterproof hides, powerful hind legs, and social flocking behavior. Gungans domesticated them centuries before human settlement, treating kaadu as partners rather than mere beasts — ceremonial armor and saddle rigs reflect clan status.\n\n**Gungan cavalry and Jar Jar Binks.** When the Trade Federation invaded Naboo, Boss Nass united the Gungan Grand Army to draw battle droid forces away from Theed while Queen Amidala retook the capital. Kaadu cavalry formed the army's mobile spearhead, thundering across the Great Grass Plains in one of the saga's most colorful battles.\n\nJar Jar Binks — exiled for clumsiness but eager to prove himself — rode a kaadu alongside General Ceel and the militiagung, charging Federation lines despite his notorious lack of grace. His mount bucked and swerved through blaster fire while Jar Jar accidentally launched boomas that sometimes helped and sometimes hindered the assault. The image of Gungan warriors on kaadu backs, banners flying and energy balls arcing toward droid formations, became Naboo liberation iconography.\n\nAfter the battle, kaadu remained central to Gungan culture — patrol units, festival races, and diplomatic processions all featured the mounts. The Naboo and Gungans' shared victory cemented kaadu as symbols of alliance between surface and underwater peoples.",
+  "significance": "Kaadu cavalry visually distinguishes Gungan warfare from every other army in the saga — organic, colorful, and deeply tied to Naboo's ecology.\n\nJar Jar's kaadu charge, however awkward, represents the theme that unlikely heroes matter in galactic history.\n\nThe mounts connect Naboo's swamp and plains biomes into a single cultural identity.",
+  "notableEvents": [
+    "Gungan Grand Army deployed kaadu cavalry at the Battle of the Great Grass Plains",
+    "Jar Jar Binks rode a kaadu during the assault on Trade Federation forces",
+    "Kaadu units drew droid armies away from Theed during the liberation of Naboo",
+    "Post-war Gungan patrols continued kaadu-mounted security in the swamps"
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Jar Jar Binks",
+      "route": "characters/jar-jar-binks"
+    },
+    {
+      "label": "Character",
+      "value": "Boss Nass",
+      "route": "characters/boss-nass"
+    },
+    {
+      "label": "Character",
+      "value": "Padmé Amidala",
+      "route": "characters/padme-amidala"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Naboo",
+      "route": "naboo"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Battle of Naboo — Great Grass Plains",
+      "route": "wars-conflicts/battles/battle-of-naboo"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode I — The Phantom Menace"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars (Gungan episodes)"
+  ],
+  "affiliations": [
+    "Gungan Grand Army",
+    "Naboo planetary defense",
+    "Otoh Gunga cavalry traditions"
+  ],
+  "timeline": [
+    {
+      "era": "Pre-Invasion",
+      "event": "Gungans domesticated kaadu for cavalry and transport"
+    },
+    {
+      "era": "32 BBY",
+      "event": "Kaadu charge at the Battle of the Great Grass Plains"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Gungan kaadu units defended Naboo from Separatist incursions"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Kaadu festivals maintained under occupation as quiet resistance"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/kaadu-scene.webp",
+      "caption": "Cinematic habitat portrait — Kaadu"
+    },
+    {
+      "path": "/images/creatures/kaadu-jar-jar-binks-riding.webp",
+      "caption": "Jar Jar Binks leads Gungan kaadu cavalry at the Battle of Naboo"
+    }
+  ]
+}

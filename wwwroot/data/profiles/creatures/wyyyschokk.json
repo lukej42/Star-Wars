@@ -1,0 +1,57 @@
+{
+  "overview": "The Wyyyschokk is a distinctive species of the jungle & forest biome, native to Kashyyyk. Massive Kashyyyk tree spiders whose webbed high-canopy lairs threaten Wookiee climbers and Clone Wars patrols alike. Across the saga films, live-action series, and animated chronicles, wyyyschokk specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify wyyyschokk populations across Kashyyyk within the broader jungle & forest ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document wyyyschokk interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, wyyyschokk often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Kashyyyk canopy.** Wyyyschokk tree spiders threatened Wookiee climbers and Clone Wars patrols in the high forest.\n\nConservationists debate protection status for wyyyschokk on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Wyyyschokk enriches the jungle & forest identity of Kashyyyk within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the wyyyschokk remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, wyyyschokk entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Kashyyyk in jungle & forest surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Massive Kashyyyk tree spiders whose webbed high-canopy lairs threaten Wookiee climbers and Clone Wars patrols alike.",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Jungle & Forest"
+  ],
+  "affiliations": [
+    "Jungle & Forest",
+    "Kashyyyk",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued wyyyschokk on Kashyyyk"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded wyyyschokk encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened wyyyschokk habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for wyyyschokk populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Kashyyyk",
+      "route": "planet/kashyyyk"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/wyyyschokk-scene.webp",
+      "caption": "Cinematic habitat portrait — Wyyyschokk"
+    }
+  ]
+}

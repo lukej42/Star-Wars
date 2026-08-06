@@ -1,0 +1,86 @@
+{
+  "overview": "The wampa is Hoth's apex ice predator — a white-furred carnivore standing up to three meters tall that ambushes prey from snow caves and drags victims back to lairs carved into glacier walls. Their heat-sensitive vision, crushing strength, and tolerance for Hoth's lethal nights make them among the most dangerous fauna in the Anoat sector. Rebel scouts at Echo Base learned to fear wampa territory almost as much as Imperial probe droids.",
+  "history": "Wampas evolved on Hoth's sixth moon in isolation, developing thick fur, layered fat reserves, and claws capable of shredding tauntaun hide. They hunt by scent and thermal signature, often leaving only bloodstains on the wind-swept ice plains. Tusken-style cave networks across the glacier ranges house family groups that compete fiercely for territory during the brief seasonal thaw.\n\n**Luke Skywalker and the Hoth wampa.** During a routine patrol near Echo Base, Luke Skywalker mounted a tauntaun to investigate a meteor impact that turned out to be an Imperial probe droid. When a blizzard separated him from base, he dismounted to investigate a dead tauntaun — and a wampa struck without warning. The creature knocked Luke unconscious, lashed him to the ceiling of its ice cave with frozen residue, and killed his mount for food.\n\nLuke awoke dangling above the wampa's kill, his face frostbitten and his lightsaber out of reach on the snow floor. Using the Force to summon the weapon, he freed himself and severed the beast's arm in a desperate fight before stumbling into the Hoth night. Han Solo eventually found him near death and sheltered him inside a tauntaun's warm carcass — one of the Rebellion's most iconic survival moments and the first clear demonstration that Hoth's wildlife could kill as surely as the Empire.\n\nEcho Base security afterward marked wampa caves on tactical maps and restricted solo patrols. Imperial records later noted wampa pelts traded on black markets, though hunting the creatures remains extraordinarily dangerous.",
+  "significance": "The wampa attack opens *The Empire Strikes Back* with immediate physical peril unrelated to the Empire — reminding viewers that the galaxy's worlds are alive with threats of their own.\n\nLuke's Force-pull of his lightsaber in the cave became a defining hero moment and a template for later Force telekinesis showcases across films and series.\n\nEcologically, wampas anchor Hoth's food chain alongside tauntauns and ice spiders, making the planet uninhabitable without serious infrastructure — a fact the Rebellion accepted for the sake of secrecy.",
+  "notableEvents": [
+    "Luke Skywalker attacked and captured by a wampa during an Echo Base patrol",
+    "Luke escaped the wampa cave using Force telekinesis to retrieve his lightsaber",
+    "Han Solo found Luke and sheltered him inside a tauntaun carcass",
+    "Wampa caves mapped near Rebel perimeter defenses at Echo Base",
+    "Wampa remains documented in New Republic xenobiology surveys"
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Luke Skywalker",
+      "route": "characters/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Hoth",
+      "route": "hoth"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Battle of Hoth — Echo Base evacuation",
+      "route": "wars-conflicts/battles/battle-of-hoth"
+    },
+    {
+      "text": "Luke Skywalker begins Jedi training on Dagobah",
+      "route": "characters/luke-skywalker"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode V — The Empire Strikes Back"
+  ],
+  "series": [
+    "Star Wars Galaxy of Creatures",
+    "Star Wars: Forces of Destiny"
+  ],
+  "affiliations": [
+    "Hoth ecosystem",
+    "Echo Base perimeter hazards",
+    "Outer Rim xenobiology"
+  ],
+  "timeline": [
+    {
+      "era": "Pre-Rebellion",
+      "event": "Wampas documented by Hoth mining surveys"
+    },
+    {
+      "era": "3 ABY",
+      "event": "Luke Skywalker attacked during Echo Base patrol"
+    },
+    {
+      "era": "3 ABY",
+      "event": "Battle of Hoth forces base evacuation"
+    },
+    {
+      "era": "New Republic",
+      "event": "Wampa conservation debates on protected-world lists"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/wampa-scene.webp",
+      "caption": "Cinematic habitat portrait — Wampa"
+    },
+    {
+      "path": "/images/creatures/wampa-luke-skywalker-fight.webp",
+      "caption": "Luke Skywalker fights off a wampa in the ice caves of Hoth"
+    }
+  ]
+}

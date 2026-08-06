@@ -3,6 +3,7 @@
 @using StarWars.Models
 @using StarWars.Services
 @using StarWars.Components
+@inject DirectoryProfileService ProfileService
 @inject EntityCrossLinkService CrossLinkService
 
 <PageTitle>@(battle?.Name ?? "Battle")</PageTitle>
@@ -12,6 +13,10 @@
     <h1>Battle not found</h1>
     <p>Sorry, there are no records for this battle.</p>
 }
+else if (!profileLoaded)
+{
+    <p class="directory-detail-loading">Loading battle records…</p>
+}
 else
 {
     var war = WarConflictData.GetBySlug(battle.WarSlug);
@@ -20,13 +25,31 @@ else
                           HeroImageAlt="@($"Cinematic depiction of the {battle.Name}")"
                           ShowPortraitHero="false"
                           Subtitle="@($"{war?.Name ?? battle.WarSlug} · {battle.Era}")"
-                          Location="@BattlePlanetData.GetLink(battle.Slug)"
-                          OverviewText="@BattleOverview"
-                          HistoryText="@BattleHistory"
-                          SignificanceText="@BattleSignificance"
-                          SignificanceHeading="Legacy"
-                          NotableEvents="@BattleEvents"
-                          Affiliations="@BattleReferences"
+                          MetaLine="@(string.IsNullOrWhiteSpace(profile?.DateRange) ? null : $"Date range: {profile!.DateRange}")"
+                          Location="@(profile?.Planets.Count > 0 ? profile!.Planets[0] : BattlePlanetData.GetLink(battle.Slug))"
+                          OverviewText="@(profile?.Overview ?? BattleOverview)"
+                          HistoryText="@(profile?.History ?? BattleHistory)"
+                          SignificanceText="@(profile?.Significance ?? BattleSignificance)"
+                          SignificanceHeading="Legacy and impact"
+                          NotableEvents="@(profile?.NotableEvents ?? BattleEvents)"
+                          NotableEventsAsideImagePath="@NotableEventsAsideImagePath"
+                          NotableEventsAsideImageAlt="@NotableEventsAsideImageAlt"
+                          MajorEvents="@(profile?.MajorEvents ?? Array.Empty<ProfileLinkedEvent>())"
+                          KeyFactions="@(profile?.KeyFactions ?? Array.Empty<ProfileLinkItem>())"
+                          MajorCharacters="@(profile?.MajorCharacters ?? Array.Empty<ProfileLinkItem>())"
+                          JediFallen="@(profile?.JediFallen ?? Array.Empty<ProfileLinkItem>())"
+                          JediSurvived="@(profile?.JediSurvived ?? Array.Empty<ProfileLinkItem>())"
+                          Planets="@(profile?.Planets ?? Array.Empty<ProfileLinkItem>())"
+                          Ships="@(profile?.Ships ?? Array.Empty<ProfileLinkItem>())"
+                          Films="@(profile?.Films ?? Array.Empty<string>())"
+                          Series="@(profile?.Series ?? Array.Empty<string>())"
+                          Games="@(profile?.Games ?? Array.Empty<string>())"
+                          Books="@(profile?.Books ?? Array.Empty<string>())"
+                          Affiliations="@(profile?.Affiliations ?? BattleReferences)"
+                          Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
+                          Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
+                          Government="@profile?.Government"
+                          HeadOfState="@profile?.HeadOfState"
                           AccentColor="@battle.Color" />
     <EntityCrossLinks Links="@crossLinks" />
 }
@@ -36,6 +59,8 @@ else
     public string Slug { get; set; } = string.Empty;
 
     private FamousBattle? battle;
+    private DirectoryProfile? profile;
+    private bool profileLoaded;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
 
     private string BattleOverview =>
@@ -67,11 +92,29 @@ else
             "Old Sith Empire records"
         ];
 
+    private string NotableEventsAsideImagePath =>
+        battle?.Slug.Equals("jedi-purge", StringComparison.OrdinalIgnoreCase) == true
+            ? "/images/wars-conflicts/battles/jedi-purge-order-66-felucia.webp"
+            : string.Empty;
+
+    private string NotableEventsAsideImageAlt =>
+        battle?.Slug.Equals("jedi-purge", StringComparison.OrdinalIgnoreCase) == true
+            ? "Clone troopers execute Order 66 against a Jedi general on a jungle battlefield"
+            : string.Empty;
+
     protected override async Task OnParametersSetAsync()
     {
         battle = BattleData.GetBySlug(Slug);
-        crossLinks = battle is null
-            ? []
-            : await CrossLinkService.GetLinksAsync("battles", battle.Slug);
+        profileLoaded = false;
+        profile = null;
+        crossLinks = [];
+
+        if (battle is not null)
+        {
+            profile = await ProfileService.GetProfileAsync("battles", battle.Slug);
+            crossLinks = await CrossLinkService.GetLinksAsync("battles", battle.Slug);
+        }
+
+        profileLoaded = true;
     }
 }

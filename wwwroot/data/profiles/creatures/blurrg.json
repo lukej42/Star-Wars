@@ -1,0 +1,57 @@
+{
+  "overview": "The Blurrg is a distinctive species of the arctic & tundra biome, native to Ryloth. Two-legged riding beasts with snapping jaws, used by Twi'lek freedom fighters and Mandalorian clans on frontier worlds. Across the saga films, live-action series, and animated chronicles, blurrg specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify blurrg populations across Ryloth within the broader arctic & tundra ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document blurrg interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, blurrg often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Ryloth cavalry.** Twi'lek freedom fighters and Mandalorian clans rode blurrg mounts across frontier battlefields.\n\nConservationists debate protection status for blurrg on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Blurrg enriches the arctic & tundra identity of Ryloth within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the blurrg remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, blurrg entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Ryloth in arctic & tundra surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Two-legged riding beasts with snapping jaws, used by Twi'lek freedom fighters and Mandalorian clans on frontier worlds.",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Arctic & Tundra"
+  ],
+  "affiliations": [
+    "Arctic & Tundra",
+    "Ryloth",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued blurrg on Ryloth"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded blurrg encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened blurrg habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for blurrg populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ryloth",
+      "route": "planet/ryloth"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/blurrg-scene.webp",
+      "caption": "Cinematic habitat portrait — Blurrg"
+    }
+  ]
+}

@@ -31,6 +31,16 @@ else
                           SignificanceText="@(profile?.Significance ?? string.Empty)"
                           SignificanceHeading="Ecology and galactic impact"
                           NotableEvents="@(profile?.NotableEvents ?? Array.Empty<string>())"
+                          NotableEventsAsideImagePath="@NotableEventsAsideImagePath"
+                          NotableEventsAsideImageAlt="@NotableEventsAsideImageAlt"
+                          MajorEvents="@(profile?.MajorEvents ?? Array.Empty<ProfileLinkedEvent>())"
+                          KeyFactions="@(profile?.KeyFactions ?? Array.Empty<ProfileLinkItem>())"
+                          MajorCharacters="@(profile?.MajorCharacters ?? Array.Empty<ProfileLinkItem>())"
+                          Planets="@(profile?.Planets ?? Array.Empty<ProfileLinkItem>())"
+                          Films="@(profile?.Films ?? Array.Empty<string>())"
+                          Series="@(profile?.Series ?? Array.Empty<string>())"
+                          Games="@(profile?.Games ?? Array.Empty<string>())"
+                          Books="@(profile?.Books ?? Array.Empty<string>())"
                           Affiliations="@(profile?.Affiliations ?? Array.Empty<string>())"
                           Timeline="@(profile?.Timeline ?? Array.Empty<ProfileTimelineEntry>())"
                           Gallery="@(profile?.Gallery ?? Array.Empty<ProfileImage>())"
@@ -49,6 +59,28 @@ else
     private bool profileLoaded;
     private ProfileLinkItem? location;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
+
+    private string NotableEventsAsideImagePath =>
+        creature?.Slug switch
+        {
+            "wampa" => "/images/creatures/wampa-luke-skywalker-fight.webp",
+            "tauntaun" => "/images/creatures/tauntaun-han-solo-riding.webp",
+            "kaadu" => "/images/creatures/kaadu-jar-jar-binks-riding.webp",
+            "rancor" => "/images/creatures/rancor-luke-skywalker-fight.webp",
+            "sarlacc" => "/images/creatures/sarlacc-return-of-the-jedi-skiff.webp",
+            _ => string.Empty
+        };
+
+    private string NotableEventsAsideImageAlt =>
+        creature?.Slug switch
+        {
+            "wampa" => "Luke Skywalker fighting off a wampa in the ice caves of Hoth",
+            "tauntaun" => "Han Solo riding a tauntaun across the frozen plains of Hoth",
+            "kaadu" => "Jar Jar Binks riding a kaadu with Gungan cavalry at the Battle of Naboo",
+            "rancor" => "Luke Skywalker battling the rancor in Jabba the Hutt's palace pit",
+            "sarlacc" => "Rebel heroes on a desert skiff above the Great Pit of Carkoon",
+            _ => string.Empty
+        };
 
     protected override async Task OnParametersSetAsync()
     {

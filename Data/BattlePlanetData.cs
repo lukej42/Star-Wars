@@ -13,6 +13,7 @@ public static class BattlePlanetData
         ["battle-of-kashyyyk"] = "Kashyyyk",
         ["siege-of-mandalore"] = "Mandalore",
         ["battle-of-mon-cala"] = "Mon Cala",
+        ["jedi-purge"] = "Coruscant",
         ["battle-of-yavin"] = "Yavin 4",
         ["battle-of-hoth"] = "Hoth",
         ["battle-of-endor"] = "Endor",

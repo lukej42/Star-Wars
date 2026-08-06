@@ -1,0 +1,137 @@
+{
+  "dateRange": "c. 350 BBY – 19 BBY",
+  "overview": "The Trade Federation Directorate is the Neimoidian board commanding Trade Federation blockades, battle droid armies, and occupation administrations — most infamously during the Naboo invasion led by [Nute Gunray](characters/nute-gunray). The Directorate claims corporate sovereignty while deploying military assets that rival planetary defense forces.\n\nSee also the Trade Federation faction profile for full wartime fleet history.",
+  "history": "Neimoidian merchant lords built the Directorate to manage droid manufacturing subsidiaries and shipping cartels from Cato Neimoidia vault-world palaces. [Nute Gunray](characters/nute-gunray) and [Rune Haako](characters/nute-gunray) — titles contested in archives — orchestrated the Naboo blockade that forced [Padmé Amidala](characters/padme-amidala) to seek Republic intervention.\n\n[Darth Sidious](sith/darth-sidious) manipulated the Directorate as early Separatist muscle, ensuring battle droid output continued through [Geonosis](planet/geonosis) foundries. [Count Dooku](sith/darth-tyranus) later seated Gunray on the Separatist Council.\n\n[Anakin Skywalker](jedi/anakin-skywalker) and [Obi-Wan Kenobi](jedi/obi-wan-kenobi) fought Federation droid armies across the Clone Wars until the Directorate leadership died on Mustafar with other Separatist executives.\n\n**Key figures and documented associations.** Archives tie Trade Federation Directorate operations to [Nute Gunray](characters/nute-gunray), [Padmé Amidala](characters/padme-amidala), [Jar Jar Binks](characters/jar-jar-binks), [Captain Panaka](characters/captain-panaka), [Obi-Wan Kenobi](jedi/obi-wan-kenobi), [Anakin Skywalker](jedi/anakin-skywalker), [Darth Sidious](sith/darth-sidious), [Darth Tyranus](sith/darth-tyranus). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Trade Federation Directorate contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Cato Neimoidia, Naboo. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Trade Federation Directorate agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "The Trade Federation Directorate is the archetype of corporate belligerence — blockade as policy, droids as occupation troops.\n\nNaboo's invasion remains mandatory study in Republic military academies.\n\n**Documented across galactic media.** Trade Federation Directorate appears in canonical records tied to Star Wars: Episode I — The Phantom Menace; Star Wars: Episode II — Attack of the Clones; Star Wars: Episode III — Revenge of the Sith; Star Wars: The Clone Wars; Star Wars: The Bad Batch. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Directorate blockades Naboo trade lanes",
+    "Battle droid army occupies Theed",
+    "Padmé Amidala retakes Naboo with Gungan alliance",
+    "Directorate joins Separatist Council on Geonosis",
+    "Leadership massacred on Mustafar after war's end",
+    "Senate subpoenas request Trade Federation Directorate financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Trade Federation Directorate investigations without public findings",
+    "Hunter guild contract boards list standing Trade Federation Directorate retainer tiers",
+    "New Republic era audits attempt to map post-war Trade Federation Directorate shell companies"
+  ],
+  "affiliations": [
+    "Corporate Blocs hub",
+    "Neimoidian vault-world elites",
+    "Battle droid manufacturing subsidiaries"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Directorate chartered on Cato Neimoidia"
+    },
+    {
+      "era": "Separatist Crisis",
+      "event": "Naboo blockade triggers Senate crisis"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Directorate holds Separatist Council seat"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Directorate dissolved after Mustafar massacre"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Trade Federation Directorate influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/trade-federation-directorate-scene.webp",
+      "caption": "Cinematic illustration — Trade Federation Directorate"
+    },
+    {
+      "path": "/images/organizations/trade-federation-directorate.webp",
+      "caption": "Organization emblem — Trade Federation Directorate"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Trade Federation",
+      "route": "factions/trade-federation"
+    },
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Nute Gunray",
+      "route": "characters/nute-gunray"
+    },
+    {
+      "label": "Character",
+      "value": "Padmé Amidala",
+      "route": "characters/padme-amidala"
+    },
+    {
+      "label": "Character",
+      "value": "Jar Jar Binks",
+      "route": "characters/jar-jar-binks"
+    },
+    {
+      "label": "Character",
+      "value": "Captain Panaka",
+      "route": "characters/captain-panaka"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Anakin Skywalker",
+      "route": "jedi/anakin-skywalker"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Sidious",
+      "route": "sith/darth-sidious"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Tyranus",
+      "route": "sith/darth-tyranus"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Cato Neimoidia",
+      "route": "planet/cato-neimoidia"
+    },
+    {
+      "label": "Planet",
+      "value": "Naboo",
+      "route": "naboo"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode I — The Phantom Menace",
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "headOfGovernment": {
+    "value": "Neimoidian Trade Viceroy council",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Nute Gunray",
+    "route": "characters/nute-gunray"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "overview": "The Porg is a distinctive species of the island & coastal biome, native to Ahch-To. Wide-eyed seabirds that overrun Jedi temple islands on Ahch-To, nesting in every cliff crevice after the Luke's exile years. Across the saga films, live-action series, and animated chronicles, porg specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify porg populations across Ahch-To within the broader island & coastal ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document porg interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, porg often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Ahch-To exile.** Porgs overran the Jedi temple islands where Luke Skywalker lived in exile; Chewbacca roasted one for dinner while Rey befriended the colony.\n\nConservationists debate protection status for porg on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Porg enriches the island & coastal identity of Ahch-To within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the porg remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, porg entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Ahch-To in island & coastal surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Wide-eyed seabirds that overrun Jedi temple islands on Ahch-To, nesting in every cliff crevice after the Luke's exile ye",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Island & Coastal"
+  ],
+  "affiliations": [
+    "Island & Coastal",
+    "Ahch-To",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued porg on Ahch-To"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded porg encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened porg habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for porg populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ahch-To",
+      "route": "planet/ahch-to"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/porg-scene.webp",
+      "caption": "Cinematic habitat portrait — Porg"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Luke Skywalker",
+      "route": "characters/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Chewbacca",
+      "route": "characters/chewbacca"
+    }
+  ]
+}

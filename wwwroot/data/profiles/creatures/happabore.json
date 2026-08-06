@@ -1,0 +1,57 @@
+{
+  "overview": "The Happabore is a distinctive species of the desert & arid biome, native to Jakku. Docile desert draught animals whose broad snouts and armored hides suit hauling salvage across Jakku's sun-baked flats. Across the saga films, live-action series, and animated chronicles, happabore specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify happabore populations across Jakku within the broader desert & arid ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document happabore interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, happabore often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Jakku draught.** Happabores pulled salvage sleds across Jakku's flats for Unkar Plutt's operation and other scavenger bosses.\n\nConservationists debate protection status for happabore on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Happabore enriches the desert & arid identity of Jakku within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the happabore remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, happabore entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Jakku in desert & arid surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Docile desert draught animals whose broad snouts and armored hides suit hauling salvage across Jakku's sun-baked flats.",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Desert & Arid"
+  ],
+  "affiliations": [
+    "Desert & Arid",
+    "Jakku",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued happabore on Jakku"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded happabore encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened happabore habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for happabore populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Jakku",
+      "route": "jakku"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/happabore-scene.webp",
+      "caption": "Cinematic habitat portrait — Happabore"
+    }
+  ]
+}

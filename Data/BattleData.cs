@@ -13,6 +13,7 @@ public static class BattleData
         Battle("clone-wars", "battle-of-kashyyyk", "Battle of Kashyyyk", "19 BBY", "#2dd4bf"),
         Battle("clone-wars", "siege-of-mandalore", "Siege of Mandalore", "19 BBY", "#5eead4"),
         Battle("clone-wars", "battle-of-mon-cala", "Battle of Mon Cala", "20 BBY", "#06b6d4"),
+        Battle("clone-wars", "jedi-purge", "Jedi Purge", "19 BBY", "#991b1b"),
 
         // Galactic Civil War
         Battle("galactic-civil-war", "battle-of-yavin", "Battle of Yavin", "0 BBY", "#ffd166"),

@@ -1,0 +1,531 @@
+#!/usr/bin/env python3
+"""Curated Related Archives data for individual ship pages."""
+
+from __future__ import annotations
+
+# Faction inferred from ShipData colour key
+SHIP_COLOR_FACTION: dict[str, tuple[str, str, str]] = {
+    "#e11d48": ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    "#64748b": ("Faction", "Galactic Empire", "factions/empire"),
+    "#6366f1": ("Faction", "Galactic Republic", "factions/republic"),
+    "#0891b2": ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    "#ca8a04": ("Faction", "Trade Federation", "factions/trade-federation"),
+    "#eab308": ("Faction", "Royal House of Naboo", "factions/naboo"),
+    "#0284c7": ("Faction", "Mandalorians", "factions/mandalorians"),
+    "#d97706": ("Faction", "Independent spacers", "factions/hutts"),
+    "#2563eb": ("Faction", "Galactic Republic", "factions/republic"),
+    "#991b1b": ("Faction", "Sith Empire", "factions/sith-empire"),
+    "#334155": ("Faction", "First Order", "factions/first-order"),
+    "#f97316": ("Faction", "Resistance", "factions/resistance"),
+    "#65a30d": ("Faction", "Bounty hunters", "all-bounty-hunters"),
+}
+
+SHIP_BATTLE_LINKS: dict[str, tuple[str, str, str]] = {
+    "acclamator-class": ("Battle", "First Battle of Geonosis", "wars-conflicts/battles/first-battle-of-geonosis"),
+    "arc-170": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "a-wing": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "b-wing": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "cr90-corvette": ("Battle", "Battle of Scarif", "wars-conflicts/battles/battle-of-scarif"),
+    "death-star-i": ("Battle", "Battle of Yavin", "wars-conflicts/battles/battle-of-yavin"),
+    "death-star-ii": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "delta-7": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "droid-control-ship": ("Battle", "Battle of Naboo", "wars-conflicts/battles/battle-of-naboo"),
+    "eta-2": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "executor-class": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "hyena-class": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "imperial-i-class": ("Battle", "Battle of Yavin", "wars-conflicts/battles/battle-of-yavin"),
+    "invisible-hand": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "j-type-327": ("Battle", "Battle of Naboo", "wars-conflicts/battles/battle-of-naboo"),
+    "laat-i": ("Battle", "First Battle of Geonosis", "wars-conflicts/battles/first-battle-of-geonosis"),
+    "lucrehulk-class": ("Battle", "Battle of Naboo", "wars-conflicts/battles/battle-of-naboo"),
+    "mc80-cruiser": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "mg-100-bomber": ("Battle", "Battle of D'Qar", "wars-conflicts/battles/battle-of-d-qar"),
+    "munificent-class": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "n-1-starfighter": ("Battle", "Battle of Naboo", "wars-conflicts/battles/battle-of-naboo"),
+    "nebulon-b": ("Battle", "Battle of Hoth", "wars-conflicts/battles/battle-of-hoth"),
+    "razor-crest": ("Battle", "Battle of Mandalore", "wars-conflicts/battles/siege-of-mandalore"),
+    "recusant-class": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "resurgent-class": ("Battle", "Battle of Starkiller Base", "wars-conflicts/battles/battle-of-starkiller-base"),
+    "snowspeeder": ("Battle", "Battle of Hoth", "wars-conflicts/battles/battle-of-hoth"),
+    "tie-advanced-x1": ("Battle", "Battle of Yavin", "wars-conflicts/battles/battle-of-yavin"),
+    "tie-fighter": ("Battle", "Battle of Yavin", "wars-conflicts/battles/battle-of-yavin"),
+    "tie-interceptor": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "tie-fo": ("Battle", "Battle of Starkiller Base", "wars-conflicts/battles/battle-of-starkiller-base"),
+    "u-wing": ("Battle", "Battle of Scarif", "wars-conflicts/battles/battle-of-scarif"),
+    "venator-class": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "vulture-droid": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "x-wing": ("Battle", "Battle of Yavin", "wars-conflicts/battles/battle-of-yavin"),
+    "y-wing": ("Battle", "Battle of Yavin", "wars-conflicts/battles/battle-of-yavin"),
+    "mc75-cruiser": ("Battle", "Battle of Scarif", "wars-conflicts/battles/battle-of-scarif"),
+    "mc85-cruiser": ("Battle", "Battle of Crait", "wars-conflicts/battles/battle-of-crait"),
+    "t-70-x-wing": ("Battle", "Battle of Starkiller Base", "wars-conflicts/battles/battle-of-starkiller-base"),
+    "subjugator-class": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "providence-class": ("Battle", "Battle of Coruscant", "wars-conflicts/battles/battle-of-coruscant"),
+    "first-order-dreadnought": ("Battle", "Battle of D'Qar", "wars-conflicts/battles/battle-of-d-qar"),
+    "xyston-class": ("Battle", "Battle of Exegol", "wars-conflicts/battles/battle-of-exegol"),
+    "khetanna": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "bantha-ii-skiff": ("Battle", "Battle of Endor", "wars-conflicts/battles/battle-of-endor"),
+    "ghost": ("Battle", "Battle of Lothal", "wars-conflicts/battles/battle-of-lothal"),
+}
+
+# Extra search terms when matching people in profiles
+SHIP_ALIASES: dict[str, list[str]] = {
+    "millennium-falcon": ["millennium falcon", "falcon"],
+    "x-wing": ["x wing", "x-wing", "t-65"],
+    "y-wing": ["y wing", "y-wing"],
+    "tie-fighter": ["tie fighter", "tie/ln", "tie ln"],
+    "tie-interceptor": ["tie interceptor"],
+    "death-star-i": ["death star"],
+    "death-star-ii": ["death star ii", "second death star"],
+    "slave-i": ["slave i", "slave 1"],
+    "razor-crest": ["razor crest", "razor crest"],
+    "ebon-hawk": ["ebon hawk"],
+    "endar-spire": ["endar spire"],
+    "ghost": ["the ghost", "ghost"],
+    "executor-class": ["executor", "super star destroyer"],
+    "venator-class": ["venator"],
+    "imperial-i-class": ["imperial star destroyer", "isd"],
+    "cr90-corvette": ["tantive iv", "blockade runner"],
+    "n-1-starfighter": ["n-1 starfighter", "naboo starfighter"],
+    "delta-7": ["delta-7", "aethersprite"],
+    "eta-2": ["eta-2", "actis interceptor"],
+    "arc-170": ["arc 170"],
+    "laat-i": ["laat", "gunship"],
+    "snowspeeder": ["snowspeeder", "t-47"],
+    "u-wing": ["u wing", "ut-60"],
+    "a-wing": ["a wing", "rz-1"],
+    "b-wing": ["b wing"],
+}
+
+# Hand-curated links: characters, jedi, sith, planets, factions
+SHIP_OVERRIDES: dict[str, list[tuple[str, str, str]]] = {
+    "millennium-falcon": [
+        ("Character", "Han Solo", "characters/han-solo"),
+        ("Character", "Chewbacca", "characters/chewbacca"),
+        ("Character", "Luke Skywalker", "characters/luke-skywalker"),
+        ("Character", "Leia Organa", "characters/leia-organa"),
+        ("Character", "Lando Calrissian", "characters/lando-calrissian"),
+        ("Planet", "Tatooine", "tatooine"),
+        ("Planet", "Hoth", "hoth"),
+        ("Planet", "Bespin", "bespin"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "x-wing": [
+        ("Character", "Luke Skywalker", "characters/luke-skywalker"),
+        ("Character", "Wedge Antilles", "characters/wedge-antilles"),
+        ("Jedi", "Luke Skywalker", "jedi/luke-skywalker"),
+        ("Planet", "Yavin 4", "yavin-4"),
+        ("Planet", "Endor", "endor"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "y-wing": [
+        ("Character", "Gold Leader", "characters/jon-vander"),
+        ("Planet", "Yavin 4", "yavin-4"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "a-wing": [
+        ("Character", "Arvel Skeen", "characters/arvel-skeen"),
+        ("Character", "Lando Calrissian", "characters/lando-calrissian"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "b-wing": [
+        ("Character", "Admiral Ackbar", "characters/gial-ackbar"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "u-wing": [
+        ("Character", "Cassian Andor", "characters/cassian-andor"),
+        ("Character", "Jyn Erso", "characters/jyn-erso"),
+        ("Planet", "Scarif", "scarif"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "snowspeeder": [
+        ("Character", "Luke Skywalker", "characters/luke-skywalker"),
+        ("Character", "Wedge Antilles", "characters/wedge-antilles"),
+        ("Jedi", "Luke Skywalker", "jedi/luke-skywalker"),
+        ("Planet", "Hoth", "hoth"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "cr90-corvette": [
+        ("Character", "Leia Organa", "characters/leia-organa"),
+        ("Character", "Bail Organa", "characters/bail-organa"),
+        ("Planet", "Alderaan", "alderaan"),
+        ("Planet", "Tatooine", "tatooine"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "mc80-cruiser": [
+        ("Character", "Admiral Ackbar", "characters/gial-ackbar"),
+        ("Character", "Mon Mothma", "characters/mon-mothma"),
+        ("Planet", "Mon Cala", "planet/mon-cala"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "mc75-cruiser": [
+        ("Character", "Admiral Raddus", "characters/admiral-raddus"),
+        ("Planet", "Scarif", "scarif"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "nebulon-b": [
+        ("Character", "Luke Skywalker", "characters/luke-skywalker"),
+        ("Planet", "Hoth", "hoth"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "ghost": [
+        ("Character", "Hera Syndulla", "characters/hera-syndulla"),
+        ("Character", "Kanan Jarrus", "characters/kanan-jarrus"),
+        ("Character", "Ezra Bridger", "characters/ezra-bridger"),
+        ("Jedi", "Kanan Jarrus", "jedi/kanan-jarrus"),
+        ("Planet", "Lothal", "planet/lothal"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "hammerhead-corvette": [
+        ("Character", "Jyn Erso", "characters/jyn-erso"),
+        ("Faction", "Rebel Alliance", "factions/rebel-alliance"),
+    ],
+    "death-star-i": [
+        ("Character", "Luke Skywalker", "characters/luke-skywalker"),
+        ("Character", "Darth Vader", "characters/darth-vader"),
+        ("Jedi", "Luke Skywalker", "jedi/luke-skywalker"),
+        ("Sith", "Darth Vader", "sith/darth-vader"),
+        ("Sith", "Darth Sidious", "sith/darth-sidious"),
+        ("Planet", "Yavin 4", "yavin-4"),
+        ("Planet", "Alderaan", "alderaan"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "death-star-ii": [
+        ("Character", "Emperor Palpatine", "characters/sheev-palpatine"),
+        ("Character", "Darth Vader", "characters/darth-vader"),
+        ("Sith", "Darth Sidious", "sith/darth-sidious"),
+        ("Sith", "Darth Vader", "sith/darth-vader"),
+        ("Planet", "Endor", "endor"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "executor-class": [
+        ("Character", "Darth Vader", "characters/darth-vader"),
+        ("Sith", "Darth Vader", "sith/darth-vader"),
+        ("Planet", "Endor", "endor"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "imperial-i-class": [
+        ("Character", "Darth Vader", "characters/darth-vader"),
+        ("Sith", "Darth Vader", "sith/darth-vader"),
+        ("Planet", "Tatooine", "tatooine"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "imperial-ii-class": [
+        ("Character", "Grand Admiral Thrawn", "characters/thrawn"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "tie-fighter": [
+        ("Character", "Darth Vader", "characters/darth-vader"),
+        ("Planet", "Yavin 4", "yavin-4"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "tie-advanced-x1": [
+        ("Character", "Darth Vader", "characters/darth-vader"),
+        ("Sith", "Darth Vader", "sith/darth-vader"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "tie-interceptor": [
+        ("Character", "Wedge Antilles", "characters/wedge-antilles"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "tie-defender": [
+        ("Character", "Grand Admiral Thrawn", "characters/thrawn"),
+        ("Character", "Ezra Bridger", "characters/ezra-bridger"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "lambda-class": [
+        ("Character", "Darth Vader", "characters/darth-vader"),
+        ("Character", "Emperor Palpatine", "characters/sheev-palpatine"),
+        ("Sith", "Darth Vader", "sith/darth-vader"),
+        ("Planet", "Endor", "endor"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "razor-crest": [
+        ("Character", "Din Djarin", "characters/din-djarin"),
+        ("Character", "Grogu", "characters/grogu"),
+        ("Jedi", "Grogu", "jedi/grogu"),
+        ("Planet", "Arvala-7", "planet/arvala-7"),
+        ("Faction", "Mandalorians", "factions/mandalorians"),
+    ],
+    "slave-i": [
+        ("Bounty Hunter", "Boba Fett", "bounty-hunters/boba-fett"),
+        ("Bounty Hunter", "Jango Fett", "bounty-hunters/jango-fett"),
+        ("Character", "Boba Fett", "characters/boba-fett"),
+        ("Planet", "Geonosis", "planet/geonosis"),
+        ("Planet", "Tatooine", "tatooine"),
+    ],
+    "khetanna": [
+        ("Character", "Jabba the Hutt", "characters/jabba-the-hutt"),
+        ("Character", "Luke Skywalker", "characters/luke-skywalker"),
+        ("Character", "Han Solo", "characters/han-solo"),
+        ("Planet", "Tatooine", "tatooine"),
+        ("Faction", "Hutts", "factions/hutts"),
+    ],
+    "bantha-ii-skiff": [
+        ("Character", "Luke Skywalker", "characters/luke-skywalker"),
+        ("Character", "Han Solo", "characters/han-solo"),
+        ("Bounty Hunter", "Boba Fett", "bounty-hunters/boba-fett"),
+        ("Planet", "Tatooine", "tatooine"),
+    ],
+    "venator-class": [
+        ("Character", "Anakin Skywalker", "characters/anakin-skywalker"),
+        ("Character", "Obi-Wan Kenobi", "characters/obi-wan-kenobi"),
+        ("Jedi", "Anakin Skywalker", "jedi/anakin-skywalker"),
+        ("Jedi", "Obi-Wan Kenobi", "jedi/obi-wan-kenobi"),
+        ("Planet", "Coruscant", "coruscant"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "acclamator-class": [
+        ("Character", "Yoda", "characters/yoda"),
+        ("Jedi", "Yoda", "jedi/yoda"),
+        ("Planet", "Geonosis", "planet/geonosis"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "laat-i": [
+        ("Character", "Anakin Skywalker", "characters/anakin-skywalker"),
+        ("Jedi", "Anakin Skywalker", "jedi/anakin-skywalker"),
+        ("Planet", "Geonosis", "planet/geonosis"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "arc-170": [
+        ("Character", "Anakin Skywalker", "characters/anakin-skywalker"),
+        ("Jedi", "Anakin Skywalker", "jedi/anakin-skywalker"),
+        ("Planet", "Coruscant", "coruscant"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "delta-7": [
+        ("Jedi", "Obi-Wan Kenobi", "jedi/obi-wan-kenobi"),
+        ("Jedi", "Anakin Skywalker", "jedi/anakin-skywalker"),
+        ("Jedi", "Mace Windu", "jedi/mace-windu"),
+        ("Planet", "Geonosis", "planet/geonosis"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "eta-2": [
+        ("Jedi", "Obi-Wan Kenobi", "jedi/obi-wan-kenobi"),
+        ("Jedi", "Anakin Skywalker", "jedi/anakin-skywalker"),
+        ("Planet", "Coruscant", "coruscant"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "v-wing": [
+        ("Character", "Wedge Antilles", "characters/wedge-antilles"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "invisible-hand": [
+        ("Character", "General Grievous", "characters/general-grievous"),
+        ("Character", "Count Dooku", "characters/count-dooku"),
+        ("Sith", "Darth Tyranus", "sith/darth-tyranus"),
+        ("Planet", "Coruscant", "coruscant"),
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "lucrehulk-class": [
+        ("Character", "Nute Gunray", "characters/nute-gunray"),
+        ("Planet", "Naboo", "naboo"),
+        ("Faction", "Trade Federation", "factions/trade-federation"),
+    ],
+    "droid-control-ship": [
+        ("Character", "Anakin Skywalker", "characters/anakin-skywalker"),
+        ("Character", "Ric Olié", "characters/ric-olie"),
+        ("Planet", "Naboo", "naboo"),
+        ("Faction", "Trade Federation", "factions/trade-federation"),
+    ],
+    "j-type-327": [
+        ("Character", "Padmé Amidala", "characters/padme-amidala"),
+        ("Character", "Ric Olié", "characters/ric-olie"),
+        ("Planet", "Naboo", "naboo"),
+        ("Faction", "Royal House of Naboo", "factions/naboo"),
+    ],
+    "n-1-starfighter": [
+        ("Character", "Anakin Skywalker", "characters/anakin-skywalker"),
+        ("Character", "Padmé Amidala", "characters/padme-amidala"),
+        ("Planet", "Naboo", "naboo"),
+        ("Faction", "Royal House of Naboo", "factions/naboo"),
+    ],
+    "naboo-royal-yacht": [
+        ("Character", "Padmé Amidala", "characters/padme-amidala"),
+        ("Planet", "Naboo", "naboo"),
+    ],
+    "vulture-droid": [
+        ("Character", "Anakin Skywalker", "characters/anakin-skywalker"),
+        ("Planet", "Geonosis", "planet/geonosis"),
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "hyena-class": [
+        ("Planet", "Coruscant", "coruscant"),
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "munificent-class": [
+        ("Character", "Count Dooku", "characters/count-dooku"),
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "recusant-class": [
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "providence-class": [
+        ("Character", "General Grievous", "characters/general-grievous"),
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "subjugator-class": [
+        ("Character", "Count Dooku", "characters/count-dooku"),
+        ("Sith", "Darth Tyranus", "sith/darth-tyranus"),
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "ebon-hawk": [
+        ("Character", "Revan", "characters/revan"),
+        ("Character", "Bastila Shan", "characters/bastila-shan"),
+        ("Jedi", "Revan", "jedi/revan"),
+        ("Jedi", "Bastila Shan", "jedi/bastila-shan"),
+        ("Planet", "Taris", "planet/taris"),
+        ("Planet", "Malachor V", "planet/malachor-v"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "endar-spire": [
+        ("Character", "Bastila Shan", "characters/bastila-shan"),
+        ("Character", "Carth Onasi", "characters/carth-onasi"),
+        ("Jedi", "Bastila Shan", "jedi/bastila-shan"),
+        ("Planet", "Taris", "planet/taris"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "leviathan": [
+        ("Character", "Darth Malak", "characters/darth-malak"),
+        ("Sith", "Darth Malak", "sith/darth-malak"),
+        ("Faction", "Sith Empire", "factions/sith-empire"),
+    ],
+    "harrower-class": [
+        ("Character", "Darth Malgus", "characters/darth-malgus"),
+        ("Sith", "Darth Malgus", "sith/darth-malgus"),
+        ("Planet", "Coruscant", "coruscant"),
+        ("Faction", "Sith Empire", "factions/sith-empire"),
+    ],
+    "fury-class": [
+        ("Sith", "Darth Malgus", "sith/darth-malgus"),
+        ("Faction", "Sith Empire", "factions/sith-empire"),
+    ],
+    "sith-interceptor": [
+        ("Character", "Darth Malak", "characters/darth-malak"),
+        ("Sith", "Darth Malak", "sith/darth-malak"),
+        ("Faction", "Sith Empire", "factions/sith-empire"),
+    ],
+    "resurgent-class": [
+        ("Character", "Kylo Ren", "characters/kylo-ren"),
+        ("Character", "General Hux", "characters/general-hux"),
+        ("Planet", "Starkiller Base", "starkiller-base"),
+        ("Faction", "First Order", "factions/first-order"),
+    ],
+    "supremacy": [
+        ("Character", "Supreme Leader Snoke", "characters/snoke"),
+        ("Character", "Kylo Ren", "characters/kylo-ren"),
+        ("Faction", "First Order", "factions/first-order"),
+    ],
+    "tie-fo": [
+        ("Character", "Poe Dameron", "characters/poe-dameron"),
+        ("Faction", "First Order", "factions/first-order"),
+    ],
+    "tie-sf": [
+        ("Character", "Kylo Ren", "characters/kylo-ren"),
+        ("Faction", "First Order", "factions/first-order"),
+    ],
+    "t-70-x-wing": [
+        ("Character", "Poe Dameron", "characters/poe-dameron"),
+        ("Character", "Rey", "characters/rey"),
+        ("Planet", "D'Qar", "planet/d-qar"),
+        ("Faction", "Resistance", "factions/resistance"),
+    ],
+    "mc85-cruiser": [
+        ("Character", "Leia Organa", "characters/leia-organa"),
+        ("Character", "Amilyn Holdo", "characters/amilyn-holdo"),
+        ("Planet", "Crait", "planet/crait"),
+        ("Faction", "Resistance", "factions/resistance"),
+    ],
+    "mg-100-bomber": [
+        ("Character", "Paige Tico", "characters/paige-tico"),
+        ("Faction", "Resistance", "factions/resistance"),
+    ],
+    "komrk-class": [
+        ("Character", "Pre Vizsla", "characters/pre-vizsla"),
+        ("Character", "Bo-Katan Kryze", "characters/bo-katan-kryze"),
+        ("Faction", "Mandalorians", "factions/mandalorians"),
+    ],
+    "gauntlet-fighter": [
+        ("Character", "Pre Vizsla", "characters/pre-vizsla"),
+        ("Faction", "Mandalorians", "factions/mandalorians"),
+    ],
+    "fang-class": [
+        ("Character", "Bo-Katan Kryze", "characters/bo-katan-kryze"),
+        ("Faction", "Mandalorians", "factions/mandalorians"),
+    ],
+    "gozanti-class": [
+        ("Character", "Agent Kallus", "characters/agent-kallus"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "consular-class": [
+        ("Character", "Qui-Gon Jinn", "characters/qui-gon-jinn"),
+        ("Jedi", "Qui-Gon Jinn", "jedi/qui-gon-jinn"),
+        ("Jedi", "Obi-Wan Kenobi", "jedi/obi-wan-kenobi"),
+        ("Planet", "Tatooine", "tatooine"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "pelta-class": [
+        ("Character", "Ahsoka Tano", "characters/ahsoka-tano"),
+        ("Jedi", "Ahsoka Tano", "jedi/ahsoka-tano"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "nu-class": [
+        ("Jedi", "Anakin Skywalker", "jedi/anakin-skywalker"),
+        ("Faction", "Galactic Republic", "factions/republic"),
+    ],
+    "theta-class": [
+        ("Character", "Emperor Palpatine", "characters/sheev-palpatine"),
+        ("Sith", "Darth Sidious", "sith/darth-sidious"),
+        ("Planet", "Mustafar", "mustafar"),
+        ("Faction", "Galactic Empire", "factions/empire"),
+    ],
+    "punworcca-116": [
+        ("Character", "Count Dooku", "characters/count-dooku"),
+        ("Sith", "Darth Tyranus", "sith/darth-tyranus"),
+        ("Faction", "Confederacy of Independent Systems", "factions/confederacy"),
+    ],
+    "geonosian-solar-sailer": [
+        ("Character", "Count Dooku", "characters/count-dooku"),
+        ("Planet", "Geonosis", "planet/geonosis"),
+    ],
+    "xyston-class": [
+        ("Character", "Emperor Palpatine", "characters/sheev-palpatine"),
+        ("Sith", "Darth Sidious", "sith/darth-sidious"),
+        ("Planet", "Exegol", "planet/exegol"),
+        ("Faction", "First Order", "factions/first-order"),
+    ],
+}
+
+# Default planets by era keywords in description
+ERA_PLANET_HINTS: list[tuple[str, str, str]] = [
+    ("geonosis", "Planet", "Geonosis", "planet/geonosis"),
+    ("coruscant", "Planet", "Coruscant", "coruscant"),
+    ("naboo", "Planet", "Naboo", "naboo"),
+    ("tatooine", "Planet", "Tatooine", "tatooine"),
+    ("hoth", "Planet", "Hoth", "hoth"),
+    ("yavin", "Planet", "Yavin 4", "yavin-4"),
+    ("endor", "Planet", "Endor", "endor"),
+    ("scarif", "Planet", "Scarif", "scarif"),
+    ("kamino", "Planet", "Kamino", "planet/kamino"),
+    ("mustafar", "Planet", "Mustafar", "mustafar"),
+    ("lothal", "Planet", "Lothal", "planet/lothal"),
+    ("malachor", "Planet", "Malachor", "planet/malachor"),
+    ("taris", "Planet", "Taris", "planet/taris"),
+    ("corellia", "Planet", "Corellia", "planet/corellia"),
+    ("mon cala", "Planet", "Mon Cala", "planet/mon-cala"),
+    ("utapau", "Planet", "Utapau", "planet/utapau"),
+    ("kashyyyk", "Planet", "Kashyyyk", "planet/kashyyyk"),
+    ("mandalore", "Planet", "Mandalore", "planet/mandalore"),
+]
+
+
+def person_label(category: str) -> str:
+    if category == "jedi":
+        return "Jedi"
+    if category == "sith":
+        return "Sith"
+    if category == "bounty-hunters":
+        return "Bounty Hunter"
+    if category == "droids":
+        return "Droid"
+    return "Character"

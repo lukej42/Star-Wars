@@ -1,0 +1,69 @@
+{
+  "overview": "The Krayt Dragon is a distinctive species of the desert & arid biome, native to Tatooine. Colossal desert dragons whose pearl hoards and armored hides make them apex predators of the Dune Sea; pearl variants are exceedingly rare. Across the saga films, live-action series, and animated chronicles, krayt dragon specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify krayt dragon populations across Tatooine within the broader desert & arid ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document krayt dragon interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, krayt dragon often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Tatooine apex.** Krayt dragons rule the Dune Sea; Obi-Wan Kenobi mimicked a dragon's call to terrify Tusken Raiders away from a young Luke Skywalker.\n\nConservationists debate protection status for krayt dragon on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Krayt Dragon enriches the desert & arid identity of Tatooine within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the krayt dragon remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, krayt dragon entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Tatooine in desert & arid surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Colossal desert dragons whose pearl hoards and armored hides make them apex predators of the Dune Sea",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Desert & Arid"
+  ],
+  "affiliations": [
+    "Desert & Arid",
+    "Tatooine",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued krayt dragon on Tatooine"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded krayt dragon encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened krayt dragon habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for krayt dragon populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Tatooine",
+      "route": "tatooine"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/krayt-dragon-scene.webp",
+      "caption": "Cinematic habitat portrait — Krayt Dragon"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Obi-Wan Kenobi",
+      "route": "characters/obi-wan-kenobi"
+    },
+    {
+      "label": "Character",
+      "value": "Luke Skywalker",
+      "route": "characters/luke-skywalker"
+    }
+  ]
+}

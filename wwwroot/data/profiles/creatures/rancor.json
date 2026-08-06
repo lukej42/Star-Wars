@@ -1,0 +1,96 @@
+{
+  "overview": "Rancors are towering carnivores native to Dathomir and other Outer Rim worlds — prized by Hutt crime lords as pit beasts for execution and entertainment. Their thick hides, crushing jaws, and surprising speed in enclosed spaces make them living weapons that require entire teams to transport and maintain.",
+  "history": "Wild rancors nest in canyon warrens and jungle caves, raising young in communal broods until adolescents compete for dominance. Hutts import rancors through smuggler networks, often drugging them for transport and keeping them half-starved to maximize arena aggression. Dathomir's Nightsisters historically respected rancors as kin rather than pets.\n\n**Luke Skywalker in Jabba's palace.** When Luke Skywalker, Leia Organa, and Chewbacca infiltrated Jabba the Hutt's palace on Tatooine to rescue Han Solo from carbonite, Jabba sentenced Luke and a Weequay guard to death in the rancor pit beneath the throne room. The trapdoor dropped them into a bone-strewn chamber where Jabba's prized bull rancor — a beast that had eaten many victims — emerged from its shadowed alcove.\n\nLuke initially dodged the rancor's crushing claws, but conventional weapons proved useless against its armored hide. As the gate began to close and the creature cornered him, Luke leaped onto a boulder, summoned a discarded skull, and crushed the gate-control mechanism — dropping a heavy portcullis spike directly onto the rancor's neck, killing it instantly. The crowd above fell silent; Jabba, furious at the loss of his pet, condemned Luke, Han, and Chewie to the Sarlacc instead.\n\nThe rancor keeper Malakili wept for the beast, revealing that even Jabba's monsters could inspire genuine affection. Luke's victory demonstrated that Jedi resourcefulness could defeat brute force without a lightsaber drawn — a prelude to the sail barge battle above the Great Pit of Carkoon.",
+  "significance": "The rancor pit sequence is Return of the Jedi's first action set piece — grounding the rescue mission in visceral danger before the larger Sarlacc set piece.\n\nRancors became franchise icons through games, comics, and The Book of Boba Fett's exploration of Malakili and rancor culture.\n\nEcologically, rancors illustrate how apex predators become commodified in Hutt criminal economies.",
+  "notableEvents": [
+    "Luke Skywalker killed Jabba's rancor in the palace pit beneath Tatooine",
+    "Malakili the rancor keeper mourned the beast after its death",
+    "Jabba sentenced surviving heroes to the Sarlacc following the rancor's defeat",
+    "Wild rancors documented on Dathomir, Felucia, and Ottethan",
+    "Boba Fett later encountered rancor-related culture on Tatooine"
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Luke Skywalker",
+      "route": "characters/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Jabba the Hutt",
+      "route": "characters/jabba-the-hutt"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    },
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Tatooine",
+      "route": "tatooine"
+    },
+    {
+      "label": "Planet",
+      "value": "Dathomir",
+      "route": "planet/dathomir"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Rescue of Han Solo from Jabba's palace",
+      "route": "characters/han-solo"
+    },
+    {
+      "text": "Great Pit of Carkoon skiff battle",
+      "route": "creatures/sarlacc"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode VI — Return of the Jedi"
+  ],
+  "series": [
+    "Star Wars: The Book of Boba Fett",
+    "Star Wars Galaxy of Creatures"
+  ],
+  "affiliations": [
+    "Hutt palace arenas",
+    "Dathomir wildlife",
+    "Desilijic Kajidic entertainment"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Jabba maintained a rancor pit beneath his Tatooine palace"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Luke Skywalker killed Jabba's rancor during the rescue mission"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Heroes condemned to Sarlacc after rancor defeat"
+    },
+    {
+      "era": "New Republic",
+      "event": "Rancor trafficking outlawed on multiple Rim worlds"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/rancor-scene.webp",
+      "caption": "Cinematic habitat portrait — Rancor"
+    },
+    {
+      "path": "/images/creatures/rancor-luke-skywalker-fight.webp",
+      "caption": "Luke Skywalker battles the rancor in Jabba the Hutt's palace pit"
+    }
+  ]
+}

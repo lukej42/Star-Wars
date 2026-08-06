@@ -1,0 +1,106 @@
+{
+  "dateRange": "c. 500 BBY – 19 BBY",
+  "overview": "The Corporate Alliance is Passel Argente's corporate militia conglomerate — a holding structure for NR-N99 Persuader tanks, droid enforcers, and planetary security contracts that backed Separatist ground campaigns across the Mid and Outer Rim. Argente sat on the Separatist Council as Magistrate, translating board votes directly into battlefield deployments.\n\nAlliance logos marked occupation forces on worlds where 'corporate stabilization' replaced Republic governance, making the Alliance one of the most visible faces of Separatist territorial control.",
+  "history": "Passel Argente built the Corporate Alliance by acquiring distressed planetary militias and rebranding them as security subsidiaries. Persuader tanks — nicknamed 'Corporate Alliance tanks' on HoloNet feeds — became symbols of Separatist mechanized assault.\n\nOn Geonosis, Alliance units fought alongside Techno Union droids during the war's opening battle. [Mace Windu](jedi/mace-windu) and the Jedi assault team encountered Alliance hardware in the arena staging yards before clone reinforcements arrived.\n\n[Count Dooku](sith/darth-tyranus) relied on Argente to hold provisional governments on captured worlds, installing corporate magistrates who answered to Serenno and Castell before they answered to local populations. [Padmé Amidala](characters/padme-amidala) documented Alliance atrocities in Senate petitions that rarely reached quorum.\n\nWhen Separatist command collapsed, Alliance subsidiaries were dismantled and Argente died with the Council on Mustafar. Persuader chassis remained in pirate service for decades.\n\n**Key figures and documented associations.** Archives tie Corporate Alliance operations to [Padmé Amidala](characters/padme-amidala), [Mace Windu](jedi/mace-windu), [Darth Tyranus](sith/darth-tyranus). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Corporate Alliance contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Coruscant, Geonosis. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Corporate Alliance agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "The Corporate Alliance shows how privatized occupation forces can implement regime change without formal invasion declarations. Its tank legions link boardroom votes to civilian displacement in a single supply chain.\n\nAlliance records remain primary sources for understanding Separatist ground doctrine outside droid-centric stereotypes.\n\n**Documented across galactic media.** Corporate Alliance appears in canonical records tied to Star Wars: Episode II — Attack of the Clones; Star Wars: Episode III — Revenge of the Sith; Star Wars: The Clone Wars; Star Wars: The Bad Batch. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Passel Argente consolidates planetary militias under Alliance charter",
+    "NR-N99 Persuader tanks debut on Geonosis",
+    "Alliance magistrates installed on occupied Rim worlds",
+    "Corporate security forces merge with CIS army command",
+    "Mustafar Council massacre ends Alliance leadership",
+    "Senate subpoenas request Corporate Alliance financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Corporate Alliance investigations without public findings",
+    "Hunter guild contract boards list standing Corporate Alliance retainer tiers",
+    "New Republic era audits attempt to map post-war Corporate Alliance shell companies"
+  ],
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Corporate magistrate networks",
+    "Persuader tank registries"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Corporate Alliance forms from acquired militias"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Persuader tanks deployed on Geonosis"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Alliance magistrates govern occupied territories"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Alliance dissolved after Separatist defeat"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Corporate Alliance influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/corporate-alliance-scene.webp",
+      "caption": "Cinematic illustration — Corporate Alliance"
+    },
+    {
+      "path": "/images/organizations/corporate-alliance.webp",
+      "caption": "Organization emblem — Corporate Alliance"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Padmé Amidala",
+      "route": "characters/padme-amidala"
+    },
+    {
+      "label": "Jedi",
+      "value": "Mace Windu",
+      "route": "jedi/mace-windu"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Tyranus",
+      "route": "sith/darth-tyranus"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    },
+    {
+      "label": "Planet",
+      "value": "Geonosis",
+      "route": "planet/geonosis"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "headOfGovernment": {
+    "value": "Corporate Alliance Magistrate Council",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Passel Argente",
+    "route": ""
+  }
+}

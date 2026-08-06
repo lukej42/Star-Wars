@@ -1,0 +1,136 @@
+{
+  "dateRange": "Ancient era – present",
+  "overview": "Crime Families — chiefly Hutt kajidic clans and syndicate councils — govern the galactic underworld through blood oaths, spice routes, bounty ledgers, and palace courts that outlast republics. This hub tracks major kajidics such as Desilijic and Besadii alongside Black Sun's Vigo Council, linking family structure to sector-scale criminal policy.\n\nWhere empires claim law, kajidics claim contracts — and enforce them with rancors, hunters, and fleet blockades.",
+  "history": "Hutt kajidics evolved on Nal Hutta and Nar Shaddaa, using family name suffixes (Desilijic, Besadii, etc.) to mark succession rights, debt inheritance, and territorial charters. [Jabba the Hutt](characters/jabba-the-hutt)'s Desilijic clan turned Tatooine into a palace state where [Boba Fett](characters/boba-fett), [Bib Fortuna](characters/bib-fortuna), and [Sy Snootles](characters/sy-snootles) played court politics with life-or-death stakes.\n\nBesadii kajidic rivals contested Kessel labor monopolies and spice pricing, led in later eras by [Durga Besadii](characters/jabba-the-hutt) legends contested in New Republic archives. Black Sun's Vigo Council offered a non-Hutt parallel — franchise crime families with Mustafar arbitration instead of palace spectacle.\n\n[Cad Bane](bounty-hunters/cad-bane), [Fennec Shand](characters/fennec-shand), and [Din Djarin](characters/din-djarin) navigated kajidic law when retrieving bounties or negotiating truces. [Luke Skywalker](jedi/luke-skywalker) and [Leia Organa](characters/leia-organa) confronted Desilijic power directly during the rescue of Han Solo from Jabba's court.\n\nAfter Jabba's death, [Boba Fett](characters/boba-fett) briefly claimed Tatooine underworld leadership, reshuffling kajidic alliances across Hutt Space.\n\n**Key figures and documented associations.** Archives tie Crime Families operations to [Jabba the Hutt](characters/jabba-the-hutt), [Bib Fortuna](characters/bib-fortuna), [Boba Fett](characters/boba-fett), [Sy Snootles](characters/sy-snootles), [Luke Skywalker](jedi/luke-skywalker), [Leia Organa](characters/leia-organa), [Cad Bane](bounty-hunters/cad-bane). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Crime Families contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Nal Hutta, Tatooine, Nar Shaddaa. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Crime Families agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "Crime families anchor Star Wars' underworld as political actors — not background color but governance systems with succession law, foreign policy, and military capacity.\n\nThe hub connects child entries for Desilijic, Besadii, and Black Sun Vigo structures.\n\n**Documented across galactic media.** Crime Families appears in canonical records tied to Star Wars: Episode IV — A New Hope; Star Wars: Episode V — The Empire Strikes Back; Star Wars: Episode VI — Return of the Jedi; Star Wars: The Book of Boba Fett; Star Wars: The Clone Wars; Star Wars: The Mandalorian. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Kajidic charters formalize Hutt succession and debt law",
+    "Desilijic establishes Tatooine palace governance under Jabba",
+    "Besadii challenges Desilijic spice monopolies",
+    "Rescue of Han Solo from Jabba's court",
+    "Boba Fett assumes Tatooine underworld leadership",
+    "Black Sun Vigo Council coordinates non-Hutt franchise crime",
+    "Senate subpoenas request Crime Families financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Crime Families investigations without public findings",
+    "Hunter guild contract boards list standing Crime Families retainer tiers",
+    "New Republic era audits attempt to map post-war Crime Families shell companies"
+  ],
+  "affiliations": [
+    "Desilijic kajidic",
+    "Besadii kajidic",
+    "Black Sun Vigo Council",
+    "Bounty Hunters' Guild patronage networks"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Hutt kajidics consolidate Nal Hutta power"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Jabba's Desilijic court dominates Tatooine"
+    },
+    {
+      "era": "Galactic Civil War",
+      "event": "Rescue of Han Solo destabilizes Desilijic"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Boba Fett reshapes Tatooine underworld"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Crime Families influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/crime-families-scene.webp",
+      "caption": "Cinematic illustration — Crime Families"
+    },
+    {
+      "path": "/images/organizations/crime-families.webp",
+      "caption": "Organization emblem — Crime Families"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Hutts",
+      "route": "factions/hutts"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Jabba the Hutt",
+      "route": "characters/jabba-the-hutt"
+    },
+    {
+      "label": "Character",
+      "value": "Bib Fortuna",
+      "route": "characters/bib-fortuna"
+    },
+    {
+      "label": "Character",
+      "value": "Boba Fett",
+      "route": "characters/boba-fett"
+    },
+    {
+      "label": "Character",
+      "value": "Sy Snootles",
+      "route": "characters/sy-snootles"
+    },
+    {
+      "label": "Jedi",
+      "value": "Luke Skywalker",
+      "route": "jedi/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    },
+    {
+      "label": "Bounty Hunter",
+      "value": "Cad Bane",
+      "route": "bounty-hunters/cad-bane"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Nal Hutta",
+      "route": "planet/nal-hutta"
+    },
+    {
+      "label": "Planet",
+      "value": "Tatooine",
+      "route": "tatooine"
+    },
+    {
+      "label": "Planet",
+      "value": "Nar Shaddaa",
+      "route": "settlements/nar-shaddaa"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode V — The Empire Strikes Back",
+    "Star Wars: Episode VI — Return of the Jedi"
+  ],
+  "series": [
+    "Star Wars: The Book of Boba Fett",
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Mandalorian",
+    "Star Wars: The Book of Boba Fett"
+  ],
+  "headOfGovernment": {
+    "value": "Grand Hutt Council observers",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Kajidic clan elders",
+    "route": ""
+  }
+}

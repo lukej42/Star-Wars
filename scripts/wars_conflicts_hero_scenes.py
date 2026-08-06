@@ -83,6 +83,11 @@ BATTLE_SCENES: dict[str, str] = {
         "Battle of Mon Cala underwater conflict: Republic SCUBA clone troopers and Mon Calamari "
         "militia battling Quarren and Separatist aqua droids in bioluminescent ocean trenches"
     ),
+    "jedi-purge": (
+        "Jedi Purge Order 66 on Coruscant: clone troopers firing blaster rifles at a Jedi Knight "
+        "defending the Temple's columned entrance while smoke rises from the High Council spire "
+        "and crimson emergency lighting washes the sacred steps"
+    ),
     # Galactic Civil War
     "battle-of-yavin": (
         "Battle of Yavin trench run: Rebel X-wings diving through the Death Star meridian trench "

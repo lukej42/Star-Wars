@@ -1,0 +1,126 @@
+{
+  "dateRange": "c. 1,000 BBY – present",
+  "overview": "Black Sun is a galaxy-spanning crime syndicate whose Vigo governors, assassin retainer pools, and Mustafar fortress-banks control smuggling, slavery, and extortion markets from the Clone Wars through the Imperial era and beyond. Unlike kajidic clans that advertise palace spectacle, Black Sun prefers shadow councils, disposable lieutenants, and sector bosses who answer to no single throne.\n\nIts reach intersects every major underworld story — from [Maul](sith/darth-maul)'s early power plays to [Boba Fett](characters/boba-fett)'s bounty markets and Imperial intelligence backchannels on Coruscant.",
+  "history": "Black Sun grew by franchising crime: each Vigo received territory charters, tax quotas, and assassin support in exchange for tribute upstream. Mustafar's lava-refinery fortresses became symbolic headquarters where disputes were settled with blades rather than courts.\n\nDuring the Clone Wars, [Darth Maul](sith/darth-maul) briefly attempted to absorb Black Sun into his Shadow Collective, killing Vigos who resisted and installing compliant lieutenants. [Obi-Wan Kenobi](jedi/obi-wan-kenobi) and [Ahsoka Tano](jedi/ahsoka-tano) later encountered Black Sun operatives on missions where syndicate politics collided with Sith vendettas.\n\nUnder the Empire, Black Sun balanced cooperation and defiance — selling intelligence to Imperial Security Bureau while smuggling weapons to dissidents. Imperial-era legends of Prince Xizor competing with [Darth Vader](sith/darth-vader) for Palpatine's favor remain disputed in New Republic archives.\n\n[Boba Fett](characters/boba-fett), [Fennec Shand](characters/fennec-shand), and independent hunters frequently worked Black Sun contracts on Nar Shaddaa and Tatooine, treating Vigo payout tables as industry standard pricing.\n\n**Key figures and documented associations.** Archives tie Black Sun operations to [Darth Maul](sith/darth-maul), [Boba Fett](characters/boba-fett), [Fennec Shand](characters/fennec-shand), [Obi-Wan Kenobi](jedi/obi-wan-kenobi), [Ahsoka Tano](jedi/ahsoka-tano), [Darth Vader](sith/darth-vader). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Black Sun contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Mustafar, Coruscant. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Black Sun agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "Black Sun defines the 'modern' galactic syndicate — decentralized, franchise-based, and durable enough to survive Sith coups and Imperial purges alike.\n\nMustafar's pairing with Black Sun in popular memory links crime to volcanic industrial horror, influencing how later regimes hide torture facilities inside refinery complexes.\n\n**Documented across galactic media.** Black Sun appears in canonical records tied to Star Wars: Episode II — Attack of the Clones; Star Wars: Episode III — Revenge of the Sith; Star Wars: Episode VI — Return of the Jedi; Star Wars: The Clone Wars; Star Wars: The Bad Batch; Star Wars: The Mandalorian. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Black Sun Vigo system formalized across Rim sectors",
+    "Mustafar fortress-banks become syndicate arbitration sites",
+    "Darth Maul's Shadow Collective absorbs resistant Vigos",
+    "Imperial era cooperation with ISB shadow desks",
+    "Nar Shaddaa markets standardize Black Sun contract law",
+    "Post-Endor succession wars among competing Vigos",
+    "Senate subpoenas request Black Sun financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Black Sun investigations without public findings",
+    "Hunter guild contract boards list standing Black Sun retainer tiers",
+    "New Republic era audits attempt to map post-war Black Sun shell companies"
+  ],
+  "affiliations": [
+    "Vigo territorial charters",
+    "Mustafar fortress-banks",
+    "Assassin retainer guilds",
+    "Nar Shaddaa shadow markets"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Black Sun Vigo councils formalized"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Maul's Shadow Collective challenges Vigo independence"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Syndicate operates dual contracts with ISB and smugglers"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Vigo succession conflicts reshape Rim crime map"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Black Sun influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/black-sun-scene.webp",
+      "caption": "Cinematic illustration — Black Sun"
+    },
+    {
+      "path": "/images/organizations/black-sun.webp",
+      "caption": "Organization emblem — Black Sun"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Hutts",
+      "route": "factions/hutts"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Darth Maul",
+      "route": "sith/darth-maul"
+    },
+    {
+      "label": "Character",
+      "value": "Boba Fett",
+      "route": "characters/boba-fett"
+    },
+    {
+      "label": "Character",
+      "value": "Fennec Shand",
+      "route": "characters/fennec-shand"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Ahsoka Tano",
+      "route": "jedi/ahsoka-tano"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Vader",
+      "route": "sith/darth-vader"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Mustafar",
+      "route": "mustafar"
+    },
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith",
+    "Star Wars: Episode VI — Return of the Jedi"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch",
+    "Star Wars: The Mandalorian",
+    "Star Wars: The Book of Boba Fett"
+  ],
+  "headOfGovernment": {
+    "value": "Black Sun Underboss network",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Black Sun Vigo Council",
+    "route": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "overview": "The Charhound is a distinctive species of the volcanic & wasteland biome, native to Elphrona. Ash-coated pack hunters adapted to high-temperature wastelands, tracking prey across scorched plains with ember-glow eyes. Across the saga films, live-action series, and animated chronicles, charhound specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify charhound populations across Elphrona within the broader volcanic & wasteland ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document charhound interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, charhound often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Elphrona wastes.** Charhounds tracked prey across volcanic plains with ember-glow eyes adapted to extreme heat.\n\nConservationists debate protection status for charhound on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Charhound enriches the volcanic & wasteland identity of Elphrona within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the charhound remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, charhound entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Elphrona in volcanic & wasteland surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Ash-coated pack hunters adapted to high-temperature wastelands, tracking prey across scorched plains with ember-glow eye",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Volcanic & Wasteland"
+  ],
+  "affiliations": [
+    "Volcanic & Wasteland",
+    "Elphrona",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued charhound on Elphrona"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded charhound encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened charhound habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for charhound populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Elphrona",
+      "route": "planet/elphrona"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/charhound-scene.webp",
+      "caption": "Cinematic habitat portrait — Charhound"
+    }
+  ]
+}

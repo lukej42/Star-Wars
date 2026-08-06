@@ -1,0 +1,106 @@
+{
+  "dateRange": "c. 1,000 BBY – present",
+  "overview": "The Spice Runners' Guild charters pilots who move glitterstim and refined spice along the Kessel Run under Pyke Syndicate contracts while evading Imperial customs patrols. Guild membership provides route codes, emergency hideouts, and collective leverage against single-captain price fixing by labor brokers.\n\nThe guild's mythology centers on speed — parsecs as reputation, coaxium as temptation, and Pyke enforcers as the penalty for late delivery.",
+  "history": "Kessel's spice mines generated demand for specialized pilots who could navigate Maw Cluster turbulence faster than customs interdictors. Spice Runners' Guild syndics on Kessel registered captain times, enforced Pyke tribute schedules, and posted bounties on crews who stole shipments.\n\n[Han Solo](characters/han-solo)'s record Kessel Run — aided by [Chewbacca](characters/chewbacca) and L3-37's navicomputer hacks in some accounts — made guild recruitment surge across the Rim. [Qi'ra](characters/qira) and Crimson Dawn later exploited guild rivalries to redirect coaxium flows during the Imperial consolidation era.\n\n[Cad Bane](bounty-hunters/cad-bane) tracked guild defaulters for Pyke capos, while Rebel cells occasionally hired spice runners for covert supply under false manifests.\n\n**Key figures and documented associations.** Archives tie Spice Runners' Guild operations to [Han Solo](characters/han-solo), [Chewbacca](characters/chewbacca), [Qi'ra](characters/qira), [Cad Bane](bounty-hunters/cad-bane). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Spice Runners' Guild contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Kessel, Oba Diah. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Spice Runners' Guild agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "The Spice Runners' Guild connects Kessel astronomy to smuggler hero lore — making industrial slavery's product into a pilot prestige economy.\n\nChild of the Smuggler Guilds hub, it links to Pyke Syndicate parent economics.\n\n**Documented across galactic media.** Spice Runners' Guild appears in canonical records tied to Star Wars: Episode IV — A New Hope; Solo: A Star Wars Story; Star Wars: The Mandalorian. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Guild syndics register Kessel Run route times",
+    "Pyke contracts formalize spice tribute schedules",
+    "Han Solo completes record Kessel Run",
+    "Crimson Dawn exploits guild route rivalries",
+    "Imperial customs interdictors target guild convoys",
+    "Senate subpoenas request Spice Runners' Guild financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Spice Runners' Guild investigations without public findings",
+    "Hunter guild contract boards list standing Spice Runners' Guild retainer tiers",
+    "New Republic era audits attempt to map post-war Spice Runners' Guild shell companies"
+  ],
+  "affiliations": [
+    "Pyke Syndicate contracts",
+    "Kessel labor broker networks",
+    "Smuggler Guilds umbrella charter"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Kessel spice routes attract specialist pilots"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Guild syndics formalize under Pyke oversight"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Han Solo's Run becomes guild legend"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Spice Runners' Guild influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/spice-runners-guild-scene.webp",
+      "caption": "Cinematic illustration — Spice Runners' Guild"
+    },
+    {
+      "path": "/images/organizations/spice-runners-guild.webp",
+      "caption": "Organization emblem — Spice Runners' Guild"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Organization",
+      "value": "Pyke Syndicate",
+      "route": "organizations/pyke-syndicate"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Character",
+      "value": "Chewbacca",
+      "route": "characters/chewbacca"
+    },
+    {
+      "label": "Character",
+      "value": "Qi'ra",
+      "route": "characters/qira"
+    },
+    {
+      "label": "Bounty Hunter",
+      "value": "Cad Bane",
+      "route": "bounty-hunters/cad-bane"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Kessel",
+      "route": "planet/kessel"
+    },
+    {
+      "label": "Planet",
+      "value": "Oba Diah",
+      "route": "planet/oba-diah"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Solo: A Star Wars Story"
+  ],
+  "series": [
+    "Star Wars: The Mandalorian"
+  ],
+  "headOfGovernment": {
+    "value": "Pyke contract arbitration board",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Kessel Run route captains' syndic",
+    "route": ""
+  }
+}

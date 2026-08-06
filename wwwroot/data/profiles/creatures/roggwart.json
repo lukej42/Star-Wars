@@ -1,0 +1,51 @@
+{
+  "overview": "The Roggwart is a distinctive species of the jungle & forest biome, native to Various. Horned ape-like brutes with prehensile tails, often chained as guard beasts in Hutt palaces and Separatist fortresses. Across the saga films, live-action series, and animated chronicles, roggwart specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify roggwart populations across Various within the broader jungle & forest ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document roggwart interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, roggwart often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Hutt guards.** Roggwarts chained as palace guard beasts lunged from murky pools in Hutt fortresses across the Outer Rim.\n\nConservationists debate protection status for roggwart on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Roggwart enriches the jungle & forest identity of Various within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the roggwart remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, roggwart entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Various in jungle & forest surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Horned ape-like brutes with prehensile tails, often chained as guard beasts in Hutt palaces and Separatist fortresses.",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Jungle & Forest"
+  ],
+  "affiliations": [
+    "Jungle & Forest",
+    "Various",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued roggwart on Various"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded roggwart encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened roggwart habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for roggwart populations"
+    }
+  ],
+  "planets": [],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/roggwart-scene.webp",
+      "caption": "Cinematic habitat portrait — Roggwart"
+    }
+  ]
+}

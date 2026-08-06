@@ -1,0 +1,192 @@
+{
+  "dateRange": "19 BBY – c. 5 BBY",
+  "overview": "The Inquisitorius is [Darth Sidious](sith/darth-sidious) and [Darth Vader](sith/darth-vader)'s dark-side hunter order — a cadre of former Jedi turned interrogators, trackers, and executioners tasked with eliminating Jedi survivors after Order 66. Led initially by [The Grand Inquisitor](sith/grand-inquisitor), the Inquisitors wield spinning double-bladed lightsabers, Imperial intelligence resources, and fortress facilities such as the Fortress Inquisitorius on Nur.\n\nThey are neither fully Sith nor merely Imperial officers; Palpatine designed them as disposable weapons who could hunt Force-sensitives without violating Rule of Two economics.",
+  "history": "In the immediate aftermath of Order 66, surviving Jedi scattered across the Rim while Imperial propaganda declared the Order extinct. Vader selected fallen Jedi and dark-side  adepts to become Inquisitors — granting them truncated training, rank insignia, and hunting charters in exchange for absolute obedience.\n\n[The Grand Inquisitor](sith/grand-inquisitor) pursued [Kanan Jarrus](jedi/kanan-jarrus) and [Ezra Bridger](jedi/ezra-bridger) across Lothal and beyond, while [The Second Sister](sith/second-sister) and [The Ninth Sister](sith/ninth-sister) targeted Cal Kestis-era fugitives in Jedi: Survivor canon pathways. [Ahsoka Tano](jedi/ahsoka-tano) escaped Inquisitorius custody narratives repeatedly cited in classified ISB files.\n\nFortress Inquisitorius on Nur became a torture and experimentation site where children with Force sensitivity were abducted for Project Harvester. [Darth Vader](sith/darth-vader) personally oversaw high-value captures, treating Inquisitors as extensions of his hunt for Obi-Wan Kenobi and other high-profile survivors.\n\nThe Grand Inquisitor's death over Mustafar weakened central coordination, yet individual Inquisitors remained dangerous through the early Rebellion era until attrition and internal purges reduced their numbers.\n\n**Key figures and documented associations.** Archives tie Inquisitorius operations to [The Grand Inquisitor](sith/grand-inquisitor), [Darth Vader](sith/darth-vader), [Darth Sidious](sith/darth-sidious), [Second Sister](sith/second-sister), [Ninth Sister](sith/ninth-sister), [Fifth Brother](sith/fifth-brother), [Kanan Jarrus](jedi/kanan-jarrus), [Ezra Bridger](jedi/ezra-bridger). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Inquisitorius contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Coruscant, Mustafar. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Inquisitorius agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "The Inquisitorius embodies the Imperial Jedi Purge as institutional policy — not a single massacre but a sustained counterinsurgency against Force traditions.\n\nTheir spinning sabers and pale visages became HoloNet nightmares that discouraged public sympathy for hidden Jedi, aiding Palpatine's narrative of Order betrayal.\n\n**Documented across galactic media.** Inquisitorius appears in canonical records tied to Star Wars: Episode III — Revenge of the Sith; Star Wars Rebels; Star Wars: Obi-Wan Kenobi; Star Wars: Tales of the Jedi; Star Wars Jedi: Fallen Order; Star Wars Jedi: Survivor. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Order 66 triggers Inquisitorius charter under Vader",
+    "Grand Inquisitor appointed master hunter of fugitive Jedi",
+    "Fortress Inquisitorius constructed on Nur",
+    "Project Harvester abducts Force-sensitive children",
+    "Hunts for Kanan Jarrus and Ezra Bridger on Lothal",
+    "Second Sister and Ninth Sister deployed against Jedi survivors",
+    "Grand Inquisitor dies over Mustafar reactor duel",
+    "Senate subpoenas request Inquisitorius financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Inquisitorius investigations without public findings",
+    "Hunter guild contract boards list standing Inquisitorius retainer tiers",
+    "New Republic era audits attempt to map post-war Inquisitorius shell companies"
+  ],
+  "affiliations": [
+    "Imperial Security Bureau liaisons",
+    "Fortress Inquisitorius garrisons",
+    "Project Harvester teams",
+    "Dark-side interrogation academies"
+  ],
+  "timeline": [
+    {
+      "era": "Imperial Era",
+      "event": "Inquisitorius founded after Order 66"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Grand Inquisitor leads purge operations"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Nur fortress activated for Jedi detention"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Lothal hunts target Spectres cell"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Order attrition reduces active Inquisitors"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Inquisitorius influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/inquisitorius-scene.webp",
+      "caption": "Cinematic illustration — Inquisitorius"
+    },
+    {
+      "path": "/images/organizations/inquisitorius.webp",
+      "caption": "Organization emblem — Inquisitorius"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Jedi Purge — Order 66 and the Inquisitorius hunt",
+      "route": "wars-conflicts/battles/jedi-purge"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Empire",
+      "route": "factions/empire"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "The Grand Inquisitor",
+      "route": "sith/grand-inquisitor"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Vader",
+      "route": "sith/darth-vader"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Sidious",
+      "route": "sith/darth-sidious"
+    },
+    {
+      "label": "Sith",
+      "value": "Second Sister",
+      "route": "sith/second-sister"
+    },
+    {
+      "label": "Sith",
+      "value": "Ninth Sister",
+      "route": "sith/ninth-sister"
+    },
+    {
+      "label": "Sith",
+      "value": "Fifth Brother",
+      "route": "sith/fifth-brother"
+    },
+    {
+      "label": "Jedi",
+      "value": "Kanan Jarrus",
+      "route": "jedi/kanan-jarrus"
+    },
+    {
+      "label": "Jedi",
+      "value": "Ezra Bridger",
+      "route": "jedi/ezra-bridger"
+    },
+    {
+      "label": "Jedi",
+      "value": "Ahsoka Tano",
+      "route": "jedi/ahsoka-tano"
+    }
+  ],
+  "jediFallen": [
+    {
+      "label": "Jedi",
+      "value": "Ki-Adi-Mundi",
+      "route": "jedi/ki-adi-mundi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Plo Koon",
+      "route": "jedi/plo-koon"
+    },
+    {
+      "label": "Jedi",
+      "value": "Depa Billaba",
+      "route": "jedi/depa-billaba"
+    }
+  ],
+  "jediSurvived": [
+    {
+      "label": "Jedi",
+      "value": "Kanan Jarrus",
+      "route": "jedi/kanan-jarrus"
+    },
+    {
+      "label": "Jedi",
+      "value": "Ahsoka Tano",
+      "route": "jedi/ahsoka-tano"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Yoda",
+      "route": "jedi/yoda"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    },
+    {
+      "label": "Planet",
+      "value": "Mustafar",
+      "route": "mustafar"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars Rebels",
+    "Star Wars: Obi-Wan Kenobi",
+    "Star Wars: Tales of the Jedi"
+  ],
+  "games": [
+    "Star Wars Jedi: Fallen Order",
+    "Star Wars Jedi: Survivor"
+  ],
+  "headOfGovernment": {
+    "value": "Darth Vader",
+    "route": "sith/darth-vader"
+  },
+  "headOfState": {
+    "value": "The Grand Inquisitor",
+    "route": "sith/grand-inquisitor"
+  }
+}

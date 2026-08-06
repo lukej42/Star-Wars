@@ -1,0 +1,101 @@
+{
+  "overview": "The Sarlacc is a colossal subterranean predator whose Great Pit of Carkoon on Tatooine became synonymous with Hutt execution rituals. Victims digested over centuries in the creature's belly suffer a fate Jabba the Hutt described as worse than death — conscious agony in darkness while the Sarlacc slowly absorbs their life force.",
+  "history": "Sarlaccs begin as spores drifting through Tatooine's upper atmosphere before rooting in desert crust and excavating pits over millennia. Tentacles ring the mouth to snare prey while the main body extends kilometers underground. Only one Great Pit of Carkoon is confirmed active in modern records, though legends speak of others buried beneath the Dune Sea.\n\n**Return of the Jedi — the skiff battle.** After Luke Skywalker killed Jabba's rancor, the Hutt ordered prisoners transported to the Great Pit of Carkoon on a desert skiff convoy. Luke, Han Solo (still recovering from hibernation sickness), Chewbacca, and Lando Calrissian (disguised as a guard) rode the lead skiff toward the pit's maw while Jabba's sail barge hosted spectators above.\n\nFrom the skiff's rail, prisoners could see the Sarlacc's tentacles writhing in the sand bowl below — a yawning maw that had consumed countless bounty hunters and debtors. Jabba demanded they witness their friends' execution. Instead, Luke — having concealed his new lightsaber in R2-D2 — caught the weapon mid-air, cut through guards, and sparked the battle that destroyed Jabba's barge and freed Leia, who had strangled the Hutt with her own chain.\n\nBoba Fett famously tumbled into the pit during the fight; Mandalorian armor and Sarlacc biology later became the subject of legend when he escaped decades afterward. Han Solo, half-blind and uncertain which direction to shoot, nonetheless helped hold the skiff long enough for Luke to prevail — completing the rescue arc that began in Cloud City.\n\nThe Sarlacc pit remains a pilgrimage site for smugglers and historians, though the creature's post-Boba status is debated in classified Mandalorian records.",
+  "significance": "The Great Pit of Carkoon anchors Return of the Jedi's opening act — reuniting the heroes and destroying the saga's most iconic crime lord.\n\nBoba Fett's survival and escape, explored in The Mandalorian and The Book of Boba Fett, turned the Sarlacc from a death sentence into a decades-long crucible.\n\nThe creature represents Tatooine's harsh mythology: the desert consumes everyone eventually.",
+  "notableEvents": [
+    "Jabba the Hutt sentenced Luke, Han, and Chewie to execution at the Great Pit of Carkoon",
+    "Skiff battle above the Sarlacc during the rescue of Han Solo",
+    "Boba Fett fell into the Sarlacc during the fight (later escaped)",
+    "Jabba's sail barge destroyed; Leia Organa killed Jabba",
+    "Luke Skywalker and allies escaped aboard the party barge"
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Luke Skywalker",
+      "route": "characters/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    },
+    {
+      "label": "Character",
+      "value": "Boba Fett",
+      "route": "bounty-hunters/boba-fett"
+    },
+    {
+      "label": "Character",
+      "value": "Jabba the Hutt",
+      "route": "characters/jabba-the-hutt"
+    },
+    {
+      "label": "Character",
+      "value": "Lando Calrissian",
+      "route": "characters/lando-calrissian"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Tatooine",
+      "route": "tatooine"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Rescue mission at Jabba's palace",
+      "route": "characters/han-solo"
+    },
+    {
+      "text": "Luke Skywalker vs. the rancor",
+      "route": "creatures/rancor"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode VI — Return of the Jedi"
+  ],
+  "series": [
+    "Star Wars: The Book of Boba Fett",
+    "Star Wars: The Mandalorian"
+  ],
+  "affiliations": [
+    "Hutt execution rituals",
+    "Tatooine Dune Sea ecology",
+    "Bounty hunter legend"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient",
+      "event": "Great Pit of Carkoon Sarlacc established over millennia"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Jabba used the pit for executions and spectacle"
+    },
+    {
+      "era": "4 ABY",
+      "event": "Skiff battle and Jabba's death at Carkoon"
+    },
+    {
+      "era": "4 ABY–9 ABY",
+      "event": "Boba Fett survived digestion inside the Sarlacc"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/sarlacc-scene.webp",
+      "caption": "Cinematic habitat portrait — Sarlacc"
+    },
+    {
+      "path": "/images/creatures/sarlacc-return-of-the-jedi-skiff.webp",
+      "caption": "Rebel heroes on a skiff above the Great Pit of Carkoon"
+    }
+  ]
+}

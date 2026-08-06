@@ -1,0 +1,106 @@
+{
+  "dateRange": "Ancient era – present",
+  "overview": "The Besadii kajidic is Desilijic's great rival — a Hutt clan led in its modern apex by Durga Besadii that contested spice monopolies, Kessel labor contracts, and Nar Shaddaa dock rights through the New Republic era. Besadii preferred corporate fronts and bulk freighter fleets over Jabba-style palace theatre.\n\nWhere Desilijic ruled through spectacle, Besadii ruled through spreadsheets and slave-labor quotas.",
+  "history": "Besadii investments in Kessel spice mines made the clan indispensable to Pyke refineries and Imperial labor brokers alike. Contract disputes with Desilijic often ended in assassination or sabotage rather than open fleet battles.\n\nDurga Besadii's expansion during the New Republic era threatened to unify Hutt Space under a single non-Desilijic banner until internal sabotage and Jedi-adjacent interventions — including [Leia Organa](characters/leia-organa)'s diplomatic missions — fractured Besadii credit lines.\n\n[Han Solo](characters/han-solo)'s Kessel Run debts and [Chewbacca](characters/chewbacca)'s Imperial entanglements occasionally intersected Besadii labor brokers, linking smuggler hero lore to kajidic economics.\n\n**Key figures and documented associations.** Archives tie Besadii Kajidic operations to [Han Solo](characters/han-solo), [Chewbacca](characters/chewbacca), [Leia Organa](characters/leia-organa), [Jabba the Hutt](characters/jabba-the-hutt). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Besadii Kajidic contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Nal Hutta, Kessel. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Besadii Kajidic agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "Besadii proves Hutt power is not monolithic — rival kajidics wage economic war as ferociously as any corporate bloc.\n\nKessel labor history cannot be told without Besadii contract archives.\n\n**Documented across galactic media.** Besadii Kajidic appears in canonical records tied to Star Wars: Episode IV — A New Hope; Star Wars: The Clone Wars; Star Wars: The Mandalorian; Star Wars: The Book of Boba Fett. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Besadii secures Kessel labor broker monopolies",
+    "Rival assassinations with Desilijic over spice pricing",
+    "Durga Besadii expands during New Republic power vacuum",
+    "Diplomatic and sabotage campaigns reduce Besadii unity",
+    "Senate subpoenas request Besadii Kajidic financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Besadii Kajidic investigations without public findings",
+    "Hunter guild contract boards list standing Besadii Kajidic retainer tiers",
+    "New Republic era audits attempt to map post-war Besadii Kajidic shell companies"
+  ],
+  "affiliations": [
+    "Crime Families hub",
+    "Kessel labor contractors",
+    "Pyke Syndicate shipping partners"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Besadii kajidic formalizes on Nal Hutta"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Kessel contracts expand Besadii wealth"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Durga Besadii challenges Desilijic vacuum"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Besadii Kajidic influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/besadii-kajidic-scene.webp",
+      "caption": "Cinematic illustration — Besadii Kajidic"
+    },
+    {
+      "path": "/images/organizations/besadii-kajidic.webp",
+      "caption": "Organization emblem — Besadii Kajidic"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Hutts",
+      "route": "factions/hutts"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Character",
+      "value": "Chewbacca",
+      "route": "characters/chewbacca"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    },
+    {
+      "label": "Character",
+      "value": "Jabba the Hutt",
+      "route": "characters/jabba-the-hutt"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Nal Hutta",
+      "route": "planet/nal-hutta"
+    },
+    {
+      "label": "Planet",
+      "value": "Kessel",
+      "route": "planet/kessel"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Mandalorian",
+    "Star Wars: The Book of Boba Fett"
+  ],
+  "headOfGovernment": {
+    "value": "Besadii estate regents",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Durga the Hutt",
+    "route": ""
+  }
+}

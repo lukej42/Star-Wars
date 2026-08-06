@@ -1,0 +1,64 @@
+{
+  "overview": "The Vulptex is a distinctive species of the crystal & mineral biome, native to Crait. Crystal-furred foxes whose luminous coats refract light through Crait's salt-crystal caverns, guiding Resistance survivors to hidden exits. Across the saga films, live-action series, and animated chronicles, vulptex specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify vulptex populations across Crait within the broader crystal & mineral ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document vulptex interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, vulptex often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Battle of Crait.** Crystal vulptexes led Resistance survivors through salt-crystal caverns during the evacuation after the Battle of Crait.\n\nConservationists debate protection status for vulptex on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Vulptex enriches the crystal & mineral identity of Crait within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the vulptex remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, vulptex entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Crait in crystal & mineral surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Crystal-furred foxes whose luminous coats refract light through Crait's salt-crystal caverns, guiding Resistance survivo",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Crystal & Mineral"
+  ],
+  "affiliations": [
+    "Crystal & Mineral",
+    "Crait",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued vulptex on Crait"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded vulptex encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened vulptex habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for vulptex populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Crait",
+      "route": "planet/crait"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/vulptex-scene.webp",
+      "caption": "Cinematic habitat portrait — Vulptex"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Luke Skywalker",
+      "route": "characters/luke-skywalker"
+    }
+  ]
+}

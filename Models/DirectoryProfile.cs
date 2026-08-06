@@ -10,6 +10,8 @@ public sealed class DirectoryProfile
     public IReadOnlyList<ProfileLinkedEvent> MajorEvents { get; init; } = [];
     public IReadOnlyList<ProfileLinkItem> KeyFactions { get; init; } = [];
     public IReadOnlyList<ProfileLinkItem> MajorCharacters { get; init; } = [];
+    public IReadOnlyList<ProfileLinkItem> JediFallen { get; init; } = [];
+    public IReadOnlyList<ProfileLinkItem> JediSurvived { get; init; } = [];
     public IReadOnlyList<ProfileLinkItem> Planets { get; init; } = [];
     public IReadOnlyList<ProfileLinkItem> Ships { get; init; } = [];
     public IReadOnlyList<string> Films { get; init; } = [];

@@ -1,0 +1,58 @@
+{
+  "overview": "The Purrgil is a distinctive species of the space & vacuum biome, native to Unknown Regions. Hyperspace-navigating space whales whose natural routes inspired early hyperdrive mappers and whom Ezra Bridger communed with in the Unknown Regions. Across the saga films, live-action series, and animated chronicles, purrgil specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify purrgil populations across Unknown Regions within the broader space & vacuum ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document purrgil interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, purrgil often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Hyperspace migration.** Ezra Bridger communed with purrgil in the Unknown Regions, using their natural routes to inspire the Rebels' path to Lothal and later to exile with the pod.\n\nConservationists debate protection status for purrgil on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Purrgil enriches the space & vacuum identity of Unknown Regions within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the purrgil remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, purrgil entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Unknown Regions in space & vacuum surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Hyperspace-navigating space whales whose natural routes inspired early hyperdrive mappers and whom Ezra Bridger communed",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Space & Vacuum"
+  ],
+  "affiliations": [
+    "Space & Vacuum",
+    "Unknown Regions",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued purrgil on Unknown Regions"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded purrgil encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened purrgil habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for purrgil populations"
+    }
+  ],
+  "planets": [],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/purrgil-scene.webp",
+      "caption": "Cinematic habitat portrait — Purrgil"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Ezra Bridger",
+      "route": "characters/ezra-bridger"
+    }
+  ]
+}

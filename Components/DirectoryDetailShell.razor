@@ -183,6 +183,16 @@
         <DirectoryLinkedList Heading="Major characters" Items="@MajorCharacters" ItemsPerColumn="4" />
     }
 
+    @if (JediFallen.Count > 0)
+    {
+        <DirectoryLinkedList Heading="Jedi who fell during the Purge" Items="@JediFallen" ItemsPerColumn="4" />
+    }
+
+    @if (JediSurvived.Count > 0)
+    {
+        <DirectoryLinkedList Heading="Jedi who survived Order 66" Items="@JediSurvived" ItemsPerColumn="4" />
+    }
+
     @if (Planets.Count > 0)
     {
         <DirectoryLinkedList Heading="Planets" Items="@Planets" ItemsPerColumn="4" />
@@ -357,6 +367,12 @@
 
     [Parameter]
     public IReadOnlyList<ProfileLinkItem> MajorCharacters { get; set; } = Array.Empty<ProfileLinkItem>();
+
+    [Parameter]
+    public IReadOnlyList<ProfileLinkItem> JediFallen { get; set; } = Array.Empty<ProfileLinkItem>();
+
+    [Parameter]
+    public IReadOnlyList<ProfileLinkItem> JediSurvived { get; set; } = Array.Empty<ProfileLinkItem>();
 
     [Parameter]
     public IReadOnlyList<ProfileLinkItem> Planets { get; set; } = Array.Empty<ProfileLinkItem>();

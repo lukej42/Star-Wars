@@ -1,0 +1,112 @@
+{
+  "dateRange": "Ancient era – present",
+  "overview": "Hutt Smuggling Rings are loose kajidic-backed convoy networks that ferry spice, slaves, and weapons through Nal Hutta's protected shipping lanes. Unlike formal guilds with published charters, Hutt rings operate through oral contracts, palace favor, and punitive rancor enforcement.\n\nRings overlap Desilijic and Besadii interests — cooperation when profitable, assassination when inheritance disputes demand it.",
+  "history": "Hutt Space tolerated smuggling as governance: kajidics taxed contraband rather than eliminating it. Convoy masters registered routes with Grand Council observers, paying tribute upstream while hiring [Boba Fett](characters/boba-fett) or [Cad Bane](bounty-hunters/cad-bane) to recover stolen shipments.\n\n[Jabba the Hutt](characters/jabba-the-hutt) coordinated rings linking Tatooine palaces to Nal Hutta vaults, moving spice and weapons under Imperial noses. [Han Solo](characters/han-solo)'s debts to Jabba exemplified ring economics — personal obligation scaled to fleet policy.\n\n[Din Djarin](characters/din-djarin) and [Boba Fett](characters/boba-fett) later negotiated ring truces when Imperial collapse created power vacuums on Tatooine.\n\n**Key figures and documented associations.** Archives tie Hutt Smuggling Rings operations to [Jabba the Hutt](characters/jabba-the-hutt), [Han Solo](characters/han-solo), [Boba Fett](characters/boba-fett), [Din Djarin](characters/din-djarin), [Cad Bane](bounty-hunters/cad-bane). Testimony from captains, senators, and hunter guild boards repeatedly name these individuals when reconstructing supply routes, succession disputes, and covert payroll networks — even when official holonews omitted the organization's role.\n\nIntelligence annexes recommend cross-referencing their personal profiles when investigating Hutt Smuggling Rings contracts, as individual loyalties often explain faction shifts that corporate ledgers alone cannot clarify.\n\n**Territory and headquarters.** Primary operational worlds include Nal Hutta, Tatooine. Local customs officials, shadow-port syndics, and planetary governors maintained uneasy coexistence with Hutt Smuggling Rings agents — taxing, bribing, or outsourcing enforcement depending on which side held the garrison that season.",
+  "significance": "Hutt smuggling rings merge family law with logistics — inheritance, marriage, and succession directly alter convoy routes.\n\nThey bridge the Smuggler Guilds hub and Hutt kajidic crime families.\n\n**Documented across galactic media.** Hutt Smuggling Rings appears in canonical records tied to Star Wars: Episode IV — A New Hope; Star Wars: Episode V — The Empire Strikes Back; Star Wars: Episode VI — Return of the Jedi; Star Wars: The Book of Boba Fett; Star Wars: The Mandalorian. Each appearance reinforces how the organization intersects with major wars, underworld economies, and Force-era purges — not as background color but as decision-making institutions with payrolls, territory, and succession law.",
+  "notableEvents": [
+    "Kajidic convoy masters register Nal Hutta lane codes",
+    "Jabba integrates Tatooine rings into Desilijic policy",
+    "Han Solo accumulates debt to Hutt ring creditors",
+    "Post-Jabba power vacuum reshuffles ring leadership",
+    "Senate subpoenas request Hutt Smuggling Rings financial disclosures (often ignored or sealed)",
+    "Imperial Security Bureau opens and closes Hutt Smuggling Rings investigations without public findings",
+    "Hunter guild contract boards list standing Hutt Smuggling Rings retainer tiers",
+    "New Republic era audits attempt to map post-war Hutt Smuggling Rings shell companies"
+  ],
+  "affiliations": [
+    "Desilijic convoy cells",
+    "Besadii rival ring networks",
+    "Smuggler Guilds umbrella charter"
+  ],
+  "timeline": [
+    {
+      "era": "Ancient Era",
+      "event": "Hutt rings formalize protected shipping lanes"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Jabba dominates Tatooine–Nal Hutta routes"
+    },
+    {
+      "era": "New Republic Era",
+      "event": "Succession conflicts fragment ring leadership"
+    },
+    {
+      "era": "Legacy Era",
+      "event": "Hutt Smuggling Rings influence reassessed in modern chronicles"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/organizations/hutt-smuggling-rings-scene.webp",
+      "caption": "Cinematic illustration — Hutt Smuggling Rings"
+    },
+    {
+      "path": "/images/organizations/hutt-smuggling-rings.webp",
+      "caption": "Organization emblem — Hutt Smuggling Rings"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Hutts",
+      "route": "factions/hutts"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Jabba the Hutt",
+      "route": "characters/jabba-the-hutt"
+    },
+    {
+      "label": "Character",
+      "value": "Han Solo",
+      "route": "characters/han-solo"
+    },
+    {
+      "label": "Character",
+      "value": "Boba Fett",
+      "route": "characters/boba-fett"
+    },
+    {
+      "label": "Character",
+      "value": "Din Djarin",
+      "route": "characters/din-djarin"
+    },
+    {
+      "label": "Bounty Hunter",
+      "value": "Cad Bane",
+      "route": "bounty-hunters/cad-bane"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Nal Hutta",
+      "route": "planet/nal-hutta"
+    },
+    {
+      "label": "Planet",
+      "value": "Tatooine",
+      "route": "tatooine"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode V — The Empire Strikes Back",
+    "Star Wars: Episode VI — Return of the Jedi"
+  ],
+  "series": [
+    "Star Wars: The Book of Boba Fett",
+    "Star Wars: The Mandalorian"
+  ],
+  "headOfGovernment": {
+    "value": "Nal Hutta shipping lane syndics",
+    "route": ""
+  },
+  "headOfState": {
+    "value": "Kajidic convoy masters",
+    "route": ""
+  }
+}

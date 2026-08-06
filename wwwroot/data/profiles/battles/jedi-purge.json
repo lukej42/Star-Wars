@@ -1,0 +1,449 @@
+{
+  "dateRange": "19 BBY (Order 66) — ongoing Great Jedi Purge through 9 BBY",
+  "government": {
+    "value": "Galactic Empire",
+    "route": "governments/imperial-ruling-council"
+  },
+  "headOfState": {
+    "value": "Emperor Palpatine (Darth Sidious)",
+    "route": "sith/darth-sidious",
+    "emphasized": true,
+    "emphasisTone": "sith"
+  },
+  "overview": "The Jedi Purge — initiated by **Order 66** on the night the Clone Wars ended — was the systematic extermination of the Jedi Order by the Galactic Republic's own clone army, commanded in secret by Supreme Chancellor Palpatine as Darth Sidious. In a single galactic rotation, thousands of Jedi Knights and Masters were murdered by the soldiers they had trusted as brothers-in-arms, while the newly anointed Darth Vader led the 501st Legion in the assault on the Jedi Temple itself.\n\nOrder 66 was not a spontaneous atrocity but the culmination of decades of Sith planning: inhibitor chips implanted in clone troopers during their creation on Kamino, the Jedi Order's transformation into military generals, and Palpatine's accumulation of emergency powers until the Republic became an Empire in all but name. The Purge did not end with dawn on Coruscant — it continued for years through the **Great Jedi Purge**, carried out by Inquisitors, purge troopers, and Darth Vader's relentless hunts across the Outer Rim.\n\nThis page documents the night of Order 66, the Temple massacre, the galaxy-wide executions, the Jedi who fell, and the handful who survived to carry the Order's legacy into exile.",
+  "history": "For over a thousand generations the Jedi served as guardians of peace in the Galactic Republic — negotiators, scholars, and when necessary, defenders. The Clone Wars changed everything. At Palpatine's urging and the Senate's approval, the Jedi became generals leading millions of clone soldiers against the Separatist Confederacy. The [Jedi Code](the-force/jedi-code) warned against attachment and fear, yet the Order was now entangled in politics, warfare, and the very military machine that would destroy it.\n\nDarth Sidious controlled both sides of the war. As Chancellor Palpatine he directed the Republic; as Dark Lord of the Sith he commanded Count Dooku and eventually Anakin Skywalker. The clone army — commissioned in secret by the fallen Jedi Master Sifo-Dyas and later manipulated by Tyranus — carried **inhibitor chips** designed to enforce absolute loyalty. When activated by the command *Execute Order 66*, these chips suppressed free will and compelled clones to murder their Jedi commanders without hesitation.\n\nThe final day of the Clone Wars brought converging crises engineered to maximize chaos. General Grievous kidnapped Chancellor Palpatine over Coruscant, triggering the **Battle of Coruscant** and Anakin's slaying of Count Dooku. Jedi Masters Mace Windu, Kit Fisto, Saesee Tiin, and Agen Kolar then learned that Palpatine was the Sith Lord they had hunted for years. Windu's duel in the Chancellor's office ended when Anakin Skywalker — desperate to save Padmé Amidala and seduced by promises of dark-side power — betrayed the Jedi and helped disarm Windu. Palpatine killed Windu and declared Anakin his new apprentice: **Darth Vader**.\n\nWith the Chosen One fallen, Sidious issued Order 66 across every clone command channel simultaneously. On **Felucia**, clone troopers of the 327th Star Corps gunned down Aayla Secura as she stood unaware, her back to her killers. On **Cato Neimoidia**, Plo Koon's starfighter was destroyed by his own wingmen mid-flight. On **Mygeeto**, Ki-Adi-Mundi was surrounded and executed while leading the 21st Nova Corps against Separatist banking droids. On **Saleucami**, Stass Allie was killed by speeder-bike patrol troopers. On **Kaller**, Depa Billaba was cut down protecting her padawan Caleb Dume — who would survive as **Kanan Jarrus**. On **Kashyyyk**, clone forces turned on the Jedi and Wookiees alike even as Yoda sensed the massacre through the Force.\n\nOn **Coruscant**, the horror centered on the **Jedi Temple**. Darth Vader led the 501st Legion — the same clones who had fought beside Anakin for years — through the Temple's great doors. Jedi Battlemaster **Cin Drallig** defended the training halls alongside Padawans and younglings. Chief Librarian **Jocasta Nu** died protecting the Archives. Council members **Shaak Ti**, **Coleman Kcaj**, and **Oppo Rancisis** fell within the Temple precinct. Anakin slaughtered younglings in the Council chamber — an act that would haunt the galaxy's memory long after the Empire's fall.\n\nOnly two Council Masters survived the night on Coruscant: **Yoda**, who killed clone troopers in the Temple before fleeing with Bail Organa's help, and **Obi-Wan Kenobi**, who returned from Utapau to discover the massacre and duel Anakin on **Mustafar**. Obi-Wan's victory left Vader crippled; Palpatine rebuilt his apprentice in black armor. Yoda and Obi-Wan entered hiding — the last of the old Order — while the Senate applauded Palpatine's declaration of the **Galactic Empire** and the official lie that the Jedi had attempted a coup.\n\nOrder 66 was only the opening strike. The **Great Jedi Purge** continued for nearly two decades: **Inquisitors** — former Jedi turned dark-side hunters — tracked survivors with the aid of **purge troopers** and Imperial intelligence. **Cal Kestis** hid on Bracca. **Kanan Jarrus** and **Ezra Bridger** would later reignite hope. **Grogu** was rescued from the Temple by **Kelleran Beq** during the fighting. **Ahsoka Tano** — no longer a Jedi but still Force-sensitive — survived the Siege of Mandalore and later faked her death. **Quinlan Vos** went into deep hiding after the events of the Clone Wars. **Eeth Koth** survived Order 66 but was hunted and killed by Vader years later. **Barriss Offee**, imprisoned for bombing the Temple hangar, survived the Purge's first night only to face an Empire that had no need for trials.\n\nBy the time Luke Skywalker began training under Obi-Wan on Tatooine, the Jedi were myth — hunted ghosts in a galaxy that had been taught to fear them. The Purge stands as the franchise's defining tragedy: trust weaponized, institutions betrayed from within, and a thousand generations of wisdom extinguished in a single night of blue blaster fire.",
+  "significance": "The Jedi Purge is the hinge on which the entire Skywalker saga turns. Without Order 66 there is no Empire, no Darth Vader, no hidden children on Tatooine, and no redemption arc spanning forty years of galactic history. It explains why Obi-Wan and Yoda live as hermits, why the Rebellion lacks Jedi champions for decades, and why the New Republic remains wary of centralized military power.\n\nThe Purge also reframes the Clone Wars from heroic conflict to Sith trap — every Jedi battlefield victory advanced Palpatine's timeline. The inhibitor chip retcon in *The Clone Wars* deepened the tragedy: the clones were victims too, their autonomy stolen by Kaminoan compliance with Sith orders they never knew existed.\n\nCulturally, Order 66 remains Star Wars' most memed and mourned moment — the montage of Jedi deaths in *Revenge of the Sith*, the Temple march of the 501st, and the silent shot of Padmé watching the smoke rise over Coruscant. For chronology enthusiasts, 19 BBY becomes Year Zero of the Imperial era, anchoring *Bad Batch*, *Jedi: Fallen Order*, *Obi-Wan Kenobi*, and *Ahsoka* into a single coherent aftermath.\n\nThe handful of survivors ensured the Jedi were not erased entirely — only driven underground until Luke, Leia, Rey, and a new generation could ask whether the Order's mistakes required extinction or reform.",
+  "notableEvents": [
+    "Duel in Palpatine's office — Mace Windu and three Council Masters confront the Sith Lord",
+    "Anakin Skywalker falls to the dark side and becomes Darth Vader",
+    "Order 66 transmitted galaxy-wide — clone troopers execute Jedi commanders",
+    "501st Legion assault on the Jedi Temple under Darth Vader's command",
+    "Massacre of Temple younglings and defenders including Cin Drallig",
+    "Yoda and Obi-Wan Kenobi survive and flee Coruscant",
+    "Duel on Mustafar between Obi-Wan Kenobi and Darth Vader",
+    "Palpatine declares the Galactic Empire before the Senate",
+    "Great Jedi Purge continues under Inquisitors and purge troopers"
+  ],
+  "majorEvents": [
+    {
+      "text": "Mace Windu confronts Chancellor Palpatine in his office",
+      "route": "sith/darth-sidious"
+    },
+    {
+      "text": "Anakin Skywalker becomes Darth Vader",
+      "route": "sith/darth-vader"
+    },
+    {
+      "text": "501st Legion marches on the Jedi Temple",
+      "route": "coruscant"
+    },
+    {
+      "text": "Obi-Wan Kenobi duels Anakin on Mustafar",
+      "route": "mustafar"
+    },
+    {
+      "text": "Fall of the Republic chronicle",
+      "route": "chronicles/galactic-history/fall-of-the-republic"
+    },
+    {
+      "text": "Battle of Utapau — Obi-Wan kills Grievous as Order 66 begins",
+      "route": "wars-conflicts/battles/battle-of-utapau"
+    },
+    {
+      "text": "Siege of Mandalore — Ahsoka Tano survives outside the Temple",
+      "route": "wars-conflicts/battles/siege-of-mandalore"
+    },
+    {
+      "text": "Battle of Kashyyyk — Yoda senses the Purge through the Force",
+      "route": "wars-conflicts/battles/battle-of-kashyyyk"
+    }
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Jedi Order",
+      "route": "all-jedi"
+    },
+    {
+      "label": "Faction",
+      "value": "Galactic Republic (transitioning to Empire)",
+      "route": "factions/republic"
+    },
+    {
+      "label": "Faction",
+      "value": "Galactic Empire",
+      "route": "factions/empire"
+    },
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    },
+    {
+      "label": "Organization",
+      "value": "501st Legion",
+      "route": "military-units/galactic-republic/army/501st-legion"
+    },
+    {
+      "label": "Organization",
+      "value": "Inquisitorius",
+      "route": "organizations/inquisitorius"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Darth Sidious (Emperor Palpatine)",
+      "route": "sith/darth-sidious"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Vader (Anakin Skywalker)",
+      "route": "sith/darth-vader"
+    },
+    {
+      "label": "Jedi",
+      "value": "Mace Windu",
+      "route": "jedi/mace-windu"
+    },
+    {
+      "label": "Jedi",
+      "value": "Yoda",
+      "route": "jedi/yoda"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Jedi",
+      "value": "Ahsoka Tano",
+      "route": "jedi/ahsoka-tano"
+    },
+    {
+      "label": "Character",
+      "value": "Bail Organa",
+      "route": "characters/bail-organa"
+    },
+    {
+      "label": "Character",
+      "value": "Padmé Amidala",
+      "route": "characters/padme-amidala"
+    }
+  ],
+  "jediFallen": [
+    {
+      "label": "Jedi Master",
+      "value": "Mace Windu — killed by Darth Sidious in the Chancellor's office",
+      "route": "jedi/mace-windu"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Agen Kolar — killed by Darth Sidious in the Chancellor's office",
+      "route": "jedi/agen-kolar"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Saesee Tiin — killed by Darth Sidious in the Chancellor's office",
+      "route": "jedi/saesee-tiin"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Kit Fisto — killed by Darth Sidious in the Chancellor's office",
+      "route": "jedi/kit-fisto"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Aayla Secura — executed on Felucia by the 327th Star Corps",
+      "route": "jedi/aayla-secura"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Plo Koon — shot down over Cato Neimoidia by his own clone wingmen",
+      "route": "jedi/plo-koon"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Ki-Adi-Mundi — executed on Mygeeto by the Galactic Marines",
+      "route": "jedi/ki-adi-mundi"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Stass Allie — killed on Saleucami by BARC speeder patrol troopers",
+      "route": "jedi/stass-allie"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Shaak Ti — killed defending the Jedi Temple on Coruscant",
+      "route": "jedi/shaak-ti"
+    },
+    {
+      "label": "Jedi Battlemaster",
+      "value": "Cin Drallig — killed defending the Temple training halls",
+      "route": "jedi/cin-drallig"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Depa Billaba — killed on Kaller protecting Caleb Dume",
+      "route": "jedi/depa-billaba"
+    },
+    {
+      "label": "Chief Librarian",
+      "value": "Jocasta Nu — killed defending the Jedi Archives",
+      "route": "jedi/jocasta-nu"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Coleman Kcaj — killed in the Jedi Temple during the assault",
+      "route": "jedi/coleman-kcaj"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Oppo Rancisis — killed in the Jedi Temple during the assault",
+      "route": "jedi/oppo-rancisis"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Tera Sinube — killed on Coruscant during Order 66",
+      "route": "jedi/tera-sinube"
+    },
+    {
+      "label": "Fallen Jedi",
+      "value": "Anakin Skywalker — turned to the dark side as Darth Vader (survived)",
+      "route": "jedi/anakin-skywalker"
+    }
+  ],
+  "jediSurvived": [
+    {
+      "label": "Jedi Grand Master",
+      "value": "Yoda — fled Coruscant with Bail Organa; exiled to Dagobah",
+      "route": "jedi/yoda"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Obi-Wan Kenobi — survived Temple return; exiled to Tatooine",
+      "route": "jedi/obi-wan-kenobi"
+    },
+    {
+      "label": "Former Padawan",
+      "value": "Ahsoka Tano — survived the Siege of Mandalore; later faked her death",
+      "route": "jedi/ahsoka-tano"
+    },
+    {
+      "label": "Jedi Knight",
+      "value": "Kanan Jarrus (Caleb Dume) — escaped on Kaller; joined the early Rebellion",
+      "route": "jedi/kanan-jarrus"
+    },
+    {
+      "label": "Jedi Initiate",
+      "value": "Grogu — rescued from the Temple during Order 66",
+      "route": "jedi/grogu"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Kelleran Beq — helped rescue Grogu during the Temple fighting",
+      "route": "jedi/kelleran-beq"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Quinlan Vos — went into hiding after the Clone Wars",
+      "route": "jedi/quinlan-vos"
+    },
+    {
+      "label": "Jedi Padawan",
+      "value": "Gungi — Wookiee youngling who survived the Purge era",
+      "route": "jedi/gungi"
+    },
+    {
+      "label": "Jedi Master",
+      "value": "Eeth Koth — survived Order 66; later hunted and killed by Darth Vader",
+      "route": "jedi/eeth-koth"
+    },
+    {
+      "label": "Jedi Padawan",
+      "value": "Barriss Offee — imprisoned during the war; survived the Purge's first night",
+      "route": "jedi/barriss-offee"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Coruscant — Jedi Temple massacre and Senate declaration of the Empire",
+      "route": "coruscant"
+    },
+    {
+      "label": "Planet",
+      "value": "Mustafar — duel between Obi-Wan Kenobi and Darth Vader",
+      "route": "mustafar"
+    },
+    {
+      "label": "Planet",
+      "value": "Felucia — execution of Aayla Secura",
+      "route": "planet/felucia"
+    },
+    {
+      "label": "Planet",
+      "value": "Mygeeto — execution of Ki-Adi-Mundi",
+      "route": "planet/mygeeto"
+    },
+    {
+      "label": "Planet",
+      "value": "Kashyyyk — Order 66 on Yoda's command post",
+      "route": "planet/kashyyyk"
+    },
+    {
+      "label": "Planet",
+      "value": "Utapau — Obi-Wan Kenobi kills Grievous as Order 66 begins",
+      "route": "planet/utapau"
+    },
+    {
+      "label": "Planet",
+      "value": "Saleucami — execution of Stass Allie",
+      "route": "planet/saleucami"
+    },
+    {
+      "label": "Planet",
+      "value": "Mandalore — Ahsoka Tano survives the Siege during Order 66",
+      "route": "planet/mandalore"
+    },
+    {
+      "label": "Planet",
+      "value": "Kaller — Depa Billaba's last stand; Caleb Dume escapes",
+      "route": "planet/kaller"
+    },
+    {
+      "label": "Planet",
+      "value": "Cato Neimoidia — Plo Koon shot down by clone wingmen",
+      "route": "planet/cato-neimoidia"
+    }
+  ],
+  "ships": [
+    {
+      "label": "Ship",
+      "value": "Venator-class Star Destroyer",
+      "route": "ships/venator-class"
+    },
+    {
+      "label": "Ship",
+      "value": "ARC-170 starfighter",
+      "route": "ships/arc-170"
+    },
+    {
+      "label": "Ship",
+      "value": "Theta-class T-2c shuttle",
+      "route": "ships/theta-class"
+    },
+    {
+      "label": "Ship",
+      "value": "Venator-class command bridge escape shuttle",
+      "route": "ships/venator-class"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode III — Revenge of the Sith",
+    "Star Wars: Episode IV — A New Hope (legacy and consequences)",
+    "Star Wars: Episode VI — Return of the Jedi (Anakin's redemption)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars (Order 66 arc, inhibitor chips, Siege of Mandalore)",
+    "Star Wars: The Bad Batch (immediate aftermath of Order 66)",
+    "Star Wars: Tales of the Jedi (Purges and Temple era)",
+    "Star Wars: Obi-Wan Kenobi (survivors in hiding)",
+    "Star Wars: Ahsoka (post-Purge legacy)",
+    "The Mandalorian (Grogu and Imperial remnant hunts)"
+  ],
+  "games": [
+    "Star Wars Jedi: Fallen Order (Cal Kestis and purge troopers)",
+    "Star Wars Jedi: Survivor (Great Jedi Purge aftermath)",
+    "Star Wars: Battlefront II (2005 — Order 66 campaign)",
+    "Star Wars: Republic Commando (clone perspective)"
+  ],
+  "books": [
+    "Revenge of the Sith novelization (Matthew Stover)",
+    "Dark Disciple (Christie Golden — Quinlan Vos and Asajj Ventress)",
+    "Master & Apprentice (Claudia Gray — pre-Purge Jedi philosophy)",
+    "Ahsoka (E.K. Johnston — post-Order 66 survival)"
+  ],
+  "affiliations": [
+    "Jedi Order",
+    "Galactic Republic",
+    "Galactic Empire",
+    "501st Legion",
+    "Grand Army of the Republic",
+    "Inquisitorius",
+    "Confederacy of Independent Systems (war context)"
+  ],
+  "timeline": [
+    {
+      "era": "32 BBY",
+      "event": "Sifo-Dyas secretly commissions the clone army on Kamino with inhibitor chips"
+    },
+    {
+      "era": "22 BBY",
+      "event": "Clone Wars begin at Geonosis; Jedi become generals"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Battle of Coruscant — Palpatine rescued; Dooku killed"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Mace Windu discovers Palpatine is Darth Sidious; Anakin betrays the Jedi"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Order 66 executed galaxy-wide — clone troopers murder Jedi commanders"
+    },
+    {
+      "era": "19 BBY",
+      "event": "501st Legion assaults the Jedi Temple under Darth Vader"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Yoda and Obi-Wan Kenobi survive; Padmé gives birth on Polis Massa"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Duel on Mustafar — Obi-Wan defeats Anakin; Palpatine declares the Empire"
+    },
+    {
+      "era": "19–9 BBY",
+      "event": "Great Jedi Purge — Inquisitors and Vader hunt remaining survivors"
+    },
+    {
+      "era": "9 BBY",
+      "event": "Obi-Wan Kenobi defeats Darth Vader on a barren moon; Leia rescued"
+    }
+  ],
+  "gallery": [
+    {
+      "path": "/images/wars-conflicts/battles/jedi-purge-temple-assault.webp",
+      "caption": "The 501st Legion breaches the Jedi Temple as smoke rises over the Coruscant skyline"
+    },
+    {
+      "path": "/images/wars-conflicts/battles/jedi-purge-order-66-felucia.webp",
+      "caption": "Clone troopers execute Order 66 against a Jedi general on the fungal jungles of Felucia"
+    },
+    {
+      "path": "/images/wars-conflicts/battles/jedi-purge-kashyyyk.webp",
+      "caption": "Order 66 reaches Kashyyyk as clone forces turn on Jedi and Wookiee defenders alike"
+    },
+    {
+      "path": "/images/wars-conflicts/battles/jedi-purge-mustafar-duel.webp",
+      "caption": "Obi-Wan Kenobi and Darth Vader duel on the lava rivers of Mustafar"
+    },
+    {
+      "path": "/images/wars-conflicts/battles/jedi-purge-younglings.webp",
+      "caption": "Darth Vader enters the Jedi Temple training chamber during the massacre"
+    },
+    {
+      "path": "/images/wars-conflicts/battles/jedi-purge-survivors.webp",
+      "caption": "Yoda and Obi-Wan Kenobi — the last Council Masters to escape the Purge"
+    },
+    {
+      "path": "/images/wars-conflicts/battles/jedi-purge-inquisitors.webp",
+      "caption": "Imperial Inquisitors continue the Great Jedi Purge in the years after Order 66"
+    }
+  ]
+}

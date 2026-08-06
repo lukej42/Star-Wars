@@ -1,0 +1,57 @@
+{
+  "overview": "The Mynock is a distinctive species of the space & vacuum biome, native to Ord Mantell. Silicon-based parasites that feed on starship power cables and hull plating, infesting freighters from Ord Mantell to deep-space junkyards. Across the saga films, live-action series, and animated chronicles, mynock specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify mynock populations across Ord Mantell within the broader space & vacuum ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document mynock interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, mynock often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Power parasites.** Mynocks chewed starship power cables in asteroid caves — the Falcon's infestation forced repairs from Ord Mantell to Bespin.\n\nConservationists debate protection status for mynock on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Mynock enriches the space & vacuum identity of Ord Mantell within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the mynock remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, mynock entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Ord Mantell in space & vacuum surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Silicon-based parasites that feed on starship power cables and hull plating, infesting freighters from Ord Mantell to de",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Space & Vacuum"
+  ],
+  "affiliations": [
+    "Space & Vacuum",
+    "Ord Mantell",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued mynock on Ord Mantell"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded mynock encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened mynock habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for mynock populations"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ord Mantell",
+      "route": "planet/ord-mantell"
+    }
+  ],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/mynock-scene.webp",
+      "caption": "Cinematic habitat portrait — Mynock"
+    }
+  ]
+}

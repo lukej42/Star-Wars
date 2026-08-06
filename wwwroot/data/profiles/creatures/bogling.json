@@ -1,0 +1,51 @@
+{
+  "overview": "The Bogling is a distinctive species of the swamp & wetlands biome, native to Various. Small swamp scavengers with oversized ears that nest in rotting marsh timber and startle travelers on Dagobah-like worlds. Across the saga films, live-action series, and animated chronicles, bogling specimens appear in ecological surveys, military campaigns, and frontier settlements — embodying the biological diversity that makes the Star Wars galaxy feel lived-in and ancient.",
+  "history": "Xenobiologists classify bogling populations across Various within the broader swamp & wetlands ecological band. Their anatomy reflects millions of years of adaptation to local climate, predator pressure, and food-chain position — whether as apex hunter, domestic mount, scavenger, or symbiotic partner to sentient cultures.\n\nGalactic records document bogling interactions with explorers, militaries, and indigenous peoples from the Old Republic through the First Order era. Traders, hunters, and documentarians filed holo-surveys that now populate the Archives of the New Republic Xenobiology Division.\n\nIn campaign histories, bogling often appear at the margins of major battles — as obstacles, allies, mounts, or environmental hazards that shaped tactical decisions. Soldiers learned quickly that underestimating local fauna could be as fatal as blaster fire.\n\n**Swamp scavengers.** Boglings nested in rotting marsh timber on Dagobah-like worlds, startling travelers with chirping calls.\n\nConservationists debate protection status for bogling on worlds undergoing industrialization. The Empire rarely cared; the New Republic sometimes does — especially where species hold cultural significance for indigenous populations.",
+  "significance": "Bogling enriches the swamp & wetlands identity of Various within Star Wars worldbuilding — grounding fantastical settings in believable ecology.\n\nCreatures like the bogling remind audiences that the galaxy is not empty backdrop but a network of ecosystems interacting with politics, war, and Force tradition.\n\nFor roleplayers, scouts, and lore enthusiasts, bogling entries connect planetary surveys to character stories across nine saga films and dozens of series.",
+  "notableEvents": [
+    "Documented on Various in swamp & wetlands surveys",
+    "Referenced in galactic bestiary holocrons and scout manuals",
+    "Small swamp scavengers with oversized ears that nest in rotting marsh timber and startle travelers on Dagobah-like world",
+    "Catalogued in New Republic xenobiology archives",
+    "Featured in creature guides spanning films and series",
+    "Habitat classification: Swamp & Wetlands"
+  ],
+  "affiliations": [
+    "Swamp & Wetlands",
+    "Various",
+    "Galactic xenobiology records"
+  ],
+  "timeline": [
+    {
+      "era": "Old Republic",
+      "event": "Early surveys catalogued bogling on Various"
+    },
+    {
+      "era": "Clone Wars",
+      "event": "Military campaigns recorded bogling encounters"
+    },
+    {
+      "era": "Imperial Era",
+      "event": "Imperial resource extraction threatened bogling habitats"
+    },
+    {
+      "era": "New Republic",
+      "event": "Conservation debates resumed for bogling populations"
+    }
+  ],
+  "planets": [],
+  "films": [
+    "Star Wars saga films (various appearances)"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars Rebels",
+    "Star Wars: The Bad Batch"
+  ],
+  "gallery": [
+    {
+      "path": "/images/creatures/bogling-scene.webp",
+      "caption": "Cinematic habitat portrait — Bogling"
+    }
+  ]
+}
