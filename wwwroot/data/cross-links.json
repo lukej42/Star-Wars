@@ -40671,5 +40671,2046 @@
         "route": "all-ships"
       }
     ]
+  },
+  {
+    "category": "organizations",
+    "slug": "techno-union",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      },
+      {
+        "label": "Planet",
+        "value": "Muunilinst",
+        "route": "planet/muunilinst"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "intergalactic-banking-clan",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Muunilinst",
+        "route": "wars-conflicts/battles/battle-of-muunilinst"
+      },
+      {
+        "label": "Planet",
+        "value": "Muunilinst",
+        "route": "planet/muunilinst"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "commerce-guild",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Planet",
+        "value": "Castell",
+        "route": "planet/castell"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "corporate-alliance",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "retail-caucus",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "pyke-syndicate",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Pyke Syndicate Forces",
+        "route": "military-units/other/army/pyke-syndicate-forces"
+      },
+      {
+        "label": "Planet",
+        "value": "Oba Diah",
+        "route": "planet/oba-diah"
+      },
+      {
+        "label": "Settlement",
+        "value": "Kessel",
+        "route": "settlements/kessel"
+      },
+      {
+        "label": "Bounty hunter",
+        "value": "Cad Bane",
+        "route": "bounty-hunters/cad-bane"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "black-sun",
+    "links": [
+      {
+        "label": "Settlement",
+        "value": "Nar Shaddaa",
+        "route": "settlements/nar-shaddaa"
+      },
+      {
+        "label": "Planet",
+        "value": "Mustafar",
+        "route": "planet/mustafar"
+      },
+      {
+        "label": "Bounty hunter",
+        "value": "Boba Fett",
+        "route": "bounty-hunters/boba-fett"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "crimson-dawn",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      },
+      {
+        "label": "Character",
+        "value": "Qi'ra",
+        "route": "characters/qira"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "inquisitorius",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Directory",
+        "value": "Sith Order",
+        "route": "all-sith"
+      },
+      {
+        "label": "Force power",
+        "value": "Force Lightning",
+        "route": "force-powers/force-lightning"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "mining-guild",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "smuggler-guilds",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "Bounty Hunters",
+        "route": "all-bounty-hunters"
+      },
+      {
+        "label": "Settlement",
+        "value": "Nar Shaddaa",
+        "route": "settlements/nar-shaddaa"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "corporate-blocs",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "crime-families",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Hutts",
+        "route": "factions/hutts"
+      },
+      {
+        "label": "Planet",
+        "value": "Nal Hutta",
+        "route": "planet/nal-hutta"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "spice-runners-guild",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Smuggler Guilds",
+        "route": "organizations/smuggler-guilds"
+      },
+      {
+        "label": "Settlement",
+        "value": "Kessel",
+        "route": "settlements/kessel"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "corellian-smuggler-guild",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Smuggler Guilds",
+        "route": "organizations/smuggler-guilds"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "hutt-smuggling-rings",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Smuggler Guilds",
+        "route": "organizations/smuggler-guilds"
+      },
+      {
+        "label": "Faction",
+        "value": "Hutts",
+        "route": "factions/hutts"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "desilijic-kajidic",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Crime Families",
+        "route": "organizations/crime-families"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "planet/tatooine"
+      },
+      {
+        "label": "Character",
+        "value": "Jabba the Hutt",
+        "route": "characters/jabba-the-hutt"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "besadii-kajidic",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Crime Families",
+        "route": "organizations/crime-families"
+      },
+      {
+        "label": "Planet",
+        "value": "Nal Hutta",
+        "route": "planet/nal-hutta"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "black-sun-vigo-council",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Crime Families",
+        "route": "organizations/crime-families"
+      },
+      {
+        "label": "Organization",
+        "value": "Black Sun",
+        "route": "organizations/black-sun"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "trade-federation-directorate",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Corporate Blocs",
+        "route": "organizations/corporate-blocs"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      }
+    ]
+  },
+  {
+    "category": "organizations",
+    "slug": "intergalactic-banking-holding",
+    "links": [
+      {
+        "label": "Organization",
+        "value": "Corporate Blocs",
+        "route": "organizations/corporate-blocs"
+      },
+      {
+        "label": "Organization",
+        "value": "InterGalactic Banking Clan",
+        "route": "organizations/intergalactic-banking-clan"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "rancor",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Dathomir",
+        "route": "planet/dathomir"
+      },
+      {
+        "label": "Character",
+        "value": "Jabba the Hutt",
+        "route": "characters/jabba-the-hutt"
+      },
+      {
+        "label": "Organization",
+        "value": "Desilijic Kajidic",
+        "route": "organizations/desilijic-kajidic"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "wampa",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
+      },
+      {
+        "label": "Character",
+        "value": "Luke Skywalker",
+        "route": "characters/luke-skywalker"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "sarlacc",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Character",
+        "value": "Boba Fett",
+        "route": "bounty-hunters/boba-fett"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "krayt-dragon",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Character",
+        "value": "Obi-Wan Kenobi",
+        "route": "characters/obi-wan-kenobi"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "purrgil",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Ilum",
+        "route": "planet/ilum"
+      },
+      {
+        "label": "Character",
+        "value": "Ezra Bridger",
+        "route": "characters/ezra-bridger"
+      },
+      {
+        "label": "The Force",
+        "value": "World Between Worlds",
+        "route": "the-force/world-between-worlds"
+      },
+      {
+        "label": "Directory",
+        "value": "All Ships",
+        "route": "all-ships"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "loth-cat",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "loth-wolf",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      },
+      {
+        "label": "Character",
+        "value": "Ezra Bridger",
+        "route": "characters/ezra-bridger"
+      },
+      {
+        "label": "The Force",
+        "value": "The Living Force",
+        "route": "the-force/the-living-force"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "convor",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      },
+      {
+        "label": "Character",
+        "value": "Ahsoka Tano",
+        "route": "characters/ahsoka-tano"
+      },
+      {
+        "label": "The Force",
+        "value": "Mortis Gods",
+        "route": "the-force/mortis-gods"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "zillo-beast",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Malastare",
+        "route": "planet/malastare"
+      },
+      {
+        "label": "Character",
+        "value": "Palpatine",
+        "route": "characters/sheev-palpatine"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "planet/coruscant"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "nexu",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Cholganna",
+        "route": "planet/cholganna"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "reek",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Ylesia",
+        "route": "planet/ylesia"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      },
+      {
+        "label": "Character",
+        "value": "Anakin Skywalker",
+        "route": "characters/anakin-skywalker"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "acklay",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Vendaxa",
+        "route": "planet/vendaxa"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "tauntaun",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "dewback",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "bantha",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Species",
+        "value": "Tusken Raider",
+        "route": "species/tusken-raider"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "rathtar",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "fyrnock",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Anaxes",
+        "route": "planet/anaxes"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "krykna",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Atollon",
+        "route": "planet/atollon"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "mudhorn",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Din Djarin",
+        "route": "characters/din-djarin"
+      },
+      {
+        "label": "Character",
+        "value": "Grogu",
+        "route": "characters/grogu"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "blurrg",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Ryloth",
+        "route": "planet/ryloth"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "varactyl",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Utapau",
+        "route": "planet/utapau"
+      },
+      {
+        "label": "Character",
+        "value": "Obi-Wan Kenobi",
+        "route": "characters/obi-wan-kenobi"
+      },
+      {
+        "label": "Character",
+        "value": "General Grievous",
+        "route": "characters/general-grievous"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "exogorth",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "planet/hoth"
+      },
+      {
+        "label": "Directory",
+        "value": "All Ships",
+        "route": "all-ships"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "mynock",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Ord Mantell",
+        "route": "planet/ord-mantell"
+      },
+      {
+        "label": "Directory",
+        "value": "All Ships",
+        "route": "all-ships"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "colo-claw-fish",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "sando-aqua-monster",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "opee-sea-killer",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "aiwha",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kamino",
+        "route": "planet/kamino"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "bogling",
+    "links": []
+  },
+  {
+    "category": "creatures",
+    "slug": "steelpecker",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Jakku",
+        "route": "planet/jakku"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "dark-side-spiders",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Malachor",
+        "route": "planet/malachor"
+      },
+      {
+        "label": "The Force",
+        "value": "Dark Side of the Force",
+        "route": "the-force/dark-side-of-the-force"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "charhound",
+    "links": []
+  },
+  {
+    "category": "creatures",
+    "slug": "roggwart",
+    "links": []
+  },
+  {
+    "category": "creatures",
+    "slug": "gundark",
+    "links": []
+  },
+  {
+    "category": "creatures",
+    "slug": "wyyyschokk",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kashyyyk",
+        "route": "planet/kashyyyk"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "vornskr",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Myrkr",
+        "route": "planet/myrkr"
+      },
+      {
+        "label": "The Force",
+        "value": "Force Sense",
+        "route": "force-powers/force-sense"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "tusk-cat",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "nuna",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "falumpaset",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Naboo",
+        "route": "wars-conflicts/battles/battle-of-naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "kaadu",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Naboo",
+        "route": "wars-conflicts/battles/battle-of-naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "ronto",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "happabore",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Jakku",
+        "route": "planet/jakku"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "eopie",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "dianoga",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Vodran",
+        "route": "planet/vodran"
+      },
+      {
+        "label": "Ship",
+        "value": "Death Star",
+        "route": "ships/death-star"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "kowakian-monkey-lizard",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kowak",
+        "route": "planet/kowak"
+      },
+      {
+        "label": "Character",
+        "value": "Jabba the Hutt",
+        "route": "characters/jabba-the-hutt"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "porg",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Ahch-To",
+        "route": "planet/ahch-to"
+      },
+      {
+        "label": "Character",
+        "value": "Luke Skywalker",
+        "route": "characters/luke-skywalker"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "vulptex",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Crait",
+        "route": "planet/crait"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Crait",
+        "route": "wars-conflicts/battles/battle-of-crait"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "tooka-cat",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "loth-bat",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "ice-spider",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Ilum",
+        "route": "planet/ilum"
+      },
+      {
+        "label": "The Force",
+        "value": "Kyber Crystals",
+        "route": "the-force/kyber-crystals"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/ground/at-te",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/ground/at-rt",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/ground/spha-t",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/ground/havw-a6-juggernaut",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/air/laat-i",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/air/laat-c",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/air/v-19-torrent",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-republic/air/arc-170",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Galactic Republic Military Units",
+        "route": "military-units/galactic-republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "confederacy-of-independent-systems/ground/mtt",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Confederacy Military Units",
+        "route": "military-units/confederacy-of-independent-systems"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Naboo",
+        "route": "wars-conflicts/battles/battle-of-naboo"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "confederacy-of-independent-systems/ground/aat",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Confederacy Military Units",
+        "route": "military-units/confederacy-of-independent-systems"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Felucia",
+        "route": "wars-conflicts/battles/battle-of-felucia"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "confederacy-of-independent-systems/ground/hailfire-droid",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Confederacy Military Units",
+        "route": "military-units/confederacy-of-independent-systems"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "confederacy-of-independent-systems/ground/og-9-spider-droid",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Confederacy Military Units",
+        "route": "military-units/confederacy-of-independent-systems"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "confederacy-of-independent-systems/air/vulture-droid",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Confederacy Military Units",
+        "route": "military-units/confederacy-of-independent-systems"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Coruscant",
+        "route": "wars-conflicts/battles/battle-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "confederacy-of-independent-systems/air/hyena-bomber",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Confederacy Military Units",
+        "route": "military-units/confederacy-of-independent-systems"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "confederacy-of-independent-systems/air/tri-fighter",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Confederacy Military Units",
+        "route": "military-units/confederacy-of-independent-systems"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-empire/ground/at-at",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Imperial Military Units",
+        "route": "military-units/galactic-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-empire/ground/at-st",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Imperial Military Units",
+        "route": "military-units/galactic-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Endor",
+        "route": "wars-conflicts/battles/battle-of-endor"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-empire/ground/at-dp",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Imperial Military Units",
+        "route": "military-units/galactic-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-empire/ground/imperial-troop-transport",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Imperial Military Units",
+        "route": "military-units/galactic-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-empire/air/tie-fighter",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Imperial Military Units",
+        "route": "military-units/galactic-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Yavin",
+        "route": "wars-conflicts/battles/battle-of-yavin"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-empire/air/tie-bomber",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Imperial Military Units",
+        "route": "military-units/galactic-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "galactic-empire/air/tie-interceptor",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Imperial Military Units",
+        "route": "military-units/galactic-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/ground/t2-b-repulsor-tank",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/ground/aac-1-speeder-tank",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/ground/74-z-speeder-bike",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/ground/a-a5-speeder-truck",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/air/snowspeeder",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/air/x-wing",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Yavin",
+        "route": "wars-conflicts/battles/battle-of-yavin"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/air/a-wing",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "rebel-alliance/air/u-wing",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Rebel Alliance Military Units",
+        "route": "military-units/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Scarif",
+        "route": "wars-conflicts/battles/battle-of-scarif"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "first-order/ground/at-m6",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "First Order Military Units",
+        "route": "military-units/first-order"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Crait",
+        "route": "wars-conflicts/battles/battle-of-crait"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "first-order/ground/first-order-treadspeeder",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "First Order Military Units",
+        "route": "military-units/first-order"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "first-order/ground/first-order-at-at",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "First Order Military Units",
+        "route": "military-units/first-order"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "first-order/ground/light-infantry-utility-vehicle",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "First Order Military Units",
+        "route": "military-units/first-order"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "first-order/air/tie-fo",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "First Order Military Units",
+        "route": "military-units/first-order"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "first-order/air/tie-sf",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "First Order Military Units",
+        "route": "military-units/first-order"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "first-order/air/tie-se-bomber",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "First Order Military Units",
+        "route": "military-units/first-order"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "resistance/ground/v-4x-d-ski-speeder",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Resistance Military Units",
+        "route": "military-units/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Crait",
+        "route": "wars-conflicts/battles/battle-of-crait"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "resistance/ground/resistance-troop-transport",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Resistance Military Units",
+        "route": "military-units/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "resistance/ground/cdf-7620-landspeeder",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Resistance Military Units",
+        "route": "military-units/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "resistance/air/t-70-x-wing",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Resistance Military Units",
+        "route": "military-units/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Starkiller Base",
+        "route": "wars-conflicts/battles/battle-of-starkiller-base"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "resistance/air/rz-2-a-wing",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Resistance Military Units",
+        "route": "military-units/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "resistance/air/resistance-bomber",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Resistance Military Units",
+        "route": "military-units/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of D'Qar",
+        "route": "wars-conflicts/battles/battle-of-d-qar"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "mandalorian/ground/mandalorian-speeder-bike",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Mandalorian Military Units",
+        "route": "military-units/mandalorian"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "mandalorian/ground/akajor-assault-shuttle",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Mandalorian Military Units",
+        "route": "military-units/mandalorian"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "mandalorian/ground/canderous-assault-tank",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Mandalorian Military Units",
+        "route": "military-units/mandalorian"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "mandalorian/air/komrk-fighter-transport",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Mandalorian Military Units",
+        "route": "military-units/mandalorian"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Character",
+        "value": "Bo-Katan Kryze",
+        "route": "characters/bo-katan-kryze"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "mandalorian/air/gauntlet-starfighter",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Mandalorian Military Units",
+        "route": "military-units/mandalorian"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "mandalorian/air/fang-class-fighter",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Mandalorian Military Units",
+        "route": "military-units/mandalorian"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "sith-empire/ground/sith-imperial-assault-tank",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Sith Empire Military Units",
+        "route": "military-units/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "sith-empire/ground/sith-troop-carrier",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Sith Empire Military Units",
+        "route": "military-units/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "sith-empire/ground/mark-vi-land-crawler",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Sith Empire Military Units",
+        "route": "military-units/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "sith-empire/air/fury-interceptor",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Sith Empire Military Units",
+        "route": "military-units/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "sith-empire/air/b28-extinction-bomber",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Sith Empire Military Units",
+        "route": "military-units/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
+  },
+  {
+    "category": "military-vehicles",
+    "slug": "sith-empire/air/sith-imperial-assault-shuttle",
+    "links": [
+      {
+        "label": "Military unit",
+        "value": "Sith Empire Military Units",
+        "route": "military-units/sith-empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      }
+    ]
   }
 ]

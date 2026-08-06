@@ -14,4 +14,6 @@ public sealed class MilitaryUnitFaction
     public string ArmyHeroPath => $"/images/military-units/{Slug}-army-hero.webp";
 
     public string NavyHeroPath => $"/images/military-units/{Slug}-navy-hero.webp";
+
+    public string FactionHeroPath => $"/images/military-units/{Slug}-faction-hero.webp";
 }

@@ -1,0 +1,52 @@
+@page "/all-organizations"
+@using StarWars.Data
+
+<PageTitle>All Organizations</PageTitle>
+
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="@ImageUrls.Resolve("/images/organizations/organizations-directory-hero.webp")" alt="Corporate boardrooms, syndicate councils, and guild charters beneath a starlit skylight" loading="lazy" />
+    </figure>
+
+    <h1>All Organizations</h1>
+    <p class="all-planets-intro">
+        @OrganizationData.Organizations.Count corporations, syndicates, guilds, and cartels from all nine saga films,
+        live-action and animated series, <em>Knights of the Old Republic</em>, and the ancient Sith Empire.
+    </p>
+
+    <DirectoryListSearch Placeholder="Search organizations by name, group, or description…"
+                         ItemLabel="organizations"
+                         TotalCount="@OrganizationData.Organizations.Count"
+                         FilteredCount="@FilteredOrganizations.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    @foreach (var group in FilteredOrganizations.GroupBy(org => org.Group).OrderBy(group => group.Key))
+    {
+        <section class="force-powers-category">
+            <h2>@group.Key</h2>
+            <div class="planet-directory-grid">
+                @foreach (var organization in group.OrderBy(org => org.Name))
+                {
+                    <article class="planet-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @organization.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@organization.Route">@organization.Name</a>
+                            <p class="planet-region">@organization.Group</p>
+                        </div>
+                    </article>
+                }
+            </div>
+        </section>
+    }
+</div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<Organization> FilteredOrganizations =>
+        OrganizationData.Organizations.Where(org =>
+            DirectoryFilter.Matches(searchQuery, org.Name, org.Group, org.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}

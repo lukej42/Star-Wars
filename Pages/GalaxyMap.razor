@@ -6,7 +6,7 @@
 <PageTitle>Galaxy Map</PageTitle>
 
 <h1>Galaxy Map</h1>
-<p class="galaxy-map-intro">Search for a world, drag to pan, and click a marker for details. All @GalaxyData.Planets.Count worlds from the saga are marked on the map.</p>
+<p class="galaxy-map-intro">Search for a world, drag to pan, zoom with the controls, and click sector chips or markers for details. Sectors, major hyperlanes, and all @GalaxyData.Planets.Count worlds from the saga are marked on the map.</p>
 
 <div class="galaxy-map-shell">
     <div class="galaxy-map-controls">
@@ -50,6 +50,26 @@
                 <div class="galaxy-search-empty">No worlds match "@searchQuery".</div>
             }
         </div>
+        <div class="galaxy-map-toolbar">
+            <div class="galaxy-sector-legend">
+                <span class="galaxy-toolbar-label">Sectors</span>
+                @foreach (var sector in GalaxyMapOverlays.Sectors)
+                {
+                    <button type="button"
+                            class="galaxy-sector-chip @(selectedSectorSlug == sector.Slug ? "is-active" : null)"
+                            style="--sector-color: @sector.FillColor"
+                            @onclick="() => SelectSector(sector.Slug)">
+                        @sector.Label
+                    </button>
+                }
+            </div>
+            <div class="galaxy-zoom-controls">
+                <button type="button" class="galaxy-zoom-btn" @onclick="ZoomOut" aria-label="Zoom out">−</button>
+                <span class="galaxy-zoom-level">@((int)(zoom * 100))%</span>
+                <button type="button" class="galaxy-zoom-btn" @onclick="ZoomIn" aria-label="Zoom in">+</button>
+                <button type="button" class="galaxy-zoom-btn galaxy-zoom-reset" @onclick="ResetView">Reset</button>
+            </div>
+        </div>
     </div>
 
     <div class="galaxy-tooltip" aria-live="polite">
@@ -90,6 +110,90 @@
                 <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="3760" ry="2080" fill="url(#galaxyGlow)" />
                 <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="960" ry="580" fill="url(#galaxyCore)" />
 
+                @foreach (var sector in GalaxyMapOverlays.Sectors)
+                {
+                    var isActive = selectedSectorSlug == sector.Slug;
+                    <ellipse cx="@sector.CenterX"
+                             cy="@sector.CenterY"
+                             rx="@sector.RadiusX"
+                             ry="@sector.RadiusY"
+                             fill="@sector.FillColor"
+                             stroke="@(isActive ? "rgba(255,255,255,0.85)" : "rgba(255,255,255,0.22)")"
+                             stroke-width="@(isActive ? 32 : 14)"
+                             class="galaxy-sector-region @(isActive ? "is-active" : null)"
+                             pointer-events="none" />
+                    @if (isActive)
+                    {
+                        <ellipse cx="@sector.CenterX"
+                                 cy="@sector.CenterY"
+                                 rx="@(sector.RadiusX + 40)"
+                                 ry="@(sector.RadiusY + 40)"
+                                 fill="none"
+                                 stroke="rgba(255,255,255,0.35)"
+                                 stroke-width="8"
+                                 stroke-dasharray="40 24"
+                                 pointer-events="none" />
+                    }
+                }
+
+                @foreach (var sector in GalaxyMapOverlays.Sectors)
+                {
+                    var isActive = selectedSectorSlug == sector.Slug;
+                    var labelWidth = Math.Max(520, sector.Label.Length * 34);
+                    var descWidth = Math.Min(920, Math.Max(640, sector.Description.Length * 11));
+                    var boxWidth = Math.Max(labelWidth, descWidth);
+                    var boxHeight = 150;
+                    var boxX = sector.LabelX - boxWidth / 2;
+                    var boxY = sector.LabelY - boxHeight - 24;
+                    var titleY = boxY + 52;
+                    var descY = boxY + 98;
+                    var opacity = isActive ? 0.96 : 0.78;
+
+                    <g class="galaxy-sector-callout @(isActive ? "is-active" : null)" pointer-events="none">
+                        <rect x="@boxX"
+                              y="@boxY"
+                              width="@boxWidth"
+                              height="@boxHeight"
+                              rx="18"
+                              fill="rgba(6, 10, 24, @opacity)"
+                              stroke="@(isActive ? "rgba(255,255,255,0.55)" : "rgba(255,255,255,0.18)")"
+                              stroke-width="4" />
+                        <line x1="@sector.LabelX"
+                              y1="@(boxY + boxHeight)"
+                              x2="@sector.LabelX"
+                              y2="@(sector.LabelY - 12)"
+                              stroke="@(isActive ? "rgba(255,255,255,0.45)" : "rgba(255,255,255,0.2)")"
+                              stroke-width="3"
+                              stroke-dasharray="8 8" />
+                        <circle cx="@sector.LabelX" cy="@sector.LabelY" r="10" fill="@(isActive ? "#ffffff" : "rgba(255,255,255,0.35)")" />
+                        @((MarkupString)BuildSectorTitle(sector.Label, sector.LabelX, titleY))
+                        @((MarkupString)BuildSectorDescription(sector.Description, sector.LabelX, descY, boxWidth - 48))
+                    </g>
+                }
+
+                <g class="galaxy-hyperlanes" opacity="0.75">
+                    @foreach (var lane in GalaxyMapOverlays.Hyperlanes)
+                    {
+                        var path = BuildHyperlanePath(lane.Points);
+                        <path d="@path"
+                              fill="none"
+                              stroke="@lane.Color"
+                              stroke-width="18"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              opacity="0.55"
+                              pointer-events="none" />
+                        <path d="@path"
+                              fill="none"
+                              stroke="@lane.Color"
+                              stroke-width="6"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              opacity="0.95"
+                              pointer-events="none" />
+                    }
+                </g>
+
                 <g opacity="0.45">
                     <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="2880" ry="1080" fill="none" stroke="#7f95d9" stroke-width="140" transform="rotate(-18 @GalaxyMapSettings.CenterX @GalaxyMapSettings.CenterY)" />
                     <ellipse cx="@GalaxyMapSettings.CenterX" cy="@GalaxyMapSettings.CenterY" rx="2240" ry="790" fill="none" stroke="#5f74bf" stroke-width="110" transform="rotate(24 @GalaxyMapSettings.CenterX @GalaxyMapSettings.CenterY)" />
@@ -103,11 +207,6 @@
                     var size = 2 + (i % 4);
                     <circle cx="@x" cy="@y" r="@size" fill="#ffffff" opacity="@(0.12 + (i % 5) * 0.07)" />
                 }
-
-                <text x="@GalaxyMapSettings.CenterX" y="420" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="96">Core Worlds</text>
-                <text x="@GalaxyMapSettings.CenterX" y="4680" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="96">Outer Rim</text>
-                <text x="520" y="@GalaxyMapSettings.CenterY" text-anchor="middle" fill="rgba(255,255,255,0.22)" font-size="72" transform="rotate(-90 520 @GalaxyMapSettings.CenterY)">Western Reaches</text>
-                <text x="7480" y="@GalaxyMapSettings.CenterY" text-anchor="middle" fill="rgba(255,255,255,0.22)" font-size="72" transform="rotate(90 7480 @GalaxyMapSettings.CenterY)">Unknown Regions</text>
 
                 @if (focusedPlanet is not null)
                 {
@@ -209,6 +308,7 @@
     private double zoom = GalaxyMapSettings.DefaultZoom;
     private double panelLeft = 16;
     private double panelTop = 16;
+    private string? selectedSectorSlug;
 
     private IReadOnlyList<GalaxyPlanet> SearchSuggestions =>
         string.IsNullOrWhiteSpace(searchQuery)
@@ -449,6 +549,63 @@
     private void EndPan(MouseEventArgs _)
     {
         isPanning = false;
+    }
+
+    private void ZoomIn() => zoom = Math.Min(GalaxyMapSettings.MaxZoom, Math.Round(zoom + 0.15, 2));
+
+    private void ZoomOut() => zoom = Math.Max(GalaxyMapSettings.MinZoom, Math.Round(zoom - 0.15, 2));
+
+    private void ResetView()
+    {
+        zoom = GalaxyMapSettings.DefaultZoom;
+        panX = 0;
+        panY = 0;
+        selectedSectorSlug = null;
+        focusedPlanet = null;
+        selectedPlanet = null;
+        searchQuery = string.Empty;
+    }
+
+    private void SelectSector(string slug)
+    {
+        selectedSectorSlug = selectedSectorSlug == slug ? null : slug;
+        var sector = GalaxyMapOverlays.Sectors.FirstOrDefault(item => item.Slug == slug);
+        if (sector is null)
+        {
+            return;
+        }
+
+        panX = -(sector.CenterX - GalaxyMapSettings.CenterX) * 0.08;
+        panY = -(sector.CenterY - GalaxyMapSettings.CenterY) * 0.08;
+    }
+
+    private static string BuildHyperlanePath(IReadOnlyList<(double X, double Y)> points)
+    {
+        if (points.Count == 0)
+        {
+            return string.Empty;
+        }
+
+        var builder = new System.Text.StringBuilder();
+        builder.Append($"M {points[0].X} {points[0].Y}");
+        for (var i = 1; i < points.Count; i++)
+        {
+            builder.Append($" L {points[i].X} {points[i].Y}");
+        }
+
+        return builder.ToString();
+    }
+
+    private static string BuildSectorTitle(string title, double x, double y)
+    {
+        var encoded = System.Net.WebUtility.HtmlEncode(title);
+        return $"""<text x="{x}" y="{y}" text-anchor="middle" fill="#ffffff" font-size="56" font-weight="700" paint-order="stroke" stroke="#000000" stroke-width="6" pointer-events="none">{encoded}</text>""";
+    }
+
+    private static string BuildSectorDescription(string description, double x, double y, double maxWidth)
+    {
+        var encoded = System.Net.WebUtility.HtmlEncode(description);
+        return $"""<text x="{x}" y="{y}" text-anchor="middle" fill="rgba(255,255,255,0.82)" font-size="34" paint-order="stroke" stroke="#000000" stroke-width="4" pointer-events="none"><tspan>{encoded}</tspan></text>""";
     }
 
     private sealed class PanelPosition

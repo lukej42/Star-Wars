@@ -115,8 +115,78 @@
 
 .galaxy-map-toolbar {
     display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.75rem 1rem;
+    margin-bottom: 0.75rem;
+}
+
+.galaxy-sector-legend {
+    display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.4rem;
+    flex: 1 1 420px;
+}
+
+.galaxy-toolbar-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.45);
+    margin-right: 0.25rem;
+}
+
+.galaxy-sector-chip {
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 999px;
+    padding: 0.25rem 0.65rem;
+    background: rgba(255, 255, 255, 0.06);
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 0.78rem;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 1px var(--sector-color, transparent);
+}
+
+.galaxy-sector-chip.is-active {
+    background: rgba(255, 255, 255, 0.16);
+    border-color: rgba(255, 255, 255, 0.35);
+    color: #fff;
+}
+
+.galaxy-zoom-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.galaxy-zoom-btn {
+    min-width: 2.25rem;
+    height: 2.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+    font-size: 1.05rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 0.55rem;
+}
+
+.galaxy-zoom-reset {
+    font-size: 0.78rem;
+}
+
+.galaxy-zoom-btn:hover {
+    background: rgba(255, 255, 255, 0.16);
+}
+
+.galaxy-zoom-level {
+    min-width: 3rem;
+    text-align: center;
+    font-size: 0.82rem;
+    color: rgba(255, 255, 255, 0.55);
 }
 
 .galaxy-map-btn {
@@ -158,9 +228,14 @@
     font-size: 0.95rem;
 }
 
+.galaxy-map-shell {
+    width: 100%;
+    max-width: none;
+}
+
 .galaxy-viewport {
     position: relative;
-    height: min(82vh, 900px);
+    height: min(96vh, 1400px);
     overflow: hidden;
     border: 1px solid rgba(255, 255, 255, 0.12);
     border-radius: 10px;
@@ -286,14 +361,20 @@
 
 @media (min-width: 641px) {
     .galaxy-map-shell {
-        width: calc(100% + 3.5rem);
+        width: calc(100vw - 280px);
+        max-width: none;
         margin-left: -2rem;
-        margin-right: -1.5rem;
+        margin-right: calc(-1.5rem - 8px);
+    }
+
+    .page.sidebar-collapsed .galaxy-map-shell {
+        width: calc(100vw - 28px);
+        margin-left: -2rem;
     }
 
     .galaxy-viewport {
         border-radius: 0;
-        height: min(85vh, 960px);
+        height: min(98vh, 1500px);
     }
 }
 
@@ -325,4 +406,8 @@
 
 .planet-marker.is-focused {
     pointer-events: auto;
+}
+
+.galaxy-sector-callout.is-active rect {
+    filter: drop-shadow(0 0 24px rgba(255, 255, 255, 0.25));
 }

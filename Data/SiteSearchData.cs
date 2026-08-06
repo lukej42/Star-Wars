@@ -42,6 +42,8 @@ public static class SiteSearchData
         Add(entries, DroidData.Droids, "Droid");
         Add(entries, BountyHunterData.BountyHunters, "Bounty Hunter");
         Add(entries, SettlementData.Settlements, "Settlement");
+        Add(entries, OrganizationData.Organizations, "Organization");
+        Add(entries, CreatureData.Creatures, "Creature");
         Add(entries, TimelineData.Eras, "Timeline");
 
         return entries

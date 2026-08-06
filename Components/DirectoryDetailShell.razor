@@ -33,7 +33,7 @@
             {
                 <p class="directory-detail-meta-line">@MetaLine</p>
             }
-            @if (Government is not null || HeadOfGovernment is not null || HeadOfState is not null || !string.IsNullOrWhiteSpace(NumberOfSystems) || HomePlanet is not null || Location is not null)
+            @if (Government is not null || HeadOfGovernment is not null || HeadOfState is not null || !string.IsNullOrWhiteSpace(NumberOfSystems) || HomePlanet is not null || Location is not null || MemberOfFaction is not null || ParentOrganization is not null)
             {
                 <dl class="directory-detail-governance">
                     @if (HomePlanet is not null)
@@ -48,6 +48,20 @@
                         <div class="directory-detail-governance-row">
                             <dt>Location</dt>
                             <dd>@RenderGovernanceValue(Location)</dd>
+                        </div>
+                    }
+                    @if (MemberOfFaction is not null)
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Member of</dt>
+                            <dd>@RenderGovernanceValue(MemberOfFaction)</dd>
+                        </div>
+                    }
+                    @if (ParentOrganization is not null)
+                    {
+                        <div class="directory-detail-governance-row">
+                            <dt>Parent organization</dt>
+                            <dd>@RenderGovernanceValue(ParentOrganization)</dd>
                         </div>
                     }
                     @if (Government is not null)
@@ -157,6 +171,11 @@
     @if (KeyFactions.Count > 0)
     {
         <DirectoryLinkedList Heading="Key factions" Items="@KeyFactions" />
+    }
+
+    @if (MemberOrganizations.Count > 0)
+    {
+        <DirectoryLinkedList Heading="Member organizations" Items="@MemberOrganizations" />
     }
 
     @if (MajorCharacters.Count > 0)
@@ -334,6 +353,9 @@
     public IReadOnlyList<ProfileLinkItem> KeyFactions { get; set; } = Array.Empty<ProfileLinkItem>();
 
     [Parameter]
+    public IReadOnlyList<ProfileLinkItem> MemberOrganizations { get; set; } = Array.Empty<ProfileLinkItem>();
+
+    [Parameter]
     public IReadOnlyList<ProfileLinkItem> MajorCharacters { get; set; } = Array.Empty<ProfileLinkItem>();
 
     [Parameter]
@@ -368,6 +390,12 @@
 
     [Parameter]
     public ProfileLinkItem? Location { get; set; }
+
+    [Parameter]
+    public ProfileLinkItem? MemberOfFaction { get; set; }
+
+    [Parameter]
+    public ProfileLinkItem? ParentOrganization { get; set; }
 
     [Parameter]
     public string LightsaberGlowPath { get; set; } = string.Empty;

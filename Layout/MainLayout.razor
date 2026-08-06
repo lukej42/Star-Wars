@@ -1,12 +1,21 @@
 ﻿@inherits LayoutComponentBase
 @inject NavigationManager Navigation
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+<div class="page @(sidebarCollapsed ? "sidebar-collapsed" : null)">
+    <aside class="sidebar @(sidebarCollapsed ? "is-collapsed" : null)">
+        <button type="button"
+                class="sidebar-collapse-toggle"
+                @onclick="ToggleSidebar"
+                aria-label="@(sidebarCollapsed ? "Expand navigation menu" : "Collapse navigation menu")"
+                title="@(sidebarCollapsed ? "Expand menu" : "Collapse menu")">
+            <span aria-hidden="true">@(sidebarCollapsed ? "›" : "‹")</span>
+        </button>
+        <div class="sidebar-nav-wrap">
+            <NavMenu />
+        </div>
+    </aside>
 
-    <main class="@(IsHomePage ? "main-home" : null)">
+    <main class="@(IsHomePage ? "main-home" : null) @(IsGalaxyMapPage ? "main-galaxy-map" : null)">
         @if (!IsHomePage)
         {
             <div class="top-row px-4">
@@ -14,16 +23,23 @@
             </div>
         }
 
-        <article class="content px-4 @(IsHomePage ? "content-home" : null) @(IsPlanetPage ? "content-planet" : "content-galaxy")">
+        <article class="content px-4 @(IsHomePage ? "content-home" : null) @(IsPlanetPage ? "content-planet" : "content-galaxy") @(IsGalaxyMapPage ? "content-galaxy-map" : null)">
             @Body
         </article>
     </main>
 </div>
 
 @code {
+    private bool sidebarCollapsed;
+
     private bool IsHomePage =>
         Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Length == 0;
 
     private bool IsPlanetPage =>
         Navigation.ToBaseRelativePath(Navigation.Uri).StartsWith("planet/", StringComparison.OrdinalIgnoreCase);
+
+    private bool IsGalaxyMapPage =>
+        Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Equals("galaxy-map", StringComparison.OrdinalIgnoreCase);
+
+    private void ToggleSidebar() => sidebarCollapsed = !sidebarCollapsed;
 }

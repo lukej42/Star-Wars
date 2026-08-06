@@ -26,6 +26,9 @@
         var armyUnits = MilitaryUnitData.GetArmyUnits(faction.Slug);
         var navyUnits = MilitaryUnitData.GetNavyUnits(faction.Slug);
         <section class="force-powers-category">
+            <figure class="directory-hero">
+                <img src="@ImageUrls.Resolve(faction.FactionHeroPath)" alt="@($"Military forces of {faction.Name}")" loading="lazy" />
+            </figure>
             <h2><a href="@faction.Route">@faction.Name</a></h2>
             <p class="all-planets-intro">
                 @armyUnits.Count army · @navyUnits.Count navy ·

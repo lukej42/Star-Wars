@@ -147,7 +147,7 @@ else
     {
         MilitaryUnitBranch.Army => faction!.ArmyHeroPath,
         MilitaryUnitBranch.Navy => faction!.NavyHeroPath,
-        _ => "/images/military-units/military-units-directory-hero.webp"
+        _ => faction!.FactionHeroPath
     };
 
     private string listHeroAlt => branch switch

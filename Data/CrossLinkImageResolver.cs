@@ -17,6 +17,8 @@ public static class CrossLinkImageResolver
         ["all-droids"] = "/images/droids/droids-directory-hero.webp",
         ["all-bounty-hunters"] = "/images/bounty-hunters/bounty-hunters-directory-hero.webp",
         ["all-military-units"] = "/images/military-units/military-units-directory-hero.webp",
+        ["all-organizations"] = "/images/organizations/organizations-directory-hero.webp",
+        ["all-creatures"] = "/images/creatures/creatures-directory-hero.webp",
         ["all-force-powers"] = "/images/force-powers/force-powers-all-hero.webp",
         ["all-light-side-powers"] = "/images/force-powers/force-powers-light-side-hero.webp",
         ["all-dark-side-powers"] = "/images/force-powers/force-powers-dark-side-hero.webp",
@@ -68,6 +70,8 @@ public static class CrossLinkImageResolver
             "factions" when segments.Length >= 2 => $"/images/factions/{segments[1]}.svg",
             "settlements" when segments.Length >= 2 => $"/images/settlements/{segments[1]}.webp",
             "bounty-hunters" when segments.Length >= 2 => $"/images/bounty-hunters/{segments[1]}.webp",
+            "organizations" when segments.Length >= 2 => $"/images/organizations/{segments[1]}-scene.webp",
+            "creatures" when segments.Length >= 2 => $"/images/creatures/{segments[1]}-scene.webp",
             "droids" when segments.Length >= 2 => $"/images/droids/{segments[1]}.webp",
             "force-powers" when segments.Length >= 2 => $"/images/force-powers/{segments[1]}.webp",
             "wars-conflicts" when segments is ["wars-conflicts", var warSlug] => $"/images/wars-conflicts/{warSlug}-hero.webp",
@@ -98,6 +102,11 @@ public static class CrossLinkImageResolver
             }
 
             return segments[2] == "navy" ? faction.NavyHeroPath : faction.ArmyHeroPath;
+        }
+
+        if (segments.Length >= 4 && segments[2] is "ground" or "air")
+        {
+            return $"/images/military-vehicles/{segments[1]}-{segments[2]}-{segments[3]}-hero.webp";
         }
 
         if (segments.Length >= 4)

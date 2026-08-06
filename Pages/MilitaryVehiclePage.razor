@@ -1,0 +1,91 @@
+@page "/military-units/{FactionSlug}/ground/{Slug}"
+@page "/military-units/{FactionSlug}/air/{Slug}"
+@using StarWars.Data
+@using StarWars.Models
+@using StarWars.Services
+@using StarWars.Components
+@inject NavigationManager Navigation
+@inject EntityCrossLinkService CrossLinkService
+
+<PageTitle>@(vehicle?.Name ?? "Military Vehicle")</PageTitle>
+
+@if (vehicle is null || faction is null)
+{
+    <h1>Military vehicle not found</h1>
+    <p>Sorry, there are no records for this vehicle.</p>
+}
+else
+{
+    <DirectoryDetailShell Name="@vehicle.Name"
+                          HeroImagePath="@vehicle.HeroImagePath"
+                          HeroImageAlt="@($"Cinematic illustration of {vehicle.Name}")"
+                          ShowPortraitHero="false"
+                          Subtitle="@($"{faction!.Name} · {vehicle!.VehicleClass} · {(vehicle.Type == MilitaryVehicleType.Ground ? "Ground" : "Air")}")"
+                          OverviewText="@vehicle.Description"
+                          HistoryText="@VehicleHistory"
+                          SignificanceText="@VehicleSignificance"
+                          SignificanceHeading="Role in galactic conflicts"
+                          NotableEvents="@VehicleEvents"
+                          Affiliations="@(new[] { faction.Name })"
+                          AccentColor="@vehicle.Color" />
+    <EntityCrossLinks Links="@crossLinks" />
+}
+
+@code {
+    [Parameter]
+    public string FactionSlug { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private MilitaryUnitFaction? faction;
+    private MilitaryVehicle? vehicle;
+    private IReadOnlyList<EntityCrossLink> crossLinks = [];
+
+    private string VehicleHistory =>
+        $"{vehicle!.Name} served as a core {vehicle.VehicleClass.ToLowerInvariant()} asset of {faction!.Name} {(vehicle.Type == MilitaryVehicleType.Ground ? "ground" : "air")} forces throughout major galactic conflicts referenced in the nine saga films, live-action and animated series, Knights of the Old Republic, and records of the Old Sith Empire.\n\n{vehicle.Description}";
+
+    private string VehicleSignificance =>
+        $"As {vehicle!.VehicleClass.ToLowerInvariant()} hardware within the {faction!.Name} {(vehicle.Type == MilitaryVehicleType.Ground ? "army" : "air corps")}, {vehicle.Name} influenced campaign planning, logistics, and the outcome of pivotal battles across the galaxy.";
+
+    private IReadOnlyList<string> VehicleEvents =>
+    [
+        $"Deployed by {faction!.Name} in major theater operations",
+        vehicle!.Type == MilitaryVehicleType.Air
+            ? "Referenced in fleet actions, orbital assaults, and atmospheric campaigns"
+            : "Referenced in ground sieges, planetary invasions, and armored breakthroughs",
+        "Documented across Clone Wars, Galactic Civil War, and sequel-era military archives"
+    ];
+
+    protected override async Task OnParametersSetAsync()
+    {
+        faction = MilitaryUnitData.GetFactionBySlug(FactionSlug);
+        var vehicleType = ResolveVehicleType();
+        vehicle = vehicleType is null
+            ? null
+            : VehicleData.GetBySlug(FactionSlug, vehicleType.Value, Slug);
+
+        crossLinks = vehicle is null
+            ? []
+            : await CrossLinkService.GetLinksAsync("military-vehicles", $"{FactionSlug}/{vehicle.TypeSlug}/{Slug}");
+    }
+
+    private MilitaryVehicleType? ResolveVehicleType()
+    {
+        var segments = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Split('/', StringSplitOptions.RemoveEmptyEntries);
+        if (segments.Length >= 3 && segments[0].Equals("military-units", StringComparison.OrdinalIgnoreCase))
+        {
+            if (segments[2].Equals("ground", StringComparison.OrdinalIgnoreCase))
+            {
+                return MilitaryVehicleType.Ground;
+            }
+
+            if (segments[2].Equals("air", StringComparison.OrdinalIgnoreCase))
+            {
+                return MilitaryVehicleType.Air;
+            }
+        }
+
+        return null;
+    }
+}

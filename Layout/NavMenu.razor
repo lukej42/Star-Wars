@@ -105,6 +105,82 @@
             </div>
             <div class="nav-item px-3 nav-flyout"
                  @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileOrganizations">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsOrganizationRoute ? "active" : null)"
+                        @onclick="ToggleMobileOrganizations">
+                    <span class="bi bi-organizations-nav-menu" aria-hidden="true"></span> Organisations &amp; Syndicates
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileOrganizationsOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-wide nav-flyout-panel-subflyouts">
+                        <NavLink class="nav-link nav-flyout-link nav-organization-link nav-all-organizations-link" href="all-organizations" @onclick="CloseMobileNav">
+                            <span class="bi bi-all-organizations-nav-menu" aria-hidden="true"></span>
+                            All Organisations
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        <div class="nav-subflyout"
+                             @onclick:stopPropagation="true"
+                             @onmouseleave="CloseSeparatistOrganizations">
+                            <button type="button"
+                                    class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsSeparatistOrganizationRoute ? "active" : null)"
+                                    @onclick="ToggleSeparatistOrganizations">
+                                Separatist Corporations
+                                <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                            </button>
+                            <div class="nav-subflyout-menu @(separatistOrganizationsOpen ? "is-open" : null)">
+                                <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                                    @foreach (var org in OrganizationData.GetByGroup("Separatist Corporations"))
+                                    {
+                                        <NavLink class="nav-link nav-flyout-link nav-organization-link" href="@org.Route" @onclick="CloseMobileNav">
+                                            <span class="nav-organization-dot" style="background-color: @org.Color" aria-hidden="true"></span>
+                                            @org.Name
+                                        </NavLink>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                        @foreach (var org in OrganizationData.GetByGroup("Syndicates & Guilds"))
+                        {
+                            <NavLink class="nav-link nav-flyout-link nav-organization-link" href="@org.Route" @onclick="CloseMobileNav">
+                                <span class="nav-organization-dot" style="background-color: @org.Color" aria-hidden="true"></span>
+                                @org.Name
+                            </NavLink>
+                        }
+                        @foreach (var hub in OrganizationData.GetCategoryHubs())
+                        {
+                            <div class="nav-subflyout"
+                                 @onclick:stopPropagation="true"
+                                 @onmouseleave="() => CloseOrganizationHub(hub.Slug)">
+                                <button type="button"
+                                        class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsOrganizationHubRoute(hub.Slug) ? "active" : null)"
+                                        @onclick="() => ToggleOrganizationHub(hub.Slug)">
+                                    <span class="nav-organization-dot" style="background-color: @hub.Color" aria-hidden="true"></span>
+                                    @hub.Name
+                                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                </button>
+                                <div class="nav-subflyout-menu @(openOrganizationHubSlug == hub.Slug ? "is-open" : null)">
+                                    <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                                        <NavLink class="nav-link nav-flyout-link nav-organization-link" href="@hub.Route" @onclick="CloseMobileNav">
+                                            Overview
+                                        </NavLink>
+                                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                                        @foreach (var child in OrganizationData.GetChildren(hub.Slug))
+                                        {
+                                            <NavLink class="nav-link nav-flyout-link nav-organization-link" href="@child.Route" @onclick="CloseMobileNav">
+                                                <span class="nav-organization-dot" style="background-color: @child.Color" aria-hidden="true"></span>
+                                                @child.Name
+                                            </NavLink>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout"
+                 @onclick:stopPropagation="true"
                  @onmouseleave="CloseMobileCharacters">
                 <button type="button"
                         class="nav-link nav-flyout-trigger @(IsCharacterDirectoryRoute ? "active" : null)"
@@ -182,8 +258,7 @@
                 </div>
             </div>
             <div class="nav-item px-3 nav-flyout"
-                 @onclick:stopPropagation="true"
-                 @onmouseleave="CloseMobileMilitaryUnits">
+                 @onclick:stopPropagation="true">
                 <button type="button"
                         class="nav-link nav-flyout-trigger @(IsMilitaryUnitsRoute ? "active" : null)"
                         @onclick="ToggleMobileMilitaryUnits">
@@ -191,7 +266,7 @@
                     <span class="nav-flyout-chevron" aria-hidden="true"></span>
                 </button>
                 <div class="nav-flyout-menu @(mobileMilitaryUnitsOpen ? "is-open" : null)">
-                    <div class="nav-flyout-panel nav-flyout-panel-military-units">
+                    <div class="nav-flyout-panel nav-flyout-panel-military-units nav-flyout-panel-subflyouts">
                         <NavLink class="nav-link nav-flyout-link nav-military-unit-link nav-all-military-units-link" href="all-military-units" @onclick="CloseMobileNav">
                             <span class="bi bi-all-factions-nav-menu" aria-hidden="true"></span>
                             All Factions
@@ -200,8 +275,7 @@
                         @foreach (var faction in MilitaryUnitData.Factions.OrderBy(faction => faction.Name))
                         {
                             <div class="nav-subflyout"
-                                 @onclick:stopPropagation="true"
-                                 @onmouseleave="() => CloseMilitaryFaction(faction.Slug)">
+                                 @onclick:stopPropagation="true">
                                 <button type="button"
                                         class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsMilitaryFactionRoute(faction.Slug) ? "active" : null)"
                                         @onclick="() => ToggleMilitaryFaction(faction.Slug)">
@@ -216,8 +290,7 @@
                                         </NavLink>
                                         <div class="nav-flyout-divider" aria-hidden="true"></div>
                                         <div class="nav-subflyout"
-                                             @onclick:stopPropagation="true"
-                                             @onmouseleave="() => CloseMilitaryBranch(faction.Slug, MilitaryUnitBranch.Army)">
+                                             @onclick:stopPropagation="true">
                                             <button type="button"
                                                     class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsMilitaryBranchRoute(faction.Slug, MilitaryUnitBranch.Army) ? "active" : null)"
                                                     @onclick="() => ToggleMilitaryBranch(faction.Slug, MilitaryUnitBranch.Army)">
@@ -241,8 +314,7 @@
                                             </div>
                                         </div>
                                         <div class="nav-subflyout"
-                                             @onclick:stopPropagation="true"
-                                             @onmouseleave="() => CloseMilitaryBranch(faction.Slug, MilitaryUnitBranch.Navy)">
+                                             @onclick:stopPropagation="true">
                                             <button type="button"
                                                     class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsMilitaryBranchRoute(faction.Slug, MilitaryUnitBranch.Navy) ? "active" : null)"
                                                     @onclick="() => ToggleMilitaryBranch(faction.Slug, MilitaryUnitBranch.Navy)">
@@ -265,6 +337,46 @@
                                                                 @unit.Name
                                                             </NavLink>
                                                         }
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="nav-subflyout"
+                                             @onclick:stopPropagation="true">
+                                            <button type="button"
+                                                    class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsMilitaryVehicleBranchRoute(faction.Slug, MilitaryVehicleType.Ground) ? "active" : null)"
+                                                    @onclick="() => ToggleMilitaryVehicleBranch(faction.Slug, MilitaryVehicleType.Ground)">
+                                                Ground Craft
+                                                <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                            </button>
+                                            <div class="nav-subflyout-menu @(openMilitaryVehicleBranchKey == GetMilitaryVehicleBranchKey(faction.Slug, MilitaryVehicleType.Ground) ? "is-open" : null)">
+                                                <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                    @foreach (var vehicle in VehicleData.GetGround(faction.Slug))
+                                                    {
+                                                        <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@vehicle.Route" @onclick="CloseMobileNav">
+                                                            <span class="nav-military-unit-dot" style="background-color: @vehicle.Color" aria-hidden="true"></span>
+                                                            @vehicle.Name
+                                                        </NavLink>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="nav-subflyout"
+                                             @onclick:stopPropagation="true">
+                                            <button type="button"
+                                                    class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsMilitaryVehicleBranchRoute(faction.Slug, MilitaryVehicleType.Air) ? "active" : null)"
+                                                    @onclick="() => ToggleMilitaryVehicleBranch(faction.Slug, MilitaryVehicleType.Air)">
+                                                Air Craft
+                                                <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                            </button>
+                                            <div class="nav-subflyout-menu @(openMilitaryVehicleBranchKey == GetMilitaryVehicleBranchKey(faction.Slug, MilitaryVehicleType.Air) ? "is-open" : null)">
+                                                <div class="nav-flyout-panel nav-flyout-panel-scroll nav-flyout-panel-military-units">
+                                                    @foreach (var vehicle in VehicleData.GetAir(faction.Slug))
+                                                    {
+                                                        <NavLink class="nav-link nav-flyout-link nav-military-unit-link" href="@vehicle.Route" @onclick="CloseMobileNav">
+                                                            <span class="nav-military-unit-dot" style="background-color: @vehicle.Color" aria-hidden="true"></span>
+                                                            @vehicle.Name
+                                                        </NavLink>
                                                     }
                                                 </div>
                                             </div>
@@ -565,6 +677,48 @@
             </div>
             <div class="nav-item px-3 nav-flyout nav-flyout-bottom"
                  @onclick:stopPropagation="true"
+                 @onmouseleave="CloseMobileCreatures">
+                <button type="button"
+                        class="nav-link nav-flyout-trigger @(IsCreatureRoute ? "active" : null)"
+                        @onclick="ToggleMobileCreatures">
+                    <span class="bi bi-creatures-nav-menu" aria-hidden="true"></span> Creatures &amp; Fauna
+                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                </button>
+                <div class="nav-flyout-menu @(mobileCreaturesOpen ? "is-open" : null)">
+                    <div class="nav-flyout-panel nav-flyout-panel-wide nav-flyout-panel-subflyouts">
+                        <NavLink class="nav-link nav-flyout-link nav-creature-link nav-all-creatures-link" href="all-creatures" @onclick="CloseMobileNav">
+                            All Creatures
+                        </NavLink>
+                        <div class="nav-flyout-divider" aria-hidden="true"></div>
+                        @foreach (var habitat in CreatureData.Habitats)
+                        {
+                            <div class="nav-subflyout"
+                                 @onclick:stopPropagation="true"
+                                 @onmouseleave="() => CloseCreatureHabitat(habitat)">
+                                <button type="button"
+                                        class="nav-link nav-flyout-trigger nav-flyout-link nav-subflyout-trigger @(IsCreatureHabitatRoute(habitat) ? "active" : null)"
+                                        @onclick="() => ToggleCreatureHabitat(habitat)">
+                                    @habitat
+                                    <span class="nav-flyout-chevron" aria-hidden="true"></span>
+                                </button>
+                                <div class="nav-subflyout-menu @(openCreatureHabitat == habitat ? "is-open" : null)">
+                                    <div class="nav-flyout-panel nav-flyout-panel-scroll">
+                                        @foreach (var creature in CreatureData.GetByHabitat(habitat))
+                                        {
+                                            <NavLink class="nav-link nav-flyout-link nav-creature-link" href="@creature.Route" @onclick="CloseMobileNav">
+                                                <span class="nav-creature-dot" style="background-color: @creature.Color" aria-hidden="true"></span>
+                                                @creature.Name
+                                            </NavLink>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="nav-item px-3 nav-flyout nav-flyout-bottom"
+                 @onclick:stopPropagation="true"
                  @onmouseleave="CloseMobileWarsConflicts">
                 <button type="button"
                         class="nav-link nav-flyout-trigger @(IsWarsConflictsRoute ? "active" : null)"
@@ -615,6 +769,9 @@
     private bool mobileTimelinesOpen;
     private bool mobileChroniclesOpen;
     private bool mobileFactionsOpen;
+    private bool mobileOrganizationsOpen;
+    private bool separatistOrganizationsOpen;
+    private bool mobileCreaturesOpen;
     private bool mobileWarsConflictsOpen;
     private bool mobileCharactersOpen;
     private bool mobileJediOpen;
@@ -633,13 +790,20 @@
     private bool mobileLightsaberFormsOpen;
     private string? openMilitaryFactionSlug;
     private string? openMilitaryBranchKey;
+    private string? openMilitaryVehicleBranchKey;
+    private string? openOrganizationHubSlug;
+    private string? openCreatureHabitat;
     private string? openWarSlug;
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
-        if (firstRender)
+        try
         {
             await JS.InvokeVoidAsync("starWarsNav.init");
+        }
+        catch
+        {
+            // Ignore disconnect errors during teardown.
         }
     }
 
@@ -682,6 +846,72 @@
     private bool IsFactionRoute =>
         Navigation.Uri.Contains("/factions/", StringComparison.OrdinalIgnoreCase) ||
         Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').Equals("all-factions", StringComparison.OrdinalIgnoreCase);
+
+    private bool IsOrganizationRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri.Equals("all-organizations", StringComparison.OrdinalIgnoreCase))
+            {
+                return true;
+            }
+
+            return OrganizationData.Organizations.Any(organization =>
+                uri.Equals(organization.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{organization.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private bool IsSeparatistOrganizationRoute =>
+        OrganizationData.GetByGroup("Separatist Corporations").Any(organization =>
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+            return uri.Equals(organization.Route, StringComparison.OrdinalIgnoreCase);
+        });
+
+    private bool IsOrganizationHubRoute(string hubSlug)
+    {
+        var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+        var hub = OrganizationData.GetBySlug(hubSlug);
+        if (hub is null)
+        {
+            return false;
+        }
+
+        if (uri.Equals(hub.Route, StringComparison.OrdinalIgnoreCase))
+        {
+            return true;
+        }
+
+        return OrganizationData.GetChildren(hubSlug).Any(child =>
+            uri.Equals(child.Route, StringComparison.OrdinalIgnoreCase));
+    }
+
+    private bool IsCreatureRoute
+    {
+        get
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+
+            if (uri.Equals("all-creatures", StringComparison.OrdinalIgnoreCase))
+            {
+                return true;
+            }
+
+            return CreatureData.Creatures.Any(creature =>
+                uri.Equals(creature.Route, StringComparison.OrdinalIgnoreCase) ||
+                uri.StartsWith($"{creature.Route}/", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+
+    private bool IsCreatureHabitatRoute(string habitat) =>
+        CreatureData.GetByHabitat(habitat).Any(creature =>
+        {
+            var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+            return uri.Equals(creature.Route, StringComparison.OrdinalIgnoreCase);
+        });
 
     private bool IsWarsConflictsRoute
     {
@@ -779,7 +1009,10 @@
 
             return MilitaryUnitData.Factions.Any(faction =>
                 uri.Equals(faction.Route, StringComparison.OrdinalIgnoreCase) ||
-                uri.StartsWith($"{faction.Route}/", StringComparison.OrdinalIgnoreCase));
+                uri.StartsWith($"{faction.Route}/", StringComparison.OrdinalIgnoreCase))
+                || VehicleData.Vehicles.Any(vehicle =>
+                    uri.Equals(vehicle.Route, StringComparison.OrdinalIgnoreCase) ||
+                    uri.StartsWith($"{vehicle.Route}/", StringComparison.OrdinalIgnoreCase));
         }
     }
 
@@ -793,7 +1026,9 @@
         }
 
         return uri.Equals(faction.Route, StringComparison.OrdinalIgnoreCase)
-            || uri.StartsWith($"{faction.Route}/", StringComparison.OrdinalIgnoreCase);
+            || uri.StartsWith($"{faction.Route}/", StringComparison.OrdinalIgnoreCase)
+            || VehicleData.GetByFaction(slug).Any(vehicle =>
+                uri.Equals(vehicle.Route, StringComparison.OrdinalIgnoreCase));
     }
 
     private bool IsLightsaberFormRoute
@@ -1021,6 +1256,74 @@
         }
     }
 
+    private void ToggleMobileOrganizations()
+    {
+        mobileOrganizationsOpen = !mobileOrganizationsOpen;
+        if (mobileOrganizationsOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileOrganizationsOpen));
+        }
+        else
+        {
+            separatistOrganizationsOpen = false;
+            openOrganizationHubSlug = null;
+        }
+    }
+
+    private void CloseMobileOrganizations()
+    {
+        mobileOrganizationsOpen = false;
+        separatistOrganizationsOpen = false;
+        openOrganizationHubSlug = null;
+    }
+
+    private void ToggleSeparatistOrganizations() =>
+        separatistOrganizationsOpen = !separatistOrganizationsOpen;
+
+    private void CloseSeparatistOrganizations() =>
+        separatistOrganizationsOpen = false;
+
+    private void ToggleOrganizationHub(string slug) =>
+        openOrganizationHubSlug = openOrganizationHubSlug == slug ? null : slug;
+
+    private void CloseOrganizationHub(string slug)
+    {
+        if (openOrganizationHubSlug == slug)
+        {
+            openOrganizationHubSlug = null;
+        }
+    }
+
+    private void ToggleMobileCreatures()
+    {
+        mobileCreaturesOpen = !mobileCreaturesOpen;
+        if (mobileCreaturesOpen)
+        {
+            CloseOtherFlyouts(nameof(mobileCreaturesOpen));
+        }
+        else
+        {
+            openCreatureHabitat = null;
+        }
+    }
+
+    private void CloseMobileCreatures()
+    {
+        mobileCreaturesOpen = false;
+        openCreatureHabitat = null;
+    }
+
+    private void ToggleCreatureHabitat(string habitat) =>
+        openCreatureHabitat = openCreatureHabitat == habitat ? null : habitat;
+
+    private void CloseCreatureHabitat(string habitat)
+    {
+        if (openCreatureHabitat == habitat)
+        {
+            openCreatureHabitat = null;
+        }
+    }
+
     private void ToggleMobileWarsConflicts()
     {
         mobileWarsConflictsOpen = !mobileWarsConflictsOpen;
@@ -1152,6 +1455,7 @@
         if (openMilitaryFactionSlug != slug)
         {
             openMilitaryBranchKey = null;
+            openMilitaryVehicleBranchKey = null;
         }
     }
 
@@ -1160,6 +1464,24 @@
         var key = GetMilitaryBranchKey(factionSlug, branch);
         openMilitaryBranchKey = openMilitaryBranchKey == key ? null : key;
         openMilitaryFactionSlug = factionSlug;
+        openMilitaryVehicleBranchKey = null;
+    }
+
+    private void ToggleMilitaryVehicleBranch(string factionSlug, MilitaryVehicleType type)
+    {
+        var key = GetMilitaryVehicleBranchKey(factionSlug, type);
+        openMilitaryVehicleBranchKey = openMilitaryVehicleBranchKey == key ? null : key;
+        openMilitaryFactionSlug = factionSlug;
+        openMilitaryBranchKey = null;
+    }
+
+    private void CloseMilitaryVehicleBranch(string factionSlug, MilitaryVehicleType type)
+    {
+        var key = GetMilitaryVehicleBranchKey(factionSlug, type);
+        if (openMilitaryVehicleBranchKey == key)
+        {
+            openMilitaryVehicleBranchKey = null;
+        }
     }
 
     private void CloseMilitaryBranch(string factionSlug, MilitaryUnitBranch branch)
@@ -1174,12 +1496,26 @@
     private static string GetMilitaryBranchKey(string factionSlug, MilitaryUnitBranch branch) =>
         $"{factionSlug}-{branch.ToString().ToLowerInvariant()}";
 
+    private static string GetMilitaryVehicleBranchKey(string factionSlug, MilitaryVehicleType type) =>
+        $"{factionSlug}-vehicle-{type.ToString().ToLowerInvariant()}";
+
     private bool IsMilitaryBranchRoute(string factionSlug, MilitaryUnitBranch branch)
     {
         var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
         var prefix = $"military-units/{factionSlug}/{branch.ToString().ToLowerInvariant()}";
         return uri.Equals(prefix, StringComparison.OrdinalIgnoreCase)
             || uri.StartsWith($"{prefix}/", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private bool IsMilitaryVehicleBranchRoute(string factionSlug, MilitaryVehicleType type)
+    {
+        var uri = Navigation.ToBaseRelativePath(Navigation.Uri).Trim('/').ToLowerInvariant();
+        var prefix = $"military-units/{factionSlug}/{type.ToString().ToLowerInvariant()}";
+        return uri.Equals(prefix, StringComparison.OrdinalIgnoreCase)
+            || uri.StartsWith($"{prefix}/", StringComparison.OrdinalIgnoreCase)
+            || VehicleData.GetByFaction(factionSlug)
+                .Where(vehicle => vehicle.Type == type)
+                .Any(vehicle => uri.Equals(vehicle.Route, StringComparison.OrdinalIgnoreCase));
     }
 
     private void CloseMilitaryFaction(string slug)
@@ -1246,6 +1582,19 @@
         if (except != nameof(mobileFactionsOpen))
         {
             mobileFactionsOpen = false;
+        }
+
+        if (except != nameof(mobileOrganizationsOpen))
+        {
+            mobileOrganizationsOpen = false;
+            separatistOrganizationsOpen = false;
+            openOrganizationHubSlug = null;
+        }
+
+        if (except != nameof(mobileCreaturesOpen))
+        {
+            mobileCreaturesOpen = false;
+            openCreatureHabitat = null;
         }
 
         if (except != nameof(mobileWarsConflictsOpen))
@@ -1355,6 +1704,7 @@
         mobileMilitaryUnitsOpen = false;
         openMilitaryFactionSlug = null;
         openMilitaryBranchKey = null;
+        openMilitaryVehicleBranchKey = null;
     }
 
     private void CloseMobilePlanets()
@@ -1423,6 +1773,11 @@
         mobileTimelinesOpen = false;
         mobileChroniclesOpen = false;
         mobileFactionsOpen = false;
+        mobileOrganizationsOpen = false;
+        separatistOrganizationsOpen = false;
+        openOrganizationHubSlug = null;
+        mobileCreaturesOpen = false;
+        openCreatureHabitat = null;
         mobileWarsConflictsOpen = false;
         mobileCharactersOpen = false;
         mobileJediOpen = false;

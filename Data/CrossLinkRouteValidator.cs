@@ -81,7 +81,8 @@ public static class CrossLinkRouteValidator
             "all-planets", "all-characters", "all-jedi", "all-sith", "all-ships",
             "all-species", "all-factions", "all-cities-settlements", "all-droids",
             "all-bounty-hunters", "all-military-units", "all-force-powers",
-            "all-light-side-powers", "all-dark-side-powers", "galaxy-map", "timelines"
+            "all-light-side-powers", "all-dark-side-powers", "all-organizations", "all-creatures",
+            "galaxy-map", "timelines"
         };
 
         foreach (var planet in GalaxyData.Planets)
@@ -184,6 +185,21 @@ public static class CrossLinkRouteValidator
         foreach (var government in GovernmentData.Governments)
         {
             routes.Add(government.Route);
+        }
+
+        foreach (var organization in OrganizationData.Organizations)
+        {
+            routes.Add(organization.Route);
+        }
+
+        foreach (var creature in CreatureData.Creatures)
+        {
+            routes.Add(creature.Route);
+        }
+
+        foreach (var vehicle in VehicleData.Vehicles)
+        {
+            routes.Add(vehicle.Route);
         }
 
         return routes;

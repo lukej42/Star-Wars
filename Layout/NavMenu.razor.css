@@ -188,6 +188,18 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Ccircle cx='5.5' cy='6' r='1' fill='%2365a30d'/%3E%3Ccircle cx='8' cy='6' r='1' fill='%230284c7'/%3E%3Ccircle cx='10.5' cy='6' r='1' fill='%23991b1b'/%3E%3Ccircle cx='5.5' cy='9.5' r='1' fill='%2364748b'/%3E%3Ccircle cx='8' cy='9.5' r='1' fill='%23d97706'/%3E%3Ccircle cx='10.5' cy='9.5' r='1' fill='%230891b2'/%3E%3C/svg%3E");
 }
 
+.bi-organizations-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Crect fill='%23fff' x='2' y='3' width='12' height='10' rx='1.5'/%3E%3Crect fill='%236366f1' x='4' y='5' width='3' height='2'/%3E%3Crect fill='%230891b2' x='9' y='5' width='3' height='2'/%3E%3Crect fill='%23dc2626' x='4' y='9' width='8' height='2'/%3E%3C/svg%3E");
+}
+
+.bi-all-organizations-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M2 2.5A1.5 1.5 0 0 1 3.5 1h9A1.5 1.5 0 0 1 14 2.5v11a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5v-11zM3.5 2a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-11a.5.5 0 0 0-.5-.5h-9z'/%3E%3Crect fill='%236366f1' x='4.5' y='5' width='2' height='1.5'/%3E%3Crect fill='%23dc2626' x='9.5' y='5' width='2' height='1.5'/%3E%3Crect fill='%230891b2' x='6.5' y='9' width='3' height='1.5'/%3E%3C/svg%3E");
+}
+
+.bi-creatures-nav-menu {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cellipse fill='%23f97316' cx='5.5' cy='8' rx='2.8' ry='2.2'/%3E%3Cpath fill='%23eab308' d='M8.5 4.5c1.2 0 2.2 1.5 2.2 3.5s-1 3.5-2.2 3.5c-.8 0-1.5-.8-1.5-2.2h3c0-1.4-.7-2.2-1.5-2.2z'/%3E%3Ccircle fill='%231e293b' cx='4.5' cy='7.5' r='0.6'/%3E%3Cpath fill='%2322c55e' d='M11.5 10.5c1.5 0 2.5 1 2.5 2.5H9c0-1.5 1-2.5 2.5-2.5z'/%3E%3C/svg%3E");
+}
+
 .nav-subflyout {
     position: relative;
 }
@@ -392,6 +404,8 @@
 
 .nav-flyout-panel ::deep .nav-planet-dot,
 .nav-flyout-panel ::deep .nav-faction-dot,
+.nav-flyout-panel ::deep .nav-organization-dot,
+.nav-flyout-panel ::deep .nav-creature-dot,
 .nav-flyout-panel ::deep .nav-war-conflict-dot,
 .nav-flyout-panel ::deep .nav-timeline-dot,
 .nav-flyout-panel ::deep .nav-chronicles-dot,
@@ -418,6 +432,8 @@
 
 .nav-flyout-panel ::deep .nav-planet-link:hover .nav-planet-dot,
 .nav-flyout-panel ::deep .nav-faction-link:hover .nav-faction-dot,
+.nav-flyout-panel ::deep .nav-organization-link:hover .nav-organization-dot,
+.nav-flyout-panel ::deep .nav-creature-link:hover .nav-creature-dot,
 .nav-flyout-panel ::deep .nav-war-conflict-link:hover .nav-war-conflict-dot,
 .nav-flyout-panel ::deep .nav-timeline-link:hover .nav-timeline-dot,
 .nav-flyout-panel ::deep .nav-chronicles-link:hover .nav-chronicles-dot,
@@ -439,6 +455,15 @@
 .nav-flyout-panel-scroll {
     max-height: min(70vh, 24rem);
     overflow-y: auto;
+}
+
+.nav-flyout-panel-subflyouts {
+    overflow: visible;
+    max-height: none;
+}
+
+.nav-flyout-panel-subflyouts .nav-subflyout-menu > .nav-flyout-panel-scroll {
+    max-height: min(65vh, 22rem);
 }
 
 .nav-flyout-panel-wide {
@@ -482,12 +507,12 @@
     white-space: nowrap;
 }
 
-.nav-flyout-panel-military-units {
-    min-width: 26.5rem;
-    width: max-content;
-    max-width: min(92vw, 28rem);
-    overflow: visible;
-}
+    .nav-flyout-panel-military-units {
+        min-width: 26.5rem;
+        width: max-content;
+        max-width: none;
+        overflow: visible;
+    }
 
 .nav-flyout-panel-military-units.nav-flyout-panel-scroll {
     overflow-x: auto;
@@ -615,6 +640,8 @@
     color: rgba(255, 255, 255, 0.42);
 }
 
+.nav-all-organizations-link ::deep .bi,
+.nav-all-creatures-link ::deep .bi,
 .nav-full-timeline-link ::deep .bi,
 .nav-galactic-history-link ::deep .bi,
 .nav-all-factions-link ::deep .bi,
@@ -703,13 +730,14 @@
         position: absolute;
         left: 100%;
         top: 0;
-        z-index: 30;
+        z-index: 120;
         opacity: 0;
         visibility: hidden;
         pointer-events: none;
         transform: translateX(-6px);
-        transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
-        padding-left: 0.5rem;
+        transition: opacity 0.12s ease, transform 0.12s ease, visibility 0s linear 0.18s;
+        margin-left: -2.75rem;
+        padding-left: 2.75rem;
         background: transparent;
         border: none;
         box-shadow: none;
@@ -722,16 +750,22 @@
         position: absolute;
         left: 0;
         top: 0;
-        width: 0.5rem;
+        width: 2.75rem;
         height: 100%;
     }
 
     .nav-item.nav-flyout:hover > .nav-flyout-menu,
-    .nav-item.nav-flyout > .nav-flyout-menu:hover {
+    .nav-item.nav-flyout > .nav-flyout-menu:hover,
+    .nav-item.nav-flyout.is-flyout-open > .nav-flyout-menu,
+    .nav-flyout-menu:has(.nav-subflyout:hover),
+    .nav-flyout-menu:has(.nav-subflyout-menu:hover),
+    .nav-flyout-menu:has(.nav-subflyout.is-subflyout-open),
+    .nav-flyout-menu:has(.nav-subflyout-menu.is-subflyout-open) {
         opacity: 1;
         visibility: visible;
         pointer-events: auto;
         transform: translateX(0);
+        transition-delay: 0s;
     }
 
     .nav-flyout-chevron {
@@ -743,13 +777,14 @@
         position: absolute;
         left: 100%;
         top: 0;
-        z-index: 40;
+        z-index: 130;
         opacity: 0;
         visibility: hidden;
         pointer-events: none;
         transform: translateX(-6px);
-        transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
-        padding-left: 0.35rem;
+        transition: opacity 0.12s ease, transform 0.12s ease, visibility 0s linear 0.18s;
+        margin-left: -2.25rem;
+        padding-left: 2.25rem;
         background: transparent;
         border: none;
         box-shadow: none;
@@ -762,16 +797,29 @@
         position: absolute;
         left: 0;
         top: 0;
-        width: 0.35rem;
+        width: 2.25rem;
         height: 100%;
     }
 
+    .nav-subflyout .nav-subflyout-menu {
+        z-index: 140;
+    }
+
+    .nav-subflyout .nav-subflyout .nav-subflyout-menu {
+        z-index: 150;
+    }
+
     .nav-subflyout:hover > .nav-subflyout-menu,
-    .nav-subflyout > .nav-subflyout-menu:hover {
+    .nav-subflyout > .nav-subflyout-menu:hover,
+    .nav-subflyout.is-subflyout-open > .nav-subflyout-menu,
+    .nav-subflyout:has(.nav-subflyout-menu:hover) > .nav-subflyout-menu,
+    .nav-subflyout:has(.nav-subflyout.is-subflyout-open) > .nav-subflyout-menu,
+    .nav-subflyout:has(.nav-subflyout-menu.is-subflyout-open) > .nav-subflyout-menu {
         opacity: 1;
         visibility: visible;
         pointer-events: auto;
         transform: translateX(0);
+        transition-delay: 0s;
     }
 
     .nav-subflyout-trigger .nav-flyout-chevron {

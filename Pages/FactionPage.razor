@@ -36,6 +36,7 @@ else
                           HeadOfGovernment="@profile?.HeadOfGovernment"
                           HeadOfState="@profile?.HeadOfState"
                           NumberOfSystems="@faction.NumberOfSystems"
+                          MemberOrganizations="@memberOrganizations"
                           AccentColor="@faction.Color" />
     <EntityCrossLinks Links="@crossLinks" />
 }
@@ -48,6 +49,7 @@ else
     private DirectoryProfile? profile;
     private bool profileLoaded;
     private IReadOnlyList<EntityCrossLink> crossLinks = [];
+    private IReadOnlyList<ProfileLinkItem> memberOrganizations = [];
 
     protected override async Task OnParametersSetAsync()
     {
@@ -55,11 +57,19 @@ else
         profileLoaded = false;
         profile = null;
         crossLinks = [];
+        memberOrganizations = [];
 
         if (faction is not null)
         {
             profile = await ProfileService.GetProfileAsync("factions", faction.Slug);
             crossLinks = await CrossLinkService.GetLinksAsync("factions", faction.Slug);
+
+            if (faction.Slug.Equals("confederacy", StringComparison.OrdinalIgnoreCase))
+            {
+                memberOrganizations = OrganizationData.GetByParentFaction(faction.Slug)
+                    .Select(OrganizationLinks.ToLink)
+                    .ToList();
+            }
         }
 
         profileLoaded = true;

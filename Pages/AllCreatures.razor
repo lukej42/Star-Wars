@@ -1,0 +1,52 @@
+@page "/all-creatures"
+@using StarWars.Data
+
+<PageTitle>All Creatures</PageTitle>
+
+<div class="directory-page">
+    <figure class="directory-hero">
+        <img src="@ImageUrls.Resolve("/images/creatures/creatures-directory-hero.webp")" alt="Alien fauna silhouettes beneath twin moons on a frontier world" loading="lazy" />
+    </figure>
+
+    <h1>All Creatures</h1>
+    <p class="all-planets-intro">
+        @CreatureData.Creatures.Count creatures and fauna from all nine saga films, live-action and animated series,
+        <em>Knights of the Old Republic</em>, and the ancient Sith Empire.
+    </p>
+
+    <DirectoryListSearch Placeholder="Search creatures by name, habitat, or homeworld…"
+                         ItemLabel="creatures"
+                         TotalCount="@CreatureData.Creatures.Count"
+                         FilteredCount="@FilteredCreatures.Count"
+                         Query="@searchQuery"
+                         QueryChanged="OnSearchChanged" />
+
+    @foreach (var group in FilteredCreatures.GroupBy(creature => creature.Habitat).OrderBy(group => group.Key))
+    {
+        <section class="force-powers-category">
+            <h2>@group.Key</h2>
+            <div class="planet-directory-grid">
+                @foreach (var creature in group.OrderBy(creature => creature.Name))
+                {
+                    <article class="planet-directory-card">
+                        <span class="planet-directory-swatch" style="background-color: @creature.Color" aria-hidden="true"></span>
+                        <div class="planet-directory-details">
+                            <a href="@creature.Route">@creature.Name</a>
+                            <p class="planet-region">@creature.Homeworld</p>
+                        </div>
+                    </article>
+                }
+            </div>
+        </section>
+    }
+</div>
+
+@code {
+    private string searchQuery = string.Empty;
+
+    private IReadOnlyList<Creature> FilteredCreatures =>
+        CreatureData.Creatures.Where(creature =>
+            DirectoryFilter.Matches(searchQuery, creature.Name, creature.Habitat, creature.Homeworld, creature.Description)).ToList();
+
+    private void OnSearchChanged(string query) => searchQuery = query;
+}
