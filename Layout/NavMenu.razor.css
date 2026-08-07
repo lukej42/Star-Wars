@@ -779,6 +779,15 @@
         transition-delay: 0s;
     }
 
+    .nav-scrollable.nav-flyouts-dismissed .nav-flyout-menu,
+    .nav-scrollable.nav-flyouts-dismissed .nav-subflyout-menu {
+        opacity: 0 !important;
+        visibility: hidden !important;
+        pointer-events: none !important;
+        transform: translateX(-6px) !important;
+        transition-delay: 0s !important;
+    }
+
     .nav-flyout-chevron {
         display: none;
     }

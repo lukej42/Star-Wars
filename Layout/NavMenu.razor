@@ -963,6 +963,11 @@
     private string? openCreatureHabitat;
     private string? openWarSlug;
 
+    protected override void OnInitialized()
+    {
+        Navigation.LocationChanged += OnLocationChanged;
+    }
+
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         try
@@ -977,6 +982,8 @@
 
     public async ValueTask DisposeAsync()
     {
+        Navigation.LocationChanged -= OnLocationChanged;
+
         try
         {
             await JS.InvokeVoidAsync("starWarsNav.dispose");
@@ -984,6 +991,25 @@
         catch
         {
             // Ignore disconnect errors during teardown.
+        }
+    }
+
+    private async void OnLocationChanged(object? sender, LocationChangedEventArgs e)
+    {
+        CloseMobileNavState();
+        await DismissDesktopFlyoutsAsync();
+        await InvokeAsync(StateHasChanged);
+    }
+
+    private async Task DismissDesktopFlyoutsAsync()
+    {
+        try
+        {
+            await JS.InvokeVoidAsync("starWarsNav.dismissFlyouts");
+        }
+        catch
+        {
+            // Ignore disconnect errors during navigation.
         }
     }
 
@@ -1998,7 +2024,13 @@
         mobileDarkSideOpen = false;
     }
 
-    private void CloseMobileNav()
+    private async Task CloseMobileNav()
+    {
+        CloseMobileNavState();
+        await DismissDesktopFlyoutsAsync();
+    }
+
+    private void CloseMobileNavState()
     {
         collapseNavMenu = true;
         mobileTimelinesOpen = false;

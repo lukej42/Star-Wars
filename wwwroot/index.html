@@ -65,6 +65,7 @@
             _onMouseLeave: null,
             _onFlyoutOver: null,
             _onFlyoutOut: null,
+            _onFlyoutLeave: null,
             _onFlyoutPosition: null,
             _flyoutCloseDelayMs: 280,
 
@@ -170,6 +171,38 @@
                 });
             },
 
+            closeAllFlyouts() {
+                this._closeAllFlyouts();
+            },
+
+            dismissFlyouts() {
+                const navRoot = document.querySelector('.nav-scrollable');
+                if (!navRoot) {
+                    return;
+                }
+
+                this._closeAllFlyouts();
+
+                navRoot.querySelectorAll('.nav-flyout-bottom').forEach((bottomFlyout) => {
+                    const mainMenu = bottomFlyout.querySelector(':scope > .nav-flyout-menu');
+                    if (mainMenu) {
+                        this.resetBottomFlyout(mainMenu);
+                    }
+                });
+
+                navRoot.querySelectorAll('.nav-subflyout').forEach((subflyout) => {
+                    this.resetSubflyout(subflyout);
+                });
+
+                if (this._isDesktopNav()) {
+                    navRoot.classList.add('nav-flyouts-dismissed');
+                }
+            },
+
+            clearFlyoutDismissal() {
+                document.querySelector('.nav-scrollable')?.classList.remove('nav-flyouts-dismissed');
+            },
+
             _openFlyoutPath(target) {
                 const navRoot = document.querySelector('.nav-scrollable');
                 if (!navRoot || !this._isDesktopNav()) {
@@ -256,6 +289,12 @@
                         return;
                     }
 
+                    const navRoot = document.querySelector('.nav-scrollable');
+                    if (navRoot?.classList.contains('nav-flyouts-dismissed') &&
+                        event.target.closest('.nav-item.nav-flyout > .nav-flyout-trigger')) {
+                        navRoot.classList.remove('nav-flyouts-dismissed');
+                    }
+
                     if (this._isFlyoutRelated(event.target)) {
                         this._openFlyoutPath(event.target);
                         return;
@@ -291,6 +330,9 @@
 
                 navRoot.addEventListener('mouseover', this._onFlyoutOver);
                 navRoot.addEventListener('mouseout', this._onFlyoutOut);
+                navRoot.addEventListener('mouseleave', this._onFlyoutLeave = () => {
+                    this.clearFlyoutDismissal();
+                });
                 this._flyoutsBound = true;
             },
 
@@ -304,11 +346,16 @@
                 if (navRoot && this._onFlyoutOver && this._onFlyoutOut) {
                     navRoot.removeEventListener('mouseover', this._onFlyoutOver);
                     navRoot.removeEventListener('mouseout', this._onFlyoutOut);
+                    if (this._onFlyoutLeave) {
+                        navRoot.removeEventListener('mouseleave', this._onFlyoutLeave);
+                    }
                 }
 
                 this._onFlyoutOver = null;
                 this._onFlyoutOut = null;
+                this._onFlyoutLeave = null;
                 this._flyoutsBound = false;
+                this.clearFlyoutDismissal();
 
                 if (!this._initialized) {
                     return;
