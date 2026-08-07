@@ -1,0 +1,48 @@
+{
+  "dateRange": "44 BBY",
+  "overview": "The **Blockade of Thyferra** (44 BBY) was a pivotal engagement of the **Stark Hyperspace War**, fought on or above **Thyferra**. Trade federation lucrehulk blockade sphere holding thyferra bacta convoys hostage while republic negotiators arrive under fighter escort.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Stark Hyperspace War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Blockade of Thyferra within the broader **Stark Hyperspace War** campaign. Front-line reports describe trade federation lucrehulk blockade sphere holding thyferra bacta convoys hostage while republic negotiators arrive under fighter escort.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **44 BBY** places this conflict in the galactic timeline alongside other famous battles of the Stark Hyperspace War.",
+  "significance": "The Blockade of Thyferra illustrates how the Stark Hyperspace War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Blockade of Thyferra opens on Thyferra",
+    "Forces of the Stark Hyperspace War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Trade Federation",
+      "route": "factions/trade-federation"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Thyferra",
+      "route": "planet/thyferra"
+    }
+  ],
+  "affiliations": [
+    "Stark Hyperspace War",
+    "Thyferra"
+  ],
+  "timeline": [
+    {
+      "era": "44 BBY",
+      "event": "Blockade of Thyferra begins"
+    },
+    {
+      "era": "44 BBY",
+      "event": "Aftermath of Blockade of Thyferra recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Republic — Stark Hyperspace War (comics)"
+  ]
+}

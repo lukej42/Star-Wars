@@ -1,0 +1,74 @@
+{
+  "dateRange": "1 BBY",
+  "overview": "The **Siege of Lothal** (1 BBY) was a pivotal engagement of the **Galactic Civil War**, fought on or above **Lothal**. Imperial star destroyers bombarding lothal's capital while spectre cell rebels defend dome settlements and ezra bridger summons purrgil to cripple the blockade.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Galactic Civil War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Siege of Lothal within the broader **Galactic Civil War** campaign. Front-line reports describe imperial star destroyers bombarding lothal's capital while spectre cell rebels defend dome settlements and ezra bridger summons purrgil to cripple the blockade.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **1 BBY** places this conflict in the galactic timeline alongside other famous battles of the Galactic Civil War.",
+  "significance": "The Siege of Lothal illustrates how the Galactic Civil War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Siege of Lothal opens on Lothal",
+    "Forces of the Galactic Civil War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Rebel Alliance",
+      "route": "factions/rebel-alliance"
+    },
+    {
+      "label": "Faction",
+      "value": "Galactic Empire",
+      "route": "factions/empire"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Ezra Bridger",
+      "route": "jedi/ezra-bridger"
+    },
+    {
+      "label": "Character",
+      "value": "Grand Admiral Thrawn",
+      "route": "characters/thrawn"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Lothal",
+      "route": "planet/lothal"
+    }
+  ],
+  "affiliations": [
+    "Galactic Civil War",
+    "Lothal"
+  ],
+  "timeline": [
+    {
+      "era": "1 BBY",
+      "event": "Siege of Lothal begins"
+    },
+    {
+      "era": "1 BBY",
+      "event": "Aftermath of Siege of Lothal recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode V — The Empire Strikes Back",
+    "Star Wars: Episode VI — Return of the Jedi",
+    "Rogue One: A Star Wars Story",
+    "Solo: A Star Wars Story"
+  ],
+  "series": [
+    "Star Wars Rebels",
+    "Star Wars: Andor"
+  ],
+  "games": [
+    "Star Wars Battlefront (2015)",
+    "Star Wars: Squadrons"
+  ],
+  "books": []
+}

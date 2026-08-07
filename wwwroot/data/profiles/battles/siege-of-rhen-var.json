@@ -1,0 +1,57 @@
+{
+  "dateRange": "3964 BBY",
+  "overview": "The **Siege of Rhen Var** (3964 BBY) was a pivotal engagement of the **Mandalorian Wars**, fought on or above **Rhen Var**. Frozen citadel siege on rhen var with republic soldiers defending ice temples against mandalorian shock troops under aurora-lit polar storms.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Mandalorian Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Siege of Rhen Var within the broader **Mandalorian Wars** campaign. Front-line reports describe frozen citadel siege on rhen var with republic soldiers defending ice temples against mandalorian shock troops under aurora-lit polar storms.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3964 BBY** places this conflict in the galactic timeline alongside other famous battles of the Mandalorian Wars.",
+  "significance": "The Siege of Rhen Var illustrates how the Mandalorian Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Siege of Rhen Var opens on Rhen Var",
+    "Forces of the Mandalorian Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Mandalorians",
+      "route": "factions/mandalorians"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Revan",
+      "route": "jedi/revan"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Rhen Var",
+      "route": "planet/rhen-var"
+    }
+  ],
+  "affiliations": [
+    "Mandalorian Wars",
+    "Rhen Var"
+  ],
+  "timeline": [
+    {
+      "era": "3964 BBY",
+      "event": "Siege of Rhen Var begins"
+    },
+    {
+      "era": "3964 BBY",
+      "event": "Aftermath of Siege of Rhen Var recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: Knights of the Old Republic",
+    "Star Wars: Knights of the Old Republic II"
+  ],
+  "books": [
+    "Star Wars: Knights of the Old Republic (comics)"
+  ]
+}

@@ -161,6 +161,18 @@ def asset_name(entry: HeroEntry) -> str:
     return f"the-force-{entry.slug}-hero.webp"
 
 
+def find_cursor_asset(entry: HeroEntry) -> Path | None:
+    if not CURSOR_ASSETS.is_dir():
+        return None
+    candidates = [
+        CURSOR_ASSETS / entry.output.name,
+        CURSOR_ASSETS / asset_name(entry),
+        CURSOR_ASSETS / f"{entry.slug}-hero.webp",
+        CURSOR_ASSETS / f"{entry.slug}-hero.png",
+    ]
+    return next((path for path in candidates if path.is_file()), None)
+
+
 def copy_cursor_assets(entries: list[HeroEntry], force: bool) -> int:
     if not CURSOR_ASSETS.is_dir():
         return 0
@@ -199,8 +211,17 @@ def main() -> None:
 
     if not args.procedural_fallback:
         wars_entries = [e for e in entries if e.category in {"war", "battle"}]
-        present = sum(1 for e in wars_entries if e.output.is_file())
-        print(f"Wars & Conflicts AI heroes: {present}/{len(wars_entries)} present")
+        missing_wars = [e for e in wars_entries if not find_cursor_asset(e)]
+        if missing_wars:
+            print(
+                f"ERROR: {len(missing_wars)} Wars & Conflicts heroes missing AI assets. "
+                "Generate with wars_conflicts_hero_manifest.json — never use --procedural-fallback for wars.",
+                file=sys.stderr,
+            )
+            for entry in missing_wars[:10]:
+                print(f"  missing: {entry.slug}", file=sys.stderr)
+            return 1
+        print(f"Wars & Conflicts AI heroes: {len(wars_entries)}/{len(wars_entries)} present")
         force_entries = [e for e in entries if e.category not in {"war", "battle"}]
         generated = 0
         for entry in force_entries:

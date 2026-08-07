@@ -1,0 +1,71 @@
+{
+  "dateRange": "20 BBY",
+  "overview": "The **Battle of Sullust** (20 BBY) was a pivotal engagement of the **Clone Wars**, fought on or above **Sullust**. Asajj ventress and count dooku dueling amid volcanic sullust factory districts while separatist and republic starfighter wings clash over glowing magma vents.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Clone Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Sullust within the broader **Clone Wars** campaign. Front-line reports describe asajj ventress and count dooku dueling amid volcanic sullust factory districts while separatist and republic starfighter wings clash over glowing magma vents.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **20 BBY** places this conflict in the galactic timeline alongside other famous battles of the Clone Wars.",
+  "significance": "The Battle of Sullust illustrates how the Clone Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Sullust opens on Sullust",
+    "Forces of the Clone Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    },
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Count Dooku",
+      "route": "sith/darth-tyranus"
+    },
+    {
+      "label": "Sith",
+      "value": "Asajj Ventress",
+      "route": "sith/asajj-ventress"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Sullust",
+      "route": "planet/sullust"
+    }
+  ],
+  "affiliations": [
+    "Clone Wars",
+    "Sullust"
+  ],
+  "timeline": [
+    {
+      "era": "20 BBY",
+      "event": "Battle of Sullust begins"
+    },
+    {
+      "era": "20 BBY",
+      "event": "Aftermath of Battle of Sullust recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "games": [
+    "Star Wars Battlefront II (2017)",
+    "Star Wars: Republic Commando"
+  ],
+  "books": []
+}

@@ -1,0 +1,54 @@
+{
+  "dateRange": "3636 BBY",
+  "overview": "The **Battle of Ziost (Great War)** (3636 BBY) was a pivotal engagement of the **Great War (SWTOR)**, fought on or above **Ziost**. Vitiate's sith ritual consuming ziost's surface in black-winged dark-side energy while republic evac ships flee the frozen world.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great War (SWTOR) in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Ziost (Great War) within the broader **Great War (SWTOR)** campaign. Front-line reports describe vitiate's sith ritual consuming ziost's surface in black-winged dark-side energy while republic evac ships flee the frozen world.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3636 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great War (SWTOR).",
+  "significance": "The Battle of Ziost (Great War) illustrates how the Great War (SWTOR) reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Ziost (Great War) opens on Ziost",
+    "Forces of the Great War (SWTOR) clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Sith Empire",
+      "route": "factions/sith-empire"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Vitiate",
+      "route": "sith/darth-vitiate"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ziost",
+      "route": "planet/ziost"
+    }
+  ],
+  "affiliations": [
+    "Great War (SWTOR)",
+    "Ziost"
+  ],
+  "timeline": [
+    {
+      "era": "3636 BBY",
+      "event": "Battle of Ziost (Great War) begins"
+    },
+    {
+      "era": "3636 BBY",
+      "event": "Aftermath of Battle of Ziost (Great War) recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: The Old Republic"
+  ],
+  "books": []
+}

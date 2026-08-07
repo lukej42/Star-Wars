@@ -21400,6 +21400,11 @@
         "route": "planet/stic"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Christophsis",
+        "route": "wars-conflicts/battles/battle-of-christophsis"
+      },
+      {
         "label": "Chronicle",
         "value": "Old Republic",
         "route": "chronicles/galactic-history/old-republic"
@@ -32257,8 +32262,992 @@
     ]
   },
   {
-    "category": "settlements",
-    "slug": "mos-eisley",
+    "category": "creatures",
+    "slug": "rancor",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Jabba the Hutt",
+        "route": "characters/jabba-the-hutt"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Organization",
+        "value": "Desilijic Kajidic",
+        "route": "organizations/desilijic-kajidic"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Planet",
+        "value": "Dathomir",
+        "route": "planet/dathomir"
+      },
+      {
+        "label": "Creature",
+        "value": "Sarlacc",
+        "route": "creatures/sarlacc"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "wampa",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
+      },
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Creature",
+        "value": "Tauntaun",
+        "route": "creatures/tauntaun"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "sarlacc",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Character",
+        "value": "Boba Fett",
+        "route": "characters/boba-fett"
+      },
+      {
+        "label": "Character",
+        "value": "Jabba the Hutt",
+        "route": "characters/jabba-the-hutt"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Creature",
+        "value": "Rancor",
+        "route": "creatures/rancor"
+      },
+      {
+        "label": "Character",
+        "value": "Boba Fett",
+        "route": "bounty-hunters/boba-fett"
+      },
+      {
+        "label": "Character",
+        "value": "Lando Calrissian",
+        "route": "characters/lando-calrissian"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "krayt-dragon",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Species",
+        "value": "Tusken Raider",
+        "route": "species/tusken-raider"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "purrgil",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "The Force",
+        "value": "Force Philosophy",
+        "route": "the-force/force-philosophy"
+      },
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      },
+      {
+        "label": "Planet",
+        "value": "Ilum",
+        "route": "planet/ilum"
+      },
+      {
+        "label": "Directory",
+        "value": "All Ships",
+        "route": "all-ships"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "loth-cat",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      },
+      {
+        "label": "Creature",
+        "value": "Loth-Wolf",
+        "route": "creatures/loth-wolf"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "loth-wolf",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "The Force",
+        "value": "Force Philosophy",
+        "route": "the-force/force-philosophy"
+      },
+      {
+        "label": "The Force",
+        "value": "Force Creatures",
+        "route": "the-force/force-creatures"
+      },
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "convor",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Ahsoka Tano",
+        "route": "jedi/ahsoka-tano"
+      },
+      {
+        "label": "Planet",
+        "value": "Mortis",
+        "route": "planet/mortis"
+      },
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "zillo-beast",
+    "links": [
+      {
+        "label": "Sith",
+        "value": "Darth Sidious",
+        "route": "sith/darth-sidious"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Planet",
+        "value": "Malastare",
+        "route": "planet/malastare"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "nexu",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Padmé Amidala",
+        "route": "characters/padme-amidala"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      },
+      {
+        "label": "Planet",
+        "value": "Geonosis",
+        "route": "planet/geonosis"
+      },
+      {
+        "label": "Creature",
+        "value": "Reek",
+        "route": "creatures/reek"
+      },
+      {
+        "label": "Creature",
+        "value": "Acklay",
+        "route": "creatures/acklay"
+      },
+      {
+        "label": "Planet",
+        "value": "Cholganna",
+        "route": "planet/cholganna"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "reek",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Jango Fett",
+        "route": "characters/jango-fett"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      },
+      {
+        "label": "Planet",
+        "value": "Geonosis",
+        "route": "planet/geonosis"
+      },
+      {
+        "label": "Planet",
+        "value": "Ylesia",
+        "route": "planet/ylesia"
+      },
+      {
+        "label": "Character",
+        "value": "Jango Fett",
+        "route": "bounty-hunters/jango-fett"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "acklay",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      },
+      {
+        "label": "Planet",
+        "value": "Geonosis",
+        "route": "planet/geonosis"
+      },
+      {
+        "label": "Planet",
+        "value": "Vendaxa",
+        "route": "planet/vendaxa"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "tauntaun",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
+      },
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Creature",
+        "value": "Wampa",
+        "route": "creatures/wampa"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "dewback",
+    "links": [
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "bantha",
+    "links": [
+      {
+        "label": "Species",
+        "value": "Tusken Raider",
+        "route": "species/tusken-raider"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "rathtar",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Chewbacca",
+        "route": "characters/chewbacca"
+      },
+      {
+        "label": "Character",
+        "value": "Finn",
+        "route": "characters/finn"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "fyrnock",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Captain Rex",
+        "route": "characters/captain-rex"
+      },
+      {
+        "label": "Planet",
+        "value": "Anaxes",
+        "route": "planet/anaxes"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "krykna",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Thrawn",
+        "route": "characters/thrawn"
+      },
+      {
+        "label": "Character",
+        "value": "Hera Syndulla",
+        "route": "characters/hera-syndulla"
+      },
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "Planet",
+        "value": "Atollon",
+        "route": "planet/atollon"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "mudhorn",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Din Djarin",
+        "route": "characters/din-djarin"
+      },
+      {
+        "label": "Jedi",
+        "value": "Grogu",
+        "route": "jedi/grogu"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "blurrg",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Bo-Katan Kryze",
+        "route": "characters/bo-katan-kryze"
+      },
+      {
+        "label": "Character",
+        "value": "Cham Syndulla",
+        "route": "characters/cham-syndulla"
+      },
+      {
+        "label": "Planet",
+        "value": "Ryloth",
+        "route": "planet/ryloth"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "varactyl",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Character",
+        "value": "General Grievous",
+        "route": "characters/general-grievous"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Utapau",
+        "route": "wars-conflicts/battles/battle-of-utapau"
+      },
+      {
+        "label": "Planet",
+        "value": "Utapau",
+        "route": "planet/utapau"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "exogorth",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Character",
+        "value": "C-3PO",
+        "route": "characters/c-3po"
+      },
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Ship",
+        "value": "Millennium Falcon",
+        "route": "ships/millennium-falcon"
+      },
+      {
+        "label": "Directory",
+        "value": "All Ships",
+        "route": "all-ships"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "mynock",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Ship",
+        "value": "Millennium Falcon",
+        "route": "ships/millennium-falcon"
+      },
+      {
+        "label": "Planet",
+        "value": "Ord Mantell",
+        "route": "planet/ord-mantell"
+      },
+      {
+        "label": "Directory",
+        "value": "All Ships",
+        "route": "all-ships"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "colo-claw-fish",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Jar Jar Binks",
+        "route": "characters/jar-jar-binks"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Military unit",
+        "value": "Gungan Grand Army",
+        "route": "military-units/other/army/gungan-grand-army"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "sando-aqua-monster",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Nute Gunray",
+        "route": "characters/nute-gunray"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Military unit",
+        "value": "Gungan Grand Army",
+        "route": "military-units/other/army/gungan-grand-army"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "opee-sea-killer",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Jar Jar Binks",
+        "route": "characters/jar-jar-binks"
+      },
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Military unit",
+        "value": "Gungan Grand Army",
+        "route": "military-units/other/army/gungan-grand-army"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "aiwha",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Kamino",
+        "route": "planet/kamino"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "bogling",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Dagobah",
+        "route": "planet/dagobah"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "steelpecker",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      },
+      {
+        "label": "Character",
+        "value": "Unkar Plutt",
+        "route": "characters/unkar-plutt"
+      },
+      {
+        "label": "Planet",
+        "value": "Jakku",
+        "route": "planet/jakku"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "dark-side-spiders",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "The Force",
+        "value": "Light and Dark Side Conflict",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Malachor",
+        "route": "planet/malachor"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "charhound",
+    "links": [
+      {
+        "label": "The Force",
+        "value": "Force Creatures",
+        "route": "the-force/force-creatures"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "roggwart",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Jabba the Hutt",
+        "route": "characters/jabba-the-hutt"
+      },
+      {
+        "label": "Organization",
+        "value": "Desilijic Kajidic",
+        "route": "organizations/desilijic-kajidic"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "gundark",
+    "links": [
+      {
+        "label": "Directory",
+        "value": "All Planets",
+        "route": "all-planets"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "wyyyschokk",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Chewbacca",
+        "route": "characters/chewbacca"
+      },
+      {
+        "label": "Planet",
+        "value": "Kashyyyk",
+        "route": "planet/kashyyyk"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "vornskr",
+    "links": [
+      {
+        "label": "The Force",
+        "value": "Force Sense",
+        "route": "force-powers/force-sense"
+      },
+      {
+        "label": "Planet",
+        "value": "Myrkr",
+        "route": "planet/myrkr"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "tusk-cat",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Boss Nass",
+        "route": "characters/boss-nass"
+      },
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "nuna",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Character",
+        "value": "Boss Nass",
+        "route": "characters/boss-nass"
+      },
+      {
+        "label": "Species",
+        "value": "Gungan",
+        "route": "species/gungan"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "falumpaset",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Boss Nass",
+        "route": "characters/boss-nass"
+      },
+      {
+        "label": "Character",
+        "value": "Jar Jar Binks",
+        "route": "characters/jar-jar-binks"
+      },
+      {
+        "label": "Military unit",
+        "value": "Gungan Grand Army",
+        "route": "military-units/other/army/gungan-grand-army"
+      },
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "kaadu",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Jar Jar Binks",
+        "route": "characters/jar-jar-binks"
+      },
+      {
+        "label": "Character",
+        "value": "Boss Nass",
+        "route": "characters/boss-nass"
+      },
+      {
+        "label": "Military unit",
+        "value": "Gungan Grand Army",
+        "route": "military-units/other/army/gungan-grand-army"
+      },
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Character",
+        "value": "Padmé Amidala",
+        "route": "characters/padme-amidala"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "ronto",
     "links": [
       {
         "label": "Planet",
@@ -32267,8 +33256,218 @@
       },
       {
         "label": "Species",
-        "value": "Human",
-        "route": "species/human"
+        "value": "Tusken Raider",
+        "route": "species/tusken-raider"
+      },
+      {
+        "label": "Creature",
+        "value": "Bantha",
+        "route": "creatures/bantha"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "happabore",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Unkar Plutt",
+        "route": "characters/unkar-plutt"
+      },
+      {
+        "label": "Planet",
+        "value": "Jakku",
+        "route": "planet/jakku"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "eopie",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Species",
+        "value": "Jawa",
+        "route": "species/jawa"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "dianoga",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Ship",
+        "value": "Death Star I",
+        "route": "ships/death-star-i"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Yavin",
+        "route": "wars-conflicts/battles/battle-of-yavin"
+      },
+      {
+        "label": "Planet",
+        "value": "Vodran",
+        "route": "planet/vodran"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "kowakian-monkey-lizard",
+    "links": [
+      {
+        "label": "Character",
+        "value": "Jabba the Hutt",
+        "route": "characters/jabba-the-hutt"
+      },
+      {
+        "label": "Organization",
+        "value": "Desilijic Kajidic",
+        "route": "organizations/desilijic-kajidic"
+      },
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
+      },
+      {
+        "label": "Planet",
+        "value": "Kowak",
+        "route": "planet/kowak"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "porg",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Chewbacca",
+        "route": "characters/chewbacca"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      },
+      {
+        "label": "Planet",
+        "value": "Ahch-To",
+        "route": "planet/ahch-to"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "vulptex",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Crait",
+        "route": "wars-conflicts/battles/battle-of-crait"
+      },
+      {
+        "label": "Planet",
+        "value": "Crait",
+        "route": "planet/crait"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "tooka-cat",
+    "links": [
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "Character",
+        "value": "Sabine Wren",
+        "route": "characters/sabine-wren"
+      },
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "loth-bat",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      },
+      {
+        "label": "Creature",
+        "value": "Loth-Cat",
+        "route": "creatures/loth-cat"
+      }
+    ]
+  },
+  {
+    "category": "creatures",
+    "slug": "ice-spider",
+    "links": [
+      {
+        "label": "The Force",
+        "value": "Kyber Crystals",
+        "route": "the-force/kyber-crystals"
+      },
+      {
+        "label": "Planet",
+        "value": "Ilum",
+        "route": "planet/ilum"
+      }
+    ]
+  },
+  {
+    "category": "settlements",
+    "slug": "mos-eisley",
+    "links": [
+      {
+        "label": "Planet",
+        "value": "Tatooine",
+        "route": "tatooine"
       },
       {
         "label": "Species",
@@ -32293,13 +33492,13 @@
       },
       {
         "label": "Species",
-        "value": "Human",
-        "route": "species/human"
+        "value": "Jawa",
+        "route": "species/jawa"
       },
       {
         "label": "Species",
-        "value": "Jawa",
-        "route": "species/jawa"
+        "value": "Tusken Raider",
+        "route": "species/tusken-raider"
       }
     ]
   },
@@ -32311,11 +33510,6 @@
         "label": "Planet",
         "value": "Naboo",
         "route": "naboo"
-      },
-      {
-        "label": "Species",
-        "value": "Human",
-        "route": "species/human"
       },
       {
         "label": "Species",
@@ -32380,16 +33574,6 @@
         "label": "Planet",
         "value": "Bespin",
         "route": "bespin"
-      },
-      {
-        "label": "Species",
-        "value": "Human",
-        "route": "species/human"
-      },
-      {
-        "label": "Species",
-        "value": "Ugnaught",
-        "route": "species/ugnaught"
       }
     ]
   },
@@ -32412,11 +33596,6 @@
         "label": "Planet",
         "value": "Jedha",
         "route": "planet/jedha"
-      },
-      {
-        "label": "Species",
-        "value": "Human",
-        "route": "species/human"
       }
     ]
   },
@@ -32507,13 +33686,13 @@
       },
       {
         "label": "Species",
-        "value": "Human",
-        "route": "species/human"
+        "value": "Jawa",
+        "route": "species/jawa"
       },
       {
         "label": "Species",
-        "value": "Jawa",
-        "route": "species/jawa"
+        "value": "Tusken Raider",
+        "route": "species/tusken-raider"
       }
     ]
   },
@@ -32713,11 +33892,6 @@
         "label": "Planet",
         "value": "Dromund Kaas",
         "route": "planet/dromund-kaas"
-      },
-      {
-        "label": "Species",
-        "value": "Sith (Pureblood)",
-        "route": "species/sith-pureblood"
       }
     ]
   },
@@ -33120,6 +34294,11 @@
         "label": "Species",
         "value": "Mon Calamari",
         "route": "species/mon-calamari"
+      },
+      {
+        "label": "Species",
+        "value": "Quarren",
+        "route": "species/quarren"
       }
     ]
   },
@@ -35259,6 +36438,11 @@
         "route": "settlements/ahch-to-jedi-village"
       },
       {
+        "label": "Battle",
+        "value": "Attack on Ahch-To",
+        "route": "wars-conflicts/battles/attack-on-ahch-to"
+      },
+      {
         "label": "Jedi",
         "value": "Luke Skywalker",
         "route": "jedi/luke-skywalker"
@@ -35272,6 +36456,11 @@
         "label": "Chronicle",
         "value": "New Jedi Order",
         "route": "chronicles/galactic-history/new-jedi-order"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Rise of the First Order",
+        "route": "chronicles/galactic-history/rise-of-the-first-order"
       }
     ]
   },
@@ -35283,6 +36472,11 @@
         "label": "Settlement",
         "value": "Ajan Kloss Resistance Base",
         "route": "settlements/ajan-kloss-resistance-base"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ajan Kloss",
+        "route": "wars-conflicts/battles/battle-of-ajan-kloss"
       },
       {
         "label": "Faction",
@@ -35378,9 +36572,19 @@
         "route": "settlements/chopper-base"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Atollon",
+        "route": "wars-conflicts/battles/battle-of-atollon"
+      },
+      {
         "label": "Faction",
         "value": "Rebel Alliance",
         "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Age of Rebellion",
+        "route": "chronicles/galactic-history/age-of-rebellion"
       }
     ]
   },
@@ -35463,6 +36667,11 @@
         "route": "settlements/cato-neimoidia-bridge-cities"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Cato Neimoidia",
+        "route": "wars-conflicts/battles/battle-of-cato-neimoidia"
+      },
+      {
         "label": "Faction",
         "value": "Confederacy",
         "route": "factions/confederacy"
@@ -35471,6 +36680,11 @@
         "label": "Faction",
         "value": "Trade Federation",
         "route": "factions/trade-federation"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -35482,6 +36696,11 @@
         "label": "Settlement",
         "value": "Chaleydonia",
         "route": "settlements/chaleydonia"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Christophsis",
+        "route": "wars-conflicts/battles/battle-of-christophsis"
       },
       {
         "label": "Jedi",
@@ -35521,6 +36740,11 @@
       },
       {
         "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
+        "label": "Battle",
         "value": "Battle of Coruscant (Great Sith War)",
         "route": "wars-conflicts/battles/battle-of-coruscant-great-sith-war"
       },
@@ -35533,6 +36757,11 @@
         "label": "Battle",
         "value": "Coruscant Financial Crisis",
         "route": "wars-conflicts/battles/coruscant-financial-crisis"
+      },
+      {
+        "label": "Battle",
+        "value": "Dark Jedi Uprising on Coruscant",
+        "route": "wars-conflicts/battles/dark-jedi-uprising-on-coruscant"
       },
       {
         "label": "Species",
@@ -35610,16 +36839,6 @@
         "route": "bounty-hunters/black-krrsantan"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Robonino",
-        "route": "bounty-hunters/robonino"
-      },
-      {
-        "label": "Bounty Hunter",
-        "value": "Mercurial Swift",
-        "route": "bounty-hunters/mercurial-swift"
-      },
-      {
         "label": "Chronicle",
         "value": "Old Republic",
         "route": "chronicles/galactic-history/old-republic"
@@ -35648,6 +36867,11 @@
         "label": "Chronicle",
         "value": "Sith Empire",
         "route": "chronicles/galactic-history/old-sith-empire"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Dawn of the Jedi",
+        "route": "chronicles/galactic-history/dawn-of-the-jedi"
       }
     ]
   },
@@ -35764,6 +36988,16 @@
         "route": "settlements/dantooine-jedi-enclave"
       },
       {
+        "label": "Battle",
+        "value": "Assault on Dantooine Enclave",
+        "route": "wars-conflicts/battles/assault-on-dantooine-enclave"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Dantooine (Great War)",
+        "route": "wars-conflicts/battles/battle-of-dantooine-great-war"
+      },
+      {
         "label": "Character",
         "value": "Bastila Shan",
         "route": "characters/bastila-shan"
@@ -35802,6 +37036,11 @@
         "label": "Faction",
         "value": "Rebel Alliance",
         "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Old Republic",
+        "route": "chronicles/galactic-history/old-republic"
       }
     ]
   },
@@ -35844,6 +37083,16 @@
         "label": "Settlement",
         "value": "Kaas City",
         "route": "settlements/kaas-city"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Assault on Dromund Kaas",
+        "route": "wars-conflicts/battles/sith-assault-on-dromund-kaas"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Dromund Kaas (Great War)",
+        "route": "wars-conflicts/battles/battle-of-dromund-kaas-great-war"
       },
       {
         "label": "Sith",
@@ -36114,6 +37363,11 @@
         "route": "settlements/felucia-jedi-temple"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Felucia",
+        "route": "wars-conflicts/battles/battle-of-felucia"
+      },
+      {
         "label": "Bounty Hunter",
         "value": "Embo",
         "route": "bounty-hunters/embo"
@@ -36142,6 +37396,11 @@
         "label": "Bounty Hunter",
         "value": "Seripas",
         "route": "bounty-hunters/seripas"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -36190,6 +37449,11 @@
         "label": "Battle",
         "value": "First Battle of Geonosis",
         "route": "wars-conflicts/battles/first-battle-of-geonosis"
+      },
+      {
+        "label": "Battle",
+        "value": "Second Battle of Geonosis",
+        "route": "wars-conflicts/battles/second-battle-of-geonosis"
       },
       {
         "label": "Species",
@@ -36263,6 +37527,11 @@
         "route": "wars-conflicts/battles/battle-of-hoth"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Hoth (Great War)",
+        "route": "wars-conflicts/battles/battle-of-hoth-great-war"
+      },
+      {
         "label": "Character",
         "value": "Leia Organa",
         "route": "characters/leia-organa"
@@ -36281,6 +37550,11 @@
         "label": "Chronicle",
         "value": "Age of Rebellion",
         "route": "chronicles/galactic-history/age-of-rebellion"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Old Republic",
+        "route": "chronicles/galactic-history/old-republic"
       },
       {
         "label": "Chronicle",
@@ -36432,6 +37706,11 @@
         "route": "settlements/jedha-kyber-mines"
       },
       {
+        "label": "Battle",
+        "value": "Skirmish on Jedha",
+        "route": "wars-conflicts/battles/skirmish-on-jedha"
+      },
+      {
         "label": "Character",
         "value": "Baze Malbus",
         "route": "characters/baze-malbus"
@@ -36461,6 +37740,11 @@
         "label": "Settlement",
         "value": "Tipoca City",
         "route": "settlements/tipoca-city"
+      },
+      {
+        "label": "Battle",
+        "value": "Defense of Kamino",
+        "route": "wars-conflicts/battles/defense-of-kamino"
       },
       {
         "label": "Species",
@@ -36496,6 +37780,11 @@
         "label": "Bounty Hunter",
         "value": "Zam Wesell",
         "route": "bounty-hunters/zam-wesell"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -36570,6 +37859,16 @@
         "route": "settlements/kef-bir-ocean-settlement"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Kef Bir",
+        "route": "wars-conflicts/battles/battle-of-kef-bir"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Rise of the First Order",
+        "route": "chronicles/galactic-history/rise-of-the-first-order"
+      },
+      {
         "label": "Chronicle",
         "value": "Reign of the Empire",
         "route": "chronicles/galactic-history/reign-of-the-empire"
@@ -36584,6 +37883,11 @@
         "label": "Settlement",
         "value": "Kijimi City",
         "route": "settlements/kijimi-city"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Kijimi",
+        "route": "wars-conflicts/battles/battle-of-kijimi"
       },
       {
         "label": "Chronicle",
@@ -36614,8 +37918,33 @@
       },
       {
         "label": "Battle",
+        "value": "Invasion of Korriban (Great Sith War)",
+        "route": "wars-conflicts/battles/invasion-of-korriban-great-sith-war"
+      },
+      {
+        "label": "Battle",
         "value": "Recapture of Korriban",
         "route": "wars-conflicts/battles/recapture-of-korriban"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Korriban (Ancient)",
+        "route": "wars-conflicts/battles/battle-of-korriban-ancient"
+      },
+      {
+        "label": "Battle",
+        "value": "Exile to Korriban",
+        "route": "wars-conflicts/battles/exile-to-korriban"
+      },
+      {
+        "label": "Battle",
+        "value": "Founding of the Sith Empire",
+        "route": "wars-conflicts/battles/founding-of-the-sith-empire"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Temple Construction on Korriban",
+        "route": "wars-conflicts/battles/sith-temple-construction-on-korriban"
       },
       {
         "label": "Species",
@@ -36679,6 +38008,11 @@
         "route": "settlements/lothal-capital-city"
       },
       {
+        "label": "Battle",
+        "value": "Siege of Lothal",
+        "route": "wars-conflicts/battles/siege-of-lothal"
+      },
+      {
         "label": "Character",
         "value": "Governor Pryce",
         "route": "characters/governor-pryce"
@@ -36717,6 +38051,11 @@
         "label": "Chronicle",
         "value": "Reign of the Empire",
         "route": "chronicles/galactic-history/reign-of-the-empire"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Age of Rebellion",
+        "route": "chronicles/galactic-history/age-of-rebellion"
       }
     ]
   },
@@ -36796,6 +38135,11 @@
         "route": "wars-conflicts/battles/battle-of-malachor-v"
       },
       {
+        "label": "Battle",
+        "value": "Final Confrontation at Malachor V",
+        "route": "wars-conflicts/battles/final-confrontation-at-malachor-v"
+      },
+      {
         "label": "Character",
         "value": "Meetra Surik",
         "route": "characters/meetra-surik"
@@ -36850,6 +38194,16 @@
         "label": "Settlement",
         "value": "Ahto City",
         "route": "settlements/ahto-city"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Manaan (Great Galactic War)",
+        "route": "wars-conflicts/battles/battle-of-manaan-great-galactic-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Manaan (Great War)",
+        "route": "wars-conflicts/battles/battle-of-manaan-great-war"
       },
       {
         "label": "Species",
@@ -37109,6 +38463,16 @@
         "label": "Settlement",
         "value": "Mygeeto Crystal Treasury",
         "route": "settlements/mygeeto-crystal-treasury"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Mygeeto",
+        "route": "wars-conflicts/battles/battle-of-mygeeto"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -37125,6 +38489,11 @@
         "label": "Settlement",
         "value": "Otoh Gunga",
         "route": "settlements/otoh-gunga"
+      },
+      {
+        "label": "Battle",
+        "value": "Defense of Naboo (Galactic Civil War)",
+        "route": "wars-conflicts/battles/defense-of-naboo-galactic-civil-war"
       },
       {
         "label": "Species",
@@ -37200,6 +38569,11 @@
         "label": "Chronicle",
         "value": "Fall of the Republic",
         "route": "chronicles/galactic-history/fall-of-the-republic"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Age of Rebellion",
+        "route": "chronicles/galactic-history/age-of-rebellion"
       },
       {
         "label": "Chronicle",
@@ -37491,6 +38865,11 @@
         "route": "settlements/iziz"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Onderon (Mandalorian Wars)",
+        "route": "wars-conflicts/battles/battle-of-onderon-mandalorian-wars"
+      },
+      {
         "label": "Character",
         "value": "Saw Gerrera",
         "route": "characters/saw-gerrera"
@@ -37499,6 +38878,11 @@
         "label": "Sith",
         "value": "Freedon Nadd",
         "route": "sith/freedon-nadd"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Old Republic",
+        "route": "chronicles/galactic-history/old-republic"
       },
       {
         "label": "Chronicle",
@@ -37515,6 +38899,11 @@
         "label": "Settlement",
         "value": "Pasaana Festival City",
         "route": "settlements/pasaana-festival-city"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Pasaana",
+        "route": "wars-conflicts/battles/battle-of-pasaana"
       },
       {
         "label": "Bounty Hunter",
@@ -37638,6 +39027,11 @@
         "route": "settlements/lessu"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Ryloth",
+        "route": "wars-conflicts/battles/battle-of-ryloth"
+      },
+      {
         "label": "Species",
         "value": "Twi'lek",
         "route": "species/twilek"
@@ -37676,6 +39070,11 @@
         "label": "Bounty Hunter",
         "value": "Deathstick",
         "route": "bounty-hunters/deathstick"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -37745,6 +39144,11 @@
         "route": "wars-conflicts/battles/battle-of-takodana"
       },
       {
+        "label": "Battle",
+        "value": "Siege of Maz Kanata's Castle",
+        "route": "wars-conflicts/battles/siege-of-maz-kanatas-castle"
+      },
+      {
         "label": "Character",
         "value": "Maz Kanata",
         "route": "characters/maz-kanata"
@@ -37792,8 +39196,23 @@
       },
       {
         "label": "Battle",
+        "value": "Mandalorian Siege of Taris",
+        "route": "wars-conflicts/battles/mandalorian-siege-of-taris"
+      },
+      {
+        "label": "Battle",
         "value": "Siege of Taris",
         "route": "wars-conflicts/battles/siege-of-tar-is"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Invasion of Taris",
+        "route": "wars-conflicts/battles/sith-invasion-of-taris"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Taris (Great War)",
+        "route": "wars-conflicts/battles/battle-of-taris-great-war"
       },
       {
         "label": "Character",
@@ -38035,8 +39454,18 @@
       },
       {
         "label": "Battle",
+        "value": "Battle of Tython (Great Galactic War)",
+        "route": "wars-conflicts/battles/battle-of-tython-great-galactic-war"
+      },
+      {
+        "label": "Battle",
         "value": "Battle of Tython",
         "route": "wars-conflicts/battles/battle-of-tython"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Lord Skirmish on Tython",
+        "route": "wars-conflicts/battles/sith-lord-skirmish-on-tython"
       },
       {
         "label": "Character",
@@ -38057,6 +39486,11 @@
         "label": "Chronicle",
         "value": "Dawn of the Jedi",
         "route": "chronicles/galactic-history/dawn-of-the-jedi"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Old Republic",
+        "route": "chronicles/galactic-history/old-republic"
       }
     ]
   },
@@ -38065,9 +39499,19 @@
     "slug": "umbara",
     "links": [
       {
+        "label": "Battle",
+        "value": "Battle of Umbara",
+        "route": "wars-conflicts/battles/battle-of-umbara"
+      },
+      {
         "label": "Species",
         "value": "Umbaran",
         "route": "species/umbaran"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -38122,6 +39566,11 @@
         "route": "wars-conflicts/battles/battle-of-yavin-4-exar-kun"
       },
       {
+        "label": "Battle",
+        "value": "Duel on Yavin 4 (Great Sith War)",
+        "route": "wars-conflicts/battles/duel-on-yavin-4-great-sith-war"
+      },
+      {
         "label": "Species",
         "value": "Massassi",
         "route": "species/massassi"
@@ -38171,6 +39620,16 @@
         "label": "Settlement",
         "value": "Ziost Sith Acropolis",
         "route": "settlements/ziost-sith-acropolis"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Victory at Ziost",
+        "route": "wars-conflicts/battles/sith-victory-at-ziost"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ziost (Great War)",
+        "route": "wars-conflicts/battles/battle-of-ziost-great-war"
       },
       {
         "label": "Faction",
@@ -38261,6 +39720,11 @@
         "label": "Battle",
         "value": "Battle of Althir",
         "route": "wars-conflicts/battles/battle-of-althir"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Jagelland",
+        "route": "wars-conflicts/battles/battle-of-jagelland"
       },
       {
         "label": "Chronicle",
@@ -38668,6 +40132,11 @@
         "label": "Battle",
         "value": "Devastation of Cathar",
         "route": "wars-conflicts/battles/devastation-of-cathar"
+      },
+      {
+        "label": "Battle",
+        "value": "Raid on Cathar Survivors",
+        "route": "wars-conflicts/battles/raid-on-cathar-survivors"
       },
       {
         "label": "Species",
@@ -39123,9 +40592,19 @@
         "route": "settlements/eadu-research-facility"
       },
       {
+        "label": "Battle",
+        "value": "Battle on Eadu",
+        "route": "wars-conflicts/battles/battle-on-eadu"
+      },
+      {
         "label": "Faction",
         "value": "Empire",
         "route": "factions/empire"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Age of Rebellion",
+        "route": "chronicles/galactic-history/age-of-rebellion"
       }
     ]
   },
@@ -39482,6 +40961,11 @@
         "route": "wars-conflicts/battles/siege-of-kaon"
       },
       {
+        "label": "Battle",
+        "value": "Siege of Kaon (Great War)",
+        "route": "wars-conflicts/battles/siege-of-kaon-great-war"
+      },
+      {
         "label": "Chronicle",
         "value": "Old Republic",
         "route": "chronicles/galactic-history/old-republic"
@@ -39512,6 +40996,16 @@
         "label": "Settlement",
         "value": "Kessel Spice Mines",
         "route": "settlements/kessel-spice-mines"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Kessel",
+        "route": "wars-conflicts/battles/battle-of-kessel"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Age of Rebellion",
+        "route": "chronicles/galactic-history/age-of-rebellion"
       }
     ]
   },
@@ -39819,6 +41313,16 @@
         "label": "Settlement",
         "value": "Malastare Capital",
         "route": "settlements/malastare-capital"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Malastare",
+        "route": "wars-conflicts/battles/battle-of-malastare"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -39843,9 +41347,19 @@
         "route": "settlements/mimban-forward-camp"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Mimban",
+        "route": "wars-conflicts/battles/battle-of-mimban"
+      },
+      {
         "label": "Bounty Hunter",
         "value": "T'onga",
         "route": "bounty-hunters/tonga"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Age of Rebellion",
+        "route": "chronicles/galactic-history/age-of-rebellion"
       },
       {
         "label": "Chronicle",
@@ -39953,6 +41467,16 @@
         "route": "settlements/bilbousa"
       },
       {
+        "label": "Battle",
+        "value": "Siege of Nal Hutta (Great Galactic War)",
+        "route": "wars-conflicts/battles/siege-of-nal-hutta-great-galactic-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Nal Hutta (Great War)",
+        "route": "wars-conflicts/battles/battle-of-nal-hutta-great-war"
+      },
+      {
         "label": "Species",
         "value": "Hutt",
         "route": "species/hutt"
@@ -39961,6 +41485,11 @@
         "label": "Faction",
         "value": "Hutts",
         "route": "factions/hutts"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Old Republic",
+        "route": "chronicles/galactic-history/old-republic"
       }
     ]
   },
@@ -40090,6 +41619,16 @@
         "route": "wars-conflicts/battles/invasion-of-ord-mantell"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Ord Mantell (Cold War)",
+        "route": "wars-conflicts/battles/battle-of-ord-mantell-cold-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ord Mantell (Great War)",
+        "route": "wars-conflicts/battles/battle-of-ord-mantell-great-war"
+      },
+      {
         "label": "Bounty Hunter",
         "value": "Boba Fett",
         "route": "bounty-hunters/boba-fett"
@@ -40190,19 +41729,14 @@
         "route": "bounty-hunters/beilert-valance"
       },
       {
-        "label": "Bounty Hunter",
-        "value": "Calo Nord",
-        "route": "bounty-hunters/calo-nord"
-      },
-      {
-        "label": "Bounty Hunter",
-        "value": "Mira",
-        "route": "bounty-hunters/mira"
-      },
-      {
         "label": "Chronicle",
         "value": "Old Republic",
         "route": "chronicles/galactic-history/old-republic"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Rise of the First Order",
+        "route": "chronicles/galactic-history/rise-of-the-first-order"
       }
     ]
   },
@@ -40244,8 +41778,18 @@
     "links": [
       {
         "label": "Battle",
+        "value": "Assault on the Ossus Great Library",
+        "route": "wars-conflicts/battles/assault-on-ossus-library"
+      },
+      {
+        "label": "Battle",
         "value": "Battle of Ossus",
         "route": "wars-conflicts/battles/battle-of-ossus"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of the Cyax System",
+        "route": "wars-conflicts/battles/battle-of-cyax-system"
       },
       {
         "label": "Battle",
@@ -40499,6 +42043,16 @@
         "label": "Settlement",
         "value": "Rhen Var Outpost",
         "route": "settlements/rhen-var-outpost"
+      },
+      {
+        "label": "Battle",
+        "value": "Siege of Rhen Var",
+        "route": "wars-conflicts/battles/siege-of-rhen-var"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Old Republic",
+        "route": "chronicles/galactic-history/old-republic"
       }
     ]
   },
@@ -40585,8 +42139,43 @@
       },
       {
         "label": "Battle",
+        "value": "Fifth Battle of Ruusan",
+        "route": "wars-conflicts/battles/fifth-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Ruusan",
+        "route": "wars-conflicts/battles/first-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Fourth Battle of Ruusan",
+        "route": "wars-conflicts/battles/fourth-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Rise of Darth Bane",
+        "route": "wars-conflicts/battles/rise-of-darth-bane"
+      },
+      {
+        "label": "Battle",
+        "value": "Second Battle of Ruusan",
+        "route": "wars-conflicts/battles/second-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
         "value": "Seventh Battle of Ruusan",
         "route": "wars-conflicts/battles/seventh-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Sixth Battle of Ruusan",
+        "route": "wars-conflicts/battles/sixth-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Third Battle of Ruusan",
+        "route": "wars-conflicts/battles/third-battle-of-ruusan"
       },
       {
         "label": "Battle",
@@ -40618,6 +42207,11 @@
         "label": "Settlement",
         "value": "Saleucami Field Hospital",
         "route": "settlements/saleucami-field-hospital"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Saleucami",
+        "route": "wars-conflicts/battles/battle-of-saleucami"
       },
       {
         "label": "Jedi",
@@ -40827,6 +42421,11 @@
     "links": [
       {
         "label": "Battle",
+        "value": "Assault on Starkiller Base Trench",
+        "route": "wars-conflicts/battles/assault-on-starkiller-base-trench"
+      },
+      {
+        "label": "Battle",
         "value": "Battle of Starkiller Base",
         "route": "wars-conflicts/battles/battle-of-starkiller-base"
       },
@@ -40888,9 +42487,29 @@
         "route": "settlements/pinyumb"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Sullust",
+        "route": "wars-conflicts/battles/battle-of-sullust"
+      },
+      {
+        "label": "Battle",
+        "value": "Liberation of Sullust",
+        "route": "wars-conflicts/battles/liberation-of-sullust"
+      },
+      {
         "label": "Species",
         "value": "Sullustan",
         "route": "species/sullustan"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Age of Rebellion",
+        "route": "chronicles/galactic-history/age-of-rebellion"
       }
     ]
   },
@@ -41073,6 +42692,11 @@
         "label": "Battle",
         "value": "Battle of Troiken",
         "route": "wars-conflicts/battles/battle-of-troiken"
+      },
+      {
+        "label": "Battle",
+        "value": "Naval Battle over Troiken",
+        "route": "wars-conflicts/battles/naval-battle-over-troiken"
       },
       {
         "label": "Species",
@@ -41301,7 +42925,18 @@
   {
     "category": "planets",
     "slug": "ambria",
-    "links": []
+    "links": [
+      {
+        "label": "Battle",
+        "value": "Sith Bombardment of Ambria",
+        "route": "wars-conflicts/battles/sith-bombardment-of-ambria"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Sith Empire",
+        "route": "chronicles/galactic-history/old-sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
@@ -41414,7 +43049,23 @@
   {
     "category": "planets",
     "slug": "voss",
-    "links": []
+    "links": [
+      {
+        "label": "Battle",
+        "value": "Battle of Voss",
+        "route": "wars-conflicts/battles/battle-of-voss"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Voss (Great War)",
+        "route": "wars-conflicts/battles/battle-of-voss-great-war"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Old Republic",
+        "route": "chronicles/galactic-history/old-republic"
+      }
+    ]
   },
   {
     "category": "planets",
@@ -41426,6 +43077,11 @@
     "slug": "quesh",
     "links": [
       {
+        "label": "Battle",
+        "value": "Battle of Quesh (Great Galactic War)",
+        "route": "wars-conflicts/battles/battle-of-quesh-great-galactic-war"
+      },
+      {
         "label": "Chronicle",
         "value": "Old Republic",
         "route": "chronicles/galactic-history/old-republic"
@@ -41435,7 +43091,18 @@
   {
     "category": "planets",
     "slug": "empress-teta",
-    "links": []
+    "links": [
+      {
+        "label": "Battle",
+        "value": "Krath Coup of Empress Teta",
+        "route": "wars-conflicts/battles/krath-coup-of-empress-teta"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Sith Empire",
+        "route": "chronicles/galactic-history/old-sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
@@ -41471,7 +43138,18 @@
   {
     "category": "planets",
     "slug": "foerost",
-    "links": []
+    "links": [
+      {
+        "label": "Battle",
+        "value": "Battle of Foerost",
+        "route": "wars-conflicts/battles/battle-of-foerost"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Sith Empire",
+        "route": "chronicles/galactic-history/old-sith-empire"
+      }
+    ]
   },
   {
     "category": "planets",
@@ -41773,6 +43451,11 @@
     "slug": "anaxes",
     "links": [
       {
+        "label": "Battle",
+        "value": "Battle of Anaxes",
+        "route": "wars-conflicts/battles/battle-of-anaxes"
+      },
+      {
         "label": "Chronicle",
         "value": "Fall of the Republic",
         "route": "chronicles/galactic-history/fall-of-the-republic"
@@ -41783,6 +43466,11 @@
     "category": "planets",
     "slug": "ringo-vinda",
     "links": [
+      {
+        "label": "Battle",
+        "value": "Battle of Ringo Vinda",
+        "route": "wars-conflicts/battles/battle-of-ringo-vinda"
+      },
       {
         "label": "Jedi",
         "value": "Tiplar",
@@ -45556,6 +47244,16 @@
     "category": "planets",
     "slug": "boz-pity",
     "links": [
+      {
+        "label": "Battle",
+        "value": "Battle of Boz Pity",
+        "route": "wars-conflicts/battles/battle-of-boz-pity"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      },
       {
         "label": "Chronicle",
         "value": "Old Republic",
@@ -50058,6 +51756,16 @@
     "category": "planets",
     "slug": "formos",
     "links": [
+      {
+        "label": "Battle",
+        "value": "Siege of Formos",
+        "route": "wars-conflicts/battles/siege-of-formos"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Sith Empire",
+        "route": "chronicles/galactic-history/old-sith-empire"
+      },
       {
         "label": "Chronicle",
         "value": "Old Republic",
@@ -60820,6 +62528,16 @@
     "slug": "quell",
     "links": [
       {
+        "label": "Battle",
+        "value": "Battle of Quell",
+        "route": "wars-conflicts/battles/battle-of-quell"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      },
+      {
         "label": "Chronicle",
         "value": "Old Republic",
         "route": "chronicles/galactic-history/old-republic"
@@ -62436,6 +64154,11 @@
     "category": "planets",
     "slug": "serroco",
     "links": [
+      {
+        "label": "Battle",
+        "value": "Battle of Serroco",
+        "route": "wars-conflicts/battles/battle-of-serroco"
+      },
       {
         "label": "Chronicle",
         "value": "Old Republic",
@@ -64097,6 +65820,16 @@
     "slug": "taanab",
     "links": [
       {
+        "label": "Battle",
+        "value": "Stark Hyperspace Ambush at Taanab",
+        "route": "wars-conflicts/battles/stark-hyperspace-ambush-at-taanab"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Sith Empire",
+        "route": "chronicles/galactic-history/old-sith-empire"
+      },
+      {
         "label": "Chronicle",
         "value": "Old Republic",
         "route": "chronicles/galactic-history/old-republic"
@@ -65156,6 +66889,16 @@
     "category": "planets",
     "slug": "thyferra",
     "links": [
+      {
+        "label": "Battle",
+        "value": "Blockade of Thyferra",
+        "route": "wars-conflicts/battles/blockade-of-thyferra"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Sith Empire",
+        "route": "chronicles/galactic-history/old-sith-empire"
+      },
       {
         "label": "Chronicle",
         "value": "Old Republic",
@@ -66342,6 +68085,11 @@
     "category": "planets",
     "slug": "vanquo",
     "links": [
+      {
+        "label": "Battle",
+        "value": "Battle of Vanquo",
+        "route": "wars-conflicts/battles/battle-of-vanquo"
+      },
       {
         "label": "Chronicle",
         "value": "Old Republic",
@@ -70591,7 +72339,7 @@
   },
   {
     "category": "battles",
-    "slug": "first-battle-of-geonosis",
+    "slug": "battle-of-anaxes",
     "links": [
       {
         "label": "Conflict",
@@ -70599,9 +72347,157 @@
         "route": "wars-conflicts/clone-wars"
       },
       {
+        "label": "Character",
+        "value": "Captain Rex",
+        "route": "characters/captain-rex"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
         "label": "Planet",
-        "value": "Geonosis",
-        "route": "planet/geonosis"
+        "value": "Anaxes",
+        "route": "planet/anaxes"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-boz-pity",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Character",
+        "value": "General Grievous",
+        "route": "characters/general-grievous"
+      },
+      {
+        "label": "Sith",
+        "value": "Asajj Ventress",
+        "route": "sith/asajj-ventress"
+      },
+      {
+        "label": "Planet",
+        "value": "Boz Pity",
+        "route": "planet/boz-pity"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-cato-neimoidia",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Plo Koon",
+        "route": "jedi/plo-koon"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
+        "label": "Planet",
+        "value": "Cato Neimoidia",
+        "route": "planet/cato-neimoidia"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-christophsis",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Planet",
+        "value": "Christophsis",
+        "route": "planet/christophsis"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -70615,15 +72511,55 @@
         "route": "wars-conflicts/clone-wars"
       },
       {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Character",
+        "value": "General Grievous",
+        "route": "characters/general-grievous"
+      },
+      {
+        "label": "Sith",
+        "value": "Count Dooku",
+        "route": "sith/darth-tyranus"
+      },
+      {
         "label": "Planet",
         "value": "Coruscant",
         "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "battle-of-utapau",
+    "slug": "battle-of-felucia",
     "links": [
       {
         "label": "Conflict",
@@ -70631,9 +72567,34 @@
         "route": "wars-conflicts/clone-wars"
       },
       {
+        "label": "Jedi",
+        "value": "Aayla Secura",
+        "route": "jedi/aayla-secura"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
         "label": "Planet",
-        "value": "Utapau",
-        "route": "planet/utapau"
+        "value": "Felucia",
+        "route": "planet/felucia"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -70647,15 +72608,45 @@
         "route": "wars-conflicts/clone-wars"
       },
       {
+        "label": "Jedi",
+        "value": "Yoda",
+        "route": "jedi/yoda"
+      },
+      {
         "label": "Planet",
         "value": "Kashyyyk",
         "route": "planet/kashyyyk"
+      },
+      {
+        "label": "Species",
+        "value": "Wookiee",
+        "route": "species/wookiee"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "siege-of-mandalore",
+    "slug": "battle-of-malastare",
     "links": [
       {
         "label": "Conflict",
@@ -70663,9 +72654,39 @@
         "route": "wars-conflicts/clone-wars"
       },
       {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Mace Windu",
+        "route": "jedi/mace-windu"
+      },
+      {
+        "label": "Creature",
+        "value": "Zillo Beast",
+        "route": "creatures/zillo-beast"
+      },
+      {
         "label": "Planet",
-        "value": "Mandalore",
-        "route": "planet/mandalore"
+        "value": "Malastare",
+        "route": "planet/malastare"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -70679,9 +72700,464 @@
         "route": "wars-conflicts/clone-wars"
       },
       {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Kit Fisto",
+        "route": "jedi/kit-fisto"
+      },
+      {
         "label": "Planet",
         "value": "Mon Cala",
         "route": "planet/mon-cala"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-mygeeto",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Ki-Adi-Mundi",
+        "route": "jedi/ki-adi-mundi"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
+        "label": "Planet",
+        "value": "Mygeeto",
+        "route": "planet/mygeeto"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-quell",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Ahsoka Tano",
+        "route": "jedi/ahsoka-tano"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Planet",
+        "value": "Quell",
+        "route": "planet/quell"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-ringo-vinda",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Tiplar",
+        "route": "jedi/tiplar"
+      },
+      {
+        "label": "Planet",
+        "value": "Ringo Vinda",
+        "route": "planet/ringo-vinda"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-ryloth",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Mace Windu",
+        "route": "jedi/mace-windu"
+      },
+      {
+        "label": "Character",
+        "value": "Cham Syndulla",
+        "route": "characters/cham-syndulla"
+      },
+      {
+        "label": "Planet",
+        "value": "Ryloth",
+        "route": "planet/ryloth"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-saleucami",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Stass Allie",
+        "route": "jedi/stass-allie"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
+        "label": "Planet",
+        "value": "Saleucami",
+        "route": "planet/saleucami"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-sullust",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Count Dooku",
+        "route": "sith/darth-tyranus"
+      },
+      {
+        "label": "Sith",
+        "value": "Asajj Ventress",
+        "route": "sith/asajj-ventress"
+      },
+      {
+        "label": "Planet",
+        "value": "Sullust",
+        "route": "planet/sullust"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-umbara",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Captain Rex",
+        "route": "characters/captain-rex"
+      },
+      {
+        "label": "Planet",
+        "value": "Umbara",
+        "route": "planet/umbara"
+      },
+      {
+        "label": "Military unit",
+        "value": "501st Legion",
+        "route": "military-units/galactic-republic/army/501st-legion"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-utapau",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Character",
+        "value": "General Grievous",
+        "route": "characters/general-grievous"
+      },
+      {
+        "label": "Planet",
+        "value": "Utapau",
+        "route": "planet/utapau"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "defense-of-kamino",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Planet",
+        "value": "Kamino",
+        "route": "planet/kamino"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "first-battle-of-geonosis",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Jedi",
+        "value": "Mace Windu",
+        "route": "jedi/mace-windu"
+      },
+      {
+        "label": "Planet",
+        "value": "Geonosis",
+        "route": "planet/geonosis"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Battle",
+        "value": "Second Battle of Geonosis",
+        "route": "wars-conflicts/battles/second-battle-of-geonosis"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -70693,86 +73169,218 @@
         "label": "Conflict",
         "value": "Clone Wars",
         "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Sidious",
+        "route": "sith/darth-sidious"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Vader",
+        "route": "sith/darth-vader"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Utapau",
+        "route": "wars-conflicts/battles/battle-of-utapau"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Coruscant",
+        "route": "wars-conflicts/battles/battle-of-coruscant"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Jedi",
+        "value": "Mace Windu",
+        "route": "jedi/mace-windu"
+      },
+      {
+        "label": "Jedi",
+        "value": "Yoda",
+        "route": "jedi/yoda"
+      },
+      {
+        "label": "Jedi",
+        "value": "Obi-Wan Kenobi",
+        "route": "jedi/obi-wan-kenobi"
+      },
+      {
+        "label": "Jedi",
+        "value": "Ahsoka Tano",
+        "route": "jedi/ahsoka-tano"
+      },
+      {
+        "label": "Character",
+        "value": "Bail Organa",
+        "route": "characters/bail-organa"
+      },
+      {
+        "label": "Character",
+        "value": "Padmé Amidala",
+        "route": "characters/padme-amidala"
+      },
+      {
+        "label": "Faction",
+        "value": "Jedi Order",
+        "route": "all-jedi"
+      },
+      {
+        "label": "Organization",
+        "value": "501st Legion",
+        "route": "military-units/galactic-republic/army/501st-legion"
+      },
+      {
+        "label": "Organization",
+        "value": "Inquisitorius",
+        "route": "organizations/inquisitorius"
+      },
+      {
+        "label": "Planet",
+        "value": "Mustafar — duel between Obi-Wan Kenobi and Darth Vader",
+        "route": "mustafar"
+      },
+      {
+        "label": "Planet",
+        "value": "Felucia — execution of Aayla Secura",
+        "route": "planet/felucia"
+      },
+      {
+        "label": "Planet",
+        "value": "Mygeeto — execution of Ki-Adi-Mundi",
+        "route": "planet/mygeeto"
+      },
+      {
+        "label": "Planet",
+        "value": "Kashyyyk — Order 66 on Yoda's command post",
+        "route": "planet/kashyyyk"
+      },
+      {
+        "label": "Planet",
+        "value": "Utapau — Obi-Wan Kenobi kills Grievous as Order 66 begins",
+        "route": "planet/utapau"
+      },
+      {
+        "label": "Planet",
+        "value": "Saleucami — execution of Stass Allie",
+        "route": "planet/saleucami"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "battle-of-yavin",
+    "slug": "second-battle-of-geonosis",
     "links": [
       {
         "label": "Conflict",
-        "value": "Galactic Civil War",
-        "route": "wars-conflicts/galactic-civil-war"
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Anakin Skywalker",
+        "route": "jedi/anakin-skywalker"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luminara Unduli",
+        "route": "jedi/luminara-unduli"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Geonosis",
+        "route": "wars-conflicts/battles/first-battle-of-geonosis"
       },
       {
         "label": "Planet",
-        "value": "Yavin 4",
-        "route": "planet/yavin-4"
+        "value": "Geonosis",
+        "route": "planet/geonosis"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
+      },
+      {
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "battle-of-hoth",
+    "slug": "siege-of-mandalore",
     "links": [
       {
         "label": "Conflict",
-        "value": "Galactic Civil War",
-        "route": "wars-conflicts/galactic-civil-war"
+        "value": "Clone Wars",
+        "route": "wars-conflicts/clone-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Ahsoka Tano",
+        "route": "jedi/ahsoka-tano"
+      },
+      {
+        "label": "Character",
+        "value": "Bo-Katan Kryze",
+        "route": "characters/bo-katan-kryze"
+      },
+      {
+        "label": "Character",
+        "value": "Captain Rex",
+        "route": "characters/captain-rex"
       },
       {
         "label": "Planet",
-        "value": "Hoth",
-        "route": "hoth"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-endor",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Galactic Civil War",
-        "route": "wars-conflicts/galactic-civil-war"
+        "value": "Mandalore",
+        "route": "planet/mandalore"
       },
       {
-        "label": "Planet",
-        "value": "Endor",
-        "route": "planet/endor"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-scarif",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Galactic Civil War",
-        "route": "wars-conflicts/galactic-civil-war"
+        "label": "Battle",
+        "value": "Jedi Purge",
+        "route": "wars-conflicts/battles/jedi-purge"
       },
       {
-        "label": "Planet",
-        "value": "Scarif",
-        "route": "planet/scarif"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-jakku",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Galactic Civil War",
-        "route": "wars-conflicts/galactic-civil-war"
+        "label": "Faction",
+        "value": "Galactic Republic",
+        "route": "factions/republic"
       },
       {
-        "label": "Planet",
-        "value": "Jakku",
-        "route": "planet/jakku"
+        "label": "Faction",
+        "value": "Confederacy of Independent Systems",
+        "route": "factions/confederacy"
+      },
+      {
+        "label": "Chronicle",
+        "value": "Fall of the Republic",
+        "route": "chronicles/galactic-history/fall-of-the-republic"
       }
     ]
   },
@@ -70786,15 +73394,573 @@
         "route": "wars-conflicts/galactic-civil-war"
       },
       {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Lando Calrissian",
+        "route": "characters/lando-calrissian"
+      },
+      {
         "label": "Planet",
         "value": "Bespin",
         "route": "bespin"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "battle-of-malachor-v",
+    "slug": "battle-of-atollon",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Thrawn",
+        "route": "characters/thrawn"
+      },
+      {
+        "label": "Character",
+        "value": "Hera Syndulla",
+        "route": "characters/hera-syndulla"
+      },
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "Planet",
+        "value": "Atollon",
+        "route": "planet/atollon"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-endor",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Planet",
+        "value": "Endor",
+        "route": "planet/endor"
+      },
+      {
+        "label": "Ship",
+        "value": "Death Star II",
+        "route": "ships/death-star-ii"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-hoth",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Battle",
+        "value": "Assault on Cloud City",
+        "route": "wars-conflicts/battles/assault-on-cloud-city"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-jakku",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Planet",
+        "value": "Jakku",
+        "route": "planet/jakku"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Endor",
+        "route": "wars-conflicts/battles/battle-of-endor"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-kessel",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Lando Calrissian",
+        "route": "characters/lando-calrissian"
+      },
+      {
+        "label": "Ship",
+        "value": "Millennium Falcon",
+        "route": "ships/millennium-falcon"
+      },
+      {
+        "label": "Planet",
+        "value": "Kessel",
+        "route": "planet/kessel"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-mimban",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Tobias Beckett",
+        "route": "characters/tobias-beckett"
+      },
+      {
+        "label": "Planet",
+        "value": "Mimban",
+        "route": "planet/mimban"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-scarif",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Jyn Erso",
+        "route": "characters/jyn-erso"
+      },
+      {
+        "label": "Character",
+        "value": "Cassian Andor",
+        "route": "characters/cassian-andor"
+      },
+      {
+        "label": "Planet",
+        "value": "Scarif",
+        "route": "planet/scarif"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Yavin",
+        "route": "wars-conflicts/battles/battle-of-yavin"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-yavin",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Ship",
+        "value": "Death Star I",
+        "route": "ships/death-star-i"
+      },
+      {
+        "label": "Planet",
+        "value": "Yavin 4",
+        "route": "planet/yavin-4"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Scarif",
+        "route": "wars-conflicts/battles/battle-of-scarif"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-on-eadu",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Cassian Andor",
+        "route": "characters/cassian-andor"
+      },
+      {
+        "label": "Character",
+        "value": "Jyn Erso",
+        "route": "characters/jyn-erso"
+      },
+      {
+        "label": "Planet",
+        "value": "Eadu",
+        "route": "planet/eadu"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Scarif",
+        "route": "wars-conflicts/battles/battle-of-scarif"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "defense-of-naboo-galactic-civil-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Planet",
+        "value": "Naboo",
+        "route": "naboo"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Endor",
+        "route": "wars-conflicts/battles/battle-of-endor"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "liberation-of-sullust",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Lando Calrissian",
+        "route": "characters/lando-calrissian"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Endor",
+        "route": "wars-conflicts/battles/battle-of-endor"
+      },
+      {
+        "label": "Planet",
+        "value": "Sullust",
+        "route": "planet/sullust"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-lothal",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Jedi",
+        "value": "Ezra Bridger",
+        "route": "jedi/ezra-bridger"
+      },
+      {
+        "label": "Character",
+        "value": "Grand Admiral Thrawn",
+        "route": "characters/thrawn"
+      },
+      {
+        "label": "Planet",
+        "value": "Lothal",
+        "route": "planet/lothal"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "skirmish-on-jedha",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Galactic Civil War",
+        "route": "wars-conflicts/galactic-civil-war"
+      },
+      {
+        "label": "Character",
+        "value": "Saw Gerrera",
+        "route": "characters/saw-gerrera"
+      },
+      {
+        "label": "Faction",
+        "value": "Galactic Empire",
+        "route": "factions/empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Jedha",
+        "route": "planet/jedha"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Scarif",
+        "route": "wars-conflicts/battles/battle-of-scarif"
+      },
+      {
+        "label": "Faction",
+        "value": "Rebel Alliance",
+        "route": "factions/rebel-alliance"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "assault-on-dantooine-enclave",
     "links": [
       {
         "label": "Conflict",
@@ -70803,72 +73969,18 @@
       },
       {
         "label": "Planet",
-        "value": "Malachor V",
-        "route": "planet/malachor-v"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-dxun",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Mandalorian Wars",
-        "route": "wars-conflicts/mandalorian-wars"
+        "value": "Dantooine",
+        "route": "dantooine"
       },
       {
-        "label": "Planet",
-        "value": "Dxun",
-        "route": "planet/dxun"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "devastation-of-cathar",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Mandalorian Wars",
-        "route": "wars-conflicts/mandalorian-wars"
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
       },
       {
-        "label": "Planet",
-        "value": "Cathar",
-        "route": "planet/cathar"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-telos-iv",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Mandalorian Wars",
-        "route": "wars-conflicts/mandalorian-wars"
-      },
-      {
-        "label": "Planet",
-        "value": "Telos",
-        "route": "planet/telos"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "siege-of-tar-is",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Mandalorian Wars",
-        "route": "wars-conflicts/mandalorian-wars"
-      },
-      {
-        "label": "Planet",
-        "value": "Taris",
-        "route": "planet/taris"
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
       }
     ]
   },
@@ -70882,6 +73994,16 @@
         "route": "wars-conflicts/mandalorian-wars"
       },
       {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
         "label": "Planet",
         "value": "Althir",
         "route": "planet/althir"
@@ -70890,7 +74012,390 @@
   },
   {
     "category": "battles",
-    "slug": "battle-of-ossus",
+    "slug": "battle-of-dxun",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
+        "label": "Planet",
+        "value": "Dxun",
+        "route": "planet/dxun"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-jagelland",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Planet",
+        "value": "Althir",
+        "route": "planet/althir"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-malachor-v",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Malak",
+        "route": "sith/darth-malak"
+      },
+      {
+        "label": "Planet",
+        "value": "Malachor V",
+        "route": "planet/malachor-v"
+      },
+      {
+        "label": "Battle",
+        "value": "Final Confrontation at Malachor V",
+        "route": "wars-conflicts/battles/final-confrontation-at-malachor-v"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-onderon-mandalorian-wars",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Planet",
+        "value": "Onderon",
+        "route": "planet/onderon"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Dxun",
+        "route": "wars-conflicts/battles/battle-of-dxun"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-serroco",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Character",
+        "value": "Carth Onasi",
+        "route": "characters/carth-onasi"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Planet",
+        "value": "Serroco",
+        "route": "planet/serroco"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-telos-iv",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
+        "label": "Planet",
+        "value": "Telos",
+        "route": "planet/telos"
+      },
+      {
+        "label": "Planet",
+        "value": "Telos IV",
+        "route": "planet/telos-iv"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-vanquo",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Planet",
+        "value": "Vanquo",
+        "route": "planet/vanquo"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "devastation-of-cathar",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
+        "label": "Planet",
+        "value": "Cathar",
+        "route": "planet/cathar"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "final-confrontation-at-malachor-v",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Malak",
+        "route": "sith/darth-malak"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Malachor V",
+        "route": "wars-conflicts/battles/battle-of-malachor-v"
+      },
+      {
+        "label": "Planet",
+        "value": "Malachor V",
+        "route": "planet/malachor-v"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "mandalorian-siege-of-taris",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Planet",
+        "value": "Taris",
+        "route": "planet/taris"
+      },
+      {
+        "label": "Battle",
+        "value": "Siege of Taris",
+        "route": "wars-conflicts/battles/siege-of-tar-is"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "raid-on-cathar-survivors",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Battle",
+        "value": "Devastation of Cathar",
+        "route": "wars-conflicts/battles/devastation-of-cathar"
+      },
+      {
+        "label": "Planet",
+        "value": "Cathar",
+        "route": "planet/cathar"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-rhen-var",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Planet",
+        "value": "Rhen Var",
+        "route": "planet/rhen-var"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-tar-is",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Mandalorian Wars",
+        "route": "wars-conflicts/mandalorian-wars"
+      },
+      {
+        "label": "Faction",
+        "value": "Mandalorians",
+        "route": "factions/mandalorians"
+      },
+      {
+        "label": "Jedi",
+        "value": "Revan",
+        "route": "jedi/revan"
+      },
+      {
+        "label": "Planet",
+        "value": "Taris",
+        "route": "planet/taris"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "assault-on-ossus-library",
     "links": [
       {
         "label": "Conflict",
@@ -70898,9 +74403,29 @@
         "route": "wars-conflicts/great-sith-war"
       },
       {
+        "label": "Battle",
+        "value": "Battle of Ossus",
+        "route": "wars-conflicts/battles/battle-of-ossus"
+      },
+      {
         "label": "Planet",
         "value": "Ossus",
         "route": "planet/ossus"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
       }
     ]
   },
@@ -70914,6 +74439,21 @@
         "route": "wars-conflicts/great-sith-war"
       },
       {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
         "label": "Planet",
         "value": "Coruscant",
         "route": "coruscant"
@@ -70922,7 +74462,7 @@
   },
   {
     "category": "battles",
-    "slug": "battle-of-yavin-4-exar-kun",
+    "slug": "battle-of-foerost",
     "links": [
       {
         "label": "Conflict",
@@ -70930,9 +74470,24 @@
         "route": "wars-conflicts/great-sith-war"
       },
       {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
         "label": "Planet",
-        "value": "Yavin 4",
-        "route": "planet/yavin-4"
+        "value": "Foerost",
+        "route": "planet/foerost"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
       }
     ]
   },
@@ -70946,9 +74501,127 @@
         "route": "wars-conflicts/great-sith-war"
       },
       {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
         "label": "Planet",
         "value": "Kemplex IX",
         "route": "planet/kemplex-nine"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-ossus",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Sith War",
+        "route": "wars-conflicts/great-sith-war"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "Planet",
+        "value": "Ossus",
+        "route": "planet/ossus"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Invasion of Ossus",
+        "route": "wars-conflicts/battles/sith-invasion-of-ossus"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-yavin-4-exar-kun",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Sith War",
+        "route": "wars-conflicts/great-sith-war"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "Planet",
+        "value": "Yavin 4",
+        "route": "planet/yavin-4"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-cyax-system",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Sith War",
+        "route": "wars-conflicts/great-sith-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Invasion of Ossus",
+        "route": "wars-conflicts/battles/sith-invasion-of-ossus"
+      },
+      {
+        "label": "Planet",
+        "value": "Ossus",
+        "route": "planet/ossus"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
       }
     ]
   },
@@ -70962,9 +74635,148 @@
         "route": "wars-conflicts/great-sith-war"
       },
       {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
         "label": "Planet",
         "value": "Ossus",
         "route": "planet/ossus"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "duel-on-yavin-4-great-sith-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Sith War",
+        "route": "wars-conflicts/great-sith-war"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "Planet",
+        "value": "Yavin 4",
+        "route": "planet/yavin-4"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "invasion-of-korriban-great-sith-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Sith War",
+        "route": "wars-conflicts/great-sith-war"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "krath-coup-of-empress-teta",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Sith War",
+        "route": "wars-conflicts/great-sith-war"
+      },
+      {
+        "label": "Sith",
+        "value": "Ulic Qel-Droma",
+        "route": "sith/ulic-qel-droma"
+      },
+      {
+        "label": "Planet",
+        "value": "Empress Teta",
+        "route": "planet/empress-teta"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-bombardment-of-ambria",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Sith War",
+        "route": "wars-conflicts/great-sith-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Ambria",
+        "route": "planet/ambria"
+      },
+      {
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
       }
     ]
   },
@@ -70978,25 +74790,24 @@
         "route": "wars-conflicts/great-sith-war"
       },
       {
-        "label": "Planet",
-        "value": "Ossus",
-        "route": "planet/ossus"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "sacking-of-coruscant",
-    "links": [
+        "label": "Sith",
+        "value": "Exar Kun",
+        "route": "sith/exar-kun"
+      },
       {
-        "label": "Conflict",
-        "value": "Great Galactic War",
-        "route": "wars-conflicts/great-galactic-war"
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
       },
       {
         "label": "Planet",
-        "value": "Coruscant",
-        "route": "coruscant"
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "Planet",
+        "value": "Ossus",
+        "route": "planet/ossus"
       }
     ]
   },
@@ -71010,25 +74821,24 @@
         "route": "wars-conflicts/great-galactic-war"
       },
       {
-        "label": "Planet",
-        "value": "Alderaan",
-        "route": "planet/alderaan"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "recapture-of-korriban",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Great Galactic War",
-        "route": "wars-conflicts/great-galactic-war"
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
       },
       {
         "label": "Planet",
-        "value": "Korriban",
-        "route": "korriban"
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      },
+      {
+        "label": "Planet",
+        "value": "Alderaan",
+        "route": "planet/alderaan"
       }
     ]
   },
@@ -71042,6 +74852,21 @@
         "route": "wars-conflicts/great-galactic-war"
       },
       {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      },
+      {
         "label": "Planet",
         "value": "Ilum",
         "route": "planet/ilum"
@@ -71050,7 +74875,7 @@
   },
   {
     "category": "battles",
-    "slug": "siege-of-balmorra",
+    "slug": "battle-of-manaan-great-galactic-war",
     "links": [
       {
         "label": "Conflict",
@@ -71059,8 +74884,116 @@
       },
       {
         "label": "Planet",
-        "value": "Balmorra",
-        "route": "planet/balmorra"
+        "value": "Manaan",
+        "route": "planet/manaan"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-quesh-great-galactic-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Quesh",
+        "route": "planet/quesh"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-tython-great-galactic-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Tython",
+        "route": "planet/tython"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-voss",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Voss",
+        "route": "planet/voss"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
       }
     ]
   },
@@ -71074,6 +75007,21 @@
         "route": "wars-conflicts/great-galactic-war"
       },
       {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      },
+      {
         "label": "Planet",
         "value": "Ord Mantell",
         "route": "planet/ord-mantell"
@@ -71082,33 +75030,223 @@
   },
   {
     "category": "battles",
-    "slug": "battle-of-troiken",
+    "slug": "recapture-of-korriban",
     "links": [
       {
         "label": "Conflict",
-        "value": "Stark Hyperspace War",
-        "route": "wars-conflicts/stark-hyperspace-war"
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
       },
       {
         "label": "Planet",
-        "value": "Troiken",
-        "route": "planet/troiken"
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "battle-of-qika",
+    "slug": "sacking-of-coruscant",
     "links": [
       {
         "label": "Conflict",
-        "value": "Stark Hyperspace War",
-        "route": "wars-conflicts/stark-hyperspace-war"
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Malgus",
+        "route": "sith/darth-malgus"
       },
       {
         "label": "Planet",
-        "value": "Qika",
-        "route": "planet/qika"
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-balmorra",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      },
+      {
+        "label": "Planet",
+        "value": "Balmorra",
+        "route": "planet/balmorra"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-nal-hutta-great-galactic-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Organization",
+        "value": "Hutt Smuggling Rings",
+        "route": "organizations/hutt-smuggling-rings"
+      },
+      {
+        "label": "Planet",
+        "value": "Nal Hutta",
+        "route": "planet/nal-hutta"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-assault-on-dromund-kaas",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Dromund Kaas",
+        "route": "planet/dromund-kaas"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-invasion-of-taris",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Taris",
+        "route": "planet/taris"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-victory-at-ziost",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great Galactic War",
+        "route": "wars-conflicts/great-galactic-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Ziost",
+        "route": "planet/ziost"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
       }
     ]
   },
@@ -71122,6 +75260,16 @@
         "route": "wars-conflicts/stark-hyperspace-war"
       },
       {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
         "label": "Planet",
         "value": "Primus Goluud",
         "route": "planet/primus-goluud"
@@ -71130,12 +75278,79 @@
   },
   {
     "category": "battles",
-    "slug": "stark-alliance-collapse",
+    "slug": "battle-of-qika",
     "links": [
       {
         "label": "Conflict",
         "value": "Stark Hyperspace War",
         "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Planet",
+        "value": "Qika",
+        "route": "planet/qika"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-troiken",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Stark Hyperspace War",
+        "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Planet",
+        "value": "Troiken",
+        "route": "planet/troiken"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "blockade-of-thyferra",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Stark Hyperspace War",
+        "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Thyferra",
+        "route": "planet/thyferra"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
       }
     ]
   },
@@ -71147,6 +75362,141 @@
         "label": "Conflict",
         "value": "Stark Hyperspace War",
         "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "jedi-intervention-at-coruscant",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Stark Hyperspace War",
+        "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Jedi",
+        "value": "Qui-Gon Jinn",
+        "route": "jedi/qui-gon-jinn"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "naval-battle-over-troiken",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Stark Hyperspace War",
+        "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Troiken",
+        "route": "wars-conflicts/battles/battle-of-troiken"
+      },
+      {
+        "label": "Planet",
+        "value": "Troiken",
+        "route": "planet/troiken"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-formos",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Stark Hyperspace War",
+        "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Formos",
+        "route": "planet/formos"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "stark-alliance-collapse",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Stark Hyperspace War",
+        "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "stark-hyperspace-ambush-at-taanab",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Stark Hyperspace War",
+        "route": "wars-conflicts/stark-hyperspace-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Taanab",
+        "route": "planet/taanab"
+      },
+      {
+        "label": "Faction",
+        "value": "Trade Federation",
+        "route": "factions/trade-federation"
       },
       {
         "label": "Planet",
@@ -71166,6 +75516,16 @@
       },
       {
         "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
+      },
+      {
+        "label": "Planet",
         "value": "Corbos",
         "route": "planet/corbos"
       }
@@ -71173,23 +75533,22 @@
   },
   {
     "category": "battles",
-    "slug": "fall-of-the-dark-jedi",
+    "slug": "battle-of-korriban-ancient",
     "links": [
       {
         "label": "Conflict",
         "value": "Hundred-Year Darkness",
         "route": "wars-conflicts/hundred-year-darkness"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "sith-exodus",
-    "links": [
+      },
       {
-        "label": "Conflict",
-        "value": "Hundred-Year Darkness",
-        "route": "wars-conflicts/hundred-year-darkness"
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
       }
     ]
   },
@@ -71204,8 +75563,49 @@
       },
       {
         "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
+      },
+      {
+        "label": "Planet",
         "value": "Tython",
         "route": "planet/tython"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "dark-jedi-uprising-on-coruscant",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Hundred-Year Darkness",
+        "route": "wars-conflicts/hundred-year-darkness"
+      },
+      {
+        "label": "Planet",
+        "value": "Coruscant",
+        "route": "coruscant"
+      },
+      {
+        "label": "The Force",
+        "value": "Jedi Code",
+        "route": "the-force/jedi-code"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
       }
     ]
   },
@@ -71217,54 +75617,126 @@
         "label": "Conflict",
         "value": "Hundred-Year Darkness",
         "route": "wars-conflicts/hundred-year-darkness"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "battle-of-ruusan",
+    "slug": "exile-to-korriban",
     "links": [
       {
         "label": "Conflict",
-        "value": "New Sith Wars",
-        "route": "wars-conflicts/new-sith-wars"
+        "value": "Hundred-Year Darkness",
+        "route": "wars-conflicts/hundred-year-darkness"
       },
       {
         "label": "Planet",
-        "value": "Ruusan",
-        "route": "planet/ruusan"
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "seventh-battle-of-ruusan",
+    "slug": "fall-of-the-dark-jedi",
     "links": [
       {
         "label": "Conflict",
-        "value": "New Sith Wars",
-        "route": "wars-conflicts/new-sith-wars"
+        "value": "Hundred-Year Darkness",
+        "route": "wars-conflicts/hundred-year-darkness"
       },
       {
         "label": "Planet",
-        "value": "Ruusan",
-        "route": "planet/ruusan"
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "thought-bomb-detonation",
+    "slug": "founding-of-the-sith-empire",
     "links": [
       {
         "label": "Conflict",
-        "value": "New Sith Wars",
-        "route": "wars-conflicts/new-sith-wars"
+        "value": "Hundred-Year Darkness",
+        "route": "wars-conflicts/hundred-year-darkness"
       },
       {
         "label": "Planet",
-        "value": "Ruusan",
-        "route": "planet/ruusan"
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Conflict Between Light and Dark",
+        "route": "the-force/conflict-between-light-and-dark-side"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-exodus",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Hundred-Year Darkness",
+        "route": "wars-conflicts/hundred-year-darkness"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-temple-construction-on-korriban",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Hundred-Year Darkness",
+        "route": "wars-conflicts/hundred-year-darkness"
+      },
+      {
+        "label": "Planet",
+        "value": "Korriban",
+        "route": "korriban"
+      },
+      {
+        "label": "The Force",
+        "value": "Ancient Force Orders",
+        "route": "the-force/ancient-force-orders"
       }
     ]
   },
@@ -71278,6 +75750,16 @@
         "route": "wars-conflicts/new-sith-wars"
       },
       {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
         "label": "Planet",
         "value": "Jabiim",
         "route": "planet/jabiim"
@@ -71286,12 +75768,95 @@
   },
   {
     "category": "battles",
-    "slug": "sith-brotherhood-collapse",
+    "slug": "battle-of-ruusan",
     "links": [
       {
         "label": "Conflict",
         "value": "New Sith Wars",
         "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Thought Bomb Detonation",
+        "route": "wars-conflicts/battles/thought-bomb-detonation"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "fifth-battle-of-ruusan",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "first-battle-of-ruusan",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ruusan",
+        "route": "wars-conflicts/battles/battle-of-ruusan"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "fourth-battle-of-ruusan",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
       }
     ]
   },
@@ -71303,12 +75868,205 @@
         "label": "Conflict",
         "value": "New Sith Wars",
         "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
       }
     ]
   },
   {
     "category": "battles",
-    "slug": "destruction-of-hosnian-prime",
+    "slug": "rise-of-darth-bane",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Battle",
+        "value": "Thought Bomb Detonation",
+        "route": "wars-conflicts/battles/thought-bomb-detonation"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "second-battle-of-ruusan",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "seventh-battle-of-ruusan",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-brotherhood-collapse",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sith-lord-skirmish-on-tython",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Planet",
+        "value": "Tython",
+        "route": "planet/tython"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "sixth-battle-of-ruusan",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Battle",
+        "value": "Seventh Battle of Ruusan",
+        "route": "wars-conflicts/battles/seventh-battle-of-ruusan"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "third-battle-of-ruusan",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "thought-bomb-detonation",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "New Sith Wars",
+        "route": "wars-conflicts/new-sith-wars"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Bane",
+        "route": "sith/darth-bane"
+      },
+      {
+        "label": "Planet",
+        "value": "Ruusan",
+        "route": "planet/ruusan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "assault-on-starkiller-base-trench",
     "links": [
       {
         "label": "Conflict",
@@ -71316,25 +76074,106 @@
         "route": "wars-conflicts/cold-war"
       },
       {
-        "label": "Planet",
-        "value": "Hosnian Prime",
-        "route": "planet/hosnian-prime"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-starkiller-base",
-    "links": [
+        "label": "Battle",
+        "value": "Battle of Starkiller Base",
+        "route": "wars-conflicts/battles/battle-of-starkiller-base"
+      },
       {
-        "label": "Conflict",
-        "value": "Cold War (First Order)",
-        "route": "wars-conflicts/cold-war"
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
       },
       {
         "label": "Planet",
         "value": "Starkiller Base",
         "route": "planet/starkiller-base"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "attack-on-ahch-to",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      },
+      {
+        "label": "Planet",
+        "value": "Ahch-To",
+        "route": "planet/ahch-to"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Crait",
+        "route": "wars-conflicts/battles/battle-of-crait"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-ajan-kloss",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Poe Dameron",
+        "route": "characters/poe-dameron"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Exegol",
+        "route": "wars-conflicts/battles/battle-of-exegol"
+      },
+      {
+        "label": "Planet",
+        "value": "Ajan Kloss",
+        "route": "planet/ajan-kloss"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
       }
     ]
   },
@@ -71348,41 +76187,34 @@
         "route": "wars-conflicts/cold-war"
       },
       {
+        "label": "Jedi",
+        "value": "Luke Skywalker",
+        "route": "jedi/luke-skywalker"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
         "label": "Planet",
         "value": "Crait",
         "route": "planet/crait"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-exegol",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Cold War (First Order)",
-        "route": "wars-conflicts/cold-war"
       },
       {
-        "label": "Planet",
-        "value": "Exegol",
-        "route": "planet/exegol"
-      }
-    ]
-  },
-  {
-    "category": "battles",
-    "slug": "battle-of-takodana",
-    "links": [
-      {
-        "label": "Conflict",
-        "value": "Cold War (First Order)",
-        "route": "wars-conflicts/cold-war"
+        "label": "Battle",
+        "value": "Attack on Ahch-To",
+        "route": "wars-conflicts/battles/attack-on-ahch-to"
       },
       {
-        "label": "Planet",
-        "value": "Takodana",
-        "route": "planet/takodana"
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
       }
     ]
   },
@@ -71396,6 +76228,16 @@
         "route": "wars-conflicts/cold-war"
       },
       {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      },
+      {
         "label": "Planet",
         "value": "D'Qar",
         "route": "planet/d-qar"
@@ -71404,17 +76246,330 @@
   },
   {
     "category": "battles",
-    "slug": "battle-of-corellia",
+    "slug": "battle-of-exegol",
     "links": [
       {
         "label": "Conflict",
-        "value": "Great War (SWTOR)",
-        "route": "wars-conflicts/great-war"
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      },
+      {
+        "label": "Character",
+        "value": "Finn",
+        "route": "characters/finn"
+      },
+      {
+        "label": "Character",
+        "value": "Poe Dameron",
+        "route": "characters/poe-dameron"
       },
       {
         "label": "Planet",
-        "value": "Corellia",
-        "route": "planet/corellia"
+        "value": "Exegol",
+        "route": "planet/exegol"
+      },
+      {
+        "label": "Sith",
+        "value": "Darth Sidious",
+        "route": "sith/darth-sidious"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-kef-bir",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      },
+      {
+        "label": "Character",
+        "value": "Finn",
+        "route": "characters/finn"
+      },
+      {
+        "label": "Planet",
+        "value": "Kef Bir",
+        "route": "planet/kef-bir"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-kijimi",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      },
+      {
+        "label": "Character",
+        "value": "Poe Dameron",
+        "route": "characters/poe-dameron"
+      },
+      {
+        "label": "Planet",
+        "value": "Kijimi",
+        "route": "planet/kijimi"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-ord-mantell-cold-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Din Djarin",
+        "route": "characters/din-djarin"
+      },
+      {
+        "label": "Jedi",
+        "value": "Grogu",
+        "route": "jedi/grogu"
+      },
+      {
+        "label": "Planet",
+        "value": "Ord Mantell",
+        "route": "planet/ord-mantell"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-pasaana",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Rey",
+        "route": "characters/rey"
+      },
+      {
+        "label": "Character",
+        "value": "Finn",
+        "route": "characters/finn"
+      },
+      {
+        "label": "Planet",
+        "value": "Pasaana",
+        "route": "planet/pasaana"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-starkiller-base",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Han Solo",
+        "route": "characters/han-solo"
+      },
+      {
+        "label": "Character",
+        "value": "Finn",
+        "route": "characters/finn"
+      },
+      {
+        "label": "Character",
+        "value": "Poe Dameron",
+        "route": "characters/poe-dameron"
+      },
+      {
+        "label": "Planet",
+        "value": "Starkiller Base",
+        "route": "planet/starkiller-base"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-takodana",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      },
+      {
+        "label": "Planet",
+        "value": "Takodana",
+        "route": "planet/takodana"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "destruction-of-hosnian-prime",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Character",
+        "value": "Leia Organa",
+        "route": "characters/leia-organa"
+      },
+      {
+        "label": "Character",
+        "value": "Poe Dameron",
+        "route": "characters/poe-dameron"
+      },
+      {
+        "label": "Planet",
+        "value": "Hosnian Prime",
+        "route": "planet/hosnian-prime"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Starkiller Base",
+        "route": "wars-conflicts/battles/battle-of-starkiller-base"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-maz-kanatas-castle",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Cold War (First Order)",
+        "route": "wars-conflicts/cold-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Takodana",
+        "route": "wars-conflicts/battles/battle-of-takodana"
+      },
+      {
+        "label": "Planet",
+        "value": "Takodana",
+        "route": "planet/takodana"
+      },
+      {
+        "label": "Faction",
+        "value": "Resistance",
+        "route": "factions/resistance"
+      },
+      {
+        "label": "Faction",
+        "value": "First Order",
+        "route": "factions/first-order"
       }
     ]
   },
@@ -71428,9 +76583,118 @@
         "route": "wars-conflicts/great-war"
       },
       {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      },
+      {
         "label": "Planet",
         "value": "Alderaan",
         "route": "planet/alderaan"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-corellia",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-dantooine-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Dantooine",
+        "route": "dantooine"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-dromund-kaas-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Dromund Kaas",
+        "route": "planet/dromund-kaas"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-hoth-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Hoth",
+        "route": "hoth"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
       }
     ]
   },
@@ -71442,6 +76706,16 @@
         "label": "Conflict",
         "value": "Great War (SWTOR)",
         "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
       },
       {
         "label": "Planet",
@@ -71460,6 +76734,16 @@
         "route": "wars-conflicts/great-war"
       },
       {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      },
+      {
         "label": "Planet",
         "value": "Makeb",
         "route": "planet/makeb"
@@ -71468,7 +76752,7 @@
   },
   {
     "category": "battles",
-    "slug": "siege-of-kaon",
+    "slug": "battle-of-manaan-great-war",
     "links": [
       {
         "label": "Conflict",
@@ -71477,8 +76761,158 @@
       },
       {
         "label": "Planet",
-        "value": "Kaon",
-        "route": "planet/kaon"
+        "value": "Manaan",
+        "route": "planet/manaan"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-nal-hutta-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Organization",
+        "value": "Hutt Smuggling Rings",
+        "route": "organizations/hutt-smuggling-rings"
+      },
+      {
+        "label": "Planet",
+        "value": "Nal Hutta",
+        "route": "planet/nal-hutta"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-ord-mantell-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Ord Mantell",
+        "route": "planet/ord-mantell"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-taris-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Taris",
+        "route": "planet/taris"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-voss-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Voss",
+        "route": "planet/voss"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "battle-of-ziost-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Planet",
+        "value": "Ziost",
+        "route": "planet/ziost"
+      },
+      {
+        "label": "Sith",
+        "value": "Vitiate",
+        "route": "sith/darth-vitiate"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
       }
     ]
   },
@@ -71492,9 +76926,76 @@
         "route": "wars-conflicts/great-war"
       },
       {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      },
+      {
         "label": "Planet",
         "value": "Balmorra",
         "route": "planet/balmorra"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-kaon",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
+      },
+      {
+        "label": "Planet",
+        "value": "Kaon",
+        "route": "planet/kaon"
+      }
+    ]
+  },
+  {
+    "category": "battles",
+    "slug": "siege-of-kaon-great-war",
+    "links": [
+      {
+        "label": "Conflict",
+        "value": "Great War (SWTOR)",
+        "route": "wars-conflicts/great-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Siege of Kaon",
+        "route": "wars-conflicts/battles/siege-of-kaon"
+      },
+      {
+        "label": "Planet",
+        "value": "Kaon",
+        "route": "planet/kaon"
+      },
+      {
+        "label": "Faction",
+        "value": "Sith Empire",
+        "route": "factions/sith-empire"
+      },
+      {
+        "label": "Planet",
+        "value": "Corellia",
+        "route": "planet/corellia"
       }
     ]
   },
@@ -75189,8 +80690,23 @@
     "links": [
       {
         "label": "Battle",
-        "value": "First Battle of Geonosis",
-        "route": "wars-conflicts/battles/first-battle-of-geonosis"
+        "value": "Battle of Anaxes",
+        "route": "wars-conflicts/battles/battle-of-anaxes"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Boz Pity",
+        "route": "wars-conflicts/battles/battle-of-boz-pity"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Cato Neimoidia",
+        "route": "wars-conflicts/battles/battle-of-cato-neimoidia"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Christophsis",
+        "route": "wars-conflicts/battles/battle-of-christophsis"
       },
       {
         "label": "Battle",
@@ -75199,8 +80715,8 @@
       },
       {
         "label": "Battle",
-        "value": "Battle of Utapau",
-        "route": "wars-conflicts/battles/battle-of-utapau"
+        "value": "Battle of Felucia",
+        "route": "wars-conflicts/battles/battle-of-felucia"
       },
       {
         "label": "Battle",
@@ -75209,8 +80725,8 @@
       },
       {
         "label": "Battle",
-        "value": "Siege of Mandalore",
-        "route": "wars-conflicts/battles/siege-of-mandalore"
+        "value": "Battle of Malastare",
+        "route": "wars-conflicts/battles/battle-of-malastare"
       },
       {
         "label": "Battle",
@@ -75219,8 +80735,18 @@
       },
       {
         "label": "Battle",
-        "value": "Jedi Purge",
-        "route": "wars-conflicts/battles/jedi-purge"
+        "value": "Battle of Mygeeto",
+        "route": "wars-conflicts/battles/battle-of-mygeeto"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Quell",
+        "route": "wars-conflicts/battles/battle-of-quell"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ringo Vinda",
+        "route": "wars-conflicts/battles/battle-of-ringo-vinda"
       },
       {
         "label": "Chronicle",
@@ -75235,13 +80761,13 @@
     "links": [
       {
         "label": "Battle",
-        "value": "Battle of Yavin",
-        "route": "wars-conflicts/battles/battle-of-yavin"
+        "value": "Assault on Cloud City",
+        "route": "wars-conflicts/battles/assault-on-cloud-city"
       },
       {
         "label": "Battle",
-        "value": "Battle of Hoth",
-        "route": "wars-conflicts/battles/battle-of-hoth"
+        "value": "Battle of Atollon",
+        "route": "wars-conflicts/battles/battle-of-atollon"
       },
       {
         "label": "Battle",
@@ -75250,8 +80776,8 @@
       },
       {
         "label": "Battle",
-        "value": "Battle of Scarif",
-        "route": "wars-conflicts/battles/battle-of-scarif"
+        "value": "Battle of Hoth",
+        "route": "wars-conflicts/battles/battle-of-hoth"
       },
       {
         "label": "Battle",
@@ -75260,8 +80786,38 @@
       },
       {
         "label": "Battle",
-        "value": "Assault on Cloud City",
-        "route": "wars-conflicts/battles/assault-on-cloud-city"
+        "value": "Battle of Kessel",
+        "route": "wars-conflicts/battles/battle-of-kessel"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Mimban",
+        "route": "wars-conflicts/battles/battle-of-mimban"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Scarif",
+        "route": "wars-conflicts/battles/battle-of-scarif"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Yavin",
+        "route": "wars-conflicts/battles/battle-of-yavin"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle on Eadu",
+        "route": "wars-conflicts/battles/battle-on-eadu"
+      },
+      {
+        "label": "Battle",
+        "value": "Defense of Naboo (Galactic Civil War)",
+        "route": "wars-conflicts/battles/defense-of-naboo-galactic-civil-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Liberation of Sullust",
+        "route": "wars-conflicts/battles/liberation-of-sullust"
       },
       {
         "label": "Chronicle",
@@ -75276,8 +80832,13 @@
     "links": [
       {
         "label": "Battle",
-        "value": "Battle of Malachor V",
-        "route": "wars-conflicts/battles/battle-of-malachor-v"
+        "value": "Assault on Dantooine Enclave",
+        "route": "wars-conflicts/battles/assault-on-dantooine-enclave"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Althir",
+        "route": "wars-conflicts/battles/battle-of-althir"
       },
       {
         "label": "Battle",
@@ -75286,8 +80847,23 @@
       },
       {
         "label": "Battle",
-        "value": "Devastation of Cathar",
-        "route": "wars-conflicts/battles/devastation-of-cathar"
+        "value": "Battle of Jagelland",
+        "route": "wars-conflicts/battles/battle-of-jagelland"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Malachor V",
+        "route": "wars-conflicts/battles/battle-of-malachor-v"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Onderon (Mandalorian Wars)",
+        "route": "wars-conflicts/battles/battle-of-onderon-mandalorian-wars"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Serroco",
+        "route": "wars-conflicts/battles/battle-of-serroco"
       },
       {
         "label": "Battle",
@@ -75296,13 +80872,23 @@
       },
       {
         "label": "Battle",
-        "value": "Siege of Taris",
-        "route": "wars-conflicts/battles/siege-of-tar-is"
+        "value": "Battle of Vanquo",
+        "route": "wars-conflicts/battles/battle-of-vanquo"
       },
       {
         "label": "Battle",
-        "value": "Battle of Althir",
-        "route": "wars-conflicts/battles/battle-of-althir"
+        "value": "Devastation of Cathar",
+        "route": "wars-conflicts/battles/devastation-of-cathar"
+      },
+      {
+        "label": "Battle",
+        "value": "Final Confrontation at Malachor V",
+        "route": "wars-conflicts/battles/final-confrontation-at-malachor-v"
+      },
+      {
+        "label": "Battle",
+        "value": "Mandalorian Siege of Taris",
+        "route": "wars-conflicts/battles/mandalorian-siege-of-taris"
       },
       {
         "label": "Chronicle",
@@ -75317,8 +80903,8 @@
     "links": [
       {
         "label": "Battle",
-        "value": "Battle of Ossus",
-        "route": "wars-conflicts/battles/battle-of-ossus"
+        "value": "Assault on the Ossus Great Library",
+        "route": "wars-conflicts/battles/assault-on-ossus-library"
       },
       {
         "label": "Battle",
@@ -75327,8 +80913,8 @@
       },
       {
         "label": "Battle",
-        "value": "Battle of Yavin 4 (Exar Kun)",
-        "route": "wars-conflicts/battles/battle-of-yavin-4-exar-kun"
+        "value": "Battle of Foerost",
+        "route": "wars-conflicts/battles/battle-of-foerost"
       },
       {
         "label": "Battle",
@@ -75337,13 +80923,43 @@
       },
       {
         "label": "Battle",
+        "value": "Battle of Ossus",
+        "route": "wars-conflicts/battles/battle-of-ossus"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Yavin 4 (Exar Kun)",
+        "route": "wars-conflicts/battles/battle-of-yavin-4-exar-kun"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of the Cyax System",
+        "route": "wars-conflicts/battles/battle-of-cyax-system"
+      },
+      {
+        "label": "Battle",
         "value": "Duel on Ossus",
         "route": "wars-conflicts/battles/duel-on-ossus"
       },
       {
         "label": "Battle",
-        "value": "Sith Invasion of Ossus",
-        "route": "wars-conflicts/battles/sith-invasion-of-ossus"
+        "value": "Duel on Yavin 4 (Great Sith War)",
+        "route": "wars-conflicts/battles/duel-on-yavin-4-great-sith-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Invasion of Korriban (Great Sith War)",
+        "route": "wars-conflicts/battles/invasion-of-korriban-great-sith-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Krath Coup of Empress Teta",
+        "route": "wars-conflicts/battles/krath-coup-of-empress-teta"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Bombardment of Ambria",
+        "route": "wars-conflicts/battles/sith-bombardment-of-ambria"
       },
       {
         "label": "Chronicle",
@@ -75358,18 +80974,8 @@
     "links": [
       {
         "label": "Battle",
-        "value": "Sacking of Coruscant",
-        "route": "wars-conflicts/battles/sacking-of-coruscant"
-      },
-      {
-        "label": "Battle",
         "value": "Battle of Alderaan (Great Galactic War)",
         "route": "wars-conflicts/battles/battle-of-alderaan-great-galactic-war"
-      },
-      {
-        "label": "Battle",
-        "value": "Recapture of Korriban",
-        "route": "wars-conflicts/battles/recapture-of-korriban"
       },
       {
         "label": "Battle",
@@ -75378,13 +80984,53 @@
       },
       {
         "label": "Battle",
-        "value": "Siege of Balmorra",
-        "route": "wars-conflicts/battles/siege-of-balmorra"
+        "value": "Battle of Manaan (Great Galactic War)",
+        "route": "wars-conflicts/battles/battle-of-manaan-great-galactic-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Quesh (Great Galactic War)",
+        "route": "wars-conflicts/battles/battle-of-quesh-great-galactic-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Tython (Great Galactic War)",
+        "route": "wars-conflicts/battles/battle-of-tython-great-galactic-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Voss",
+        "route": "wars-conflicts/battles/battle-of-voss"
       },
       {
         "label": "Battle",
         "value": "Invasion of Ord Mantell",
         "route": "wars-conflicts/battles/invasion-of-ord-mantell"
+      },
+      {
+        "label": "Battle",
+        "value": "Recapture of Korriban",
+        "route": "wars-conflicts/battles/recapture-of-korriban"
+      },
+      {
+        "label": "Battle",
+        "value": "Sacking of Coruscant",
+        "route": "wars-conflicts/battles/sacking-of-coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Siege of Balmorra",
+        "route": "wars-conflicts/battles/siege-of-balmorra"
+      },
+      {
+        "label": "Battle",
+        "value": "Siege of Nal Hutta (Great Galactic War)",
+        "route": "wars-conflicts/battles/siege-of-nal-hutta-great-galactic-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Assault on Dromund Kaas",
+        "route": "wars-conflicts/battles/sith-assault-on-dromund-kaas"
       },
       {
         "label": "Chronicle",
@@ -75399,8 +81045,8 @@
     "links": [
       {
         "label": "Battle",
-        "value": "Battle of Troiken",
-        "route": "wars-conflicts/battles/battle-of-troiken"
+        "value": "Battle of Primus Goluud",
+        "route": "wars-conflicts/battles/battle-of-primus-goluud"
       },
       {
         "label": "Battle",
@@ -75409,8 +81055,33 @@
       },
       {
         "label": "Battle",
-        "value": "Battle of Primus Goluud",
-        "route": "wars-conflicts/battles/battle-of-primus-goluud"
+        "value": "Battle of Troiken",
+        "route": "wars-conflicts/battles/battle-of-troiken"
+      },
+      {
+        "label": "Battle",
+        "value": "Blockade of Thyferra",
+        "route": "wars-conflicts/battles/blockade-of-thyferra"
+      },
+      {
+        "label": "Battle",
+        "value": "Coruscant Financial Crisis",
+        "route": "wars-conflicts/battles/coruscant-financial-crisis"
+      },
+      {
+        "label": "Battle",
+        "value": "Jedi Intervention at Coruscant",
+        "route": "wars-conflicts/battles/jedi-intervention-at-coruscant"
+      },
+      {
+        "label": "Battle",
+        "value": "Naval Battle over Troiken",
+        "route": "wars-conflicts/battles/naval-battle-over-troiken"
+      },
+      {
+        "label": "Battle",
+        "value": "Siege of Formos",
+        "route": "wars-conflicts/battles/siege-of-formos"
       },
       {
         "label": "Battle",
@@ -75419,8 +81090,8 @@
       },
       {
         "label": "Battle",
-        "value": "Coruscant Financial Crisis",
-        "route": "wars-conflicts/battles/coruscant-financial-crisis"
+        "value": "Stark Hyperspace Ambush at Taanab",
+        "route": "wars-conflicts/battles/stark-hyperspace-ambush-at-taanab"
       },
       {
         "label": "Chronicle",
@@ -75440,13 +81111,8 @@
       },
       {
         "label": "Battle",
-        "value": "Fall of the Dark Jedi",
-        "route": "wars-conflicts/battles/fall-of-the-dark-jedi"
-      },
-      {
-        "label": "Battle",
-        "value": "Sith Exodus",
-        "route": "wars-conflicts/battles/sith-exodus"
+        "value": "Battle of Korriban (Ancient)",
+        "route": "wars-conflicts/battles/battle-of-korriban-ancient"
       },
       {
         "label": "Battle",
@@ -75455,8 +81121,38 @@
       },
       {
         "label": "Battle",
+        "value": "Dark Jedi Uprising on Coruscant",
+        "route": "wars-conflicts/battles/dark-jedi-uprising-on-coruscant"
+      },
+      {
+        "label": "Battle",
         "value": "Duel of the First Sith Lords",
         "route": "wars-conflicts/battles/duel-of-the-first-sith"
+      },
+      {
+        "label": "Battle",
+        "value": "Exile to Korriban",
+        "route": "wars-conflicts/battles/exile-to-korriban"
+      },
+      {
+        "label": "Battle",
+        "value": "Fall of the Dark Jedi",
+        "route": "wars-conflicts/battles/fall-of-the-dark-jedi"
+      },
+      {
+        "label": "Battle",
+        "value": "Founding of the Sith Empire",
+        "route": "wars-conflicts/battles/founding-of-the-sith-empire"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Exodus",
+        "route": "wars-conflicts/battles/sith-exodus"
+      },
+      {
+        "label": "Battle",
+        "value": "Sith Temple Construction on Korriban",
+        "route": "wars-conflicts/battles/sith-temple-construction-on-korriban"
       },
       {
         "label": "Chronicle",
@@ -75471,8 +81167,43 @@
     "links": [
       {
         "label": "Battle",
+        "value": "Battle of Jabiim (New Sith Wars)",
+        "route": "wars-conflicts/battles/battle-of-jabiim-new-sith-wars"
+      },
+      {
+        "label": "Battle",
         "value": "Battle of Ruusan",
         "route": "wars-conflicts/battles/battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Fifth Battle of Ruusan",
+        "route": "wars-conflicts/battles/fifth-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "First Battle of Ruusan",
+        "route": "wars-conflicts/battles/first-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Fourth Battle of Ruusan",
+        "route": "wars-conflicts/battles/fourth-battle-of-ruusan"
+      },
+      {
+        "label": "Battle",
+        "value": "Reformation of the Jedi Order",
+        "route": "wars-conflicts/battles/reformation-of-the-jedi-order"
+      },
+      {
+        "label": "Battle",
+        "value": "Rise of Darth Bane",
+        "route": "wars-conflicts/battles/rise-of-darth-bane"
+      },
+      {
+        "label": "Battle",
+        "value": "Second Battle of Ruusan",
+        "route": "wars-conflicts/battles/second-battle-of-ruusan"
       },
       {
         "label": "Battle",
@@ -75481,23 +81212,18 @@
       },
       {
         "label": "Battle",
-        "value": "Thought Bomb Detonation",
-        "route": "wars-conflicts/battles/thought-bomb-detonation"
-      },
-      {
-        "label": "Battle",
-        "value": "Battle of Jabiim (New Sith Wars)",
-        "route": "wars-conflicts/battles/battle-of-jabiim-new-sith-wars"
-      },
-      {
-        "label": "Battle",
         "value": "Sith Brotherhood Collapse",
         "route": "wars-conflicts/battles/sith-brotherhood-collapse"
       },
       {
         "label": "Battle",
-        "value": "Reformation of the Jedi Order",
-        "route": "wars-conflicts/battles/reformation-of-the-jedi-order"
+        "value": "Sith Lord Skirmish on Tython",
+        "route": "wars-conflicts/battles/sith-lord-skirmish-on-tython"
+      },
+      {
+        "label": "Battle",
+        "value": "Sixth Battle of Ruusan",
+        "route": "wars-conflicts/battles/sixth-battle-of-ruusan"
       },
       {
         "label": "Chronicle",
@@ -75512,13 +81238,18 @@
     "links": [
       {
         "label": "Battle",
-        "value": "Destruction of Hosnian Prime",
-        "route": "wars-conflicts/battles/destruction-of-hosnian-prime"
+        "value": "Assault on Starkiller Base Trench",
+        "route": "wars-conflicts/battles/assault-on-starkiller-base-trench"
       },
       {
         "label": "Battle",
-        "value": "Battle of Starkiller Base",
-        "route": "wars-conflicts/battles/battle-of-starkiller-base"
+        "value": "Attack on Ahch-To",
+        "route": "wars-conflicts/battles/attack-on-ahch-to"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ajan Kloss",
+        "route": "wars-conflicts/battles/battle-of-ajan-kloss"
       },
       {
         "label": "Battle",
@@ -75527,18 +81258,43 @@
       },
       {
         "label": "Battle",
+        "value": "Battle of D'Qar",
+        "route": "wars-conflicts/battles/battle-of-d-qar"
+      },
+      {
+        "label": "Battle",
         "value": "Battle of Exegol",
         "route": "wars-conflicts/battles/battle-of-exegol"
       },
       {
         "label": "Battle",
-        "value": "Battle of Takodana",
-        "route": "wars-conflicts/battles/battle-of-takodana"
+        "value": "Battle of Kef Bir",
+        "route": "wars-conflicts/battles/battle-of-kef-bir"
       },
       {
         "label": "Battle",
-        "value": "Battle of D'Qar",
-        "route": "wars-conflicts/battles/battle-of-d-qar"
+        "value": "Battle of Kijimi",
+        "route": "wars-conflicts/battles/battle-of-kijimi"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ord Mantell (Cold War)",
+        "route": "wars-conflicts/battles/battle-of-ord-mantell-cold-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Pasaana",
+        "route": "wars-conflicts/battles/battle-of-pasaana"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Starkiller Base",
+        "route": "wars-conflicts/battles/battle-of-starkiller-base"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Takodana",
+        "route": "wars-conflicts/battles/battle-of-takodana"
       },
       {
         "label": "Chronicle",
@@ -75553,13 +81309,28 @@
     "links": [
       {
         "label": "Battle",
+        "value": "Battle of Alderaan (Great War)",
+        "route": "wars-conflicts/battles/battle-of-alderaan-great-war"
+      },
+      {
+        "label": "Battle",
         "value": "Battle of Corellia",
         "route": "wars-conflicts/battles/battle-of-corellia"
       },
       {
         "label": "Battle",
-        "value": "Battle of Alderaan (Great War)",
-        "route": "wars-conflicts/battles/battle-of-alderaan-great-war"
+        "value": "Battle of Dantooine (Great War)",
+        "route": "wars-conflicts/battles/battle-of-dantooine-great-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Dromund Kaas (Great War)",
+        "route": "wars-conflicts/battles/battle-of-dromund-kaas-great-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Hoth (Great War)",
+        "route": "wars-conflicts/battles/battle-of-hoth-great-war"
       },
       {
         "label": "Battle",
@@ -75573,13 +81344,28 @@
       },
       {
         "label": "Battle",
-        "value": "Siege of Kaon",
-        "route": "wars-conflicts/battles/siege-of-kaon"
+        "value": "Battle of Manaan (Great War)",
+        "route": "wars-conflicts/battles/battle-of-manaan-great-war"
       },
       {
         "label": "Battle",
-        "value": "Fall of Balmorra (Great War)",
-        "route": "wars-conflicts/battles/fall-of-balmorra-great-war"
+        "value": "Battle of Nal Hutta (Great War)",
+        "route": "wars-conflicts/battles/battle-of-nal-hutta-great-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Ord Mantell (Great War)",
+        "route": "wars-conflicts/battles/battle-of-ord-mantell-great-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Taris (Great War)",
+        "route": "wars-conflicts/battles/battle-of-taris-great-war"
+      },
+      {
+        "label": "Battle",
+        "value": "Battle of Voss (Great War)",
+        "route": "wars-conflicts/battles/battle-of-voss-great-war"
       },
       {
         "label": "Chronicle",

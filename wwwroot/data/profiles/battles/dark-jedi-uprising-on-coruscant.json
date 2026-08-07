@@ -1,0 +1,42 @@
+{
+  "dateRange": "6950 BBY",
+  "overview": "The **Dark Jedi Uprising on Coruscant** (6950 BBY) was a pivotal engagement of the **Hundred-Year Darkness**, fought on or above **Coruscant**. Fallen jedi battling loyalist knights on coruscant temple steps during the hundred-year darkness schism with force storms tearing skyscrapers.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Hundred-Year Darkness in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Dark Jedi Uprising on Coruscant within the broader **Hundred-Year Darkness** campaign. Front-line reports describe fallen jedi battling loyalist knights on coruscant temple steps during the hundred-year darkness schism with force storms tearing skyscrapers.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **6950 BBY** places this conflict in the galactic timeline alongside other famous battles of the Hundred-Year Darkness.",
+  "significance": "The Dark Jedi Uprising on Coruscant illustrates how the Hundred-Year Darkness reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Dark Jedi Uprising on Coruscant opens on Coruscant",
+    "Forces of the Hundred-Year Darkness clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Coruscant",
+      "route": "coruscant"
+    }
+  ],
+  "affiliations": [
+    "Hundred-Year Darkness",
+    "Coruscant"
+  ],
+  "timeline": [
+    {
+      "era": "6950 BBY",
+      "event": "Dark Jedi Uprising on Coruscant begins"
+    },
+    {
+      "era": "6950 BBY",
+      "event": "Aftermath of Dark Jedi Uprising on Coruscant recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Tales of the Jedi — The Golden Age of the Sith"
+  ]
+}

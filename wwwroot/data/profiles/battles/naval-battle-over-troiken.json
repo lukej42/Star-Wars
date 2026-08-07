@@ -1,0 +1,53 @@
+{
+  "dateRange": "44 BBY",
+  "overview": "The **Naval Battle over Troiken** (44 BBY) was a pivotal engagement of the **Stark Hyperspace War**, fought on or above **Troiken**. Republic judicial forces frigates exchanging turbolaser fire with stark combine cruisers above troiken's ice world while troop shuttles descend to frozen caves.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Stark Hyperspace War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Naval Battle over Troiken within the broader **Stark Hyperspace War** campaign. Front-line reports describe republic judicial forces frigates exchanging turbolaser fire with stark combine cruisers above troiken's ice world while troop shuttles descend to frozen caves.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **44 BBY** places this conflict in the galactic timeline alongside other famous battles of the Stark Hyperspace War.",
+  "significance": "The Naval Battle over Troiken illustrates how the Stark Hyperspace War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Naval Battle over Troiken opens on Troiken",
+    "Forces of the Stark Hyperspace War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Trade Federation",
+      "route": "factions/trade-federation"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [
+    {
+      "text": "Battle of Troiken",
+      "route": "wars-conflicts/battles/battle-of-troiken"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Troiken",
+      "route": "planet/troiken"
+    }
+  ],
+  "affiliations": [
+    "Stark Hyperspace War",
+    "Troiken"
+  ],
+  "timeline": [
+    {
+      "era": "44 BBY",
+      "event": "Naval Battle over Troiken begins"
+    },
+    {
+      "era": "44 BBY",
+      "event": "Aftermath of Naval Battle over Troiken recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Republic — Stark Hyperspace War (comics)"
+  ]
+}

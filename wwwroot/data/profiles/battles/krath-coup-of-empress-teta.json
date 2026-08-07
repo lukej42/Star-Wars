@@ -1,0 +1,57 @@
+{
+  "dateRange": "3997 BBY",
+  "overview": "The **Krath Coup of Empress Teta** (3997 BBY) was a pivotal engagement of the **Great Sith War**, fought on or above **Empress Teta**. Krath cultists seizing empress teta's carbonite palaces with dark-side ritual fires reflecting off tetan spires as jedi negotiators are massacred.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great Sith War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Krath Coup of Empress Teta within the broader **Great Sith War** campaign. Front-line reports describe krath cultists seizing empress teta's carbonite palaces with dark-side ritual fires reflecting off tetan spires as jedi negotiators are massacred.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3997 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great Sith War.",
+  "significance": "The Krath Coup of Empress Teta illustrates how the Great Sith War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Krath Coup of Empress Teta opens on Empress Teta",
+    "Forces of the Great Sith War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Ulic Qel-Droma",
+      "route": "sith/ulic-qel-droma"
+    },
+    {
+      "label": "Sith",
+      "value": "Exar Kun",
+      "route": "sith/exar-kun"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Empress Teta",
+      "route": "planet/empress-teta"
+    }
+  ],
+  "affiliations": [
+    "Great Sith War",
+    "Empress Teta"
+  ],
+  "timeline": [
+    {
+      "era": "3997 BBY",
+      "event": "Krath Coup of Empress Teta begins"
+    },
+    {
+      "era": "3997 BBY",
+      "event": "Aftermath of Krath Coup of Empress Teta recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [
+    "Star Wars: Tales of the Jedi"
+  ],
+  "games": [
+    "Star Wars: Knights of the Old Republic"
+  ],
+  "books": [
+    "Tales of the Jedi (Dark Horse Comics)"
+  ]
+}

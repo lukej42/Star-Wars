@@ -23,6 +23,8 @@ from ship_related_archives import (
     SHIP_OVERRIDES,
     person_label,
 )
+from creature_related_archives import CREATURE_OVERRIDES, HABITAT_LINKS, HOMEWORLD_ALIASES
+from battle_related_archives import BATTLE_OVERRIDES, WAR_ARCHIVES
 from organization_related_archives import FACTION_LABELS as ORG_FACTION_LABELS, ORG_OVERRIDES
 from parse_csharp_data import (
     all_directory_entries,
@@ -37,6 +39,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "Data"
 PROFILES = ROOT / "wwwroot" / "data" / "profiles"
 MAX_LINKS = 24
+SETTLEMENT_SPECIES: dict[str, list[tuple[str, str]]] = {}
 CHRONICLE_MAX_LINKS = 32
 
 ROUTE_PATTERN = re.compile(r'Route\s*=\s*"([^"]+)"')
@@ -51,79 +54,143 @@ FORM_BLOCK = re.compile(
 STRING_LITERAL = re.compile(r'"([^"]+)"')
 
 BATTLE_PLANETS: dict[str, str] = {
-    "first-battle-of-geonosis": "Geonosis",
-    "battle-of-coruscant": "Coruscant",
-    "battle-of-utapau": "Utapau",
-    "battle-of-kashyyyk": "Kashyyyk",
-    "siege-of-mandalore": "Mandalore",
-    "battle-of-mon-cala": "Mon Cala",
-    "battle-of-yavin": "Yavin 4",
-    "battle-of-hoth": "Hoth",
-    "battle-of-endor": "Endor",
-    "battle-of-scarif": "Scarif",
-    "battle-of-jakku": "Jakku",
     "assault-on-cloud-city": "Bespin",
-    "battle-of-malachor-v": "Malachor V",
-    "battle-of-dxun": "Dxun",
-    "devastation-of-cathar": "Cathar",
-    "battle-of-telos-iv": "Telos IV",
-    "siege-of-tar-is": "Taris",
-    "battle-of-althir": "Althir",
-    "battle-of-ossus": "Ossus",
-    "battle-of-coruscant-great-sith-war": "Coruscant",
-    "battle-of-yavin-4-exar-kun": "Yavin 4",
-    "battle-of-kemplex-nine": "Kemplex IX",
-    "duel-on-ossus": "Ossus",
-    "sith-invasion-of-ossus": "Ossus",
-    "sacking-of-coruscant": "Coruscant",
+    "assault-on-dantooine-enclave": "Dantooine",
+    "assault-on-ossus-library": "Ossus",
+    "assault-on-starkiller-base-trench": "Starkiller Base",
+    "attack-on-ahch-to": "Ahch To",
+    "battle-of-ajan-kloss": "Ajan Kloss",
     "battle-of-alderaan-great-galactic-war": "Alderaan",
-    "recapture-of-korriban": "Korriban",
-    "battle-of-ilum-great-galactic-war": "Ilum",
-    "siege-of-balmorra": "Balmorra",
-    "invasion-of-ord-mantell": "Ord Mantell",
-    "battle-of-troiken": "Troiken",
-    "battle-of-qika": "Qika",
-    "battle-of-primus-goluud": "Primus Goluud",
-    "coruscant-financial-crisis": "Coruscant",
-    "battle-of-corbos": "Corbos",
-    "battle-of-tython": "Tython",
-    "battle-of-ruusan": "Ruusan",
-    "seventh-battle-of-ruusan": "Ruusan",
-    "thought-bomb-detonation": "Ruusan",
-    "battle-of-jabiim-new-sith-wars": "Jabiim",
-    "destruction-of-hosnian-prime": "Hosnian Prime",
-    "battle-of-starkiller-base": "Starkiller Base",
-    "battle-of-crait": "Crait",
-    "battle-of-exegol": "Exegol",
-    "battle-of-takodana": "Takodana",
-    "battle-of-d-qar": "D'Qar",
-    "battle-of-corellia": "Corellia",
     "battle-of-alderaan-great-war": "Alderaan",
+    "battle-of-althir": "Althir",
+    "battle-of-anaxes": "Anaxes",
+    "battle-of-atollon": "Atollon",
+    "battle-of-boz-pity": "Boz Pity",
+    "battle-of-cato-neimoidia": "Cato Neimoidia",
+    "battle-of-christophsis": "Christophsis",
+    "battle-of-corbos": "Corbos",
+    "battle-of-corellia": "Corellia",
+    "battle-of-coruscant": "Coruscant",
+    "battle-of-coruscant-great-sith-war": "Coruscant",
+    "battle-of-crait": "Crait",
+    "battle-of-cyax-system": "Ossus",
+    "battle-of-d-qar": "D'Qar",
+    "battle-of-dantooine-great-war": "Dantooine",
+    "battle-of-dromund-kaas-great-war": "Dromund Kaas",
+    "battle-of-dxun": "Dxun",
+    "battle-of-endor": "Endor",
+    "battle-of-exegol": "Exegol",
+    "battle-of-felucia": "Felucia",
+    "battle-of-foerost": "Foerost",
+    "battle-of-hoth": "Hoth",
+    "battle-of-hoth-great-war": "Hoth",
+    "battle-of-ilum-great-galactic-war": "Ilum",
     "battle-of-ilum-great-war": "Ilum",
+    "battle-of-jabiim-new-sith-wars": "Jabiim",
+    "battle-of-jagelland": "Althir",
+    "battle-of-jakku": "Jakku",
+    "battle-of-kashyyyk": "Kashyyyk",
+    "battle-of-kef-bir": "Kef Bir",
+    "battle-of-kemplex-nine": "Kemplex IX",
+    "battle-of-kessel": "Kessel",
+    "battle-of-kijimi": "Kijimi",
+    "battle-of-korriban-ancient": "Korriban",
     "battle-of-makeb": "Makeb",
-    "siege-of-kaon": "Kaon",
+    "battle-of-malachor-v": "Malachor V",
+    "battle-of-malastare": "Malastare",
+    "battle-of-manaan-great-galactic-war": "Manaan",
+    "battle-of-manaan-great-war": "Manaan",
+    "battle-of-mimban": "Mimban",
+    "battle-of-mon-cala": "Mon Cala",
+    "battle-of-mygeeto": "Mygeeto",
+    "battle-of-nal-hutta-great-war": "Nal Hutta",
+    "battle-of-onderon-mandalorian-wars": "Onderon",
+    "battle-of-ord-mantell-cold-war": "Ord Mantell",
+    "battle-of-ord-mantell-great-war": "Ord Mantell",
+    "battle-of-ossus": "Ossus",
+    "battle-of-pasaana": "Pasaana",
+    "battle-of-primus-goluud": "Primus Goluud",
+    "battle-of-qika": "Qika",
+    "battle-of-quell": "Quell",
+    "battle-of-quesh-great-galactic-war": "Quesh",
+    "battle-of-ringo-vinda": "Ringo Vinda",
+    "battle-of-ruusan": "Ruusan",
+    "battle-of-ryloth": "Ryloth",
+    "battle-of-saleucami": "Saleucami",
+    "battle-of-scarif": "Scarif",
+    "battle-of-serroco": "Serroco",
+    "battle-of-starkiller-base": "Starkiller Base",
+    "battle-of-sullust": "Sullust",
+    "battle-of-takodana": "Takodana",
+    "battle-of-taris-great-war": "Taris",
+    "battle-of-telos-iv": "Telos IV",
+    "battle-of-troiken": "Troiken",
+    "battle-of-tython": "Tython",
+    "battle-of-tython-great-galactic-war": "Tython",
+    "battle-of-umbara": "Umbara",
+    "battle-of-utapau": "Utapau",
+    "battle-of-vanquo": "Vanquo",
+    "battle-of-voss": "Voss",
+    "battle-of-voss-great-war": "Voss",
+    "battle-of-yavin": "Yavin 4",
+    "battle-of-yavin-4-exar-kun": "Yavin 4",
+    "battle-of-ziost-great-war": "Ziost",
+    "battle-on-eadu": "Eadu",
+    "blockade-of-thyferra": "Thyferra",
+    "coruscant-financial-crisis": "Coruscant",
+    "dark-jedi-uprising-on-coruscant": "Coruscant",
+    "defense-of-kamino": "Kamino",
+    "defense-of-naboo-galactic-civil-war": "Naboo",
+    "destruction-of-hosnian-prime": "Hosnian Prime",
+    "devastation-of-cathar": "Cathar",
+    "duel-on-ossus": "Ossus",
+    "duel-on-yavin-4-great-sith-war": "Yavin 4",
+    "exile-to-korriban": "Korriban",
     "fall-of-balmorra-great-war": "Balmorra",
-}
-
-SETTLEMENT_SPECIES: dict[str, list[tuple[str, str]]] = {
-    "mos-eisley": [("Human", "species/human"), ("Jawa", "species/jawa"), ("Tusken Raider", "species/tusken-raider")],
-    "mos-espa": [("Human", "species/human"), ("Jawa", "species/jawa")],
-    "anchorhead": [("Human", "species/human"), ("Jawa", "species/jawa")],
-    "theed": [("Human", "species/human"), ("Gungan", "species/gungan")],
-    "otoh-gunga": [("Gungan", "species/gungan")],
-    "rwookrrorro": [("Wookiee", "species/wookiee")],
-    "dac-city": [("Mon Calamari", "species/mon-calamari")],
-    "tipoca-city": [("Kaminoan", "species/kaminoan")],
-    "sundari": [("Mandalorian", "species/mandalorian")],
-    "kaas-city": [("Sith (Pureblood)", "species/sith-pureblood")],
-    "jedha-city": [("Human", "species/human")],
-    "mandalore-capital": [("Mandalorian", "species/mandalorian")],
-    "cloud-city": [("Human", "species/human"), ("Ugnaught", "species/ugnaught")],
-    "coruscant-underworld": [("Human", "species/human")],
-    "senate-district": [("Human", "species/human")],
-}
-
-AFFILIATION_ROUTES: dict[str, tuple[str, str, str]] = {
+    "fifth-battle-of-ruusan": "Ruusan",
+    "final-confrontation-at-malachor-v": "Malachor V",
+    "first-battle-of-geonosis": "Geonosis",
+    "first-battle-of-ruusan": "Ruusan",
+    "founding-of-the-sith-empire": "Korriban",
+    "fourth-battle-of-ruusan": "Ruusan",
+    "invasion-of-korriban-great-sith-war": "Korriban",
+    "invasion-of-ord-mantell": "Ord Mantell",
+    "jedi-intervention-at-coruscant": "Bordal",
+    "jedi-purge": "Coruscant",
+    "krath-coup-of-empress-teta": "Empress Teta",
+    "liberation-of-sullust": "Sullust",
+    "mandalorian-siege-of-taris": "Taris",
+    "naval-battle-over-troiken": "Troiken",
+    "raid-on-cathar-survivors": "Cathar",
+    "recapture-of-korriban": "Korriban",
+    "rise-of-darth-bane": "Ruusan",
+    "sacking-of-coruscant": "Coruscant",
+    "second-battle-of-geonosis": "Geonosis",
+    "second-battle-of-ruusan": "Ruusan",
+    "seventh-battle-of-ruusan": "Ruusan",
+    "siege-of-balmorra": "Balmorra",
+    "siege-of-formos": "Formos",
+    "siege-of-kaon": "Kaon",
+    "siege-of-kaon-great-war": "Kaon",
+    "siege-of-lothal": "Lothal",
+    "siege-of-mandalore": "Mandalore",
+    "siege-of-maz-kanatas-castle": "Takodana",
+    "siege-of-nal-hutta-great-galactic-war": "Nal Hutta",
+    "siege-of-rhen-var": "Rhen Var",
+    "siege-of-tar-is": "Taris",
+    "sith-assault-on-dromund-kaas": "Dromund Kaas",
+    "sith-bombardment-of-ambria": "Ambria",
+    "sith-invasion-of-ossus": "Ossus",
+    "sith-invasion-of-taris": "Taris",
+    "sith-lord-skirmish-on-tython": "Tython",
+    "sith-temple-construction-on-korriban": "Korriban",
+    "sith-victory-at-ziost": "Ziost",
+    "sixth-battle-of-ruusan": "Ruusan",
+    "skirmish-on-jedha": "Jedha",
+    "stark-hyperspace-ambush-at-taanab": "Taanab",
+    "third-battle-of-ruusan": "Ruusan",
+    "thought-bomb-detonation": "Ruusan",
+}AFFILIATION_ROUTES: dict[str, tuple[str, str, str]] = {
     "galactic empire": ("Faction", "Galactic Empire", "factions/empire"),
     "imperial navy": ("Military unit", "Imperial Navy", "military-units/galactic-empire/navy"),
     "imperial army": ("Military unit", "Imperial Army", "military-units/galactic-empire/army"),
@@ -372,6 +439,7 @@ class CrossLinkIndexes:
         self.factions: list[dict[str, str]] = []
         self.ships: list[dict[str, str]] = []
         self.organizations: list[dict[str, str]] = []
+        self.creatures: list[dict[str, str]] = []
         self.ship_by_norm: dict[str, dict[str, str]] = {}
         self.people: list[tuple[str, dict[str, str]]] = []
         self.people_by_norm: dict[str, tuple[str, dict[str, str]]] = {}
@@ -401,6 +469,7 @@ class CrossLinkIndexes:
         self.factions = load_factions()
         self.ships = all_directory_entries()["ships"]
         self.organizations = [normalize(entry) for entry in load_category("OrganizationData.cs")]
+        self.creatures = [normalize(entry) for entry in load_category("CreatureData.cs")]
         self.settlements = all_directory_entries()["settlements"]
         self.powers = all_directory_entries()["force-powers"]
         self.forms = self._load_forms()
@@ -448,6 +517,8 @@ class CrossLinkIndexes:
             "factions",
             "force-powers",
             "organizations",
+            "creatures",
+            "battles",
         ):
             self.profiles[category] = self._load_profiles(category)
 
@@ -1055,6 +1126,97 @@ class CrossLinkIndexes:
 
         return finalize_links(links)[:MAX_LINKS]
 
+    def links_for_creature(self, creature: dict[str, str]) -> list[dict[str, str]]:
+        slug = creature["slug"]
+        profile = self.profiles.get("creatures", {}).get(slug, {})
+        text = self._profile_text(profile, creature)
+        description = creature.get("description", "")
+        combined = f"{text} {description}".lower()
+        links: list[dict[str, str]] = []
+        seen: set[str] = set()
+
+        for label, value, route in CREATURE_OVERRIDES.get(slug, []):
+            self.add_link(links, seen, label, value, route)
+
+        homeworld = creature.get("homeworld", "")
+        if homeworld:
+            for part in re.split(r"[,;/]", homeworld):
+                planet = self._planet_for_name(part.strip())
+                if not planet:
+                    alias = HOMEWORLD_ALIASES.get(part.strip().lower())
+                    if alias:
+                        planet = next((p for p in self.planets if p["slug"] == alias), None)
+                if planet:
+                    self.add_link(links, seen, "Planet", planet["name"], planet["route"])
+
+        habitat = creature.get("habitat", "")
+        for label, value, route in HABITAT_LINKS.get(habitat, []):
+            self.add_link(links, seen, label, value, route)
+
+        for key, default_label in (
+            ("majorCharacters", "Character"),
+            ("planets", "Planet"),
+            ("keyFactions", "Faction"),
+        ):
+            for item in profile.get(key, []):
+                label = item.get("label") or default_label
+                self.add_link(links, seen, label, item["value"], item["route"])
+
+        for event in profile.get("majorEvents", []):
+            if isinstance(event, dict) and event.get("route"):
+                label = "Battle" if "battle" in event["route"] else "Event"
+                self.add_link(links, seen, label, event.get("text", event["route"]), event["route"])
+
+        for battle in self._match_battles(combined):
+            self.add_link(links, seen, "Battle", battle["name"], battle["route"])
+
+        self.add_affiliations(links, seen, profile)
+
+        for label, value, route in RELATED_ARCHIVE_OVERRIDES.get(("creatures", slug), []):
+            self.add_link(links, seen, label, value, route)
+
+        return finalize_links(links)[:MAX_LINKS]
+
+    def links_for_battle(self, battle: dict[str, str]) -> list[dict[str, str]]:
+        slug = battle["slug"]
+        profile = self.profiles.get("battles", {}).get(slug, {})
+        links: list[dict[str, str]] = []
+        seen: set[str] = set()
+
+        war = next((w for w in self.wars if w["slug"] == battle["warSlug"]), None)
+        if war:
+            self.add_link(links, seen, "Conflict", war["name"], war["route"])
+
+        for label, value, route in BATTLE_OVERRIDES.get(slug, []):
+            self.add_link(links, seen, label, value, route)
+
+        for label, value, route in WAR_ARCHIVES.get(battle["warSlug"], []):
+            self.add_link(links, seen, label, value, route)
+
+        planet_name = BATTLE_PLANETS.get(slug)
+        if planet_name:
+            planet = self._planet_for_name(planet_name)
+            if planet:
+                self.add_link(links, seen, "Planet", planet["name"], planet["route"])
+
+        for key, default_label in (
+            ("majorCharacters", "Character"),
+            ("keyFactions", "Faction"),
+            ("planets", "Planet"),
+        ):
+            for item in profile.get(key, []):
+                label = item.get("label") or default_label
+                self.add_link(links, seen, label, item["value"], item["route"])
+
+        for event in profile.get("majorEvents", []):
+            if isinstance(event, dict) and event.get("route"):
+                self.add_link(links, seen, "Battle", event.get("text", event["route"]), event["route"])
+
+        for label, value, route in RELATED_ARCHIVE_OVERRIDES.get(("battles", slug), []):
+            self.add_link(links, seen, label, value, route)
+
+        return finalize_links(links)[:MAX_LINKS]
+
     def build_all_entries(self) -> list[dict]:
         entries: list[dict] = []
 
@@ -1077,6 +1239,10 @@ class CrossLinkIndexes:
         for org in self.organizations:
             links = self.links_for_organization(org)
             entries.append({"category": "organizations", "slug": org["slug"], "links": links})
+
+        for creature in self.creatures:
+            links = self.links_for_creature(creature)
+            entries.append({"category": "creatures", "slug": creature["slug"], "links": links})
 
         for settlement in self.settlements:
             profile = self.profiles.get("settlements", {}).get(settlement["slug"], {})
@@ -1220,17 +1386,8 @@ class CrossLinkIndexes:
             entries.append({"category": "lightsaber-forms", "slug": form["slug"], "links": links[:MAX_LINKS]})
 
         for battle in self.battles:
-            links: list[dict[str, str]] = []
-            seen: set[str] = set()
-            war = next((w for w in self.wars if w["slug"] == battle["warSlug"]), None)
-            if war:
-                self.add_link(links, seen, "Conflict", war["name"], war["route"])
-            planet_name = BATTLE_PLANETS.get(battle["slug"])
-            if planet_name:
-                planet = self._planet_for_name(planet_name)
-                if planet:
-                    self.add_link(links, seen, "Planet", planet["name"], planet["route"])
-            entries.append({"category": "battles", "slug": battle["slug"], "links": links[:MAX_LINKS]})
+            links = self.links_for_battle(battle)
+            entries.append({"category": "battles", "slug": battle["slug"], "links": links})
 
         for unit in self.military_units:
             links: list[dict[str, str]] = []
@@ -1249,7 +1406,7 @@ class CrossLinkIndexes:
             seen: set[str] = set()
             for label, value, route in chronicle_links_for_war(war["slug"]):
                 self.add_link(links, seen, label, value, route)
-            for battle in self.battles_by_war.get(war["slug"], [])[:8]:
+            for battle in self.battles_by_war.get(war["slug"], [])[:12]:
                 self.add_link(links, seen, "Battle", battle["name"], battle["route"])
             entries.append({"category": "wars-conflicts", "slug": war["slug"], "links": finalize_links(links)})
 

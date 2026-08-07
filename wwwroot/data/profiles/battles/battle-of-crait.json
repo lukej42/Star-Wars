@@ -1,0 +1,74 @@
+{
+  "dateRange": "34 ABY",
+  "overview": "The **Battle of Crait** (34 ABY) was a pivotal engagement of the **Cold War**, fought on or above **Crait**. A decisive engagement of the cold war.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Cold War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Crait within the broader **Cold War** campaign. Front-line reports describe a decisive engagement of the cold war.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **34 ABY** places this conflict in the galactic timeline alongside other famous battles of the Cold War.",
+  "significance": "The Battle of Crait illustrates how the Cold War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Crait opens on Crait",
+    "Forces of the Cold War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Resistance",
+      "route": "factions/resistance"
+    },
+    {
+      "label": "Faction",
+      "value": "First Order",
+      "route": "factions/first-order"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Luke Skywalker",
+      "route": "jedi/luke-skywalker"
+    },
+    {
+      "label": "Character",
+      "value": "Leia Organa",
+      "route": "characters/leia-organa"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Attack on Ahch-To",
+      "route": "wars-conflicts/battles/attack-on-ahch-to"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Crait",
+      "route": "planet/crait"
+    }
+  ],
+  "affiliations": [
+    "Cold War",
+    "Crait"
+  ],
+  "timeline": [
+    {
+      "era": "34 ABY",
+      "event": "Battle of Crait begins"
+    },
+    {
+      "era": "34 ABY",
+      "event": "Aftermath of Battle of Crait recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode VII — The Force Awakens",
+    "Star Wars: Episode VIII — The Last Jedi",
+    "Star Wars: Episode IX — The Rise of Skywalker"
+  ],
+  "series": [
+    "Star Wars Resistance",
+    "Star Wars: The Mandalorian"
+  ],
+  "games": [],
+  "books": []
+}

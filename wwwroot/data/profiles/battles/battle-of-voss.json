@@ -1,0 +1,55 @@
+{
+  "dateRange": "3645 BBY",
+  "overview": "The **Battle of Voss** (3645 BBY) was a pivotal engagement of the **Great Galactic War**, fought on or above **Voss**. Republic and sith forces clashing on voss's misty mountain plateaus near mystic temples while gormak war parties watch from ridgelines.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great Galactic War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Voss within the broader **Great Galactic War** campaign. Front-line reports describe republic and sith forces clashing on voss's misty mountain plateaus near mystic temples while gormak war parties watch from ridgelines.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3645 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great Galactic War.",
+  "significance": "The Battle of Voss illustrates how the Great Galactic War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Voss opens on Voss",
+    "Forces of the Great Galactic War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Sith Empire",
+      "route": "factions/sith-empire"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [
+    {
+      "text": "Sacking of Coruscant",
+      "route": "wars-conflicts/battles/sacking-of-coruscant"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Voss",
+      "route": "planet/voss"
+    }
+  ],
+  "affiliations": [
+    "Great Galactic War",
+    "Voss"
+  ],
+  "timeline": [
+    {
+      "era": "3645 BBY",
+      "event": "Battle of Voss begins"
+    },
+    {
+      "era": "3645 BBY",
+      "event": "Aftermath of Battle of Voss recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: The Old Republic"
+  ],
+  "books": [
+    "The Old Republic novel series"
+  ]
+}

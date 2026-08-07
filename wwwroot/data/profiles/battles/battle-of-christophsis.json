@@ -1,0 +1,71 @@
+{
+  "dateRange": "22 BBY",
+  "overview": "The **Battle of Christophsis** (22 BBY) was a pivotal engagement of the **Clone Wars**, fought on or above **Christophsis**. Clone troopers and jedi generals anakin skywalker and obi-wan kenobi defending crystal cities from separatist droid armies while av-7 anti-vehicle cannons fire across christophsis skyline.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Clone Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Christophsis within the broader **Clone Wars** campaign. Front-line reports describe clone troopers and jedi generals anakin skywalker and obi-wan kenobi defending crystal cities from separatist droid armies while av-7 anti-vehicle cannons fire across christophsis skyline.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **22 BBY** places this conflict in the galactic timeline alongside other famous battles of the Clone Wars.",
+  "significance": "The Battle of Christophsis illustrates how the Clone Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Christophsis opens on Christophsis",
+    "Forces of the Clone Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    },
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Anakin Skywalker",
+      "route": "jedi/anakin-skywalker"
+    },
+    {
+      "label": "Jedi",
+      "value": "Obi-Wan Kenobi",
+      "route": "jedi/obi-wan-kenobi"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Christophsis",
+      "route": "planet/christophsis"
+    }
+  ],
+  "affiliations": [
+    "Clone Wars",
+    "Christophsis"
+  ],
+  "timeline": [
+    {
+      "era": "22 BBY",
+      "event": "Battle of Christophsis begins"
+    },
+    {
+      "era": "22 BBY",
+      "event": "Aftermath of Battle of Christophsis recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "games": [
+    "Star Wars Battlefront II (2017)",
+    "Star Wars: Republic Commando"
+  ],
+  "books": []
+}

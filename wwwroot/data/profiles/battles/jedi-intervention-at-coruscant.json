@@ -1,0 +1,54 @@
+{
+  "dateRange": "44 BBY",
+  "overview": "The **Jedi Intervention at Coruscant** (44 BBY) was a pivotal engagement of the **Stark Hyperspace War**, fought on or above **Bordal**. Jedi negotiators and republic troops intervening in bordal corporate riots sparked by stark hyperspace war economic collapse under senate spires.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Stark Hyperspace War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Jedi Intervention at Coruscant within the broader **Stark Hyperspace War** campaign. Front-line reports describe jedi negotiators and republic troops intervening in bordal corporate riots sparked by stark hyperspace war economic collapse under senate spires.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **44 BBY** places this conflict in the galactic timeline alongside other famous battles of the Stark Hyperspace War.",
+  "significance": "The Jedi Intervention at Coruscant illustrates how the Stark Hyperspace War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Jedi Intervention at Coruscant opens on Bordal",
+    "Forces of the Stark Hyperspace War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Trade Federation",
+      "route": "factions/trade-federation"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Qui-Gon Jinn",
+      "route": "jedi/qui-gon-jinn"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Bordal",
+      "route": "planet/bordal"
+    }
+  ],
+  "affiliations": [
+    "Stark Hyperspace War",
+    "Bordal"
+  ],
+  "timeline": [
+    {
+      "era": "44 BBY",
+      "event": "Jedi Intervention at Coruscant begins"
+    },
+    {
+      "era": "44 BBY",
+      "event": "Aftermath of Jedi Intervention at Coruscant recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Republic — Stark Hyperspace War (comics)"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "dateRange": "3973 BBY",
+  "overview": "The **Devastation of Cathar** (3973 BBY) was a pivotal engagement of the **Mandalorian Wars**, fought on or above **Cathar**. A decisive engagement of the mandalorian wars.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Mandalorian Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Devastation of Cathar within the broader **Mandalorian Wars** campaign. Front-line reports describe a decisive engagement of the mandalorian wars.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3973 BBY** places this conflict in the galactic timeline alongside other famous battles of the Mandalorian Wars.",
+  "significance": "The Devastation of Cathar illustrates how the Mandalorian Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Devastation of Cathar opens on Cathar",
+    "Forces of the Mandalorian Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Mandalorians",
+      "route": "factions/mandalorians"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Revan",
+      "route": "jedi/revan"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Cathar",
+      "route": "planet/cathar"
+    }
+  ],
+  "affiliations": [
+    "Mandalorian Wars",
+    "Cathar"
+  ],
+  "timeline": [
+    {
+      "era": "3973 BBY",
+      "event": "Devastation of Cathar begins"
+    },
+    {
+      "era": "3973 BBY",
+      "event": "Aftermath of Devastation of Cathar recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: Knights of the Old Republic",
+    "Star Wars: Knights of the Old Republic II"
+  ],
+  "books": [
+    "Star Wars: Knights of the Old Republic (comics)"
+  ]
+}

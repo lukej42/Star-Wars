@@ -1,0 +1,55 @@
+{
+  "dateRange": "3679 BBY",
+  "overview": "The **Sith Assault on Dromund Kaas** (3679 BBY) was a pivotal engagement of the **Great Galactic War**, fought on or above **Dromund Kaas**. Republic infiltration teams sabotaging sith citadel landing platforms on storm-wracked dromund kaas while imperial guards mobilize in rain-swept plazas.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great Galactic War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Sith Assault on Dromund Kaas within the broader **Great Galactic War** campaign. Front-line reports describe republic infiltration teams sabotaging sith citadel landing platforms on storm-wracked dromund kaas while imperial guards mobilize in rain-swept plazas.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3679 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great Galactic War.",
+  "significance": "The Sith Assault on Dromund Kaas illustrates how the Great Galactic War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Sith Assault on Dromund Kaas opens on Dromund Kaas",
+    "Forces of the Great Galactic War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Sith Empire",
+      "route": "factions/sith-empire"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [
+    {
+      "text": "Sacking of Coruscant",
+      "route": "wars-conflicts/battles/sacking-of-coruscant"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Dromund Kaas",
+      "route": "planet/dromund-kaas"
+    }
+  ],
+  "affiliations": [
+    "Great Galactic War",
+    "Dromund Kaas"
+  ],
+  "timeline": [
+    {
+      "era": "3679 BBY",
+      "event": "Sith Assault on Dromund Kaas begins"
+    },
+    {
+      "era": "3679 BBY",
+      "event": "Aftermath of Sith Assault on Dromund Kaas recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: The Old Republic"
+  ],
+  "books": [
+    "The Old Republic novel series"
+  ]
+}

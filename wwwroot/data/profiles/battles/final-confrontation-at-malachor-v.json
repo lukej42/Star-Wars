@@ -1,0 +1,67 @@
+{
+  "dateRange": "3960 BBY",
+  "overview": "The **Final Confrontation at Malachor V** (3960 BBY) was a pivotal engagement of the **Mandalorian Wars**, fought on or above **Malachor V**. Revan and malak leading republic forces against mandalorian clans at the mass shadow generator superweapon site with fractured ground and violet energy storms.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Mandalorian Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Final Confrontation at Malachor V within the broader **Mandalorian Wars** campaign. Front-line reports describe revan and malak leading republic forces against mandalorian clans at the mass shadow generator superweapon site with fractured ground and violet energy storms.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3960 BBY** places this conflict in the galactic timeline alongside other famous battles of the Mandalorian Wars.",
+  "significance": "The Final Confrontation at Malachor V illustrates how the Mandalorian Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Final Confrontation at Malachor V opens on Malachor V",
+    "Forces of the Mandalorian Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Mandalorians",
+      "route": "factions/mandalorians"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Revan",
+      "route": "jedi/revan"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Malak",
+      "route": "sith/darth-malak"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Battle of Malachor V",
+      "route": "wars-conflicts/battles/battle-of-malachor-v"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Malachor V",
+      "route": "planet/malachor-v"
+    }
+  ],
+  "affiliations": [
+    "Mandalorian Wars",
+    "Malachor V"
+  ],
+  "timeline": [
+    {
+      "era": "3960 BBY",
+      "event": "Final Confrontation at Malachor V begins"
+    },
+    {
+      "era": "3960 BBY",
+      "event": "Aftermath of Final Confrontation at Malachor V recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: Knights of the Old Republic",
+    "Star Wars: Knights of the Old Republic II"
+  ],
+  "books": [
+    "Star Wars: Knights of the Old Republic (comics)"
+  ]
+}

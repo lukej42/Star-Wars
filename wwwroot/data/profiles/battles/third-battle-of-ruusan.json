@@ -1,0 +1,49 @@
+{
+  "dateRange": "1002 BBY",
+  "overview": "The **Third Battle of Ruusan** (1002 BBY) was a pivotal engagement of the **New Sith Wars**, fought on or above **Ruusan**. Jedi lord hoth's army of light encircling sith fortifications on ruusan ridges before the thought bomb campaign begins.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the New Sith Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Third Battle of Ruusan within the broader **New Sith Wars** campaign. Front-line reports describe jedi lord hoth's army of light encircling sith fortifications on ruusan ridges before the thought bomb campaign begins.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **1002 BBY** places this conflict in the galactic timeline alongside other famous battles of the New Sith Wars.",
+  "significance": "The Third Battle of Ruusan illustrates how the New Sith Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Third Battle of Ruusan opens on Ruusan",
+    "Forces of the New Sith Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Darth Bane",
+      "route": "sith/darth-bane"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ruusan",
+      "route": "planet/ruusan"
+    }
+  ],
+  "affiliations": [
+    "New Sith Wars",
+    "Ruusan"
+  ],
+  "timeline": [
+    {
+      "era": "1002 BBY",
+      "event": "Third Battle of Ruusan begins"
+    },
+    {
+      "era": "1002 BBY",
+      "event": "Aftermath of Third Battle of Ruusan recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Darth Bane trilogy",
+    "Jedi vs. Sith (comics)"
+  ]
+}

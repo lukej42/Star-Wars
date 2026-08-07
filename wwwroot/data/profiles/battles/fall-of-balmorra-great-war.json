@@ -1,0 +1,48 @@
+{
+  "dateRange": "3642 BBY",
+  "overview": "The **Fall of Balmorra (Great War)** (3642 BBY) was a pivotal engagement of the **Great War (SWTOR)**, fought on or above **Balmorra**. A decisive engagement of the great war (swtor).\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great War (SWTOR) in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Fall of Balmorra (Great War) within the broader **Great War (SWTOR)** campaign. Front-line reports describe a decisive engagement of the great war (swtor).\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3642 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great War (SWTOR).",
+  "significance": "The Fall of Balmorra (Great War) illustrates how the Great War (SWTOR) reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Fall of Balmorra (Great War) opens on Balmorra",
+    "Forces of the Great War (SWTOR) clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Sith Empire",
+      "route": "factions/sith-empire"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Balmorra",
+      "route": "planet/balmorra"
+    }
+  ],
+  "affiliations": [
+    "Great War (SWTOR)",
+    "Balmorra"
+  ],
+  "timeline": [
+    {
+      "era": "3642 BBY",
+      "event": "Fall of Balmorra (Great War) begins"
+    },
+    {
+      "era": "3642 BBY",
+      "event": "Aftermath of Fall of Balmorra (Great War) recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: The Old Republic"
+  ],
+  "books": []
+}

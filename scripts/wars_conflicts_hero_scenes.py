@@ -58,252 +58,440 @@ WAR_SCENES: dict[str, str] = {
 
 BATTLE_SCENES: dict[str, str] = {
     # Clone Wars
-    "first-battle-of-geonosis": (
-        "First Battle of Geonosis arena spillover: clone trooper platoons in white armor firing "
-        "blaster rifles at advancing B1 battle droids and droidekas on red Geonosis rock fields, "
-        "AT-TE walkers and Hailfire droids exchanging fire, LAAT/i gunships dropping reinforcements"
+    "battle-of-anaxes": (
+        "Republic naval yard siege on Anaxes with Bad Batch commandos infiltrating Separatist algorithm core while Venator Star Destroyers exchange turbolaser fire over shipyards"
+    ),
+    "battle-of-boz-pity": (
+        "Republic assault on Separatist hospital world Boz Pity with gunships landing amid ruined medical towers while Asajj Ventress and General Grievous counterattack"
+    ),
+    "battle-of-cato-neimoidia": (
+        "Plo Koon's starfighter wing patrolling bridge cities of Cato Neimoidia when clone wingmen open fire during Order 66 over the Neimoidian purse world"
+    ),
+    "battle-of-christophsis": (
+        "Clone troopers and Jedi Generals Anakin Skywalker and Obi-Wan Kenobi defending crystal cities from Separatist droid armies while AV-7 Anti-Vehicle cannons fire across Christophsis skyline"
     ),
     "battle-of-coruscant": (
-        "Battle of Coruscant orbital siege: Venator and Separatist warships colliding above the "
-        "city-planet while ARC-170 starfighters weave through turbolaser fire over the senate dome"
+        "Cinematic Battle of Coruscant (19 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Clone Wars engagement"
     ),
-    "battle-of-utapau": (
-        "Battle of Utapau sinkhole city: 212th clone troopers on varactyl mounts pursuing battle "
-        "droids across tiered Pau'an platforms with UT-AT walkers descending the chasms"
+    "battle-of-felucia": (
+        "Jungle war on Felucia's fungal plains as Aayla Secura's clone troopers advance through giant mushroom forests before Order 66 turns their blasters on their Jedi commander"
     ),
     "battle-of-kashyyyk": (
-        "Battle of Kashyyyk treetop war: clone troopers and Wookiee warriors defending wooden "
-        "platforms from droid invaders among giant wroshyr trees and misty canopy"
+        "Cinematic Battle of Kashyyyk (19 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Clone Wars engagement"
     ),
-    "siege-of-mandalore": (
-        "Siege of Mandalore capital: 501st clone troopers and Bo-Katan's Nite Owls assaulting "
-        "Maul's Shadow Collective holdout amid domed city rooftops under orange twilight"
+    "battle-of-malastare": (
+        "Republic electro-proton bomb detonating on Malastare plains to collapse Separatist droid ranks while the Zillo Beast awakens beneath the battlefield rubble"
     ),
     "battle-of-mon-cala": (
-        "Battle of Mon Cala underwater conflict: Republic SCUBA clone troopers and Mon Calamari "
-        "militia battling Quarren and Separatist aqua droids in bioluminescent ocean trenches"
+        "Cinematic Battle of Mon Cala (20 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Clone Wars engagement"
+    ),
+    "battle-of-mygeeto": (
+        "Ki-Adi-Mundi leading clone troopers across Mygeeto's crystalline ice bridges while Separatist banking clan droids defend InterGalactic Banking Clan vaults under aurora skies"
+    ),
+    "battle-of-quell": (
+        "Republic cruiser convoy ambushed over Quell as Ahsoka Tano and Anakin Skywalker crash-land on a Resolute-class carrier amid flaming debris and vulture droid swarms"
+    ),
+    "battle-of-ringo-vinda": (
+        "Orbital ring-world battle station above Ringo Vinda with Tup's inhibitor chip malfunction triggering premature Order 66 execution in a crowded clone trooper barracks"
+    ),
+    "battle-of-ryloth": (
+        "Republic LAAT gunships and Mace Windu's assault force liberating Ryloth's dusty mesas from Separatist occupation while Twi'lek resistance fighters ambush droid patrols"
+    ),
+    "battle-of-saleucami": (
+        "Stass Allie's 91st Mobile Recon Corps pursuing Separatist forces across Saleucami's misty wetlands on speeder bikes before clone troopers execute Order 66"
+    ),
+    "battle-of-sullust": (
+        "Asajj Ventress and Count Dooku dueling amid volcanic Sullust factory districts while Separatist and Republic starfighter wings clash over glowing magma vents"
+    ),
+    "battle-of-umbara": (
+        "501st clone troopers marching through bioluminescent Umbaran jungle under treasonous General Pong Krell while AT-RT scouts clash with shadowy Umbaran militia"
+    ),
+    "battle-of-utapau": (
+        "Cinematic Battle of Utapau (19 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Clone Wars engagement"
+    ),
+    "defense-of-kamino": (
+        "Tipoca City under aquatic assault as Separatist aqua droids and Trident drills breach Kamino cloning facilities while ARC troopers and Jedi defend the rainy ocean platforms"
+    ),
+    "first-battle-of-geonosis": (
+        "Cinematic First Battle of Geonosis (22 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Clone Wars engagement"
     ),
     "jedi-purge": (
-        "Jedi Purge Order 66 on Coruscant: clone troopers firing blaster rifles at a Jedi Knight "
-        "defending the Temple's columned entrance while smoke rises from the High Council spire "
-        "and crimson emergency lighting washes the sacred steps"
+        "Cinematic Jedi Purge (19 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Clone Wars engagement"
+    ),
+    "second-battle-of-geonosis": (
+        "Republic forces assaulting Geonosis droid foundries with AT-TE walkers crossing red rock plains while Luminara Unduli and Anakin Skywalker strike the primary factory complex"
+    ),
+    "siege-of-mandalore": (
+        "Cinematic Siege of Mandalore (19 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Clone Wars engagement"
+    ),
+    # Cold War (First Order)
+    "assault-on-starkiller-base-trench": (
+        "Resistance X-wings diving through Starkiller Base thermal oscillator trenches while Han Solo's strike team plants charges inside icy corridors"
+    ),
+    "attack-on-ahch-to": (
+        "Luke Skywalker confronting Kylo Ren with a Force projection on Ahch-To's storm cliffs while Resistance evacuates from Crait in the distance"
+    ),
+    "battle-of-ajan-kloss": (
+        "Resistance command center on Ajan Kloss mobilizing the final fleet muster against Exegol while starfighters launch through jungle canopy bunkers"
+    ),
+    "battle-of-crait": (
+        "Cinematic Battle of Crait (34 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Cold War (First Order) engagement"
+    ),
+    "battle-of-d-qar": (
+        "Cinematic Battle of D'Qar (34 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Cold War (First Order) engagement"
+    ),
+    "battle-of-exegol": (
+        "Cinematic Battle of Exegol (35 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Cold War (First Order) engagement"
+    ),
+    "battle-of-kef-bir": (
+        "Rey and Resistance strike team navigating Death Star II wreckage oceans on Kef Bir while First Order treadspeeders chase them across rusted superstructure"
+    ),
+    "battle-of-kijimi": (
+        "First Order occupation troops patrolling Kijimi's snow alleys while Resistance saboteurs extract droidsmiths from crimson-lit workshops"
+    ),
+    "battle-of-ord-mantell-cold-war": (
+        "Mandalorian covert team rescuing Grogu from Imperial remnant forces on Ord Mantell spaceport while TIE fighters strafe docking rings"
+    ),
+    "battle-of-pasaana": (
+        "Speeder chase through Pasaana desert festival canyons as Resistance agents flee First Order jet troopers amid cheering crowds and spice mines"
+    ),
+    "battle-of-starkiller-base": (
+        "Cinematic Battle of Starkiller Base (34 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Cold War (First Order) engagement"
+    ),
+    "battle-of-takodana": (
+        "Cinematic Battle of Takodana (34 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Cold War (First Order) engagement"
+    ),
+    "destruction-of-hosnian-prime": (
+        "Cinematic Destruction of Hosnian Prime (34 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Cold War (First Order) engagement"
+    ),
+    "siege-of-maz-kanatas-castle": (
+        "First Order TIE fighters and stormtroopers destroying Maz Kanata's lakeside castle while Resistance X-wings arrive through forest canopy"
     ),
     # Galactic Civil War
-    "battle-of-yavin": (
-        "Battle of Yavin trench run: Rebel X-wings diving through the Death Star meridian trench "
-        "pursued by TIE fighters with Yavin 4's green moon looming in the background"
+    "assault-on-cloud-city": (
+        "Cinematic Assault on Cloud City (3 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Galactic Civil War engagement"
     ),
-    "battle-of-hoth": (
-        "Battle of Hoth ice plain: snowspeeders harpooning AT-AT walkers across blizzard-white "
-        "tundra while Rebel soldiers retreat toward Echo Base's shield generator"
+    "battle-of-atollon": (
+        "Grand Admiral Thrawn's Seventh Fleet blockading Atollon with Interdictor cruisers while Phoenix Squadron X-wings attempt to break through over coral mesas and Chopper Base"
     ),
     "battle-of-endor": (
-        "Battle of Endor forest moon: Ewok ambushes and Rebel commandos attacking Imperial "
-        "shield bunker while Millennium Falcon leads starfighters toward the unfinished Death Star"
+        "Cinematic Battle of Endor (4 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Galactic Civil War engagement"
     ),
-    "battle-of-scarif": (
-        "Battle of Scarif tropical beachhead: Rogue One rebels transmitting Death Star plans "
-        "while AT-ACT walkers and shore troopers advance through palm-lined surf under orbital barrage"
+    "battle-of-hoth": (
+        "Cinematic Battle of Hoth (3 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Galactic Civil War engagement"
     ),
     "battle-of-jakku": (
-        "Battle of Jakku desert wreckage field: New Republic Star Destroyers crashing into sands "
-        "while X-wings and TIE remnants dogfight above fallen Imperial walkers"
+        "Cinematic Battle of Jakku (5 ABY) on the battlefield: armies, starfighters, and environmental details unique to this Galactic Civil War engagement"
     ),
-    "assault-on-cloud-city": (
-        "Assault on Cloud City: Imperial stormtroopers marching through Bespin's golden corridors "
-        "as carbon-freeze chamber steam billows and Cloud Cars flee the occupied platform city"
+    "battle-of-kessel": (
+        "Millennium Falcon leading a spice mine revolt on Kessel while coaxium coaxing through the Kessel Run pursued by Imperial TIE patrols and pyke syndicate guards"
     ),
-    # Mandalorian Wars
-    "battle-of-malachor-v": (
-        "Battle of Malachor V superweapon site: Revan's Republic forces and Mandalorian clans "
-        "trapped around a mass shadow generator crater with fractured ground and violet energy"
+    "battle-of-mimban": (
+        "Imperial mud trenches on Mimban with swamp troopers and Han Solo's infantry unit advancing through toxic fog while AT-HA walkers sink into the mire"
     ),
-    "battle-of-dxun": (
-        "Battle of Dxun Onderon moon jungle: Mandalorian beskar-clad raiders ambushing Republic "
-        "soldiers among giant beast nests and dense moonlit foliage"
+    "battle-of-scarif": (
+        "Cinematic Battle of Scarif (0 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Galactic Civil War engagement"
     ),
-    "devastation-of-cathar": (
-        "Devastation of Cathar: Mandalorian Basilisk war droids strafing feline Cathar refugees "
-        "on coastal cliffs with burning settlements and blood-red sunset skies"
+    "battle-of-yavin": (
+        "Cinematic Battle of Yavin (0 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Galactic Civil War engagement"
     ),
-    "battle-of-telos-iv": (
-        "Battle of Telos IV restoration world: Republic fleet bombarding Citadel Station orbit "
-        "while Sith troopers and HK-series droids fight across sterile white recovery platforms"
+    "battle-on-eadu": (
+        "Rebel commandos raiding Imperial kyber research facility on storm-lashed Eadu cliffs while X-wings strafe landing platforms above the research spire"
     ),
-    "siege-of-tar-is": (
-        "Siege of Taris Undercity: Mandalorian shock troops descending into rust-red Taris slums "
-        "while Republic defenders hold barricades beneath the upper city skyline"
+    "defense-of-naboo-galactic-civil-war": (
+        "Rebel fleet and Naboo starfighters repelling Imperial Operation: Cinder bombardment of Naboo's oceans while Leia Organa coordinates planetary defense from Theed"
     ),
-    "battle-of-althir": (
-        "Battle of Althir frozen tundra: Mandalorian Crusader columns advancing across ice fields "
-        "against Republic artillery emplacements under aurora-lit polar skies"
+    "liberation-of-sullust": (
+        "New Republic commandos and Sullustan resistance fighters seizing Imperial factory districts after Endor while Star Destroyer debris still burns in orbit"
     ),
-    # Great Sith War
-    "battle-of-ossus": (
-        "Battle of Ossus Great Library: Jedi evacuating holocrons as Sith warships bombard "
-        "mountain archives and Naga Sadow's forces storm terraced temple campuses"
+    "siege-of-lothal": (
+        "Imperial Star Destroyers bombarding Lothal's capital while Spectre cell rebels defend dome settlements and Ezra Bridger summons purrgil to cripple the blockade"
     ),
-    "battle-of-coruscant-great-sith-war": (
-        "Battle of Coruscant Great Sith War: Krath cult war droids and Sith warriors breaching "
-        "the Jedi Temple district while Coruscant skylines burn under crimson Force storms"
-    ),
-    "battle-of-yavin-4-exar-kun": (
-        "Battle of Yavin 4 Exar Kun era: Massassi warriors constructing Sith temples while "
-        "Republic forces land on jungle moon beaches under ancient pyramid silhouettes"
-    ),
-    "battle-of-kemplex-nine": (
-        "Battle of Kemplex Nine Cron Cluster: Sith superweapon detonation ripping a nebula apart "
-        "as Jedi starfighters flee collapsing stellar nurseries in blinding white light"
-    ),
-    "duel-on-ossus": (
-        "Duel on Ossus between Jedi Master Ood Bnar rooted as a tree and Sith Lord Qordis amid "
-        "falling library towers and emerald Force energy on a crumbling cliff"
-    ),
-    "sith-invasion-of-ossus": (
-        "Sith invasion of Ossus landing beaches: Sith dropships unloading Massassi legions "
-        "against Jedi barricades below the Great Jedi Library mesa at dawn"
+    "skirmish-on-jedha": (
+        "Saw Gerrera's Partisans ambushing Imperial patrols in Jedha City's desert shrines while Kyber crystal convoys move toward the Death Star under crimson kyber-lit skies"
     ),
     # Great Galactic War
-    "sacking-of-coruscant": (
-        "Sacking of Coruscant Treaty of Coruscant era: Sith Imperial troops marching through "
-        "smoke-filled senate plaza while Jedi Temple spires burn and shuttles evacuate civilians"
-    ),
     "battle-of-alderaan-great-galactic-war": (
-        "Battle of Alderaan Great Galactic War: Sith invasion force landing on Alderaan's green "
-        "hills while noble house soldiers and Republic troopers defend mountain passes"
-    ),
-    "recapture-of-korriban": (
-        "Recapture of Korriban: Republic assault shuttles descending on red desert Valley of "
-        "the Dark Lords as Sith acolytes defend ancient tombs beneath storm clouds"
+        "Cinematic Battle of Alderaan (Great Galactic War) (3667 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Galactic War engagement"
     ),
     "battle-of-ilum-great-galactic-war": (
-        "Battle of Ilum crystal caves Great Galactic War: Republic and Sith troopers fighting "
-        "in icy blue caverns lit by exposed kyber crystal veins and frozen waterfalls"
+        "Cinematic Battle of Ilum (Great Galactic War) (3665 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Galactic War engagement"
     ),
-    "siege-of-balmorra": (
-        "Siege of Balmorra weapons factories: colossal war droid assembly lines exploding as "
-        "Republic commandos and Sith marauders clash on industrial catwalks"
+    "battle-of-manaan-great-galactic-war": (
+        "Underwater Selkath cities on Manaan rocked by depth charges as Republic submersibles skirmish with Sith aqua troopers near kolto harvesting stations"
+    ),
+    "battle-of-quesh-great-galactic-war": (
+        "Toxic Quesh venom refineries exploding as Republic and Sith troopers fight in hazmat armor amid yellow-green chemical fog"
+    ),
+    "battle-of-tython-great-galactic-war": (
+        "Sith invasion force breaching Je'daii temple mesas on Tython with crimson saber fire reflecting off ancient stone arches"
+    ),
+    "battle-of-voss": (
+        "Republic and Sith forces clashing on Voss's misty mountain plateaus near Mystic temples while Gormak war parties watch from ridgelines"
     ),
     "invasion-of-ord-mantell": (
-        "Invasion of Ord Mantell junkyard plains: Sith drop pods landing among rusted starship "
-        "hulks while Republic militia engage in close quarters across scrap canyons"
+        "Cinematic Invasion of Ord Mantell (3665 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Galactic War engagement"
     ),
-    # Stark Hyperspace War
-    "battle-of-troiken": (
-        "Battle of Troiken ice caves: Ithorian and Stark Combine soldiers sheltering in frozen "
-        "caverns while Trade Federation droid army probes the blizzard outside"
+    "recapture-of-korriban": (
+        "Cinematic Recapture of Korriban (3681 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Galactic War engagement"
     ),
-    "battle-of-qika": (
-        "Battle of Qika arid trade world: corporate security droids and Stark mercenaries "
-        "defending spice convoy landing pads against Republic Judicial Forces"
+    "sacking-of-coruscant": (
+        "Cinematic Sacking of Coruscant (3653 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Galactic War engagement"
     ),
-    "battle-of-primus-goluud": (
-        "Battle of Primus Goluud solar flare crisis: Jedi and Republic fleet caught in "
-        "scorching red stellar radiation above a dying star with failing deflector shields"
+    "siege-of-balmorra": (
+        "Cinematic Siege of Balmorra (3667 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Galactic War engagement"
     ),
-    "stark-alliance-collapse": (
-        "Stark Alliance collapse summit chaos: holographic treaty tables shattering as corporate "
-        "fleets withdraw and panicked diplomats flee a orbiting conference station"
+    "siege-of-nal-hutta-great-galactic-war": (
+        "Republic blockade of Nal Hutta's polluted swamps while Hutt Cartel mercenaries negotiate with both Sith and Republic envoys under neon-lit palaces"
     ),
-    "coruscant-financial-crisis": (
-        "Coruscant financial crisis riots: senate district crowds and corporate lobbyists "
-        "clashing with Republic security droids beneath towering banking spires after Stark fallout"
+    "sith-assault-on-dromund-kaas": (
+        "Republic infiltration teams sabotaging Sith citadel landing platforms on storm-wracked Dromund Kaas while Imperial guards mobilize in rain-swept plazas"
+    ),
+    "sith-invasion-of-taris": (
+        "Sith Imperial troopers marching through Taris Undercity rubble while Republic evacuation transports lift off under orbital bombardment"
+    ),
+    "sith-victory-at-ziost": (
+        "Sith Imperial occupation of Ziost's frozen citadels with dark-side ice storms swirling above ancient Sith monoliths and chained prisoners"
+    ),
+    # Great Sith War
+    "assault-on-ossus-library": (
+        "Jedi evacuating holocrons from Ossus Great Library mesas as Sith warships bombard mountain archives and Naga Sadow's forces storm terraced campuses"
+    ),
+    "battle-of-coruscant-great-sith-war": (
+        "Cinematic Battle of Coruscant (Great Sith War) (3996 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Sith War engagement"
+    ),
+    "battle-of-foerost": (
+        "Krath and Sith fleet capturing Republic shipyards at Foerost with Sith sorcery storms rolling over orbital construction rings and fleeing Jedi cruisers"
+    ),
+    "battle-of-kemplex-nine": (
+        "Cinematic Battle of Kemplex IX (3996 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Sith War engagement"
+    ),
+    "battle-of-ossus": (
+        "Cinematic Battle of Ossus (3996 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Sith War engagement"
+    ),
+    "battle-of-yavin-4-exar-kun": (
+        "Cinematic Battle of Yavin 4 (Exar Kun) (3997 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Sith War engagement"
+    ),
+    "battle-of-cyax-system": (
+        "Republic and Jedi fleet engaging Sith battle groups near Ossus with capital ship broadside exchanges lighting the nebula between wrecked frigates"
+    ),
+    "duel-on-ossus": (
+        "Cinematic Duel on Ossus (3996 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Sith War engagement"
+    ),
+    "duel-on-yavin-4-great-sith-war": (
+        "Exar Kun corrupting Jedi apprentices in Massassi temples on Yavin 4 jungle moon with Sith alchemical pyramids glowing under green canopies"
+    ),
+    "invasion-of-korriban-great-sith-war": (
+        "Sith Massassi warriors reclaiming Korriban tombs while Republic expeditionary forces descend into the Valley of the Dark Lords under crimson storm clouds"
+    ),
+    "krath-coup-of-empress-teta": (
+        "Krath cultists seizing Empress Teta's carbonite palaces with dark-side ritual fires reflecting off tetan spires as Jedi negotiators are massacred"
+    ),
+    "sith-bombardment-of-ambria": (
+        "Sith fleet glassing Ambria's wasteland surface where Naddist cultists once ruled, Jedi evacuation shuttles lifting off through ash clouds"
+    ),
+    "sith-invasion-of-ossus": (
+        "Cinematic Sith Invasion of Ossus (3996 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great Sith War engagement"
+    ),
+    # Great War (SWTOR)
+    "battle-of-alderaan-great-war": (
+        "Cinematic Battle of Alderaan (Great War) (3643 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great War (SWTOR) engagement"
+    ),
+    "battle-of-corellia": (
+        "Cinematic Battle of Corellia (3641 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great War (SWTOR) engagement"
+    ),
+    "battle-of-dantooine-great-war": (
+        "Republic troopers defending Dantooine agricultural settlements against Sith Imperial invasion dropships over grassy plains"
+    ),
+    "battle-of-dromund-kaas-great-war": (
+        "Republic covert assault on Dromund Kaas Imperial citadel spires during renewed war offensives with lightning storms over the Sith capital"
+    ),
+    "battle-of-hoth-great-war": (
+        "SWTOR-era Republic and Imperial forces clashing in Hoth's ice trenches around downed dreadnought wreckage under blizzard-white skies"
+    ),
+    "battle-of-ilum-great-war": (
+        "Cinematic Battle of Ilum (Great War) (3640 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great War (SWTOR) engagement"
+    ),
+    "battle-of-makeb": (
+        "Cinematic Battle of Makeb (3638 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great War (SWTOR) engagement"
+    ),
+    "battle-of-manaan-great-war": (
+        "Underwater battle for Manaan kolto fields with Republic submarines engaging Imperial depth charges near Ahto City domes"
+    ),
+    "battle-of-nal-hutta-great-war": (
+        "Hutt Cartel mercenaries fighting alongside Sith Imperial units in Nal Hutta swamp palace districts during a Republic raid"
+    ),
+    "battle-of-ord-mantell-great-war": (
+        "Separatist-style urban warfare on Ord Mantell junkyard plains as Republic militia engage Sith Imperial troopers among rusted starship hulks"
+    ),
+    "battle-of-taris-great-war": (
+        "Republic restoration efforts on Taris overrun by Sith Imperial invasion with undercity rakghoul outbreaks amid orbital bombardment"
+    ),
+    "battle-of-voss-great-war": (
+        "Republic and Imperial forces skirmishing on Voss mountain shrines while Voss Mystics observe from mist-shrouded cliffs"
+    ),
+    "battle-of-ziost-great-war": (
+        "Vitiate's Sith ritual consuming Ziost's surface in black-winged dark-side energy while Republic evac ships flee the frozen world"
+    ),
+    "fall-of-balmorra-great-war": (
+        "Cinematic Fall of Balmorra (Great War) (3642 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great War (SWTOR) engagement"
+    ),
+    "siege-of-kaon": (
+        "Cinematic Siege of Kaon (3641 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Great War (SWTOR) engagement"
+    ),
+    "siege-of-kaon-great-war": (
+        "Imperial troopers defending Kaon weapon forges while Republic assault pods breach red-lit industrial hive spires"
     ),
     # Hundred-Year Darkness
     "battle-of-corbos": (
-        "Battle of Corbos volcanic purge: Dark Jedi exiles and loyalist Jedi knights dueling "
-        "on basalt plains with lava rivers and collapsing obsidian fortresses"
+        "Cinematic Battle of Corbos (6900 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Hundred-Year Darkness engagement"
     ),
-    "fall-of-the-dark-jedi": (
-        "Fall of the Dark Jedi schism: robed fallen Jedi facing their former brethren on a "
-        "storm-wracked temple plateau as Force lightning splits the sky"
-    ),
-    "sith-exodus": (
-        "Sith Exodus starship departure: battered exiled Dark Jedi fleet fleeing known space "
-        "into unknown hyperspace routes beyond the Republic frontier nebula"
+    "battle-of-korriban-ancient": (
+        "Dark Jedi conquerors dueling native Sith kings in Korriban tombs with red blades reflecting off desert cliffs and Sith holocrons"
     ),
     "battle-of-tython": (
-        "Battle of Tython ancient cradle: early Je'daii masters channeling Force storms on "
-        "mountain mesas while dark-side schismatics assault the first temple city"
+        "Cinematic Battle of Tython (6950 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Hundred-Year Darkness engagement"
+    ),
+    "dark-jedi-uprising-on-coruscant": (
+        "Fallen Jedi battling loyalist Knights on Coruscant temple steps during the Hundred-Year Darkness schism with Force storms tearing skyscrapers"
     ),
     "duel-of-the-first-sith": (
-        "Duel of the First Sith Lords on a desolate alien world: two armored Sith founders "
-        "crossing red lightsabers amid thunder and crimson aurora over Sith temple foundations"
+        "Cinematic Duel of the First Sith Lords (6900 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Hundred-Year Darkness engagement"
+    ),
+    "exile-to-korriban": (
+        "Exiled Dark Jedi fleet arriving on Korriban red deserts to subjugate native Sith species and forge the first Sith Empire beneath thunderous violet skies"
+    ),
+    "fall-of-the-dark-jedi": (
+        "Cinematic Fall of the Dark Jedi (6900 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Hundred-Year Darkness engagement"
+    ),
+    "founding-of-the-sith-empire": (
+        "First Sith Lords crowning themselves in Korriban's Valley of the Dark Lords with crimson Force lightning illuminating ancient tombs and Massassi slaves"
+    ),
+    "sith-exodus": (
+        "Cinematic Sith Exodus (6900 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Hundred-Year Darkness engagement"
+    ),
+    "sith-temple-construction-on-korriban": (
+        "Massassi slaves raising monolithic Sith temples on Korriban ridgelines while Dark Jedi architects channel Force energy into stone foundations"
+    ),
+    # Mandalorian Wars
+    "assault-on-dantooine-enclave": (
+        "Mandalorian raiders bombarding the Jedi Enclave on Dantooine's grassy plains while Padawans evacuate through subterranean root cellars"
+    ),
+    "battle-of-althir": (
+        "Cinematic Battle of Althir (3965 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Mandalorian Wars engagement"
+    ),
+    "battle-of-dxun": (
+        "Cinematic Battle of Dxun (3963 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Mandalorian Wars engagement"
+    ),
+    "battle-of-jagelland": (
+        "Republic hammerhead cruisers engaging Mandalorian warships over Althir's polar seas while boarding parties clash on frost-covered carrier decks"
+    ),
+    "battle-of-malachor-v": (
+        "Cinematic Battle of Malachor V (3960 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Mandalorian Wars engagement"
+    ),
+    "battle-of-onderon-mandalorian-wars": (
+        "Mandalorian Basilisk war droids strafing Onderon's jungle canopy while Republic forces and beast-riders counterattack beneath Iziz city walls"
+    ),
+    "battle-of-serroco": (
+        "Mandalorian nuclear bombardment flattening Serroco's Stereb cities while Republic fleet officers watch frigates vaporize from Basilisk war droid strikes"
+    ),
+    "battle-of-telos-iv": (
+        "Cinematic Battle of Telos IV (3958 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Mandalorian Wars engagement"
+    ),
+    "battle-of-vanquo": (
+        "Republic miners and Jedi strike teams ambushing Mandalorian convoys on Vanquo's dusty mining mesas before the front collapses toward Taris"
+    ),
+    "devastation-of-cathar": (
+        "Cinematic Devastation of Cathar (3973 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Mandalorian Wars engagement"
+    ),
+    "final-confrontation-at-malachor-v": (
+        "Revan and Malak leading Republic forces against Mandalorian clans at the mass shadow generator superweapon site with fractured ground and violet energy storms"
+    ),
+    "mandalorian-siege-of-taris": (
+        "Mandalorian Neo-Crusaders besieging Taris upper city while Republic evacuation ships lift off from the Undercity as orbital bombardment lights the skyline"
+    ),
+    "raid-on-cathar-survivors": (
+        "Mandalorian extermination squads hunting remaining Cathar refugees across coastal cliffs years after the Devastation of Cathar under blood-red skies"
+    ),
+    "siege-of-rhen-var": (
+        "Frozen citadel siege on Rhen Var with Republic soldiers defending ice temples against Mandalorian shock troops under aurora-lit polar storms"
+    ),
+    "siege-of-tar-is": (
+        "Cinematic Siege of Taris (3962 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Mandalorian Wars engagement"
     ),
     # New Sith Wars
-    "battle-of-ruusan": (
-        "Battle of Ruusan mist valleys: Jedi Army of Light and Brotherhood of Darkness infantry "
-        "exchanging blaster and lightsaber fire across fog-shrouded Ruusan hills"
-    ),
-    "seventh-battle-of-ruusan": (
-        "Seventh Battle of Ruusan final campaign: Lord Kaan's Sith forces charging Jedi "
-        "fortifications under grey storm clouds before the thought bomb valley"
-    ),
-    "thought-bomb-detonation": (
-        "Thought bomb detonation cavern: blinding violet Force energy sphere consuming Sith "
-        "and Jedi spirits in Ruusan underground chasm with collapsing rock faces"
-    ),
     "battle-of-jabiim-new-sith-wars": (
-        "Battle of Jabiim New Sith Wars mud front: Republic soldiers and Sith troopers slogging "
-        "through rain-soaked trenches on Jabiim's industrial mining plateaus"
+        "Cinematic Battle of Jabiim (New Sith Wars) (1032 BBY) on the battlefield: armies, starfighters, and environmental details unique to this New Sith Wars engagement"
     ),
-    "sith-brotherhood-collapse": (
-        "Sith Brotherhood collapse on Ruusan ridge: rival Sith warlords turning on each other "
-        "as Jedi scouts observe from distant cliffs before the final thought bomb"
+    "battle-of-ruusan": (
+        "Cinematic Battle of Ruusan (1000 BBY) on the battlefield: armies, starfighters, and environmental details unique to this New Sith Wars engagement"
+    ),
+    "fifth-battle-of-ruusan": (
+        "Sith counteroffensive breaking Jedi perimeter defenses on Ruusan canyon passes with Brotherhood warlords fighting among themselves"
+    ),
+    "first-battle-of-ruusan": (
+        "Opening clash of the Ruusan campaign with Jedi Army of Light skirmishing Brotherhood of Darkness Sith infantry across misty Ruusan valleys"
+    ),
+    "fourth-battle-of-ruusan": (
+        "Close-quarters trench warfare between Sith and Jedi on Ruusan muddy front lines with artillery shells carving glowing craters"
     ),
     "reformation-of-the-jedi-order": (
-        "Reformation of the Jedi Order Ruusan aftermath: surviving Jedi knights gathering "
-        "younglings on a quiet hillside as Ruusan mists clear and new galactic peace begins"
+        "Cinematic Reformation of the Jedi Order (1000 BBY) on the battlefield: armies, starfighters, and environmental details unique to this New Sith Wars engagement"
     ),
-    # Cold War (First Order)
-    "destruction-of-hosnian-prime": (
-        "Destruction of Hosnian Prime: Starkiller Base superlaser beam splitting across Hosnian "
-        "system worlds with New Republic fleet disintegrating in silent orbital fireballs"
+    "rise-of-darth-bane": (
+        "Lone Sith survivor Darth Bane observing the thought bomb detonation from Ruusan cliffs and forging the Rule of Two amid violet Force energy"
     ),
-    "battle-of-starkiller-base": (
-        "Battle of Starkiller Base snow trenches: Resistance X-wings attacking oscillator "
-        "facility while Han Solo's team plants charges inside icy First Order megastructure"
+    "second-battle-of-ruusan": (
+        "Lord Kaan's Sith forces pushing Jedi lines back through Ruusan forests under perpetual storm clouds and crimson banners"
     ),
-    "battle-of-crait": (
-        "Battle of Crait salt flats: Resistance speeders leaving red dust trails skimming toward "
-        "First Order AT-M6 walkers as Luke Skywalker projects Force illusion on horizon"
+    "seventh-battle-of-ruusan": (
+        "Cinematic Seventh Battle of Ruusan (1000 BBY) on the battlefield: armies, starfighters, and environmental details unique to this New Sith Wars engagement"
     ),
-    "battle-of-exegol": (
-        "Battle of Exegol Sith Eternal fleet: thousands of Xyston-class Star Destroyers rising "
-        "from lightning-lit canyons as Lando's citizen fleet and Resistance starfighters arrive"
+    "sith-brotherhood-collapse": (
+        "Cinematic Sith Brotherhood Collapse (1000 BBY) on the battlefield: armies, starfighters, and environmental details unique to this New Sith Wars engagement"
     ),
-    "battle-of-takodana": (
-        "Battle of Takodana castle ruins: First Order TIE fighters strafing Maz Kanata's lakeside "
-        "fortress while Resistance reinforcements land in misty forest clearings"
+    "sith-lord-skirmish-on-tython": (
+        "Brotherhood of Darkness acolytes raiding Jedi outposts on Tython's mountain mesas before the Ruusan campaign escalates"
     ),
-    "battle-of-d-qar": (
-        "Battle of D'Qar Resistance base evacuation: First Order dreadnought bombardment of "
-        "orange desert outpost while Resistance bombers launch last-ditch trench attack"
+    "sixth-battle-of-ruusan": (
+        "Final approach to the thought bomb valley as Jedi and Sith armies converge on Ruusan underground caverns under grey storm skies"
     ),
-    # Great War (SWTOR)
-    "battle-of-corellia": (
-        "Battle of Corellia metropolitan warzone: Havoc Squad and Sith Warriors fighting through "
-        "Corellian corvette shipyards with burning sky bridges and orbital strikes"
+    "third-battle-of-ruusan": (
+        "Jedi Lord Hoth's Army of Light encircling Sith fortifications on Ruusan ridges before the thought bomb campaign begins"
     ),
-    "battle-of-alderaan-great-war": (
-        "Battle of Alderaan Great War castle siege: House Organa soldiers and Republic troopers "
-        "defending marble palaces against Sith Imperial invasion on green Alderaan highlands"
+    "thought-bomb-detonation": (
+        "Cinematic Thought Bomb Detonation (1000 BBY) on the battlefield: armies, starfighters, and environmental details unique to this New Sith Wars engagement"
     ),
-    "battle-of-ilum-great-war": (
-        "Battle of Ilum Great War ice plains: Republic and Imperial forces clashing near "
-        "exposed kyber crystal pillars on windswept frozen tundra under aurora skies"
+    # Stark Hyperspace War
+    "battle-of-primus-goluud": (
+        "Cinematic Battle of Primus Goluud (44 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Stark Hyperspace War engagement"
     ),
-    "battle-of-makeb": (
-        "Battle of Makeb hovering continent: Hutt Cartel mercenaries and Republic strike teams "
-        "fighting on Makeb's unstable floating mesas above toxic green cloud layers"
+    "battle-of-qika": (
+        "Cinematic Battle of Qika (44 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Stark Hyperspace War engagement"
     ),
-    "siege-of-kaon": (
-        "Siege of Kaon Sith factory world: Imperial troopers defending weapon forges while "
-        "Republic assault pods breach red-lit industrial hive spires"
+    "battle-of-troiken": (
+        "Cinematic Battle of Troiken (44 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Stark Hyperspace War engagement"
     ),
-    "fall-of-balmorra-great-war": (
-        "Fall of Balmorra Great War final offensive: colossal Imperial war droids crushing "
-        "Republic barricades outside Balmorran arms factories at dusk"
+    "blockade-of-thyferra": (
+        "Trade Federation Lucrehulk blockade sphere holding Thyferra bacta convoys hostage while Republic negotiators arrive under fighter escort"
+    ),
+    "coruscant-financial-crisis": (
+        "Cinematic Coruscant Financial Crisis (44 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Stark Hyperspace War engagement"
+    ),
+    "jedi-intervention-at-coruscant": (
+        "Jedi negotiators and Republic troops intervening in Bordal corporate riots sparked by Stark Hyperspace War economic collapse under senate spires"
+    ),
+    "naval-battle-over-troiken": (
+        "Republic Judicial Forces frigates exchanging turbolaser fire with Stark Combine cruisers above Troiken's ice world while troop shuttles descend to frozen caves"
+    ),
+    "siege-of-formos": (
+        "Stark Commercial Combine mercenaries defending Formos mining colonies against Trade Federation droid landing craft in dusty canyon firefights"
+    ),
+    "stark-alliance-collapse": (
+        "Cinematic Stark Alliance Collapse (44 BBY) on the battlefield: armies, starfighters, and environmental details unique to this Stark Hyperspace War engagement"
+    ),
+    "stark-hyperspace-ambush-at-taanab": (
+        "Corporate raiders ambushing Republic spice convoys near Taanab's agricultural orbital stations with hyperspace mines detonating among cargo freighters"
     ),
 }
 

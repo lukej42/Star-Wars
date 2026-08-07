@@ -1,0 +1,71 @@
+{
+  "dateRange": "19 BBY",
+  "overview": "The **Battle of Cato Neimoidia** (19 BBY) was a pivotal engagement of the **Clone Wars**, fought on or above **Cato Neimoidia**. Plo koon's starfighter wing patrolling bridge cities of cato neimoidia when clone wingmen open fire during order 66 over the neimoidian purse world.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Clone Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Cato Neimoidia within the broader **Clone Wars** campaign. Front-line reports describe plo koon's starfighter wing patrolling bridge cities of cato neimoidia when clone wingmen open fire during order 66 over the neimoidian purse world.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **19 BBY** places this conflict in the galactic timeline alongside other famous battles of the Clone Wars.",
+  "significance": "The Battle of Cato Neimoidia illustrates how the Clone Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Cato Neimoidia opens on Cato Neimoidia",
+    "Forces of the Clone Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    },
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Plo Koon",
+      "route": "jedi/plo-koon"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Jedi Purge",
+      "route": "wars-conflicts/battles/jedi-purge"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Cato Neimoidia",
+      "route": "planet/cato-neimoidia"
+    }
+  ],
+  "affiliations": [
+    "Clone Wars",
+    "Cato Neimoidia"
+  ],
+  "timeline": [
+    {
+      "era": "19 BBY",
+      "event": "Battle of Cato Neimoidia begins"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Aftermath of Battle of Cato Neimoidia recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "games": [
+    "Star Wars Battlefront II (2017)",
+    "Star Wars: Republic Commando"
+  ],
+  "books": []
+}

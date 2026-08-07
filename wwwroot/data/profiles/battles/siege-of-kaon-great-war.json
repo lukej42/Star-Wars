@@ -1,0 +1,53 @@
+{
+  "dateRange": "3641 BBY",
+  "overview": "The **Siege of Kaon (Great War)** (3641 BBY) was a pivotal engagement of the **Great War (SWTOR)**, fought on or above **Kaon**. Imperial troopers defending kaon weapon forges while republic assault pods breach red-lit industrial hive spires.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great War (SWTOR) in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Siege of Kaon (Great War) within the broader **Great War (SWTOR)** campaign. Front-line reports describe imperial troopers defending kaon weapon forges while republic assault pods breach red-lit industrial hive spires.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3641 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great War (SWTOR).",
+  "significance": "The Siege of Kaon (Great War) illustrates how the Great War (SWTOR) reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Siege of Kaon (Great War) opens on Kaon",
+    "Forces of the Great War (SWTOR) clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Sith Empire",
+      "route": "factions/sith-empire"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [
+    {
+      "text": "Siege of Kaon",
+      "route": "wars-conflicts/battles/siege-of-kaon"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Kaon",
+      "route": "planet/kaon"
+    }
+  ],
+  "affiliations": [
+    "Great War (SWTOR)",
+    "Kaon"
+  ],
+  "timeline": [
+    {
+      "era": "3641 BBY",
+      "event": "Siege of Kaon (Great War) begins"
+    },
+    {
+      "era": "3641 BBY",
+      "event": "Aftermath of Siege of Kaon (Great War) recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: The Old Republic"
+  ],
+  "books": []
+}

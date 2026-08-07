@@ -1,0 +1,52 @@
+{
+  "dateRange": "3996 BBY",
+  "overview": "The **Battle of Foerost** (3996 BBY) was a pivotal engagement of the **Great Sith War**, fought on or above **Foerost**. Krath and sith fleet capturing republic shipyards at foerost with sith sorcery storms rolling over orbital construction rings and fleeing jedi cruisers.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great Sith War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Foerost within the broader **Great Sith War** campaign. Front-line reports describe krath and sith fleet capturing republic shipyards at foerost with sith sorcery storms rolling over orbital construction rings and fleeing jedi cruisers.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3996 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great Sith War.",
+  "significance": "The Battle of Foerost illustrates how the Great Sith War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Foerost opens on Foerost",
+    "Forces of the Great Sith War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Exar Kun",
+      "route": "sith/exar-kun"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Foerost",
+      "route": "planet/foerost"
+    }
+  ],
+  "affiliations": [
+    "Great Sith War",
+    "Foerost"
+  ],
+  "timeline": [
+    {
+      "era": "3996 BBY",
+      "event": "Battle of Foerost begins"
+    },
+    {
+      "era": "3996 BBY",
+      "event": "Aftermath of Battle of Foerost recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [
+    "Star Wars: Tales of the Jedi"
+  ],
+  "games": [
+    "Star Wars: Knights of the Old Republic"
+  ],
+  "books": [
+    "Tales of the Jedi (Dark Horse Comics)"
+  ]
+}

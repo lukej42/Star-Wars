@@ -1,0 +1,57 @@
+{
+  "dateRange": "3963 BBY",
+  "overview": "The **Battle of Vanquo** (3963 BBY) was a pivotal engagement of the **Mandalorian Wars**, fought on or above **Vanquo**. Republic miners and jedi strike teams ambushing mandalorian convoys on vanquo's dusty mining mesas before the front collapses toward taris.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Mandalorian Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Vanquo within the broader **Mandalorian Wars** campaign. Front-line reports describe republic miners and jedi strike teams ambushing mandalorian convoys on vanquo's dusty mining mesas before the front collapses toward taris.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3963 BBY** places this conflict in the galactic timeline alongside other famous battles of the Mandalorian Wars.",
+  "significance": "The Battle of Vanquo illustrates how the Mandalorian Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Vanquo opens on Vanquo",
+    "Forces of the Mandalorian Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Mandalorians",
+      "route": "factions/mandalorians"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Revan",
+      "route": "jedi/revan"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Vanquo",
+      "route": "planet/vanquo"
+    }
+  ],
+  "affiliations": [
+    "Mandalorian Wars",
+    "Vanquo"
+  ],
+  "timeline": [
+    {
+      "era": "3963 BBY",
+      "event": "Battle of Vanquo begins"
+    },
+    {
+      "era": "3963 BBY",
+      "event": "Aftermath of Battle of Vanquo recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: Knights of the Old Republic",
+    "Star Wars: Knights of the Old Republic II"
+  ],
+  "books": [
+    "Star Wars: Knights of the Old Republic (comics)"
+  ]
+}

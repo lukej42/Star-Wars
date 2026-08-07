@@ -1,0 +1,81 @@
+{
+  "dateRange": "19 BBY",
+  "overview": "The **Siege of Mandalore** (19 BBY) was a pivotal engagement of the **Clone Wars**, fought on or above **Mandalore**. A decisive engagement of the clone wars.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Clone Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Siege of Mandalore within the broader **Clone Wars** campaign. Front-line reports describe a decisive engagement of the clone wars.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **19 BBY** places this conflict in the galactic timeline alongside other famous battles of the Clone Wars.",
+  "significance": "The Siege of Mandalore illustrates how the Clone Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Siege of Mandalore opens on Mandalore",
+    "Forces of the Clone Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    },
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Ahsoka Tano",
+      "route": "jedi/ahsoka-tano"
+    },
+    {
+      "label": "Character",
+      "value": "Bo-Katan Kryze",
+      "route": "characters/bo-katan-kryze"
+    },
+    {
+      "label": "Character",
+      "value": "Captain Rex",
+      "route": "characters/captain-rex"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Jedi Purge",
+      "route": "wars-conflicts/battles/jedi-purge"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Mandalore",
+      "route": "planet/mandalore"
+    }
+  ],
+  "affiliations": [
+    "Clone Wars",
+    "Mandalore"
+  ],
+  "timeline": [
+    {
+      "era": "19 BBY",
+      "event": "Siege of Mandalore begins"
+    },
+    {
+      "era": "19 BBY",
+      "event": "Aftermath of Siege of Mandalore recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "games": [
+    "Star Wars Battlefront II (2017)",
+    "Star Wars: Republic Commando"
+  ],
+  "books": []
+}

@@ -1,0 +1,48 @@
+{
+  "dateRange": "3641 BBY",
+  "overview": "The **Battle of Dromund Kaas (Great War)** (3641 BBY) was a pivotal engagement of the **Great War (SWTOR)**, fought on or above **Dromund Kaas**. Republic covert assault on dromund kaas imperial citadel spires during renewed war offensives with lightning storms over the sith capital.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great War (SWTOR) in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Dromund Kaas (Great War) within the broader **Great War (SWTOR)** campaign. Front-line reports describe republic covert assault on dromund kaas imperial citadel spires during renewed war offensives with lightning storms over the sith capital.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3641 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great War (SWTOR).",
+  "significance": "The Battle of Dromund Kaas (Great War) illustrates how the Great War (SWTOR) reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Dromund Kaas (Great War) opens on Dromund Kaas",
+    "Forces of the Great War (SWTOR) clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Sith Empire",
+      "route": "factions/sith-empire"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Dromund Kaas",
+      "route": "planet/dromund-kaas"
+    }
+  ],
+  "affiliations": [
+    "Great War (SWTOR)",
+    "Dromund Kaas"
+  ],
+  "timeline": [
+    {
+      "era": "3641 BBY",
+      "event": "Battle of Dromund Kaas (Great War) begins"
+    },
+    {
+      "era": "3641 BBY",
+      "event": "Aftermath of Battle of Dromund Kaas (Great War) recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: The Old Republic"
+  ],
+  "books": []
+}

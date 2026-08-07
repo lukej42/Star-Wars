@@ -1,0 +1,54 @@
+{
+  "dateRange": "1000 BBY",
+  "overview": "The **Sixth Battle of Ruusan** (1000 BBY) was a pivotal engagement of the **New Sith Wars**, fought on or above **Ruusan**. Final approach to the thought bomb valley as jedi and sith armies converge on ruusan underground caverns under grey storm skies.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the New Sith Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Sixth Battle of Ruusan within the broader **New Sith Wars** campaign. Front-line reports describe final approach to the thought bomb valley as jedi and sith armies converge on ruusan underground caverns under grey storm skies.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **1000 BBY** places this conflict in the galactic timeline alongside other famous battles of the New Sith Wars.",
+  "significance": "The Sixth Battle of Ruusan illustrates how the New Sith Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Sixth Battle of Ruusan opens on Ruusan",
+    "Forces of the New Sith Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Darth Bane",
+      "route": "sith/darth-bane"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Seventh Battle of Ruusan",
+      "route": "wars-conflicts/battles/seventh-battle-of-ruusan"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ruusan",
+      "route": "planet/ruusan"
+    }
+  ],
+  "affiliations": [
+    "New Sith Wars",
+    "Ruusan"
+  ],
+  "timeline": [
+    {
+      "era": "1000 BBY",
+      "event": "Sixth Battle of Ruusan begins"
+    },
+    {
+      "era": "1000 BBY",
+      "event": "Aftermath of Sixth Battle of Ruusan recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Darth Bane trilogy",
+    "Jedi vs. Sith (comics)"
+  ]
+}

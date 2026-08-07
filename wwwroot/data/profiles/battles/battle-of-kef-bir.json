@@ -1,0 +1,69 @@
+{
+  "dateRange": "35 ABY",
+  "overview": "The **Battle of Kef Bir** (35 ABY) was a pivotal engagement of the **Cold War**, fought on or above **Kef Bir**. Rey and resistance strike team navigating death star ii wreckage oceans on kef bir while first order treadspeeders chase them across rusted superstructure.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Cold War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Kef Bir within the broader **Cold War** campaign. Front-line reports describe rey and resistance strike team navigating death star ii wreckage oceans on kef bir while first order treadspeeders chase them across rusted superstructure.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **35 ABY** places this conflict in the galactic timeline alongside other famous battles of the Cold War.",
+  "significance": "The Battle of Kef Bir illustrates how the Cold War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Kef Bir opens on Kef Bir",
+    "Forces of the Cold War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Resistance",
+      "route": "factions/resistance"
+    },
+    {
+      "label": "Faction",
+      "value": "First Order",
+      "route": "factions/first-order"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Rey",
+      "route": "characters/rey"
+    },
+    {
+      "label": "Character",
+      "value": "Finn",
+      "route": "characters/finn"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Kef Bir",
+      "route": "planet/kef-bir"
+    }
+  ],
+  "affiliations": [
+    "Cold War",
+    "Kef Bir"
+  ],
+  "timeline": [
+    {
+      "era": "35 ABY",
+      "event": "Battle of Kef Bir begins"
+    },
+    {
+      "era": "35 ABY",
+      "event": "Aftermath of Battle of Kef Bir recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode VII — The Force Awakens",
+    "Star Wars: Episode VIII — The Last Jedi",
+    "Star Wars: Episode IX — The Rise of Skywalker"
+  ],
+  "series": [
+    "Star Wars Resistance",
+    "Star Wars: The Mandalorian"
+  ],
+  "games": [],
+  "books": []
+}

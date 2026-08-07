@@ -1,0 +1,71 @@
+{
+  "dateRange": "21 BBY",
+  "overview": "The **Battle of Malastare** (21 BBY) was a pivotal engagement of the **Clone Wars**, fought on or above **Malastare**. Republic electro-proton bomb detonating on malastare plains to collapse separatist droid ranks while the zillo beast awakens beneath the battlefield rubble.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Clone Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Malastare within the broader **Clone Wars** campaign. Front-line reports describe republic electro-proton bomb detonating on malastare plains to collapse separatist droid ranks while the zillo beast awakens beneath the battlefield rubble.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **21 BBY** places this conflict in the galactic timeline alongside other famous battles of the Clone Wars.",
+  "significance": "The Battle of Malastare illustrates how the Clone Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Malastare opens on Malastare",
+    "Forces of the Clone Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Republic",
+      "route": "factions/republic"
+    },
+    {
+      "label": "Faction",
+      "value": "Confederacy of Independent Systems",
+      "route": "factions/confederacy"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Anakin Skywalker",
+      "route": "jedi/anakin-skywalker"
+    },
+    {
+      "label": "Jedi",
+      "value": "Mace Windu",
+      "route": "jedi/mace-windu"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Malastare",
+      "route": "planet/malastare"
+    }
+  ],
+  "affiliations": [
+    "Clone Wars",
+    "Malastare"
+  ],
+  "timeline": [
+    {
+      "era": "21 BBY",
+      "event": "Battle of Malastare begins"
+    },
+    {
+      "era": "21 BBY",
+      "event": "Aftermath of Battle of Malastare recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode II — Attack of the Clones",
+    "Star Wars: Episode III — Revenge of the Sith"
+  ],
+  "series": [
+    "Star Wars: The Clone Wars",
+    "Star Wars: The Bad Batch"
+  ],
+  "games": [
+    "Star Wars Battlefront II (2017)",
+    "Star Wars: Republic Commando"
+  ],
+  "books": []
+}

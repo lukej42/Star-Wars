@@ -1,0 +1,79 @@
+{
+  "dateRange": "2 BBY",
+  "overview": "The **Battle of Atollon** (2 BBY) was a pivotal engagement of the **Galactic Civil War**, fought on or above **Atollon**. Grand admiral thrawn's seventh fleet blockading atollon with interdictor cruisers while phoenix squadron x-wings attempt to break through over coral mesas and chopper base.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Galactic Civil War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Atollon within the broader **Galactic Civil War** campaign. Front-line reports describe grand admiral thrawn's seventh fleet blockading atollon with interdictor cruisers while phoenix squadron x-wings attempt to break through over coral mesas and chopper base.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **2 BBY** places this conflict in the galactic timeline alongside other famous battles of the Galactic Civil War.",
+  "significance": "The Battle of Atollon illustrates how the Galactic Civil War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Atollon opens on Atollon",
+    "Forces of the Galactic Civil War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Rebel Alliance",
+      "route": "factions/rebel-alliance"
+    },
+    {
+      "label": "Faction",
+      "value": "Galactic Empire",
+      "route": "factions/empire"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Thrawn",
+      "route": "characters/thrawn"
+    },
+    {
+      "label": "Character",
+      "value": "Hera Syndulla",
+      "route": "characters/hera-syndulla"
+    },
+    {
+      "label": "Jedi",
+      "value": "Ezra Bridger",
+      "route": "jedi/ezra-bridger"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Atollon",
+      "route": "planet/atollon"
+    }
+  ],
+  "affiliations": [
+    "Galactic Civil War",
+    "Atollon"
+  ],
+  "timeline": [
+    {
+      "era": "2 BBY",
+      "event": "Battle of Atollon begins"
+    },
+    {
+      "era": "2 BBY",
+      "event": "Aftermath of Battle of Atollon recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode V — The Empire Strikes Back",
+    "Star Wars: Episode VI — Return of the Jedi",
+    "Rogue One: A Star Wars Story",
+    "Solo: A Star Wars Story"
+  ],
+  "series": [
+    "Star Wars Rebels",
+    "Star Wars: Andor"
+  ],
+  "games": [
+    "Star Wars Battlefront (2015)",
+    "Star Wars: Squadrons"
+  ],
+  "books": []
+}

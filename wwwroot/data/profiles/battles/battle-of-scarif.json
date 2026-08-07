@@ -1,0 +1,79 @@
+{
+  "dateRange": "0 BBY",
+  "overview": "The **Battle of Scarif** (0 BBY) was a pivotal engagement of the **Galactic Civil War**, fought on or above **Scarif**. A decisive engagement of the galactic civil war.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Galactic Civil War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Scarif within the broader **Galactic Civil War** campaign. Front-line reports describe a decisive engagement of the galactic civil war.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **0 BBY** places this conflict in the galactic timeline alongside other famous battles of the Galactic Civil War.",
+  "significance": "The Battle of Scarif illustrates how the Galactic Civil War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Scarif opens on Scarif",
+    "Forces of the Galactic Civil War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Rebel Alliance",
+      "route": "factions/rebel-alliance"
+    },
+    {
+      "label": "Faction",
+      "value": "Galactic Empire",
+      "route": "factions/empire"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Jyn Erso",
+      "route": "characters/jyn-erso"
+    },
+    {
+      "label": "Character",
+      "value": "Cassian Andor",
+      "route": "characters/cassian-andor"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Battle of Yavin",
+      "route": "wars-conflicts/battles/battle-of-yavin"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Scarif",
+      "route": "planet/scarif"
+    }
+  ],
+  "affiliations": [
+    "Galactic Civil War",
+    "Scarif"
+  ],
+  "timeline": [
+    {
+      "era": "0 BBY",
+      "event": "Battle of Scarif begins"
+    },
+    {
+      "era": "0 BBY",
+      "event": "Aftermath of Battle of Scarif recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode V — The Empire Strikes Back",
+    "Star Wars: Episode VI — Return of the Jedi",
+    "Rogue One: A Star Wars Story",
+    "Solo: A Star Wars Story"
+  ],
+  "series": [
+    "Star Wars Rebels",
+    "Star Wars: Andor"
+  ],
+  "games": [
+    "Star Wars Battlefront (2015)",
+    "Star Wars: Squadrons"
+  ],
+  "books": []
+}

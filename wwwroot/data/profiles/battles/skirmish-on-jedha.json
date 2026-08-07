@@ -1,0 +1,74 @@
+{
+  "dateRange": "0 BBY",
+  "overview": "The **Skirmish on Jedha** (0 BBY) was a pivotal engagement of the **Galactic Civil War**, fought on or above **Jedha**. Saw gerrera's partisans ambushing imperial patrols in jedha city's desert shrines while kyber crystal convoys move toward the death star under crimson kyber-lit skies.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Galactic Civil War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Skirmish on Jedha within the broader **Galactic Civil War** campaign. Front-line reports describe saw gerrera's partisans ambushing imperial patrols in jedha city's desert shrines while kyber crystal convoys move toward the death star under crimson kyber-lit skies.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **0 BBY** places this conflict in the galactic timeline alongside other famous battles of the Galactic Civil War.",
+  "significance": "The Skirmish on Jedha illustrates how the Galactic Civil War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Skirmish on Jedha opens on Jedha",
+    "Forces of the Galactic Civil War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Galactic Empire",
+      "route": "factions/empire"
+    },
+    {
+      "label": "Faction",
+      "value": "Rebel Alliance",
+      "route": "factions/rebel-alliance"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Saw Gerrera",
+      "route": "characters/saw-gerrera"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Battle of Scarif",
+      "route": "wars-conflicts/battles/battle-of-scarif"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Jedha",
+      "route": "planet/jedha"
+    }
+  ],
+  "affiliations": [
+    "Galactic Civil War",
+    "Jedha"
+  ],
+  "timeline": [
+    {
+      "era": "0 BBY",
+      "event": "Skirmish on Jedha begins"
+    },
+    {
+      "era": "0 BBY",
+      "event": "Aftermath of Skirmish on Jedha recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode IV — A New Hope",
+    "Star Wars: Episode V — The Empire Strikes Back",
+    "Star Wars: Episode VI — Return of the Jedi",
+    "Rogue One: A Star Wars Story",
+    "Solo: A Star Wars Story"
+  ],
+  "series": [
+    "Star Wars Rebels",
+    "Star Wars: Andor"
+  ],
+  "games": [
+    "Star Wars Battlefront (2015)",
+    "Star Wars: Squadrons"
+  ],
+  "books": []
+}

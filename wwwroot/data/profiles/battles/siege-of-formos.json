@@ -1,0 +1,48 @@
+{
+  "dateRange": "44 BBY",
+  "overview": "The **Siege of Formos** (44 BBY) was a pivotal engagement of the **Stark Hyperspace War**, fought on or above **Formos**. Stark commercial combine mercenaries defending formos mining colonies against trade federation droid landing craft in dusty canyon firefights.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Stark Hyperspace War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Siege of Formos within the broader **Stark Hyperspace War** campaign. Front-line reports describe stark commercial combine mercenaries defending formos mining colonies against trade federation droid landing craft in dusty canyon firefights.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **44 BBY** places this conflict in the galactic timeline alongside other famous battles of the Stark Hyperspace War.",
+  "significance": "The Siege of Formos illustrates how the Stark Hyperspace War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Siege of Formos opens on Formos",
+    "Forces of the Stark Hyperspace War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Trade Federation",
+      "route": "factions/trade-federation"
+    }
+  ],
+  "majorCharacters": [],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Formos",
+      "route": "planet/formos"
+    }
+  ],
+  "affiliations": [
+    "Stark Hyperspace War",
+    "Formos"
+  ],
+  "timeline": [
+    {
+      "era": "44 BBY",
+      "event": "Siege of Formos begins"
+    },
+    {
+      "era": "44 BBY",
+      "event": "Aftermath of Siege of Formos recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Republic — Stark Hyperspace War (comics)"
+  ]
+}

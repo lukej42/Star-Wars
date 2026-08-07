@@ -1,0 +1,49 @@
+{
+  "dateRange": "1018 BBY",
+  "overview": "The **Sith Lord Skirmish on Tython** (1018 BBY) was a pivotal engagement of the **New Sith Wars**, fought on or above **Tython**. Brotherhood of darkness acolytes raiding jedi outposts on tython's mountain mesas before the ruusan campaign escalates.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the New Sith Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Sith Lord Skirmish on Tython within the broader **New Sith Wars** campaign. Front-line reports describe brotherhood of darkness acolytes raiding jedi outposts on tython's mountain mesas before the ruusan campaign escalates.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **1018 BBY** places this conflict in the galactic timeline alongside other famous battles of the New Sith Wars.",
+  "significance": "The Sith Lord Skirmish on Tython illustrates how the New Sith Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Sith Lord Skirmish on Tython opens on Tython",
+    "Forces of the New Sith Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Darth Bane",
+      "route": "sith/darth-bane"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Tython",
+      "route": "planet/tython"
+    }
+  ],
+  "affiliations": [
+    "New Sith Wars",
+    "Tython"
+  ],
+  "timeline": [
+    {
+      "era": "1018 BBY",
+      "event": "Sith Lord Skirmish on Tython begins"
+    },
+    {
+      "era": "1018 BBY",
+      "event": "Aftermath of Sith Lord Skirmish on Tython recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Darth Bane trilogy",
+    "Jedi vs. Sith (comics)"
+  ]
+}

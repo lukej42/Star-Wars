@@ -1,0 +1,42 @@
+{
+  "dateRange": "6899 BBY",
+  "overview": "The **Sith Temple Construction on Korriban** (6899 BBY) was a pivotal engagement of the **Hundred-Year Darkness**, fought on or above **Korriban**. Massassi slaves raising monolithic sith temples on korriban ridgelines while dark jedi architects channel force energy into stone foundations.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Hundred-Year Darkness in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Sith Temple Construction on Korriban within the broader **Hundred-Year Darkness** campaign. Front-line reports describe massassi slaves raising monolithic sith temples on korriban ridgelines while dark jedi architects channel force energy into stone foundations.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **6899 BBY** places this conflict in the galactic timeline alongside other famous battles of the Hundred-Year Darkness.",
+  "significance": "The Sith Temple Construction on Korriban illustrates how the Hundred-Year Darkness reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Sith Temple Construction on Korriban opens on Korriban",
+    "Forces of the Hundred-Year Darkness clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Korriban",
+      "route": "korriban"
+    }
+  ],
+  "affiliations": [
+    "Hundred-Year Darkness",
+    "Korriban"
+  ],
+  "timeline": [
+    {
+      "era": "6899 BBY",
+      "event": "Sith Temple Construction on Korriban begins"
+    },
+    {
+      "era": "6899 BBY",
+      "event": "Aftermath of Sith Temple Construction on Korriban recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Tales of the Jedi — The Golden Age of the Sith"
+  ]
+}

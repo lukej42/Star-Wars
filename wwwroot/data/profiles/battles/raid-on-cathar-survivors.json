@@ -1,0 +1,62 @@
+{
+  "dateRange": "3963 BBY",
+  "overview": "The **Raid on Cathar Survivors** (3963 BBY) was a pivotal engagement of the **Mandalorian Wars**, fought on or above **Cathar**. Mandalorian extermination squads hunting remaining cathar refugees across coastal cliffs years after the devastation of cathar under blood-red skies.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Mandalorian Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Raid on Cathar Survivors within the broader **Mandalorian Wars** campaign. Front-line reports describe mandalorian extermination squads hunting remaining cathar refugees across coastal cliffs years after the devastation of cathar under blood-red skies.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3963 BBY** places this conflict in the galactic timeline alongside other famous battles of the Mandalorian Wars.",
+  "significance": "The Raid on Cathar Survivors illustrates how the Mandalorian Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Raid on Cathar Survivors opens on Cathar",
+    "Forces of the Mandalorian Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Mandalorians",
+      "route": "factions/mandalorians"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Jedi",
+      "value": "Revan",
+      "route": "jedi/revan"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Devastation of Cathar",
+      "route": "wars-conflicts/battles/devastation-of-cathar"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Cathar",
+      "route": "planet/cathar"
+    }
+  ],
+  "affiliations": [
+    "Mandalorian Wars",
+    "Cathar"
+  ],
+  "timeline": [
+    {
+      "era": "3963 BBY",
+      "event": "Raid on Cathar Survivors begins"
+    },
+    {
+      "era": "3963 BBY",
+      "event": "Aftermath of Raid on Cathar Survivors recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [
+    "Star Wars: Knights of the Old Republic",
+    "Star Wars: Knights of the Old Republic II"
+  ],
+  "books": [
+    "Star Wars: Knights of the Old Republic (comics)"
+  ]
+}

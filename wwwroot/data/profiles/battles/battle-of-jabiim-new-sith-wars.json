@@ -1,0 +1,49 @@
+{
+  "dateRange": "1032 BBY",
+  "overview": "The **Battle of Jabiim (New Sith Wars)** (1032 BBY) was a pivotal engagement of the **New Sith Wars**, fought on or above **Jabiim**. A decisive engagement of the new sith wars.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the New Sith Wars in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Jabiim (New Sith Wars) within the broader **New Sith Wars** campaign. Front-line reports describe a decisive engagement of the new sith wars.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **1032 BBY** places this conflict in the galactic timeline alongside other famous battles of the New Sith Wars.",
+  "significance": "The Battle of Jabiim (New Sith Wars) illustrates how the New Sith Wars reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Jabiim (New Sith Wars) opens on Jabiim",
+    "Forces of the New Sith Wars clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Darth Bane",
+      "route": "sith/darth-bane"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Jabiim",
+      "route": "planet/jabiim"
+    }
+  ],
+  "affiliations": [
+    "New Sith Wars",
+    "Jabiim"
+  ],
+  "timeline": [
+    {
+      "era": "1032 BBY",
+      "event": "Battle of Jabiim (New Sith Wars) begins"
+    },
+    {
+      "era": "1032 BBY",
+      "event": "Aftermath of Battle of Jabiim (New Sith Wars) recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [],
+  "games": [],
+  "books": [
+    "Star Wars: Darth Bane trilogy",
+    "Jedi vs. Sith (comics)"
+  ]
+}

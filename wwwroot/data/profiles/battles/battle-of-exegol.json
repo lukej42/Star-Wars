@@ -1,0 +1,79 @@
+{
+  "dateRange": "35 ABY",
+  "overview": "The **Battle of Exegol** (35 ABY) was a pivotal engagement of the **Cold War**, fought on or above **Exegol**. A decisive engagement of the cold war.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Cold War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Battle of Exegol within the broader **Cold War** campaign. Front-line reports describe a decisive engagement of the cold war.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **35 ABY** places this conflict in the galactic timeline alongside other famous battles of the Cold War.",
+  "significance": "The Battle of Exegol illustrates how the Cold War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Battle of Exegol opens on Exegol",
+    "Forces of the Cold War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [
+    {
+      "label": "Faction",
+      "value": "Resistance",
+      "route": "factions/resistance"
+    },
+    {
+      "label": "Faction",
+      "value": "First Order",
+      "route": "factions/first-order"
+    }
+  ],
+  "majorCharacters": [
+    {
+      "label": "Character",
+      "value": "Rey",
+      "route": "characters/rey"
+    },
+    {
+      "label": "Character",
+      "value": "Finn",
+      "route": "characters/finn"
+    },
+    {
+      "label": "Character",
+      "value": "Poe Dameron",
+      "route": "characters/poe-dameron"
+    },
+    {
+      "label": "Sith",
+      "value": "Darth Sidious",
+      "route": "sith/darth-sidious"
+    }
+  ],
+  "majorEvents": [],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Exegol",
+      "route": "planet/exegol"
+    }
+  ],
+  "affiliations": [
+    "Cold War",
+    "Exegol"
+  ],
+  "timeline": [
+    {
+      "era": "35 ABY",
+      "event": "Battle of Exegol begins"
+    },
+    {
+      "era": "35 ABY",
+      "event": "Aftermath of Battle of Exegol recorded in New Republic archives"
+    }
+  ],
+  "films": [
+    "Star Wars: Episode VII — The Force Awakens",
+    "Star Wars: Episode VIII — The Last Jedi",
+    "Star Wars: Episode IX — The Rise of Skywalker"
+  ],
+  "series": [
+    "Star Wars Resistance",
+    "Star Wars: The Mandalorian"
+  ],
+  "games": [],
+  "books": []
+}

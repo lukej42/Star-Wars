@@ -1,0 +1,57 @@
+{
+  "dateRange": "3996 BBY",
+  "overview": "The **Assault on the Ossus Great Library** (3996 BBY) was a pivotal engagement of the **Great Sith War**, fought on or above **Ossus**. Jedi evacuating holocrons from ossus great library mesas as sith warships bombard mountain archives and naga sadow's forces storm terraced campuses.\n\nArchives record this battle across saga films, animated series, Knights of the Old Republic, Old Sith Empire chronicles, and expanded universe sources — anchoring the Great Sith War in both cinematic canon and deep galactic history.",
+  "history": "Military historians of the New Republic classify the Assault on the Ossus Great Library within the broader **Great Sith War** campaign. Front-line reports describe jedi evacuating holocrons from ossus great library mesas as sith warships bombard mountain archives and naga sadow's forces storm terraced campuses.\n\nCommanders on both sides leveraged local terrain, orbital support, and Force-sensitive operatives where available. The engagement's outcome shifted regional control and fed into later battles documented across the same war.\n\nFor chronology enthusiasts, **3996 BBY** places this conflict in the galactic timeline alongside other famous battles of the Great Sith War.",
+  "significance": "The Assault on the Ossus Great Library illustrates how the Great Sith War reshaped the galaxy — through combined arms warfare, political betrayal, and the eternal struggle between light and dark. Its legacy persists in memorials, veteran accounts, and holodramas spanning nine saga films and decades of tie-in fiction.",
+  "notableEvents": [
+    "Assault on the Ossus Great Library opens on Ossus",
+    "Forces of the Great Sith War clash in a decisive engagement",
+    "Orbital and ground elements coordinate combined assault",
+    "Aftermath reshapes the regional front of the war"
+  ],
+  "keyFactions": [],
+  "majorCharacters": [
+    {
+      "label": "Sith",
+      "value": "Exar Kun",
+      "route": "sith/exar-kun"
+    }
+  ],
+  "majorEvents": [
+    {
+      "text": "Battle of Ossus",
+      "route": "wars-conflicts/battles/battle-of-ossus"
+    }
+  ],
+  "planets": [
+    {
+      "label": "Planet",
+      "value": "Ossus",
+      "route": "planet/ossus"
+    }
+  ],
+  "affiliations": [
+    "Great Sith War",
+    "Ossus"
+  ],
+  "timeline": [
+    {
+      "era": "3996 BBY",
+      "event": "Assault on the Ossus Great Library begins"
+    },
+    {
+      "era": "3996 BBY",
+      "event": "Aftermath of Assault on the Ossus Great Library recorded in New Republic archives"
+    }
+  ],
+  "films": [],
+  "series": [
+    "Star Wars: Tales of the Jedi"
+  ],
+  "games": [
+    "Star Wars: Knights of the Old Republic"
+  ],
+  "books": [
+    "Tales of the Jedi (Dark Horse Comics)"
+  ]
+}
