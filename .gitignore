@@ -60,3 +60,12 @@ secrets.json
 
 # Image assets (served from Azure Blob Storage; scripts write here before upload)
 wwwroot/images/
+assets/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Nested build output
+Server/bin/
+Server/obj/
